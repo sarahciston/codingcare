@@ -1,0 +1,5 @@
+title: coding care
+theme: document
+subdomain: codingcare
+badge: show
+description: every dissertation starts somewhere <br>bless this mess <br><br>[get this in your inbox]() <br>[buy me a coffee, buy you a t-shirt](https://www.bonfire.com/store/coding-care/) <br>[buy your pal a zine](https://queerlovezine.com)
