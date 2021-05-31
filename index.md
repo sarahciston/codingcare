@@ -1,12 +1,16 @@
-# Your Small Victory
+### hi, you've reached coding care
+here is where I'll be tinkering for a few years with a dissertation.
 
-## Welcome to Small Victories
-Make a website out of the contents of a Dropbox folder. No servers, no uploading, no CMS; just the tools you already have. Easily customizable and free.
+!["I can't tonight, I'm going online"](_images/goingonline.jpg)
 
-### The document theme
+### fantasy table of contents
+1. Codes for Communing: Creative Code Collective, Mutual Aid
+2. Codes for Mourning: Platform, Threnodies, Fraying
+3. Codes for Desiring: ecstatic codes
+4. Codes for Queering / Codes to Queer
+5. Codes for Disappearing, to Disappear
+6. Codes for Essaying / Exploration/Investigation/Unknowing, Code Obscura see also...
+7. Codes for Healing, Saving, protecting, hiding, helping, hearing, healing each other/together
+*errata... init, name, set, get*
 
-This is what a new Small Victories website looks like using the document theme. Drop markdown files into your site folder and they will be converted into html pages.
-
-You can find this file in your site folder, it’s called index.md.
-
-The index.md file is automatically rendered at your sites root. All other markdown files are automatically added as links in the sidebar.
+![](favicon.png)
