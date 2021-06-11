@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: lavender;
+  font-family: Roboto Mono, monospace;
+}
+
+a, a:visited {
+  color: darkorange;
+  text-decoration-line: none;
+}
+
+a:hover, a:active {
+  text-decoration-line: underline;
+}
+
+
+
+/*
+  Mobile First! Put desktop styles here
+*/
+
+@media screen and (min-width: 768px){
+  body {
+    background: lavender;
+  }
+}

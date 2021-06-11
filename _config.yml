@@ -1,1 +1,20 @@
 theme: jekyll-theme-minimal
+
+title: coding.care
+description: every dissertation starts somewhere | bless this mess 
+
+
+# logo: 
+# show_downloads: 
+# google_analytics: 
+
+links: 
+  "Intersectional AI Toolkit": 
+      - "https://sarahciston.github.io/intersectionalai"
+  "Tethered.Network": 
+    - "https://sarahciston.github.io/tetherednetwork"
+  "Portfolio": 
+    - "https://sarahciston.github.io"
+links_new_tab: true
+
+
