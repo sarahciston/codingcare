@@ -23,31 +23,13 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <nav class="nav">
-          {% unless page.url == "/" %}
-                <ol class="breadcrumb-nav-list">
-                  <li class="breadcrumb-nav-list-item"><a href="{{ page.url }}">{{ page.title }}</a></li>
-                    <li class="breadcrumb-nav-list-item"><a href="{{ page.first_level_url }}">{{ page.parent }}</a></li>
-                    <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
-                </ol>
-          {% endunless %}
-      
-        {% if site.links %}
-          <!-- <ul class="nav-list"> -->
-            {% for link in site.links %}
-              <!-- <li class="list-item"> -->
-              <div class="outside-link">
-                <a href="{{ link.last }}" class="site-button"
-                  {% if site.links_new_tab %}
-                  target="_blank" rel="noopener noreferrer"
-                  {% endif %}
-                >
-                  {{ link.first }}
-                </a>
-              </div>
-              <!-- </li> -->
+          <div class="nav-list">
+            {% for pg in site.pages %}
+              <div class="breadcrumb-nav-list-item"><a href="{{ pg.url }}">{{ pg.title }}</a></div>
             {% endfor %}
-          <!-- </ul> -->
-        {% endif %}
+          </div>
+
+          <hr style="width:10%; text-align:left; margin-left:0" >
 
       </nav>
 
@@ -65,14 +47,31 @@
 
       </section>
       <footer>
+        {% if site.links %}
+          <!-- <ul class="nav-list"> -->
+            {% for link in site.links %}
+              <!-- <li class="list-item"> -->
+              <div class="outside-link"><small>
+                <a href="{{ link.last }}" class="site-button"
+                  {% if site.links_new_tab %}
+                  target="_blank" rel="noopener noreferrer"
+                  {% endif %}
+                >
+                  {{ link.first }}
+                </a></small>
+              </div>
+              <!-- </li> -->
+            {% endfor %}
+          <!-- </ul> -->
+        {% endif %}
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
         {% if site.github.is_project_page %}
-        <p class="view"><small><a href="{{ site.github.repository_url }}">View on GitHub</a> <br>
-        This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+        <p class="view"><small><a href="{{ site.github.repository_url }}">View code on GitHub</a> <br>
+        <!-- This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p> -->
         {% endif %}
       </footer>
     </div>

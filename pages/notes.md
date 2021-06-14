@@ -7,3 +7,4 @@ nav_order: 2
 ### 31.05.21, disappeared
 lately mourning depreciation of tools, dependencies, the way time organically breaks down the elements I taped together rickety carefully, to create something. I came to write this down to expand on later and found my organization frenzy missed copying documents over and lost the entirety of this document, starting again blank. sometimes mourning is a  carcass of a project's broken link, sometimes it is a blankness. i didn't git commit enough, i toggled between calling this notes and _notes and there is no perfect system for keeping everything and even if there were it would keep us from seeing anything, the map cannot be the territory or else useless. 
 i think all that was lost was yesterday's attempt to write about the 34th attempt to find a perfect platform, and some reorganized notes from prior attempts. how to be okay with all the tiny losses along the way? Elizabeth Bishop never quite answered that one for us.
+
