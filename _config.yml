@@ -9,8 +9,10 @@ description: every dissertation starts somewhere | bless this mess
 # google_analytics: 
 
 links: 
+  "Get this dissertation in your Inbox (TK)":
+    - "TK"
   "Intersectional AI Toolkit": 
-      - "https://sarahciston.github.io/intersectionalai"
+    - "https://sarahciston.github.io/intersectionalai"
   "Tethered.Network": 
     - "https://sarahciston.github.io/tetherednetwork"
   "Get your pal a QUEER LOVE zine": 
