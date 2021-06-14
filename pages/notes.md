@@ -1,7 +1,8 @@
 ---
-# layout: page
+# layout: post
 title: notes
 nav_order: 2
+date: 31.05.2021
 ---
 
 ### 31.05.21, disappeared

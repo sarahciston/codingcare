@@ -25,8 +25,8 @@
         <nav class="nav">
           <div class="nav-list">
             {% assign pgs = site.pages | sort: "nav_order" %}
-            {% for pg in pgs | sort: nav_order %}
-              <div class="breadcrumb-nav-list-item"><a href="{{ pg.url }}">{{ pg.title }}</a></div>
+            {% for pg in pgs %}
+              <div class="breadcrumb-nav-list-item"><a href="{{ pg.url | absolute_url }}">{{ pg.title }}</a></div>
             {% endfor %}
           </div>
 

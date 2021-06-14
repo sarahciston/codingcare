@@ -1,5 +1,5 @@
 ---
-# layout: page
+# layout: post
 title: test
 nav_order: 2
 ---
