@@ -3,9 +3,12 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css2?family=Almendra+Display&family=Anaheim&display=swap');
+
 body {
   background-color: lavender;
-  font-family: Roboto Mono, monospace;
+  // font-family: Roboto Mono, monospace;
+  font-family: 'Anaheim', monospace;
 }
 
 a, a:visited {
@@ -17,7 +20,9 @@ a:hover, a:active {
   text-decoration-line: underline;
 }
 
-
+h1, h2, h3 {
+  font-family: 'Almendra Display', cursive;
+}
 
 /*
   Mobile First! Put desktop styles here
