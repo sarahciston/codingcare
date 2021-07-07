@@ -7,6 +7,12 @@ published: true
 layout: post
 ---
 
+### 02.07.21, critical-creative approach & the lyric code essay
+
+who is writing this hybrid? there's the lyric essay from the creative writing side but where is this represented from the scholarly side, that vulnerability? Alexis Pauline Gumbs is the example I can think of, adrienne marie brown—and a few innovative folks holding their own in both spaces... outliers, perhaps, not a blending accepted as it now is in lyric essay, not a section of academic journals per se. we have critical \_\_\_ studies, and creative \_\_\_, but little critical-creative \_\_\_. is there a case to be made for this? 
+
+another layer to add: code. lyric code essays? lyric gif code essays and lyric data code essays? I am imagining the scholarly object that leans lyric and exposes its code layer as part of its meaning, exposes its vulnerable human and machinic modes of production and process, its desires for care and its communities of influence and impact.  
+
 ### 26.06.21, orders of operation
 
 questioning this flail main strategy of procrastination-fueled ways of doing. wherein i work on the third item from the top of the list of urgency. wherein i make notes and gestures of ideas and then discover them elsewhere. trying to remember there are no new ideas but also honor other people's separate synchronous efforts. just a pdf hoarder and a collector of half strategies and maybe it's nothing if i do nothing with it? this three-layered beast is definitely tentacled, repeating herself, not sure where to put things, just trying to push through and get some writing out rather than worry about tone or placement to the point of doing nothing. echoing the reminder PERFECTIONISM IS WHITE SUPREMACY. raised steeped in the stuff. therefore maybe it's my job to flail, it's part of the dismantling. or maybe it's me taking up too much space, claiming something that doesn't need to be mine? 
@@ -19,6 +25,7 @@ lately mourning depreciation of tools, dependencies, the way time organically br
 i think all that was lost was yesterday's attempt to write about the 34th attempt to find a perfect platform, and some reorganized notes from prior attempts. how to be okay with all the tiny losses along the way? Elizabeth Bishop never quite answered that one for us.
 
 ### 27.04.21, process
+
 requires a starting point, a leap into the middle, warp and weft. Maria said start at the very beginning but it's too late for that, and trying to fake a perfect very beginning has got me all muddled in the performance of process instead of showing its actual messiness, its seams. And so it seems important first to discuss the ways I've been unable to start, leaping from platform to platform, behind the scenes, learning again and again how to start—just so, so that it's perfect, so that you (who?) will love what is said (me) and everything will be (different?), language being executable and all, speech acts—
 
 I am in the thick of it. Searching for the perfect way, forgetting that perfectionism is white supremacy and the most important learning is unlearning. Here I am trying to find new forms, wayfinding.
