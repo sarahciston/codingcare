@@ -7,6 +7,13 @@ published: true
 layout: post
 ---
 
+### 17.11.21, 
+
+
+### 03.10.21, "making things, practicing emptiness"
+what form should the final object take? "final" "form" "object" 
+after Berlin I am really into (the idea of) making again. seeing the material of the zines be the part of the Intersectional AI Toolkit that comes alive for folks. to want to reorient practice around materials and people. less around the arguments and ideas than the ineffables (immaterial) that can be conjured through the stuff stuff. it probably needs to be a small edition of book/s  
+
 ### 02.07.21, critical-creative approach & the lyric code essay
 
 who is writing this hybrid? there's the lyric essay from the creative writing side but where is this represented from the scholarly side, that vulnerability? Alexis Pauline Gumbs is the example I can think of, adrienne marie brown—and a few innovative folks holding their own in both spaces... outliers, perhaps, not a blending accepted as it now is in lyric essay, not a section of academic journals per se. we have critical \_\_\_ studies, and creative \_\_\_, but little critical-creative \_\_\_. is there a case to be made for this? 
