@@ -7,8 +7,31 @@ published: true
 layout: post
 ---
 
-### 17.11.21, 
+### 03.01.22
+challenges of the web3/semantics at large: vastness, vagueness, uncertainty, inconsistency, deceit
+a semantic web layer cake
+the desire to be understood by machines, to be held by database
 
+
+### 02.01.22
+previously: CODING.CARE: Crafting New Worlds through Queer Transformative Programming
+CODING.CARE: A Guidebook to Critical-Creative TechnoCraft for Transforming Worlds
+
+[for Changing/Healing Worlds]
+Crafting New Worlds through Queer Transformative Programming 
+
+**Coding.Care: A Guidebook for Trans*formative TechnoCraft**
+Coding.Care: A Guidebook for Queer Trans*formative Programming and Critical-Creative Techno-Craft
+
+technocraft / technecraft / technopoesis
+
+A workbook, guidebook, field guide
+A critical making that can hold 
+BOTH politics of materials and embodied politics
+AND critical theory-practice of working with ideas and interpretive modes 
+
+alchemizing, apothecary, regenerating, mutating, reimagining
+I keep writing caring.codes instead
 
 ### 03.10.21, "making things, practicing emptiness"
 what form should the final object take? "final" "form" "object" 

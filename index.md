@@ -4,7 +4,7 @@ title: index
 nav_order: 1 
 ---
 
-# CODING.CARE: Crafting New Worlds through Queer Transformative Programming
+# CODING.CARE: A Guidebook for Trans*formative TechnoCraft
 
 ### hi, you've reached coding.care
 here is where I'll be tinkering for a few years with a dissertation.
