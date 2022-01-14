@@ -23,6 +23,8 @@ links:
     - "https://sarahciston.github.io"
 links_new_tab: true
 
+# how do i indicate other folders to include in jekyll conversion again
+
 ## prose.io config
 prose:
   rooturl: 'posts'

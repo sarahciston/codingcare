@@ -114,8 +114,6 @@ What is programming in ways that reimagine how we have already been programmed? 
 * deep interdisciplinarity
 * toolkit >>"space of 'instruction, contingency, action, and alternative engagement' (Gabrys 20XX, 92)"
 
-
-
 ## bibliography & mediography
 
 
