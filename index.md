@@ -11,5 +11,5 @@ here is where I'll be tinkering for a few years with a dissertation.
 
 !["I can't tonight, I'm going online"](assets/img/goingonline.jpg)
 
-*errata... init, name, set, get*
+*errata... init(), name(), set(), get()*
 
