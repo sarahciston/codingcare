@@ -7,11 +7,13 @@ published: true
 layout: post
 ---
 
+### 23.01.22
+
+
 ### 03.01.22
 challenges of the web3/semantics at large: vastness, vagueness, uncertainty, inconsistency, deceit
 a semantic web layer cake
 the desire to be understood by machines, to be held by database
-
 
 ### 02.01.22
 previously: CODING.CARE: Crafting New Worlds through Queer Transformative Programming

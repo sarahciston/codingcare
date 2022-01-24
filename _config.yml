@@ -9,16 +9,16 @@ author: Sarah Ciston
 # google_analytics: 
 
 links: 
-  "Get this dissertation in your Inbox (TK)":
-    - "mailgun-setup-TK"
+  # "Get this dissertation in your Inbox (TK)":
+    # - "mailgun-setup-TK"
   "Intersectional AI Toolkit": 
     - "https://sarahciston.github.io/intersectionalai"
   "Tethered.Network": 
     - "https://sarahciston.github.io/tethered"
   "Get your pal a QUEER LOVE zine": 
     - "https://queerlovezine.com/"
-  "Get yourself a shirt":
-    - "https://www.bonfire.com/store/coding-care/"
+  # "Get yourself a shirt":
+    # - "https://www.bonfire.com/store/coding-care/"
   "More projects": 
     - "https://sarahciston.github.io"
 links_new_tab: true

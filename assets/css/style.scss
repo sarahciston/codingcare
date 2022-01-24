@@ -3,12 +3,17 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Almendra+Display&family=Anaheim&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Almendra+Display&family=Anaheim&display=swap');
+@import url("https://use.typekit.net/yno1izp.css");
 
 body {
   background-color: lavender;
   // font-family: Roboto Mono, monospace;
-  font-family: 'Anaheim', monospace;
+  //font-family: 'Anaheim', monospace;
+  font-family: 'mr-eaves-sans', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
 }
 
 a, a:visited {
@@ -17,11 +22,22 @@ a, a:visited {
 }
 
 a:hover, a:active {
+  color: darkslateblue;
+  font-weight: 500;
   text-decoration-line: underline;
 }
 
 h1, h2, h3 {
-  font-family: 'Almendra Display', cursive;
+  // font-family: 'Almendra Display', cursive;
+  //font-family: 'abolition', sans-serif;
+  color: darkslateblue;
+  font-family: 'rift', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 2em;
 }
 
 /*
