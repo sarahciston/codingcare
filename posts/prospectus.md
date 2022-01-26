@@ -4,8 +4,6 @@ title: prospectus
 nav_order: 1
 ---
 
-{::options parse_block_html="true" parse_span_html="true" /}
-
 ## CODING.CARE: A Guidebook for Trans*formative TechnoCraft
 
 - one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
