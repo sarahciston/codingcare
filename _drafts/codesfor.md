@@ -4,8 +4,6 @@ title: codes for disappearing
 nav_order: 11
 ---
 
-{::options parse_block_html="true" parse_span_html="true" /}
-
 # Codes for disappearing/isolating, perfecting: Scratching at the walls
 ## Rebecca Horn's "Berlin, 1974" and COVID-19 isolation, now
 
@@ -55,6 +53,14 @@ codes for disappearing, isolating, perfecting, sequestering, sequelae. what is t
 how we want to draw out features from a set to make rules to control and identify people. we characterize to tell stories and make new characters, which is useful (storytelling, general to specific). but when we apply stereotypes to existing people it's dangerous (going the wrong direction, specific to general, AI). an individual contains multitude of features, is not reducible.
 
 This is an essay about LIMITS. (which is about boundaries) and perfection (which is about insecurity). Protocols are limits, are codes.
+
+machines and sensitivities
+
+how does this connect to the essay partial draft about glitch femmes breaking broken machines, or to the other at the start of the pandemic with Derry Girl GIFs and being young and naive at every end of the world again and again?
+
+
+
+
 
 View the entire [Übungen in neun Stücken]((https://medium.com/r/?url=https%3A%2F%2Fvimeo.com%2F562736859)) (Exercises in nine parts) (1974–75). Berlin (10 Nov. 1974–28 Jan. 1975) — Exercises in nine parts: Dreaming under water of things afar. Documentation of eight performances with an epilogue.
 

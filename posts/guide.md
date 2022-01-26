@@ -4,8 +4,6 @@ title: guide
 nav_order: 3
 ---
 
-{::options parse_block_html="true" parse_span_html="true" /}
-
 # guide
 
 # Stuff We're Learning Along the Way / Strategies
