@@ -7,6 +7,8 @@ published: true
 layout: post
 ---
 
+{::options parse_block_html="true" parse_span_html="true" /}
+
 ### 23.01.22
 
 

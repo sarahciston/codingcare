@@ -4,24 +4,42 @@ title: guide
 nav_order: 3
 ---
 
+{::options parse_block_html="true" parse_span_html="true" /}
+
 # guide
 
+# Stuff We're Learning Along the Way / Strategies
 
-
-
-## Strategies & Learning Along the Way
-
-## we [remember/learn] code isn't magic
+## we [remember/learn] code isn't magic, but we are
+Code is language, code is a tool; code can be read and learned and used to express. 
 
 ## we choose/find small things to get excited about and do them right away
 
 ## we choose/find impossibly large things to get excited about too
 
-## we voice our "stupid" questions, nagging suspicions, deepest fears
+## we make room for each other
+
+### we voice our "stupid" questions, nagging suspicions, deepest fears
 Even, and especially, as leaders and teachers we must do this. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body who nevertheless creates does so much more to teach and model how to create than anything I actually have lectured. And the less I plan and structure ~~but instead gesture and invite~~, the more space I invite and permit for what needs and wants to arise. 
 
-## we fight for the silly photo
-...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia XXXXX from Superrrr for asking to take a picture of the camera, because that image would have been lost forever if they had not. And I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. 
+### (brave spaces, sultan?)
+
+## we are serious about silliness
+
+### we live for snacks
+Seriously, snacks get cited as the number one item that keep bringing students to our meetups. Snacks are magic. How do snacks do it? 
+
+<small>
+>>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." –Ada Toydemir (they/them)
+</small>
+
+### we start each session with a shared playlist
+And it is on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now," which came to be when at our first meetup a quiet student piped up out of the blue with this amazing suggestion for our background tunes. I was blown away. And it has been our rallying call ever since. 
+
+A collaborative playlist on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another humanizing way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community at large *and* when working on code. It's all connected! 
+
+### we fight for the silly photo
+...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
 ## Principles & Protocols
 

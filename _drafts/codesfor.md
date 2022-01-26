@@ -4,6 +4,8 @@ title: codes for disappearing
 nav_order: 11
 ---
 
+{::options parse_block_html="true" parse_span_html="true" /}
+
 # Codes for disappearing/isolating, perfecting: Scratching at the walls
 ## Rebecca Horn's "Berlin, 1974" and COVID-19 isolation, now
 
