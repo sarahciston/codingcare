@@ -31,11 +31,12 @@ nav_order: 1
    1. verbs
       1. holding, caring, sharing, making, sewing
       2. shifting, listening, combining, collaborating, 
-   2. metaphors - all of these are moving, mysterious, path-like, non-individualistic
+   2. metaphors - all of these are moving, mysterious, path-like, non-individualistic, symmetries, 
       1. riparian, alluvial, distributed, winding, deposited
-      2. labyrinth, spiral, internalized path, knowing/not knowing the way
+      2. labyrinth, spiral, internalized path, knowing/not knowing the way, public
       3. thread, parallel processing, weaving and interleaving  
-      4. jellyfish, translucence, malleable, ephemeral, absorbing embodied non-body, nervous system
+      4. jellyfish, translucence, malleable, ephemeral, absorbing embodied non-body, nervous system, many threads and tendrils, hard to pin down, very old, regenerative, 
+      5. magpie, shiny fascinations, smart recognition, secret guilds
 - Platform/Usable Tool/Object
 - Lyric Essay
    <subhead>init, name, set, get</subhead> (each verb has a metaphor?)
@@ -96,11 +97,11 @@ What is programming in ways that reimagine how we have already been programmed? 
 
 ### concepts
 * **coding**: language-based, institutional and social, performative, speech acts
-* **care**: inter-relational, mutual aid, healing-centered
-* **trans\***: inclusive, fluid, nonbinary, change-focused, self-identifying
+* **care**: inter-relational, mutual aid, healing-centered, dyke ethics of community & nontraditional family, moving away from shame toward vulnerability, bell hooks' communities of care, embodied
+* **trans\***: inclusive, fluid, nonbinary, change-focused, self-identifying, embodied & emergent, evolving
 * **transformative**: emergent, embedded, justice-oriented, ethical, community practices
-* **techno**: hybrid, digital, systems-oriented  
-* **craft**: material, iterative, process-oriented, handmade, embodied
+* **techno**: hybrid, digital, systems-oriented, mr.wizard science, project-driven not damage-centered
+* **craft**: material, iterative, process-oriented, handmade, embodied, tinkering
 
 Therefore **Coding Care** is XXXX
 
