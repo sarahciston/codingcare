@@ -11,9 +11,9 @@ nav_order: 3
 ## we [remember/learn] code isn't magic, but we are
 Code is language, code is a tool; code can be read and learned and used to express. 
 
-## we choose/find small things to get excited about and do them right away
+### we choose/find small things to get excited about and do them right away
 
-## we choose/find impossibly large things to get excited about too
+### we choose/find impossibly large things to get excited about too
 
 ## we make room for each other
 
@@ -37,7 +37,7 @@ A collaborative playlist on your open streaming platform of choice can not only 
 ### we fight for the silly photo
 ...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
-## Principles & Protocols
+## we foreground our values
 
 These principles began as intuition and expanded, distilled, developed along the way as we noted parallels with other organizations, thinkers, makers, and more. 
 

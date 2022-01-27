@@ -4,86 +4,65 @@ title: codes for disappearing
 nav_order: 11
 ---
 
-# Codes for disappearing/isolating, perfecting: Scratching at the walls
-## Rebecca Horn's "Berlin, 1974" and COVID-19 isolation, now
+Codes for Disappearing
+Isolation, Perfection, Scratching at the Walls
 
+[Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min, Vimeo)](https://vimeo.com/562736859)
+This is about L I M I T S. About protocols. How to make a trap an O A S I S. How to fold up inside oneself, like a nucleotide, bonding and curling.
+We are scratching at the walls. We are reaching for something we cannot grasp.
+Make your arms the width of the room. We are ships in bottles. We are messages, out to sea. All that plexiglass, more surface for smearing, unrecyclable, to divide all space into infinitesimally smaller spaces, room for even more rooms. 
+The room becomes a body and the body becomes a room we live inside.
+I always say "the" body instead of "my" body, as if the body is a thing I can keep away from myself. But "I am in here" in this achey thing, and it is my job to keep it away from everyone but myself. It keeps being positive but I am not. 
+Listen. Slow scratch, endless, intermittent, insistent. Rebecca, how do you expand to fill the space, so willing to trap yourself? You are pterodexterous. You articulate. Body stiffened into a wooden cyborg catwalk, you fully unfold, extend, walk the line. 
+Each trip your trip gets shorter, fatigue more visible: Twenty steps, then fifteen, then ten, ten again, then eight. Two and half laps, cross, stop, turn and cross again. I feel your aching shoulder blades in my own, your mirrored arms, your replicating shadows. I wonder if you're noticing your steps lengthening or distance across the floor shrinking.
+Your body only appears to me from outside the portal of the doorframe, further narrowing the film frame toward your own frame. Keep that space between us; the space is a portal into new appendages to fill the distance. Dactyls, scaffolds, folding, frames. More comes into view as you makes distance from the frame. Is this an idea about folding and unfolding? A Deleuzian theory of the Baroque? 
+At each scratch of your extended digits scraping the walls I get prickly; my pores tingle. Its sound makes me taller. Is it sounding from within my head? I stretch and wriggle to get it out of and into my body at once, squirming to push it down my spine and out my limbs.
+It would take exactly two of my own wingspan, measuring six feet and permanently attached to my trunk, to span this room and reach both walls at once. But I have only one. Still, when I reach out I already fill half of this small room in 2020s Los Angeles. The gaps on either side are absence (of company) but not space (to breathe).
+Did I tell you that I am moving to Berlin? To 1974, to this white cube of a room, where I can leave my own white cube of a room and the 2020s, and be no places at once.
+You made these exercises at this time of year exactly. They don't seem 47 years old, but then I don't know how long I've been in here. 
+This is also about isolation. We already have too-literal phrases for this feeling: "nails on a chalkboard" or "climbing up the walls" or "clawing my eyes out." 
 
+I tried to stretch my labyrinth out inside my house, too large for the room. It was suggested I fold it to work on a small portion at a time, or hang it on a wall. I made a tiny labyrinth on the floor instead, folded the 12' space into less than 3' beside the bed, right where I land my feet each morning when I wake. A labyrinth is a way of folding a large distance into a small one, folding an interior exploration (a wander) into an exterior path (a journey). Still, most days I usually just walk straight over it rather than following its twists and turns. 
 
-We are scratching at the walls. We are reaching for something we cannot grasp. 
-She makes her arms the width of the room. A ship in a bottle. She expands to fit the space, traps herself (or trapped?) and scratches on all sides. The room becomes a body and the body becomes a room we live inside. (I always say "the" body instead of "mine" or "your" as if the body is a thing I can keep away from myself. But here I am in my own achey body, keeping it away from everyone but myself, as it keeps testing positive for COVID and doesn't have much energy for anything but bad television.
+[Different folks have different definitions of isolation, of hardship, of covering your face. The CDC says… …each life unrecognizable from last month's life…] 
 
-We listen. That slow scratch intermittent and endless alike. Pterodactylian. Pterodactyl Dexterous Pterodaxterous. Her body stiffened into a wooden crafted cyborg catwalk. She walks the line. She fully unfolds, extends.
-
-This is a piece about isolation. Sparse, minimalist. Quarantine. We have phrases for this feeling of entrapment - literal "nails on a chalkboard" or "clawing at the walls" or "climbing up the walls." 
-
-I stand at the window like a trapped red light district dancer, but I'm only having groceries delivered and I'm clawing the glass of this unglamorous mermaid tank.
-
-Rebecca is talking, clacking with her parrot eye. We are both stuck inside and clucking with nonspecific rage. When I view this I get prickly, my pores tingle. The sound makes me taller. I stretch and wriggle to get it out of and into my body at once, moving it vertically down my spine and out my limbs.
-
-These performances for film were made this time of year exactly, 1974–75. They don't seem 47 years old, but then I no longer know how long I've been in here.
-It would take exactly two sets of my own wingspan, measuring six feet and permanently attached to my trunk, to span this room and reach both walls at once. But I am only one. When I reach out I already fill half the room. The gaps on either side are absence (of company) but not space (to breathe).
-
-I think of Nest, the camera that people willingly place in or at the entrances to their homes, and
-
-How we only see Horn's body from outside the portal of the doorframe, narrowing the film frame toward her own frame.
-How we only see Horn's body from outside the doorway, a portal to the space she makes new appendages to fill. Petals, Dactyls, Scaffolds, come into view as she makes distance from the camera/doorframe (frame and lens and I as one) scrapes along the walls.
-
-In different exercises, she performs parts of birdliness. The cluck and clatter and curiosity. The cagedness. This nesting. Birds and cages and cameras and sensors. What kind of home is a cage, a trap, an enclosure. 1970s Soviet Berlin and 2020s United States.
-
->it's the definition of making work with constraints and restraints
-COVID wings, a data extension using pulse oximeter and heart rate variability
-the sheer effort to lift and repeatedly manipulate those wings just so. how increasingly aching her rhomboids must become. The way her elbows crook at right angles is birdlike.
-
-I tried to stretch my labyrinth out in the house, too large for the room where I live. I could fold it to work on a small portion at a time, or hang it on a wall and project onto a portion of it. But art has changed in confinement.
-
-How bodies conform to spaces, given. The expand to fit, they expand beyond. They fold inward. The Baroque fold (Deleuze) the ornate, the decorative, the feminine, Her balsa scratches reminiscent of the melted ineffective scaffolding of past wings.
-
-to parrot, mirror, mimic
-I made a tiny labyrinth on my floor instead, folded the 12' space into 3' beside the bed where I put my feet each morning when I wake. A labyrinth is a way of folding a large distance into a small one, folding an interior exploration, a wander, into an exterior path, a journey.
-
-How I don't fit into the bath, not with all parts. Space and body and volume of container and liquid. Archimedes in the tub, and doing things wrong, or not "right enough." Displacement.
-
-Her new dactyls measured exactly to the specifications of the room, held and hesitant
-an argument in my family about the difference between accuracy and precision.
-
+Rebecca, I keep dreaming of your rhomboids and the concerted effort to lift and manipulate those wings just so. Your increasing ache, the way your elbows crook at right angles, birdlike.
+You keep clacking at your cockatoo with your one parrot eye. I get it. Just the strange, intimate things we get up to when stuck inside and clucking with nonspecific rage. I stand at the window like a trapped red light district dancer, but I'm only getting food delivered and I'm clawing at the glass of this unglamorous fish tank and I'm trying to mimic you trying to mimic your bird. I'm thinking of Nest and Blink, the brandnames of cameras people willingly place in or at the entrances to their homes, and all the security cameras outside my apartment building right now-probably capturing this three-day-old outfit. I would like to call this some kind of feminist art practice. 
+You seem to be becoming-animal in bits and birdseed. Performing parts of birdliness. Parrot, mimic, mirror. Your cluck and clatter and curiosity, twinkling dark whimsy. Birds and cagedness and cameras and sensors. 
+Bodies must conform to the space allotted, at a border in a cage, at a boundary of identity, a limit of language or an encoded protocol. They expand to fit, or contort and fold inward. It's the definition of making work with constraints and restraints, right?
+Rebecca, your Baroque balsa fingers are giving me the feminine folds of a framework for melted, ineffectual past wings. Your new dactyls were measured exactly to match the specifications of your room. You hold them with careful tenderness and confidence in equal measure. 
+I am continually confused by this body of mine, which won't simultaneously and in its entirety fit within my standard-sized bathtub. Which one of us is normal? Archimedes in the tub, discovering how to measure density, displacing himself into liquid. Crash-test dummies that only save standard-issue, 1970s-era 5'9" 170-pound men. 
+There's a longstanding argument in my family about the importance of accuracy versus precision. What would be perfect enough? Right enough? 
+What is the relationship between isolation and perfection? Am I trying to narrow this down too much? 
+I saw a meme that said, "Hugh Jackman said, 'You're not a perfectionist. When have you ever done anything perfectly? You're just insecure.' And it really hit me, you know?" That was the whole meme.
+And it really did hit me, you know? I was today years old when I realized doing things perfectly was not in fact possible. It wasn't merely that I had been falling short this whole time.
+So I guess this is about insecurity, too. About boundaries. About codes. About sensitivities and machines.
+When we tell stories, we use everything we know about everyone we've ever met to imagine new characters. From those generalizations, we draw out some specific features and apply them to an imagined new person. Hopefully we flesh those out enough, combining them in unique ways and adding situations and motivations that make the new person feel full and fleshy too. 
+But when we move the other direction-from specific to general-oh, boy, that spells trouble. When we use artificial intelligence (statistics on steroids), we draw out generalizations about existing individuals by selecting for only a few features about them that we've decided are important, and then we apply them to other individuals. Whether or not these assumptions are "correct" according to the machine's calculations is not the only concern (though a huge one). First, they are built on fundamentally false, stereotyping categories. Further, they reduce the unique, irreducible multitude of features that exists within each person. These generalizations are rules used to identify, sort, and control all of us-to sometimes dangerous ends.
+[What does this black box have to do with the white rooms we are in? ]
 my datasets, ML datasets, constant extending extruding producing anxiety
-can data feed into it? heart rate while i write, reported symptoms, captain's log, day 4, positive test, hermit crab story of cdc's confusing recommendations or codes and protocols. based on politics, often not followed.
+Sequelae are the secondary effects after symptoms abate. They are consequences.
+[What would the COVID–era wings run on? Pulse oximeter readings or XXXX?]
+Sequestering ourselves. 
+Rebecca, why are you stuck inside? It's winter when you are, and I don't know which side of Berlin you're on. Are you sequestering yourself for political reasons as well, or meteorological or creative ones. People don't just come up with the idea to cut their own hair with two pairs of scissors or to paint themselves green and squiggle around behind their houseplants on camera if they haven't been stuck inside for a bit. 
+Who among us has not in the last two years stood before a mirror in fear of the haircut you gave yourself in this Übung? The queer confinement urge to give yourself a haircut, to bind yourself to a partner with magnets, to gaze into the middle-distance of each other's facetimes with a hundred other windows open. I am always impending. Re-emergency, re-emergency, re-emergency.
 
-codes for disappearing, isolating, perfecting, sequestering, sequelae. what is the relation between isolate and perfect, singular and generatable.
-how we want to draw out features from a set to make rules to control and identify people. we characterize to tell stories and make new characters, which is useful (storytelling, general to specific). but when we apply stereotypes to existing people it's dangerous (going the wrong direction, specific to general, AI). an individual contains multitude of features, is not reducible.
+(all pieces about sound, body experiments, contraptions, intimacies, whimsical)
+[your tiny fish swim in chest hair and at least have someone to play with, though every natural element is wired up and artificial, whimsical but somehow contingent and machined]
 
-This is an essay about LIMITS. (which is about boundaries) and perfection (which is about insecurity). Protocols are limits, are codes.
+"Mit beiden Händen gleichzeitig die Wände berühren" (touching the walls with both hands at once), from Übungen in neun Stücken (Exercises in nine parts)
 
-machines and sensitivities
+"Mit zwei Scheren gleichzeitig die Haare schneiden," cutting hair with two pairs of scissors at once, from Übungen in neun Stücken (Exercises in nine parts)
 
-how does this connect to the essay partial draft about glitch femmes breaking broken machines, or to the other at the start of the pandemic with Derry Girl GIFs and being young and naive at every end of the world again and again?
+---
 
-
-
-
-
-View the entire [Übungen in neun Stücken]((https://medium.com/r/?url=https%3A%2F%2Fvimeo.com%2F562736859)) (Exercises in nine parts) (1974–75). Berlin (10 Nov. 1974–28 Jan. 1975) — Exercises in nine parts: Dreaming under water of things afar. Documentation of eight performances with an epilogue.
-
-"Mit beiden Händen gleichzeitig die Wände berühren" (touching the walls with both hands at once)I am moving to Berlin, 1974, to this white cube of a room where I can be no places at once. 
-her mirrored arms, her replicating shadows, her aching shoulder blades
-2.5 laps, from 20 steps to 8 steps, fatigue increasing steps lengthening or span shrinking.
-just 8 steps to cross the room and stop, turn and cross again.
-twinkling.
-the tongue clacking like this keyboard clattering as I type about it. the strange intimacies/things we get up to in isolation. the bird's indifference, then distress, against the wall then the window. 
-
-The COVID confinement / queer urge to do your own haircut. To bind yourself to your partner with magnets and perform a three-legged race against yourselves. To curl up and stare into each others faces. To U-Haul under the premise it's only going to be three to six weeks not three years.  
-
-"Mit zwei Scheren gleichzeitig die Haare schneiden," cutting hair with two pairs of scissors at once(all pieces about sound, body experiments, contraptions, intimacies, whimsical)
-Sections (as listed on screen / as listed on RH website)
-Touching the walls with both hands simultaneously, Blinking, Feathers dance on the shoulders, Keeping hold of those unfaithful legs, Two little fish remember a dance, Rooms meet in mirrors, Shedding skin between moist tongue leaves, Cutting one's hair with two pairs of scissors simultaneously, When a woman and her lover lie on one side looking at each other; and she twines her legs around the man's legs with the window wide open, it is the oasis;
-"two hands scratching both walls" / Touching the walls with both hands simultaneously 
+Sections (as listed on screen / as listed on RH website):
+"two hands scratching both walls" / Touching the walls with both hands simultaneously
 "twinkling" / Blinking
 "feathers dancing on shoulders" / Feathers dance on the shoulders
 "keeping those legs from fucking-around" / Keeping hold of those unfaithful legs
-
 "two tiny fish remembering a dance" / Two little fish remember a dance
 "rooms encountering each other in the mirror" / Rooms meet in mirrors
 "the jungle sheds her skin" / Shedding skin between moist tongue leaves
 "cutting hair" / Cutting one's hair with two pairs of scissors simultaneously
-When a woman and her lover lying down - face to face - and she coils(wraps) her legs around the legs of the man-with the window opened wide-that is the O A S I S
-. / When a woman and her lover lie on one side looking at each other; and she twines her legs around the man's legs with the window wide open, it is the oasis.
+When a woman and her lover lying down - face to face - and she coils(wraps) her legs around the legs of the man - with the window opened wide - that is the O A S I S . / When a woman and her lover lie on one side looking at each other; and she twines her legs around the man's legs with the window wide open, it is the oasis.

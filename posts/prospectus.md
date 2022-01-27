@@ -38,13 +38,13 @@ nav_order: 1
       4. jellyfish, translucence, malleable, ephemeral, absorbing embodied non-body, nervous system, many threads and tendrils, hard to pin down, very old, regenerative, 
       5. magpie, shiny fascinations, smart recognition, secret guilds
 - Platform/Usable Tool/Object
-- Lyric Essay
+- Lyric Essay: an art piece w each? an essay or concept already in progress?
    <subhead>init, name, set, get</subhead> (each verb has a metaphor?)
    1. Codes for Communing (creative code collective, mutual aid, sewing kits, knitting circles, toolkits, covens, secret societies, oblique strategies)
    2. Codes for Mourning (platform, threnodies, fraying, multithreading, **thread**)
    3. Codes for Desiring (ecstatic codes, erotic politics, infinite scroll, zeno (see above, eros thanatos))
    4. Codes for Queering (trans poetic, radical imagining, futile/futurity)
-   5. Codes for Disappearing (refusing, databodies, drone aesthetics, interpolated states)
+   5. Codes for Disappearing (refusing, databodies, drone aesthetics, interpolated states, isolating-features ml/covid) **folding/digits/**
    6. Codes for Essaying (exploring, unknowing, investigating, code obscura, **labyrinth**)
    7. Codes for Healing (hearing, hiding, helping, gathering, saving, salve, poultice, protecting, healing each other) 
    8. Codes for Risking, Codes for Losing (anthropocene, pandemic, posthuman, vulnerability, **moon palace**)
