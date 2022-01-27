@@ -8,7 +8,7 @@ nav_order: 3
 
 # Stuff We're Learning Along the Way / Strategies
 
-## we [remember/learn] code isn't magic, but we are
+## we [believe/trust/remember/learn] code isn't magic, but we are
 Code is language, code is a tool; code can be read and learned and used to express. 
 
 ### we choose/find small things to get excited about and do them right away
@@ -20,14 +20,14 @@ Code is language, code is a tool; code can be read and learned and used to expre
 ### we voice our "stupid" questions, nagging suspicions, deepest fears
 Even, and especially, as leaders and teachers we must do this. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body who nevertheless creates does so much more to teach and model how to create than anything I actually have lectured. And the less I plan and structure ~~but instead gesture and invite~~, the more space I invite and permit for what needs and wants to arise. 
 
-### (brave spaces, sultan?)
+### (brave spaces w Sultan?)
 
 ## we are serious about silliness
 
 ### we live for snacks
 Seriously, snacks get cited as the number one item that keep bringing students to our meetups. Snacks are magic. How do snacks do it? 
 
->>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." (Ada Toydemir, CSthey/them)
+>>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." (Ada Toydemir, (XXX major, they/them)
 
 ### we start each session with a shared playlist
 And it is on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now," which came to be when at our first meetup a quiet student piped up out of the blue with this amazing suggestion for our background tunes. I was blown away. And it has been our rallying call ever since. 
