@@ -8,6 +8,6 @@ nav_order: 2
 
 What could code be and do, and for whom, with whom? What should it, what shouldn't it, and why? #vague 
 
-
+Test
 
 ## caring codes, coding care
