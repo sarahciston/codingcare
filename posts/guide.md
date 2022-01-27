@@ -27,9 +27,7 @@ Even, and especially, as leaders and teachers we must do this. We connect over /
 ### we live for snacks
 Seriously, snacks get cited as the number one item that keep bringing students to our meetups. Snacks are magic. How do snacks do it? 
 
-<small>
->>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." –Ada Toydemir (they/them)
-</small>
+>>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." (Ada Toydemir, CSthey/them)
 
 ### we start each session with a shared playlist
 And it is on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now," which came to be when at our first meetup a quiet student piped up out of the blue with this amazing suggestion for our background tunes. I was blown away. And it has been our rallying call ever since. 
