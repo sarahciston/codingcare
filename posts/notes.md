@@ -7,8 +7,8 @@ published: true
 layout: post
 ---
 
-### 23.01.22
-
+### 27.01.22
+test
 
 ### 03.01.22
 challenges of the web3/semantics at large: vastness, vagueness, uncertainty, inconsistency, deceit
