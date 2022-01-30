@@ -137,3 +137,21 @@ And **TechnoCraft** is the combo of historically dismissed and feminized practic
 See References TK
 
 
+
+
+
+
+
+## Chapter: Guidebook
+
+### Creative Code Collective: TechnoCraft and Trans*formative Programming as Community Practice
+
+Learning programming is often intimidating and riddled with false starts, which can further marginalize those whose perspectives are most necessary in order to face the challenges sociotechnology presents. This paper outlines a guidebook to alternative pedagogy for creative-critical coding, using care-driven, community-building practices. 
+
+As a case study, the guidebook details the approaches developed in Creative Code Collective, the student organization I founded in 2019 for emerging artist–coders and non-engineers to think critically with code in a welcoming, inclusive space. I launched this group for students learning creative-critical coding skills after my own struggles learning code—in particular coming to code as a writer learning to make electronic literature. I wanted to create the adaptable, encouraging community I had needed—a less-intimidating environment that moved away from dry CS textbooks and toward approaches like Nick Montfort’s “programming as inquiry” and Rachel Simanjuntak’s “care as artistic practice.” The Collective also aligns its viewpoint with texts like Geoff Cox and Winnie Soon’s Aesthetic Programming, which purposefully teaches creative code situated within its critical and political stakes, and which also embodies that politics by inviting others to fork the book. 
+
+This approach uses creative-critical code pedagogy as a holistic community practice. This paper will look at a variety of the strategies, platforms, and tools we have explored as a group and some we have developed. I will discuss how practices in the Collective—like project-oriented skillbuilding, co-teaching/co-learning, and snacks (always snacks)—embody its guiding values, like “scrappy artistic strategies not perfect code” and “collaboration not competition.” I will also discuss some snags and lessons learned from our efforts building the three-year-old community—including how our practices adapted from in-person to virtual spaces during the pandemic and how our community evolved through the shift to online platforms and the subsequent shift to hybrid collaborations. To close out the discussion of tactics, I will point to existing methodology from Critical Code Studies and Intersectional queer, feminist, anti-ableist, anti-racist theory; and make connections to similar organizations like Creative Code Berlin, Varia, and the Processing Foundation. 
+
+In terms of impact, I’ll touch on the ways students report these practices and values have shaped them as emerging artists, coders, and thinkers. I have found that this community deeply influences my own work as a creative-critical coder, writer of experimental electronic literature, and tactical media artist working with natural language processing tools. Creative Code Collective has become a joyful space for creative risk-taking that nourishes my own practice. This allows me to model for students my own vulnerability as an artist-researcher, which reciprocally becomes the best teaching tool of all. In sum, Creative Code Collective positions an ethics of coding care—grounded in shared embodied knowledge, embedded co-creation, and programming with and for community. It tenderly proclaims: “We all have something to teach each other.” 
+
+Coding is now an essential literacy, but this guidebook calls for a kind of literacy that reaches beyond an existing Silicon Valley paradigm  that “anyone can join,” but rather reimagines technoculture for anyone—to understand, impact, and intervene in. 

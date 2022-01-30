@@ -17,6 +17,7 @@ Code is language, code is a tool; code can be read and learned and used to expre
 
 ## we make room for each other
 
+
 ### we voice our "stupid" questions, nagging suspicions, deepest fears
 Even, and especially, as leaders and teachers we must do this. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body who nevertheless creates does so much more to teach and model how to create than anything I actually have lectured. And the less I plan and structure ~~but instead gesture and invite~~, the more space I invite and permit for what needs and wants to arise. 
 
