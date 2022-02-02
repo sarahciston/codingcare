@@ -6,6 +6,13 @@ nav_order: 3
 
 # guide
 
+<!--could write the brief on the ideal lab for epistemologies of datasets-->
+<!--art data knowing machines epistemologies of datasets. Knowing Datasets / Datasets for Knowing EpiDataLab Datasets for Humans / **The Knowing Data~~sets~~ Lab (KDL)** / Knowing Datasets Coalition-->
+<!--datasets are situated, local,-->
+
+
+<!--observablehq or jupyter or self-hosted? -->
+
 # Stuff We're Learning Along the Way / Strategies
 
 ## we [believe/trust/remember/learn] code isn't magic, but we are
@@ -43,6 +50,10 @@ A collaborative playlist on your open streaming platform of choice can not only 
 These principles began as intuition and expanded, distilled, developed along the way as we noted parallels with other organizations, thinkers, makers, and more. 
 
 ### scrappy artistic strategies, not perfect code[^ccc] #nocodesnobs[^p5]
+
+>>When the tool doesn't exist we build it. We make it from the other tools we scraped for parts. We break it to learn how it works, to see if it could work a different way, to see if its not working makes it sing out with poetry. We write it out on paper if we don't know how to say it with code. If we can't find an example, if we wonder why it doesn't exist, we know this means we might be the ones who should bring it to life. If it does exist, we also ask if it should. We reverse-engineer it, run it backwards. We learn from others' tutorials, combine them, and modify them, liberally.
+
+I sometimes joke that my projects are a garland of APIs held together with duct tape. There is magic and politics and new knowledge to be found in creative applications and combinations of existing tools. To think about how to combine ingredients to produce new flavors, connect dots, (mix metaphors). 
 
 ### growth, not perfection[^ccc] #newKidLove[^p5]
 
