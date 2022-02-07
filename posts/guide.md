@@ -4,25 +4,26 @@ title: guide
 nav_order: 3
 ---
 
-# guide
+# A GUIDEBOOK
 
 <!--could write the brief on the ideal lab for epistemologies of datasets-->
 <!--art data knowing machines epistemologies of datasets. Knowing Datasets / Datasets for Knowing EpiDataLab Datasets for Humans / **The Knowing Data~~sets~~ Lab (KDL)** / Knowing Datasets Coalition-->
 <!--datasets are situated, local,-->
 
-
 <!--observablehq or jupyter or self-hosted? -->
 
-# Stuff We're Learning Along the Way / Strategies
+<!-- # Learning Along the Way -->
 
-## we [believe/trust/remember/learn] code isn't magic, but we are
+## 1. we know code isn't magic, but we are
 Code is language, code is a tool; code can be read and learned and used to express. 
 
 ### we choose/find small things to get excited about and do them right away
 
 ### we choose/find impossibly large things to get excited about too
 
-## we make room for each other
+It's true there's a lot to be said for the smallest viable prototype. Sure. But sometimes we can't help ourselves. We love to dream wildly. We'll figure out the impractical later and the impossible after that. Sometimes overshooting gets us where we need to go by overshooting and scaling down a bit later.
+
+## 2. we make room for each other
 
 
 ### we voice our "stupid" questions, nagging suspicions, deepest fears
@@ -30,7 +31,9 @@ Even, and especially, as leaders and teachers we must do this. We connect over /
 
 ### (brave spaces w Sultan?)
 
-## we are serious about silliness
+## 3. we are serious about silliness
+
+>"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it" (Shane 2019, 4).
 
 ### we live for snacks
 Seriously, snacks get cited as the number one item that keep bringing students to our meetups. Snacks are magic. How do snacks do it? 
@@ -45,7 +48,7 @@ A collaborative playlist on your open streaming platform of choice can not only 
 ### we fight for the silly photo
 ...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
-## we foreground our values
+## 4. we foreground our values
 
 These principles began as intuition and expanded, distilled, developed along the way as we noted parallels with other organizations, thinkers, makers, and more. 
 
@@ -62,6 +65,9 @@ I sometimes joke that my projects are a garland of APIs held together with duct 
 ### we all have skills to teach each other[^ccc] 
 
 ### meet people where they are. don't assume knowledge or imply hierarchies of skills. we are not snobs about coding, scholarship, or other forms of knowledge.[^p5]
+
+>>"have things as major steps then under each major step is all the sub steps and any gotcha’s or possible errors" (annatito, CCSWG22)
+>>"highlight mistakes just as much as successes rather than hide them it is important for people who are new to programming to see people making mistakes, if they think everything works first time they will think they are not good enough and give up." (annatito, CCSWG22)
 
 ### value processes as much as, or more than, outcomes[^amb]
 
@@ -95,3 +101,6 @@ Thank you to the individuals and organizations who developed these principles an
 [^p5]: [p5js](https://p5js.org/community/)
 [^W3C]:
 [^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
+
+
+>>"balance exploration with exploitation" (Montfort 20XX, 5)

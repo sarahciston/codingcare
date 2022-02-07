@@ -46,7 +46,7 @@ We reverse-engineer, run it backwards, learn from others' examples and apply, co
 
 We make coded things in order to connect with others, to bridge the ephemeral spark gaps of language and feeling and being separate creatures trying to reach each other. We make things hoping someone thinks they're kind of cool. 
 
-We write code in order to decode the systems that ...
+We write code in order to decode the systems that ... [encumber us]
 
-We will not be outsiders in the systems that injure us.
+We refuse to be outsiders in the systems that injure us. We reject notions of intimidation or gatekeeping that deny creativity, joy, politics, and purposes that reach beyond perpetuating white-supremacist capitalist status quo. 
 
