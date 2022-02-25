@@ -94,6 +94,7 @@ What is programming in ways that reimagine how we have already been programmed? 
 * digital humanities and digital scholarly publishing
 * zine culture, punk/riotgrrl counter-cultural print publishing, avant-garde art/poetry, fluxus, oulipo
 * interdependence is indigenous knowledge
+* a go-bag, a tool chest as a limited set of items required to operate independently, in support of mutual aid, to take on the road, a skillset to pass down, to keep one mobile and flexible, an oral tradition and a material set of objects and a knowledge base. a hope chest. independent from corporate or platform lock-in. is it possible to have or a call for this? takes the form of a listicle, the 50 (?) items you need to have *Intersectional AI Toolkit: 50 Skills, Concepts, and Ideas for more Ethical, Portable, Inclusive, Sustainable, Mutually Supportive Systems.* 
 
 ### concepts
 * **coding**: language-based, institutional and social, performative, speech acts
@@ -121,6 +122,8 @@ And **TechnoCraft** is the combo of historically dismissed and feminized practic
   * >>"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)
 * deep interdisciplinarity
 * toolkit >>"space of 'instruction, contingency, action, and alternative engagement' (Gabrys 20XX, 92)"
+* anarchic toolchest
+* indigenous research and other community practices of being with
 
 ### inspo: people & communities, writerly forms
 * Sara Ahmed
@@ -136,11 +139,21 @@ And **TechnoCraft** is the combo of historically dismissed and feminized practic
 ## bibliography & mediography 
 See References TK
 
+Zach Blas [Queer Technologies](https://zachblas.info/works/queer-technologies/)
 
 
 
+>>"balance exploration with exploitation" (Montfort 20XX, 5)
 
+## wendy chun talk break
+>"a move that haunts new media and its frontier dreams" (chun data. desegregation, equity, democratic futures where power is decentralized)
 
+>"correlation and homophily continue to plot people along the same extremes. what it means to live in the inbetween.  
+Bri Wiens, intersectional worldbuilding dissertation
+
+>"how can recognition be used to celebrate uniqueness" Queenie Wu, U Waterloo responding to Wendy Chun
+
+>Wendy Chun: "correlation emerged from 20th century eugenics" homophily comes from studies of US residential segregation, polarization shouldn't surprise us, is the goal not an error" "read against the grain / think beyond these models" "their ground truth is actually a deep fake" ""
 
 ## Chapter: Guidebook
 

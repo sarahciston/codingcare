@@ -17,6 +17,8 @@ nav_order: 3
 ## 1. we know code isn't magic, but we are
 Code is language, code is a tool; code can be read and learned and used to express. 
 
+>"No way, code is magic." (Samir, staff, they/them)
+
 ### we choose/find small things to get excited about and do them right away
 
 ### we choose/find impossibly large things to get excited about too
@@ -38,7 +40,7 @@ Even, and especially, as leaders and teachers we must do this. We connect over /
 ### we live for snacks
 Seriously, snacks get cited as the number one item that keep bringing students to our meetups. Snacks are magic. How do snacks do it? 
 
->>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." (Ada Toydemir, (XXX major, they/them)
+>>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." (Ada Toydemir, (CS, they/them)
 
 ### we start each session with a shared playlist
 And it is on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now," which came to be when at our first meetup a quiet student piped up out of the blue with this amazing suggestion for our background tunes. I was blown away. And it has been our rallying call ever since. 
@@ -48,9 +50,20 @@ A collaborative playlist on your open streaming platform of choice can not only 
 ### we fight for the silly photo
 ...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
+### we are not in class. we're [   ]
+
+We fly under the radar. we are a rag-tag troupe of misfits, a dead poets' society, a laboratory, a not-so-secret guild.
+
+Our mascots are magpies and meme cats, too-clever animals fascinated with hoarding shiny objects and causing a little trouble. We look to jellyfish and labyrinths for their translucent flexibility, their decentralized nervous systems, their twisty turny mystery and ability to go deep. 
+
+
+
+
 ## 4. we foreground our values
 
 These principles began as intuition and expanded, distilled, developed along the way as we noted parallels with other organizations, thinkers, makers, and more. 
+
+>>"Any meeting or gathering is a place to practice the future together in the most tangible ways" (Brown 2021, 117)
 
 ### scrappy artistic strategies, not perfect code[^ccc] #nocodesnobs[^p5]
 
@@ -89,9 +102,15 @@ I sometimes joke that my projects are a garland of APIs held together with duct 
 
 ### we center care[^AMC]—self care and community care[^amb] 
 
+We are excited to know each other and to care for one another as people, not as a means to an end. We learn from each other and our skills improve because of each other, but time and again we realize that is not the only—or even the main—reason we come together. 
+
 These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve.
 
 Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,[^amb] Allied Media Conference,[^AMC] Berlin Code of Conduct,[^BerlinCoC] Center for Council,[^Council] P5.js,[^p5] Superrr,[^superrr] W3C,[^W3C] and Creative Code Collective.[^ccc]
+
+
+
+
 
 [^amb]: brown, a.m. (2017). Emergent Strategies. AK Press.; --- (2021). Holding Change. AK Press. Visit [adrienne maree brown](http://adriennemareebrown.net/)
 [^AMC]: [Allied Media Conference](https://amc.alliedmedia.org/about/purpose-and-values)

@@ -6,7 +6,7 @@ nav_order: 1
 
 hi, you've reached
 
-# CODING.CARE: A Guidebook for Trans*formative TechnoCraft
+# CODING.CARE: A Guidebook for Trans*formative Processing & Tender TechnoCraft
 
 here is where I'll be tinkering for a few years with a dissertation.
 

@@ -7,8 +7,11 @@ published: true
 layout: post
 ---
 
-### 27.01.22
+### 24.02.22
+affirming that everything is better when we're in it together, I shared my worthless feelings with code collective and we commiserated that no one ever fully moves past the coding aches and pains, ebbs and flows. that heroku dynos are haaaaard. sometimes everything is hard. some weeks are bursts of productivity and sometimes everything is a struggle. miraculously, strangely, the antidote to shame may be live coding on the big screen as your friends help you talk through your problem. and also we celebrated a win tonight as one of our anchor members heard great news and will be moving on, potentially starting a new CCC chapter at another university. this will be such an adventure to discuss remotely how the wild experiment of our collective might be replicated and remixed and i'm so excited to see how we might rhizome out into the world, while also sad to lose our unique little magic pod which cheered me up so much tonight. 
 
+### 21.02.22
+ever have one of those days where nothing works and you just keep trying and still nothing works? until you start to doubt your own ability to do even simple tasks because when you try to switch gears to do something simpler to make yourself feel better even that doesn't work? I can't seem to stop and it doesn't help. It sucks to feel like there's no solution to the seemingly easy problems I am trying to solve with code, which is why I started code collective in the first place, and I'm feeling exactly like I don't want people to feel about coding in general and machine learning specifically.
 
 ### 03.01.22
 challenges of the web3/semantics at large: vastness, vagueness, uncertainty, inconsistency, deceit
