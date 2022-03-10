@@ -50,14 +50,18 @@ A collaborative playlist on your open streaming platform of choice can not only 
 ### we fight for the silly photo
 ...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
-### we are not in class. we're [   ]
+### we are not in class. we're [???]
 
 We fly under the radar. we are a rag-tag troupe of misfits, a dead poets' society, a laboratory, a not-so-secret guild.
 
 Our mascots are magpies and meme cats, too-clever animals fascinated with hoarding shiny objects and causing a little trouble. We look to jellyfish and labyrinths for their translucent flexibility, their decentralized nervous systems, their twisty turny mystery and ability to go deep. 
 
 
+### minimal is accessible
 
+Sometimes the low-fi answer is the right one. When searching for the right tools to build the Creative Code Collective Resource Hub, we went through every possible solution for a database, and landed on a google doc. When looking for ways to build the site for the Intersectional AI Toolkit, again we went through what seemed like endless possibilities for platforms, and landed back at simple JAM stack static sites, github pages, or wiki. Sometimes the less ambitious choices serve different purposes. They offer more access to other audiences. They leave the content and data more open and adaptable and legible to friends who might want to interact with it later, or to us as we build or rebuild it one day. We embrace minimal computing [cite] as an accessible and aesthetic and political value. 
+
+[...]
 
 ## 4. we foreground our values
 
