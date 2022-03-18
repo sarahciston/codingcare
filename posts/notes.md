@@ -1,10 +1,10 @@
 ---
+layout: post
 author: sarahciston
 title: notes
 nav_order: 98
 date: 31.05.2021
 published: true
-layout: post
 ---
 
 ### 24.02.22

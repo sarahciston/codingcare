@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: zine
 title: manifesto
 nav_order: 2
 ---

@@ -1,0 +1,16 @@
+---
+layout: post
+---
+<!-- inherets from post layout template, bindery scripts run here or can run in a separate JS called at bottom if needed, other formatting css could go here or another css if needed too -->
+
+{{ content }}
+
+<!-- Bindery -->
+<script src="https://unpkg.com/bindery@2.3.0"></script>
+
+<script>
+console.log("zine.html")
+Bindery.makeBook({ content: '#content' });
+</script>
+
+<!-- <script src="{{ "/assets/js/zine.js" | append: site.github.build_revision | relative_url }}"></script> -->

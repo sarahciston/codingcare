@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: prospectus
 nav_order: 1
 ---
