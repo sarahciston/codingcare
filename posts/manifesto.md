@@ -19,9 +19,13 @@ What could code be and do, and for whom, with whom? What should it, what shouldn
 
 #### manifesto for coding.care
 
-Whereas coding has been considered the province of too few for too long. 
+Whereas coding has been considered the province of too few for far too long. 
+
 Whereas the rest have been treated as outsiders to the systems that consume us.
-Whereas care and compassion are 
+
+Whereas care and compassion are infinite but neglected resources, literally life sustaining resources that renew themselves with use. 
+
+Whereas 
 
 [...]
 
@@ -50,3 +54,4 @@ We write code in order to decode the systems that ... [encumber us]
 
 We refuse to be outsiders in the systems that injure us. We reject notions of intimidation or gatekeeping that deny creativity, joy, politics, and purposes that reach beyond perpetuating white-supremacist capitalist status quo. 
 
+When we say we, we write for the parts of ourselves that have been neglected or ignored, a habit we learned too early, a trick imposed upon us and repeated. ~~When we say we, we claim this audaciously and unapologetically, and hope you feel it too, but you don't have to.~~

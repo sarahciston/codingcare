@@ -27,11 +27,15 @@ It's true there's a lot to be said for the smallest viable prototype. Sure. But 
 
 ## 2. we make room for each other
 
+### ...and we ask after each other
+
 
 ### we voice our "stupid" questions, nagging suspicions, deepest fears
 Even, and especially, as leaders and teachers we must do this. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body who nevertheless creates does so much more to teach and model how to create than anything I actually have lectured. And the less I plan and structure ~~but instead gesture and invite~~, the more space I invite and permit for what needs and wants to arise. 
 
 ### (brave spaces w Sultan?)
+
+### this literally *makes* the room for each other, creates the room we have together
 
 ## 3. we are serious about silliness
 
@@ -50,7 +54,7 @@ A collaborative playlist on your open streaming platform of choice can not only 
 ### we fight for the silly photo
 ...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
-### we are not in class. we're [???]
+### we are not in class. we're [in???]
 
 We fly under the radar. we are a rag-tag troupe of misfits, a dead poets' society, a laboratory, a not-so-secret guild.
 
@@ -111,10 +115,6 @@ We are excited to know each other and to care for one another as people, not as 
 These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve.
 
 Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,[^amb] Allied Media Conference,[^AMC] Berlin Code of Conduct,[^BerlinCoC] Center for Council,[^Council] P5.js,[^p5] Superrr,[^superrr] W3C,[^W3C] and Creative Code Collective.[^ccc]
-
-
-
-
 
 [^amb]: brown, a.m. (2017). Emergent Strategies. AK Press.; --- (2021). Holding Change. AK Press. Visit [adrienne maree brown](http://adriennemareebrown.net/)
 [^AMC]: [Allied Media Conference](https://amc.alliedmedia.org/about/purpose-and-values)
