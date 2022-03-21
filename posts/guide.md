@@ -1,10 +1,12 @@
 ---
 layout: post
-title: guide
+title: guidebook
 nav_order: 3
+date: 21.03.2022 
+tags: [tips, guide, handy]
 ---
 
-# A GUIDEBOOK
+<!-- # A GUIDEBOOK -->
 
 <!--could write the brief on the ideal lab for epistemologies of datasets-->
 <!--art data knowing machines epistemologies of datasets. Knowing Datasets / Datasets for Knowing EpiDataLab Datasets for Humans / **The Knowing Data~~sets~~ Lab (KDL)** / Knowing Datasets Coalition-->
@@ -53,6 +55,10 @@ A collaborative playlist on your open streaming platform of choice can not only 
 
 ### we fight for the silly photo
 ...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
+
+### we put things in context 
+
+>>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." (Dr. A. A. Vernelle Noel, Georgia Tech)
 
 ### we are not in class. we're [in???]
 

@@ -2,6 +2,8 @@
 layout: post
 title: prospectus
 nav_order: 1
+date: 21.03.2022 
+tags: [prospectus, dissertation]
 ---
 
 ## CODING.CARE: A Guidebook for Trans*formative TechnoCraft
@@ -54,6 +56,12 @@ nav_order: 1
 What are the codes we don't have but need? The codes we run unthinkingly, written into us, that we could rewrite with more care and attention? 
 
 What is programming in ways that reimagine how we have already been programmed? To think of programming very narrowly, as meant for only certain kinds of people, meant to do only certain kinds of things? 
+
+
+The _Anarchist’s Tool Chest_ says there is power in a small set of tools, known intimately and carried easily. Its author Christopher Schwarz calls this "a radical and rare idea that can help change the world." This idea is missing from AI tools, which require massive technical knowhow and financial resources to operate.
+
+The work done with Intersectional AI Toolkit and Creative Code Collective both argues that anyone should be able to understand the key tools of technology and should have the power to reimagine the systems that impact them most.
+
 
 
 ## project description (notes, 5-8p) / 1200-1500 words (5-6p)

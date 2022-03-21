@@ -1,7 +1,9 @@
 ---
-layout: zine
+layout: post
 title: manifesto
 nav_order: 2
+date: 21.03.2022 
+tags: [manifesto]
 ---
 
 <!--# manifesto, or a reaching towards

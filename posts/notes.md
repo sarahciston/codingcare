@@ -3,9 +3,18 @@ layout: post
 author: sarahciston
 title: notes
 nav_order: 98
-date: 31.05.2021
 published: true
+date: 21.03.2022 
+tags: [notes, progress, misc, journal]
 ---
+
+### 18.03.22
+had an easy time adding Bindery.js tool to this minimalist Jekyll + Github pages setup, which affirms my (not) gut instinct for minimalism somewhat. even though I want everything to have all the moving parts and bells and whistles, anne lamont says "bird by bird" and it's easier to see the interconnectedness of things, each tree in the forest, when each part is tall and strong and simple and can move on its own. 
+
+I sunk this week in an application it turns out I'm not eligible to apply for. But in it I wrote about simple tools: The _Anarchist’s Tool Chest_ says there is power in a small set of tools, known intimately and carried easily. Its author Christopher Schwarz calls this "a radical and rare idea that can help change the world." This idea is missing from AI tools, which require massive technical knowhow and financial resources to operate.
+
+The work done with Intersectional AI Toolkit and Creative Code Collective both argues that anyone should be able to understand the key tools of technology and should have the power to reimagine the systems that impact them most.
+
 
 ### 24.02.22
 affirming that everything is better when we're in it together, I shared my worthless feelings with code collective and we commiserated that no one ever fully moves past the coding aches and pains, ebbs and flows. that heroku dynos are haaaaard. sometimes everything is hard. some weeks are bursts of productivity and sometimes everything is a struggle. miraculously, strangely, the antidote to shame may be live coding on the big screen as your friends help you talk through your problem. and also we celebrated a win tonight as one of our anchor members heard great news and will be moving on, potentially starting a new CCC chapter at another university. this will be such an adventure to discuss remotely how the wild experiment of our collective might be replicated and remixed and i'm so excited to see how we might rhizome out into the world, while also sad to lose our unique little magic pod which cheered me up so much tonight. 
