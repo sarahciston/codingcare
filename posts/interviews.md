@@ -1,5 +1,6 @@
 ---
 # layout: post
+permalink: interviews
 title: interviews
 nav_order: 95
 ---
@@ -8,11 +9,17 @@ nav_order: 95
 
 # transcripts
 
+* [Katherine](interviews#katherine-yang)
+* [Samir](interviews#samir-ghosh)
+
 <!-- >a creative code, collective guide book kind of vibe -->
 <!-- >I am imagining this will also end up being kind of a living document. -->
 
-## 2022.03.03, Katherine Yang
+<section class="interview" markdown="1">
+
+## Katherine Yang
 ### she/her, BA Media Arts + Practice, double minor in Linguistics and Computer Programming
+#### 2022.03.03
 
 first impressions? Wow, so long ago? This is probably back in like maybe freshman year, like Freshman Spring or something. I saw a poster or email that mentioned code collective and there's an email that I could email and I guess it was you. Or no. I think it was a for a Google format. first. So I signed up, and then I came to the first meeting.
 
@@ -153,11 +160,13 @@ Oh, memory I think there was one time where I was presenting this project. I'd d
 
 >I remember that day that was really fun, and I remember how, in awe of that work everyone was.
 
+</section>
 
-<hl>
+<section class="interview" markdown="1">
 
-## 2022.03.22, Samir Ghosh
+## Samir Ghosh
 ### they/them, Ahmanson Lab Assistant Director, USC Sidney Harman Academy for Polymathic Study
+#### 2022.03.22
 
 >I'm going to search the recording before I forget but we don't have to start right away, either. Did it notify you? I was like Why, didn't it notify me I'm being surveilled.
 
@@ -1247,3 +1256,4 @@ But I feel like it, like you really helped bring it to life in a really special 
 
 And then you just like mitosis me to like another like like well, like phagocytosis, you and a little foot out into the world.
 
+</section>
