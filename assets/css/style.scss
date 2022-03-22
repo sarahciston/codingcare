@@ -36,6 +36,20 @@ h1, h2, h3, h4 {
   color: darkslateblue;
 }
 
+.zine-button {
+  background: darkslateblue;
+	border-width: 1px;
+	border-radius: 5px;
+	color: white !important;
+	padding: 5px;
+  font-weight: 400 !important;
+  float:inline-end;
+}
+
+#zineTitle {
+  visibility: hidden;
+}
+
 /*
   Mobile First! Put desktop styles below
 */

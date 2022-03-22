@@ -1,6 +1,9 @@
 ---
 layout: default
+
 ---
+
+<!-- {{ assign zineLayout = "?layout=zine" }} -->
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 <!-- <br> -->
@@ -8,10 +11,11 @@ layout: default
   <small><em>{{ page.tags | join: ", " }}</em></small>
 {% endif %} -->
 
+{% include_relative includes/zine.md zt = page.title %}
+
 <h1>{{ page.title }}</h1>
 
 <!-- <p class="view">by {{ page.author | default: site.author }}</p> -->
-
 
 <main id="content">
 

@@ -4,6 +4,7 @@ title: manifesto
 nav_order: 2
 date: 21.03.2022 
 tags: [manifesto]
+# zine: yes
 ---
 
 <!--# manifesto, or a reaching towards
@@ -19,7 +20,7 @@ What could code be and do, and for whom, with whom? What should it, what shouldn
 # Why Make with Code in Community
 -->
 
-#### manifesto for coding.care
+## manifesto for coding.care
 
 Whereas coding has been considered the province of too few for far too long. 
 

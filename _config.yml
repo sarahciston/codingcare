@@ -8,6 +8,8 @@ author: Sarah Ciston
 # show_downloads: 
 # google_analytics: 
 
+baseurl: /codingcare
+
 links: 
   # "Get this dissertation in your Inbox (TK)":
     # - "mailgun-setup-TK"
