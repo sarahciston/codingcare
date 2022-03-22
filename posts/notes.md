@@ -1,10 +1,10 @@
 ---
-layout: post
-author: sarahciston
+# layout: post
+# author: sarahciston
 title: notes
 nav_order: 98
 published: true
-date: 21.03.2022 
+# date: 21.03.2022 
 tags: [notes, progress, misc, journal]
 ---
 

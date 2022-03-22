@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 permalink: zinelab
 title: zine lab
 nav_order: 102

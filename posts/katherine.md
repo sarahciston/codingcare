@@ -1,39 +1,21 @@
 ---
 # layout: post
-title: interview
+title: interviews
 nav_order: 95
 ---
+<!-- community-centered, participatory education methods, center process-oriented learning -->
+<!-- studio pathways, holding change -->
 
-community-centered, participatory education methods, I center process-oriented learning
-studio pathways, holding change
+# transcripts
 
-# Transcript
+<!-- >a creative code, collective guide book kind of vibe -->
+<!-- >I am imagining this will also end up being kind of a living document. -->
 
-## sarah
-a creative code, collective guide book kind of vibe.
-I am imagining this will also end up being kind of a living document.
+## 2022.03.03, Katherine Yang
+### she/her, BA Media Arts + Practice, double minor in Linguistics and Computer Programming
 
+first impressions? Wow, so long ago? This is probably back in like maybe freshman year, like Freshman Spring or something. I saw a poster or email that mentioned code collective and there's an email that I could email and I guess it was you. Or no. I think it was a for a Google format. first. So I signed up, and then I came to the first meeting.
 
-
-
-
-
-## Katherine Yang, she/her, BA Media Arts + Practice, double minor in Linguistics and Computer Programming
-first impressions? Wow, so long ago?
-
-00:03:21.000 --> 00:03:27.000
-This is probably back in like maybe freshman year, like Freshman Spring or something.
-
-00:03:27.000 --> 00:03:40.000
-I saw a poster or email that mentioned code collective and there's an email that I could email and I guess it was you.
-
-00:03:40.000 --> 00:03:44.000
-Or no. I think it was a for a Google format. first.
-
-00:03:44.000 --> 00:03:48.000
-So I signed up, and then I came to the first meeting.
-
-00:03:48.000 --> 00:04:00.000
 And I was curious. I wish i'd remember what the what the form had said, but it was something about like creative coding, and I was like, I don't know what i'm gonna do yet. But that sounds really close to what I want to do. They came. There were lots of different people from many disciplines. And we just talked about what we were interested in, and had, like some discussions about like creative ways to use code. 
 And that was a really exciting first meeting for me, and then for a while kind of dropped off, because I think I can fit fit in my schedule, or I think, at one point I was like I can make the meetings but now, but but I've like already missed so many that I feel really awkward going back because I felt like I didn't really know anybody, and I didn't want to like barge back in. I didn't know like what necessarily the culture was so I wish I had gone back. I could have had more meetings but at some point I started coming back, and became a regular and then like more and more.
 
@@ -109,117 +91,43 @@ So yeah curiosity, excitement, vulnerability. Community. collaboration. Yeah, I 
 
 **I really like the the times that we troubleshoot problems and projects, because then it really shows not everyone knows everything, and we all have things to learn from each other and teach each other.**
 
-00:19:39.000 --> 00:19:46.000
+00:19:39.000 --> 00:19:46.000<<WHAT?>>
 And through that process of I feel like I troubleshooting.
 
 That seems to be really successful when you've done them because first of all, **just talking through your problems with somebody else always helps you get a better understanding what you're trying to do.**
 
 **But then also, like other people, will have different perspectives. and also just kind of having that space to like work through it together, like having the time to like sit down and be like, Okay, step one step two. Let me write these lines of code, and then getting to different steps and like going on the journey together. I feel like that's a really I feel like that's a really rewarding process that we go through.**
 
-00:20:26.000 --> 00:20:38.000
-Yeah, yeah, I know, like last week, when I was feeling completely like obliterated.
+>Yeah, yeah, I know, like last week, when I was feeling completely like obliterated. It really helped me to just like talk through. Yeah, But even though I felt like my problem was stupid, and I'd already thought through it alone in exactly the same way as I was even like tired of explaining it because I had explained it to myself in my head. It made something through it out loud, and I left feeling much better than I came in. 
 
-00:20:38.000 --> 00:20:53.000
-It really helped me to just like talk through. Yeah, But even though I felt like my problem was stupid, and I'd already thought through it alone in exactly the same way as I was even like tired of explaining it because I had explained it
-
-00:20:53.000 --> 00:21:01.000
-to myself in my head. It made something through it out loud, and I left feeling much better than I came in. Yeah.
-
-00:21:01.000 --> 00:21:08.000
-And even if you like, there's no there isn't a problem, the problem isn't solved there is still a sense of like validation.
-
-00:21:08.000 --> 00:21:14.000
-And support that you get just from being the vent to somebody that was helpful.
+And even if you like, there's no there isn't a problem, the problem isn't solved there is still a sense of like validation and support that you get just from being the vent to somebody that was helpful.
 
 00:21:14.000 --> 00:21:30.000
-Yeah, has creative code collective affected? how you engage with Code in general, or as a creative critical practice like what has shifted for you about how you work.
+>Yeah, has creative code collective affected how you engage with Code in general, or as a creative critical practice like what has shifted for you about how you work.
 
 00:21:30.000 --> 00:21:37.000
-I think the first thing that comes to mind is that it's a huge source of inspiration.
+I think the first thing that comes to mind is that it's a huge source of inspiration from like the things that we the things that we show each other about, like what we're working on. But also the resources that we drop in the chat. The things that we look at during our meetings. I mean the world of creative coding is so big, and there's always so much to explore, and you always find things every day that you never would have thought of. Another thing that comes to mind is like, Now I think now that I like how built up connections with a bunch of the people in the club I have a sense of each, because each person has their own background in their own specialties, or their things that they're interested in. **I feel like I have like a network of resources almost like if i'm working on.** If I venture into like web VR for example I know Okay, I can ask Samir if I have problems.
 
-00:21:37.000 --> 00:21:44.000
-From like the things that we the things that we show each other about, like what we're working on.
+<<CHECK RECORDING>><<<<<<<<00:22:40.000 --> 00:23:09.000>>>>>>>>>
+So resources are key. And And the third thing is, I guess it just keep it just is always like very encouraging to like in the <<WHAT?>> in the because, like, I think the most most of the tech world is so is is quite toxic and like Techbury,<<WHAT?>> and like on twitter you always see a lot of stuff about like you have to code this way. There's one right way to code and like like how can you be the best coder he'd be the 10 excess 100 X engineer. <<WHAT?>>
 
-00:21:44.000 --> 00:21:48.000
-But also like the resources that we drop in the chat.
+**It's really reassuring to always come back to this environment of like. Okay, you don't have to be that you can go in your own journey at your own pace. And you can explore your own things and there's no one but one right way to code.**
 
-00:21:48.000 --> 00:22:02.000
-The things that we look at during our meetings like it's just I mean the world of creative coding is so big, and there's always so much to explore, and you always find things every day that you never would have thought
+I love that. Yeah, it's really freeing or like I don't know that feels too simple. But it's really yeah, really appreciate that. 
 
-00:22:02.000 --> 00:22:23.000
-of. so that's one thing I another thing that comes to mind is like, Now I think now that I like how built up connections with a bunch of the people in the club have a sense of like like each, because because each person, has their own
+>Do you feel like code collective has shipped it affected how you engage with code as a like a political or intersectional practice at all.
 
-00:22:23.000 --> 00:22:28.000
-background in their own specialties, or like they're things that they're interested in.
-
-00:22:28.000 --> 00:22:35.000
-I feel like I have like a network of resources almost like if i'm working on.
-
-00:22:35.000 --> 00:22:40.000
-If I venture into like web Vr for example I know Okay, I've been asked the mirror if I have the problems.
-
-00:22:40.000 --> 00:23:09.000
-So resources of key And And the third thing is, I guess it just keep it just is always like very encouraging to like in the in the because, like, I think the most most of the tech world is so is is quite toxic
-
-00:23:09.000 --> 00:23:20.000
-and like Techbury, and like on twitter you always see a lot of stuff about like you have to code this way.
-
-00:23:20.000 --> 00:23:28.000
-There's one right way to code and like like how can you be the best coder he'd be the 10 excess 100 X engineer.
-
-00:23:28.000 --> 00:23:37.000
-It's really reassuring to always come back to this environment of like. Okay, you don't have to be that you can go in your own journey at your own pace.
-
-00:23:37.000 --> 00:23:41.000
-And you can explore your own things and there's no one but one right way to code.
-
-00:23:41.000 --> 00:23:50.000
-I love that. Yeah, it's really freeing or like I don't know that feels too simple.
-
-00:23:50.000 --> 00:24:06.000
-But it's really yeah, really appreciate that do you feel like co- collective has shipped it affected how you engage with code as a like a political or intersectional practice at all.
-
-00:24:06.000 --> 00:24:15.000
 I think it's like I don't know if it's like code, collective, or you like your work.
 
-00:24:15.000 --> 00:24:26.000
-Yeah, because I think, like to Miko collective is more about the community. and your work is more about like definitely about community as well.
+00:24:15.000 --> 00:24:26.000<<<<WHAT?>>>>
+Yeah, because I think, like to Miko collective is more about the community. 
+And your work is more about like definitely about community as well. But there's like an explicitly political aspect to it. So I've been really really inspired by your Intersectional AI work. In terms of thinking about code as a non-neutral, politically powerful and relevant platform.
 
-00:24:26.000 --> 00:24:33.000
-But there's like an explicitly political aspect to it So I've been really really inspired by our intersectional Ai work.
+Trying to think about like code collective I don't know. I feel like maybe there is something underlying the idea of  community and collaboration, and collaborating politically, But for me, I just like that the thing that most <<WHAT?>>meatly dump tonight is your work in intersectional AI
 
-00:24:33.000 --> 00:24:48.000
-In terms of like the Hebout code as a non-neutral politically like powerful and relevant platform.
+>>Oh, thanks. I appreciate that. I mean, I do think of the practice of making and maintaining a collective or like, I guess by that I mean just the practice of us being together, and how we do what we are doing as political it's but it is interesting to hear that code collective feels more neutral. Because I do. I do feel like our our think of our values as being more political or intersectional. But I have always wondered like how much of the sort of politics, of code, or how I think of critical coding get into people's projects. Especially as other folks are coming into the space more that aren't media arts folks, like how much is that affecting their projects?
 
-00:24:48.000 --> 00:25:18.000
-Trying to think about like code collective I don't know. I feel like maybe maybe there is something like underlying the idea of like community and collaboration and collaborating like politically, But for me, I just like that the
-
-00:25:21.000 --> 00:25:25.000
-thing that most meatly dump tonight is your work in intersectional.
-
-00:25:25.000 --> 00:25:41.000
-Ai: Oh, man, yeah, thanks. I appreciate that. I mean, I do think of the the practice of making and maintaining a collective or like, I guess by that I mean just the practice of us being together.
-
-00:25:41.000 --> 00:25:57.000
-And how we do what we are doing as political it's but it is interesting to hear that the collect that Coke collected feels more neutral.
-
-00:25:57.000 --> 00:26:07.000
-Because I do. I do feel like our our think of our values as being more political or intersectional.
-
-00:26:07.000 --> 00:26:21.000
->>But I have always wondered like how much of the sort of politics, of code, or how I think of critical coding get into people's projects.
-
-00:26:21.000 --> 00:26:32.000
-I especially as like other folks are coming into the space more that aren't like media arts folks like how much is that affecting their projects?
-
-00:26:32.000 --> 00:26:46.000
-I just It'll be interesting to see yeah I mean I think we do always like It's always a
-
-00:26:46.000 --> 00:26:58.000
-There's a lot of oh, like source of discussion in the projects that we work on and encounter in the wild like.
-
-00:26:58.000 --> 00:27:07.000
-When we first started seeing Dahzi at the meetings, I forget their pronouns. Dahzi was working on a lot of Ai stuff, and we immediately started talking about like a lot of the ethics around, and and like controversy of surrounding Ai and nfts. And they were really I feel like they we're quick to like really jump in and like join the discussion about how they were feeling. And I feel like That's a hard conversation to have or like hard to find a space somewhere else that would host those kinds of discussions. And so I feel like you probably talk a lot about, like the politics of like community and inclusion like I mean, I guess that is political. But for me, I guess, like What first came to mind was the fact that **it is a community where we can hold space for having those discussions.**
+It'll be interesting to see. There's a lot of source of discussion in the projects that we work on and encounter in the wild, like... When we first started seeing Dahzi at the meetings, I forget their pronouns. Dahzi was working on a lot of AI stuff, and we immediately started talking about like a lot of the ethics around, and and like controversy of surrounding AI and NFTs. And they were really I feel like they were quick to really jump in and join the discussion about how they were feeling. And I feel like that's a hard conversation to have or **hard to find a space somewhere else that would host those kinds of discussions. And so I feel like you probably talk a lot about, like the politics of like community and inclusion like I mean, I guess that is political.** But for me, I guess, what first came to mind was the fact that **it is a community where we can hold space for having those discussions.**
 
 00:28:10.000 --> 00:28:16.000
 <<XXX>[which is a] Political thing. Yeah, Yeah, I think so, too. I appreciate that.
