@@ -19,7 +19,8 @@ tags: [tips, guide, handy]
 ## 1. we know code isn't magic, but we are
 Code is language, code is a tool; code can be read and learned and used to express. 
 
->"No way, code is magic." (Samir, staff, they/them)
+>"No way, code is magic." 
+>(Samir, they/them, Assistant Director USC Ahmanson Lab)
 
 ### we choose/find small things to get excited about and do them right away
 
@@ -31,41 +32,53 @@ It's true there's a lot to be said for the smallest viable prototype. Sure. But 
 
 ### ...and we ask after each other
 
+### we meet regularly
 
-### we voice our "stupid" questions, nagging suspicions, deepest fears
-Even, and especially, as leaders and teachers we must do this. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body who nevertheless creates does so much more to teach and model how to create than anything I actually have lectured. And the less I plan and structure ~~but instead gesture and invite~~, the more space I invite and permit for what needs and wants to arise. 
+weekly if possible, in person if possible, and we accommodate what's not always possible. We're flexible to the impossible and know we'll get back to it later. Like old friends you can pick up with after an indeterminate amount of time, no questions asked. Or old code that needs a break from you after troubleshooting for too long. A frequent, consistent cadence of meeting in person is best. It feels easeful. And when we can't, there is trust we'll get back to each other when we can. Without pressure or resentment or guilt. It's not meant to be another obligation on the calendar, but a reprieve. We help restore each other through co-presence. We defrag each other's mental hard disks through the process of communing.  
 
-### (brave spaces w Sultan?)
+<!-- #### (brave spaces w Sultan?) -->
 
 ### this literally *makes* the room for each other, creates the room we have together
 
-## 3. we are serious about silliness
+### we support snacks
+Seriously, everyone cites snacks as the number one item that keeps bringing students to our meetups. Snacks are magic. How do snacks do it? I don't know, ask snacks. Make sure you budget for snacks.
 
->"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it" (Shane 2019, 4).
+>>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." 
+>(Ada Toydemir, they/them, MS Computer Science)
 
-### we live for snacks
-Seriously, snacks get cited as the number one item that keep bringing students to our meetups. Snacks are magic. How do snacks do it? 
+As our meetings transitioned to virtual spaces and across timezones, snacks still held sway as a conversation starter. Then, on return to a campus strictly regulated with no-food policies and mask-wearing, our beloved snacks were off the table (under the table instead). Whether piled in the center of the table, dutifully taken outside or discussed in their absence, snacks  
+<!-- As de facto official of the collective, I can report that I never saw any students indulge in snacks during our meetings within view of a campus security camera. -->
 
->>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." (Ada Toydemir, (CS, they/them)
-
-### we start each session with a shared playlist
+### we start sessions with a shared playlist
 And it is on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now," which came to be when at our first meetup a quiet student piped up out of the blue with this amazing suggestion for our background tunes. I was blown away. And it has been our rallying call ever since. 
 
 A collaborative playlist on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another humanizing way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community at large *and* when working on code. It's all connected! 
 
+## 3. we are serious about silliness
+
+>"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it" (Shane 2019, 4).
 ### we fight for the silly photo
 ...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
-### we put things in context 
+### we voice our "stupid" questions, nagging suspicions, deepest fears
+Even, and especially, as leaders and teachers we must do this. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body who nevertheless creates does so much more to teach and model how to create than anything I actually have lectured. And the less I plan and structure ~~but instead gesture and invite~~, the more space I invite and permit for what needs and wants to arise. 
 
->>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." (Dr. A. A. Vernelle Noel, Georgia Tech)
+### we put everything in context 
 
-### we are not in class. we're [in???]
+>>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
+>(Dr. A. A. Vernelle Noel, Georgia Tech)
+
+### we are not in class. we're in community.
+
+
 
 We fly under the radar. we are a rag-tag troupe of misfits, a dead poets' society, a laboratory, a not-so-secret guild.
 
 Our mascots are magpies and meme cats, too-clever animals fascinated with hoarding shiny objects and causing a little trouble. We look to jellyfish and labyrinths for their translucent flexibility, their decentralized nervous systems, their twisty turny mystery and ability to go deep. 
 
+Still we want to find openings for others to enter, [...]
+
+## 4. we share resources 
 
 ### minimal is accessible
 
@@ -73,7 +86,7 @@ Sometimes the low-fi answer is the right one. When searching for the right tools
 
 [...]
 
-## 4. we foreground our values
+## 5. we foreground our values
 
 These principles began as intuition and expanded, distilled, developed along the way as we noted parallels with other organizations, thinkers, makers, and more. 
 
