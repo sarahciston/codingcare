@@ -14,7 +14,7 @@ links:
   # "Get this dissertation in your Inbox (TK)":
     # - "mailgun-setup-TK"
   "Intersectional AI Toolkit": 
-    - "https://sarahciston.github.io/intersectionalai"
+    - "https://intersectionalai.com"
   "Tethered.Network": 
     - "https://sarahciston.github.io/tethered"
   "Get your pal a QUEER LOVE zine": 
@@ -22,7 +22,7 @@ links:
   # "Get yourself a shirt":
     # - "https://www.bonfire.com/store/coding-care/"
   "More projects": 
-    - "https://sarahciston.github.io"
+    - "https://sarahciston.com"
 links_new_tab: true
 
 # how do i indicate other folders to include in jekyll conversion again

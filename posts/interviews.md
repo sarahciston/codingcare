@@ -81,7 +81,7 @@ Yeah, yeah, I Yeah. I think The The goal is always to work towards a culture of 
 So it's sort of yeah, not her that we the level that approaches the same.
 
 00:15:26.000 --> 00:15:35.000
-Yeah, Yeah, I think that's true. maybe I would also add in my answer that **we encourage curiositya and self startership.** Yeah, Well, I guess I guess back to my original, like hesitation about the beginners thing is that I feel like we have had a lot of people come by, even if it was just once but they were like I don't know anything about code. but what you're doing sounds really exciting and then they hang out, and they learn couple of like big ideas about like what's going on. And even if it's not something that, like an environment they would want to come back to regularly, just because it's like not necessarily in their wheelhouse, which is totally fine, like **just by having this space of of discovery and co-learning, we can show people even just passersby that this is a kind of thing that you can explore.**
+Yeah, Yeah, I think that's true. maybe I would also add in my answer that **we encourage curiosity and self startership.** Yeah, Well, I guess I guess back to my original, like hesitation about the beginners thing is that I feel like we have had a lot of people come by, even if it was just once but they were like I don't know anything about code. but what you're doing sounds really exciting and then they hang out, and they learn couple of like big ideas about like what's going on. And even if it's not something that, like an environment they would want to come back to regularly, just because it's like not necessarily in their wheelhouse, which is totally fine, like **just by having this space of of discovery and co-learning, we can show people even just passersby that this is a kind of thing that you can explore.**
 
 >>Yeah, I love that. Yeah. and I think we we're still practicing like not steamrolling people with our excitement.But about being like, let me show you how to do this in like, you know. yeah, E7 script and Python list comprehensions. Let me show you the most efficient, like tight, nerdy way to express it like, Let me show you the concept or get you excited about it. 
 
@@ -180,37 +180,11 @@ It's like I mean I originally was very incensed at kind of how this constitution
 
 And who's profiting from it and all of that too, and it just feels so out of like out of my hands as an individual. Although, like there are signs in in I guess, like I went to visit family, this last weekend, and there was a license played reader on a road, and it was labeled as a license plate leader, reader, So it can like tell people that Oh, it's logging your license plate. 
 
-Yeah, yeah, I don't if they're like Okay, full transparency.
+>Yeah, yeah, I don't if they're like Okay, full transparency. You're this is happening rather than it's happening but you just don't know like if that's a step in what direction we've moved like that. it's just at first it was like Oh, that's better but now I'm also like Oh, people have it's like incrementally. We just get used to these things, and then we yeah I don't have a choice. I'm already going down that road literally yeah and i've voice. I can't put the brakes on and choose not to go past it.
 
-00:02:29.000 --> 00:02:45.000
-You're this is happening rather than it's happening but you just don't know like if that's a step in what direction we've moved like that. it's just at first it was like Oh, that's better but
+Yeah. And also I was reading about how in China they just have had pervasive surveillance In a while, but there is kind of a common rhetoric of It's safer just given that there's just so many more people, and and so much more of a fear of bad actors in their society may be stoked by the government, but like kind of the the pervasive surveillance is something that keeps people safe in a line. So there's that kind of attitude 
 
-00:02:45.000 --> 00:02:50.000
-Now i'm also like Oh, people have it's like incrementally.
-
-00:02:50.000 --> 00:02:54.000
-We just get used to these things, and then we yeah I don't have a choice.
-
-00:02:54.000 --> 00:02:59.000
-I'm already going down that road literally yeah and i've voice.
-
-00:02:59.000 --> 00:03:03.000
-I can't put the brakes on and choose not to go past it.
-
-00:03:03.000 --> 00:03:10.000
-Yeah. And also I was reading about how in China they just have had pervasive surveillance.
-
-00:03:10.000 --> 00:03:23.000
-In a while, but there is kind of a common rhetoric of It's safer just given that there's just so many more people, and and so much more of a fear of bad actors in their society may be stoked by
-
-00:03:23.000 --> 00:03:30.000
-the government, but like kind of the the pervasive surveillance is something that keeps people safe in a line.
-
-00:03:30.000 --> 00:03:47.000
-So there's that kind of attitude Yeah, yeah I mean all of that adds to definitely informed by our overall individualists versus their a more collective approach to identity.
-
-00:03:47.000 --> 00:04:01.000
-I think 2 you But yeah, we definitely you know there's always been those arguments of like, Oh, well, why do you care if you're being surveilled?
+>Yeah, yeah I mean all of that adds to definitely informed by our overall individualists versus their a more collective approach to identity. We definitely you know there's always been those arguments of like, Oh, well, why do you care if you're being surveilled?
 
 00:04:01.000 --> 00:04:07.000
 If you don't have anything to hide and it was like the other thing, where like?
@@ -228,43 +202,12 @@ It's you know cops protect property and they're like if it's, you know, body cam
 They protect the cops, wearing them from all intents and purposes.
 
 00:04:45.000 --> 00:04:58.000
-The guy had this notion of like Maybe we can make these variables that have like kind of like, you always have like an alibi like It's just your own personal surveillor, so like you can just always have
+The guy had this notion of like Maybe we can make these variables that have like kind of like, you always have like an alibi like It's just your own personal surveillor, so like you can just always have irrevocable evidence. around you because but I don't I don't know it's like a dash camp but for your personhood.
 
-00:04:58.000 --> 00:05:04.000
-irrevocable evidence. around you because but I don't.
+>Yeah, Yeah, I mean that's a definitely like a blackmail episode waiting to happen. 
+>I think this is really interesting. I feel like this is totally because of conversations that we have in code collective. So I feel like asking if the code collective or things like it have changed the way you think about questions like this.
 
-00:05:04.000 --> 00:05:09.000
-I don't know it's like a dash camp but for your personhood.
-
-00:05:09.000 --> 00:05:20.000
-Yeah, Yeah, I mean that's a definitely like a blackmail episode waiting to happen.
-
-00:05:20.000 --> 00:05:33.000
-Do you feel like? I think this is really interesting. I feel like this is totally because of conversations that we have in code collective.
-
-00:05:33.000 --> 00:05:44.000
-So I feel like asking if the code collective or things like it have changed the way you think about questions like this.
-
-00:05:44.000 --> 00:05:54.000
-I don't think I would have had and like it's the only space I've had to like feel like thinking like this was okay like like this whole time.
-
-00:05:54.000 --> 00:06:02.000
-Yeah, I mean as a as someone who would lecture in front of people like, even while I was studying.
-
-00:06:02.000 --> 00:06:07.000
-It was kind of like, very isolating to think about the other aspects of technology.
-
-00:06:07.000 --> 00:06:10.000
-So create a code collector was the only space I mean there.
-
-00:06:10.000 --> 00:06:14.000
-There were other spaces like like Corpus colosa, which was art and technology.
-
-00:06:14.000 --> 00:06:20.000
-So there was the ability to express kind of the graphical merit or kind of interesting like aspects over the air.
-
-00:06:20.000 --> 00:06:30.000
-But as far as critically looking at Code and how it relates to society personhood like it's it's been the only only section only space for that.
+**I don't think I would have had and like it's the only space I've had to like feel like thinking like this was okay like like this whole time.** Yeah, I mean as a as someone who would lecture in front of people like, even while I was studying. **It was kind of like, very isolating to think about the other aspects of technology. So creative code collective was the only space** I mean there were other spaces like like Corpus colosum, which was art and technology, so there was the ability to express kind of the graphical merit or kind of interesting like aspects over there. But as far as critically looking at code and how it relates to society personhood like it's it's been the only only section only space for that.
 
 00:06:30.000 --> 00:06:36.000
 That's really interesting because especially because it was sort of you know.
