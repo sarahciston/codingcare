@@ -105,7 +105,7 @@ The work done with Intersectional AI Toolkit and Creative Code Collective both a
 * digital humanities and digital scholarly publishing
 * zine culture, punk/riotgrrl counter-cultural print publishing, avant-garde art/poetry, fluxus, oulipo
 * interdependence is indigenous knowledge
-* a go-bag, a tool chest as a limited set of items required to operate independently, in support of mutual aid, to take on the road, a skillset to pass down, to keep one mobile and flexible, an oral tradition and a material set of objects and a knowledge base. a hope chest. independent from corporate or platform lock-in. is it possible to have or a call for this? takes the form of a listicle, the 50 (?) items you need to have *Intersectional AI Toolkit: 50 Skills, Concepts, and Ideas for more Ethical, Portable, Inclusive, Sustainable, Mutually Supportive Systems.* 
+* a go-bag, a tool chest as a limited set of items required to operate independently, in support of mutual aid, to take on the road, a skillset to pass down, to keep one mobile and flexible, an oral tradition and a material set of objects and a knowledge base. a hope chest. independent from corporate or platform lock-in. is it possible to have or a call for this? takes the form of a listicle, the 50 (?) items you need to have *Intersectional AI Toolkit: 66? Skills, Concepts, and Ideas for more Ethical, Portable, Inclusive, Sustainable, Mutually Supportive Systems.* 
 
 ### concepts
 * **coding**: language-based, institutional and social, performative, speech acts
@@ -154,8 +154,6 @@ And **TechnoCraft** is the combo of historically dismissed and feminized practic
    "low-effort publishing tools" like [varia etherdump](https://etherdump.vvvvvvaria.org/)
 
 
-
-
 ### inspo: people & communities, writerly forms
 * Sara Ahmed
 * Lauren Berlant
@@ -173,6 +171,7 @@ See References TK
 Zach Blas [Queer Technologies](https://zachblas.info/works/queer-technologies/)
 Care Syllabus Advisory Collective. [I Can't. Feeling Through Burdens of Care](https://www.caresyllabus.org/i-cant-feeling-through-burdens-of-care)
 Hedva, Johanna. [Care in End Times, Care Syllabus](https://www.caresyllabus.org/care-in-end-times)
+* McPherson, Tara. [Feminist in a Software Lab](https://www.hup.harvard.edu/catalog.php?isbn=9780674728943)
 
 >>"balance exploration with exploitation" (Montfort 20XX, 5)
 

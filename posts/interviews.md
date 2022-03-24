@@ -89,30 +89,18 @@ Yeah, Yeah, I think that's true. maybe I would also add in my answer that **we e
 
 I think, like the spirit is curiosity, excitement, piggybacking off a couple of things.
 
-You just said curiosity, excitement, there's a certain sense of like vulnerability in there, where it's like you don't—It's not like you're showing off to each other sometimes it's like it's like showing off but it's like in a way that you're like you I struggle to I struggle through this to make this thing that I'm really proud of and there's it's not a sense of competition, because nobody's working on the same thing. But it's more of like I made this really cool thing that I'm really proud of, and I really want to show you guys and talk about like how we can better support... We can support each other and encourage each other and things like that.
-<<WHO?>>
-So yeah curiosity, excitement, vulnerability. Community. collaboration. Yeah, I think hopefully, like a lot of the words that were mentioned in the previous question.
+You just said curiosity, excitement, there's a certain sense of like vulnerability in there, where it's like you don't—It's not like you're showing off to each other sometimes it's like it's like showing off but it's like in a way that you're like, "I struggled through this to make this thing that I'm really proud of" and there's not a sense of competition, because nobody's working on the same thing. But it's more of like, "I made this really cool thing that I'm really proud of, and I really want to show you guys and talk about" like how we can better support... We can support each other and encourage each other and things like that. So yeah curiosity, excitement, vulnerability. Community. collaboration. Yeah, I think hopefully, like a lot of the words that were mentioned in the previous question.
 
-00:19:04.000 --> 00:19:13.000
->Are there specific ways you think that we like embody those or put them forward that share not to you.
+>Are there specific ways you think that we like embody those or put them forward ?
 
-**I really like the the times that we troubleshoot problems and projects, because then it really shows not everyone knows everything, and we all have things to learn from each other and teach each other.**
-
-00:19:39.000 --> 00:19:46.000<<WHAT?>>
-And through that process of I feel like I troubleshooting.
-
-That seems to be really successful when you've done them because first of all, **just talking through your problems with somebody else always helps you get a better understanding what you're trying to do.**
-
-**But then also, like other people, will have different perspectives. and also just kind of having that space to like work through it together, like having the time to like sit down and be like, Okay, step one step two. Let me write these lines of code, and then getting to different steps and like going on the journey together. I feel like that's a really I feel like that's a really rewarding process that we go through.**
+**I really like the the times that we troubleshoot problems and projects, because then it really shows not everyone knows everything, and we all have things to learn from each other and teach each other.** And through that process of, I feel like live troubleshooting seems to be really successful when you've done them because first of all, **just talking through your problems with somebody else always helps you get a better understanding what you're trying to do. But then also, like other people, will have different perspectives. and also just kind of having that space to like work through it together, like having the time to like sit down and be like, Okay, step one step two. Let me write these lines of code, and then getting to different steps and like going on the journey together. I feel like that's a really rewarding process that we go through.**
 
 >Yeah, yeah, I know, like last week, when I was feeling completely like obliterated. It really helped me to just like talk through. Yeah, But even though I felt like my problem was stupid, and I'd already thought through it alone in exactly the same way as I was even like tired of explaining it because I had explained it to myself in my head. It made something through it out loud, and I left feeling much better than I came in. 
 
 And even if you like, there's no there isn't a problem, the problem isn't solved there is still a sense of like validation and support that you get just from being the vent to somebody that was helpful.
 
-00:21:14.000 --> 00:21:30.000
->Yeah, has creative code collective affected how you engage with Code in general, or as a creative critical practice like what has shifted for you about how you work.
+>Yeah, has creative code collective affected how you engage with code in general, or as a creative critical practice like what has shifted for you about how you work.
 
-00:21:30.000 --> 00:21:37.000
 I think the first thing that comes to mind is that it's a huge source of inspiration from like the things that we the things that we show each other about, like what we're working on. But also the resources that we drop in the chat. The things that we look at during our meetings. I mean the world of creative coding is so big, and there's always so much to explore, and you always find things every day that you never would have thought of. Another thing that comes to mind is like, Now I think now that I like how built up connections with a bunch of the people in the club I have a sense of each, because each person has their own background in their own specialties, or their things that they're interested in. **I feel like I have like a network of resources almost like if i'm working on.** If I venture into like web VR for example I know Okay, I can ask Samir if I have problems.
 
 <<CHECK RECORDING>><<<<<<<<00:22:40.000 --> 00:23:09.000>>>>>>>>>
@@ -205,188 +193,71 @@ I would say their utility was more for engineers who are stuck in a rigid engine
 
 >How would you describe code collective? then? code collective is very free for it?
 
-So it's not it doesn't have structure like corpus callosum, some would and I feel like there's a huge sense of individualism, so code collective in all of its forms because it's changed over the pandemic, too. But people are coming to there with coming to to the gathering with their own projects, their own ideas rather than corpus closing, which is like people are put into groups in order to execute on something it's very task-oriented as an organization. Whereas this isn't task oriented, or goal oriented in the same way.
+So it's not it doesn't have structure like corpus Callosum, some would and I feel like there's a huge sense of individualism, so code collective in all of its forms because it's changed over the pandemic, too. But people are coming to there with coming to to the gathering with their own projects, their own ideas rather than corpus Callosum, which is like people are put into groups in order to execute on something it's very task-oriented as an organization. Whereas this isn't task oriented, or goal oriented in the same way.
 
->Okay, that's yeah that's interesting and helpful Yeah. And I was because I was wondering if you met like the the first another difference being that we don't we're not focused on engineering students who want to explore a more artistic project.
+>Okay, that's yeah that's interesting and helpful Yeah. And I was because I was wondering if you met like the the first another difference being that we don't we're not focused on engineering students who want to explore a more artistic project. But also that we're not then put in like you know that we're maybe mainly focused on non-engineering students. But then welcoming to engineering students. but we're also not doing like a kind of hacker space or Hackathon approach where it's focus sprints on a group work. It's more exploratory and ongoing 
 
-But also that we're not then put in like you know that we're maybe mainly focused on non-engineering students.
+yeah I think there's like 2 things to that. I think it can lend itself to engineering students stepping up because we've seen that there have been a couple of engineering students come by and derive benefit from it. But I I do think that there's kind of a sense like people have to come to the collective as individual agents definitely with like there has. There is kind of a requisite like either scale or or kind of like attempt, or like some sort of project that people have to possess in order to drive something from code collective.
 
-00:09:03.000 --> 00:09:12.000
-But then welcoming to engineering students. but we're also not doing like a kind of hacker space or hack.
+>Yeah, or at least in like interest or desire like i'm thinking of Robbie, who was like I don't know any code.
 
-00:09:12.000 --> 00:09:20.000
-Hackathon approach where it's focus sprints on a group work.
+Here I am. Yeah, what do I do so there's there's some sort of like intrinsic like yeah, something intrinsic. Whereas Corpus Callosum like I mean for a lot of the bulk of its existence was a no-cut organization. So it would just get the Rejects from other engineering organizations. 
 
-00:09:20.000 --> 00:09:25.000
-It's more exploratory and ongoing yeah I think there's like 2 things to that there's.
+So imagine getting to Usc. which is more competitive than Ivy League and then applying to a student organization that'll have a 2% acceptance rate. So a lot of students are coming to their engineering school, hoping to get some experience outside of their classes, not getting in and then ending up in Corpus Callosum, because Corpus Callosum will have an attitude of welcoming everyone so like, you know, it exists even yeah it exists different than that, because Corpus Callosum to me, could come in with no experience or no real motivation, and you could just be put to work. 
 
-00:09:25.000 --> 00:09:36.000
-Yeah, I think it can lend itself. to engineering students stepping up because we've seen that there have been a couple of engineering students come by and derive benefit from it.
-
-00:09:36.000 --> 00:09:48.000
-But I I do think that there's kind of a sense like people have to come to the collective as individual agents definitely with like there has.
-
-00:09:48.000 --> 00:09:59.000
-There is kind of a requisite like either scale or or kind of like attempt, or like some sort of project that people have to possess in order to drive something from code collective.
-
-00:09:59.000 --> 00:10:11.000
-Yeah, or at least in like interest or desire like i'm thinking of Robbie, who was like I don't know any code.
-
-00:10:11.000 --> 00:10:19.000
-Here I am. Yeah, what do I do so there's there's some sort of like intrinsic like yeah, something intrinsic.
-
-00:10:19.000 --> 00:10:27.000
-Whereas co-operosome like I mean for a lot of the bulk of its existence was a no-cut organization.
-
-00:10:27.000 --> 00:10:31.000
-So it would just get the Rejects from other engineering organizations.
-
-00:10:31.000 --> 00:10:39.000
-So imagine getting to Usc. which is more competitive than Ivy League and then applying to a student organization that'll have a 2% acceptance rate.
-
-00:10:39.000 --> 00:10:50.000
-So a lot of students are coming to their engineering school, hoping to get some experience outside of their classes, not getting in and then ending up in corpus course, because Corpus Closer will have an attitude of welcoming
-
-00:10:50.000 --> 00:11:03.000
-everyone so like, you know, it exists even yeah it exists different than that, because Corpus close to me, could come in with no experience or no real motivation, and you could just be put to work.
-
-00:11:03.000 --> 00:11:14.000
 Really like it's very structured you know none of the work in in Code Collective has ever been structured towards a project or a goal or a task in the same way.
 
-00:11:14.000 --> 00:11:19.000
-That something that you would want? Is that something you would change?
+>Is that something that you would want? Is that something you would change?
 
-00:11:19.000 --> 00:11:39.000
-No, Okay, that I would change I think that that it's an important. It's almost like a salon right like or what I had to imagine like like in what like pre French revolution people thinking about stuff ha Yeah, Yeah, I like that
+No, not that I would change. I think that that it's an important. It's almost **like a salon right like or what I had to imagine like like in what like pre French revolution people thinking about stuff** 
 
-00:11:39.000 --> 00:11:55.000
-I'm gonna tap off coffee really quick, and Then Okay, sorry.
+>I love that you're thinking of it as like a salon. That's maybe really good word, thank you.I do I feel like that sort of like that's what I was hoping for in a way. There were moments where I was like imagining it having more structure or like, but I also wasn't really sure like wanting it to wanted it to like organically become what it needed to be, but not always sure what that is or felt like it that that was definitely going to change as the people in it were going to change. And so it was, imagining that, like one version of it was that we might do projects together. But that definitely didn't seem to be as much what people needed is just like the space for connection.
 
-00:11:55.000 --> 00:12:25.000
-The coffee is really full, and I made a huge mess.
-
-00:12:47.000 --> 00:13:06.000
-When you can see the coffee from the zoom you know It's full the spill later i'm like imagining bumping the desk.
-
-00:13:06.000 --> 00:13:15.000
-I love that i'm thinking of it as like a salon. That's maybe really good word, thank you.
-
-00:13:15.000 --> 00:13:28.000
-I do I feel like that sort of like that's what I was hoping for in a way.
-
-00:13:28.000 --> 00:13:46.000
-There were moments where I was like imagining it having more structure or like, but I also wasn't really sure like wanting it to wanted it to like organically become what it needed to be, but not always sure what that is or felt like
-
-00:13:46.000 --> 00:13:53.000
-it that that was definitely going to change as the people in it were going to change.
-
-00:13:53.000 --> 00:13:59.000
-And so it was, imagining that, like one version of it was that we might do projects together.
-
-00:13:59.000 --> 00:14:08.000
-But that definitely didn't seem to be as much what people needed is just like the space for connection.
-
-00:14:08.000 --> 00:14:14.000
 Yeah, because everyone has spaces to do projects. Everyone is being made to do for reasons.
 
-00:14:14.000 --> 00:14:32.000
-Definitely I mean like this is special there's a huge lock of like being able to talk about code or tech as an intellectual or not. Is it like, yeah outside of the boundaries of like executing.
+Definitely I mean like this is special **there's a huge lack of like being able to talk about code or tech as an intellectual** or not. Is it like, yeah outside of the boundaries of like executing on tasks. 
 
-00:14:32.000 --> 00:14:46.000
-On tasks. that's interesting. how did you first hear about co- collective And what were your first impressions when Tara introduces?
+>that's interesting. how did you first hear about code collective And what were your first impressions 
 
-00:14:46.000 --> 00:14:56.000
-Okay, yeah, very cool. what did you kind of yeah? What was your first?
+when Tara introduced us.
 
-00:14:56.000 --> 00:15:02.000
-Yeah, when did we go first? I can't remember must have been 20?
+>Okay, what did you kind of yeah? What was your first?
 
-00:15:02.000 --> 00:15:10.000
-19, right? yeah. Well, 2 years ago you and auto went together the first time, so I don't.
+Yeah, when did we go first? I can't remember must have been 2019, right? yeah. Well, 2 years ago you and Ada went together the first time, so I don't I don't know down in the basement I don't know if i knew Ada back then. yeah, I don't remember if it was just I think it might have been just you. Oh, young man, I feel very old today 
 
-00:15:10.000 --> 00:15:15.000
-I don't know down in the basement I don't know if i'm you auto back.
+>there's always Someone older. I think I'm more than I think I have a good 10 years on you, so don't worry about it. I think so. How old are you today? 26 today? Yeah, That's what I thought.
 
-00:15:15.000 --> 00:15:20.000
-Then. yeah, I don't remember if it was just I think it might have been just you.
+Wow! do you Do you have a 10 years of it? 
 
-00:15:20.000 --> 00:15:44.000
-Oh, young man, I feel very old today there's always Someone older. I think I'm more than I think I have a good 10 years on you, so don't worry about it. I think so.
+>12 
 
-00:15:44.000 --> 00:15:50.000
-How old are you today? 26 today? Yeah, That's what I thought.
+12 12 years of me? Oh, my gosh, 
 
-00:15:50.000 --> 00:15:55.000
-Wow! do you Do you have a 10 years of it? 1212 12 years of me?
+>Yeah. So yeah, you're welcome yeah So did you like What was your sense of it when you first Can you like cast your mind back. Yeah, I mean like how it's evolved. 
 
-00:15:55.000 --> 00:16:12.000
-Oh, my gosh, Yeah. So yeah, you're welcome yeah So did you like What was your sense of it when you first Can you like?
+Yeah, back then I was a little bit more into creative code as a concept. I've kind of shed any desire to be attached to that anymore. I was really just into the creativity and the artistry of things like processing things like open frameworks, Arduino all of those frameworks use to kind of creatively express or do interesting projects. 
 
-00:16:12.000 --> 00:16:18.000
-Cast your mind back. Yeah, I mean like how it's evolved. Yeah, back.
+So that's one end, and also, like the other stuff like open source privacy, rights that are kind of cultural analogs to these communities and injustice with AI or justices with big tech and inequity. I feel like there's kind of like, I won't even call it left. But there's sort of whenever you use tech in a creative manner or an attack in a non-capitalist or non like vocational manner. I don't want to say capitalist, because anything could be capitalist, but like for nonvocational manner, there there can be a value set that's in common that a lot of ideas and actions can stop from so like a kind of seeking that community, or seeking kind of people that would be aligned with those values.
 
-00:16:18.000 --> 00:16:27.000
-Then I was a little bit more into creative code as a concept I i've kind of like i've like shed any desire to be attached to that anymore.
+That's what creative code collective provided , and I also like to see our students learning how to code.
 
-00:16:27.000 --> 00:16:36.000
-I was really just into the creativity and the artistry of things like processing things like open frameworks.
+**I think we learn a lot from teaching. Anyone who's experienced in code understands that we learn also through trying to solve problems. So seeing other people's problems is a very helpful thing.** 
 
-00:16:36.000 --> 00:16:51.000
-Arduino all of those frameworks use to kind of creatively express or do interesting projects, So that's one end, and also, like the other stuff like open source privacy, rights that are kind of cultural analogs to these
+>Did it feel like a different way of teaching to you? 
 
-00:16:51.000 --> 00:16:57.000
-communities and injustice with Ai or justices with big tech and inequity.
+No, honestly. **It felt very similar to when I was working at Intel, and there people had to work together on problems, or, if they were stuck probably would escalate, or you bring it to the neighbor and ask for help. So it's an opportunity to take real vocational experience and bring it outside of that like kind of the collaborative nature that you would see in problems.**
 
-00:16:57.000 --> 00:17:01.000
-I feel like there's kind of like I I won't even call it left.
+>I'm surprised to hear, too, that there aren't more opportunities to have those kinds of those components that you're talking about around the the cultural pieces of code, to have those conversations elsewhere, or that there's not a culture around that elsewhere.
 
-00:17:01.000 --> 00:17:09.000
-But there's sort of whenever you use tech in a creative manner or an attack in a non-capitalist or non like vocational manner.
+But yeah, there were some communities that I could see it a little bit but it was **hard to find in person.**
 
-00:17:09.000 --> 00:17:26.000
-I don't want to say capitalist, because anything could be complex, but like for nonvocational manner, there there can be a value set that's in common that a lot of ideas and actions can stop from so like a kind of seeking that
+So that was something that that you kind of did like amazingly because you could find that on the Internet if you were to seek it out, there are meetups and gatherings. But they're super weird. 
 
-00:17:26.000 --> 00:17:29.000
-community, or seeking kind of people that would be aligned with those values.
+>What What makes them weird that we did it do like what?
 
-00:17:29.000 --> 00:17:37.000
-That's what create a code club to provide it we are, and I like to be, I mean, I also like to be our out students learning how to code.
+What made this different or what? Yeah, 
 
-00:17:37.000 --> 00:17:45.000
-I think we learn a lot from teaching anyone who's experienced in code can be like understands that we learn also through trying to solve problems.
-
-00:17:45.000 --> 00:17:50.000
-So seeing other people's problems is a very helpful thing Yeah. yeah, definitely.
-
-00:17:50.000 --> 00:17:57.000
-Did it feel like a different way of teaching 2? No, it felt very honestly.
-
-00:17:57.000 --> 00:18:13.000
-It felt very similar to when I was working at Intel, and there were people people had to work together on problems, or, if they were, probably would escalate, or you bring it to the neighbor and ask for it. so opportunity to take like real vocational experience and
-
-00:18:13.000 --> 00:18:18.000
-bring it outside of that like kind of the collaborative nature that you would see in problems.
-
-00:18:18.000 --> 00:18:25.000
-Yeah, you could see that there interesting yeah i'm I'm.
-
-00:18:25.000 --> 00:18:38.000
-Surprised to hear, too, that there are more opportunities to have those kinds of those components that you're talking about around the the cultural pieces of code.
-
-00:18:38.000 --> 00:18:44.000
-Those to have those conversations elsewhere, or that there's not a culture around that elsewhere.
-
-00:18:44.000 --> 00:18:51.000
-But yeah, there were some communities that I could see it a little bit but it was hard to find in person.
-
-00:18:51.000 --> 00:18:58.000
-So that was something that that you kind of did like amazingly because you could find that on the Internet if you were to seek it out, there are meetups and gatherings.
-
-00:18:58.000 --> 00:19:07.000
-But they're super weird. What What makes them weird that we did it do like what?
-
-00:19:07.000 --> 00:19:13.000
-What made this different or what? Yeah, Because it was already within the context of the university community.
+Because it was already within the context of the university community.
 
 00:19:13.000 --> 00:19:19.000
 So by being membership of the University common community there's something in common, Right?

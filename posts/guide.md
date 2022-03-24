@@ -63,6 +63,7 @@ Or Round Robin, or Check Ins, or Council Method, or some version of an opening g
 ### we are serious about silliness
 
 >"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it" (Shane 2019, 4).
+
 ### we fight for the silly photo
 ...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
@@ -77,11 +78,12 @@ Even, and especially, as leaders and teachers we must do this. We connect over /
 ### when making we ask Why. And How and Who. Not just What.
 
 ### we troubleshoot together
-Live coding, though it might seem counterintuitive, sparks confidence. 
+Live coding, though it might seem counterintuitive, sparks confidence. It helps to watch another coder, whether brilliant or beginner or both, struggle under the familiar burden of a problem and that feeling that they cannot solve it, and that they're unfit to call themselves real coders, that they're imposters, and that the feeling will never ever go away. Then collaborating with others to solve it. Remember them next time you feel the same way. You won't always feel that way. 
 
-Watching another coder struggle under the familiar burden of a problem and that feeling that they cannot solve it. And they're unfit to call themselves real coders; they're imposters. And the feeling will never ever go away. 
+>"Just talking through your problems with somebody else always helps you get a better understanding what you're trying to do. But then also, other people will have different perspectives. Also just having that space to work through it together, having the time to sit down and be like, 'Okay, step one step two. Let me write these lines of code.' And then getting to different steps and going on the journey together. I feel like that's a really rewarding process that we go through." 
+>(Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science)
 
-Then collaborating with others to solve it. When we are together and witness each other struggle, that commonality reveals the lightness and the joy through community support. You're not going insane because you're not the only one who's gone insane staring at their code before. Yes, you do need sleep. Yes, you'll figure it out, or you'll figure something out. And we're here to help.
+When we are together and witness each other struggle, that commonality reveals the lightness and the joy through community support. You're not going insane because you're not the only one who's gone insane staring at their code before. Yes, you do need sleep. Yes, you'll figure it out, or you'll figure something out. And we're here to help.
 
 ### we are not in class. we're in community.
 
@@ -151,6 +153,8 @@ I sometimes joke that my projects are a garland of APIs held together with duct 
 >>"highlight mistakes just as much as successes rather than hide them it is important for people who are new to programming to see people making mistakes, if they think everything works first time they will think they are not good enough and give up." (annatito, CCSWG22)
 
 ### value processes as much as, or more than, outcomes[^amb]
+
+we're not task oriented but always in process, always works in progress. when beginning the collective, I described it as focused on project-based learning. But I meant that it was self-directed toward what the student wanted to build, make, create, as opposed to absorbing a pre-determined curriculum of concepts. However, it is not project-based in the sense that it is not focused on outcomes or the completion of projects or tasks. It is more interested in what you learn along the way, how did you use the tools you encountered and how did your choices shape your thinking and how did your thinking shape your choices and tools, reciprocally and iteratively. 
 
 ### all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality[^ccc]
 
