@@ -54,7 +54,9 @@ And it is on point! The Creative Code Collective theme song is Queen's "Don't St
 
 A collaborative playlist on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another humanizing way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community at large *and* when working on code. It's all connected! 
 
-## 3. we are serious about silliness
+## 3. we make mistakes 
+
+### we are serious about silliness
 
 >"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it" (Shane 2019, 4).
 ### we fight for the silly photo
@@ -68,9 +70,13 @@ Even, and especially, as leaders and teachers we must do this. We connect over /
 >>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
 >(Dr. A. A. Vernelle Noel, Georgia Tech)
 
+### When making we ask Why. And How and Who. Not just What.
+
 ### we are not in class. we're in community.
 
+We strike a balance that is neither the top-down hierarchy of a classroom nor the chaos of a "hierarchy-less" blob. We acknowledge the power dynamics at play and actively address them, working to help folks feel welcoming in community.
 
+Our community is less about how it appears to outsiders than how it feels while inside it, except in the sense of inviting folks in. 
 
 We fly under the radar. we are a rag-tag troupe of misfits, a dead poets' society, a laboratory, a not-so-secret guild.
 
@@ -80,6 +86,10 @@ Still we want to find openings for others to enter, [...]
 
 ## 4. we share resources 
 
+### let's keep track of what we already know, rather than duplicate our work
+
+This started as a Google Doc where anyone could dump a link. It has grown into a fullfledged database, which we iterated on together during group troubleshooting sessions. Then rethought it again as a simple spreadsheet and form to feed the website. It has had many versions. Whether you make a wiki or cover the wall in sticky notes or use the latest sharing platforms all synched up to your phones, finding a free and open way to share information with one another—the lower the barrier the entry the better. There's always a tension between how structured or unstructured to make it (enough so people know where to put things and find things, not so much that they can't imagine new things that don't fit the existing form).
+
 ### minimal is accessible
 
 Sometimes the low-fi answer is the right one. When searching for the right tools to build the Creative Code Collective Resource Hub, we went through every possible solution for a database, and landed on a google doc. When looking for ways to build the site for the Intersectional AI Toolkit, again we went through what seemed like endless possibilities for platforms, and landed back at simple JAM stack static sites, github pages, or wiki. Sometimes the less ambitious choices serve different purposes. They offer more access to other audiences. They leave the content and data more open and adaptable and legible to friends who might want to interact with it later, or to us as we build or rebuild it one day. We embrace minimal computing [cite] as an accessible and aesthetic and political value. 
@@ -87,6 +97,21 @@ Sometimes the low-fi answer is the right one. When searching for the right tools
 [...]
 
 ## 5. we foreground our values
+
+What are the bricks, the building blocks, the core modules of a community like this one? What are the minimum foundations needed to support the space, to let people grow their craft their own way and flexibly flourish? 
+
+Some items we have considered, or intuitively incorporated:
+
+#### • Knowledge sharing repository
+
+#### • Steady cadence
+
+#### • Material care & physical contact/resources
+
+#### • Inclusive, iterative & recursive, inquisitive and embracing approaches
+
+
+[...]
 
 These principles began as intuition and expanded, distilled, developed along the way as we noted parallels with other organizations, thinkers, makers, and more. 
 
@@ -146,3 +171,5 @@ Thank you to the individuals and organizations who developed these principles an
 
 
 >>"balance exploration with exploitation" (Montfort 20XX, 5)
+
+>>"Newsletters were a kind of c nective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)

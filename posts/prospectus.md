@@ -128,14 +128,32 @@ And **TechnoCraft** is the combo of historically dismissed and feminized practic
 * immersive data identities
 * intersectional AI
 * communities of practice
-* queer feminist infrastructures & queer use
 * queer histories of computing
 * not classifying, a radical queer computing not based on classification but woven from the unknowing of genderless expression, of story
   * >>"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)
 * deep interdisciplinarity
 * toolkit >>"space of 'instruction, contingency, action, and alternative engagement' (Gabrys 20XX, 92)"
 * anarchic toolchest
-* indigenous research and other community practices of being with
+* indigenous research and other community practices of being with ([Research Is Ceremony]())
+* Feminist Killjoy Toolkit (Sara Ahmed), [Anarchist Tool Chest]()
+* Queer Use [Ahmed again](https://feministkilljoys.com/2018/11/08/queer-use/)
+* queer (trans)feminist infrastructures & queer use
+   * feminist servers: Spideralex [anarchaserver](https://anarchaserver.org/) (3 containers: data server, services hosting, zombie sites). feminist infrastructures (analog and digital), feminist servers galaxy, solidarity networks, earliest oldest widespread: apply transact feminist convergence. [transcript](https://pad.vvvvvvaria.org/ATNOFS-radio-broadcast-spideralex-danae-tapia):
+
+   >"the tyranny of structurelessness, for instance. The difference between the people that developed the code, and the people that create the links and the interface with the inhabitants, the users of those networks, we didn't call them users, but inhabitants, because we wanted them to be involved in the management of that infrastructure." (Spideralex)
+
+   >>from an Introduction to Technological Sovereignty by [Margarita Padilla(https://sobtec.gitbooks.io/sobtec2/content/en/content/01preface.html)]:
+   >>"So as with all other sovereignty, technological sovereignty is made in communities. Communities exist and they are everywhere. unceasingly creating and recreating themselves, shared flats, neighborhoods, friends, workmates, professional networks, extended families, communities are everywhere. As with any symbolic construction communities are not something you can see with your eyes. They are something you see with your mind and feel the bonds with your heart. For those of us fighting for technological sovereignty, communities are a tangible reality. They're there. We see them and we feel them and though technologies theories are, typically related to consumer, luxury goods and insulated individualism. This is only the vision presented by the industry and the market, a market that seeks to isolate and be Wilder consumer, all technologies developed in community, these communities can be more or less autonomous or more or less controlled by cooperation, the struggle for sovereignty is about these communities, nobody invents, builds, or codes alone, quite simply because the task is such that it would be impossible."
+
+   >"any infrastructure you need to set up from scratch, it's slow, and then it becomes like, it goes faster, it accelerates at one stage, I don't know why, I guess that you need to build the structure, the infrastructure that is going to be sustaining everything. And when you are figuring how to build it, or what is the better ways when things are slower. [...] And when you build a project that is based on informal and volunteer work, to maintain an infrastructure, things are gonna be slow, because yeah, we are all feminists. So we are very busy. We are struggling in different fights that are sometimes death and life important. And of course, like being able to learn to administrate services or host contents, maybe is not always the first thing in our list."
+
+   >"Of course, all the feminist hack labs, fab labs, bio labs, feminist radios, servers, and artificial intelligence, internet bots and protocols that are developed or think or theorize from a feminist perspective. All the work around restorative justice process, feminist science fiction and futurotopia's, building feminist libraries and fanzines, developing documentation and memory tools. Contributing to the herstory, producing and maintaining self defense resource about digital, connected space but also physical security. Permacultural gardens. Other gardens. Lands. Spells. Rituals. These tools, techniques for lives, land defending, all these are important and is part of the feminist infrastructure we are interested in."
+
+   how the feminist digital infrastructure approaches are zine like in their community building and slowness and choices of kinds of offerings and what and how they support, distribution methods of both content and tools, 
+   "low-effort publishing tools" like [varia etherdump](https://etherdump.vvvvvvaria.org/)
+
+
+
 
 ### inspo: people & communities, writerly forms
 * Sara Ahmed
@@ -152,6 +170,8 @@ And **TechnoCraft** is the combo of historically dismissed and feminized practic
 See References TK
 
 Zach Blas [Queer Technologies](https://zachblas.info/works/queer-technologies/)
+Care Syllabus Advisory Collective. [I Can't. Feeling Through Burdens of Care](https://www.caresyllabus.org/i-cant-feeling-through-burdens-of-care)
+Hedva, Johanna. [Care in End Times, Care Syllabus](https://www.caresyllabus.org/care-in-end-times)
 
 >>"balance exploration with exploitation" (Montfort 20XX, 5)
 

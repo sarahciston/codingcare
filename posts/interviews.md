@@ -186,49 +186,22 @@ Yeah. And also I was reading about how in China they just have had pervasive sur
 
 >Yeah, yeah I mean all of that adds to definitely informed by our overall individualists versus their a more collective approach to identity. We definitely you know there's always been those arguments of like, Oh, well, why do you care if you're being surveilled?
 
-00:04:01.000 --> 00:04:07.000
-If you don't have anything to hide and it was like the other thing, where like?
+If you don't have anything to hide and it was like the other thing, where like? Suppose you do catch someone doing a theft on camera unless you have like the financial resources to go after someone the cops Won't do anything in this police state, right?
 
-00:04:07.000 --> 00:04:18.000
-Suppose you do catch someone doing a theft on camera unless you have like the financial resources to go after someone the cops Won't do anything in this police state, right?
-
-00:04:18.000 --> 00:04:27.000
 They only really serve a smaller portion right and that's Also, the problem is like It's not really to serve the people.
 
-00:04:27.000 --> 00:04:40.000
-It's you know cops protect property and they're like if it's, you know, body cameras don't protect citizens.
+>It's you know cops protect property and they're like if it's, you know, body cameras don't protect citizens. They protect the cops, wearing them from all intents and purposes.
 
-00:04:40.000 --> 00:04:45.000
-They protect the cops, wearing them from all intents and purposes.
-
-00:04:45.000 --> 00:04:58.000
 The guy had this notion of like Maybe we can make these variables that have like kind of like, you always have like an alibi like It's just your own personal surveillor, so like you can just always have irrevocable evidence. around you because but I don't I don't know it's like a dash camp but for your personhood.
 
->Yeah, Yeah, I mean that's a definitely like a blackmail episode waiting to happen. 
+>Yeah, Yeah, I mean that's a definitely like a Black Mirror episode waiting to happen. 
 >I think this is really interesting. I feel like this is totally because of conversations that we have in code collective. So I feel like asking if the code collective or things like it have changed the way you think about questions like this.
 
 **I don't think I would have had and like it's the only space I've had to like feel like thinking like this was okay like like this whole time.** Yeah, I mean as a as someone who would lecture in front of people like, even while I was studying. **It was kind of like, very isolating to think about the other aspects of technology. So creative code collective was the only space** I mean there were other spaces like like Corpus colosum, which was art and technology, so there was the ability to express kind of the graphical merit or kind of interesting like aspects over there. But as far as critically looking at code and how it relates to society personhood like it's it's been the only only section only space for that.
 
-00:06:30.000 --> 00:06:36.000
-That's really interesting because especially because it was sort of you know.
+> That's really interesting because especially because it was sort of you know. It's like creative creative code collective so at first I wasn't, I think we definitely overlap with corpus callosum and I don't, I wasn't intentionally thinking of us as being that different, except for maybe feeling more—not to call them to task but like have the the sort of like welcoming kind of chill make like making at the meetings kind of vibe. I haven't been to their meeting, so I don't know but 
 
-00:06:36.000 --> 00:06:43.000
-It's like creative creative code collective so at first I wasn't.
-
-00:06:43.000 --> 00:06:49.000
-I think we definitely overlap with corpus callosum and I don't.
-
-00:06:49.000 --> 00:06:58.000
-I wasn't intentionally thinking of us as being that different, except for maybe feeling more not to like put them on a put.
-
-00:06:58.000 --> 00:07:14.000
-Call them to task but like have the the sort of like welcoming kind of chill make like making at the meetings kind of vibe. I haven't been to their meeting, so I don't know but I don't like that I
-
-00:07:14.000 --> 00:07:31.000
-would say their utility was more for engineers who are stuck in a rigid engineering curricula to have some opportunity to try new things, and I think that's as far as they've gotten as an institution or as like something
-
-00:07:31.000 --> 00:07:40.000
-that's like lasted with a perpetual structures. It gives engineering students an opportunity to to like step out technically everyone.
+I would say their utility was more for engineers who are stuck in a rigid engineering curricula to have some opportunity to try new things, and I think that's as far as they've gotten as an institution or as like something that's like lasted with a perpetual structures. It gives engineering students an opportunity to to like step out technically everyone.
 
 00:07:40.000 --> 00:07:43.000
 And that's that's what they're kind of affordance is so.
