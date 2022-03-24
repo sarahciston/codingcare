@@ -74,7 +74,14 @@ Even, and especially, as leaders and teachers we must do this. We connect over /
 >>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
 >(Dr. A. A. Vernelle Noel, Georgia Tech)
 
-### When making we ask Why. And How and Who. Not just What.
+### when making we ask Why. And How and Who. Not just What.
+
+### we troubleshoot together
+Live coding, though it might seem counterintuitive, sparks confidence. 
+
+Watching another coder struggle under the familiar burden of a problem and that feeling that they cannot solve it. And they're unfit to call themselves real coders; they're imposters. And the feeling will never ever go away. 
+
+Then collaborating with others to solve it. When we are together and witness each other struggle, that commonality reveals the lightness and the joy through community support. You're not going insane because you're not the only one who's gone insane staring at their code before. Yes, you do need sleep. Yes, you'll figure it out, or you'll figure something out. And we're here to help.
 
 ### we are not in class. we're in community.
 
@@ -82,7 +89,9 @@ We strike a balance that is neither the top-down hierarchy of a classroom nor th
 
 Our community is less about how it appears to outsiders than how it feels while inside it, except in the sense of inviting folks in. 
 
-We fly under the radar. we are a rag-tag troupe of misfits, a dead poets' society, a laboratory, a not-so-secret guild.
+[...]
+
+We fly under the radar. we are a rag-tag troupe of misfits, a dead poets' society, a secret laboratory, a not-so-secret guild.
 
 Our mascots are magpies and meme cats, too-clever animals fascinated with hoarding shiny objects and causing a little trouble. We look to jellyfish and labyrinths for their translucent flexibility, their decentralized nervous systems, their twisty turny mystery and ability to go deep. 
 
