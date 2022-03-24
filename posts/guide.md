@@ -54,6 +54,10 @@ And it is on point! The Creative Code Collective theme song is Queen's "Don't St
 
 A collaborative playlist on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another humanizing way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community at large *and* when working on code. It's all connected! 
 
+### we start each session with show and tell
+
+Or Round Robin, or Check Ins, or Council Method, or some version of an opening gesture for our gathering that acknowledges each person, gives them a short couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise share first each visit.   
+
 ## 3. we make mistakes 
 
 ### we are serious about silliness
@@ -94,6 +98,9 @@ This started as a Google Doc where anyone could dump a link. It has grown into a
 
 Sometimes the low-fi answer is the right one. When searching for the right tools to build the Creative Code Collective Resource Hub, we went through every possible solution for a database, and landed on a google doc. When looking for ways to build the site for the Intersectional AI Toolkit, again we went through what seemed like endless possibilities for platforms, and landed back at simple JAM stack static sites, github pages, or wiki. Sometimes the less ambitious choices serve different purposes. They offer more access to other audiences. They leave the content and data more open and adaptable and legible to friends who might want to interact with it later, or to us as we build or rebuild it one day. We embrace minimal computing [cite] as an accessible and aesthetic and political value. 
 
+### documentation is hard work, necessary work, just as essential as the code itself
+
+
 [...]
 
 ## 5. we foreground our values
@@ -102,9 +109,9 @@ What are the bricks, the building blocks, the core modules of a community like t
 
 Some items we have considered, or intuitively incorporated:
 
-#### • Knowledge sharing repository
+#### • Knowledge sharing repository/hub
 
-#### • Steady cadence
+#### • Steady cadence, ritual of gathering
 
 #### • Material care & physical contact/resources
 

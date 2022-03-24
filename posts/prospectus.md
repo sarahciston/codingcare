@@ -20,10 +20,11 @@ tags: [prospectus, dissertation]
    1. code base
    2. ccc resource hub
    3. qualitative: zine making documentation
-3. (case study of my individual project, inner.voice.over and/or ladymouth or ?)
-4. (case study: code library or )
-   1. e.g. the card decks from Nushin et al or Superrr et al or creative code berlin?
+3. A Critical Guide to Datasets
+   1. case studies of library project and knowing machines white paper output
+4. (case study of my individual project, inner.voice.over and/or ladymouth or ?)
 5. Lyric essay(s) (see below)
+   1. e.g. analyses of outside artworks, historical analog practices and contemporary analogous examples put through personal processing. 
 
 *these are the nesting dolls getting smaller and more personal*
 

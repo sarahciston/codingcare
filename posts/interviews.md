@@ -197,37 +197,18 @@ The guy had this notion of like Maybe we can make these variables that have like
 >Yeah, Yeah, I mean that's a definitely like a Black Mirror episode waiting to happen. 
 >I think this is really interesting. I feel like this is totally because of conversations that we have in code collective. So I feel like asking if the code collective or things like it have changed the way you think about questions like this.
 
-**I don't think I would have had and like it's the only space I've had to like feel like thinking like this was okay like like this whole time.** Yeah, I mean as a as someone who would lecture in front of people like, even while I was studying. **It was kind of like, very isolating to think about the other aspects of technology. So creative code collective was the only space** I mean there were other spaces like like Corpus colosum, which was art and technology, so there was the ability to express kind of the graphical merit or kind of interesting like aspects over there. But as far as critically looking at code and how it relates to society personhood like it's it's been the only only section only space for that.
+**I don't think I would have had and like it's the only space I've had to like feel like thinking like this was okay like like this whole time.** Yeah, I mean as a as someone who would lecture in front of people like, even while I was studying. **It was kind of like, very isolating to think about the other aspects of technology. So creative code collective was the only space** I mean there were other spaces like like Corpus Callosum, which was art and technology, so there was the ability to express kind of the graphical merit or kind of interesting like aspects over there. But as far as critically looking at code and how it relates to society personhood like it's it's been the only only section only space for that.
 
 > That's really interesting because especially because it was sort of you know. It's like creative creative code collective so at first I wasn't, I think we definitely overlap with corpus callosum and I don't, I wasn't intentionally thinking of us as being that different, except for maybe feeling more—not to call them to task but like have the the sort of like welcoming kind of chill make like making at the meetings kind of vibe. I haven't been to their meeting, so I don't know but 
 
-I would say their utility was more for engineers who are stuck in a rigid engineering curricula to have some opportunity to try new things, and I think that's as far as they've gotten as an institution or as like something that's like lasted with a perpetual structures. It gives engineering students an opportunity to to like step out technically everyone.
+I would say their utility was more for engineers who are stuck in a rigid engineering curricula to have some opportunity to try new things, and I think that's as far as they've gotten as an institution or as like something that's like lasted with a perpetual structures. It gives engineering students an opportunity to to like step out technically everyone. And that's that's what they're kind of affordance is so. It's quite separate than code collective
 
-00:07:40.000 --> 00:07:43.000
-And that's that's what they're kind of affordance is so.
+>How would you describe code collective? then? code collective is very free for it?
 
-00:07:43.000 --> 00:07:47.000
-It's quite separate than than than code collective
+So it's not it doesn't have structure like corpus callosum, some would and I feel like there's a huge sense of individualism, so code collective in all of its forms because it's changed over the pandemic, too. But people are coming to there with coming to to the gathering with their own projects, their own ideas rather than corpus closing, which is like people are put into groups in order to execute on something it's very task-oriented as an organization. Whereas this isn't task oriented, or goal oriented in the same way.
 
-00:07:47.000 --> 00:07:55.000
-How would you describe code collective? then? code collective is very free for it?
+>Okay, that's yeah that's interesting and helpful Yeah. And I was because I was wondering if you met like the the first another difference being that we don't we're not focused on engineering students who want to explore a more artistic project.
 
-00:07:55.000 --> 00:08:07.000
-So it's not it doesn't have structure like corpus closed, some would and I feel like there's a huge sense of individualism, so code collective in all of its forms because it's changed over the
-
-00:08:07.000 --> 00:08:23.000
-pandemic, too. But people are coming to there with coming to to the gathering with their own projects, their own ideas rather than corpus closing, which is like people are put into groups in order to execute on something it's
-
-00:08:23.000 --> 00:08:34.000
-very task-oriented as a womanization. Whereas this Isn't is a task oriented, or goal, or like a like goal oriented in the same way.
-
-00:08:34.000 --> 00:08:38.000
-Okay, that's yeah that's interesting and helpful Yeah.
-
-00:08:38.000 --> 00:08:53.000
-And I was because I was wondering if you met like the the first another difference being that we don't we're not focused on engineering students who want to explore a more artistic project.
-
-00:08:53.000 --> 00:09:03.000
 But also that we're not then put in like you know that we're maybe mainly focused on non-engineering students.
 
 00:09:03.000 --> 00:09:12.000
