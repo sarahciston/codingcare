@@ -58,6 +58,9 @@ A collaborative playlist on your open streaming platform of choice can not only 
 
 Or Round Robin, or Check Ins, or Council Method, or some version of an opening gesture for our gathering that acknowledges each person, gives them a short couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise share first each visit.   
 
+>"The terminal is cute. It's important to have a good relationship with your terminal." 
+>(Ada)
+
 ## 3. we make mistakes 
 
 ### we are serious about silliness

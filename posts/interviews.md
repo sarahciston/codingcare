@@ -392,60 +392,25 @@ But then the other. The other side of it is that a participant needs to have the
 I feel like i'm like looking through my questions and as as we've just been talking casually.
 
 00:25:15.000 --> 00:25:18.000
-I feel like we've covered a lot of them but maybe asking them in a different way.
+I feel like we've covered a lot of them but maybe asking them in a different way. We'll bring other stuff out. How would you describe co- collective to someone who'd never heard of it like If you were writing our motto what would it be 
 
-00:25:18.000 --> 00:25:24.000
-We'll bring other stuff out. How would you describe co- collective to someone who'd never heard of it like.
-
-00:25:24.000 --> 00:25:34.000
-If you were writing our motto what would it be Oh, It's the where the cool coders hang out out of the caddling industry.
-
-00:25:34.000 --> 00:25:42.000
-I was like. Come on, there's a it's where all the cool coders are it's kind of what it is.
+Oh, It's the where the cool coders hang out out of the caddling industry. I was like. Come on, there's a it's where all the cool coders are it's kind of what it is.
 
 00:25:42.000 --> 00:25:48.000
-I mean like to like reduce it if I had to be more formal about it.
+I mean like to like reduce it if I had to be more formal about it. I would say it's it's like a it's like a informal gathering of creative coders. I could do it that could encompass it. Well, salon is a pretty good term 
 
-00:25:48.000 --> 00:26:00.000
-I would say it's it's like a it's like a informal gathering of creative coders. I could do it that could encompass it.
+>yeah that's great. What would you say Is the spirit of it, or what are our values? How would we demonstrate or body those values like? What would we put in our manifesto? 
 
-00:26:00.000 --> 00:26:07.000
-Well, salon is a pretty good term yeah that's great
+I was thinking about that this morning because I was like I was wondering what you would put in a manifesto. Or you know, if I were to do something like to reinstantiate, or to mimic or to get grab something like this in Santa Cruz. But I don't know what my life is going to be like in the next chapter.
 
-00:26:07.000 --> 00:26:12.000
-What would you say? Is the spirit of it, or what are our values?
+**Individualism is a huge part of it.Empowerment is another really important thing.**
 
-00:26:12.000 --> 00:26:25.000
-How would we demonstrate or body those values like? What would we put in our manifesto? I was thinking about that this morning because I was like I was wondering what you would put in a manifesto.
-
-00:26:25.000 --> 00:26:32.000
-Or you know, if I were to do something like to reinstantiate, or to mimic or to get grab something like this in Santa Cruz.
-
-00:26:32.000 --> 00:26:36.000
-But I don't know what my life is going to be like in the next chapter.
-
-00:26:36.000 --> 00:26:43.000
-But yeah, individualism is a huge part of It I think that There's definitely the like.
-
-00:26:43.000 --> 00:26:48.000
-The empowerment, like empowerment, is another is a really important thing.
-
-00:26:48.000 --> 00:26:57.000
 I think everyone has you know there's there's always kind of a supportive environment kind of people are trying to help enable someone to accomplish their goals.
 
-00:26:57.000 --> 00:27:02.000
-So there's that there's it's cooperative another value.
+So there's that. It's cooperative, another value. You can always bring a problem and have people like willing to listen to it. At least people will also offer to debug and help you.
 
-00:27:02.000 --> 00:27:07.000
-You can always bring a problem and have people like willing to listen to it.
+Problem solve creative. Creative's in the title so I think there's also a value set that's very I don't know what term encompasses it.
 
-00:27:07.000 --> 00:27:11.000
-At least people will also offer a debug offer to debug and help you.
-
-00:27:11.000 --> 00:27:27.000
-Problem solve creative. the creatives in the title so I think there's also a value set that's very I don't know what term encompasses it.
-
-00:27:27.000 --> 00:27:33.000
 But like kind of open source, E. or all I on on monolithic.
 
 00:27:33.000 --> 00:27:42.000
@@ -845,22 +810,9 @@ I don't know it's it's like fun site it's fun.
 It's like actually a fun book, but in it it has this huge.
 
 00:46:01.000 --> 00:46:10.000
-It's not the only book on my bookshelf that's obsessed with this, but I don't know why, but like I feel like I'm just seeing in the narrative law about like Sumerian language
+It's not the only book on my bookshelf that's obsessed with this, but I don't know why, but like I feel like I'm just seeing in the narrative law about like Sumerian language and Samarian that they like. It was kind of maybe the birth of human consciousness. So they had a radically different human consciousness, but they would kind of like, keep all of their writing in a certain temple. And suppose you were to become a bread maker, you would go to the Temple either like priestess or priest, would like, give you the programmatic instructions for like how to do bread. so like the whole society was codified and edited from that temple and everyone would just follow these writings, and that's how society would keep going.
 
-00:46:10.000 --> 00:46:14.000
-and Samarian that they like. It was kind of maybe the birth of human consciousness.
-
-00:46:14.000 --> 00:46:22.000
-So they had a radically different human consciousness, but they would kind of like, keep all of their writing in a certain temple.
-
-00:46:22.000 --> 00:46:33.000
-And suppose you were to become a bread maker, you would go to the Temple either like priestess or priest, would like, give you the programmatic instructions for like how to do bread. so like the whole society was
-
-00:46:33.000 --> 00:46:39.000
-codified and edited from that temple and everyone would just follow these writings, and that's how society would keep going.
-
-00:46:39.000 --> 00:46:44.000
-I think there's some like inkin civilizations. but they would like this exists in a lot of things. So what I would look for in a manifesto is maybe a practical guide to setting it up. The values. And you know, these things could shift based on the circumstance, because I imagine there could be like a creative code collective in, like, Austin, Texas, with very very different values and aims and and people working on different stuff but still people benefiting from a lot of the same weird <<WHA?>> it that we would do so. that's such an interesting question, though.
+I think there's some like Incan civilizations. but they would like, this exists in a lot of things. So what I would look for in a manifesto is maybe a practical guide to setting it up. The values. And you know, these things could shift based on the circumstance, because **I imagine there could be like a creative code collective in, like, Austin, Texas, with very very different values and aims and and people working on different stuff but still people benefiting from a lot of the same weird <<WHA?>> it that we would do** so. that's such an interesting question, though.
 
 >Yeah, I mean so I agree. So right now, the structure is there's a manifesto and a practical guide. But they're kind of blurring because the practical guide is like we bring snacks. We you know it is, kind of like the ritual but it's also like there's a lot of values just so stuff in the practical guide, and it's very loose like our structure. they're very embedded in one another and I do wonder like could could there be a a wyoming right wing code collective that's like we are a you know. gray hat, red hat, hacker, I mean I don't know like so like one thing is like you could emphasize radical openness right That's something that you know I could imagine I don't know.
 
@@ -1023,5 +975,47 @@ I'm very very grateful for you like I really really am.
 But I feel like it, like you really helped bring it to life in a really special way. So thank you, like in amoeba, and then, or like one of those like cellular organisms.
 
 And then you just like mitosis me to like another like like well, like phagocytosis, you and a little foot out into the world.
+
+</section>
+
+<section class="interview" markdown="1">
+
+A: It's harder to start by doing your own thing. The reason I didn't share anything is I dodn't know how to start. I still didn't know how to sit down and start. I took a class where they taught me. Not an assignment but a task outline a constraint so it's easier to think about what you want to do with that makes more sense for beginners. 
+
+D: A space to show off, look at what I've done apsect is annoying. Itneresting to think about how are they doing this what are they doing. 
+
+A: A space for ideas more than a space for learning. If you have or want to and can on your own, you can get ideas of what you can do with that. Or you can show. OK 
+
+D: Otter recording. THinking about how i want to write a pitch. 
+
+A: knew how but never done creative code. vs ppl who never coded and did art. could figure out but didn't know what to use for what. so many things you can do. For someone who doesn't know, giving them a tool where they can learn to do a lot with it, so they can figure out the tools they need. Have two in one week be dedicated to something we all do twogether. Working on a project with people. Takes a certain amount of mastery and a separate skill that most people do not teach. 
+
+and the conversations and politics pieces. those convos come around anyways. 3js or shader coding. 
+
+D: Not excited to do AI. wrung out. The brag list in your head.
+
+A: Sharing music has taught me the things you like aren't going to align with what other people are gonna like. 
+
+NLP, datasets, 
+
+NLP done a lot of projects but has never clicked. Bad with data, being able to move data around in code doesn't make sense to me. This is hell. Fitting arrays to a model. MOst of my time. Cleaning data. This is a huge part. I don't enjoy this. 
+
+More interest if it's about datasets and ML, sounds funny, buzwords are there and teaching them to critically engage. 
+
+Version 0.0.0.1 of tender data lab. 
+
+A: I start a version 2 so i feel better about myself. 
+
+use a journal that has that kind of referencing. 
+
+BYOD bring your own dataset. 
+
+~~~~~
+
+diff histories.
+printing things out in terminal was boring. button with ascii, shadded. 
+three books, bc i like math. 
+
+[transcript](https://otter.ai/u/_Xd6KTzK5eQSlwTcGLK3aIMPofA)
 
 </section>
