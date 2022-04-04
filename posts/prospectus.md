@@ -2,11 +2,16 @@
 layout: post
 title: prospectus
 nav_order: 1
-date: 21.03.2022 
+date: 31.03.2022 
 tags: [prospectus, dissertation]
 ---
 
 ## CODING.CARE: A Guidebook for Trans*formative TechnoCraft
+
+### TO DO LIST
+
+-[ ] add section to CCC site for projects, link to them in portions of the guidebook as grounding tangible items. 
+-[ ] 
 
 - one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
 
@@ -51,6 +56,11 @@ tags: [prospectus, dissertation]
    6. Codes for Essaying (exploring, unknowing, investigating, code obscura, **labyrinth**)
    7. Codes for Healing (hearing, hiding, helping, gathering, saving, salve, poultice, protecting, healing each other) 
    8. Codes for Risking, Codes for Losing (anthropocene, pandemic, posthuman, vulnerability, **moon palace**)
+
+## audience
+- people who want to be in code collective, want to start a chapter, would want to if they knew what it was. 
+- who is the we, who am i, 
+- 
 
 ## abstract
 

@@ -53,3 +53,6 @@ We are sequestering again. We are awaiting sequelae, the unseeable secondary con
 7. “the jungle sheds her skin” / *Shedding skin between moist tongue leaves*
 8. “cutting hair” / *Cutting one’s hair with two pairs of scissors simultaneously*
 9. When a woman and her lover lying down - face to face - and she coils(wraps) her legs around the legs of the man - with the window opened wide - that is the O A S I S . / *When a woman and her lover lie on one side looking at each other; and she twines her legs around the man’s legs with the window wide open, it is the oasis.*
+
+
+

@@ -59,6 +59,18 @@ h1, h2, h3, h4 {
   font-family: 'Jura', 'Courier New', Courier, monospace;
 }
 
+.play-along {
+  background-color: whitesmoke;
+  border-width: 1px;
+  border-radius: 10px;
+  border-style: dashed;
+  border-color: darkslateblue;
+  padding: 10px;
+  margin-bottom: 15px;
+  font-size: 0.9em;
+  // float:inline-start;
+}
+
 /*
   Mobile First! Put desktop styles below
 */

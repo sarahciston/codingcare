@@ -9,7 +9,7 @@ nav_order: 102
 
 ## coming soon 
 
-The Coding Care Zine Lab & Lounge is a cozy creative space to share thoughts on technology through writing, drawing, making, and coding zines. Read works from the Intersectional AI Toolkit, MA+P Zine Club and friends, plus contribute your own. We all have skills to teach each other. Come hang out
+The Coding Care Zine Lab & Lounge is a cozy creative space to share thoughts on technology through writing, drawing, making, and coding zines. Read works from the Intersectional AI Toolkit, MA+P Zine Club and friends, plus contribute your own. We all have skills to teach each other. Come hang out on 29 Apr 2022, 6PM Onward 💜
 
 {{ include.var }}
 

@@ -11,6 +11,7 @@ nav_order: 95
 
 * [Katherine](interviews#katherine-yang)
 * [Samir](interviews#samir-ghosh)
+* [Ada & Dazhi](interviews#ada-and-dazhi)
 
 <!-- >a creative code, collective guide book kind of vibe -->
 <!-- >I am imagining this will also end up being kind of a living document. -->
@@ -40,7 +41,7 @@ Okay, all the although, like Co. **the prefix is, is really feels really relevan
 
 >what are the essential part essential components of code collective, what parts are important to you like, technically, socially, emotionally, collaboratively, artistically, politically, what makes it what makes it go vroom
 
-**I think the snacks are definitely a big jaw in the beginning. They would still be now, except for covid. I think the the fact that we all like making each other feel like we're all an equal part of the community in terms of, we all have stuff to share, even if it's not like products that we're working on. We have like opinions about things, and we can offer opinions on each other's projects or answers to questions.**
+**I think the snacks are definitely a big draw in the beginning. They would still be now, except for covid. I think the the fact that we all like making each other feel like we're all an equal part of the community in terms of, we all have stuff to share, even if it's not like products that we're working on. We have like opinions about things, and we can offer opinions on each other's projects or answers to questions.**
 
 So I think that's really good and in in circumstances where it's like, I think something that I've noticed is like sometimes people who aren't as vocal or proactive in speaking up because I feel like so, sometimes where i'm like like, Other people will be like here's just like out of the blue like, "Here's a project that I'm working on, check it out, it's so cool." And then sort of my my instinct in a lot of situations is I won't necessarily speak, unless asked about it, which I try to be more proactive sometimes, but sometimes that is what I fall back on.
 
@@ -106,7 +107,7 @@ I think the first thing that comes to mind is that it's a huge source of inspira
 <<CHECK RECORDING>><<<<<<<<00:22:40.000 --> 00:23:09.000>>>>>>>>>
 So resources are key. And And the third thing is, I guess it just keep it just is always like very encouraging to like in the <<WHAT?>> in the because, like, I think the most most of the tech world is so is is quite toxic and like Techbury,<<WHAT?>> and like on twitter you always see a lot of stuff about like you have to code this way. There's one right way to code and like like how can you be the best coder he'd be the 10 excess 100 X engineer. <<WHAT?>>
 
-**It's really reassuring to always come back to this environment of like. Okay, you don't have to be that you can go in your own journey at your own pace. And you can explore your own things and there's no one but one right way to code.**
+**"It's really reassuring to always come back to this environment of like, "Okay, you don't have to be that, you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code."**
 
 I love that. Yeah, it's really freeing or like I don't know that feels too simple. But it's really yeah, really appreciate that. 
 
@@ -253,95 +254,25 @@ But yeah, there were some communities that I could see it a little bit but it wa
 
 So that was something that that you kind of did like amazingly because you could find that on the Internet if you were to seek it out, there are meetups and gatherings. But they're super weird. 
 
->What What makes them weird that we did it do like what?
+>What What makes them weird that we did it do like what? What made this different or what? Yeah, 
 
-What made this different or what? Yeah, 
+Because it was already within the context of the university community. So by being membership of the University common community there's something in common, Right?
 
-Because it was already within the context of the university community.
+Yeah taking advantage of that, I think like code collective wouldn't function the same way in another thing like i'm imagining people I know around my or like you know, in our station of life where we're not in the undergraduate education system so it's a lot harder like it's a lot harder to maintain creativity to maintain like these kind of attitudes.
 
-00:19:13.000 --> 00:19:19.000
-So by being membership of the University common community there's something in common, Right?
+>I know it does exist. But I think it's focused a lot more around the like creative show and tell side. And it's in the one I know of is in Berlin.
 
-00:19:19.000 --> 00:19:33.000
-Yeah taking advantage of that, I think like code collective wouldn't function the same way in another thing like i'm imagining people I know around my or like you know, in our station of life where we're kind of like it's
+So yeah we hacker people like the hackaday community. Super fun I don't even know she's part of this, like trans collective thing that like makes, in some sense for a burning man. and like just like very connected to a lot of crazy applications of technology, so just she's in that community. but it's not it's very rigid like for them.
 
-00:19:33.000 --> 00:19:44.000
-like not in the undergraduate education system so it's a lot harder like it's a lot harder to maintain creativity to maintain like these kind of attitudes.
-
-00:19:44.000 --> 00:19:54.000
-Yeah, Yeah, I know it does exist. But I think it's focused a lot more around the like creative human show in tel side.
-
-00:19:54.000 --> 00:19:58.000
-And it's in the one I know of is in Berlin.
-
-00:19:58.000 --> 00:20:04.000
-So yeah we hacker people like the hockey day community.
-
-00:20:04.000 --> 00:20:26.000
-Super fun I don't even know she's part of this, like trans collective thing that like makes, in some sense for a burning man. and like just like very connected to a lot of crazy applications of technology, so just
-
-00:20:26.000 --> 00:20:32.000
-she's in that community. but it's not it's very rigid like for them.
-
-00:20:32.000 --> 00:20:39.000
 It seems to be very task-oriented like they're trying to do X projects, so that they get their buddies to like gather to do it.
 
-00:20:39.000 --> 00:20:47.000
-I don't know. Yeah, Okay, so you're like if you're already part of another community.
+I don't know. Yeah, Okay, so you're like if you're already part of another community. So it like shrinks the pool somehow. already. Then you can kind of form that community within a community that like she I'm Also thinking about the game dev community, like the game-dev community, has something very similar to what we have actually so like I mean in her in her case like they're very creative they do stuff. But it's very task-oriented like they're trying to execute on a project, and that's how people gather and there's all the there's like kind of an incentive like Oh, you get to go to burning Man, or oh, you get to like do this event, or something right? So that there's. kind of like a exchange of labor for something. The game dev community has a very has similar like salon type gatherings. So i've been to it's glit city I hope they're back up. I want we should go. We should we should go check them out and see what they're like Post pandemic. but all the Indie game community and people in the industry gather, and they play games, and then they talk about games. So they talk about the other dimensions of their industry, and the same casual way I was in P. So now, just like we would do.
 
-00:20:47.000 --> 00:20:57.000
-So it like shrinks the pool somehow. already. Then you can kind of form that community within a community that like she I'm.
+>What do you feel like? Are the essential components of code collective like? What are the parts that are important to you that make it run the like? whether that's technically socially emotionally, politically, 
 
-00:20:57.000 --> 00:21:05.000
-Also thinking about the game. Deaf community, like the game-depth community, has something very similar to what we have actually so like.
+I think I think food was a huge component. I think Harman Academy also believes in food. It brings people together, it puts people on the same level. Whenever people dine together, it like it. it puts it it levels the playing field, and it kind of brings a sense of equality. That's important. 
 
-00:21:05.000 --> 00:21:08.000
-I mean in her in her case like they're very creative they do stuff.
-
-00:21:08.000 --> 00:21:16.000
-But it's very task-oriented like they're trying to execute on a project, and that's how people gather and there's all the there's like kind of an incentive like Oh, you get to
-
-00:21:16.000 --> 00:21:19.000
-go to burning Man, or oh, you get to like do this event, or something right?
-
-00:21:19.000 --> 00:21:27.000
-So that there's. kind of like a exchange of labor for something. The game deaf community has a very has similar like salon type gatherings.
-
-00:21:27.000 --> 00:21:32.000
-So i've been to it's glit city I hope they're back up.
-
-00:21:32.000 --> 00:21:36.000
-I want we should go. We should we should go check them out and see what they're like.
-
-00:21:36.000 --> 00:21:43.000
-Post pandemic. but all the Indie game community and people in the industry gather, and they play games, and then they talk about games.
-
-00:21:43.000 --> 00:21:48.000
-So they talk about the other dimensions of their industry, and the same casual way.
-
-00:21:48.000 --> 00:21:53.000
-I was in P. So now, just like we would do.
-
-00:21:53.000 --> 00:22:00.000
-What do you feel like? Are the essential components of code collective like?
-
-00:22:00.000 --> 00:22:14.000
-What are the parts that are important to you that make it run the like? whether that's technically socially emotionally, politically, I think I think food was a huge component.
-
-00:22:14.000 --> 00:22:17.000
-I think Harvard Academy also believes in food.
-
-00:22:17.000 --> 00:22:21.000
-It brings people together, it puts people on the same level.
-
-00:22:21.000 --> 00:22:27.000
-Whenever people die together, it like it. it puts it it levels the playing field, and it kind of brings a sense of equality.
-
-00:22:27.000 --> 00:22:36.000
-That's important. huh! I think also when we do the like kind of like round circle where everyone can introduce themselves and what they're working on.
-
-00:22:36.000 --> 00:22:40.000
-And you know. have a moment where people to respond like Oh, that's so cool or like.
+huh! I think also when we do the like kind of like round circle where everyone can introduce themselves and what they're working on. And you know. have a moment where people to respond like Oh, that's so cool or like.
 
 00:22:40.000 --> 00:22:48.000
 Have you thought about this that's really important to like give everyone the the spotlight, or to and to like share stuff.
@@ -576,243 +507,83 @@ How has it changed you, or what you make or what you'll do
 I have 2 favorite memories. I think they're both like one in recent memory.
 
 00:35:53.000 --> 00:35:56.000
-I loved editing that 3 Js scene with autumn.
-
-00:35:56.000 --> 00:36:07.000
-Like. I love being able to like have group input and just also I was as before I was trying to communicate threejs knowledge, and I've been struggling to get it out of my head.
-
-00:36:07.000 --> 00:36:10.000
-But to like, for some reason like seeing it in the group setting.
-
-00:36:10.000 --> 00:36:20.000
-It was like a really fulfilling, experienced like a teeth like a teaching moment where I could, I could communicate a lot of knowledge in a short amount of time.
+I loved editing that Three.js scene with Ada. I love being able to have group input, and also before I was trying to communicate Three.js knowledge, and I've been struggling to get it out of my head. But, for some reason, seeing it in the group setting, it was a really fulfilling, experience, like a teaching moment where I could communicate a lot of knowledge in a short amount of time.
 
 00:36:20.000 --> 00:36:31.000
-There was also I forget her name, but this was pre-pandemic, but it was a bigner student to a trouble with code, and I think it was Catherine. But I forget.
+There was also I forget her name, but this was pre-pandemic, but it was a beginner student to a trouble with code, and I think it was Catherine. But I forget. It was just like being able to see the mentorship between between people. That was a really powerful thing for me to see that, like Katherine was helping her. Yeah, , yeah, forgot who was helping. But, like I remember seeing seeing that kind of like troubleshooting, debugging. That was really important for me to see as far as where i'd like to see this.
 
-00:36:31.000 --> 00:36:36.000
-It was just like being able to see, like the the mentorship between between people.
+I'd love to see this outside of the university setting I wish this existed for urban professionals. I feel like not all of my silicon valley friends would partake in something like this, because they're so burnt out on code. But I'm sure there's a lot of people that are still wanting to have this conversation, wanting to office like in my career right now.
 
-00:36:36.000 --> 00:36:43.000
-That was a really powerful thing for me to see that, like Catherine was helping her.
+In my career right now, I need to like start making content so like it's like I start on the Tiktok dry and start on the Instagram ground. I'm sure a lot of people in tech are starting to do this. So this could be a really helpful day before kind of the content Creator, as a like, you know, like the tech content Creator or the creative code Content Creator can see this be having being very fulfilling and helpful for that kind of community. 
 
-00:36:43.000 --> 00:36:51.000
-Yeah, , yeah, forgot who was helping. But, like I remember seeing seeing that kind of like troubleshooting, debugging.
+>What would that look like? I What would that mean? 
 
-00:36:51.000 --> 00:36:57.000
-That was really important for me to see as far as where i'd like to see this.
+Like that you come together as a community and then you same thing What are you working on? What's up, what's on your mind you do a round circle, And then you you talk about the the problems you have in common, whatever code thing that you're trying to solve that's really difficult but like that same kind of structure and I think it would lend itself to the same values, because it's not it's not like directly vocational in the same way like working a company would be.
 
-00:36:57.000 --> 00:37:05.000
-I'd love to see this outside of the university setting I wish this existed for urban professionals.
+>Oh, and then they that it wouldn't be like they go have those conversations in the content they're creating. 
 
-00:37:05.000 --> 00:37:10.000
-I feel like not all of my silicon valley friends would partake in something like this, because they're so burnt out on code.
+But it'd be like as they're troubleshooting the content that they're creating or like people who are making content like they'll have a you know bases of software or like Ada is starting to make more content, and that's helping his music career. so I can imagine how creative code has helped him, just as like an ability for him to touch grass this week.
 
-00:37:10.000 --> 00:37:18.000
-But I'm sure there's a lot of people that are still wanting to have this conversation wanting to office like in my career right now.
+It would help. I try to communicate it this has a function that could have a lot of professionals as well. 
 
-00:37:18.000 --> 00:37:24.000
-I need to like start making content so like it's like I start on the Tiktok dry and start on the Instagram ground.
+>Yeah, that's, interesting it also was just give me the thought of like, what would it look like to have these common kinds of conversation over social media's bases, or would that be viable? Or would that just be duplicating other? 
 
-00:37:24.000 --> 00:37:29.000
-I'm sure a lot of people in tech are starting to do this.
-
-00:37:29.000 --> 00:37:42.000
-So this could be a really helpful day before kind of the content Creator, as a like, you know, like the tech content Creator or the creative code Content Creator can see this be having being very fulfilling and helpful for that kind
-
-00:37:42.000 --> 00:37:48.000
-of community. What What would that look like? I What would that mean?
-
-00:37:48.000 --> 00:37:52.000
-Like that you come together as a community and then you same thing What are you working on?
-
-00:37:52.000 --> 00:38:06.000
-What's up, what's on your mind you do a round circle, And then you you talk about the the problems you have in common, whatever code thing that you're trying to solve that's really difficult but like that same kind of structure and I think it would
-
-00:38:06.000 --> 00:38:16.000
-lend itself to the same values, because it's not it's not like directly vocational in the same way like working a company would be, I see.
-
-00:38:16.000 --> 00:38:23.000
-Oh, and then they that it wouldn't be like they go have those conversations in the content they're creating.
-
-00:38:23.000 --> 00:38:35.000
-But it'd be like as they're troubleshooting the content that they're creating or like people who are making content like they'll have a you know bases of software or like aud is starting to make more
-
-00:38:35.000 --> 00:38:44.000
-content, and that's helping his music career. so I can imagine how creative code has helped him, just as like an ability for him to touch grass this week.
-
-00:38:44.000 --> 00:38:52.000
-It would help. I try to communicate it this has a function that could have a lot of professionals.
-
-00:38:52.000 --> 00:39:08.000
-As well. Yeah, that's, interesting it also was just give me the thought of like, what would it look like to have these common kinds of conversation over social media's bases, or would that be viable?
-
-00:39:08.000 --> 00:39:12.000
-Or would that just be duplicating other? It could.
-
-00:39:12.000 --> 00:39:19.000
 You could do it at a coffee shop. you could probably do it and gather town, I mean, I i'm kind of fascinated on virtual meetings.
 
-00:39:19.000 --> 00:39:29.000
 For some reason 101 isn't that bad but like gather, Yeah, I just like I would so much rather be person that I'm driving is such a pain.
 
-00:39:29.000 --> 00:39:32.000
-So like, yeah, I know i'm like you want me to go to a thing in a place.
+>I know i'm like you want me to go to a thing in a place. But then also Oh, my eyeballs i'll have cake oh, no, not you!
 
-00:39:32.000 --> 00:39:38.000
-But then also Oh, my eyeballs i'll have cake oh, no, not you!
+the bakery gave it to me for free. What? Why, oh, Jesse's very I don't know it's a squad of all in bakery, and they just love me.
 
-00:39:38.000 --> 00:39:44.000
-Not you the bakery gave it to me for phrase. What?
-
-00:39:44.000 --> 00:39:49.000
-Why, oh, Jesse's very I don't know it's a squad of all in bakery, and they just love me.
-
-00:39:49.000 --> 00:39:54.000
 And gave me this beautiful cake. Yeah.
 
-00:39:54.000 --> 00:40:02.000
-But oh, there was a third question: Oh, yeah, what will you take with you?
+But oh, there was a third question: Oh, yeah, what will you take with you from your experiences I mean it's more of like what won't like I what I think this **it's almost like an opportunity cost like if creative code wasn't there** I would be working for palantine or something right now like i'd be full like using this mind towards just I wouldn't even call it destruction but I would have lost a lot like I know that I I've been gifted with like, or just just been privileged to have a lot of technical ability, and i'd be using in a very, very different manner, if it wasn't for a code collective like I I definitely think that like it has kept a certain ethical leading or like a political meaning **I don't know how to describe that the family of values, that creative code, collective espouses. But like a huge amount of like empathy or a criticality that has remained. That's that's what i'm taking with me and that's what I will keep, and I hope to replicate it in some form.**
 
-00:40:02.000 --> 00:40:21.000
-From your experiences I mean it's more of like what won't like I what I think this it's almost like an opportunity cost like if creative code wasn't there I would be working for palantine or something right now like i'd be full like using this
+But yeah, yeah, if you still have time i'd love to hear a bit more about how you would imagine replicating that, or like what your goal like. Yeah, so can you tell me more about that i'm heading to Santa Cruz.
 
-00:40:21.000 --> 00:40:35.000
-mind towards just I wouldn't even call it destruction but I would have lost a lot like I know that I I've been gifted with like, or just just been privileged to have a lot of technical ability, and i'd
+I'm not i'm not quite sure what the responsibilities are what the live with the school is gonna be entirely. It was cool. I got to meet the 2 of my peers in my lab.
 
-00:40:35.000 --> 00:40:49.000
-be using in a very, very different manner, if it wasn't for a code collective like I I definitely think that like it has kept a certain ethnic, ethical leading or like a political meaning I don't know how to describe that
+I guess the Professor, that i'm working for like got like a bigger like not just one student, but 3. So that's gonna be kind of cool yeah mit media lab person that's gonna be like my peer and then like another web dev person which i'm stoked about because I love what i've been a lot But I do think that there's a lot to be like there's a lot like santa cruz as a school has a lot of game dev kids just like Usc. It's the third I think I forgot like ranking wise but it's a little bit like they have a lot less resources than you Usc. But talking to those students. they're a lot just a small sample, but I've also talked to a ucs the alumni at at Usc. Right now. they have a lot more of kind of the enchantment wick game, development, or game design than I've seen in Usc. students. 
 
-00:40:49.000 --> 00:40:53.000
-the family of values, that creative code, collective espouses.
+So. i'm hoping that if I were to like gather a group. Maybe it'll also be called the creative code collective if that's okay, or it's just the same chapter or the same thing. But to take to give infrastructure to that or to give space for that I don't know if the course load I know at Usc. it's a lot less for a lot of disciplines than the Uc system so that will affect the the bandwidth of students to think about things critically, or to work on creative projects.
 
-00:40:53.000 --> 00:40:58.000
-But like a huge amount of like empathy or a criticality that has remained.
-
-00:40:58.000 --> 00:41:06.000
-That's that's what i'm taking with me and that's what I will keep, and I hope to replicate it in some form.
-
-00:41:06.000 --> 00:41:17.000
-But yeah, yeah, if you still have time i'd love to hear a bit more about how you would imagine replicating that, or like what your goal like.
-
-00:41:17.000 --> 00:41:21.000
-Yeah, so can you tell me more about that i'm heading to Santa Cruz.
-
-00:41:21.000 --> 00:41:28.000
-I'm not i'm not quite sure what the responsibilities are what the live with the school is gonna be entirely. It was cool.
-
-00:41:28.000 --> 00:41:30.000
-I got to meet the 2 of my peers in my lab.
-
-00:41:30.000 --> 00:41:35.000
-I guess the Professor, that i'm working for like got like a bigger like not just one student, but 3.
-
-00:41:35.000 --> 00:41:51.000
-So that's gonna be kind of cool yeah mit media lab person that's gonna be like my peer and then like another web deaf person which i'm stoked about because I love what i've been a lot But I do think that there's a lot to
-
-00:41:51.000 --> 00:41:57.000
-be like there's a lot like santa cruz as a school has a lot of game dev kids just like Usc.
-
-00:41:57.000 --> 00:42:03.000
-It's the third I think I forgot like ranking wise but it's a little bit like they have a lot less resources than you Usc.
-
-00:42:03.000 --> 00:42:12.000
-But talking to those students. they're a lot just a small sample, but I've also talked to a ucs the alumni at at Usc.
-
-00:42:12.000 --> 00:42:21.000
-Right now. they have a lot more of kind of the enchantment wick game, development, or game design than I've seen in Usc. students.
-
-00:42:21.000 --> 00:42:26.000
-So. i'm hoping that if I were to like gather a group.
-
-00:42:26.000 --> 00:42:34.000
-Maybe it'll also be called the creative code collective if that's okay, or it's just the same chapter or the same thing.
-
-00:42:34.000 --> 00:42:47.000
-But to take to give infrastructure to that or to give space for that I don't know if the course load I know at Usc. it's a lot less for a lot of disciplines than the Uc system so
-
-00:42:47.000 --> 00:42:56.000
-that will affect the the bandwidth of students to think about things critically, or to work on creative projects.
-
-00:42:56.000 --> 00:43:07.000
 So yeah, i'd like to like i'll have to like find a space like a consistent space to meet and see if I can gather the students interested in creative code.
 
-00:43:07.000 --> 00:43:14.000
 So definitely gonna be starting with like people interested in processing people interested in like generative art.
 
-00:43:14.000 --> 00:43:25.000
 I think those are like good good starting points to start It depends on the affordances of the space, and I get like a hardware maker space, and it could be the Arduino kids.
 
-00:43:25.000 --> 00:43:29.000
 I'll also have to tap into what the existing student organizations are like as well.
 
-00:43:29.000 --> 00:43:35.000
-Yeah, Yeah, that's awesome i'm super excited to hear what's gonna happen?
+>Yeah, Yeah, that's awesome i'm super excited to hear what's gonna happen? How that's you know how that comes together so I hope you keep me updated, and also like you know, if we're gonna continue doing this next year that there's an opportunity to both to keep you in the code collective Family the Usc. code collective family, but to link up to the Santa Cruz code collective family as it's forming. Yeah,
 
-00:43:35.000 --> 00:43:48.000
-How that's you know how that comes together so I hope you keep me updated, and also like you know, if we're gonna continue doing this next year that there's an opportunity to both to keep you in the code collective.
+Well to like to spread it right I mean i'd Imagine you could like, even in la like there's there's the opportunity to take these collectives and put them in in a bunch of places like you could build it pick your network I don't know if that's like an ambition of yours but this I get in. I see it. **I definitely see the the like, the potential for this to spread and have a lot of power.**
 
-00:43:48.000 --> 00:43:57.000
-Family the Usc. code collective family, but to link up to the Santa Cruz code collective family as it's forming. Yeah,
+>Yeah. And if you wanted I don't know if it makes sense like if you wanted to bring them in, if you want everybody on like a shared discord or separate spaces, or like, just to link people up like, we should definitely talk more about what structures would make sense once you get a feel for yeah, the culture there.
 
-00:43:57.000 --> 00:44:15.000
-Well to like to spread it right I mean i'd Imagine you could like, even in la like there's there's the opportunity to take these collectives and put them in in a bunch of places like you could build it pick your network I don't know if that's like an ambition of yours but this I get
-
-00:44:15.000 --> 00:44:22.000
-in. I see it. I definitely see the the like, the potential for this to spread and have a lot of power.
-
-00:44:22.000 --> 00:44:35.000
-Yeah. And if you wanted I don't know if it makes sense like if you wanted to bring them in, if you want everybody on like a shared discord or separate spaces, or like, just to link people up like, we should definitely talk more
-
-00:44:35.000 --> 00:44:42.000
-about what structures would make sense once you get a feel for yeah, the culture there.
-
-00:44:42.000 --> 00:44:47.000
 Yeah, I mean one mask like did like the kids operate on discord so well.
 
-00:44:47.000 --> 00:44:53.000
-So like maybe just scorpion I do I do think it'd be important to gather people in.
+So like maybe just scorpion I do I do think it'd be important to gather people in Person. Yeah. Oh, I think, in addition, yeah, the iii excited to see , I don't know.
 
-00:44:53.000 --> 00:45:00.000
-Person. Yeah. Oh, I think, in addition, yeah, the iii excited to see , I don't know.
-
-00:45:00.000 --> 00:45:08.000
-Are we still on the record? hit you when I I can pause it for a minute.
+>Are we still on the record? hit you when I I can pause it for a minute.
 
 00:45:08.000 --> 00:45:10.000
-I was not like, yeah let me turn this back on for a second, because I had a question with Zoom.
+>I was not like, yeah let me turn this back on for a second, because I had a question with Zoom.
 
 00:45:10.000 --> 00:45:18.000
-Okay, we're back. What if you were now since you are starting a code collective.
+>Okay, we're back. What if you were now since you are starting a code collective.You're basically my target audience for this projects. like what would you want to see in a guidebook to this like, What do you?
+>I mean you you already know, because you're inside It But like what needs to be in this book **programmatic ritual**
 
-00:45:18.000 --> 00:45:29.000
-You're basically my target audience for this projects. like what would you want to see in a guidebook to this like, What do you?
+So it. Have you heard of like the ancient sumerians or like this book? What this book's so good it's it's snow crash. But new stuff is yeah 
 
-00:45:29.000 --> 00:45:37.000
-I mean you you already know, because you're inside It But like what needs to be in this book programmatic ritual.
+>I haven't read it so many people have told me to read it pretty good.
 
-00:45:37.000 --> 00:45:42.000
-So it. Have you heard of like the ancient sumerians or like this book?
+It's pretty good it's like it's pretty pump out. I don't know it's it's like fun site it's fun. It's like actually a fun book, but in it it has this huge.
 
-00:45:42.000 --> 00:45:47.000
-What this book's so good it's it's no crash.
-
-00:45:47.000 --> 00:45:52.000
-But new stuff is yeah I haven't read it so many people have told me to read it pretty good.
-
-00:45:52.000 --> 00:45:55.000
-It's pretty good it's like it's pretty pump out.
-
-00:45:55.000 --> 00:45:59.000
-I don't know it's it's like fun site it's fun.
-
-00:45:59.000 --> 00:46:01.000
-It's like actually a fun book, but in it it has this huge.
-
-00:46:01.000 --> 00:46:10.000
 It's not the only book on my bookshelf that's obsessed with this, but I don't know why, but like I feel like I'm just seeing in the narrative law about like Sumerian language and Samarian that they like. It was kind of maybe the birth of human consciousness. So they had a radically different human consciousness, but they would kind of like, keep all of their writing in a certain temple. And suppose you were to become a bread maker, you would go to the Temple either like priestess or priest, would like, give you the programmatic instructions for like how to do bread. so like the whole society was codified and edited from that temple and everyone would just follow these writings, and that's how society would keep going.
 
-I think there's some like Incan civilizations. but they would like, this exists in a lot of things. So what I would look for in a manifesto is maybe a practical guide to setting it up. The values. And you know, these things could shift based on the circumstance, because **I imagine there could be like a creative code collective in, like, Austin, Texas, with very very different values and aims and and people working on different stuff but still people benefiting from a lot of the same weird <<WHA?>> it that we would do** so. that's such an interesting question, though.
+I think there's some like Incan civilizations. but they would like, this exists in a lot of things. So what I would look for in a manifesto is maybe *a practical guide to setting it up. The values. And you know, these things could shift based on the circumstance*, because **I imagine there could be like a creative code collective in, like, Austin, Texas, with very very different values and aims and and people working on different stuff but still people benefiting from a lot of the same weird <<WHA?>> it that we would do** so. that's such an interesting question, though.
 
 >Yeah, I mean so I agree. So right now, the structure is there's a manifesto and a practical guide. But they're kind of blurring because the practical guide is like we bring snacks. We you know it is, kind of like the ritual but it's also like there's a lot of values just so stuff in the practical guide, and it's very loose like our structure. they're very embedded in one another and I do wonder like could could there be a a wyoming right wing code collective that's like we are a you know. gray hat, red hat, hacker, I mean I don't know like so like one thing is like you could emphasize radical openness right That's something that you know I could imagine I don't know.
 
@@ -980,27 +751,29 @@ And then you just like mitosis me to like another like like well, like phagocyto
 
 <section class="interview" markdown="1">
 
-A: It's harder to start by doing your own thing. The reason I didn't share anything is I dodn't know how to start. I still didn't know how to sit down and start. I took a class where they taught me. Not an assignment but a task outline a constraint so it's easier to think about what you want to do with that makes more sense for beginners. 
+## Ada and Dazhi
+### 31.03.2022, accidental interview as casual chat
 
-D: A space to show off, look at what I've done apsect is annoying. Itneresting to think about how are they doing this what are they doing. 
+A: It's harder to start by doing your own thing. The reason I didn't share anything is I don't know how to start. I still didn't know how to sit down and start. I took a class where they taught me. 
+Not an assignment but a task outline a constraint so it's easier to think about what you want to do with that makes more sense for beginners. 
+
+D: A space to show off, look at what I've done aspect is annoying. Interesting to think about how are they doing this what are they doing. 
 
 A: A space for ideas more than a space for learning. If you have or want to and can on your own, you can get ideas of what you can do with that. Or you can show. OK 
 
 D: Otter recording. THinking about how i want to write a pitch. 
 
-A: knew how but never done creative code. vs ppl who never coded and did art. could figure out but didn't know what to use for what. so many things you can do. For someone who doesn't know, giving them a tool where they can learn to do a lot with it, so they can figure out the tools they need. Have two in one week be dedicated to something we all do twogether. Working on a project with people. Takes a certain amount of mastery and a separate skill that most people do not teach. 
+A: knew how but never done creative code. vs ppl who never coded and did art. could figure out but didn't know what to use for what. so many things you can do. For someone who doesn't know, giving them a tool where they can learn to do a lot with it, so they can figure out the tools they need. Have two in one week be dedicated to something we all do together. Working on a project with people. Takes a certain amount of mastery and a separate skill that most people do not teach. 
 
 and the conversations and politics pieces. those convos come around anyways. 3js or shader coding. 
 
-D: Not excited to do AI. wrung out. The brag list in your head.
+D: Not excited to do AI. wrung out. The brag list in your head. What people know to expect of you.
 
 A: Sharing music has taught me the things you like aren't going to align with what other people are gonna like. 
 
-NLP, datasets, 
-
 NLP done a lot of projects but has never clicked. Bad with data, being able to move data around in code doesn't make sense to me. This is hell. Fitting arrays to a model. MOst of my time. Cleaning data. This is a huge part. I don't enjoy this. 
 
-More interest if it's about datasets and ML, sounds funny, buzwords are there and teaching them to critically engage. 
+More interest if it's about datasets and ML, sounds funny, buzzwords are there and teaching them to critically engage. 
 
 Version 0.0.0.1 of tender data lab. 
 
@@ -1010,12 +783,32 @@ use a journal that has that kind of referencing.
 
 BYOD bring your own dataset. 
 
-~~~~~
-
 diff histories.
-printing things out in terminal was boring. button with ascii, shadded. 
+printing things out in terminal was boring. button with ascii, shaded. 
 three books, bc i like math. 
 
 [transcript](https://otter.ai/u/_Xd6KTzK5eQSlwTcGLK3aIMPofA)
+
+>"Creative code itself is a very flashy and like encourages showing, especially, like go to like, r/generative subreddit people just say look at what I've done. I don't also have to share the code, but also look at what I've done. So there's that aspect to it. So it's annoying, but it's also interesting to think about, like, how are they doing this?"
+>Dazhi Zhong, they/them, BS Computer Science
+
+>"Oh, for example, this shape, and they're like, 'Okay, how can I make this shape with code and people can be there to dissect it and make it into actual code because the original author didn't share theirs."
+>Dazhi Zhong, they/them, BS Computer Science
+
+>"It feels like a space for ideas more than a space for learning. Like if you have learned or want to figure it out and can figure it out on your own, and you come to create a collective you can get ideas of what you can do with that."
+>(Ada Toydemir, they/them, MS Computer Science)
+
+>"For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
+>(Ada Toydemir, they/them, MS Computer Science)
+
+>"working with people takes a certain amount of mastery. And it's like a separate skill that you do need to develop that I think most people do not teach."
+>(Ada Toydemir, they/them, MS Computer Science)
+
+coders who want to learn the creative aspect, creatives who want to learn the coding aspects, and then bringing in the critical thinking and aesthetics and politics into the conversations that we have around that stuff.
+>"the the people that are in this space, those conversations do come around anyways"
+>(Ada Toydemir, they/them, MS Computer Science)
+
+>"But that's what people expect. from me. You know, these days, right? It's like, I it's, it's the thing that I have to show for myself. It's the thing it's the you know, the to do. It's like the brag list in your head, right? You just have to it's like, how do you introduce yourself? How do you like, explain what you've been doing? How to explain you're like, Okay, this is what I have done doesn't necessarily mean this right now."
+>Dazhi Zhong, they/them, BS Computer Science
 
 </section>

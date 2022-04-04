@@ -25,6 +25,10 @@ links:
     - "https://sarahciston.com"
 links_new_tab: true
 
+kramdown:
+  parse_block_html: true
+  toc_levels: "2"
+
 # how do i indicate other folders to include in jekyll conversion again
 
 github: [metadata]
