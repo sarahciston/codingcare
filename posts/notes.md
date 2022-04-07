@@ -8,6 +8,14 @@ published: true
 tags: [notes, progress, misc, journal]
 ---
 
+### 07.04.02
+showing the roughest zero drafts of this to a few trusted people has been affirming. normally I wouldn't show anything quite so unrealized, in order to protect its spark, but in this case its spark has been getting lots of tending from lots of places. 
+
+also it brought up some thoughts about tone, the guide feels more vibrant and lively and this quote I subsequently came across explains why perhaps:
+
+>"a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world and is its very foundation." (Hedva, "Why It's Taking So Long")
+
+
 ### 18.03.22
 had an easy time adding Bindery.js tool to this minimalist Jekyll + Github pages setup, which affirms my (not) gut instinct for minimalism somewhat. even though I want everything to have all the moving parts and bells and whistles, anne lamont says "bird by bird" and it's easier to see the interconnectedness of things, each tree in the forest, when each part is tall and strong and simple and can move on its own. 
 
