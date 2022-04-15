@@ -11,7 +11,7 @@ nav_order: 95
 
 * [Katherine](interviews#katherine-yang)
 * [Samir](interviews#samir-ghosh)
-* [Ada & Dazhi](interviews#ada-and-dazhi)
+* [Ada & Elea](interviews#ada-and-Elea)
 
 <!-- >a creative code, collective guide book kind of vibe -->
 <!-- >I am imagining this will also end up being kind of a living document. -->
@@ -751,7 +751,7 @@ And then you just like mitosis me to like another like like well, like phagocyto
 
 <section class="interview" markdown="1">
 
-## Ada and Dazhi
+## Ada and Elea
 ### 31.03.2022, accidental interview as casual chat
 
 A: It's harder to start by doing your own thing. The reason I didn't share anything is I don't know how to start. I still didn't know how to sit down and start. I took a class where they taught me. 
@@ -790,10 +790,10 @@ three books, bc i like math.
 [transcript](https://otter.ai/u/_Xd6KTzK5eQSlwTcGLK3aIMPofA)
 
 >"Creative code itself is a very flashy and like encourages showing, especially, like go to like, r/generative subreddit people just say look at what I've done. I don't also have to share the code, but also look at what I've done. So there's that aspect to it. So it's annoying, but it's also interesting to think about, like, how are they doing this?"
->Dazhi Zhong, they/them, BS Computer Science
+>Elea Zhong, she/they, BS Computer Science
 
 >"Oh, for example, this shape, and they're like, 'Okay, how can I make this shape with code and people can be there to dissect it and make it into actual code because the original author didn't share theirs."
->Dazhi Zhong, they/them, BS Computer Science
+>Elea Zhong, she/they, BS Computer Science
 
 >"It feels like a space for ideas more than a space for learning. Like if you have learned or want to figure it out and can figure it out on your own, and you come to create a collective you can get ideas of what you can do with that."
 >(Ada Toydemir, they/them, MS Computer Science)
@@ -809,6 +809,6 @@ coders who want to learn the creative aspect, creatives who want to learn the co
 >(Ada Toydemir, they/them, MS Computer Science)
 
 >"But that's what people expect. from me. You know, these days, right? It's like, I it's, it's the thing that I have to show for myself. It's the thing it's the you know, the to do. It's like the brag list in your head, right? You just have to it's like, how do you introduce yourself? How do you like, explain what you've been doing? How to explain you're like, Okay, this is what I have done doesn't necessarily mean this right now."
->Dazhi Zhong, they/them, BS Computer Science
+>Elea Zhong, she/they, BS Computer Science
 
 </section>

@@ -42,10 +42,10 @@ We build it to prove to ourselves that it can exist. We build it as an offering 
 
 [...]
 
-If it doesn't exist, we ask if it should. And if it does exist, we still ask if it should (or shouldn't). We ask how could it be otherwise. All making is a research question. All theory is theory–practice. All practice is theory–practice. Which is to say, our reading and thinking saturates what creative choices we make, what materials we use, how we speak about what we do. This is true even if unconscious. And so we choose to acknowledge this and do so mindfully. || Our creative choices and materials and our work in our bodies saturates our reading and thinking, our vocabularies, our points of reference, our critical tools, our communities of practice. These are recursive and reciprocal and iterative. Making is always a research question about how to live.
+If it doesn't exist, we ask if it should. And if it does exist, we still ask if it should (or shouldn't). We ask how could it be otherwise. *All making is a research question.* All theory is theory–practice. All practice is theory–practice. Which is to say, our reading and thinking saturates what creative choices we make, what materials we use, how we speak about what we do. This is true even if unconscious. And so we choose to acknowledge this and do so mindfully. || Our creative choices and materials and our work in our bodies saturates our reading and thinking, our vocabularies, our points of reference, our critical tools, our communities of practice. These are recursive and reciprocal and iterative. Making is always a research question about how to live.
 [[insert figure]]   
 
-When we can't find a tutorial, we don't assume it can't be done. We don't assume it isn't meant to be done. We don't say, "That's not what code is for." Instead we try asking with new language, asking a friend with a different background, asking with our hands in the dirt, asking as we tinkering on another project in another medium, until answers circle back to us. We write it out on paper, we draw it, we sing it, we take a dance break. Persistence is a rhythm not a slog.
+When we can't find a tutorial, we don't assume it can't be done. We don't assume it isn't meant to be done. We don't say, "That's not what code is for." Instead we try asking with new language, asking a friend with a different background, asking with our hands in the dirt, asking as we tinkering on another project in another medium, until answers circle back to us. We write it out on paper, we draw it, we sing it, we take a dance break. *Persistence is a rhythm not a slog.*
 
 We reverse-engineer, run it backwards, learn from others' examples and apply, combine, modify them liberally. We pull from anywhere, [interdisciplinary, intersectional practice.]
 
@@ -55,6 +55,6 @@ We make coded things in order to connect with others, to bridge the ephemeral sp
 
 We write code in order to decode the systems that ... [encumber us]
 
-We refuse to be outsiders in the systems that injure us. We reject notions of intimidation or gatekeeping that deny creativity, joy, politics, and purposes that reach beyond perpetuating white-supremacist capitalist status quo. 
+*We refuse to be outsiders in the systems that injure us or ignore us.* We reject notions of intimidation or gatekeeping that deny creativity, joy, politics, and purposes that reach beyond perpetuating white-supremacist capitalist status quo. 
 
 When we say we, we write for the parts of ourselves that have been neglected or ignored, a habit we learned too early, a trick imposed upon us and repeated. ~~When we say we, we claim this audaciously and unapologetically, and hope you feel it too, but you don't have to.~~

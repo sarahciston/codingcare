@@ -1,12 +1,12 @@
 ---
 layout: post
-title: appendix
+title: appendices
 nav_order: 101
 date: 21.03.2022 
 tags: [appendix]
 ---
 
-<!-- # appendix -->
+# appendices
 
 >>In January 2019 I sent out this Google form to USC students, staff, and faculty who I thought might be interested in a new code-friendly community. This was our first document, where you can see the shape it was beginning to take and its raw edges, as I was wayfinding for what I was interested in offering and what others might need. 
 

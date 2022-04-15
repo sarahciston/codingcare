@@ -21,6 +21,9 @@ tags: [tips, guide, handy]
 * purpose of the book, what are the rituals of programming
 * who we are, who i am and why it matters
 * why we're here
+* first steps & logistics: a hub for info dumping, collab notes
+* course corrections
+• three tenses: what we have done, continue to do and how it matters, ideal vision we want for the world and how this leads to it
 
 ## 1. we know code isn't magic, but we are
 
@@ -77,11 +80,57 @@ At our first meeting, initial members cited a mix of desires:
 
 Each person shared what they were currently working on, some topics they knew about, some topics they wanted to know about. We looked for the overlaps.
 
+### why we're here, upon reflection (a former manifesto)
+
+Coding has been considered the province of too few for far too long. And the rest of us have been treated as outsiders to systems that consume us.
+
+Care and compassion are infinite but neglected resources, literally life sustaining resources that renew themselves with use. 
+
+[...]
+
+We know that sneaky feeling an idea should already exist means we might be the ones who are meant to create it. We know that other sneaky feeling that an idea is too impossibly far-fetched, that we are the only ones who would want it, *still* means we are the ones who should pursue it. We are the ones who can bring our vision to life. 
+
+We break code to learn how it works, to see if it could work a different way, to see if its not working makes it sing out with poetry. We write it out on paper if we don't know how to say it with code. 
+
+### how we do it 
+### why we do it anyway
+
+When the tool we need doesn't exist, we build it. We make it from the existing tools we scraped for parts. We build it with duct tape and spit and the new programming language we teach ourselves along the way. 
+
+We build it to prove to ourselves that it can exist. We build it as an offering for others to share. We build it to prove that building is for anyone, instruction manuals for hope. 
+
+[...]
+
+If it doesn't exist, we ask if it should. And if it does exist, we still ask if it should (or shouldn't). We ask how could it be otherwise. *All making is a research question.* All theory is theory–practice. All practice is theory–practice. Which is to say, our reading and thinking saturates what creative choices we make, what materials we use, how we speak about what we do. This is true even if unconscious. And so we choose to acknowledge this and do so mindfully. || Our creative choices and materials and our work in our bodies saturates our reading and thinking, our vocabularies, our points of reference, our critical tools, our communities of practice. These are recursive and reciprocal and iterative. Making is always a research question about how to live.
+[[insert figure]]   
+
+When we can't find a tutorial, we don't assume it can't be done. We don't assume it isn't meant to be done. We don't say, "That's not what code is for." Instead we try asking with new language, asking a friend with a different background, asking with our hands in the dirt, asking as we tinkering on another project in another medium, until answers circle back to us. We write it out on paper, we draw it, we sing it, we take a dance break. *Persistence is a rhythm not a slog.*
+
+We reverse-engineer, run it backwards, learn from others' examples and apply, combine, modify them liberally. We pull from anywhere, [interdisciplinary, intersectional practice.]
+
+[...]
+
+We make coded things in order to connect with others, to bridge the ephemeral spark gaps of language and feeling and being separate creatures trying to reach each other. We make things hoping someone thinks they're kind of cool. 
+
+We write code in order to decode the systems that ... [encumber us]
+
+*We refuse to be outsiders in the systems that injure us or ignore us.* We reject notions of intimidation or gatekeeping that deny creativity, joy, politics, and purposes that reach beyond perpetuating white-supremacist capitalist status quo. 
+
+When we say we, we write for the parts of ourselves that have been neglected or ignored, a habit we learned too early, a trick imposed upon us and repeated. ~~When we say we, we claim this audaciously and unapologetically, and hope you feel it too, but you don't have to.~~
+
 
 
 ### we are still figuring out who we are
 
 We gather as part of this effort, and we have started to trust each other with the care and feeding required to take on this continual work. We reveal ourselves, maybe slowly at first. By sharing the things we make or want to make, we share what we care about, who we care for, our politics. We get glimpses of each others homes and families and pets. We see each other chew with our mouths full or sweaty on arrival or frustrated to figure out a problem.  
+
+### get attachments, convert xxxxx, emotional coding, poetry in the program, 
+
+### we create who we are together
+
+Designing our online presence has been an ongoing collaboration, probably our only collaboration to date, although there have been talk of others. Through the (perhaps menial but important) work of creating a seemingly simple site, we declare our collective identity. We decide the tone of who we are as a group, how we will present to the outside what it is we are doing, what we prioritize, what we call ourselves, how we explain our processes, how we support others who join. 
+
+The website expanded from a landing page into the more robust vision of a full-fledged Resource Hub, an interactive, fully contribute-able database to share the tools and tutorials we were discussing and why we found them useful. 
 
 ## 2. we make room for each other
 
@@ -122,7 +171,7 @@ As our meetings transitioned to virtual spaces and across timezones, snacks stil
 ### we open sessions with our shared playlist
 And it is on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now," which came to be when at our first meetup a quiet student piped up out of the blue with this amazing suggestion for our background tunes. I was blown away. And it has been our rallying call ever since. 
 
-A collaborative playlist on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another humanizing way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community at large *and* when working on code. It's all connected! 
+A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g6F9RM0Osbhw7ONwxSJhy?si=Cr0nEeExQiKPUQI-l7-HCA) on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another humanizing way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community at large *and* when working on code. It's all connected! 
 
 ### we start each session with show and tell
 
@@ -137,7 +186,7 @@ It has been one of my biggest stresses about our Collective learning how to lead
 
 Of course, this does not work. That nervous strategy is riddled with stilted efforts of over-structured efforts leading to dead silence and loosey goosey meandering conversations. Along the way I am continually learning the caring practices of facilitation as leadership, as being a vessel and a model. The space is a loose net—some structure is in fact necessary, though I was loathe to be the instigator of that structure at first. 
 
->>Dazhi: "Can I go on a tangent?" 
+>>Elea: "Can I go on a tangent?" 
 
 >>Sarah: "Always."
 
@@ -200,6 +249,8 @@ When we are together and witness each other struggle, that commonality reveals t
 
 For example, I am writing this guide in a git repo using version control, which means the changes are tracked. It is continually updated and saved on a public Github pages website, which means both that you are reading a work in progress and also that anyone can see any prior version of it any time. 
 
+<!-- [How to Fork a Book](https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c) by Sarah Ciston and Mark C. Marino , we talk about a "yes, and" ethos and add "Code Confessions" and "Code Commentaries." Code Confessions reflect on our experiences starting to learn to program, while Code Commentaries do critical close-readings of source code, an approach that comes from the Critical Code Studies discipline.-->
+
 ### we are not in class. we're in community.
 
 We strike a balance that is neither the top-down hierarchy of a classroom nor the chaos of a "hierarchy-less" blob. We acknowledge the power dynamics at play and actively address them, working to help folks feel welcoming in community.
@@ -232,6 +283,29 @@ Sometimes the low-fi answer is the right one. When searching for the right tools
 
 ### we choose open source, freely available, easily adaptable tools wherever possible
 
+
+
+[...]
+
+### workshops we have had, or planned
+
+#### planned
+
+* Ethics of NFTs for Artists: If Such a Thing Is Possible
+* Bias in NLP Language & Ethical AI
+* Group coding: we each take some time to attempt a solution to a simple but not trivial given problem, then come back and talk about our approaches
+* Co-write community values & docs
+* Anti-hackathon
+* Remix videos on the command line
+* Music visualization with Pure Data
+* Audio signal processing
+* P5js and P5 Live
+* Data moshing
+* DIY Portfolio Examples and How to Code Them
+
+#### past
+* Help Me Code IAI zine making workshop
+* Feminist.AI 
 
 
 [...]
