@@ -62,8 +62,17 @@ As folks that come from different cultures, sexualities & genders, fields of stu
 
 We reinforce that everyone brings skills to share and can learn from each other. 
 
-*We are committed to interdisciplinary intersectional practices and making. We make sure this is embedded in and extends beyond our own work by including workshops and group research that focuses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally.*
+~~~*We are committed to interdisciplinary intersectional practices and making. We make sure this is embedded in and extends beyond our own work by including workshops and group research that focuses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally.*~~~
 
+### we are continually in process, works in progress
+
+Writing both as a representative of a community and as an individual greatly influenced by this community, and by so many other creators, thinkers, and teachers, I really wanted to document my thought processes and honor the many entangling threads that go into shaping a caring (coding) community. 
+
+It is not one gesture or one moment, but it is all of them as they build up together. Each thing we have done intentionally, and unintentionally, adds up to us. Sometimes it feels like it just *is*, has always been. Or it feels like the things we do to support it are so obvious they are not worth mentioning, or even worse, they are so obvious I don't know how to notice them, they are not obvious at all. This guide is an attempt to remind myself they matter, and to acknowledge how much they have supported me (and hopefully others along the way). Whatever those ephemeral things are that make this caring coding community go.
+
+This guide is a work in progress, trying to capture some intuitive wayfinding about how to learn and teach and explore and be together, especially in and through the things that draw us in that feel both challenging and fun, frustrating and rewarding. 
+
+By being drafted from scratch on a public site, the guide shows its rough edges before it is ready—a practice of vulnerability, an invitation for conversation. The site is built using Github, a code repository and version tracking platform, so that every past version of the text is archived. Readers can compare differences in the history [for example]() line by line and comment on the text as it changes. This laid bare writing process enacts the Creative Code Collective value *progress not perfection*, which is mostly a reminder for myself.
 
 ### why we're here
 
