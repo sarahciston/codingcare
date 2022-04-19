@@ -37,6 +37,12 @@ Code is language, code is a tool; code can be read and learned and used to expre
 >"What I like about code collective is that it's a community of friends as well as resources. That's where I can feel like we're all going on a journey of learning and discovery together."
 >>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
 
+### why care
+
+>"Care is the practice of savouring how subtle differences can make all the difference."
+>>[Data Loam.](http://www.degruyter.com/document/doi/10.1515/9783110697841/html) (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.), De Gruyter. 
+
+
 ### we choose/find small things to get excited about and do them right away
 
 These small things are seeds. We don't know what they might grow into but we trust they will grow: *"Everything small and buried surrenders to a process that none of the buried parts can see."*[^nepo]
@@ -72,7 +78,7 @@ It is not one gesture or one moment, but it is all of them as they build up toge
 
 This guide is a work in progress, trying to capture some intuitive wayfinding about how to learn and teach and explore and be together, especially in and through the things that draw us in that feel both challenging and fun, frustrating and rewarding. 
 
-By being drafted from scratch on a public site, the guide shows its rough edges before it is ready—a practice of vulnerability, an invitation for conversation. The site is built using Github, a code repository and version tracking platform, so that every past version of the text is archived. Readers can compare differences in the history [for example]() line by line and comment on the text as it changes. This laid bare writing process enacts the Creative Code Collective value *progress not perfection*, which is mostly a reminder for myself.
+By being drafted from scratch on a public site, the guide shows its rough edges before it is ready—a practice of vulnerability, an invitation for conversation. The site is built using Github, a code repository and version tracking platform, so that every past version of the text is archived. Readers can compare differences in the history [for example](https://github.com/sarahciston/codingcare/commit/5e1ef814d661f43027e3d0f15b5ba87415194cfe?diff=unified) line by line and comment on the text as it changes. This laid bare writing process enacts the Creative Code Collective value *progress not perfection*, which is mostly a reminder for myself.
 
 ### why we're here
 
@@ -231,6 +237,11 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 >>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
 >(Dr. A. A. Vernelle Noel, Georgia Tech)
+
+
+
+>"For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
+>Ada Toydemir, they/them, MS Computer Science
 
 ### when making we ask Why. And How and Who. Not just What.
 

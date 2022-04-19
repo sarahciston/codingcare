@@ -798,8 +798,8 @@ three books, bc i like math.
 >"It feels like a space for ideas more than a space for learning. Like if you have learned or want to figure it out and can figure it out on your own, and you come to create a collective you can get ideas of what you can do with that."
 >(Ada Toydemir, they/them, MS Computer Science)
 
->"For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
->(Ada Toydemir, they/them, MS Computer Science)
+"For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
+Ada Toydemir, they/them, MS Computer Science
 
 >"working with people takes a certain amount of mastery. And it's like a separate skill that you do need to develop that I think most people do not teach."
 >(Ada Toydemir, they/them, MS Computer Science)

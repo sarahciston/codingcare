@@ -8,12 +8,51 @@ published: true
 tags: [notes, progress, misc, journal]
 ---
 
+### 18 apr 22
+
+Pirate Care on sus- not sur-
+>"We need to see digital resources as occasions for building mutualism, collective learning and radical pedagogies on the terms of those who are invisible, vulnerable and discriminated against." (Pirate Care. [“Care in a Techno-Capitalist World.”](https://dingdingding.org/issue-3/care-in-a-techno-capitalist-world/) Ding Magazine.)
+
+>"What’s needed is not something out of science fiction — it’s regulation, empowerment of ordinary people and empowerment of workers." (Bender, E. M. (2022, April 18). On NYT Magazine on AI: Resist the Urge to be Impressed. Medium. [URL](https://medium.com/@emilymenonbender/on-nyt-magazine-on-ai-resist-the-urge-to-be-impressed-3d92fd9a0edd))
+
+>"Find the wounded places in your community, where thinking and action are stagnant—bring the medicine of imagination." (brown, a.m. ["Dream Beyond the Wounds"](https://dingdingding.org/issue-2/dream-beyond-the-wounds/) Ding Magazine.)
+
+
+### 13 apr 22
+
+Randy Bass would call this a "high-impact practice" in "co-curriculum" (via Holly). 
+>"These practices also have high impact because they induce, according to George Kuh, student behaviors that lead to meaningful learning gains. The important student behaviors include the following: 
+    Investing time and effort
+    Interacting with faculty and peers about substantive matters
+    Experiencing diversity
+    Responding to more frequent feedback
+    Reflecting and integrating learning
+    Discovering relevance of learning through real-world application
+
+And Bass points to Henry Jenkins' participatory cultures, which have...
+>"* Low barriers to entry
+    Strong support for sharing one’s contributions
+    Informal mentorship, from experienced to novice
+    A sense of connection to each other
+    A sense of ownership in what is being created
+    A strong collective sense that something is at stake"
+
+Bass suggests to bring this impact into the classroom and "design for greater fluidity and connection between the formal curriculum and the experiential co-curriculum."
+
+>"we start in practice["learning to be"], and practice drives us to content ["learning about"]. Or, more likely, the optimal way to learn is reciprocally or spirally between practice and content." 
+
+
+*I like that, learn "spirally between practice and content," learning about and learning to be.*
+
+Also, while the need to quote from the original source for accuracy seems plain enough to me, I don't much care for the way it erases the path by which you found that source, the work that author in the middle put in tracking it down, synthesizing it, and helping it contribute to my thinking. I wish there were a better way to cite that was celebration not excavation and accolades. 
+
 ### 07 apr 22
+
 showing the roughest zero drafts of this to a few trusted people has been affirming. normally I wouldn't show anything quite so unrealized, in order to protect its spark, but in this case its spark has been getting lots of tending from lots of places. 
 
 also it brought up some thoughts about tone, the guide feels more vibrant and lively and this quote I subsequently came across explains why perhaps:
 
->"a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world and is its very foundation." (Hedva, "Why It's Taking So Long")
+>"a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world and is its very foundation." (Hedva, J. 2022. ["Why It's Taking So Long"](https://www.topicalcream.org/features/why-its-taking-so-long/) Topical Cream.)
 
 
 ### 18 mar 22
@@ -56,6 +95,7 @@ alchemizing, apothecary, regenerating, mutating, reimagining
 I keep writing caring.codes instead
 
 ### 03 oct 21, "making things, practicing emptiness"
+
 what form should the final object take? "final" "form" "object" 
 after Berlin I am really into (the idea of) making again. seeing the material of the zines be the part of the Intersectional AI Toolkit that comes alive for folks. to want to reorient practice around materials and people. less around the arguments and ideas than the ineffables (immaterial) that can be conjured through the stuff stuff. it probably needs to be a small edition of book/s  
 
