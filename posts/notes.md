@@ -8,6 +8,12 @@ published: true
 tags: [notes, progress, misc, journal]
 ---
 
+### 25 apr 22
+
+>"how would the everyday practice of sociological imagining shift if it incorporated machinic intelligences as social entities into its purview?" (Ceyda Yolgörmez, 144, Machinic Encounters: A Relational Approach to the Sociology of AI)
+
+
+
 ### 18 apr 22
 
 Pirate Care on sus- not sur-
@@ -19,6 +25,9 @@ Pirate Care on sus- not sur-
 
 
 ### 13 apr 22
+
+Randy Bass: 
+>"we have reached the end of the era of assuming that the formal curriculum—composed of bounded, self-contained courses—is the primary place where the most significant learning takes place."
 
 Randy Bass would call this a "high-impact practice" in "co-curriculum" (via Holly). 
 >"These practices also have high impact because they induce, according to George Kuh, student behaviors that lead to meaningful learning gains. The important student behaviors include the following: 
@@ -45,6 +54,14 @@ Bass suggests to bring this impact into the classroom and "design for greater fl
 *I like that, learn "spirally between practice and content," learning about and learning to be.*
 
 Also, while the need to quote from the original source for accuracy seems plain enough to me, I don't much care for the way it erases the path by which you found that source, the work that author in the middle put in tracking it down, synthesizing it, and helping it contribute to my thinking. I wish there were a better way to cite that was celebration not excavation and accolades. 
+
+>"Sociocultural approaches to learning have recognized that kids gain most of their knowledge and competencies in contexts that do not involve formal instruction. A growing body of ethnographic work documents how learning happens in informal settings, as a side effect of everyday life and social activity, rather than in an explicit instructional agenda." (21)
+"messing around" especially "looking around" or "fortuitous searching", and "experimentation and play"
+>"messing around requires a good deal of time for self-directed learning" (61)
+>"messing around is a genre of participation that is driven by young people’s own interests and motivations. It is not always fully provided by the adults who have authority over kids. While schools may provide structured media production programs for youth, these programs are task focused and there is little time for unstructured experimentation and play." (62-63)
+>"Rewriting the rules in the service of geeking out, however, also involves a willingness to challenge technological restrictions—to open the black box of technology, so to speak." (71)
+>Ito, M., Baumer, S., Bittanti, M., boyd,  danah, Cody, R., Stephenson, B. H., Horst, H. A., Lange, P. G., Mahendran, D., Martínez, K. Z., Pascoe, C. J., Perkel, D., Robinson, L., Sims, C., & Tripp, L. (2009). Hanging Out, Messing Around, and Geeking Out: Kids Living and Learning with New Media. MIT Press.
+
 
 ### 07 apr 22
 
