@@ -8,6 +8,56 @@ published: true
 tags: [notes, progress, misc, journal]
 ---
 
+### 25 may 22
+
+Thinking about spaces, what's needed physically and digitally for survival, for connection, for thriving.
+
+[Chaos Computer Club Berlin](https://wiki.hackerspaces.org/CCC_Berlin) (https://berlin.ccc.de/)
+
+
+
+
+
+### 17 may 22
+
+Staying with the Algorithm Trouble
+>"In complement to approaches to algorithmic auditing and accountability which start with, for example, reverse-engineering and the use of computational techniques to detect biases, algorithm troubles are the temporary accounts of a situation that has not yet bifurcated into a technological component on one side, and a social component on the other; into code and context; into an individual use case to be better taken into account, and a general social critique of algorithms. This is precisely why the algorithm trouble, as fragile and fleeting as it may seem, is worth attending to: it presents itself as a situated, mundane and ordinary experience of living with algorithms, stripped of the extraordinary promises and future perils through which algorithms and artificial intelligences are usually envisaged; yet it destabilizes and engages, intensifies and deflects the inertia of beliefs into an active inquiry."
+Institute, A. N. (2021, December 16). A New AI Lexicon: Algorithm Trouble. Medium. https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-algorithm-trouble-50312d985216
+
+
+### 16 may 22
+
+it's funny to read the prior notes entries and see how much can change in a day or an hour or a week, and also how much can echo and thread through. at the moment of the last entry i thought i might go somewhere else to build something from scratch, and then a lightning bolt stops me in my tracks and suggests a pivot, says stay here, there is more to learn about how to do this thing, how to make it, and perhaps you don't have to do so alone, but can make it bigger and wilder than originally envisioned. 
+
+this thing keeps getting bigger and blobbier and will my capacities get tested or will they get honed, the way the qualifying exam reshapes the brain or the scrappy code held together with chewing gum makes something inexplicably magic? 
+
+eclipsing my own expectations of what any of this could be.
+
+>"if there’s uncertainty, then we are no longer sure quite what’s the right way to behave. And there’s potential in that, an openness to new forms. We are susceptible to what I call sacred transgression. Not straight-up theft but a recalibrating of taboo to further the making of culture." (Shaw, "Navigating the Mysteries")
+
+>"WHAT IF WE reframed “living with uncertainty” to “navigating mystery”?"
+
+books:
+*crafting textiles in the digital age*
+*making is connecting*
+
+### 12 may 22
+
+another prong of the dissertation-as-life-as-lab takes shape, the lounge, the gathering hub that spokes the rest of this. why wait to make the center place? why wait until the degrees are officially signed off, until the boxes are checked until the decisions are made and settled until the lives are in their final fixed states when we know that this is not how things work, we go to where the action is, we calcify in stillness, or we stay energized around what keeps us fed and creative. 
+
+could i create the creative community lab i've been dreaming of now? it has come up in some form or another (tender tech, tenant in common, bookshop, etc) since i was small. these magical spaces where people find each other, where things are made more than the sum of their parts, stories are discovered, words and threads are woven together, people are offered what they need. 
+
+of course there are long histories of this, in and outside of ML/AI/tech. the hackerspaces and makerspaces and knitting circles and covens. the garages and gatherings of femme underground power. 
+
+### 03 may 22
+
+James Baldwin on not labeling, from the Center on Privacy & Technology on why they are not saying AI any longer: 
+
+>"[The poet’s] responsibility, which is also his joy and his strength and his life, is to defeat all labels and complicate all battles by insisting on the human riddle, to bear witness, as long as breath is in him, to that mighty, unnameable, transfiguring force which lives in the soul of man…" [https://medium.com/center-on-privacy-technology/artifice-and-intelligence%C2%B9-f00da128d3cd]
+
+Whew, exactly, Mr. Baldwin.
+
+
 ### 25 apr 22
 
 >"how would the everyday practice of sociological imagining shift if it incorporated machinic intelligences as social entities into its purview?" (Ceyda Yolgörmez, 144, Machinic Encounters: A Relational Approach to the Sociology of AI)
@@ -48,8 +98,7 @@ And Bass points to Henry Jenkins' participatory cultures, which have...
 
 Bass suggests to bring this impact into the classroom and "design for greater fluidity and connection between the formal curriculum and the experiential co-curriculum."
 
->"we start in practice["learning to be"], and practice drives us to content ["learning about"]. Or, more likely, the optimal way to learn is reciprocally or spirally between practice and content." 
-
+>"we start in practice ["learning to be"], and practice drives us to content ["learning about"]. Or, more likely, the optimal way to learn is reciprocally or spirally between practice and content." 
 
 *I like that, learn "spirally between practice and content," learning about and learning to be.*
 

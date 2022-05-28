@@ -1,4 +1,7 @@
-
+---
+title: notes from workshopping
+# layout: 
+---
 
 # L
 
@@ -52,7 +55,7 @@ E: Multiple levels of questions. Acknowledge. Big abstract what is care. how do 
 
 V: We are our dissertations. Everything you do from now on. Five Qs dont feel like they have to match part to part. Be in conversation. What is it you're finding in those folks interesting and important to you. The things are also circulating in your project and in your guidebook and manifesto. Translations. 
 
-E: Depersonalize a little for the job market. It's also the work which speaks for itself. Examples of DIY practices older references. Calle, Horn, Hershmann 
+Em: Depersonalize a little for the job market. It's also the work which speaks for itself. Examples of DIY practices older references. Calle, Horn, Hershmann 
 
 ~~~~~~~~
 
@@ -74,9 +77,9 @@ what are the structures of care that are being explored, listed in values sectio
 
 the theme, where bring self in. where it could be earlier, to get more insight into who i am as a coder and writer. segue into problems i'm responding to, create remedy. 
 
-had to google API. shouldn't feel left out
+Laney: had to google API. shouldn't feel left out
 
-drawn to fragmented nature of section one. but it kind of is magic  a little bit. the playfulness and democratic feel. has invitation. can enjoy it is magic but the rest of the magic is i'll pull in and teach you about it. will that fragmented magical whimsical section continue, it's in snacks and playlist and silly photo. later it becomes a manifesto. which whole thing is a bit. continue playful tone gives you something to hold onto (thread), manifesto thread of how we should treat one another. 
+drawn to fragmented nature of section one. but it kind of is magic a little bit. the playfulness and democratic feel. has invitation. can enjoy it is magic but the rest of the magic is i'll pull in and teach you about it. will that fragmented magical whimsical section continue, it's in snacks and playlist and silly photo. later it becomes a manifesto. which whole thing is a bit. continue playful tone gives you something to hold onto (thread), manifesto thread of how we should treat one another. 
 
 weaving in and out of whimsy and manifesto tones, sense of difference (vs whimsifesto blend)
 
@@ -86,14 +89,14 @@ H: three diff temporalities. report is this is what we've done. present. we cont
 
 hear more about the we, as a way of structuring or awareness of temporalities. community is present but maybe examples. more practical level of quotations. 
 
-notes section feels like a blog, love it. even if they're not going to make it in a finished document, simple novel idea. seeing idea progression. what i'm tinking in a casual way. 
+Faye: notes section feels like a blog, love it. even if they're not going to make it in a finished document, simple novel idea. seeing idea progression. what i'm thinking in a casual way. 
 
 KY is tentatively joining the group and the guidebook is for people interested in joining the future, like her at the beginning.
 the tone represents the environment perfectly, warm and inviting. creative spaces can be tense and coding can be gatekeepy, combing can be weird. good job to make sure they don't feel uninvitng.  
 
 as a literary device, using we vs i can do. to think about those polarities moving around the space of a manifesto. wonder in addition to manifesto what words could be used to describe that space, getting sense of electro acoustic spa. manifesto feels restrained, text was breaking past that framework of association. text feels very present, currently happening shifting and changing. manifesto feels declarative proclamation space. fixed. historical commentation. 
 
-any other collective identities i gather writing inspiration from, how other groups talk as a collective I? what could be done by swapping we for I and vice versa and how it alters the reading experience as outsider. 
+any other collective identities i gather writing inspiration from, how other groups talk as a collective I? **what could be done by swapping we for I and vice versa and how it alters the reading experience as outsider.** 
 
 H: moments where it really lifts off, magical poetic lyric element. like "making is always a research question 
 "persistence is a rhythm not a slog. 
@@ -104,7 +107,6 @@ so much richer and maybe care is a part of that and it's my voice and create a s
 maybe if i write the others in my i will get more comfy. 
 
 bringing back the body, digestion and processing. the snacks are how we get back in our bodies and are reminders that we are all humans.
-
 
 ----
 
