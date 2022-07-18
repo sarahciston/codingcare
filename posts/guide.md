@@ -337,8 +337,10 @@ Sometimes the low-fi answer is the right one. When searching for the right tools
 * Help Me Code IAI zine making workshop [Sarah Ciston]
 * Feminist.AI [Christine Meinders](https://feminist.ai)
 * Movement-based interaction design ([Fidelia Lam])
-* Machine learning concepts ([Catherine Griffiths]), with follow-up workshop (Sarah)
-* 8-bit Game Design
+* Machine Learning Tactics for Artists ([Catherine Griffiths])
+* Getting Started with ML5.js (Sarah)
+* 8-bit Game Design ([Todd Furmanski])
+* Coding for Live Performance ([Ben Nicholson])
 
 #### planned or dreamed
 

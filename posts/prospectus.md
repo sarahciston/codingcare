@@ -220,3 +220,12 @@ programming
 collaboration
 interdisciplinary
 intersectional
+
+
+>>"in instructions to label images of faces for computer vision, requesters ask workers to identify “female” and “male” faces. Through this request, companies are not only asking workers to guess someone’s gender, but also imposing a binary way to see gender in data."
+>Miceli, M., & Posada, J. (n.d.). The data-production dispositif: How to analyze power in data production for machine learning. Schwartz Reisman Institute. Retrieved June 28, 2022, from https://srinstitute.utoronto.ca/news/the-data-production-dispositif
+
+
+>>data for being with while in the act (or situation), data which participate in the activity as much as they also capture something of it. One could ‘be’ with both these types of data, but only the dashboard data demanded a ‘being with’ to realize their intended function.
+Tkacz, Nathaniel. Being with Data : The Dashboarding of Everyday Life, Polity Press, 2022. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/socal/detail.action?docID=7008418.
+Created from socal on 2022-06-28 11:14:45.

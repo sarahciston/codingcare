@@ -278,19 +278,15 @@ huh! I think also when we do the like kind of like round circle where everyone c
 Have you thought about this that's really important to like give everyone the the spotlight, or to and to like share stuff.
 
 00:22:48.000 --> 00:23:04.000
-And just seeing, Yeah, that was so awkward at first for me to initiate that I was like, I felt like I was imposing some order on our system that was orderless.
+And just seeing, Yeah, 
 
-00:23:04.000 --> 00:23:13.000
-And first of like that I was gonna make everybody like bristle with like, who's this coming in and putting down the hammer?
+*that was so awkward at first for me to initiate that I was like, I felt like I was imposing some order on our system that was orderless.And first of like that I was gonna make everybody like bristle with like, who's this coming in and putting down the hammer?*
 
 00:23:13.000 --> 00:23:24.000
 But it's come I feel like it's come to really like , it would like fill up the rest of the time, too, because by the time we get around we have the agenda for the rest of the it's
 
 00:23:24.000 --> 00:23:35.000
-like. Oh, well, let's look at this person's issue or Let's like I want to see more of this or it helps to negotiate like. How do we allocate the time for the rest of the meeting like it gives a
-
-00:23:35.000 --> 00:23:39.000
-very like democratic way of figuring that out.
+like. Oh, well, let's look at this person's issue or Let's like I want to see more of this or it helps to negotiate like. How do we allocate the time for the rest of the meeting like it gives a very like democratic way of figuring that out.
 
 00:23:39.000 --> 00:23:48.000
 And then also, like people come there for inspiration people come there to like to connect. I like to like you know we, by learning about other people's projects.
@@ -311,23 +307,13 @@ But would do you feel like the code collective approach to coding or working tea
 Yeah, It's I mean we touch Upon It It's This salon type of learning.
 
 00:24:27.000 --> 00:24:45.000
-I think it's unstructured I think it's it's different, because the the individual participant sets what they're they are working on. so there's no prescription as far as what an
-
-00:24:45.000 --> 00:24:51.000
-individual is going to be working on and I think it also comes with like like that's a huge affordance.
-
-00:24:51.000 --> 00:25:02.000
-But then the other. The other side of it is that a participant needs to have the volition, or have the intrinsic nature of creating their own projects, or like bringing something to the table.
+I think it's unstructured I think it's it's different, because the the individual participant sets what they're they are working on. so there's no prescription as far as what an individual is going to be working on and I think it also comes with like like that's a huge affordance. But then the other. The other side of it is that a participant needs to have the volition, or have the intrinsic nature of creating their own projects, or like bringing something to the table.
 
 00:25:02.000 --> 00:25:15.000
-I feel like i'm like looking through my questions and as as we've just been talking casually.
+*I feel like i'm like looking through my questions and as as we've just been talking casually. I feel like we've covered a lot of them but maybe asking them in a different way. We'll bring other stuff out. How would you describe co- collective to someone who'd never heard of it like If you were writing our motto what would it be*
 
-00:25:15.000 --> 00:25:18.000
-I feel like we've covered a lot of them but maybe asking them in a different way. We'll bring other stuff out. How would you describe co- collective to someone who'd never heard of it like If you were writing our motto what would it be 
+Oh, It's the where the cool coders hang out out of the coding industry. I was like. Come on, there's a it's where all the cool coders are it's kind of what it is.
 
-Oh, It's the where the cool coders hang out out of the caddling industry. I was like. Come on, there's a it's where all the cool coders are it's kind of what it is.
-
-00:25:42.000 --> 00:25:48.000
 I mean like to like reduce it if I had to be more formal about it. I would say it's it's like a it's like a informal gathering of creative coders. I could do it that could encompass it. Well, salon is a pretty good term 
 
 >yeah that's great. What would you say Is the spirit of it, or what are our values? How would we demonstrate or body those values like? What would we put in our manifesto? 
@@ -348,31 +334,11 @@ But like kind of open source, E. or all I on on monolithic.
 How companies are big talk I don't know what to call that but I also don't think that it's it's markedly against that like a student gonna come in and be like i'm super into volunteer and
 
 00:27:42.000 --> 00:27:56.000
-i'd be like all right that's weird okay you know like I don't think it explicitly rejects like be an imposing ideology or an ideology that's using creative code for a vocational
+i'd be like all right that's weird okay you know like I don't think it explicitly rejects like be an imposing ideology or an ideology that's using creative code for a vocational setting. but the my experience with the group has it's it kind of leans in that direction. I don't know. Is there a terminology for that those those sorts of ideas?
 
-00:27:56.000 --> 00:27:59.000
-setting. but the my experience with the group has it's it kind of leans in that direction.
+*Yeah, I mean, I think open source as an attitude is definitely something that I was thinking about from the beginning. But I like what you're saying about this second piece which is like that*
 
-00:27:59.000 --> 00:28:05.000
-I don't know. Is there a terminology for that those those sorts of ideas?
-
-00:28:05.000 --> 00:28:13.000
-Yeah, I mean, I think open source as an attitude is definitely something that I was thinking about from the beginning.
-
-00:28:13.000 --> 00:28:24.000
-But I like what you're saying about this second piece which is like that, like an approach to how we approach, or it's like an approach to ideas that like we want.
-
-00:28:24.000 --> 00:28:34.000
-If someone comes in with an opposing idea. where the the thinking is like, let's talk about it like Why are you like, Tell us what's interesting to you about that.
-
-00:28:34.000 --> 00:28:42.000
-Or how you're thinking about that and like maybe we disagree. but we're interested to know where you're coming from.
-
-00:28:42.000 --> 00:28:55.000
-Like let's hear opposing like a dialectical approach. I guess is what you'd call it whoa That's that's a good way of thinking that's that's a value Oh, I don't know
-
-00:28:55.000 --> 00:29:03.000
-how to describe, like, not task oriented as a as a value, or like a component of the manifesto.
+, like an approach to how we approach, or it's like an approach to ideas that like we want. If someone comes in with an opposing idea. where the the thinking is like, let's talk about it like Why are you like, Tell us what's interesting to you about that. Or how you're thinking about that and like maybe we disagree. but we're interested to know where you're coming from. Like let's hear opposing like a dialectical approach. I guess is what you'd call it whoa That's that's a good way of thinking that's that's a value Oh, I don't know how to describe, like, not task oriented as a as a value, or like a component of the manifesto.
 
 00:29:03.000 --> 00:29:13.000
 Yeah, I've been saying like process oriented before I was saying like process prep little project based.

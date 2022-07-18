@@ -8,14 +8,32 @@ published: true
 tags: [notes, progress, misc, journal]
 ---
 
+### 15 jul 22
+
+is the machine learning model a maze or actually more a labyrinth with a single path outcome, a string theory synthesizing multiple dimensions, multiple streams of knowledge from its training datasets, into narrower and narrower possibilities. as more and more work is being made using transfer learning on a few base large language models and computer vision models like gpt-3 trained on the pile, and so many examples trained on imagenet, what is seeded in its seeminly infinite possibilities is actually reduced to its biased inputs and limited by the structures of its initial designs. Even as its designers go back and claim to remove the most problematic bits, the fundamental assumptions and underlying scaffolding that lead to its outputs remain. 
+
+### 23 jun 22
+
+Indonesian concept of "lumbung" or "experimental resource sharing" and "collectives of collectives"
+>Experimental Resource Sharing: An Interview with ruangrupa. (2022, April 22). Berlin Art Link. https://www.berlinartlink.com/2022/04/22/experimental-resource-sharing-an-interview-with-ruangrupa/
+
+### 14 jun 22
+
+the lab book "everything is a lab" (manifold press)
+
+
+### 30 may 22
+
+>"it cost me nothing to keep that part of me—the poor part—intact for the sake of another part that felt infinitely more valuable."
+>>johanna hedva, "why is it taking so long"
+
+
+
 ### 25 may 22
 
 Thinking about spaces, what's needed physically and digitally for survival, for connection, for thriving.
 
 [Chaos Computer Club Berlin](https://wiki.hackerspaces.org/CCC_Berlin) (https://berlin.ccc.de/)
-
-
-
 
 
 ### 17 may 22
@@ -184,6 +202,6 @@ i think all that was lost was yesterday's attempt to write about the 34th attemp
 
 ### 27 apr 21, process
 
-requires a starting point, a leap into the middle, warp and weft. Maria said start at the very beginning but it's too late for that, and trying to fake a perfect very beginning has got me all muddled in the performance of process instead of showing its actual messiness, its seams. And so it seems important first to discuss the ways I've been unable to start, leaping from platform to platform, behind the scenes, learning again and again how to start—just so, so that it's perfect, so that you (who?) will love what is said (me) and everything will be (different?), language being executable and all, speech acts—
+requires a starting point, a leap into the middle, *warp and weft*. Maria said start at the very beginning but it's too late for that, and trying to fake a perfect very beginning has got me all muddled in the performance of process instead of showing its actual messiness, its seams. And so it seems important first to discuss the ways I've been unable to start, leaping from platform to platform, behind the scenes, learning again and again how to start—just so, so that it's perfect, so that you (who?) will love what is said (me) and everything will be (different?), language being executable and all, speech acts—
 
 I am in the thick of it. Searching for the perfect way, forgetting that perfectionism is white supremacy and the most important learning is unlearning. Here I am trying to find new forms, wayfinding.
