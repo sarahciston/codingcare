@@ -175,6 +175,8 @@ weekly if possible, in person if possible, and we accommodate what's not always 
 
 Truth is, you don’t need to prepare much, just to start building community.
 
+**core group, self selecting, figuring out what it is. problem-membership, not prostheletizing. word of mouth. public space, what are you doing, can i join? no cap, joseph beuys** humility, self conscious self deprecating, not warranted. 
+
 ### this literally *makes* the room for each other, creates the room we have together
 
 ### we support snacks

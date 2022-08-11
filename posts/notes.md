@@ -8,6 +8,19 @@ published: true
 tags: [notes, progress, misc, journal]
 ---
 
+### 08 aug 22
+
+Ursula Franklin on technology as practices and processes, and teaching as working together not imparting upon: 
+>"whatever somebody may teach you in working together with you, it isn’t the kind of learning for which you ever get a credit. I think it’s important to realize that technology defined as practice shows us the deep cultural link of technology, and it saves us from thinking that technology is the icing on the cake. Technology is part of the cake itself." (lecture 1, Real World of Technology, 2nd ed, 1999)
+
+>growth model vs production model
+
+thinking about how code collective could exist in classroom settings where there are constraints and customer-service models for education. we did well in the summer lab model but students were still not being graded and were still self-selecting. but it also did relatively well as a module lesson in a larger course so i think it's possible as a teaching method to focus on student-led learning. after decades of avoiding it, god i sound like my father.
+
+### 07 aug 22
+
+thinking again about manifesto energy, and Jeff [Watson]'s iMAP manifesto, but also Johanna [Hedva]'s push back against them. Jeff and imap had/have that pataphysical energy i am looking for, which combines the two, making the impossible in the real world now as a proposition toward how it can be possible and actual. and laying those thoughts against a conversation about Mark []'s post-capitalist desire in which we wondered if these were precapitalist desires that had been present all along and surpressed and swept up in western ideologies of progress. 
+
 ### 15 jul 22
 
 is the machine learning model a maze or actually more a labyrinth with a single path outcome, a string theory synthesizing multiple dimensions, multiple streams of knowledge from its training datasets, into narrower and narrower possibilities. as more and more work is being made using transfer learning on a few base large language models and computer vision models like gpt-3 trained on the pile, and so many examples trained on imagenet, what is seeded in its seeminly infinite possibilities is actually reduced to its biased inputs and limited by the structures of its initial designs. Even as its designers go back and claim to remove the most problematic bits, the fundamental assumptions and underlying scaffolding that lead to its outputs remain. 
@@ -134,7 +147,7 @@ Also, while the need to quote from the original source for accuracy seems plain 
 
 showing the roughest zero drafts of this to a few trusted people has been affirming. normally I wouldn't show anything quite so unrealized, in order to protect its spark, but in this case its spark has been getting lots of tending from lots of places. 
 
-also it brought up some thoughts about tone, the guide feels more vibrant and lively and this quote I subsequently came across explains why perhaps:
+also it brought up some thoughts about tone, the guide feels more vibrant and lively than the manifesto section, even though I originally thought I was trying to write one, and this quote I subsequently came across explains why perhaps:
 
 >"a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world and is its very foundation." (Hedva, J. 2022. ["Why It's Taking So Long"](https://www.topicalcream.org/features/why-its-taking-so-long/) Topical Cream.)
 
