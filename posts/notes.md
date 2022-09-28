@@ -8,6 +8,32 @@ published: true
 tags: [notes, progress, misc, journal]
 ---
 
+# notes on research in progress
+
+### 28 sep 22
+
+recommended to create a design document to scope out the idea for a database, multiple phases of model creation, implementation of what intersectional ai anarchy tool methodology could be... researching what the heck such a thing would look like and where it would live (part of this site, its own thing, indesign, google doc, etc etc). The purpose is to scope down and leave instructions but again it's iterating on forms while wondering about contents... never content.
+
+### 31 aug 22
+
+>"In the same way that the lenses of microscopes and telescopes are never perfectly curvilinear and smooth, the logical lenses of AI systems have their own faults and aberrations. To study the impact of AI is to study the degree by which information flows are diffracted, distorted and lost by AI." (Pasquellini, How a Machine Learns and Fails, a Grammar of Error")
+
+
+### 21 aug 22
+
+>"broaden this idea of showing work to sharing work" on vera molnar weaving variations in holo mag https://www.holo.mg/dossiers/vera-molnar-weaving-variations/#33817
+
+
+### 19 aug 22
+>"Machine learning is a practice of working with data to accommodate all differences within an expanding dimensional space" (MacKenzie 2017, 211)
+
+digging into the material (teaching content, physical material) of large language models, the datasets that make them, the 'transformers' and terminology and what's in all the abstractions, including the maths happening so that I can grasp what parts are even worth grasping from the perspective of what's encoded with worldviews, where are decisions made and described. 
+
+also my new strategy for reading, the only way i seem to be able to ingest anything quickly and with understanding, is to read from the bottom up. i also say what i mean toward the end, once i figure it out, and am still learning to move the conclusions to the start. but it helps to start with the recap then peruse upward...
+
+>"The very capacity to make a political claim on the future — even to board a bus to make that claim — is effaced by algorithms that condense multiple potential futures to a single output." (Louise Amoore, )
+
+
 ### 08 aug 22
 
 Ursula Franklin on technology as practices and processes, and teaching as working together not imparting upon: 

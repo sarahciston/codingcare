@@ -16,19 +16,26 @@ tags: [prospectus, dissertation]
 - one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
 
 ### chapter outline (fantasy table of contents)
-0. Manifesto for Coding Care
+0. What Is Coding Care [status:] 
    1. Coding needs an overhaul, can be rethought through care-ful, interdisciplinary, community, creative, craft-oriented practices to bring ethics and politics to code, 
    2. to imagine new more equitable systems and bring those who can make them into the conversations that will allow them to be made, and also to bring 
-1. How To Guide: Creative Code Collective (a case study/how-to/lessons learned, with contributions from or interviews with members)
+1. A Pocket/Field Guide to Code Collective [status: PARTIAL DRAFT w ELO paper] (How To Guide: Creative Code Collective (a case study/how-to/lessons learned, with contributions from or interviews with members)
    1. qualitative: survey results, interviews 1:1 and written, live transcripts?
-2. IAI Zines (case study of community project)
-   1. code base
+2. Intersectional AI Toolkit [status: PROGRESS]
+   1. art exhibition + code base
    2. ccc resource hub
    3. qualitative: zine making documentation
-3. A Critical Guide to Datasets
-   1. case studies of library project and knowing machines white paper output
-4. (case study of my individual project, inner.voice.over and/or ladymouth or ?)
-5. Lyric essay(s) (see below)
+   4. zines editions & library
+   5. (case study of community project)
+3. A Critical Field Guide to Datasets [status: DRAFT COMPLETE]
+   1. Knowing Machines Field Guide
+   2. w case studies of library project and knowing machines output
+4. Unsupervised Pleasures
+   1. datasets for use
+   2. case study of work with emily
+   3. outputs of datasets, see below
+5. (case study of my individual project, inner.voice.over and/or ladymouth and/or ?)
+6. Lyric essay(s) (see below)
    1. e.g. analyses of outside artworks, historical analog practices and contemporary analogous examples put through personal processing. 
 
 *these are the nesting dolls getting smaller and more personal*
