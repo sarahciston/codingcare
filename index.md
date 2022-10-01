@@ -10,7 +10,9 @@ hi, you've reached
 
 # CODING.CARE: a guidebook for trans*formative processing & tender technocraft
 
-here's where I'll be tinkering for a few years with a dissertation...
+*I live and work in the ancestral land of the Tongva and Chumash people (Los Angeles), and on the site of many communities displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, and I work to support dismantling the paradigms that allow those struggles to continue. [Why acknowledge territory?](https://native-land.ca/resources/territory-acknowledgement/)*
+
+Here's where I'll be tinkering for a few years with a dissertation...
 
 <span class="purple">Learning programming is often intimidating and riddled with false starts,</span> which can further marginalize the folks whose perspectives are most necessary in order to face the challenges technoculture presents. This guidebook offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in 2019 for emerging media artists, writers, and non-engineers to think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 
 

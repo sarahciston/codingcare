@@ -19,5 +19,9 @@ The Coding Care Zine Lab & Lounge will be a cozy creative space to share thought
 
 Come hang out on *29 Apr 2022, 6PM Onward* 💜
 
+## [code collective summer lab intensive](https://creativecodecollective.github.io/posts/summerlab)
+
+## [code collective fall meetups](https://creativecodecollective.github.io/) are Thursdays, 10a-12p Pacific
+
 {{ include.var }}
 

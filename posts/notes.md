@@ -9,6 +9,7 @@ tags: [notes, progress, misc, journal]
 ---
 
 # notes on research in progress
+<!-- # {{ page.title }} -->
 
 ### 28 sep 22
 
