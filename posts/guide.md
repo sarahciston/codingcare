@@ -484,3 +484,13 @@ Thank you to the individuals and organizations who developed these principles an
 ## Acknowledgments 
 
 [TK] Membership list and more information about CCC... [^Creative Code Collective](https://creativecodecollective.com)
+
+
+06 Oct CCC
+
+Ada: stumbled on it by chance, i get bored very easily, won't take projects unless i'm very excited about it. kind of trained me, started learning more music visualization and how i built up all the ..al the coding knowledge i have is 
+
+SC: learning to give your self permission even though there isn't a clear path. 
+
+Ada: improving from learning how to better look things up. read the documentation before, to know where to look when you ened something. making the referencing process faster. making reference sheets. straight copy, give credit, connect something new/make a change
+

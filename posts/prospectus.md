@@ -16,25 +16,34 @@ tags: [prospectus, dissertation]
 - one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
 
 ### chapter outline (fantasy table of contents)
+00. What is this document
+   1. approaches & theories
+   2. examples & practices in practice
 0. What Is Coding Care [status:] 
    1. Coding needs an overhaul, can be rethought through care-ful, interdisciplinary, community, creative, craft-oriented practices to bring ethics and politics to code, 
    2. to imagine new more equitable systems and bring those who can make them into the conversations that will allow them to be made, and also to bring 
-1. A Pocket/Field Guide to Code Collective [status: PARTIAL DRAFT w ELO paper] (How To Guide: Creative Code Collective (a case study/how-to/lessons learned, with contributions from or interviews with members)
+1. A Pocket Guide to Code Collective [status: PARTIAL DRAFT w ELO paper] (How To Guide: Creative Code Collective (a case study/how-to/lessons learned, with contributions from or interviews with members)
    1. qualitative: survey results, interviews 1:1 and written, live transcripts?
-2. Intersectional AI Toolkit [status: PROGRESS]
+2. Intersectional AI Toolkit [status: ONGOING PROGRESS]
    1. art exhibition + code base
    2. ccc resource hub
    3. qualitative: zine making documentation
    4. zines editions & library
    5. (case study of community project)
 3. A Critical Field Guide to Datasets [status: DRAFT COMPLETE]
-   1. Knowing Machines Field Guide
-   2. w case studies of library project and knowing machines output
-4. Unsupervised Pleasures
-   1. datasets for use
-   2. case study of work with emily
-   3. outputs of datasets, see below
-5. (case study of my individual project, inner.voice.over and/or ladymouth and/or ?)
+   1. Knowing Machines Field Guide 
+   2. Library Research Guide or dataset
+   3. w case studies of library project and knowing machines output 
+4. Unsupervised Pleasures / Love Corpora 
+   1. Datasets for use: 
+      1. queer love corpus [status: DESIGN DOCUMENT IN DRAFT, scope of next project is pitch for tenure book]
+      2. library dataset
+   2. Model trained on new dataset
+   3. case study of work with emily
+   4. outputs of datasets, see below 
+      1. crafted tangible material
+      2. textual
+5. Case studies of my individual projects, Akademie der Künste project, inner.voice.over and/or ladymouth and/or...
 6. Lyric essay(s) (see below)
    1. e.g. analyses of outside artworks, historical analog practices and contemporary analogous examples put through personal processing. 
 
@@ -79,9 +88,6 @@ What is programming in ways that reimagine how we have already been programmed? 
 The _Anarchist’s Tool Chest_ says there is power in a small set of tools, known intimately and carried easily. Its author Christopher Schwarz calls this "a radical and rare idea that can help change the world." This idea is missing from AI tools, which require massive technical knowhow and financial resources to operate.
 
 The work done with Intersectional AI Toolkit and Creative Code Collective both argues that anyone should be able to understand the key tools of technology and should have the power to reimagine the systems that impact them most.
-
-
-
 
 
 ## project description (notes, 5-8p) / 1200-1500 words (5-6p)

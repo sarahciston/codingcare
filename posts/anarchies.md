@@ -1,5 +1,5 @@
 ---
-layout: mermaid
+layout: post
 permalink: anarchies
 title: ai anarchies
 nav_order: 5
@@ -7,14 +7,21 @@ date: 21.03.2022
 # tags: [zine]
 ---
 
-# {{ page.title }}
+```mermaid!
+stateDiagram-v2
+    [*] --> Intersectional_AI_Anarchies
+    Intersectional_AI_Anarchies --> [*]
+    Intersectional_AI_Anarchies --> Carefull_Datasets
+    Carefull_Datasets --> Models_of_Unmouthed_Language
+    Models_of_Unmouthed_Language --> Threading_Connection_Not_Classification
+    Threading_Connection_Not_Classification --> [*]
+```
 
-[Akademie der Künste Fellow](https://www.adk.de/en/academy/young-academy/ai-anarchies/) at the JUNGE AKADEMIE of Akademie der Künste, Berlin. Six artists will develop new works on the topic "Artificial Intelligence (AI) and Ethics" during a six-month residency programme at ZK/U in Berlin titled "AI Anarchies." The invited artists' projects will be shown in a final presentation between May and July 2023 at Akademie der Künste. My work is furthering the Intersectional AI Toolkit findings to imagine Intersectional AI tools for tangible, accessible machine learning. 
+[Akademie der Künste JUNGE ACADEMIE Fellow](https://www.adk.de/en/academy/young-academy/ai-anarchies/) in Berlin. Six artists will develop new works on the topic "Artificial Intelligence (AI) and Ethics" during a six-month residency programme at ZK/U in Berlin titled "AI Anarchies." The invited artists' projects will be shown in a final presentation between May and July 2023 at Akademie der Künste. My work is furthering the Intersectional AI Toolkit findings to imagine Intersectional AI tools for tangible, accessible machine learning. 
 
 ## #currentlyreading
 
-briefly where my mind is wandering
-
+- Amoore, L. (2020). Cloud Ethics.
 - Crawford, K., & Joler, V. (n.d.). Anatomy of an AI System. Anatomy of an AI System. http://www.anatomyof.ai
 - Ingold, T. (2015). The life of lines. Routledge.
 - Sedgwick, E. K., & Goldberg, J. (2012). "Making things, practicing emptiness." The weather in Proust. Duke University Press. 
@@ -30,20 +37,4 @@ crochet, unicursal purposeless paths (labyrinths)
 
 - what's the ML equivalent of learning network protocols for handheld radical tactical practices
 
-
-
-
-```mermaid
-<!-- <div class="mermaid"> -->
-        stateDiagram-v2
-            [*] --> Intersectional_AI_Anarchies
-            Intersectional_AI_Anarchies --> [*]
-            Intersectional_AI_Anarchies --> Carefull_Datasets
-            Carefull_Datasets --> Models_of_Unmouthed_Language
-            Models_of_Unmouthed_Language --> Threading_Connection_Not_Classification
-            Threading_Connection_Not_Classification --> [*];
-    <!-- </div> -->
-```
-
-
-
+    
