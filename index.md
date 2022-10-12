@@ -4,13 +4,14 @@ title: home
 nav_order: 1 
 ---
 
-hi, you've reached
+This work offers respect and gratitude to the Tongva and Chumash peoples, who are the rightful and traditional caretakers of the land where large portions of this work have been created. **[Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/)** to learn about the history of where you live, why this matters, and how to contribute.
+{: .caption }
 
-!['tonight'](assets/img/goingonline.jpg){: .thumb }
+# CODING.CARE: intersectional AI, trans*formative processing, & tender techno-craft
 
-# CODING.CARE: a guidebook for trans*formative processing & tender technocraft
+<!-- *I live and work in the ancestral land of the Tongva and Chumash people (Los Angeles), and on the site of many communities displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, and I work to support dismantling the paradigms that allow those struggles to continue.-->
 
-*I live and work in the ancestral land of the Tongva and Chumash people (Los Angeles), and on the site of many communities displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, and I work to support dismantling the paradigms that allow those struggles to continue. [Why acknowledge territory?](https://native-land.ca/resources/territory-acknowledgement/)*
+<!-- !['tonight'](assets/img/goingonline.jpg){: .thumb } -->
 
 Here's where I'll be tinkering for a few years with a dissertation...
 

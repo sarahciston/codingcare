@@ -1,12 +1,13 @@
 ---
 layout: post
 title: prospectus
-nav_order: 1
+nav_order: 2
 date: 31.03.2022 
 tags: [prospectus, dissertation]
 ---
 
-## CODING.CARE: A Guidebook for Trans*formative TechnoCraft
+## Coding Care: Intersectional AI and Trans*formative Technocraft
+<!-- ## CODING.CARE: A Guidebook for Trans*formative TechnoCraft -->
 
 ### TO DO LIST
 
