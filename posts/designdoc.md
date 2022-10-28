@@ -9,6 +9,8 @@ nav_order: 6
 
 # {{ page.title }} | love corpora
 
+>"What becomes possible when we are immersed in the queerness of forms of life that dominant systems cannot chart, reward or even understand?" -Alexis Pauline Gumbs, *Undrowned*, via *Meltionary*: "Ritual for Tending to the 'Not Perceivable'"
+
 ## 0. Overview
 
 Consisting of new datasets like the queer love corpus, new models, and new art practices, this project lays out alternative approaches to text-based machine learning. 
