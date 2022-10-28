@@ -1,6 +1,6 @@
 ---
 layout: post
-title: guidebook
+title: coding care guide
 nav_order: 3
 date: 04.04.2022 
 tags: [tips, guide, handy]
@@ -17,6 +17,94 @@ tags: [tips, guide, handy]
 <!-- # Learning Along the Way -->
 
 {:toc}
+
+### or field notes from [@creativecodecollective](https://creativecodecollective.com)
+
+# **The Coding Care Zine**
+
+>"Any meeting or gathering is a place to practice the future together in the most tangible ways." 
+>>–adrienne marie brown
+
+## we come from anywhere
+
+We don't always fit in. Artists, activists, first-gen students, never-ever coders, CS majors, never-ever-coders, writers, dancers. linguists, neuroscientists, trans kids, queer folks, staff and teachers, we all find different ways into code and community.
+
+## we are always works in progress
+
+Many of the routes that got us here have been struggles. Learning to code is filled with false starts for so many people, and when we don't talk about it, it's easy to feel alone. So is learning to be in the world. There is no final state; there is ongoing learning. We need spaces that support all kinds of learning. 
+
+## we create who we are together
+
+What does this particular cluster of beings need and desire from this gathering? What do we stand for? We define it and redefine it for ourselves. 
+
+## we find our way together
+
+Scrappy artistic strategies, not perfect code. Growth not perfection. Collaboration not competition. 
+
+When it doesn't exist, we build it! We make it from other tools we scrap for parts. We break it to learn how it works, and why. 
+
+We meet folks where they are, no code snobs, no stupid questions. 
+
+## we ~~embrace~~ highlight our mistakes
+
+Sharing our struggles both helps us solve them by team troubleshooting *and* shows us and others that we are not alone with coding challenges. Being vulnerable makes us stronger and brings us closer. 
+
+## we all have skills to teach each other
+
+Tell us something you know about! Tell us something you'd like to learn!
+
+co-teach | co-learn | co-work | co-create
+
+Everyone has a perspective, and no one knows everything.
+
+## we're excited for the impossibly large possibilities, and the tiny charming tasks, too
+
+Set aside your doubts and questions——what would you make if you could make anything, and why? Scaling down can come later. Dream big!
+
+Small seeds of ideas you can start right away can grow into the coolest things. Follow that rabbit down the hole!
+
+## we ask WHY, WHO, HOW, not only WHAT to make
+
+And we acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals; our choices have histories, they come with politics attached.
+
+## we make room for each other
+
+We're conscious of taking up space.
+
+## we ask after one another
+
+## we make our own rituals
+
+Start with a round of check-ins: What are you making? What are you into right now? How are you doing, really?
+
+Snacks and music and movement. Seriously, snacks are essential. 
+
+Aim for consistency and flexibility through a steady mix of in-person meetings and online connection. 
+
+These literally *make* the space we have together.
+
+## we think open source
+
+We share resources, honor emotional labor and the labor of documentation as essential parts of coding, and don't take for granted what feels intuitive or close to our hearts. 
+
+We cite and celebrate those who inspire what we do.
+
+We highlight shareable, accessible, adaptable, minimal tools that don't hide how they work.
+
+We use what we make as an opportunity to share what we've learned along the way——archives, resource hubs, salons, works in progress, *zines*——thinking and making always happen in community. 
+
+## we start with care 💜
+
+We are building community. We are encoding values. We don't say, "That's not what code is for." We imagine how things could be otherwise. 
+
+All making is a research question. What question do you want to explore? 
+
+>"We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other." 
+>>–Sara Ahmed
+
+<hr/>
+
+# **The Full GuideBook (in progress)**
 
 * purpose of the book, what are the rituals of programming
 * who we are, who i am and why it matters
