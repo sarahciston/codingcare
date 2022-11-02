@@ -7,6 +7,8 @@ nav_order: 6
 # tags: [design]
 ---
 
+{% include_relative includes/mermaid.md %}
+
 # {{ page.title }} | love corpora
 
 >"What becomes possible when we are immersed in the queerness of forms of life that dominant systems cannot chart, reward or even understand?" -Alexis Pauline Gumbs, *Undrowned*, via *Meltionary*: "Ritual for Tending to the 'Not Perceivable'"

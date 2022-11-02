@@ -1,5 +1,4 @@
 
-
 <script src="https://unpkg.com/bindery@2.3.0"></script> 
 
 <button id="zineLayout" class="zine-button" onclick="zineToggle()">Make This a Zine</button>

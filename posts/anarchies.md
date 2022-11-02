@@ -7,6 +7,9 @@ date: 24.10.2022
 # tags: [zine]
 ---
 
+{% include_relative includes/riso.md %}
+{% include_relative includes/mermaid.md %}
+
 [Akademie der Künste JUNGE ACADEMIE Fellow](https://www.adk.de/en/academy/young-academy/ai-anarchies/) in Berlin. Six artists will develop new works on the topic "Artificial Intelligence (AI) and Ethics" during a six-month residency programme at ZK/U in Berlin titled "AI Anarchies." The invited artists' projects will be shown in a final presentation between May and July 2023 at Akademie der Künste. My work is furthering the Intersectional AI Toolkit findings to imagine Intersectional AI tools for tangible, accessible machine learning. 
 
 ## proposal
@@ -52,6 +55,9 @@ stateDiagram-v2
     Models_of_Unmouthed_Language --> Threading_Connection_Not_Classification
     Threading_Connection_Not_Classification --> [*]
 ```
+
+>"to use all the sorting and differentiation instinct they had built up over the years. that’s all it was good for at that point. sorting sand."
+>>–Alexis Pauline Gumbs, *M Archive*
 
 <!--    
 # Autumn School Day 1 Workshop "Self-Hosted" with Sarah Grant
