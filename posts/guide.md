@@ -137,6 +137,8 @@ Code is language, code is a tool; code can be read and learned and used to expre
 
 These small things are seeds. We don't know what they might grow into but we trust they will grow: *"Everything small and buried surrenders to a process that none of the buried parts can see."*[^nepo]
 
+A practice for revolutions: *"Wherever you are standing, come one step closer."*[^@morehshin]
+
 ### we choose/find impossibly large things to get excited about too
 
 It's true there's a lot to be said for the smallest viable prototype. Sure. But sometimes we can't help ourselves. We love to dream wildly. We'll figure out the impractical later and the impossible after that. Sometimes overshooting gets us where we need to go by overshooting and scaling down a bit later.
@@ -231,7 +233,7 @@ When we say we, we write for the parts of ourselves that have been neglected or 
 
 We gather as part of this effort, and we have started to trust each other with the care and feeding required to take on this continual work. We reveal ourselves, maybe slowly at first. By sharing the things we make or want to make, we share what we care about, who we care for, our politics. We get glimpses of each others homes and families and pets. We see each other chew with our mouths full or sweaty on arrival or frustrated to figure out a problem.  
 
-### get attachments, convert xxxxx, emotional coding, poetry in the program, 
+<!-- ### get attachments, convert xxxxx, emotional coding, poetry in the program,  -->
 
 ### we create who we are together
 
