@@ -5,10 +5,14 @@ title: ai anarchies
 nav_order: 5
 date: 24.10.2022 
 # tags: [zine]
+# img: "assets/img/zooattn.png"
+imgs: ["assets/img/zooattn.png", "assets/img/tango.gif"]
 ---
 
-{% include_relative includes/riso.md %}
+{% include_relative includes/riso.md imgs = page.imgs %}
 {% include_relative includes/mermaid.md %}
+
+<!-- ![steps]( {{ page.imgs[1] }} ) -->
 
 [Akademie der Künste JUNGE ACADEMIE Fellow](https://www.adk.de/en/academy/young-academy/ai-anarchies/) in Berlin. Six artists will develop new works on the topic "Artificial Intelligence (AI) and Ethics" during a six-month residency programme at ZK/U in Berlin titled "AI Anarchies." The invited artists' projects will be shown in a final presentation between May and July 2023 at Akademie der Künste. My work is furthering the Intersectional AI Toolkit findings to imagine Intersectional AI tools for tangible, accessible machine learning. 
 
@@ -44,7 +48,11 @@ By laying bare AI’s processes as tactile and fallible, I invite audiences to e
 
 tethered.networks, crochet, unicursal purposeless paths (labyrinths)
 
-![attention network](assets/img/zooattn.png) | ![dancesteps](assets/img/tango.gif){: .thumb }
+<!-- ![attention network](assets/img/zooattn.png) | ![dancesteps](assets/img/tango.gif){: .thumb } -->
+<!-- ![attn]( {{ page.imgs[0] }} ) ![steps]( {{ page.imgs[1] }} ){: .thumb } -->
+
+![attn]( {{ page.imgs[0] }} ){: .riso } 
+![steps]( {{ page.imgs[1] }} ){: .riso }
 
 ```mermaid!
 stateDiagram-v2

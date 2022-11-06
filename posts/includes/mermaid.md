@@ -1,2 +1,3 @@
 <script type="text/javascript" src="{{ "/assets/js/mermaid.min.js" | relative_url }}"></script>
+
 <script>mermaid.initialize({startOnLoad:true});</script>
