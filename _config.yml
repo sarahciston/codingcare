@@ -25,6 +25,7 @@ links:
     - "https://sarahciston.com"
 links_new_tab: true
 
+markdown: kramdown
 kramdown:
   parse_block_html: true
   toc_levels: "2"

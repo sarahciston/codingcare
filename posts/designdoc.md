@@ -22,14 +22,12 @@ Consisting of new datasets like the queer love corpus, new models, and new art p
 ### But they still do a terrible job telling stories about people who don't fit their normalizing baseline.  
 
 
-74gb {: .stat-font } 
-
-590gb {: .stat-font } | 825gb {: .stat-font } | 4.9Tb {: .stat-font } |
+| 74gb {: .stat-font } | 590gb {: .stat-font } | 825gb {: .stat-font } | 4.9Tb {: .stat-font } |
 | **Common Voice** {: .caption }| **GPT-3** {: .caption }| **GPT-J/The Pile** {: .caption }| **WuDao 2.0** {: .caption } |
 | 84,673 voices publicly contributed open source {: .caption } | scraped social media sites: reddit, twitter, etc. {: .caption } | Colossal Clean Crawled Corpus, open-source web-scraping bot, other datasets {: .caption } | 3 billion scraped Chinese websites; plus English academic & technical pages {: .caption } |
 
 
->>Problem sentence<<
+<!-- >>Problem sentence<< -->
 
 
 ### The solution is NOT to suck up more data carelessly!
