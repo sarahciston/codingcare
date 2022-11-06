@@ -11,5 +11,6 @@ group :jekyll_plugins do
     gem 'github-pages'
     gem 'webrick'
     gem 'jekyll-spaceship'
+    gem 'listen'
     # gem 'mermaid'
 end
