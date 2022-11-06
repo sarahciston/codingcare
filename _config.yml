@@ -29,7 +29,6 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
   toc_levels: "2"
-  input: GFM
 
 # how do i indicate other folders to include in jekyll conversion again
 
