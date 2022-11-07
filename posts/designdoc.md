@@ -194,6 +194,22 @@ The datasets which go into the Pile do not have separated metadata, each only ha
 }
 ```
 
+#### TOOLS, LIBRARIES, WORKFLOWS, TESTS
+
+* scraping tools (TK ask emily)
+* *tesseract*: OCR PDF images to PDF text 
+* *[pdftotext](https://www.xpdfreader.com/pdftotext-man.html)* [tutorial](https://kenbenoit.net/how-to-batch-convert-pdf-files-to-text/(shell), or *PDFminer* (python), maybe *[ghostscript](https://ghostscript.readthedocs.io/en/gs10.0.0/Use.html#)*: PDF text to plaintext file, or
+* json/parsing scripts (TK)
+* *elasticsearch* database, docker, vps
+* *nlptk*/*spacy*: natural language processing, understanding
+* which models (TK) for which tasks
+* potentially *RASA* for bot
+
+#### REFERENCES
+
+* [libguide](https://libguides.usc.edu/contentmining/training)
+
+
 <hr/>
 
 
