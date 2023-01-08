@@ -22,11 +22,11 @@ nav_order: 6
 
 ## 0. Overview
 
-Consisting of new datasets, new models, and new technical and artistic practices, this project lays out alternative approaches to text-based machine learning that center marginalized experiences. The pilot dataset, 'A Queer Love Corpus', [...] 
+Consisting of new datasets, new models, and new technical and artistic practices, this project lays out alternative approaches to text-based machine learning that center marginalized experiences. “A Queer Love Corpus,” is its pilot dataset for developing intersectional approaches to conscientious dataset stewardship.
 
 ## 🔥 what's the problem? 
-## *Giant machine learning tools grab data indescriminately*
-### But they still do a terrible job telling stories about people who don't fit their normalizing baseline.  
+## *Giant machine learning tools grab data indiscriminately*
+### Despite their totalizing approach, they still do a terrible job telling stories about people who don't fit their normalizing baselines.  
 
 
 | 74gb {: .stat-font } | 590gb {: .stat-font } | 825gb {: .stat-font } | 4.9Tb {: .stat-font } |
@@ -146,7 +146,7 @@ Evaluate each of these new approaches using new datasets impacts the resulting m
 
 ### system
 
-Rather than algorithm or model, I use (machine learning) system here to 
+Rather than algorithm or model, I use (machine learning) system here to [XXX]
 
 ## 3.3. methods & methodologies
 
