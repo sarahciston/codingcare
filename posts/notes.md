@@ -11,6 +11,15 @@ tags: [notes, progress, misc, journal]
 # notes on research in progress
 <!-- # {{ page.title }} -->
 
+### 10 nov 22
+
+>"to make the body simply a thing that needs"
+
+>"what being insolvent to each other does"
+
+>"The body is never going to be solvent; it’s always going to need too much, be too expensive, not do everything we want it to, hurt more than we can bear, and then deteriorate until it can no longer move. Disability access is about orienting time to a scale that prioritizes this truth, prioritizes what we need and whom we support, which is in direct opposition to the capitalist order of time that ignores and devalues such things." 
+>>(johanna hedva, "why is it taking so long")
+
 ### 28 sep 22
 
 recommended to create a design document to scope out the idea for a database, multiple phases of model creation, implementation of what intersectional ai anarchy tool methodology could be... researching what the heck such a thing would look like and where it would live (part of this site, its own thing, indesign, google doc, etc etc). The purpose is to scope down and leave instructions but again it's iterating on forms while wondering about contents... never content.
@@ -32,7 +41,7 @@ digging into the material (teaching content, physical material) of large languag
 
 also my new strategy for reading, the only way i seem to be able to ingest anything quickly and with understanding, is to read from the bottom up. i also say what i mean toward the end, once i figure it out, and am still learning to move the conclusions to the start. but it helps to start with the recap then peruse upward...
 
->"The very capacity to make a political claim on the future — even to board a bus to make that claim — is effaced by algorithms that condense multiple potential futures to a single output." (Louise Amoore, )
+>"The very capacity to make a political claim on the future — even to board a bus to make that claim — is effaced by algorithms that condense multiple potential futures to a single output." (Louise Amoore, Cloud Computing)
 
 
 ### 08 aug 22
@@ -65,7 +74,7 @@ the lab book "everything is a lab" (manifold press)
 ### 30 may 22
 
 >"it cost me nothing to keep that part of me—the poor part—intact for the sake of another part that felt infinitely more valuable."
->>johanna hedva, "why is it taking so long"
+>>(johanna hedva, "why is it taking so long")
 
 
 
