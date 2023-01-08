@@ -22,7 +22,7 @@ nav_order: 6
 
 ## 0. Overview
 
-Consisting of new datasets like the queer love corpus, new models, and new art practices, this project lays out alternative approaches to text-based machine learning. 
+Consisting of new datasets, new models, and new technical and artistic practices, this project lays out alternative approaches to text-based machine learning that center marginalized experiences. The pilot dataset, 'A Queer Love Corpus', [...] 
 
 ## 🔥 what's the problem? 
 ## *Giant machine learning tools grab data indescriminately*
@@ -59,27 +59,41 @@ Rather than ineffective solutions that superficially address bias by trying to "
 ## where are more details? 
 
 
-How [XXX], Brown Corpus, etc. leads to WordNet leads to ImageNet ([Crawford 2021]()), how even when the "problematic" terms are removed, the system continues to operate in flawed ways:
-    - It relies on flawed logics of bias and classification from its fundamental structures.
-    - It is is designed to operate without any one part. ([Amoore]())
-    - It persists/perpetuates and amplifies and creates the cultural systems. ([]())
-[Kaplan]()'s linguistic capitalism shrinking the possibilities for what can be searched, spoken, known. 
-
-- The size of these models pulls in private text, racist text, and other kinds of problematic text.
-- The way the choices are made about where to source text is based on cultural standards which center the status quo, "normalizing" to a status quo, leave out most of our voices, even as they capture our data.
+- The size of these models pulls in racist text, inaccurate text, private text, and other kinds of problematic text.
 - The size of these models prevents their review and adjustment.
 - The size of these models prevents their use by individuals (technical and financial expertise required).
-
+- The size of these models enacts a totalizing approach that—rather than representing a multitude of voices, centers, normalizes—and affirms a powerful status quo while leaving out the experiences of many others even as they capture our data.
 
 #### 1.1.1 how it works now
 
-When predicting what words will most likely follow the word '*bank*', should the ML system expect '*money*' or '*river*'? Depending on what texts have trained the model, if the system almost always expects *money*, the chances for *rivers* will disappear. 
+**TRANSFORMERS**
 
-This example comes from a tutorial on transformers @rasaRasaAlgorithmWhiteboard2020 [Rasa](), a type of machine learning model commonly used for training with large language datasets for machine learning. It was presented as a neutral example, unwittingly pitting economic value versus ecology and poetry. 
+When predicting what words will most likely follow the word '*bank*', should the ML system expect '*money*' or '*river*'? Depending on what texts have trained the model, if the system almost always expects *money*, the opportunities to encounter *rivers* disappear. 
 
-Each moment where a decision is made to chose *money* over *river* is miniscule, a microgesture made by numerical weights. Each can on its face be reasoned away. But in aggregate, these decisions make huge impacts.
+This example comes from a tutorial on transformers @rasaRasaAlgorithmWhiteboard2020 [Rasa](), a type of machine learning model commonly used for training with large language datasets for machine learning. It was presented as a neutral example, but it is instructive not only for describing the operation of these systems on a technical level but for showing how they pit economic value versus other values, such as ecology and poetics. Fredric Kaplan calls this "linguistic capitalism" @kaplanLinguisticCapitalismAlgorithmic2014 [Kaplan](), and describes how its technical mechanisms shrink the possibilities for what can be searched, spoken, and known.
+
+Each moment where a decision is made to chose *money* over *river* is miniscule, a microgesture made by numerical weights. Individually, each can be reasoned away. But in aggregate, these decisions make huge impacts.
+
+**SCALE & SCRAPING**
+
+Whether curating a small collection, or scraping from the web indiscriminately, gathering and selecting sources for texts enacts the cultural standards of its creators. Selection presents a point of view. Acknowledging and accounting for this avoids the pervasive assumption that the totalizing approaches of large language model datasets "neutralize" this issue, when in fact they highlight the Western, Educated, Industrialized, Rich, Democratic (WEIRD) culture from which they emerge. 
+
+**ORIGINS & LEGACIES**
+
+Models are built on top of other models, datasets are built as compendia of other datasets. In current industry practice, a new model's performance is measured by its adherence to standardized benchmark datasets. These originating, foundational tools often go unquestioned when building upon them. ChatGPT trains on top of GPT-3 and combines it with a new dataset of prompts. [XXXXX] trains on [XXXXXXX], which is trained on ImageNet. But what happens when ImageNet or the 
+
+How the [XXX] Brown Corpus, etc. leads to WordNet leads to ImageNet ([Crawford 2021]()), how even when the "problematic" terms are removed, the system continues to operate in flawed ways
+
+
+
+- It relies on flawed logics of bias and classification from its fundamental structures.
+- It is is designed to operate without any one part. ([Amoore]())
+- It persists/perpetuates and amplifies and creates the cultural systems. ([]())
+
 
 #### 1.1.2 how it could work
+
+
 
 #### 1.1.2 CAREFUL CORPORA
 
@@ -136,6 +150,16 @@ Rather than algorithm or model, I use (machine learning) system here to
 
 ## 3.3. methods & methodologies
 
+Anti-Racist Critical Code Studies
+Queer Feminist Tactical Media (Raley)
+QueerOS (Keeling), Queer Computation (Gaboury)
+Ramon Amaro: *The Black Technical Object*
+
+
+>"While we need not give up on the radical potential of queerness as a means of imagining a future that is not yet here (Muñoz 2009), we must nonetheless acknowledge how futurity has been colonized by the cultural logic of contemporary technology, and as such cannot serve as the primary vector for queer computational critique. Thus, rather than mobilize queerness as a useful technological apparatus, we might deploy it as part of a critical practice of unmaking." (Gaboury 2018, "Critical Unmaking: Towards a Queer Computation", 488)
+
+>"I am meeting a socially generated problem of technological inadequacy with a critical, technical inadequacy of my own, answering their flaw with a counter-flaw of equal proportion. It’s a class aesthetic." (Triton Mobley, BOMB interview, 2022)
+
 ### 3.3.2 inspiration
 
 - [critical engineering manifesto](https://criticalengineering.org/)
@@ -147,9 +171,11 @@ Rather than algorithm or model, I use (machine learning) system here to
 
 #### DATASET DESIGN 
 
-Many existing text corpuses, which are the datasets to train large language models for machine learning tasks (e.g. GPT-3 text generation), have very little information about the origins of their texts included either in their documentation or in the datasets themselves. For example, "The Pile" is a mega-dataset made of other already enormous datasets, designed for very large language model training. Its schema consists of two simple entries, the `text` itself and the `source` of the text. However, to call this a source is misleading, because the source field simply points back to the originating dataset, like [Common Crawl Corpus or Books2 or WebText](). These also giant datasets do not offer any more information about the journey this text took to arrive in this corpus, who authored it or when, what it might contain. 
+Many existing text corpuses, which are the datasets to train large language models for machine learning tasks (e.g. GPT-3/ChatGPT text generation), have very little information about the origins of their texts included either in their documentation or in the datasets themselves. For example, "The Pile" is a mega-dataset made of other already enormous datasets, designed for very large language model training. Its schema consists of two simple entries, the `text` itself and the `source` of the text. However, to call this a source is misleading, because the source field simply points back to the originating dataset, like [Common Crawl Corpus or Books2 or WebText](). These also giant datasets do not offer any more information about the journey this text took to arrive in this corpus, who authored it or when, what it might contain. 
 
 As Tara McPherson says, "The database depends on the loss of the thing itself. At one level, this loss is literal, as the 'thing'—say a photo or film—is digitized and transformed into data. At another level, this loss is also a key aspect of the functioning of the technology." 
+
+**No data cards** @gebruDatasheetsDatasets2020
 
 
 **SAMPLE ENTRY FROM [THE PILE](https://huggingface.co/datasets/the_pile/viewer/all/train)**
@@ -162,7 +188,7 @@ As Tara McPherson says, "The database depends on the loss of the thing itself. A
 }
 ```
 
-The datasets which go into the Pile do not have separated metadata, each only has a text field. 
+Many of the datasets which go into the larger Pile dataset do not themselves have separated metadata, each only has a text field. 
 
 **SAMPLE ENTRY FROM [COMMON CRAWL CORPUS](https://huggingface.co/datasets/snoop2head/common_crawl)**
 
@@ -180,6 +206,45 @@ The datasets which go into the Pile do not have separated metadata, each only ha
     "text": "" \nSome authors write about the \"latest secret\" to lasting love, but in this book Kim shares how "(...TRUNCATED)
 }
 ```
+
+**SAMPLE ENTRY FROM [OPENWEBTEXT2](https://openwebtext2.readthedocs.io/en/latest/)**
+
+Some datasets do provide a bit more context for their source texts, such as OpenWebText2, which is an open-source recreation of the proprietary version used to develop GPT-2/3. We cannot assume that the closed version created by OpenAI has this context, and regardless it remains unavailable to researchers or members of the public. Below is an example of one of its 17 million entries, which includes additional fields like the source URL, title, subreddit it appears in, and Reddit "Karma Score" (which was used by OpenAI to filter for viable entries)(more on this in **Section 1.1.1**).  
+
+```JSON
+{
+        "text": "A shutdown to contain the coronavirus has killed Thailand’s party scene and forced sex workers like Pim out of bars and onto desolate streets. She’s scared but desperately needs customers to pay her rent.\n\nRed-light districts from Bangkok to Pattaya have gone quiet with night clubs and massage parlors closed and tourists blocked from entering the country.\n\nThat has left an estimated 300,000 sex workers out of a job, pressing some onto the streets where the risks are sharpened by the pandemic.\n\n 
+        (...TRUNCATED)
+        "meta": {
+            "title": "Scared but Desperate, Thai Sex Workers Forced to the Street",
+            "lang": "en",
+            "url": "https://www.breakingasia.com/trending/scared-but-desperate-thai-sex-workers-forced-to-the-street/",
+            "word_count": 169,
+            "elapsed": 3.9094655513763428,
+            "scraper": "newspaper",
+            "domain": "www.breakingasia.com",
+            "reddit_ids": [
+                960571968
+            ],
+            "reddit_scores": [
+                10
+            ],
+            "reddit_titles": [
+                "Scared but Desperate, Thai Sex Workers Forced to the Street"
+            ],
+            "subreddits": [
+                "BreakingAsia"
+            ],
+            "reddit_created_utcs": [
+                "2020-04-06T10:28:08"
+            ]
+        }
+    }
+```
+
+Alternatively, here is a proposed entry for A Queer Love Corpus, with metadata and contextual fields for not only the source of the text data but also how it was contributed and processed, what permissions were provided, and why its contributor finds it relevant to the dataset. 
+
+This approach combines archival and curatorial practices with dataset creation practices to better account for data donation and informed consent, traceable [XXX], and [XXX]. It also allows the dataset to be used as an archive, explorable and extensible in its own right. 
 
 **PSEUDOCODE SCHEMA for *QUEER LOVE CORPUS***
 
@@ -205,13 +270,28 @@ The datasets which go into the Pile do not have separated metadata, each only ha
 }
 ```
 
-TK 
-- compare with and adapt library metadata standards where appropriate for fields that cross over and for citational json perhaps
+**Contributor Roles**
+
+- form for submissions
+- multiplicty of perspectives, types of texts, types of content, definitions of what 'fits' this dataset
+
+**Creator/Publisher Roles**
+
+- providing customizable license for how the data will be used, able to be updated and revoked
+- traceable back to the creator, not lost in the scrape
+- informed consent for the particular way their data is being provided to others and potentially used
+
+**Preprocessor/Data Scientist/Formatter Role**
+
+- acknowledges the role of the person formatting the data to prepare it for inclusion in the dataset, both their labor and their impact on the information
+
+TK:
+- compare with and adapt library metadata standards where appropriate for fields that cross over and for citational json(?)
 
 
 #### TOOLS, LIBRARIES
 
-* scraping tools (TK ask emily)
+* scraping tools (TK ask emily): beautifulsoup, scrapy
 * *pdftk-server* pdf toolkit for preprocessing for ocr, command line and gui [download here](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg) [manual](https://www.pdflabs.com/docs/pdftk-man-page/)
 * *tesseract*: OCR PDF images to PDF text // *Abbey Fine Reader* licenses USC
 * *[pdftotext](https://www.xpdfreader.com/pdftotext-man.html)* [tutorial](https://kenbenoit.net/how-to-batch-convert-pdf-files-to-text/(shell), or *PDFminer* (python), maybe *[ghostscript](https://ghostscript.readthedocs.io/en/gs10.0.0/Use.html#)*: PDF text to plaintext file, or
@@ -312,9 +392,6 @@ stateDiagram-v2
 
 >‘‘the ratio of human work to machine time was more than 100:1. Computer hours were less than 10,000 while man hours were much more than one million.’’ (Index Thomisticus, Index Thomisticus, via Rosenberg)
 
->"While we need not give up on the radical potential of queerness as a means of imagining a future that is not yet here (Muñoz 2009), we must nonetheless acknowledge how futurity has been colonized by the cultural logic of contemporary technology, and as such cannot serve as the primary vector for queer computational critique. Thus, rather than mobilize queerness as a useful technological apparatus, we might deploy it as part of a critical practice of unmaking." (Gaboury 2018, "Critical Unmaking: Towards a Queer Computation", 488)
-
->"I am meeting a socially generated problem of technological inadequacy with a critical, technical inadequacy of my own, answering their flaw with a counter-flaw of equal proportion. It’s a class aesthetic." (Triton Mobley, BOMB interview, 2022)
 
 
 
