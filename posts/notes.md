@@ -11,6 +11,49 @@ tags: [notes, progress, misc, journal]
 # notes on research in progress
 <!-- # {{ page.title }} -->
 
+### 17 mar 23
+
+"situated docs" software documentation as care practice, web to print
+https://hub.xpub.nl/soupboat/wlist/situated_doc
+
+
+"we engage scandalous metaphors to break through established grounds of CS (Computer Science)––as an undoing so that diverse practices might flourish as part of a complex field of CS (Chance and Scandal). We propose that we need more metaphors for practices of: scandal and enjoyment, friendships, refusals, inaction, mucus membranes, hums, modes of survival, modes of non/commitment, queering damage (Pritchard et al. 2020), namings, cruising (Muñoz 2009), feelings, pockets, tooling up and down (MELT 2020), oozing, stimming (Scientist Stims, n.d.), reading (Smilges 2021), dreaming, writing (Brown 2021), making, smelling, rhythms and flows (Gumbs 2018), tunings (Gabrys 2016), cusps, insensibilities (Yusoff 2013), and wayward practice (Hartman 2019)."
+"we propose to replace CS (Computer Science) with CS (Careful Slugs), forthcoming could be CS (Cushions and Stargazing), CS (Crying Sabotage),"
+>>Britton, Ren Loren, and Helen V. Pritchard. 2022. “For Careful Slugs: Caring for Unknowing in CS (Computer Science).” Catalyst: Feminism, Theory, Technoscience 8 (2): 1–20.
+
+### 02 mar 23
+
+How we do things, what has worked for us, not prescriptive but descriptive. 
+
+Techniques from efficient, anarchist meetings...
+- timekeeper, needs to be assigned
+- dissent speak up
+- meetings bad, short as possible
+
+From Circle:
+- speak from the heart, listen from the heart, be spontaneous, be lean
+
+### 18 jan 23
+
+- touch sensitive speed runs through the process. the more people standing on the labyrinth, moving through, or reaching the center, the faster the workflows
+- contrast with mechanized processes, the sewing machine video, still run by a human. its sound. 
+
+- scale, toggle up toggle down. bring the mechanical down to the human labor, the labor up to the mechanical, technological. 
+
+### 17 jan 23
+
+"manuals not manifestos" (*Furious* 2020)
+
+manuals, plans, sketches, practices, tactics, prototypes
+
+### 14 jan 23
+
+- People enacting metaphors for computing through their bodies and movements. 
+- Fibre optic flows of data/light. 
+
+- [NFC B00b](https://anuradhareddy.com/B00B-Factor-Authentication-in-Banjara-Embroidery-teaser)
+
+
 ### 10 nov 22
 
 >"to make the body simply a thing that needs"

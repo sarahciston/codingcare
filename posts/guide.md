@@ -1,10 +1,34 @@
 ---
 layout: post
-title: coding care guide
+title: coding care
 nav_order: 3
 date: 04.04.2022 
 tags: [tips, guide, handy]
 ---
+
+# {{ page.title }} pocket guide
+
+## rough starts
+
+Maybe you've thought about coding and felt intimidated to try. Maybe you tried your hand at it some and struggled. Or maybe you're all right with some programming skills but you'd still never consider yourself "a coder." *Coding Care* is about that disconnect—how so many of us feel left out of coding communities and how difficult it is to feel empowered to engage the tools of computation even though we likely interact with computation every day. How difficult it can feel to begin!
+
+My own first experiences learning to code felt *awful*. Lonely. Discouraging. Confusing. I had the sense I was "supposed" to learn programming skills. It felt important, like I needed it in order to create the kind of art and language and world I imagined, but it also felt like a chore. I also had the sense everyone else could hack it but me: *Why was I the only one who didn't understand or care about these dry examples? Why was I getting lost in all the overlapping, specialized vocabularies?* I felt immersed in a strange landscape, without even the language to ask for what I needed or the basic knowledge of where to look or how to start. 
+
+I wish I had known then that learning to code didn't have to feel like getting stuck, like fitting myself into someone else's paradigm. I wish I had known that learning to code could feel like this:
+
+![](Freddy Mercury, Don't Stop Me Now)
+
+That coding could make me feel unstoppable. That coding could turn the world inside out. Coding could be fun. Even playful, relaxed, welcoming. It could be creative, thoughtful, crafty—and I could make coding my own.
+
+## don't stop me now
+
+*Coding Care* is also about how important it is for folks coming from a variety of perspectives to share access to the languages that increasingly inform the world and what it becomes. 
+
+How do we change systems to suit us if we are stuck outside them? But without conforming to their encoded ways of thinking? How can we build communities that offer alternatives? 
+
+
+
+
 
 <!-- # A GUIDEBOOK -->
 
@@ -24,6 +48,9 @@ tags: [tips, guide, handy]
 
 >"Any meeting or gathering is a place to practice the future together in the most tangible ways." 
 >>–adrienne marie brown
+
+*Coding Care* 
+
 
 ## we come from anywhere
 
@@ -583,4 +610,6 @@ Ada: stumbled on it by chance, i get bored very easily, won't take projects unle
 SC: learning to give your self permission even though there isn't a clear path. 
 
 Ada: improving from learning how to better look things up. read the documentation before, to know where to look when you ened something. making the referencing process faster. making reference sheets. straight copy, give credit, connect something new/make a change
+
+>>"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." (Mercedes Bernard, @CrochetCodeCraft)
 

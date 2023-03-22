@@ -1,7 +1,7 @@
 ---
 # layout: post
 permalink: designdoc
-title: queer love corpus
+title: queering corpora
 nav_order: 6
 # date: 30.09.2022 
 # tags: [design]
@@ -9,7 +9,9 @@ nav_order: 6
 
 {% include_relative includes/mermaid.md %}
 
-# {{ page.title }} | love corpora
+# {{ page.title }}
+
+>"listening for 'poetry from the future,' without insisting that it be recognizable as such, is an ethical demand of and for our times." — Kara Keeling, 2019
 
 >"What becomes possible when we are immersed in the queerness of forms of life that dominant systems cannot chart, reward or even understand?" -Alexis Pauline Gumbs, *Undrowned*, via *Meltionary*: "Ritual for Tending to the 'Not Perceivable'"
 
@@ -18,6 +20,7 @@ nav_order: 6
 
 >"The database depends on the loss of the thing itself." -Tara McPherson, *Feminist in a Software Lab*
 
+>"This queer model opens up new imaginaries and forgotten language beyond the confines of accurate prediction and effective generalization. We understand this type of machine learning as **replacing training with listening**. A listening which as Kara Keeling describes is a 'generative proposition another world is possible, the insistence that such a world already is here now and it listens, with others, for the poetry, poetry, the refrains, the rhythms, and the noise such a world is making'. (2019, ix)" — Winnie Soon, [Queer Motto API](https://gitlab.com/siusoon/queer-motto-api/)
 
 
 ## 0. Overview
@@ -31,17 +34,17 @@ Consisting of new datasets, new models, and new technical and artistic practices
 
 | 74gb {: .stat-font } | 590gb {: .stat-font } | 825gb {: .stat-font } | 4.9Tb {: .stat-font } |
 | **Common Voice** {: .caption }| **GPT-3** {: .caption }| **GPT-J/The Pile** {: .caption }| **WuDao 2.0** {: .caption } |
-| 84,673 voices publicly contributed open source {: .caption } | scraped social media sites: reddit, twitter, etc. {: .caption } | Colossal Clean Crawled Corpus, open-source web-scraping bot, other datasets {: .caption } | 3 billion scraped Chinese websites; plus English academic & technical pages {: .caption } |
+| 85,825 voices publicly contributed open source {: .caption } | scraped social media sites: reddit, twitter, github, etc. {: .caption } | Colossal Clean Crawled Corpus, open-source web-scraping bot, other datasets {: .caption } | 3 billion scraped Chinese websites, plus English academic & technical pages {: .caption } |
+
+- The size of these models means they pull in racist text, inaccurate text, private text, and other kinds of problematic text.
+- The size of these models prevents their review and adjustment. Furthermore, it is difficult to develop criteria by which they should be reviewed or adjusted, ostensibly because they are intended for "general" "all-purpose" tasks.
+- The size of these models prevents many individuals from using them except as designed by large companies. Understanding, customizing, and using them in unique ways requires high technical expertise and financial overhead.
+- The size of these models enacts a totalizing approach that—rather than representing a multitude of voices, centers, normalizes—and affirms a powerful status quo while leaving out the experiences of many others even as they capture our data.
 
 
 <!-- >>Problem sentence<< -->
 
-
 ### The solution is NOT to suck up more data carelessly!
-
-## 
-
-
 
 ### So how do we address this care-fully?
 
@@ -58,11 +61,6 @@ Rather than ineffective solutions that superficially address bias by trying to "
 
 ## where are more details? 
 
-
-- The size of these models pulls in racist text, inaccurate text, private text, and other kinds of problematic text.
-- The size of these models prevents their review and adjustment.
-- The size of these models prevents their use by individuals (technical and financial expertise required).
-- The size of these models enacts a totalizing approach that—rather than representing a multitude of voices, centers, normalizes—and affirms a powerful status quo while leaving out the experiences of many others even as they capture our data.
 
 #### 1.1.1 how it works now
 
@@ -108,6 +106,13 @@ How the [XXX] Brown Corpus, etc. leads to WordNet leads to ImageNet ([Crawford 2
 #### 1.2.2 Non-Goals
 
 ### 1.3 Steps
+
+#### 1.2.0 Examine Existing Corpora
+
+- Collect examples of large-scale datasets commonly used in machine learning tasks, studying their design and methods
+- Develop search system for exploring an example dataset, using elasticsearch database tools and hosted NAS
+- Develop list of keywords and concepts this project is interested in knowing how the example database handles
+- Apply NLP techniques to analyze database contents, asking 
 
 #### 1.2.1 Create New Corpora
 
@@ -169,6 +174,10 @@ Ramon Amaro: *The Black Technical Object*
 
 ### 3.1.1 components
 
+#### DATASET CONTENTS
+
+- form, archives, scraping
+
 #### DATASET DESIGN 
 
 Many existing text corpuses, which are the datasets to train large language models for machine learning tasks (e.g. GPT-3/ChatGPT text generation), have very little information about the origins of their texts included either in their documentation or in the datasets themselves. For example, "The Pile" is a mega-dataset made of other already enormous datasets, designed for very large language model training. Its schema consists of two simple entries, the `text` itself and the `source` of the text. However, to call this a source is misleading, because the source field simply points back to the originating dataset, like [Common Crawl Corpus or Books2 or WebText](). These also giant datasets do not offer any more information about the journey this text took to arrive in this corpus, who authored it or when, what it might contain. 
@@ -188,7 +197,7 @@ As Tara McPherson says, "The database depends on the loss of the thing itself. A
 }
 ```
 
-Many of the datasets which go into the larger Pile dataset do not themselves have separated metadata, each only has a text field. 
+Many of the datasets which go into the larger Pile dataset do not themselves have separated metadata, each only has a text field or incidental information. 
 
 **SAMPLE ENTRY FROM [COMMON CRAWL CORPUS](https://huggingface.co/datasets/snoop2head/common_crawl)**
 
@@ -249,26 +258,29 @@ This approach combines archival and curatorial practices with dataset creation p
 **PSEUDOCODE SCHEMA for *QUEER LOVE CORPUS***
 
 ```JSON
-{ 
+{
     "_id": 01234,
-    "text": "[example] (complete text here)",
+    "creator": "adrienne marie brown",
+    "corpus": ["queer love corpus"],
+    "datePublished": 2019,
+    "dateAdded": "2022-02-02T02:17:25+00:00",
+    "description": "This work is a compendium of self-pleasure and community care as a revolutionary call to arms, embracing expansive ideas of love for earth, for others, for body, for soul.",
+    "format": "text/txt",
+    "identifier": "brown_pleasure_activism.",
+    "keywords": [“Black feminist”, “activist”, “sex”, “desire”, “love”, “queer”],
+    "language": ["English"],
+    "length": 123456,
+    "rights": "e.g. The publisher has granted permission for this work to be included here. See license for complete terms of use.",
+    "preprocessBy": "Sarah Ciston",
+    "preprocessNote": "e.g. converted from PDF to TXT using OCR, smart quotes removed, contributor texts without contributor permissions removed"
+    "publisher": "AK Press",
+    "sourceURL": "e.g. https://www.example.com",
+    "submittedBy": "Sarah Ciston",
     "title": "Pleasure Activism: The Politics of Feeling Good",
-    "author": "adrienne marie brown",
-    "year": 2019,
-    "language": "English",
-    "copyrightType": "authorPermission",
-    "copyrightText": "[example] The author has granted permission for this work to be included in the Love Corpora. See the license for complete terms of use.",
-    "sourceName": "AK Press",
-    "sourceURL": "https://[...]",
-    "fileFormat": "txt",
-    "charLength": 123456,
-    "corpus": "queer love corpus",
-    "contributorName": "Sarah Ciston",
-    "contributorNote": "This work is a compendium of self-pleasure and community care as a revolutionary call to arms, embracing expansive ideas of love for earth, for others, for body, for soul.",
-    "preprocessorName": "Sarah Ciston",
-    "preprocessorNote": "[example] converted from PDF to TXT using OCR, smart quotes removed, contributor texts without contributor permissions removed"
+    "type": [“non-fiction”, “collection”]
 }
 ```
+
 
 **Contributor Roles**
 
@@ -320,6 +332,8 @@ To do: Refactor all this as a single python script
 6. add to corpora w metadata
     - licensing & rights
     - standardized librarian catalogue data import possible for ease-of-use & transferrability?
+
+
 
 #### REFERENCES
 
@@ -401,3 +415,14 @@ Problem: The giant datasets that train
 language models are becoming ubiquitous but we don't know the data that is inside them or how it impacts 
 
 >"Selling or giving away the data invites western corporations to mine their language – and the thousands of years of traditional knowledge therein – for commercial opportunity, Jones says. It would mean entrusting data scientists with no connection to the language to develop the very tools that will shape the future of the language. And worst of all, it would mean that Māori would miss out on the economic opportunities created using the language that belongs to them, much like they didn’t see the economic benefits of the land that belonged to them."  (Nast, C. (2021, April 28). Māori are trying to save their language from Big Tech. Wired UK. https://www.wired.co.uk/article/maori-language-tech)
+
+>"Once the images in a dataset have informed a model, it’s not referencing those images anymore. It draws from representations of the categories of that dataset, prompted by words. It isn’t “writing light” at all. It’s inscribing ontologies onto noise." - @salvaggioMostGeneratedBarn2023 (Salvaggio, E. (2023, January 8). The Most Generated Barn in America [Substack newsletter]. Cybernetic Forests. https://cyberneticforests.substack.com/p/the-most-generated-barn-in-america?publication_id=274498&isFreemail=true
+)
+
+>"reminds us not to look to the images but the structures that compose them: the systems that make the picture, rather than the light they produce" https://cyberneticforests.substack.com/p/the-most-generated-barn-in-america?utm_source=post-email-title&publication_id=274498&post_id=94453327&isFreemail=true&utm_medium=email
+
+>"rsion of the historical page that is clustered and mutable, the scrapbooks remind us of the variability of historical ephemera and challenge our notions of the tidy authority of the archive. In both volume and diversity of subjects, the scrapbooks further draw attention to the multiplicity (and frequent indeterminacy) of potential narratives.
+
+>"he used collage aesthetics to help forge a diverse collective identity across eclectic spheres of black America."
+
+>"We are no more able to solve that problem for logic/probability/causality systems than we are for deep learning systems. We can have a node in our model labeled “tree”, but we are no more (or less) able to check that it actually robustly represents trees than we are for a given neuron in a neural network. Similarly, if we find that it does represent trees and we want to understand how/why the tree-representation works, all those labels are a distraction." ([Less Wrong, "Deep Learning Systems Are Not Less Interpretable Than Logic/Probability/Etc"](https://www.lesswrong.com/posts/gebzzEwn2TaA6rGkc/deep-learning-systems-are-not-less-interpretable-than-logic)
