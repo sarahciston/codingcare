@@ -7,7 +7,7 @@ nav_order: 1
 This work offers respect and gratitude to the Tongva and Chumash peoples, who are the rightful and traditional caretakers of the land where large portions of this work have been created. **[Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/)** to learn about the history of where you live, why this matters, and how to contribute.
 {: .caption }
 
-# CODING.CARE: intersectional AI, trans*formative processing, & tender techno-craft
+# CODING.CARE: intersectional AI & trans*formative techno-craft
 
 <!-- *I live and work in the ancestral land of the Tongva and Chumash people (Los Angeles), and on the site of many communities displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, and I work to support dismantling the paradigms that allow those struggles to continue.-->
 
@@ -22,4 +22,5 @@ Here, we see creative-critical code as a holistic community practice. This guide
 In terms of impact, the guide addresses the ways students report these values and practices have shaped them as emerging makers and thinkers. Personally, even beyond my experiences as facilitator, I have found this community to be the strongest influence on my work. <span class="purple">Creative Code Collective has become a joyful space for creative risk-taking that nourishes my own practice.</span>
 
 In sum, Creative Code Collective positions itself within an <span class="purple">ethics of coding care</span>—grounded in shared embodied knowledge, embedded co-creation, and programming with and for community. It tenderly proclaims: "We all have something to teach each other." Coding is now an essential literacy, but this guidebook calls for reaching beyond the limited literacy offered by the STEM–paradigm that supposedly "anyone can join." Rather, Coding.Care reimagines technoculture as truly being for anyone—to understand, impact, and intervene in. 
+
 

@@ -68,13 +68,13 @@ Rather than ineffective solutions that superficially address bias by trying to "
 
 When predicting what words will most likely follow the word '*bank*', should the ML system expect '*money*' or '*river*'? Depending on what texts have trained the model, if the system almost always expects *money*, the opportunities to encounter *rivers* disappear. 
 
-This example comes from a tutorial on transformers @rasaRasaAlgorithmWhiteboard2020 [Rasa](), a type of machine learning model commonly used for training with large language datasets for machine learning. It was presented as a neutral example, but it is instructive not only for describing the operation of these systems on a technical level but for showing how they pit economic value versus other values, such as ecology and poetics. Fredric Kaplan calls this "linguistic capitalism" @kaplanLinguisticCapitalismAlgorithmic2014 [Kaplan](), and describes how its technical mechanisms shrink the possibilities for what can be searched, spoken, and known.
+This example comes from a tutorial on transformers [@rasaRasaAlgorithmWhiteboard2020](), a type of machine learning model commonly used for training with large language datasets for machine learning. It was presented as a neutral example, but it is instructive not only for describing the operation of these systems on a technical level but for showing how they pit economic value versus other values, such as ecology and poetics. Fredric Kaplan calls this "linguistic capitalism" [@kaplanLinguisticCapitalismAlgorithmic2014](), and describes how its technical mechanisms shrink the possibilities for what can be searched, spoken, and known.
 
 Each moment where a decision is made to chose *money* over *river* is miniscule, a microgesture made by numerical weights. Individually, each can be reasoned away. But in aggregate, these decisions make huge impacts.
 
 **SCALE & SCRAPING**
 
-Whether curating a small collection, or scraping from the web indiscriminately, gathering and selecting sources for texts enacts the cultural standards of its creators. Selection presents a point of view. Acknowledging and accounting for this avoids the pervasive assumption that the totalizing approaches of large language model datasets "neutralize" this issue, when in fact they highlight the Western, Educated, Industrialized, Rich, Democratic (WEIRD) culture from which they emerge. 
+Whether curating a small collection, or scraping from the web indiscriminately, gathering and selecting sources for texts enacts the cultural standards of its creators. Selection presents a point of view. Acknowledging and accounting for this counteracts the pervasive assumption that the totalizing approaches of large language model datasets "neutralize" this issue, when in fact they highlight the Western, Educated, Industrialized, Rich, Democratic (WEIRD) culture from which they emerge. 
 
 **ORIGINS & LEGACIES**
 
@@ -132,7 +132,7 @@ How the [XXX] Brown Corpus, etc. leads to WordNet leads to ImageNet ([Crawford 2
 
 ### 1.2.3 Use the New Models 
 
-Evaluate each of these new approaches using new datasets impacts the resulting models, by comparing them to existing models and each other using benchmark testing and applications.
+Evaluate each of these new approaches to see how they impact the resulting outputs, by comparing them to existing models and each other using benchmark testing and different applications.
 
 - Prompt programming
 - Text generation, dialogue, analysis tasks
@@ -253,7 +253,7 @@ Some datasets do provide a bit more context for their source texts, such as Open
 
 Alternatively, here is a proposed entry for A Queer Love Corpus, with metadata and contextual fields for not only the source of the text data but also how it was contributed and processed, what permissions were provided, and why its contributor finds it relevant to the dataset. 
 
-This approach combines archival and curatorial practices with dataset creation practices to better account for data donation and informed consent, traceable [XXX], and [XXX]. It also allows the dataset to be used as an archive, explorable and extensible in its own right. 
+This approach combines curation practices from information sciences with dataset creation practices to better account for data donation and informed consent, traceable attribution, and granular control for custom datasets. It also allows the dataset to be used as an archive, explorable and extensible in its own right.
 
 **PSEUDOCODE SCHEMA for *QUEER LOVE CORPUS***
 
@@ -285,7 +285,7 @@ This approach combines archival and curatorial practices with dataset creation p
 **Contributor Roles**
 
 - form for submissions
-- multiplicty of perspectives, types of texts, types of content, definitions of what 'fits' this dataset
+- multiplicity of perspectives, types of texts, types of content, definitions of what 'fits' this dataset
 
 **Creator/Publisher Roles**
 
