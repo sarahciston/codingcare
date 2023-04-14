@@ -260,14 +260,14 @@ This approach combines curation practices from information sciences with dataset
 ```JSON
 {
     "_id": 01234,
-    "creator": "adrienne marie brown",
+    "creator": "adrienne maree brown",
     "corpus": ["queer love corpus"],
     "datePublished": 2019,
     "dateAdded": "2022-02-02T02:17:25+00:00",
     "description": "This work is a compendium of self-pleasure and community care as a revolutionary call to arms, embracing expansive ideas of love for earth, for others, for body, for soul.",
     "format": "text/txt",
     "identifier": "brown_pleasure_activism.",
-    "keywords": [“Black feminist”, “activist”, “sex”, “desire”, “love”, “queer”],
+    "keywords": ["Black feminist", "activist", "sex", "desire", "love", "queer"],
     "language": ["English"],
     "length": 123456,
     "rights": "e.g. The publisher has granted permission for this work to be included here. See license for complete terms of use.",
@@ -277,7 +277,8 @@ This approach combines curation practices from information sciences with dataset
     "sourceURL": "e.g. https://www.example.com",
     "submittedBy": "Sarah Ciston",
     "title": "Pleasure Activism: The Politics of Feeling Good",
-    "type": [“non-fiction”, “collection”]
+    "type": ["non-fiction", "collection"]
+
 }
 ```
 
