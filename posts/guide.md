@@ -6,7 +6,7 @@ date: 04.04.2022
 tags: [tips, guide, handy]
 ---
 
-# {{ page.title }} pocket guide
+# pocket guide
 
 ## rough starts
 
@@ -16,7 +16,7 @@ My own first experiences learning to code felt *awful*. Lonely. Discouraging. Co
 
 I wish I had known then that learning to code didn't have to feel like getting stuck, like fitting myself into someone else's paradigm. I wish I had known that learning to code could feel like this:
 
-![](Freddy Mercury, Don't Stop Me Now)
+![Freddie Mercury, Don't Stop Me Now](assets/img/freddie.gif)
 
 That coding could make me feel unstoppable. That coding could turn the world inside out. Coding could be fun. Even playful, relaxed, welcoming. It could be creative, thoughtful, crafty—and I could make coding my own.
 
@@ -47,7 +47,7 @@ How do we change systems to suit us if we are stuck outside them? But without co
 # **The Coding Care Zine**
 
 >"Any meeting or gathering is a place to practice the future together in the most tangible ways." 
->>–adrienne marie brown
+>>–adrienne maree brown
 
 *Coding Care* 
 
