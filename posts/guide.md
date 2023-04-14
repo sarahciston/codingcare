@@ -16,7 +16,7 @@ My own first experiences learning to code felt *awful*. Lonely. Discouraging. Co
 
 I wish I had known then that learning to code didn't have to feel like getting stuck, like fitting myself into someone else's paradigm. I wish I had known that learning to code could feel like this:
 
-![Freddie Mercury, Don't Stop Me Now](assets/img/freddie.gif)
+!['Freddie Mercury, Don't Stop Me Now'](assets/img/freddie.gif)
 
 That coding could make me feel unstoppable. That coding could turn the world inside out. Coding could be fun. Even playful, relaxed, welcoming. It could be creative, thoughtful, crafty—and I could make coding my own.
 
@@ -46,11 +46,12 @@ How do we change systems to suit us if we are stuck outside them? But without co
 
 # **The Coding Care Zine**
 
+[Original Zine Draft](assets/img/CodingCareZine.pdf)
+
 >"Any meeting or gathering is a place to practice the future together in the most tangible ways." 
 >>–adrienne maree brown
 
 *Coding Care* 
-
 
 ## we come from anywhere
 

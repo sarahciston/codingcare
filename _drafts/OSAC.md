@@ -39,3 +39,5 @@ INTERSECTIONAL AI TOOLKIT
 <!-- bobby joe, consent practices in an open source context, when you're working in a community not everyone has the same political lens w similar goals. font licensing agreement. free here but pay for other use. open source so that things can be a discussion, conflict and change can happen. gap in the transfer of knowledge between elders and youth. people leaving is a design challenge. certain info people are stewards of the knowledge. cant just put it on a website! doesn't have to be the end but can be creative. Cuba had their own version of the intranet via hard drives passed around, diff versions of open access. -->
 <!--*having a type of issue: is it just me or,*  -->
 <!-- how do you make the labor of accessibility visible -->
+<!-- laura, programming on the material level w weaving adacad -->
+
