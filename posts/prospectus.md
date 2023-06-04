@@ -17,36 +17,44 @@ tags: [prospectus, dissertation]
 - one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
 
 ### chapter outline (fantasy table of contents)
-00. What is this document
+00. What is this document, What Is Coding Care [status:] 
    1. approaches & theories
-   2. examples & practices in practice
-0. What Is Coding Care [status:] 
-   1. Coding needs an overhaul, can be rethought through care-ful, interdisciplinary, community, creative, craft-oriented practices to bring ethics and politics to code, 
-   2. to imagine new more equitable systems and bring those who can make them into the conversations that will allow them to be made, and also to bring 
-1. A Pocket Guide to Code Collective [status: PARTIAL DRAFT w ELO paper] (How To Guide: Creative Code Collective (a case study/how-to/lessons learned, with contributions from or interviews with members)
+   2. examples & practices in practice 
+   3. Coding needs an overhaul, can be rethought through care-ful, interdisciplinary, community, creative, craft-oriented practices to bring ethics and politics to code, 
+   4. to imagine new more equitable systems and bring those who can make them into the conversations that will allow them to be made, and also to bring 
+1. A Pocket Guide to Code Collective [**status: PARTIAL DRAFT** w ELO paper] (How To Guide: Creative Code Collective (a case study/how-to/lessons learned, with contributions from or interviews with members)
    1. qualitative: survey results, interviews 1:1 and written, live transcripts?
-2. Intersectional AI Toolkit [status: ONGOING PROGRESS]
+2. Intersectional AI Toolkit [status:]
    1. art exhibition + code base
-   2. ccc resource hub
+   2. ccc resource hub [status: ONGOING PROGRESS, needs migration and finalized state]
    3. qualitative: zine making documentation
    4. zines editions & library
    5. (case study of community project)
-3. A Critical Field Guide to Datasets [status: DRAFT COMPLETE]
+3. A Critical Field Guide to Datasets [status: **COMPLETE, printed**]
    1. Knowing Machines Field Guide 
    2. Library Research Guide or dataset
    3. w case studies of library project and knowing machines output 
-4. Unsupervised Pleasures / Love Corpora 
+4. Unsupervised Pleasures / Love Corpora [status: experiments, prototypes]
    1. Datasets for use: 
       1. queer love corpus [status: DESIGN DOCUMENT IN DRAFT, scope of next project is pitch for tenure book]
-      2. library dataset
+      2. library dataset [status: early prototype]
    2. Model trained on new dataset
-   3. case study of work with emily
+   3. case study of work with emily [**status: paper for new real commission**]
    4. outputs of datasets, see below 
       1. crafted tangible material
       2. textual
 5. Case studies of my individual projects, Akademie der Künste project, inner.voice.over and/or ladymouth and/or...
-6. Lyric essay(s) (see below)
-   1. e.g. analyses of outside artworks, historical analog practices and contemporary analogous examples put through personal processing. 
+6. Lyric essay(s) (see below) [status:]
+   1. Codes for Dis/Appearing: Rebecca Horn (refusing, databodies, drone aesthetics, interpolated states, isolating-features ml/covid) **folding/digits/**
+   2. Codes for Un/Knowing: Pipilotti Rist // Essaying (exploring, unknowing, investigating, code obscura, **labyrinth**)
+   3. Codes for Looping // Un/Mouthing: Luce Irigaray / Monique Wittig / ?
+   4. Sonya Rapoport
+   5. Sophie Calle
+   6. Hito Steyerl
+   7. (mine somewhere?)
+   8. Touch|Screen
+   9.  adrienne maree brown, alexis pauline gumbs, lauren berlant, johanna hedva, adrian piper
+   10. e.g. analyses of outside artworks, historical analog practices and contemporary analogous examples put through personal processing. 
 
 *these are the nesting dolls getting smaller and more personal*
 
@@ -67,8 +75,8 @@ tags: [prospectus, dissertation]
    <subhead>init, name, set, get</subhead> (each verb has a metaphor?)
    1. Codes for Communing (creative code collective, mutual aid, sewing kits, knitting circles, toolkits, covens, secret societies, oblique strategies)
    2. Codes for Mourning (platform, threnodies, fraying, multithreading, **thread**)
-   3. Codes for Desiring (ecstatic codes, erotic politics, infinite scroll, zeno (see above, eros thanatos))
-   4. Codes for Queering (trans poetic, radical imagining, futile/futurity)
+   3. Codes for Desiring (ecstatic codes, erotic politics, infinite scroll, zeno (see above, eros thanatos)) **scroll/touch** (Touch|Screen?)
+   4. Codes for Queering (trans poetic, radical imagining, futile/futurity) ****
    5. Codes for Disappearing (refusing, databodies, drone aesthetics, interpolated states, isolating-features ml/covid) **folding/digits/**
    6. Codes for Essaying (exploring, unknowing, investigating, code obscura, **labyrinth**)
    7. Codes for Healing (hearing, hiding, helping, gathering, saving, salve, poultice, protecting, healing each other) 
@@ -97,6 +105,9 @@ The work done with Intersectional AI Toolkit and Creative Code Collective both a
 * artist-technician, activist-engineer, documentation-code library, print-digital hybrids (venn diagram 4 circles)
 
 ## contribution to the field - so what, why should this exist
+
+expansively accessible intervention into 
+strategies for facilitating communities of practice, for alternative accessible publishing and prototyping, for 
 
 ## timeline
 
@@ -188,6 +199,7 @@ And **TechnoCraft** is the combo of historically dismissed and feminized practic
 * Maggie Nelson
 * Eve Sedgwick
 * Eve Tuck
+* Lola Olufemi
 
 ## bibliography & mediography 
 See References TK

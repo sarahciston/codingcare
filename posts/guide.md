@@ -1,9 +1,9 @@
 ---
 layout: post
-title: coding care
+title: coding care guide
 nav_order: 3
-date: 04.04.2022 
-tags: [tips, guide, handy]
+date: 04.06.2023 
+tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
 # pocket guide
@@ -20,21 +20,29 @@ My own first experiences learning to code felt *awful*. Lonely. Discouraging. Co
 
 I wish I had known then that learning to code didn't have to feel like getting stuck, like fitting myself into someone else's paradigm. I wish I had known that learning to code could feel like this:
 
-!['Freddie Mercury, Don't Stop Me Now'](assets/img/freddie.gif)
+![Freddie Mercury, Don't Stop Me Now](assets/img/freddie.gif)
 
 Eventually through trial and error and trial and trial and trial, I learned that coding can make me feel unstoppable. Coding can turn the world inside out. Coding can be fun--even playful, relaxed, welcoming. It can be creative, thoughtful, crafty. I learned that I can make coding my own, and anyone can too.
 
-## coding as collective, coding as research question
+## code as collective, code as open question
 
-
-
-
-
+Learning to code can be full of false starts and bad fits. But it can reward the effort [if you're interested in / because it offers] [XXXXXXXXXXXXX]. 
 
 How do we change systems to suit us if we are stuck outside them? But without conforming to their encoded ways of thinking? How can we build communities that offer alternatives? 
 
+## what's included
 
+The process of exploring these questions has been intuitive, iterative, and collaborative. In this guide I'll share some of what I've learned from five years of building the Creative Code Collective, and from the many mentors and teachers who inspired it. It gathers resources I've found along the way. 
 
+The heart of this book are the principle tenants developed to describe Code Collective [...]
+
+All recommendations in the book are intended to be descriptive, not prescriptive. I invite you to embrace and adapt what works for you and leave the rest. 
+
+Of course the guide includes many contributions from members of our community--including example projects, coding exercises, and personal accounts--because our work is never done in isolation. I'll discuss connections I've found between coding and other crafts like zine publishing and fiber arts. I'll cover [...]. 
+
+## what it is not
+
+This is not a manifesto because it documents what we have actually modeled in the world and hope to. 
 
 
 <!-- # A GUIDEBOOK -->
@@ -590,7 +598,7 @@ Thank you to the individuals and organizations who developed these principles an
 
 >>"balance exploration with exploitation" (Montfort 20XX, 5)
 
->>"Newsletters were a kind of c nective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)
+>>"Newsletters were a kind of conective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)
 
 [^nepo]: Nepo, M. (2012). The Book of Awakening. 
 [^shane]: Shane, J. (2019). You Look Like a Thing and I Love You.
@@ -616,6 +624,9 @@ Thank you to the individuals and organizations who developed these principles an
 ## Acknowledgments 
 
 [TK] Membership list and more information about CCC... [^Creative Code Collective](https://creativecodecollective.com)
+- OSACC
+- P5.JS
+- Creative Code Berlin
 
 
 06 Oct CCC
