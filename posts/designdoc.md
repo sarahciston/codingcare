@@ -4,6 +4,7 @@ permalink: designdoc
 title: queering corpora
 nav_order: 6
 # date: 30.09.2022 
+$$
 # tags: [design]
 ---
 
@@ -19,6 +20,9 @@ nav_order: 6
 – James Baldwin
 
 >"The database depends on the loss of the thing itself." -Tara McPherson, *Feminist in a Software Lab*
+
+>"They say, the language you speak is made up of words that are killing you." —Monique Wittig
+
 
 >"This queer model opens up new imaginaries and forgotten language beyond the confines of accurate prediction and effective generalization. We understand this type of machine learning as **replacing training with listening**. A listening which as Kara Keeling describes is a 'generative proposition another world is possible, the insistence that such a world already is here now and it listens, with others, for the poetry, poetry, the refrains, the rhythms, and the noise such a world is making'. (2019, ix)" — Winnie Soon, [Queer Motto API](https://gitlab.com/siusoon/queer-motto-api/)
 
@@ -427,3 +431,6 @@ language models are becoming ubiquitous but we don't know the data that is insid
 >"he used collage aesthetics to help forge a diverse collective identity across eclectic spheres of black America."
 
 >"We are no more able to solve that problem for logic/probability/causality systems than we are for deep learning systems. We can have a node in our model labeled “tree”, but we are no more (or less) able to check that it actually robustly represents trees than we are for a given neuron in a neural network. Similarly, if we find that it does represent trees and we want to understand how/why the tree-representation works, all those labels are a distraction." ([Less Wrong, "Deep Learning Systems Are Not Less Interpretable Than Logic/Probability/Etc"](https://www.lesswrong.com/posts/gebzzEwn2TaA6rGkc/deep-learning-systems-are-not-less-interpretable-than-logic)
+
+>"three modes of reading that can be engaged when studying datasets—a denotative reading (extrapolating the literal meaning of values in a dataset), a connotative reading (tracing the socio-political provenance of data semantics), and a deconstructive reading [of datasets] (seeking what gets Othered through data semantics and structure)." Poirier, 2021 @poirierReadingDatasetsStrategies2021a (this work, and that of mimi onuoha and others, does the deconstructive, but also reconstructive). 
+

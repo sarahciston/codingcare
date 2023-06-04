@@ -8,21 +8,28 @@ tags: [tips, guide, handy]
 
 # pocket guide
 
-## rough starts
+## rough starts & disconnects
 
-Maybe you've thought about coding and felt intimidated to try. Maybe you tried your hand at it some and struggled. Or maybe you're all right with some programming skills but you'd still never consider yourself "a coder." *Coding Care* is about that disconnect—how so many of us feel left out of coding communities and how difficult it is to feel empowered to engage the tools of computation even though we likely interact with computation every day. How difficult it can feel to begin!
+Have you considered coding but felt too intimidated to try? Have you struggled to learn programming or to understand how you'd actually use it? Or maybe you're decent with programming skills but you'd still never consider yourself "a coder"? *Coding Care* is about those disconnects--how difficult it is to bridge the space between trying to learn and feeling empowered to engage the tools of computation even as we likely interact with computation every day. 
 
-My own first experiences learning to code felt *awful*. Lonely. Discouraging. Confusing. I had the sense I was "supposed" to learn programming skills. It felt important, like I needed it in order to create the kind of art and language and world I imagined, but it also felt like a chore. I also had the sense everyone else could hack it but me: *Why was I the only one who didn't understand or care about these dry examples? Why was I getting lost in all the overlapping, specialized vocabularies?* I felt immersed in a strange landscape, without even the language to ask for what I needed or the basic knowledge of where to look or how to start. 
+So many people feel left out of coding communities and spaces for learning about computation, yet I believe it is essential for people who come from all different perspectives to share access to the digital languages that are informing the world and what it becomes. I want to live in a world that is shaped by your point of view and many others' point of views, that is shaped not only by one narrow take on what computers can do. 
+
+## don't stop me now
+
+My own first experiences learning to code felt *awful*. Lonely. Discouraging. Confusing. I had the sense I was "supposed" to learn programming skills. It felt important, like I needed it in order to create the kind of art and language and world I imagined, but it also felt like a chore. I had the sense everyone else could hack it but me: *Why was I the only one who didn't understand or care about these dry examples? Why was I getting lost in all the overlapping, specialized vocabularies?* I felt immersed in a strange landscape, without even the language to ask for what I needed or a basic knowledge of where to look or how to start. 
 
 I wish I had known then that learning to code didn't have to feel like getting stuck, like fitting myself into someone else's paradigm. I wish I had known that learning to code could feel like this:
 
 !['Freddie Mercury, Don't Stop Me Now'](assets/img/freddie.gif)
 
-That coding could make me feel unstoppable. That coding could turn the world inside out. Coding could be fun. Even playful, relaxed, welcoming. It could be creative, thoughtful, crafty—and I could make coding my own.
+Eventually through trial and error and trial and trial and trial, I learned that coding can make me feel unstoppable. Coding can turn the world inside out. Coding can be fun--even playful, relaxed, welcoming. It can be creative, thoughtful, crafty. I learned that I can make coding my own, and anyone can too.
 
-## don't stop me now
+## coding as collective, coding as research question
 
-*Coding Care* is also about how important it is for folks coming from a variety of perspectives to share access to the languages that increasingly inform the world and what it becomes. 
+
+
+
+
 
 How do we change systems to suit us if we are stuck outside them? But without conforming to their encoded ways of thinking? How can we build communities that offer alternatives? 
 
@@ -135,11 +142,17 @@ All making is a research question. What question do you want to explore?
 # **The Full GuideBook (in progress)**
 
 * purpose of the book, what are the rituals of programming
-* who we are, who i am and why it matters
+* who we are, who i am, and why it matters
 * why we're here
 * first steps & logistics: a hub for info dumping, collab notes
 * course corrections
 • three tenses: what we have done, continue to do and how it matters, ideal vision we want for the world and how this leads to it
+* resouces collected
+* start your own collective
+
+
+
+## The Concepts
 
 ## 1. we know code isn't magic, but we are
 
@@ -188,9 +201,9 @@ As folks that come from different cultures, sexualities & genders, fields of stu
 
 We reinforce that everyone brings skills to share and can learn from each other. 
 
-~~~*We are committed to interdisciplinary intersectional practices and making. We make sure this is embedded in and extends beyond our own work by including workshops and group research that focuses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally.*~~~
+*We are committed to interdisciplinary intersectional practices and making. We make sure this is embedded in and extends beyond our own work by including workshops and group research that focuses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally.*
 
-### we are continually in process, works in progress
+### we are continually in process, works in progress.
 
 Writing both as a representative of a community and as an individual greatly influenced by this community, and by so many other creators, thinkers, and teachers, I really wanted to document my thought processes and honor the many entangling threads that go into shaping a caring (coding) community. 
 
@@ -230,6 +243,7 @@ We know that sneaky feeling an idea should already exist means we might be the o
 We break code to learn how it works, to see if it could work a different way, to see if its not working makes it sing out with poetry. We write it out on paper if we don't know how to say it with code. 
 
 ### how we do it 
+### even when we don't know how
 ### why we do it anyway
 
 When the tool we need doesn't exist, we build it. We make it from the existing tools we scraped for parts. We build it with duct tape and spit and the new programming language we teach ourselves along the way. 
