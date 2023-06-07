@@ -249,6 +249,10 @@ intersectional
 
 [JEFF WATSON / REMOTE DEVICE / IMAP MANIFESTO](https://remotedevice.net/blog/imap-manifesto/)
 
+## overall what am i doing, what's in common
+
+These are instructions for myselves, past-present-future, hoarding and gathering tactics from many traditions, making connections, strategies and wayfinding for the kinds of worlds and systems I want to be part of. From intersectional transfeminist infrastructures, self-hosting servers and 
+
 
 >>"in instructions to label images of faces for computer vision, requesters ask workers to identify “female” and “male” faces. Through this request, companies are not only asking workers to guess someone’s gender, but also imposing a binary way to see gender in data."
 >Miceli, M., & Posada, J. (n.d.). The data-production dispositif: How to analyze power in data production for machine learning. Schwartz Reisman Institute. Retrieved June 28, 2022, from https://srinstitute.utoronto.ca/news/the-data-production-dispositif
