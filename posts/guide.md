@@ -1,8 +1,8 @@
 ---
-layout: post
-title: coding care field notes
+# layout: post
+title: coding care pocket guide
 nav_order: 3
-date: 04.06.2023 
+date: 08.06.2023
 tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
@@ -11,7 +11,8 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 
 {:toc}
 
->>ADRIENNE MARIE BROWN says: “Any meeting or gathering is a place to practice the future together in the most tangible ways”
+>"Any meeting or gathering is a place to practice the future together in the most tangible ways."
+>>– adrienne maree brown
 
 ## 0. welcome
 
@@ -21,8 +22,8 @@ Have you considered coding but felt too intimidated to try? Have you struggled t
 
 So many people feel left out of coding communities and spaces for learning about computation, yet I believe it is essential for people who come from all different perspectives to share access to the digital languages that are informing the world and what it becomes. I want to live in a world that is shaped by your point of view and many others' point of views, that is shaped not only by one narrow take on what computers can do. 
 
->>"the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text"
->Jessica Loseby, "Code Scares Me"
+>"the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text"
+>>Jessica Loseby, "Code Scares Me"
 
 >"I was that convinced that I didn’t have the ability or technological talent to learn how to write code for something. I assumed that every person around me was miles ahead in their practice, and wondered how my passion for creative storytelling could really play into something so new and untouched." 
 >>Tia Kemp, she/her, BA Media Arts + Practice
@@ -33,11 +34,11 @@ My own first experiences learning to code felt *awful*. Lonely. Discouraging. Co
 
 I wish I had known then that learning to code didn't have to feel like getting stuck, like fitting myself into someone else's paradigm. I wish I had known that learning to code could feel like this:
 
-![Freddie Mercury, Don't Stop Me Now](assets/img/freddie.gif)
+![Freddie Mercury](assets/img/freddie.gif)
 
 Eventually through trial and error and trial and trial and trial, I learned that coding can make me feel unstoppable. Coding can turn the world inside out. Coding can be fun--even playful, relaxed, welcoming. It can be creative, thoughtful, crafty. I learned that I can make coding my own, and anyone can too.
 
-## code as collective, code as open question
+### code as collective, code as open question
 
 Learning to code can be full of false starts and bad fits. But it can reward the effort [if you're interested in / because it offers] [XXXXXXXXXXXXX]. 
 
@@ -48,7 +49,7 @@ How do we change systems to suit us if we are stuck outside them? But without co
 ### code isn't magic, but we are
 
 >"No way, code is magic." 
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz | former assistant director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
  We believe in our power to reshape the world around us by making experiments in the kind of tools, aesthetics, politics, etc. we want to see. We know that magic comes from us not from autonomous systems, which are in fact deeply intertwined with humans in every way. 
 
@@ -67,7 +68,7 @@ These principles began as intuition and expanded, distilled, developed along the
 
 >>"Any meeting or gathering is a place to practice the future together in the most tangible ways" (adrienne maree brown 2021, 117)
 
-#### coding rituals: what are the practices of our communities? 
+### coding rituals: what are the practices of our communities? 
 Code is language, code is a tool; code can be read and learned and used to express. This guidebook wants to expand on and enrich the rituals of programming to include the joy and community and care necessary to make different kinds of code (and different kinds of worlds).
 
 ### what this guidebook isn't // why is this guidebook
@@ -200,7 +201,7 @@ Live coding, though it might seem counterintuitive, sparks confidence. It helps 
 When we are together and witness each other struggle, that commonality reveals the lightness and the joy through community support. You're not going insane because you're not the only one who's gone insane staring at their code before. Yes, you do need sleep. Yes, you'll figure it out, or you'll figure something out. And we're here to help.
 
 >"I loved editing that Three.js[^threejs] scene with Ada. I love being able to have group input. Before I was trying to communicate Three.js knowledge, and I've been struggling to get it out of my head. But, for some reason, seeing it in the group setting, it was a really fulfilling experience--like a teaching moment where I could communicate a lot of knowledge in a short amount of time."
->>—Samir Ghosh, they/them, Assistant Director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
 <!-- should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated? -->
@@ -212,7 +213,7 @@ Even, and especially, as leaders and teachers we must do this. We connect over /
 ### we know teaching others helps us learn
 
 >"There was beginner student who had trouble with code, and I think it was Katherine who helped but I forget. Being able to see the mentorship between between people. That was a really powerful thing for me to see. I remember seeing seeing that kind of like troubleshooting, debugging. That was really important for me to see."
->>—Samir Ghosh, they/them, Assistant Director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
 ### we feature progress / make mistakes in public / work iteratively
 
@@ -323,7 +324,8 @@ We also keep a weekly meeting cadence but this has gone from in-person to zoom t
 
 The main takeaway is that we have adapted to the needs and circumstances of the community over the past three years, striving for the loosest container possible to hold the thing together. 
 
->>SAMIR says: "It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
+>SAMIR says: "It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
 
 
@@ -360,7 +362,7 @@ Every inquiry into what makes our community thrive was a broken record:
 >>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
 
 >"I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it it puts it it levels the playing field, and it kind of brings a sense of equality. That's important."
->>—Samir Ghosh, they/them, Assistant Director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
 Look for snacks that are computer keyboard friendly, nothing sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-so, and single servings that avoid too much plastic wrapping are ideal: popcorn, pretzels, satsumas, gummy worms. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
 
@@ -377,7 +379,7 @@ A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g
 Or Round Robin, or Check Ins, or Council Method, or some version of an opening gesture for our gathering that acknowledges each person, gives them a short couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise share first each visit.   
 
 >"The terminal is cute. It's important to have a good relationship with your terminal." 
->(Ada)
+>>(Ada)
 
 ### we keep things loose
 
@@ -385,9 +387,9 @@ It has been one of my biggest stresses about our Collective learning how to lead
 
 Of course, this does not work. That nervous strategy is riddled with stilted efforts of over-structured efforts leading to dead silence and loosey-goosey meandering conversations. Along the way I am continually learning the caring practices of facilitation as leadership, as being a vessel and a model. The space is a loose net—some structure is in fact necessary, though I was loathe to be the instigator of that structure at first. 
 
->>Elea: "Can I go on a tangent?" 
+>Elea: "Can I go on a tangent?" 
 
->>Sarah: "Always."
+>Sarah: "Always."
 
 GIFs, TikToks, whatever's your thing... what brings a smile to your face and a sense of levity to the experience? What can you connect around? How can we not take ourselves so seriously even as we engage in the serious business of reimagining the world? 
 
@@ -417,7 +419,7 @@ As students move on into the world, I’m working to document our values and  im
 
 I’m not taking credit for any of these approaches being novel; in fact, in some ways, they are so instinctual they are easily dismissed—but they are too important to be overlooked, when they contribute so much to learning environments that support a variety of expression and creation. 
 
->>KATHERINE says: “It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
+>KATHERINE says: “It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
 
 
 ### let's keep track of what we already know, rather than duplicate our work
@@ -439,9 +441,9 @@ Sometimes the low-fi answer is the right one. When searching for the right tools
 ### forms
 [craft] [zines]
 
->>"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." (Mercedes Bernard, @CrochetCodeCraft)
+>"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." (Mercedes Bernard, @CrochetCodeCraft)
 
->>"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)
+>"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)
 
 
 ## We value documentation and care work. 
@@ -467,7 +469,7 @@ By being drafted from scratch on a public site, the guide shows its rough edges 
 
 ### more than one outcome is possible
 
- **so many different outcomes for what you decide to do with a technical challenge you want to give to yourself. By spending time with others from different walks of life, we see how others approach the same problem vastly differently. Even with the exact same idea, one person might explore that with the goal to sell it commercially while another explores it by creating an expressive artwork. Along the way they are tackling the same troubleshooting problems, line by line, but perhaps answering the questions that arise very differently based on their goals. It helps to expand the spectrum of what one could make or invent, as a way to get out of our default modes and expectations for ourselves.**
+ *so many different outcomes for what you decide to do with a technical challenge you want to give to yourself. By spending time with others from different walks of life, we see how others approach the same problem vastly differently. Even with the exact same idea, one person might explore that with the goal to sell it commercially while another explores it by creating an expressive artwork. Along the way they are tackling the same troubleshooting problems, line by line, but perhaps answering the questions that arise very differently based on their goals. It helps to expand the spectrum of what one could make or invent, as a way to get out of our default modes and expectations for ourselves.*
 
 
 ## 10. We encode our values. We start with care 💜 before code. 
@@ -478,7 +480,7 @@ By being drafted from scratch on a public site, the guide shows its rough edges 
 >>[Data Loam.](http://www.degruyter.com/document/doi/10.1515/9783110697841/html) (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.), De Gruyter. 
 
 >"What happens when we integrate rather than refuse the pain, toil, and doom of surviving? How do we put our interconnectedness into practice?"
->Johanna Hedva, Processing Foundation
+>>– Johanna Hedva
 
 A practice for revolutions: *"Wherever you are standing, come one step closer."*[^@morehshin]
 
@@ -504,7 +506,7 @@ I have learned that persistence is a rhythm, not a slog. That I can hold my peda
 For me, seeing students who thought they hated code return the next semester referring to themselves as coders—seeing them share projects that express a distinctive critical voice—affirms for me the importance of this kind of community and this combination of intersectional and interdisciplinary tactics for learning. And I’m starting to see the impacts it can have on their views of algorithmic systems and potential alternate futures.
 
 
->>Since, as Kate Crawford argues, computational “ways of seeing depend on the twin moves of abstraction and extraction. But these logics can be challenged, just as systems that perpetuate oppression can be rejected.” 
+>Since, as Kate Crawford argues, computational “ways of seeing depend on the twin moves of abstraction and extraction. But these logics can be challenged, just as systems that perpetuate oppression can be rejected.” 
 
 ### we are not in class. we're in community.
 
@@ -524,7 +526,7 @@ Our mascots are magpies and meme cats, too-clever animals fascinated with hoardi
 Still we want to find openings for others to enter, [...]
 
 >"I'd love to see this outside of the university setting. I wish this existed for urban professionals. I feel like not all of my Silicon Valley friends would partake in something like this, because they're so burnt out on code. But I'm sure there's a lot of people that are still wanting to have this conversation."
->>—Samir Ghosh, they/them, Assistant Director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
 [xxx][intro or conclusion or values]
 
