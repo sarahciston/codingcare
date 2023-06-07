@@ -1,14 +1,21 @@
 ---
 layout: post
-title: coding care guide
+title: coding care field notes
 nav_order: 3
 date: 04.06.2023 
 tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
-# pocket guide / guide book / field notes
+# coding care: a pocket guide
+[guide book / field notes]
 
-## rough starts & disconnects
+{:toc}
+
+>>ADRIENNE MARIE BROWN says: “Any meeting or gathering is a place to practice the future together in the most tangible ways”
+
+## 0. welcome
+
+### rough starts & disconnects
 
 Have you considered coding but felt too intimidated to try? Have you struggled to learn programming or to understand how you'd actually use it? Or maybe you're decent with programming skills but you'd still never consider yourself "a coder"? *Coding Care* is about those disconnects--how difficult it is to bridge the space between trying to learn and feeling empowered to engage the tools of computation even as we likely interact with computation every day. 
 
@@ -20,7 +27,7 @@ So many people feel left out of coding communities and spaces for learning about
 >"I was that convinced that I didn’t have the ability or technological talent to learn how to write code for something. I assumed that every person around me was miles ahead in their practice, and wondered how my passion for creative storytelling could really play into something so new and untouched." 
 >>Tia Kemp, she/her, BA Media Arts + Practice
 
-## don't stop me now
+### don't stop me now
 
 My own first experiences learning to code felt *awful*. Lonely. Discouraging. Confusing. I had the sense I was "supposed" to learn programming skills. It felt important, like I needed it in order to create the kind of art and language and world I imagined, but it also felt like a chore. I had the sense everyone else could hack it but me: *Why was I the only one who didn't understand or care about these dry examples? Why was I getting lost in all the overlapping, specialized vocabularies?* I felt immersed in a strange landscape, without even the language to ask for what I needed or a basic knowledge of where to look or how to start. 
 
@@ -38,11 +45,16 @@ How do we change systems to suit us if we are stuck outside them? But without co
 
 [...] Coding has been considered the province of too few for far too long. And the rest of us have been treated as outsiders to systems that consume us.
 
+### code isn't magic, but we are
 
+>"No way, code is magic." 
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz | former assistant director, USC Ahmanson Lab
+
+ We believe in our power to reshape the world around us by making experiments in the kind of tools, aesthetics, politics, etc. we want to see. We know that magic comes from us not from autonomous systems, which are in fact deeply intertwined with humans in every way. 
 
 [expandXXX]
 
-## what is this guidebook?
+### what is this guidebook?
 
 The process of exploring these questions has been intuitive, iterative, and collaborative. The heart of this book are [seven/ten] principles that emerged through our process of gathering as Code Collective. They are simple tactics that anyone can adapt and employ in their own practices. They emerged out of desire and instinct, and we have reshaped them as our group evolved over five years together. All recommendations in the book are intended to be descriptive, not prescriptive. I invite you to embrace and adapt what works for you and leave the rest. 
 
@@ -58,7 +70,7 @@ These principles began as intuition and expanded, distilled, developed along the
 #### coding rituals: what are the practices of our communities? 
 Code is language, code is a tool; code can be read and learned and used to express. This guidebook wants to expand on and enrich the rituals of programming to include the joy and community and care necessary to make different kinds of code (and different kinds of worlds).
 
-## what this guidebook isn't // why is this guidebook
+### what this guidebook isn't // why is this guidebook
 
 This is not a manifesto because it documents what we have actually modeled in the world and hope to. 
 
@@ -315,6 +327,69 @@ The main takeaway is that we have adapted to the needs and circumstances of the 
 
 
 
+>"It's really reassuring to always come back to this environment of like, "Okay, you don't have to be that, you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code."**
+>>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+
+<!-- #### (brave spaces w Sultan?) -->
+
+<!-- Since Zoom Doom, we've been looking for ways to recreate the unique environment we'd built in person using (or building) other a/synchronous tools.  -->
+
+### we create ritual
+
+The examples I offer here are often in flux as the temperaments and conditions of our members change. Fundamentally, we create ways of being together and acknowledging each others common humanity and unique perspectives simultaneously. We mark the specialness of contact and connection. Often this happens by accident and then codifies (code-ifies!) into a pattern we keep. Try and adjust until you find what works for you!
+
+### we meet regularly
+
+weekly if possible, in person if possible, and we accommodate what's not always possible. We're flexible to the impossible and know we'll get back to it later. Like old friends you can pick up with after an indeterminate amount of time, no questions asked. Or old code that needs a break from you after troubleshooting for too long. A frequent, consistent cadence of meeting in person is best. It feels easeful. And when we can't, there is trust we'll get back to each other when we can. Without pressure or resentment or guilt. It's not meant to be another obligation on the calendar, but a reprieve. We help restore each other through co-presence. We defrag each other's mental hard disks through the process of communing.  
+
+Truth is, you don’t need to prepare much, just to start building community.
+
+**core group, self selecting, figuring out what it is. problem-membership, not prostheletizing. word of mouth. public space, what are you doing, can i join? no cap, joseph beuys** humility, self conscious self deprecating, not warranted. 
+
+### this literally *makes* the room for each other, creates the room we have together [see we ask after each other #10]
+
+### we support snacks
+Seriously, everyone cites snacks as the number one item that keeps bringing students to our meetups. Snacks are magic. How do snacks do it? I don't know, ask snacks. Make sure you budget for snacks.
+
+Every inquiry into what makes our community thrive was a broken record: 
+
+>"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." 
+>>—Ada Toydemir, they/them, MS Computer Science
+
+>"I think the snacks are definitely a big draw in the beginning. They would still be now, except for covid."
+>>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+
+>"I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it it puts it it levels the playing field, and it kind of brings a sense of equality. That's important."
+>>—Samir Ghosh, they/them, Assistant Director, USC Ahmanson Lab
+
+Look for snacks that are computer keyboard friendly, nothing sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-so, and single servings that avoid too much plastic wrapping are ideal: popcorn, pretzels, satsumas, gummy worms. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
+
+As our meetings transitioned to virtual spaces and across timezones, snacks still held sway as a conversation starter. Then, on return to a campus strictly regulated with no-food policies and mask-wearing, our beloved snacks were off the table (under the table instead). Whether piled in the center of the table, dutifully taken outside, or discussed in their glaring absence, snacks represent the friendly core of the space and a reminder that we are not coding machines but fleshy bodies connected by our need to take breaks to digest and recharge. As we chew and chat, we digest and discuss what we're troubleshooting (both in code and life, it's all part of the processing).  
+<!-- As de facto official of the collective, I can report that I never saw any students indulge in snacks during our meetings within view of a campus security camera. -->
+
+### we open sessions with our shared playlist
+And it is on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now," which came to be when at our first meetup a quiet student piped up out of the blue with this amazing suggestion for our background tunes. I was blown away. And it has been our rallying call ever since. 
+
+A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g6F9RM0Osbhw7ONwxSJhy?si=Cr0nEeExQiKPUQI-l7-HCA) on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another humanizing way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community at large *and* when working on code. It's all connected! 
+
+### we start each session with show and tell
+
+Or Round Robin, or Check Ins, or Council Method, or some version of an opening gesture for our gathering that acknowledges each person, gives them a short couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise share first each visit.   
+
+>"The terminal is cute. It's important to have a good relationship with your terminal." 
+>(Ada)
+
+### we keep things loose
+
+It has been one of my biggest stresses about our Collective learning how to lead. Because leadership feels like a responsibility I take seriously, but also a spotlight or a pedestal I'm wary of, this leadership feels like a tightrope walk in which I try nervously to make sure everyone is comfortable, having fun, and learning—all without forcing anything or having it "look like" anything is happening at all.
+
+Of course, this does not work. That nervous strategy is riddled with stilted efforts of over-structured efforts leading to dead silence and loosey-goosey meandering conversations. Along the way I am continually learning the caring practices of facilitation as leadership, as being a vessel and a model. The space is a loose net—some structure is in fact necessary, though I was loathe to be the instigator of that structure at first. 
+
+>>Elea: "Can I go on a tangent?" 
+
+>>Sarah: "Always."
+
+GIFs, TikToks, whatever's your thing... what brings a smile to your face and a sense of levity to the experience? What can you connect around? How can we not take ourselves so seriously even as we engage in the serious business of reimagining the world? 
 
 
 
@@ -359,9 +434,15 @@ Sometimes the low-fi answer is the right one. When searching for the right tools
 
 
 
-## 9. We value process and form in many forms. 
+## 9. We value process. We value form in many forms. 
 
-[craft] [zines] [documentation]
+### forms
+[craft] [zines]
+
+>>"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." (Mercedes Bernard, @CrochetCodeCraft)
+
+>>"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)
+
 
 ## We value documentation and care work. 
 ### documentation is hard work, necessary work, just as essential as the code itself
@@ -370,11 +451,19 @@ Sometimes the low-fi answer is the right one. When searching for the right tools
 * starting a website together, posting your individual sketches or projects on a group github
 * 
 
-
-
 ### value processes as much as, or more than, outcomes[^amb]
 
 we're not task oriented but always in process, always works in progress. when beginning the collective, I described it as focused on project-based learning. But I meant that it was self-directed toward what the student wanted to build, make, create, as opposed to absorbing a pre-determined curriculum of concepts. However, it is not project-based in the sense that it is not focused on outcomes or the completion of projects or tasks. It is more interested in what you learn along the way, how did you use the tools you encountered and how did your choices shape your thinking and how did your thinking shape your choices and tools, reciprocally and iteratively. 
+
+### we are continually in process, works in progress.
+
+Writing both as a representative of a community and as an individual greatly influenced by this community, and by so many other creators, thinkers, and teachers, I really wanted to document my thought processes and honor the many entangling threads that go into shaping a caring (coding) community. 
+
+It is not one gesture or one moment, but it is all of them as they build up together. Each thing we have done intentionally, and unintentionally, adds up to us. Sometimes it feels like it just *is*, has always been. Or it feels like the things we do to support it are so obvious they are not worth mentioning, or even worse, they are so obvious I don't know how to notice them, they are not obvious at all. This guide is an attempt to remind myself they matter, and to acknowledge how much they have supported me (and hopefully others along the way). Whatever those ephemeral things are that make this caring coding community go.
+
+*This guide is a work in progress, trying to capture some intuitive wayfinding about how to learn and teach and explore and be together, especially in and through the things that draw us in that feel both challenging and fun, frustrating and rewarding.*
+
+By being drafted from scratch on a public site, the guide shows its rough edges before it is ready—a practice of vulnerability, an invitation for conversation. The site is built using Github, a code repository and version tracking platform, so that every past version of the text is archived. Readers can compare differences in the history [for example](https://github.com/sarahciston/codingcare/commit/5e1ef814d661f43027e3d0f15b5ba87415194cfe?diff=unified) line by line and comment on the text as it changes. This laid bare writing process enacts the Creative Code Collective value *progress not perfection*, which is mostly a reminder for myself.
 
 ### more than one outcome is possible
 
@@ -397,12 +486,10 @@ We are building community. We are encoding our values. We don't say, "That's not
 
 All making is a research question. What question do you want to explore? 
 
->"We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other." 
->>–Sara Ahmed
-
 ### we ask after one another
 
-
+>"We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other."
+>>-Sarah Ahmed, *Living a Feminist Life*
 
 We are excited to know each other and to care for one another as people, not as a means to an end. We learn from each other and our skills improve because of each other, but time and again we realize that is not the only—or even the main—reason we come together. 
 
@@ -416,7 +503,6 @@ I have learned that persistence is a rhythm, not a slog. That I can hold my peda
 
 For me, seeing students who thought they hated code return the next semester referring to themselves as coders—seeing them share projects that express a distinctive critical voice—affirms for me the importance of this kind of community and this combination of intersectional and interdisciplinary tactics for learning. And I’m starting to see the impacts it can have on their views of algorithmic systems and potential alternate futures.
 
->>ADRIENNE MARIE BROWN says: “Any meeting or gathering is a place to practice the future together in the most tangible ways”
 
 >>Since, as Kate Crawford argues, computational “ways of seeing depend on the twin moves of abstraction and extraction. But these logics can be challenged, just as systems that perpetuate oppression can be rejected.” 
 
@@ -471,7 +557,7 @@ Some items we have considered, or intuitively incorporated:
 
 
 
-# **The Full GuideBook (in progress)**
+# **TOC (in progress)**
 
 * purpose of the book, what are the rituals of programming
 * who we are, who i am, and why it matters
@@ -481,33 +567,6 @@ Some items we have considered, or intuitively incorporated:
 • three tenses: what we have done, continue to do and how it matters, ideal vision we want for the world and how this leads to it
 * resouces collected
 * start your own collective
-
-
-## The Concepts
-
-## 1. we know code isn't magic, but we are
-
->"No way, code is magic." 
->>—Samir Ghosh, they/them, Assistant Director, USC Ahmanson Lab
-
- 
-
-
-
-
-
-
-
-### we are continually in process, works in progress.
-
-Writing both as a representative of a community and as an individual greatly influenced by this community, and by so many other creators, thinkers, and teachers, I really wanted to document my thought processes and honor the many entangling threads that go into shaping a caring (coding) community. 
-
-It is not one gesture or one moment, but it is all of them as they build up together. Each thing we have done intentionally, and unintentionally, adds up to us. Sometimes it feels like it just *is*, has always been. Or it feels like the things we do to support it are so obvious they are not worth mentioning, or even worse, they are so obvious I don't know how to notice them, they are not obvious at all. This guide is an attempt to remind myself they matter, and to acknowledge how much they have supported me (and hopefully others along the way). Whatever those ephemeral things are that make this caring coding community go.
-
-This guide is a work in progress, trying to capture some intuitive wayfinding about how to learn and teach and explore and be together, especially in and through the things that draw us in that feel both challenging and fun, frustrating and rewarding. 
-
-By being drafted from scratch on a public site, the guide shows its rough edges before it is ready—a practice of vulnerability, an invitation for conversation. The site is built using Github, a code repository and version tracking platform, so that every past version of the text is archived. Readers can compare differences in the history [for example](https://github.com/sarahciston/codingcare/commit/5e1ef814d661f43027e3d0f15b5ba87415194cfe?diff=unified) line by line and comment on the text as it changes. This laid bare writing process enacts the Creative Code Collective value *progress not perfection*, which is mostly a reminder for myself.
-
 
 
 ### why we're here, upon reflection (a former manifesto)
@@ -552,85 +611,11 @@ When we say we, we write for the parts of ourselves that have been neglected or 
 
 
 
-## 2. we make room for each other
 
->"It's really reassuring to always come back to this environment of like, "Okay, you don't have to be that, you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code."**
->>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
-
-<!-- #### (brave spaces w Sultan?) -->
-
-<!-- Since Zoom Doom, we've been looking for ways to recreate the unique environment we'd built in person using (or building) other a/synchronous tools.  -->
-
-### we create ritual
-
-The examples I offer here are often in flux as the temperaments and conditions of our members change. Fundamentally, we create ways of being together and acknowledging each others common humanity and unique perspectives simultaneously. We mark the specialness of contact and connection. Often this happens by accident and then codifies (code-ifies!) into a pattern we keep. Try and adjust until you find what works for you!
-
-### ...and we ask after each other
-
->"We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other."
->>-Sarah Ahmed, *Living a Feminist Life*
-
-### we meet regularly
-
-weekly if possible, in person if possible, and we accommodate what's not always possible. We're flexible to the impossible and know we'll get back to it later. Like old friends you can pick up with after an indeterminate amount of time, no questions asked. Or old code that needs a break from you after troubleshooting for too long. A frequent, consistent cadence of meeting in person is best. It feels easeful. And when we can't, there is trust we'll get back to each other when we can. Without pressure or resentment or guilt. It's not meant to be another obligation on the calendar, but a reprieve. We help restore each other through co-presence. We defrag each other's mental hard disks through the process of communing.  
-
-Truth is, you don’t need to prepare much, just to start building community.
-
-**core group, self selecting, figuring out what it is. problem-membership, not prostheletizing. word of mouth. public space, what are you doing, can i join? no cap, joseph beuys** humility, self conscious self deprecating, not warranted. 
-
-### this literally *makes* the room for each other, creates the room we have together
-
-### we support snacks
-Seriously, everyone cites snacks as the number one item that keeps bringing students to our meetups. Snacks are magic. How do snacks do it? I don't know, ask snacks. Make sure you budget for snacks.
-
-Every inquiry into what makes our community thrive was a broken record: 
-
->"While this is a cliche food has always brought people together. Snacking together in the SCA basement brought out some of the best discussions and ideas I have entertained in college." 
->>—Ada Toydemir, they/them, MS Computer Science
-
->"I think the snacks are definitely a big draw in the beginning. They would still be now, except for covid."
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
-
->"I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it it puts it it levels the playing field, and it kind of brings a sense of equality. That's important."
->>—Samir Ghosh, they/them, Assistant Director, USC Ahmanson Lab
-
-Look for snacks that are computer keyboard friendly, nothing sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-so, and single servings that avoid too much plastic wrapping are ideal: popcorn, pretzels, satsumas, gummy worms. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
-
-As our meetings transitioned to virtual spaces and across timezones, snacks still held sway as a conversation starter. Then, on return to a campus strictly regulated with no-food policies and mask-wearing, our beloved snacks were off the table (under the table instead). Whether piled in the center of the table, dutifully taken outside, or discussed in their glaring absence, snacks represent the friendly core of the space and a reminder that we are not coding machines but fleshy bodies connected by our need to take breaks to digest and recharge. As we chew and chat, we digest and discuss what we're troubleshooting (both in code and life, it's all part of the processing).  
-<!-- As de facto official of the collective, I can report that I never saw any students indulge in snacks during our meetings within view of a campus security camera. -->
-
-### we open sessions with our shared playlist
-And it is on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now," which came to be when at our first meetup a quiet student piped up out of the blue with this amazing suggestion for our background tunes. I was blown away. And it has been our rallying call ever since. 
-
-A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g6F9RM0Osbhw7ONwxSJhy?si=Cr0nEeExQiKPUQI-l7-HCA) on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another humanizing way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community at large *and* when working on code. It's all connected! 
-
-### we start each session with show and tell
-
-Or Round Robin, or Check Ins, or Council Method, or some version of an opening gesture for our gathering that acknowledges each person, gives them a short couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise share first each visit.   
-
->"The terminal is cute. It's important to have a good relationship with your terminal." 
->(Ada)
-
-### we keep things loose
-
-It has been one of my biggest stresses about our Collective learning how to lead. Because leadership feels like a responsibility I take seriously, but also a spotlight or a pedestal I'm wary of, this leadership feels like a tightrope walk in which I try nervously to make sure everyone is comfortable, having fun, and learning—all without forcing anything or having it "look like" anything is happening at all.
-
-Of course, this does not work. That nervous strategy is riddled with stilted efforts of over-structured efforts leading to dead silence and loosey-goosey meandering conversations. Along the way I am continually learning the caring practices of facilitation as leadership, as being a vessel and a model. The space is a loose net—some structure is in fact necessary, though I was loathe to be the instigator of that structure at first. 
-
->>Elea: "Can I go on a tangent?" 
-
->>Sarah: "Always."
-
-GIFs, TikToks, whatever's your thing... what brings a smile to your face and a sense of levity to the experience? What can you connect around? How can we not take ourselves so seriously even as we engage in the serious business of reimagining the world? 
 
 
 
 <!-- [How to Fork a Book](https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c) by Sarah Ciston and Mark C. Marino , we talk about a "yes, and" ethos and add "Code Confessions" and "Code Commentaries." "Code Confessions reflect on our experiences starting to learn to program, while Code Commentaries do critical close-readings of source code, an approach that comes from the Critical Code Studies discipline. Code Confessions are opportunities to further humanize the process of writing code by talking about our embodied, emotional encounters with the process of programming: How it felt to work on this code or to encounter the same issues readers might during their practice. Meanwhile, Code Commentaries are opportunities to pursue the methods of Critical Code Studies by interpreting the meaning of the code on the page, line by line."   "we model how we as programmers feel about our own code. Extending the concept of comments in code, we take the opportunity to discuss the affective relationship to the journey that is programming, admitting to mistakes and acknowledging fears. These sections personalize the approach and dismantle the authoritarian hierarchy or boundary between knowledge “holder” and knowledge “seeker.” This aspect was essential to emphasize the ways we learn in community, revealing that the teacher programmer didn’t always know what they’re doing and may still find their way with a beginner’s mindset. The code confessions sections are expressions of humility in an effort to further welcome the newcomer. They stand opposed to encoded chauvinism, or the toxic brogrammer culture that can be so off-putting to new programmers, especially those who come from outside the dominant culture."-->
-
-
-
-
-[...]
 
 ### workshops and artist talks
 
@@ -662,14 +647,6 @@ GIFs, TikToks, whatever's your thing... what brings a smile to your face and a s
 * Merging theory and content with code and practice. Choosing tools that are ethically and conceptually grounded. 
 
 [...]
-
-
-### we all have skills to teach each other[^ccc] 
-
-### meet people where they are. don't assume knowledge or imply hierarchies of skills. we are not snobs about coding, scholarship, or other forms of knowledge.[^p5]
-
-
-
 
 ### all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality[^ccc]
 
@@ -706,8 +683,6 @@ Thank you to the individuals and organizations who developed these principles an
 
 >>"balance exploration with exploitation" (Montfort 20XX, 5)
 
->>"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)
-
 [^nepo]: Nepo, M. (2012). The Book of Awakening. 
 [^shane]: Shane, J. (2019). You Look Like a Thing and I Love You.
 
@@ -733,8 +708,17 @@ Thank you to the individuals and organizations who developed these principles an
 >>annatito, Critical Code Studies Working Group 2022
 
 
+06 Oct CCC
 
-## Acknowledgments 
+>>Ada: stumbled on it by chance, i get bored very easily, won't take projects unless i'm very excited about it. kind of trained me, started learning more music visualization and how i built up all the ..al the coding knowledge i have is 
+
+SC: learning to give your self permission even though there isn't a clear path. 
+
+>>Ada: improving from learning how to better look things up. read the documentation before, to know where to look when you ended something. making the referencing process faster. making reference sheets. straight copy, give credit, connect something new/make a change
+
+
+
+# Acknowledgments 
 
 [TK] Membership list and more information about CCC... [^Creative Code Collective](https://creativecodecollective.com)
 - OSACC
@@ -742,15 +726,6 @@ Thank you to the individuals and organizations who developed these principles an
 - Creative Code Berlin
 
 
-06 Oct CCC
-
-Ada: stumbled on it by chance, i get bored very easily, won't take projects unless i'm very excited about it. kind of trained me, started learning more music visualization and how i built up all the ..al the coding knowledge i have is 
-
-SC: learning to give your self permission even though there isn't a clear path. 
-
-Ada: improving from learning how to better look things up. read the documentation before, to know where to look when you ened something. making the referencing process faster. making reference sheets. straight copy, give credit, connect something new/make a change
-
->>"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." (Mercedes Bernard, @CrochetCodeCraft)
 
 </hr>
 
