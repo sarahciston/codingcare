@@ -244,7 +244,9 @@ Anywhere you can get serious about silliness is a space to expand.
 
 >"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it"[^shane] (Shane 2019, 4).
 
+### queer pirate mascots
 
+The Code Collective approach is perhaps best illustrated by the sailing band of misfits in the TV show *Our Flag Means Death*, who support each other, sew flags together, explore identity together, figure out their career goals together, and fumble new skills while going on adventures.
 
 ## 4. We all have skills to teach each other. 
 

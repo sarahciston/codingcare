@@ -92,6 +92,8 @@ How the [XXX] Brown Corpus, etc. leads to WordNet leads to ImageNet ([Crawford 2
 - It is is designed to operate without any one part. ([Amoore]())
 - It persists/perpetuates and amplifies and creates the cultural systems. ([]())
 
+>"This clustering of aesthetic information and stereotypes is at the heart of AI image generation systems. This is true whether we are asking for pictures of flowers (a generalization of all flowers) or butterflies (a generalization, a stereotype, of all butterflies.) But it raises unique questions about removing harmful representational biases. How do you remove real Sumatrans from Sumatraism? [...] We might say the “genre” of these style markers are haunted by images of similarly associated ideas. A category of information containing a set of harmless style effects can, it seems, contain residues of whatever those lingering tropes were used to depict." 
+>>—Eryk Salvaggio, "How Midjourney Reads a Mugshot"
 
 #### 1.1.2 how it could work
 

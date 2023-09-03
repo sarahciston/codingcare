@@ -1,20 +1,27 @@
 ---
 layout: post
 title: prospectus
-nav_order: 2
+nav_order: 1
 date: 31.03.2022 
 tags: [prospectus, dissertation]
 ---
 
-## Coding Care: Intersectional AI and Trans*formative Technocraft
+## Trans*formative Technocraft: Coding Care, Intersectional AI, and a Critical Field Guide
+<!-- ## Coding Care: Intersectional AI and Trans*formative Technocraft -->
 <!-- ## CODING.CARE: A Guidebook for Trans*formative TechnoCraft -->
 
 ### TO DO LIST
 
+- [ ] introduction write draft for Holly by 01.09.23. include unpacking language of "trans*formative technocraft"
+
 -[ ] add section to CCC site for projects, link to them in portions of the guidebook as grounding tangible items. 
--[ ] 
+
+- [ ] add debriefs from chaos camp, montenegro, e-werk, holga. Linz workshop. community building practices. 
 
 - one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
+
+
+
 
 ### chapter outline (fantasy table of contents)
 00. What is this document, What Is Coding Care [status:] 
@@ -308,3 +315,14 @@ Olson terms “naming information”  for “the creation of document representa
 Just as a machine learning model can only relate to the forms of information that fit information shaped to be computable, in a library catalog organized by decimal notation, says Olson, “the external organizing force [the notation system], rather than the contents [such as world languages], determines the correct shape. The ten pre-determined pigeonholes are ‘ideal compartments’ for classification. Dewey's focus is on the compartments, not on their content.” [13] 
 
 Schwarz, C. (2010). The Anarchist’s Tool Chest. Lost Art Press LLC.
+
+
+
+>"for the Broken Machine” in order to account for the differential experience of being positioned within and determined by patriarchy, of being understood as a technology that does not work properly." —Sharma (Harold Adams Innis argued that "the true message of any medium was the change in pace, pattern, and scale it introduced into human affairs.") 
+>"the idea of our contemporary social-political-economic system as an already-broken machine full of the incompatibly queer, raced, classed, and sexed broken- down machines is politically exciting for feminism."
+**>"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves."**
+>"the Broken Machine recognizes that to represent is also to be filed away."
+>"Broken Machines have capacity for others when others are drained because they seek and find communal care rather than return to those original power sources that are simultaneously draining."
+>"they plug into coalitions and recognize a division of labor within feminist struggle. This division of labor is capacity-building and guaranteeing: it recognizes that one cannot cover all bases simultaneously."
+>"being challenged by the machine world is one of patriarchy’s deepest fears. [...] We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution.
+Sharma.

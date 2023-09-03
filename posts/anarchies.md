@@ -33,18 +33,22 @@ By laying bare AI’s processes as tactile and fallible, I invite audiences to e
 ## #currentlyreading
 
 - Amoore, L. (2020). *Cloud Ethics*.
-- Asimov Institute. (2016). [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/).
-- Crawford, K., & Joler, V. (n.d.). [Anatomy of an AI System](http://www.anatomyof.ai).  
+~- Asimov Institute. (2016). [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/).~
+- Crawford, K., & Joler, V. (2018). [Anatomy of an AI System](http://www.anatomyof.ai).  
 - Dhaliwal, RS. (2022). "On Addressability, or What Even Is Computation?" *Critical Inquiry*, volume 49, number 1, Autumn 2022.
 - Ingold, T. (2015). *The life of lines*. Routledge.
-- Jaton, F. (2020). *The Constitution of Algorithms.* MIT. 
+~- Jaton, F. (2020). *The Constitution of Algorithms.* MIT. ~
 - Joque, J. (2022). *Revolutionary Mathematics.* Verso.
+- McPherson, T. (2018). *Feminist in a Software Lab: Difference + Design.* Harvard UP.
 - McQuillan, D. (2022). *Resisting AI*. Bristol UP. 
+- Raley, R. 
 - Reddy, A. (2022). "Artificial everyday creativity: creative leaps with AI through critical making." *Digital Creativity.*
 - Sedgwick, E. K., & Goldberg, J. (2012). "Making things, practicing emptiness." *The weather in Proust*. Duke UP.
 - Schwarz, C. (2010). *The Anarchist’s Tool Chest*. Lost Art Press.
 - Shanahan, Murray. (2022). "Talking about Large Language Models." arxiv.
 - Thorp, J. (2021). Living with Data.
+- Willis, H. (2016) *Fast Forward: The Future(s) of the Cinematic Arts.* Wallflower Press.
+
 
 >"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one’s expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." (Anuradha Reddy, Digital Creativity, 2022)
 >"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity"

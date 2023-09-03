@@ -11,6 +11,24 @@ tags: [notes, progress, misc, journal]
 # notes on research in progress
 <!-- # {{ page.title }} -->
 
+### 25 aug 23
+
+Suchman, L. A., & Trigg, R. H. (1993). Artificial intelligence as craftwork. 
+Dhaliwal, R. S. (2022). On Addressability, or What Even Is Computation? 
+Liu, Ani
+
+
+
+
+### 20 aug 23
+
+Reporting back from Chaos Communication Camp. It takes me a day to get acclimated, at first I think everyone is standoffish, in their own little clique world. I have to remind myself that I can go home as soon as my job is done if I want to. This helps. By the time I am giving my talk and the "leaving window" is available" I have acclimated to camping and to people and their ways. Maybe I am always this way in new spaces and noticing this makes it easier. 
+
+Chaos Camp takes delight in an idea taken to its extreme. In any kind of depth of knowledge they find joy. Anything blinky and buildy and weird and cooperative. This kind of pleasure is a fantasy we build together. 
+
+Spycraft. crafting, synthesizing the necessary handmade labor still required to engage impossibly scaled systems. 
+
+
 ### 17 mar 23
 
 "situated docs" software documentation as care practice, web to print
