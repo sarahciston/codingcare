@@ -1,6 +1,7 @@
 ---
 # layout: post
 title: coding care pocket guide
+permalink: codingcare
 nav_order: 3
 date: 08.06.2023
 tags: [tips, guide, handy, coding, zine, computers, programming]
