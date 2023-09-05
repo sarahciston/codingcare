@@ -36,7 +36,7 @@ By laying bare AI’s processes as tactile and fallible, I invite audiences to e
 ~- Asimov Institute. (2016). [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/).~
 - Crawford, K., & Joler, V. (2018). [Anatomy of an AI System](http://www.anatomyof.ai).  
 - Dhaliwal, RS. (2022). "On Addressability, or What Even Is Computation?" *Critical Inquiry*, volume 49, number 1, Autumn 2022.
-- Ingold, T. (2015). *The life of lines*. Routledge.
+- Ingold, T. (2015). *The Life of Lines*. Routledge.
 ~- Jaton, F. (2020). *The Constitution of Algorithms.* MIT. ~
 - Joque, J. (2022). *Revolutionary Mathematics.* Verso.
 - McPherson, T. (2018). *Feminist in a Software Lab: Difference + Design.* Harvard UP.
@@ -45,8 +45,8 @@ By laying bare AI’s processes as tactile and fallible, I invite audiences to e
 - Reddy, A. (2022). "Artificial everyday creativity: creative leaps with AI through critical making." *Digital Creativity.*
 - Sedgwick, E. K., & Goldberg, J. (2012). "Making things, practicing emptiness." *The weather in Proust*. Duke UP.
 - Schwarz, C. (2010). *The Anarchist’s Tool Chest*. Lost Art Press.
-- Shanahan, Murray. (2022). "Talking about Large Language Models." arxiv.
-- Thorp, J. (2021). Living with Data.
+- Shanahan, Murray. (2022). "Talking about Large Language Models." 
+- Thorp, J. (2021). *Living with Data.*
 - Willis, H. (2016) *Fast Forward: The Future(s) of the Cinematic Arts.* Wallflower Press.
 
 

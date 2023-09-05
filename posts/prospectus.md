@@ -25,10 +25,10 @@ tags: [prospectus, dissertation]
 
 ### chapter outline (fantasy table of contents)
 00. What is this document, What Is Coding Care [status:] 
-   1. approaches & theories
-   2. examples & practices in practice 
-   3. Coding needs an overhaul, can be rethought through care-ful, interdisciplinary, community, creative, craft-oriented practices to bring ethics and politics to code, 
-   4. to imagine new more equitable systems and bring those who can make them into the conversations that will allow them to be made, and also to bring 
+   1. to imagine new more equitable systems and bring those who can make them into the conversations that will allow them to be made, and also to bring 
+   2. Coding needs an overhaul, can be rethought through care-ful, interdisciplinary, community, creative, craft-oriented practices to bring ethics and politics to code, 
+   3. approaches & theories
+   4. examples & practices in practice 
 1. A Pocket Guide to Code Collective [**status: PARTIAL DRAFT** w ELO paper] (How To Guide: Creative Code Collective (a case study/how-to/lessons learned, with contributions from or interviews with members)
    1. qualitative: survey results, interviews 1:1 and written, live transcripts?
 2. Intersectional AI Toolkit [status:]

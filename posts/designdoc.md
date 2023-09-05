@@ -21,6 +21,7 @@ $$
 
 >"The database depends on the loss of the thing itself." -Tara McPherson, *Feminist in a Software Lab*
 
+
 >"They say, the language you speak is made up of words that are killing you." —Monique Wittig
 
 
@@ -436,3 +437,6 @@ language models are becoming ubiquitous but we don't know the data that is insid
 
 >"three modes of reading that can be engaged when studying datasets—a denotative reading (extrapolating the literal meaning of values in a dataset), a connotative reading (tracing the socio-political provenance of data semantics), and a deconstructive reading [of datasets] (seeking what gets Othered through data semantics and structure)." Poirier, 2021 @poirierReadingDatasetsStrategies2021a (this work, and that of mimi onuoha and others, does the deconstructive, but also reconstructive). 
 
+
+>"The significance of this transformation from rules-based determinants to generative models of the meaning of a text is that the algorithms are no longer seeking exact one-to-one matches of semantic meaning; rather, they are building predictive models of what might come next. They are, in short, inferring future worlds from their exposure to text." 
+– Louise Amoore, Cloud Ethics p89

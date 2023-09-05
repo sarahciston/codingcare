@@ -55,9 +55,8 @@ We are subject to it whenever we lend our data by clicking terms of service pop-
 
 Broadly we call these data subjects. I distinguish between data subjects, whose information is captured in datasets that train machine learning models, and data subjectees, who are interpellated by and bear the impact of those models when implemented as part of AI systems. In the sovereignty sense, we are all subjects of the Data State, and we are all subject to its gaze as data subjectees. 
 
->**"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves."** @sharmaManifestoBrokenMachine2020
 
->"being challenged by the machine world is one of patriarchy’s deepest fears. [...] We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution. @sharmaManifestoBrokenMachine2020
+>"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution." @sharmaManifestoBrokenMachine2020
 
 
 
@@ -74,24 +73,26 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 #### We Need Creative–Critical–Caring Approaches 
 
-<!-- ### Artistic experimentation -->
+Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins who are most capable of addressing the urgent issues 
+
+<!-- #### Artistic experimentation -->
 
 I’m interested in how artistic experiments can challenge paradigms in machine learning, data science, and technology more broadly. 
 
-I have found artistic research practice can interrogate systems and imagine new ones. For me, it combines rigorous scholarly investigation, deep community building and activism, and creative play in ways that can connect to broader non-academic audiences. 
+I have found artistic research practices can interrogate systems and imagine new ones. For me, it combines rigorous scholarly investigation, deep community building and activism, and creative play in ways that can connect to broader non-academic audiences. 
 
 Art has been the space where I’m able to unpack complex ideas for myself, because I can treat them more freely as artistic materials. It’s where I’m able to follow instinct and feel into how my tools, platforms, and forms shape their outputs and outcomes. 
 
-It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can also experiment to shape new [XXXX].
+It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
+
 
 ## Trans\*formative
 
-* **trans*formative**: emergent, embedded, justice-oriented, ethical, community practices
+Trans\*formative here means emergent, embodied, embedded practices. It means justice-oriented, community-oriented, process-oriented practices. 
 
+'Transformative' includes transformative justice, a movement which recognizes that oppression is at the root of harmful technological systems and argues that acknowledging this oppression is essential to addressing it. It moves beyond punative, carceral logics to imagine and create different, even healing systems [cite]. Reparative and restorative acts are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBT histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions].
 
-'Transformative' includes transformative justice, the movement which recognizes that oppression is at the root of harmful technological systems and argues that acknowledging this oppression is essential to addressing it and to imagining and creating different, even healing systems. Repair and restoration are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBT histories are fraught. Instead, a broader sense of transformation and a resonance with trans\*-inclusive approaches to gender, sexuality, identity, and imaginative futures seems more fitting this project, its participants, and its intentions. 
-
-
+Trans\*formative is an active, prefigurative [footnote] stance, meant to [XXXX WHAT ELSE DOES TRANSFORMATIVE DO?] 
 
 #### Transformers
 
@@ -101,36 +102,44 @@ Transformers are the latest, but won't be the last, in a long string of systems 
 
 The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate context through a mechanism called "self-attention" that examines the word-units surrounding each word-unit they interpret. We need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference rather than erase it.  
 
-#### Trans*
+#### Trans\*
 
-My work is about trans\*lation and trans\*formation. It wants to imagine trans\*formers otherwise, at a slant, for queer (as in fuck you, as in QueerOS, as in queer-enough) systems. 
+To move from the "transformer" model architecture to trans*formative tech and technocraft means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in it, speaking nearby, walking beside, realizing what of it constitutes us or supports us.
+
+This work is about trans\*lation and trans\*formation. It wants to imagine trans\*formers otherwise, at a slant — for queerer systems (queer as in fuck you, as in QueerOS, as in queer-enough). 
 
 >"queer as [in] being about the self that is at odds with everything around it and has to invent, create and find a place to speak, and to thrive and to live"
 >>—bell hooks
 
-To move from the "transformer" model architecture to trans*formative tech and technocraft means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in it, speaking nearby, walking beside, realizing what of it constitutes us or supports us.
+Trans\* can be inclusive, fluid, in motion, outside binary logics, self-identifying, evolving, emergent, embodied. Trans\*formative TechnoCraft imagines systems that might be the same, that trans\*cend the logics built up by capitalist, militaristic, racist, ableist, misogynistic lineages. 
 
-Trans\* is inclusive, fluid, in motion, outside binary logics, self-identifying, evolving, emergent, embodied. The asterisk after 'trans' longs for anything that follows; it opens up space for the layered and undefinable becoming. 
+This approach to technological trans\*lation and trans\*formation is without prerequisite. We are already queer-enough, coder-enough, valued-enough to participate in continually becoming. We are "always-already programming" 
 
-#### *
+#### \*
 
-The asterisk is the interstitial. It is the footnote that defines our terms but and also it is the invitation to extend beyond any definition given. It is the multiplier and the instigator, the pivot and the punctum and the portal.
+The asterisk after 'trans' longs for anything that follows; it opens up space for the layered and undefinable becoming. It creates welcoming space for anyone who wonders if you are included, wonders what "this whole thing" is about (be it gender, sexuality, technology, other), wonders if you have anything to contribute. 
+
+Combined with trans, or at large, the asterisk is the interstitial. It is the footnote that defines our terms but and also it is the invitation to extend beyond any definition given. It is the multiplier and the instigator, the pivot and the punctum and the portal.
 
 It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away.
 
-The asterisk is risk, is star, is A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. 
+The asterisk is risk (just a step), is star, is A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. 
 
 #### Formative
 
-Formative experiences shape us. They are the foundations we can't see, the infrastructures of our being. I am interested in the formative aspects of sociotechncial systems, produced in entangled loops of human networks, codified language, and [XXX] material. 
+<!-- Foundations -->
 
-Each of the works asks: What are the foundational assumptions that go into the design and implementation of a dataset, a machine learning system, or a programmer themselves? Of any technology or way of being? Can I parse out the lenses applied and question what other lenses (metaphors) might make space for something else?
+What is formative shapes us. These are the foundations we can't see, the scaffolding of our thought, the infrastructures of our being. I am interested in the formative aspects of sociotechncial systems, produced in entangled loops of human networks, codified language, and rare earth.  
+
+Each of these works asks: What are the foundational assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? Of any technology or way of being? They tease out the metaphors applied and question what other metaphors make space for other forms.
+
+<!-- Form Content Loops -->
 
 Form in-forms content. The shape of the container decides what can fill it. If I know how to make forms, or even platforms, not only content to plug in, I am more free to work the two in iterative, ongoing relation. This is how I knead the dough — form and content and form and content and form. 
 
 In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain. It in-forms itself into content as I try to bring forth some kind of form. 
 
-Computation requires information to take on its formation, its orderly fashion. As Sarah Sharma reminds the Broken Machines, "to represent is also to be filed away." @sharmaManifestoBrokenMachine2020 To understand through computation is to reduce to logics of  categorization. @crawfordAtlasAIPower2021 This is why we must imagine new forms. And this is why it is so hard to imagine new forms. 
+Computation requires information to take on its formation, its orderly fashion. It requires contortion to represent us. Sarah Sharma reminds the Broken Machines: "to represent is also to be filed away." @sharmaManifestoBrokenMachine2020 To understand through computation is to reduce to logics of categorization. @crawfordAtlasAIPower2021 This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
 ## Techno
 
@@ -200,8 +209,8 @@ Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 
 #### What craft allows
 
->"Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance conﬁdence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signiﬁes the potential to transform AI from a mere tool to a hybrid material for artiﬁcial everyday creativity practices."
->>—Anuradha Reddy (2022) "The Internet of Towels (2022) @reddyArtificialEverydayCreativity2022
+>"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one's expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." (Anuradha Reddy, Digital Creativity, 2022 "The Internet of Towels (2022) @reddyArtificialEverydayCreativity2022)
+>"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity" @reddyArtificialEverydayCreativity2022
 
 #### Craft means taking care and care-taking
 
@@ -264,8 +273,22 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 
 ### NO: *Tactical Refusals & Reverse Portals*
 
+Tactical media are works that resist, revise, reverse their materials to engage political [potentials]. In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *with* perceptions of [women and others as] outliers and errors, in order to work *against* the systems that frame them as such: **"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves."** @sharmaManifestoBrokenMachine2020
+
+>As "an investment in a multiplicity of actions, practices, performances, and interventions" "tactical media activities provide models of opposition rather than revolution and aim to undermine a system that, as de Certeau reminds us, 'itself remains intact.'" @raleyTacticalMedia2009
+
+David Garcia and Geert Lovink describe tactical media as "An existential aesthetic. An aesthetic of Poaching, tricking, reading, speaking, strolling, shopping, desiring. Clever tricks, the hunter's cunning, maneuvers, polymorphic situations, joyful discoveries, poetic as well as warlike." @garciaGarciaLovinkABC
+
+>"learning to inhabit the world in a better way [...] the role of artworks is no longer to form imaginary and utopian realities, but to actually be ways of living and models of action within the existing real" (Bourriaud in Raley Tactical Media)
+
+>"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley R. "Dataveillance and Countervailance in @gitelmanRawDataOxymoron2013)
+
+>"Interventionist art projects such as these work directly against the forces of interpellation with a counterimage of a dataveillance regime that makes that regime perceptible—and if it is perceptible then it becomes possible to work concretely toward political transformation." (Raley R. "Dataveillance and Countervailance in @gitelmanRawDataOxymoron2013)
+
 - InnerVoiceOver // On Kawara
 - Ladymouth // Pipilotti Rist
+
+<!-- Aisling Kelliher:  1997, media artists and activists David Garcia and Geert Lovink defined tactical media as “media of crisis, criticism and opposition ." Over twenty years later, tactical media could also include corporate astroturfing, espionage bot farming, and mediated data nihilism for the lulz. Disentangling intentions and outcomes, tactics and strategies, and mediators and marks  -->
 
 ### TRANS: *Unsupervised Pleasures: Conscientious Datasets for Queer Futures*
 
