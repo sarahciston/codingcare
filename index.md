@@ -16,13 +16,13 @@ Here's where I'll be tinkering for a few years with a dissertation...
 
 # Trans*formative TechnoCraft
 
-1. [Critical Introduction](../posts/intro)
-2. CRAFT: [Coding.Care](../posts/guide)
+1. [Critical Introduction](posts/intro)
+2. CRAFT: [Coding.Care](/posts/guide)
 3. FORMATIVE: [A Critical Field Guide to Working with Machine Learning Datasets](https://knowingmachines.org/critical-field-guide) & [Inclusive Datasets Research Guide]()
 4. \*: Interstitial Portals
-5. TECH: [Intersectional AI Toolkit]()
+5. TECH: [Intersectional AI Toolkit](https://intersectionalai.com)
 6. (NO): Tactical Refusals & Reverse Portals
-7. TRANS: [Unsupervised Pleasures & Critical AI](../posts/unsupervised)
+7. TRANS: [Unsupervised Pleasures & Critical AI](posts/unsupervised)
 
 <!-- <span class="purple">Learning programming is often intimidating and riddled with false starts,</span> which can further marginalize the folks whose perspectives are most necessary in order to face the challenges technoculture presents. This guidebook offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in 2019 for emerging media artists, writers, and non-engineers to think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 
 
