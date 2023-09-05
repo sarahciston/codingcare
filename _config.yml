@@ -13,12 +13,12 @@ baseurl: /codingcare
 links: 
   # "Get this dissertation in your Inbox (TK)":
     # - "mailgun-setup-TK"
-  "Intersectional AI Toolkit": 
-    - "https://intersectionalai.com"
-  "Tethered.Network": 
-    - "https://sarahciston.github.io/tethered"
-  "Get your pal a QUEER LOVE zine": 
-    - "https://queerlovezine.com/"
+  # "Intersectional AI Toolkit": 
+  #   - "https://intersectionalai.com"
+  # "Tethered.Network": 
+  #   - "https://sarahciston.github.io/tethered"
+  # "Get your pal a QUEER LOVE zine": 
+  #   - "https://queerlovezine.com/"
   # "Get yourself a shirt":
     # - "https://www.bonfire.com/store/coding-care/"
   "More projects": 

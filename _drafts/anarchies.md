@@ -33,7 +33,9 @@ By laying bare AI’s processes as tactile and fallible, I invite audiences to e
 ## #currentlyreading
 
 - Amoore, L. (2020). *Cloud Ethics*.
+- Ahmed, S. "Queer Use"
 ~- Asimov Institute. (2016). [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/).~
+- Cox, G. and Soon, W. (2020). Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press.
 - Crawford, K., & Joler, V. (2018). [Anatomy of an AI System](http://www.anatomyof.ai).  
 - Dhaliwal, RS. (2022). "On Addressability, or What Even Is Computation?" *Critical Inquiry*, volume 49, number 1, Autumn 2022.
 - Ingold, T. (2015). *The Life of Lines*. Routledge.

@@ -314,7 +314,7 @@ Olson terms “naming information”  for “the creation of document representa
 “Yet in imposing controlled vocabulary we construct both a limited system for the representation of information and a universality/diversity binary opposition. Our systems seem transparent in Henri Lefvebre's use of the term (1991, 28)——they appear unbiased and universally applicable——but they actually hide their exclusions under the guise of neutrality. Not surprisingly, this fundamental presumption on which our practice rests disproportionately affects access to information outside of the cultural mainstream and about groups marginalized in our society“
 Just as a machine learning model can only relate to the forms of information that fit information shaped to be computable, in a library catalog organized by decimal notation, says Olson, “the external organizing force [the notation system], rather than the contents [such as world languages], determines the correct shape. The ten pre-determined pigeonholes are ‘ideal compartments’ for classification. Dewey's focus is on the compartments, not on their content.” [13] 
 
-Schwarz, C. (2010). The Anarchist’s Tool Chest. Lost Art Press LLC.
+
 
 
 
@@ -326,3 +326,21 @@ Schwarz, C. (2010). The Anarchist’s Tool Chest. Lost Art Press LLC.
 >"they plug into coalitions and recognize a division of labor within feminist struggle. This division of labor is capacity-building and guaranteeing: it recognizes that one cannot cover all bases simultaneously."
 >"being challenged by the machine world is one of patriarchy’s deepest fears. [...] We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution.
 Sharma.
+
+
+
+
+
+Ahmed, S. X. “Queer Use.”
+
+Cox, G. and Soon, W. (2020). Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press.
+
+Douglass, J. (2021). ELO Conference Presentation on Writers’ GitHub Practices.
+
+Nardi, Bonnie. (1993). A Small Matter of Programming.
+
+Piepmeier, A. (2009). Girl Zines: Making Media, Doing Feminism. NYU Press.
+
+Schwarz, C. (2010). The Anarchist’s Tool Chest. Lost Art Press LLC.
+
+Vee, Annette. (2017). Coding Literacy.
