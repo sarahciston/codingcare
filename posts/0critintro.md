@@ -1,8 +1,9 @@
 ---
 layout: post
+permalink: intro
 title: critical introduction
 nav_order: 2
-date: 19.08.2023
+date: 05.09.2023
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
@@ -30,8 +31,8 @@ Trans*formational TechnoCraft argues for the essential entanglement of critical 
 
 ### We Need Intersectional Critical AI 
 
->""I’m stuck here inputting and outputting the data of a story I can’t change." 
->>(Italo Calvino "The Burning of the Abominable House 1976)
+>"I’m stuck here inputting and outputting the data of a story I can’t change." 
+>>(Italo Calvino "The Burning of the Abominable House" 1976)
 
 With every hype, the anti-hype: 
 
@@ -138,6 +139,8 @@ Techno-solutionist... Techno-utopian... Techno-dystopian...
 
 Techno...music? Yes, always take dance breaks.
 
+Techno means a plethora of prefix possibilities and digital-analog hybrids (think what "cyber-" was to the '90s). Also systems-oriented, bubbling science experiments, project-driven not damage-centered.
+
 >"This possibility of creating directed, coordinated, and controlled sets of techniken that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." @dhaliwalAddressabilityWhatEven2022
 >"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries." Address means you are locatable in space, means you are reachable. @dhaliwalAddressabilityWhatEven2022
 
@@ -182,6 +185,8 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
 >"as though all the ostensible reasons and motivations underlying their development had merely provided occasions for the emergence of a matrix which Gibson's novel was nudging into place; as though the present was being reeled into a future which had always been guiding the past, washing back over precedents completely unaware of its influence." (@plantZerosOnes1998, p. 13)
 
 ### Craft
+
+* **craft**: material, iterative, process-oriented, handmade, embodied, tinkering
 
 And **TechnoCraft** is the combo of historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — with the aspects of technology which get overlooked, like the contributions to the materiality of tech from Women of Color in the global majority, and move slow and fix things, capacities for repair and air and error and poesis in the techne. 
 
