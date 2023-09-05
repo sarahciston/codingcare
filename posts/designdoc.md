@@ -1,6 +1,6 @@
 ---
 # layout: post
-permalink: designdoc
+permalink: unsupervised
 title: unsupervised pleasures
 nav_order: 6
 # date: 30.09.2022 

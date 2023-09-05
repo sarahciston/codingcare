@@ -17,11 +17,11 @@ First rule of Zine Club is what happens in Zine Club gets shared widely and enjo
 
 The Coding Care Zine Lab & Lounge will be a cozy creative space to share thoughts on technology through writing, drawing, making, and coding zines. Read works from the Intersectional AI Toolkit, MA+P Zine Club and friends, plus contribute your own. We all have skills to teach each other.
 
-Come hang out on *29 Apr 2022, 6PM Onward* 💜
+<!-- Come hang out on *29 Apr 2022, 6PM Onward* 💜 -->
 
 ## [code collective summer lab intensive](https://creativecodecollective.github.io/posts/summerlab)
 
-## [code collective fall meetups](https://creativecodecollective.github.io/) are Thursdays, 10a-12p Pacific
+## [code collective fall meetups](https://creativecodecollective.com/) are first and third Tuesdays, 10a-12p Pacific
 
 {{ include.var }}
 

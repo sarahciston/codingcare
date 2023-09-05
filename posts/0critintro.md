@@ -24,10 +24,14 @@ To build safer, more equitable AI systems, we need stronger creative–critical 
 
 ## Creative–Critical–Care Entanglements
 
-Trans*formational TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
+Trans*formative TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
 
 >"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." 
 >>—Ursula M. Franklin @franklinRealWorldTechnology2004 
+
+🖼 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when <span class="purple">learning programming is so often intimidating and riddled with false starts,</span> which can further marginalize those whose perspectives are most necessary in order to face the challenges technoculture presents. 
+
+T
 
 ### We Need Intersectional Critical AI 
 
@@ -259,6 +263,16 @@ In *Coding.Care* I detail five years of engaging [XXX]
 
 >Code Collective is a distinctive community of practice and pedagogical space that welcomes and supports many kinds of learners. For almost five years, this diverse hack lab has hosted workshops and hybrid-format meetings, while growing and shifting to meet the needs of our community—from pandemic support to alumni programming. The Collective unites students who may have zero technical experience with those who have lots—and values their experiences equally, with the mantra: "We all have something to teach each other." Through the Collective’s intimidation-free, learner-led, process-oriented approach, it theorizes and models caring community building and innovative university lab space, plus non-academic community workshops that can create knowledge transfer across disciplinary and social strata of all kinds. 
 *I have adapted this format to guest faculty roles and workshops at Ars Electronica, Transmediale, Mozilla Festival, Salzburg International Summer Academy of Fine Arts, and elsewhere.* 
+
+*Coding.Care* offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in early 2019 for emerging media artists, activists, writers, makers, and not-yet-engineers to think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 
+
+Here, we see creative-critical code as a holistic community practice. This guidebook looks at a variety of the strategies, platforms, and tools we have explored and developed. It discusses how practices in the Collective—including project-oriented skillbuilding, co-teaching/co-learning, and snacks (always snacks)—embody its <span class="purple">guiding values, such as "scrappy artistic strategies not perfect code" and "collaboration not competition."</span> It also discusses some snags and lessons learned from our efforts building the now 3+ years-old community, like how our practices evolved through the shift to online platforms during the pandemic and the subsequent shift to hybrid collaborations. It draws on existing methods from Critical Code Studies and Intersectional queer, feminist, anti-ableist, and anti-racist theory; and it makes connections to similar organizations like Creative Code Berlin, Varia, and p5.js. 
+
+In terms of impact, the guide addresses the ways students report these values and practices have shaped them as emerging makers and thinkers. Personally, even beyond my experiences as facilitator, I have found this community to be the strongest influence on my work. <span class="purple">Creative Code Collective has become a joyful space for creative risk-taking that nourishes my own practice.</span>
+
+In sum, Creative Code Collective positions itself within an <span class="purple">ethics of coding care</span>—grounded in shared embodied knowledge, embedded co-creation, and programming with and for community. It tenderly proclaims: "We all have something to teach each other." Coding is now an essential literacy, but this guidebook calls for reaching beyond the limited literacy offered by the STEM–paradigm that supposedly "anyone can join." Rather, Coding.Care reimagines technoculture as truly being for anyone—to understand, impact, and intervene in. 
+
+
 
 LEARNING GOALS: Through Coding Care, understand how to  
 
