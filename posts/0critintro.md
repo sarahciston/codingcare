@@ -30,9 +30,13 @@ Trans*formational TechnoCraft argues for the essential entanglement of critical 
 
 ### We Need Intersectional Critical AI 
 
+>""I’m stuck here inputting and outputting the data of a story I can’t change." 
+>>(Italo Calvino "The Burning of the Abominable House 1976)
+
 With every hype, the anti-hype: 
 
->"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'." (Frieder Nake "There Should Be No Computer Art" 1971) 
+>"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'." 
+>>(Frieder Nake "There Should Be No Computer Art" 1971) 
 
 Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individual white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. 
 
@@ -52,13 +56,12 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 #### We Need Creative–Critical–Caring Approaches 
 
-Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins who are most capable of addressing the urgent issues 
+Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins, who are most capable of addressing the urgent issues facing technology. These issues are not new but have been considered by a wide range of communities with different types of knowledge for centuries. Many are calling for that knowledge to be applied here. [cite][indigenous, queer, other applications of AI]
 
+Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations. [cite][Vee, Abbate, Hicks]
 
 Reunite the concepts of programmer and user that have been artificially divorced [see "always–already programming" Melanie Hoff @AlwaysalreadyprogrammingMd and "end-user programming" Bonnie Nardi @nardiSmallMatterProgramming1993]
 
-
-<!-- A mobius loop -->
 
 <!-- #### Artistic experimentation -->
 
@@ -70,8 +73,9 @@ Art has been the space where I’m able to unpack complex ideas for myself, beca
 
 It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
 
+## What Is Trans\*formative TechnoCraft?
 
-## Trans\*formative
+### Trans\*formative
 
 Trans\*formative here means emergent, embodied, embedded practices. It means justice-oriented, community-oriented, process-oriented practices. 
 
@@ -128,7 +132,7 @@ In this way, the material I work with also in-forms what I make, through its ins
 
 Computation requires information to take on its formation, its orderly fashion. It requires contortion to represent us. Sarah Sharma reminds the Broken Machines: "to represent is also to be filed away." @sharmaManifestoBrokenMachine2020 To understand through computation is to reduce to logics of categorization. @crawfordAtlasAIPower2021 This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
-## Techno
+### Techno
 
 Techno-solutionist... Techno-utopian... Techno-dystopian... 
 
@@ -177,15 +181,12 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
 
 >"as though all the ostensible reasons and motivations underlying their development had merely provided occasions for the emergence of a matrix which Gibson's novel was nudging into place; as though the present was being reeled into a future which had always been guiding the past, washing back over precedents completely unaware of its influence." (@plantZerosOnes1998, p. 13)
 
-## Craft
+### Craft
 
 And **TechnoCraft** is the combo of historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — with the aspects of technology which get overlooked, like the contributions to the materiality of tech from Women of Color in the global majority, and move slow and fix things, capacities for repair and air and error and poesis in the techne. 
 
 
-#### Techno
-
-
-### Hand scale, accessibility
+#### Hand scale, accessibility
 
 Craft does not scale, but can be used in resistance to scale. Using handmade, hand labor is one very important tactic still available to tackle the seemingly insurmountable scale of giant datasets we are living under the regime of now. 
 
@@ -238,10 +239,10 @@ Sustaining feminst servers takes "years of intense collective learning" (Kleesat
 
 #### Reinforcement Learning with Human Feedback
 
-Or (Human) Reinforcement Learning with Machine Feedback
+Reversed: (Human) Reinforcement Learning with Machine Feedback
 My workshops at Ars, Moz, USC
 
-## def main():
+## def main(): What's Included
 
 Each section of Trans\*formative TechnoCraft offers an enactment of this thinking from a different angle, combining to enact the ethics and tactics described above. Together these public-facing resources attempt to provide plainspoken translations of technical, aesthetic, and ethical concepts in approachable zine formats, in order to support both AI insiders and marginalized outsiders in understanding the urgency of the issues facing automated technologies and the necessity of each other’s skill sets in facing those issue. 
 
