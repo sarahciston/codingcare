@@ -1,10 +1,9 @@
 ---
 # layout: post
 permalink: designdoc
-title: queering corpora
+title: unsupervised pleasures
 nav_order: 6
 # date: 30.09.2022 
-$$
 # tags: [design]
 ---
 
