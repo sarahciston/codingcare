@@ -10,8 +10,8 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 1. This introduction
 2. CRAFT: Coding.Care
-3. FORMATIVE: Critical Field Guide
-4. \* Interstitial portals
+3. FORMATIVE: Critical Field Guide & Inclusive Datasets Research Guide
+4. \*: Interstitial portals
 5. TECH: Intersectional AI Toolkit
 6. (NO): Tactical refusals & reverse portals
 7. TRANS: Unsupervised Pleasures & Critical AI (preliminary?)
@@ -19,61 +19,46 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Trans*formative Tech(no)craft
 
-
 To build safer, more equitable AI systems, we need stronger creative–critical coding communities. To build these communities, we need approachable, critical perspectives on AI systems. Both efforts cannot exist without each other.
 
 ## Creative–Critical–Care Entanglements
 
-Trans*formational TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful automated systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
+Trans*formational TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
 
-These public-facing resources provide accessible translations of technical, aesthetic, and ethical concepts, in approachable zine formats, in order to support both AI insiders and marginalized outsiders understanding the necessity of each other’s skill sets. 
-
-The research foundational to this artistic practice is a critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. 
-
-<!-- A mobius loop -->
-
+>"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." 
+>>—Ursula M. Franklin @franklinRealWorldTechnology2004 
 
 ### We Need Intersectional Critical AI 
 
-<!-- #### Data subjectees -->
-
-Many have written about the 
-
+With every hype, the anti-hype: 
 
 >"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'." (Frieder Nake "There Should Be No Computer Art" 1971) 
 
-Such questions about labor and creativity in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* Therefore such questions also emerge from centuries of colonialized framings of 'man' and the idealized, individual white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. 
+Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individual white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. 
 
-AI hype describes machine learning systems as impenetrable black boxes. It designs the interfaces with which we engage its tools, it claims the proprietary restrictions that hide its data (our data), and it influences the regulations that keep its power in the hands of a limited few. 
+AI hype describes machine learning systems as impenetrable black boxes. It designs the interfaces with which we engage its tools, it claims the proprietary restrictions that hide its data (our data), and it influences the regulations that keep its power in the hands of a select few. We only break out of those boxes when we refuse to engage on those terms. 
 
+Automated decision-making systems disproportionately harm the marginalized majority. We are subject to it whenever we lend our data by clicking terms of service pop-ups to make them go away and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our vulnerability in these moments is exploited and profited on — from testing biometric facial technologies in refugee camps @neddenBiometrieGetestetMillionen2017 to reinforcement learning reliant on AI chatbot user responses. Many amazing researchers have highlighted the increasing impacts of AI systems and surveillance capitalism [footnote cite Browne, Gebru, et al]. 
 
+The task of Critical AI researchers and makers is to engage these systems as sociotechncial objects embedded in their historical, social, context. We must be "situated in proximity to the thing itself, cultivating some degree of participatory and embodied expertise, whether archival, ethnographic, or applied (Raley & Rhee, 2022 @raleyCriticalAIField2023). This requires interdisciplinary and intersectional perspectives. 
 
+Kimberlé Crenshaw's iconic analysis of power, called Intersectionality,@crenshawDemarginalizingIntersectionRace1989 "critiques systems of power and how those systems structure themselves to impact groups and individuals unequally." @cooperIntersectionality2016 
 
-We are subject to it whenever we lend our data by clicking terms of service pop-ups to make them go away and whenever we pass through borders, banks, and bureaucracies of any kind. [XXX][surveillance capitalism, ariana's work]
-
-
-
-Broadly we call these data subjects. I distinguish between data subjects, whose information is captured in datasets that train machine learning models, and data subjectees, who are interpellated by and bear the impact of those models when implemented as part of AI systems. In the sovereignty sense, we are all subjects of the Data State, and we are all subject to its gaze as data subjectees. 
-
-
->"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution." @sharmaManifestoBrokenMachine2020
-
-
-
-<!-- #### What is Intersectional Critical AI -->
-
-Automated decision-making systems disproportionately harm the marginalized majority. The task of Critical AI researchers and makers is to engage these systems as sociotechncial objects embedded in their historical, social, context. We must be "situated in proximity to the thing itself, cultivating some degree of participatory and embodied expertise, whether archival, ethnographic, or applied (Raley & Rhee, 2022 @raleyCriticalAIField2023). This requires interdisciplinary and intersectional perspectives. 
-
-Kimberlé Crenshaw's iconic analysis of power: @crenshawDemarginalizingIntersectionRace1989
-Intersectionality "examines and critiques systems of power and how those systems structure themselves to impact groups and individuals unequally." @cooperIntersectionality2016
-
+Intersectionality can reveal the human costs of finding ourselves caught within these algorithmic systems – their proliferating data and supporting material infrastructures, as well as their consolidating power and supporting sociocultural infrastructures. Their power is differential by design. Conversations about AI fairness, transparency, explainability, ethics, public good, and the various hype cycles of each new technology are grossly incomplete without intersectional analyses of power and intersectional tactics of (and beyond) equity and inclusion. No change *about* us *without* us. 
 
 As industry implementations of so-called intersectional tech reduce these complex concepts into flattened ideas of fairness and representation @ovalleFactoringMatrixDomination2023a, we need multimodal, polyvocal, experimental approaches that cut through the technological solutionism. @cistonIntersectionalAIEssential2019 
 
+>"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution." @sharmaManifestoBrokenMachine2020
 
 #### We Need Creative–Critical–Caring Approaches 
 
 Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins who are most capable of addressing the urgent issues 
+
+
+Reunite the concepts of programmer and user that have been artificially divorced [see "always–already programming" Melanie Hoff @AlwaysalreadyprogrammingMd and "end-user programming" Bonnie Nardi @nardiSmallMatterProgramming1993]
+
+
+<!-- A mobius loop -->
 
 <!-- #### Artistic experimentation -->
 
@@ -92,15 +77,17 @@ Trans\*formative here means emergent, embodied, embedded practices. It means jus
 
 'Transformative' includes transformative justice, a movement which recognizes that oppression is at the root of harmful technological systems and argues that acknowledging this oppression is essential to addressing it. It moves beyond punative, carceral logics to imagine and create different, even healing systems [cite]. Reparative and restorative acts are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBT histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions].
 
-Trans\*formative is an active, prefigurative [footnote] stance, meant to [XXXX WHAT ELSE DOES TRANSFORMATIVE DO?] 
+Trans\*formative is an active, prefigurative [footnote] stance. It aligns more with processing than its synonym programming, as a more embodied crossover between computational and cognitive, digital and digestive practices. Processing means both working through trauma and central processing unit. It means both works-in-process and algorithmic processes. Let's inspect further...
 
 #### Transformers
 
-Transformers are the kinds of machine learning architectures currently being employed to create large language models. They are good at digesting large clumps of text, images, video (each as numbers) and reconstituting them. Their parts are called encoders and decoders, and it's often said that we don't know what exactly is going on in these hidden layers. But I think it is more interesting that *they* do not know what is going on in these hidden layers of their own architecture. While they process and produce meaning (input and output), they are not "aware" of the meaning of the content they are processing along the way. 
+Transformers are the kinds of machine learning architectures currently being employed to create large models like ChatGPT and Stable Diffusion. They are good at digesting large clumps of text, images, video (each as numbers) and reconstituting them. Their main parts are called encoders and decoders, and it's often said that we don't know what exactly is going on in these hidden layers. But I find it  more interesting that *they* do not know what is going on in these hidden layers of their own architecture. While they process and produce meaning (input and output), they are not "aware" of the meaning of the content they are processing along the way. 
 
-Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known. 
+Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known. [cite]
 
-The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate context through a mechanism called "self-attention" that examines the word-units surrounding each word-unit they interpret. We need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference rather than erase it.  
+The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate context through a mechanism called "self-attention" that examines the word-units surrounding each word-unit they interpret. @vaswaniAttentionAllYou2023 We need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference rather than erase it.  
+
+<!-- each of these para could be expanded. in critAI-genAI paper? -->
 
 #### Trans\*
 
@@ -143,27 +130,44 @@ Computation requires information to take on its formation, its orderly fashion. 
 
 ## Techno
 
-Techno-solutionist
-Techno-utopian
-Just Techno
+Techno-solutionist... Techno-utopian... Techno-dystopian... 
 
-Yes, also let's dance. Always take dance breaks.
+Techno...music? Yes, always take dance breaks.
 
-
-#### Tech is TechNO (refusal)
-
->"This possibility of creating directed, coordinated, and controlled sets of techniken that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantumthus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." @dhaliwalAddressabilityWhatEven2022
+>"This possibility of creating directed, coordinated, and controlled sets of techniken that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." @dhaliwalAddressabilityWhatEven2022
 >"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries." Address means you are locatable in space, means you are reachable. @dhaliwalAddressabilityWhatEven2022
+
+#### Tech is TechNO (Refusal, Tactical Media)
 
 >"An anti-fascist approach to AI is a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we’re already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good." —Dan McQuinlin, Resisting AI @mcquillanResistingAIAntifascist
 
 
+Tactical media are works that resist, revise, reverse their materials to engage political [potentials]. In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *with* perceptions of [women and others as] outliers and errors, in order to work *against* the systems that frame them as such: **"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves."** @sharmaManifestoBrokenMachine2020
 
-#### Tech is Techne (making, fibre, self-actual, muscle knowledge)
+>As "an investment in a multiplicity of actions, practices, performances, and interventions," says Raley, "tactical media activities provide models of opposition rather than revolution and aim to undermine a system that, as de Certeau reminds us, 'itself remains intact.'" @raleyTacticalMedia2009
 
-Irigaray, Cixous, Wittig, Plant write of the desirous techne body in various forms. The passing body, the 
+David Garcia and Geert Lovink describe tactical media as "An existential aesthetic. An aesthetic of Poaching, tricking, reading, speaking, strolling, shopping, desiring. Clever tricks, the hunter's cunning, maneuvers, polymorphic situations, joyful discoveries, poetic as well as warlike." @garciaGarciaLovinkABC
 
-Tech begins with techne begins with fiber, begins with the meshy matrix that sustains us. Tech means any tool. 
+>"learning to inhabit the world in a better way [...] the role of artworks is no longer to form imaginary and utopian realities, but to actually be ways of living and models of action within the existing real" (Bourriaud in Raley Tactical Media)
+
+>"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley R. "Dataveillance and Countervailance in @gitelmanRawDataOxymoron2013)
+
+
+#### Tech is Techne
+
+Tech begins with techne, begins with fiber, begins with the meshy matrix that sustains us. @plantZerosOnes1998 Tech means any tool. It means not only clay tablets but language becoming discrete written letters instead of a chorus of breath. @carsonErosBittersweetEssay2014
+It includes the histories of technology erased and rewritten by narratives of conquest and power [cite?]. It includes technologies of passing, of obfuscation, of survival. It includes [XXX]
+
+Ursula M. Franklin sees technology as a practice, the way things are done, not only the tools with which they are done — a system that includes "far more than its individual material components. Technology involves organization, procedures, symbols, new words, equations, and, most of all, a mindset." @franklinRealWorldTechnology2004 She argues this show its deep link with culture. 
+>"technology defined as practice shows us the deep cultural link of technology." // holistic / prescriptive technologies. 
+
+Thinking of coding as craft moves it back into the realm of holistic technologies, focused on the practitioner, rather than prescriptive ones, focused on production, effectiveness, scale, and management. Franklin says prescriptive technologies, while often  "exceedingly effective and efficient, [...] come with an enormous social mortgage. The mortgage means that we live in a culture of compliance, that we are ever more conditioned to accept orthodoxy as normal, and to accept that there is only one way of doing 'it.'" Meanwhile holistic technologies require muscle memory and instinct; they allow the practitioner to "draw on their own experience, each time applying it to a unique situation." @franklinRealWorldTechnology2004 
+
+<!-- Techne goes back to the earliest tools and humans' relationship with and manipulation of our environments.  -->
+
+<!-- Luce Irigaray, Helene Cixous, Monique Wittig, Sadie Plant, and others write of the desirous techne body in various forms. The passing body, the  -->
+
+<!-- muscle memory -->
 
 **These are not metaphors but material, infrastructures undergirding systems that uphold power — woven into the warp and weft.**
 
@@ -177,9 +181,6 @@ Tech begins with techne begins with fiber, begins with the meshy matrix that sus
 
 And **TechnoCraft** is the combo of historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — with the aspects of technology which get overlooked, like the contributions to the materiality of tech from Women of Color in the global majority, and move slow and fix things, capacities for repair and air and error and poesis in the techne. 
 
-Processing (rather than programming)
-
-The term **processing** as well, interchangeable here with programming, speaks to a more embodied crossover, a working-through of personal and communal and generational trauma. I'm interested in how these terms slip-slide around each other poetically, when thinking of the Central Processing Unit of a person or a digital device.  
 
 #### Techno
 
@@ -240,17 +241,22 @@ Sustaining feminst servers takes "years of intense collective learning" (Kleesat
 Or (Human) Reinforcement Learning with Machine Feedback
 My workshops at Ars, Moz, USC
 
-## main() What's in here: Order of Operations
+## def main():
 
-Each section of this assemblage offers an enactment of this thinking from a different angle. 
+Each section of Trans\*formative TechnoCraft offers an enactment of this thinking from a different angle, combining to enact the ethics and tactics described above. Together these public-facing resources attempt to provide plainspoken translations of technical, aesthetic, and ethical concepts in approachable zine formats, in order to support both AI insiders and marginalized outsiders in understanding the urgency of the issues facing automated technologies and the necessity of each other’s skill sets in facing those issue. 
+
+The research foundational to this artistic practice is a critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. 
+
 ### CRAFT: *Coding.Care*
 
+In *Coding.Care* I detail five years of engaging [XXX]
+
 >Code Collective is a distinctive community of practice and pedagogical space that welcomes and supports many kinds of learners. For almost five years, this diverse hack lab has hosted workshops and hybrid-format meetings, while growing and shifting to meet the needs of our community—from pandemic support to alumni programming. The Collective unites students who may have zero technical experience with those who have lots—and values their experiences equally, with the mantra: "We all have something to teach each other." Through the Collective’s intimidation-free, learner-led, process-oriented approach, it theorizes and models caring community building and innovative university lab space, plus non-academic community workshops that can create knowledge transfer across disciplinary and social strata of all kinds. 
-*Ciston has adapted this pedagogical model into guest faculty roles and workshops at Ars Electronica, Transmediale, Mozilla Festival, Salzburg International Summer Academy of Fine Arts, and elsewhere.* 
+*I have adapted this format to guest faculty roles and workshops at Ars Electronica, Transmediale, Mozilla Festival, Salzburg International Summer Academy of Fine Arts, and elsewhere.* 
 
 LEARNING GOALS: Through Coding Care, understand how to  
 
-### FORMATIVE: *A Critical Field Guide for Working with Machine Learning Datasets*
+### FORMATIVE: *A Critical Field Guide for Working with Machine Learning Datasets* and *Inclusive Datasets Research Guide*
 
 >*A Critical Field Guide for Working with Machine Learning Datasets* is a practical in-depth guide for navigating giant datasets and the implications of their use. It distills the complex aspects of working with datasets into easily graspable terms.
 
@@ -273,22 +279,8 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 
 ### NO: *Tactical Refusals & Reverse Portals*
 
-Tactical media are works that resist, revise, reverse their materials to engage political [potentials]. In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *with* perceptions of [women and others as] outliers and errors, in order to work *against* the systems that frame them as such: **"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves."** @sharmaManifestoBrokenMachine2020
-
->As "an investment in a multiplicity of actions, practices, performances, and interventions" "tactical media activities provide models of opposition rather than revolution and aim to undermine a system that, as de Certeau reminds us, 'itself remains intact.'" @raleyTacticalMedia2009
-
-David Garcia and Geert Lovink describe tactical media as "An existential aesthetic. An aesthetic of Poaching, tricking, reading, speaking, strolling, shopping, desiring. Clever tricks, the hunter's cunning, maneuvers, polymorphic situations, joyful discoveries, poetic as well as warlike." @garciaGarciaLovinkABC
-
->"learning to inhabit the world in a better way [...] the role of artworks is no longer to form imaginary and utopian realities, but to actually be ways of living and models of action within the existing real" (Bourriaud in Raley Tactical Media)
-
->"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley R. "Dataveillance and Countervailance in @gitelmanRawDataOxymoron2013)
-
->"Interventionist art projects such as these work directly against the forces of interpellation with a counterimage of a dataveillance regime that makes that regime perceptible—and if it is perceptible then it becomes possible to work concretely toward political transformation." (Raley R. "Dataveillance and Countervailance in @gitelmanRawDataOxymoron2013)
-
 - InnerVoiceOver // On Kawara
 - Ladymouth // Pipilotti Rist
-
-<!-- Aisling Kelliher:  1997, media artists and activists David Garcia and Geert Lovink defined tactical media as “media of crisis, criticism and opposition ." Over twenty years later, tactical media could also include corporate astroturfing, espionage bot farming, and mediated data nihilism for the lulz. Disentangling intentions and outcomes, tactics and strategies, and mediators and marks  -->
 
 ### TRANS: *Unsupervised Pleasures: Conscientious Datasets for Queer Futures*
 
@@ -309,3 +301,6 @@ David Garcia and Geert Lovink describe tactical media as "An existential aesthet
 
 >"Inner Voice Over" undermines the infallibility of natural language processing by finding connection and delight in its errors. The audio sculpture asks audiences to contribute compassionate phrases by speaking into a whisper dish rigged with a speech-to-text system. Their phrases are added to a database I built that will return compassionate phrases in kind using text-to-speech voice synthesis. By bending and breaking existing machine learning tools through creative–critical investigation, the work imagines alternative purposes for natural language processing that move it beyond economic imperatives and into the poetic and empathetic. 
  -->
+
+
+<!-- Broadly these have been called data subjects. For clarity, I distinguish between data subjects, whose information is captured in datasets that train machine learning models, and data subjectees, who are interpellated by and bear the impact of those models when implemented as part of AI systems. We are all the sovereign Data State's subjects, and we are all subject to its gaze as data subjectees.  -->

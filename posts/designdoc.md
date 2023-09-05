@@ -440,3 +440,18 @@ language models are becoming ubiquitous but we don't know the data that is insid
 
 >"The significance of this transformation from rules-based determinants to generative models of the meaning of a text is that the algorithms are no longer seeking exact one-to-one matches of semantic meaning; rather, they are building predictive models of what might come next. They are, in short, inferring future worlds from their exposure to text." 
 – Louise Amoore, Cloud Ethics p89
+
+
+>"""
+
+    A significant proportion of the C4 corpus is machine-translated rather than translated by humans.
+
+    Disparate erasure of African-American English as a result of stopword filtering in C4 has resulted in an underrepresentation of such content.
+
+    It is typically difficult in a large text corpus to find a middle ground between including (often too much) sexually or other explicit content and totally erasing all mention of sexuality or gender. As a surprising consequence of this, a rather common word like “sex” (which can have both neutral and explicit meanings) is completely unknown to a tokenizer that is trained on C4, since this word is fully absent from the corpus.
+
+    There are many occurrences of copyright violation in BookCorpus, and probably in other large-scale datasets as well.2
+
+    There is genre skew toward “romance” novels in BookCorpus.
+
+""" @NaturalLanguageProcessing

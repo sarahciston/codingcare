@@ -287,7 +287,11 @@ Very quickly the personal becomes political and our work easily extends beyond o
 >>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
 >(Dr. Vernelle A. A. Noel)
 
+>>"when communities are faced with new technological solutions to existing problems, to ask what these techniques may prevent and not only to check what the techniques promise to do." —Ursula M. Franklin @franklinRealWorldTechnology2004
+
 Another way we think about context is to not dismiss ideas before they get off the ground. We stay excited by the impossibly large tasks and the incredibly small ones, knowing everything is connected. Knowing how 'way leads on to way', the tiny tangents always bring us back to the big issues, and the impossible pataphysical pursuits have a way of revealing practical applications when pursued.
+
+
 
 
 ### we address difference and power
