@@ -60,6 +60,8 @@ By laying bare AI’s processes as tactile and fallible, I invite audiences to e
 
 - what's the ML equivalent of learning network protocols for handheld radical tactical practices
 
+- what kinds of ML objects would intersectionally practiced language models produce?
+
 - *see [design doc](designdoc) for more thoughts in progress*
 
 ## winding and unwound threads

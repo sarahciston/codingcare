@@ -1,10 +1,10 @@
 ---
 # layout: post
-title: codes for disappearing
+title: codes for dis/appearing
 nav_order: 11
 ---
 
-# Codes for Disappearing
+# Codes for Dis/Appearing
 ### Isolation, Perfection, Scratching at the Walls
 
 [Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min, Vimeo)](https://vimeo.com/562736859)

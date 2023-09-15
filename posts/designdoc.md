@@ -109,7 +109,12 @@ How the [XXX] Brown Corpus, etc. leads to WordNet leads to ImageNet ([Crawford 2
 
 #### 1.2.1 Measures of Success
 
+- what kinds of ML objects would intersectionally practiced language models produce?
+- 
+
 #### 1.2.2 Non-Goals
+
+- do not want to make a new "comprehensive" model "inclusive" of queer data: there is no such thing, it would not be used for good but operationalized same old strategies. the goal is not more granular or more breadth of data.
 
 ### 1.3 Steps
 
@@ -118,7 +123,31 @@ How the [XXX] Brown Corpus, etc. leads to WordNet leads to ImageNet ([Crawford 2
 - Collect examples of large-scale datasets commonly used in machine learning tasks, studying their design and methods
 - Develop search system for exploring an example dataset, using elasticsearch database tools and hosted NAS
 - Develop list of keywords and concepts this project is interested in knowing how the example database handles
-- Apply NLP techniques to analyze database contents, asking 
+- Apply NLP techniques to analyze database contents, asking [xxx]
+
+By reading both the code producing existing systems, and also the code and data they produce — by following pre-processing stages that "embed" meaning in numerical vectors — we understand more about the assumptions going in and being amplified coming out. 
+
+e.g. the vocabulary for the BLOOM model uses byte-pair encoding to create a list of "tokens" (words or fragments of words) sorted by frequency of appearance in its training corpus:
+
+'''
+{
+    "translate": 72236,
+    "transactions": 72443,
+    "transmitted": 82588,
+    "transformer": 92827,
+    "_TRANS": 197428,
+    "transgender": NULL
+}
+
+{
+    "bi": 7024,
+    "sex": 7025,
+    "gay": 13439,
+    "lesbian": 202905,
+    "bisexual": NULL,
+    "queer": NULL 
+}
+'''
 
 #### 1.2.1 Create New Corpora
 

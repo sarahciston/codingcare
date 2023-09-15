@@ -83,6 +83,8 @@ Art has been the space where I’m able to unpack complex ideas for myself, beca
 It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
  
 
+
+
 ## What Is Trans\*formative TechnoCraft?
 
 ### Trans\*formative
@@ -91,7 +93,12 @@ Trans\*formative here means emergent, embodied, embedded practices. It means jus
 
 'Transformative' includes transformative justice, a movement which recognizes that oppression is at the root of harmful technological systems and argues that acknowledging this oppression is essential to addressing it. It moves beyond punative, carceral logics to imagine and create different, even healing systems [cite]. Reparative and restorative acts are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBT histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions].
 
+<!-- "politics of creation, prefigurative politics" -->
+
 Trans\*formative is an active, prefigurative [footnote] stance. It aligns more with processing than its synonym programming, as a more embodied crossover between computational and cognitive, digital and digestive practices. Processing means both working through trauma and central processing unit. It means both works-in-process and algorithmic processes. Let's inspect further...
+
+>>"Revolutionary movements require a teleological pool from which to draw. The imagination is that teleological pool: it not only creates liberatory drives; it sustains, justifies and legitimises them. It undoes entire epistemes and clears a space for us to create something new. Though this 'newness', or the demand for something else, can never fully be realised in the realm of the discursive, it exists in other registers: it can be felt, heard, touched, tasted. The structural limits of this world restrict our ability to articulate all that the imagination is capable of conceiving. Do not forget this." @olufemiExperimentsImaginingOtherwise2021
+
 
 #### Transformers
 
@@ -250,6 +257,8 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
 
 <!-- muscle memory -->
 
+<!-- "pattern anarchy/recognition", old forms, sm holloway -->
+
 **These are not metaphors but material, infrastructures undergirding systems that uphold power — woven into the warp and weft.**
 
 >"This crude model of the user and the used has legitimized the scientific projects, colonial adventures, sexual relations, and even the artistic endeavors of the modern world. It continues to inform the deployment of even the most complex machines. [...] The user and the used are merely the perceptible elements, the identifiable components which are thrown up by-and serve also to contain-far more complex processes. The weaver and the loom, the surfer and the Net: none of them are anything without the engineerings which they both capture and perpetuate." (@plantZerosOnes1998, p. 77)
@@ -265,6 +274,7 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
   * Leaking Subjects & Bounding Boxes: On Training AI, Elisa Giardina Papa (2022)
   * Google Maps Hack (Traffic Jam), Simon Weckert (2020)
   * Declassifier & Humans of AI, Phillip Schmitt (2019)
+  * Sys server, feminist server manifesto, serve pub
 
 ##### Counterpublishing
   * Zines to clarify information [@VisualIntroductionAI]
@@ -308,6 +318,8 @@ Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 >"they process and store data. Because there is no difference between the process of weaving and the woven design, cloths persist as records of the processes which fed into their production: how many women worked on them, the techniques they used, the skills they employed. The visible pattern is integral to the process which produced it; the program and the pattern are continuous. (@plantZerosOnes1998, p. 66)
 
 >"weaving wends its way through even the media which supplant it. While paper has lost its associations with the woven fabrics with which it began, there are .remnants of weaving in all writing: yarns continue to be spun, texts are still abbreviated textiles, and even grammarglamor-and spelling retain an occult connectivity. Silkscreens, printing presses, stencils, photographic processes, and typewriters: by the end of the nineteenth century images, texts, and patterns of all kinds were being processed by machines which still used matrices as means to their ends," (@plantZerosOnes1998, p. 69)
+
+<!-- ahree lee weaving work -->
 
 #### What craft allows
 
@@ -355,7 +367,7 @@ In *Coding.Care* I detail five years of engaging [XXX]
 >Code Collective is a distinctive community of practice and pedagogical space that welcomes and supports many kinds of learners. For almost five years, this diverse hack lab has hosted workshops and hybrid-format meetings, while growing and shifting to meet the needs of our community—from pandemic support to alumni programming. The Collective unites students who may have zero technical experience with those who have lots—and values their experiences equally, with the mantra: "We all have something to teach each other." Through the Collective’s intimidation-free, learner-led, process-oriented approach, it theorizes and models caring community building and innovative university lab space, plus non-academic community workshops that can create knowledge transfer across disciplinary and social strata of all kinds. 
 *I have adapted this format to guest faculty roles and workshops at Ars Electronica, Transmediale, Mozilla Festival, Salzburg International Summer Academy of Fine Arts, and elsewhere.* 
 
-*Coding.Care* offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in early 2019 for emerging media artists, activists, writers, makers, and not-yet-engineers to think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 
+*Coding.Care* offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in early 2019 for emerging media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 
 
 Here, we see creative-critical code as a holistic community practice. This guidebook looks at a variety of the strategies, platforms, and tools we have explored and developed. It discusses how practices in the Collective—including project-oriented skillbuilding, co-teaching/co-learning, and snacks (always snacks)—embody its <span class="purple">guiding values, such as "scrappy artistic strategies not perfect code" and "collaboration not competition."</span> It also discusses some snags and lessons learned from our efforts building the now 3+ years-old community, like how our practices evolved through the shift to online platforms during the pandemic and the subsequent shift to hybrid collaborations. It draws on existing methods from Critical Code Studies and Intersectional queer, feminist, anti-ableist, and anti-racist theory; and it makes connections to similar organizations like Creative Code Berlin, Varia, and p5.js. 
 
@@ -379,7 +391,7 @@ LEARNING GOALS: Through the Critical Field Guide, understand the training datase
 Analogue pre-responses to AI systems by 20th century media artists, and my responses to them: 
 
 - No Knots, Only Loops // Rebecca Horn
-- ?? // Hito Steyerl? Adrian Piper? Sophie Calle? Sonya Rapoport? Lynne Hershmann? VALIE EXPORT?
+- ?? which work ?? // Sophie Calle? VALLIE EXPORT? Adrian Piper? Sonya Rapoport? Lynne Hershmann? Hito Steyerl?
 
 Analogue ritual practices of data collection and queer feminist body art show where "data wiggle room" was already wide, and they help me reimagine how I encounter data now.
 

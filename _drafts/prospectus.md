@@ -214,6 +214,7 @@ See References TK
 Zach Blas [Queer Technologies](https://zachblas.info/works/queer-technologies/)
 Care Syllabus Advisory Collective. [I Can't. Feeling Through Burdens of Care](https://www.caresyllabus.org/i-cant-feeling-through-burdens-of-care)
 Hedva, Johanna. [Care in End Times, Care Syllabus](https://www.caresyllabus.org/care-in-end-times)
+Hedva, Johanna. [Why It's Taking So Long](https://www.topicalcream.org/features/why-its-taking-so-long/)
 * McPherson, Tara. [Feminist in a Software Lab](https://www.hup.harvard.edu/catalog.php?isbn=9780674728943)
 
 >>"balance exploration with exploitation" (Montfort 20XX, 5)

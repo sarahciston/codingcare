@@ -15,9 +15,7 @@ tags: [notes, progress, misc, journal]
 
 Suchman, L. A., & Trigg, R. H. (1993). Artificial intelligence as craftwork. 
 Dhaliwal, R. S. (2022). On Addressability, or What Even Is Computation? 
-Liu, Ani
-
-
+Liu, Ani.
 
 
 ### 20 aug 23
