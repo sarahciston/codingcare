@@ -12,16 +12,40 @@ tags: [prospectus, dissertation]
 
 ### TO DO LIST
 
-- [ ] introduction write draft for Holly by 01.09.23. include unpacking language of "trans*formative technocraft"
-
+- [x] Make a diss schedule working backward from deadlines
+- [x] introduction write draft for Holly by 01.09.23. include unpacking language of "trans*formative technocraft"
 -[ ] add section to CCC site for projects, link to them in portions of the guidebook as grounding tangible items. 
-
-- [ ] add debriefs from chaos camp, montenegro, e-werk, holga. Linz workshop. community building practices. 
+- [ ] add debriefs from chaos camp, montenegro, e-werk, holga. Linz workshop. community building practices. CCBerlin?
+- [ ] applications spreadsheet
 
 - one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
 
 
+### Dissertation Writing Schedule
 
+- [ ] 04 APR Filing Due for May Grad  (05 JUL for Aug)
+- [ ] 29 MAR Diss Checklist Due, Last Revisions & Formatting for May Grad (28 JUN for Aug)
+    - [ ] "Approval to Submit" form, generated via email
+    - [ ] "Appointment/Change of Committee" form
+    - [ ] "Survey of Earned Doctorates" form
+- [ ] **14 FEB (01 MAR) Defense Week** !15 MAR Latest Date!
+- [ ] **24 JAN (09 FEB) Send Final Draft to Committee**
+- [ ] 15 DEC (03 JAN) Start Revisions
+- [ ] **01 DEC (08 DEC) Send Chairs Complete Draft (is before/during holiday break realistic for feedback?)**
+- [ ] (27 NOV-08 DEC) (Sprint 6 if needed)
+- [ ] 13-25 NOV Sprint 5: Introduction & Conclusion
+- [ ] **12 NOV Send Writing to Tara, Rita**
+- [ ] 30 OCT-11 NOV Sprint 4: Unsupervised Pleasures & Interstitial Essays
+- [ ] **29 OCT Send Writing to Holly, +?**
+- [ ] 16-28 OCT Sprint 3: Critical Field Guide & Interstitial Essays
+- [ ] **15 OCT Send Writing to Tara, +?**
+- [ ] 02-14 OCT Sprint 2: Intersectional AI Toolkit & Introduction
+- [ ] **01 OCT Send Writing to Holly, +?**
+- [ ] 18-30 SEP Sprint 1: Coding Care & Introduction
+
+
+Writing Weeks Left: 18 weeks (inc holidays)
+Drafting Weeks: 10 (12)
 
 ### chapter outline (fantasy table of contents)
 00. What is this document, What Is Coding Care [status:] 

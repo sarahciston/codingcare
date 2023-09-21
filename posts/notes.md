@@ -11,6 +11,21 @@ tags: [notes, progress, misc, journal]
 # notes on research in progress
 <!-- # {{ page.title }} -->
 
+
+### 15 sep 23
+
+Susanne Briet "What is document?": wiki: "indice (index) as not only pointing to an object but also reflective of the networks in which that object appears as a named thing, leading to a semiotics-inspired definition of "document". Furthermore, Briet argued that techniques and technologies are expressions of a networked culture."
+
+Convo w T about critical intro:
+* uniting the areas of practice/theory through diff modalities, methodologies, diff spaces and venues for each
+* how the three come together, why they're important, what methodologies join them
+* each have diff methods, ways of accessing community and collaborative space, diff ways of knowing
+* I'm the node holding these together, how to honor all the parts
+* meta work to interlace and foreground
+* shorter framing intro for each section
+* stealthy introductions of humanities and criticality
+* no more lit reviews
+
 ### 25 aug 23
 
 Suchman, L. A., & Trigg, R. H. (1993). Artificial intelligence as craftwork. 

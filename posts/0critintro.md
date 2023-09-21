@@ -31,8 +31,6 @@ Trans*formative TechnoCraft argues for the essential entanglement of critical AI
 
 🖼 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when <span class="purple">learning programming is so often intimidating and riddled with false starts,</span> which can further marginalize those whose perspectives are most necessary in order to face the challenges technoculture presents. 
 
-T
-
 ### We Need Intersectional Critical AI 
 
 >"I’m stuck here inputting and outputting the data of a story I can’t change." 
@@ -46,6 +44,8 @@ With every hype, the anti-hype:
 Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individual white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. 
 
 AI hype describes machine learning systems as impenetrable black boxes. It designs the interfaces with which we engage its tools, it claims the proprietary restrictions that hide its data (our data), and it influences the regulations that keep its power in the hands of a select few. We only break out of those boxes when we refuse to engage on those terms. 
+
+>Kate Crawford argues that computational "ways of seeing depend on the twin moves of abstraction and extraction. But these logics can be challenged, just as systems that perpetuate oppression can be rejected."
 
 Automated decision-making systems disproportionately harm the marginalized majority. We are subject to it whenever we lend our data by clicking terms of service pop-ups to make them go away and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our vulnerability in these moments is exploited and profited on — from testing biometric facial technologies in refugee camps [@neddenBiometrieGetestetMillionen2017] to reinforcement learning reliant on AI chatbot user responses. Many amazing researchers have highlighted the increasing impacts of AI systems and surveillance capitalism [footnote cite Browne, Gebru, et al]. 
 
@@ -239,6 +239,9 @@ David Garcia and Geert Lovink describe tactical media as "An existential aesthet
 
 >"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley R. "Dataveillance and Countervailance in @gitelmanRawDataOxymoron2013)
 
+#### NO to capital and YES to sharing
+
+TechNO is also open-access, open-source — in their refusal to capitulate to capitalist regimes of encapsulation, privatization, knowledge-hoarding and gatekeeping. 
 
 
 #### Tech is Techne
@@ -274,7 +277,9 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
   * Leaking Subjects & Bounding Boxes: On Training AI, Elisa Giardina Papa (2022)
   * Google Maps Hack (Traffic Jam), Simon Weckert (2020)
   * Declassifier & Humans of AI, Phillip Schmitt (2019)
-  * Sys server, feminist server manifesto, serve pub
+  * Sys server, feminist server manifesto, serve pub, "A Traversal Network of Feminist Servers"
+
+>"rosa [travelling server] is not only constituted in hardware or sotware, but also the multitude of relations that are created around the making, maintaining and passing on of this infrastructure: the processes that are performed, the afective charge of their actioning, the community around them." @TraversalNetworkFeminista
 
 ##### Counterpublishing
   * Zines to clarify information [@VisualIntroductionAI]

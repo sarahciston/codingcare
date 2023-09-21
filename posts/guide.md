@@ -73,7 +73,7 @@ These are the open questions explored by this guide — and explored every time 
 
 ### aka What's in this pocket guide? What's a code collective and how do I get one?
 
-Creative Code Collective is the community I started in early 2019 for media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I sent out a call, because I was looking for others who were struggling with code same as I was, and I hoped there might be another way — at the very least, we could struggle together. 😬 We launched with the mottos: **"Scrappy artistic strategies not perfect code"** and **"We all have skills to teach each other."**
+Creative Code Collective is the community I started in early 2019 for media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I sent out a call, because I was looking for others who were struggling with code same as I was, and I hoped there might be another way — at the very least, we could struggle together. 😬 We launched with the mottos: **"Scrappy artistic strategies, not perfect code"** and **"We all have skills to teach each other."**
 
 Throughout the guide I'll share what I've learned while building Code Collective — about coding, connecting, and building collectives. The guide honors and draws from the many mentors and teachers who have inspired it, gathering many resources found along the way. Of course the guide includes many reflections and contributions from community members — including coding examples and exercises, favorite projects and personal accounts — because this work is never done in isolation. I'll discuss connections I've found between coding and other crafts like zine publishing and fiber arts. I'll also discuss connections to open-source, open-access, and activist movements that shape the approach to how we gather and what we create. The guide is a melange of materials and methods, hopefully a spark of inspiration and the start of many conversations around these ideas. 
 
@@ -97,25 +97,18 @@ This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says
 >>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
 
 Code Collective is a self-organizing community of artists, makers, students, people from all backgrounds——especially including those who have not done much or any coding before. We meet regularly to develop our programming practices in a flexible, co-working, co-learning setting.
-
-I started organizing the collective as an intervention. I craved a space where I felt welcome and free to explore without constraint, after experiencing how programming cultures had intimidated me and after witnessing how they had discouraged so many others. I noticed the need for supportive spaces that could value diverse capacities to learn. After my own struggles learning to code, and after a few joyful experiences that showed me it could be otherwise, I wanted to make space for anyone else struggling to find their fit, convinced there was no place for them in the existing systems. 
-
-I had run up against the feeling that I was not making sense, because no one could understand what I was trying to make or do. Often I was not sure myself--it was only a gut feeling, a glimmer that drew me toward tinkering even when I kept hitting walls, getting frustrated, hearing that it shouldn't or couldn't be done.
-
-Now I remind new visitors to Code Collective: *If you have an inkling (or a fear) that coding might be for you, it probably is. Welcome.* 
-<!-- In this way, coding is like queerness. -->
-
 <!-- ### who are we? -->
-We are artists, activists, first-gen students, never-ever coders, computer science majors, writers, dancers, linguists, neuroscientists, trans kids, queer folks, refugees, parents, staff and teachers, independent learners. We come from all career stages and from all levels of expertise. We come from many cultures, sexualities, classes, and genders. Many of us do not come to programming from a STEM-education pipeline. Our interests exceed the bounds of what our specializations offer and what our vocabularies describe. We all find different ways into code and community.
+We are artists, activists, first-gen students, never-ever coders, computer science majors, writers, dancers, linguists, neuroscientists, trans kids, queer folks, refugees, parents, staff and teachers, independent learners. We come from all career stages and from all levels of expertise. We come from many cultures, sexualities, classes, and genders. Many of us do not come to programming from a STEM-education pipeline (but some do). Our interests exceed the bounds of what our specializations offer and what our vocabularies describe. We all find different ways into code and community.
 
->"For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
->Ada Toydemir, they/them, MS Computer Science
+I started organizing the collective as an intervention. I craved a space where I felt welcome and free to explore without constraint, after experiencing how programming cultures had intimidated me and after witnessing how they had discouraged so many others. I noticed the need for supportive spaces that could value diverse capacities to learn. After my own struggles learning to code, and after a few joyful experiences that showed me it could be otherwise, I wanted to make space for anyone else struggling to find their fit, anyone convinced there was no place for them in the existing systems. 
 
-### how do we create who we are? 
+Code Collective was necessary for me because I kept having the experience elsewhere that no one could understand what I was trying to make or do. I felt like I was not making sense – and certainly I was not sure myself – but some glimmer or gut feeling kept pulling me toward tinkering even though I was hitting walls, getting frustrated, hearing that it shouldn't or couldn't be done. Now I remind new visitors to Code Collective: *If you have an inkling (or a fear) that coding might be for you, it probably is. Welcome.* [^queerfeeling]
 
-Upon gathering, I ask myself: What does this particular cluster of beings need and desire from this gathering? What do we stand for? We get to define it and redefine it for ourselves. At our first meeting, attendees cited a mix of desires for joining what would become Code Collective:
+### Start anywhere 
 
-* "to learn what language is used for what"
+Upon gathering, I ask myself: What does this particular cluster of beings need and want from this gathering? What do we stand for? We get to define it and redefine it for ourselves. At our first meeting in January 2019, attendees cited a mix of desires for joining what would become Code Collective:
+
+* "to learn what [programming] language is used for what"
 * "not to be intimidated to try something new"
 * "see what others do, have a set time to work on projects and keep skills sharp"
 * "not to check the assigned boxes but find an artistic approach. make stuff"
@@ -125,48 +118,61 @@ Upon gathering, I ask myself: What does this particular cluster of beings need a
 * "have an accountability space and a brain trust with shared expertise"
 * "conquer my trouble starting and finishing. bounce ideas off of others. build something I'm proud of"
 
-To explore how we might best create community, I asked each person to share what they were currently working on, some topics they knew about, some topics they wanted to know about. The goal here was to look for any overlaps. Where what you know about and what I want to know about intersect? Here lies magic!
+>"For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
+>Ada Toydemir, they/them, MS Computer Science
 
-As time has gone on, our needs have changed, and our formats and structures have kept pace. We moved from conversations about possible group projects, mission statements, and organizational concerns toward a more freeform agenda, toward a blend of form and freedom that holds space for anyone's individual projects and needs during that meeting time.
+To explore how we might best create community, I asked each person to share what they were currently working on, some topics they knew about, some topics they wanted to know about. The goal here is to look for overlaps: Where do what you know about and what I want to know about intersect? Here lies magic!
 
-### in process, continually works in progress // value processes as much as, or more than, outcomes[^amb]
-### we are continually in process, works in progress.
+As time goes on, our needs change, and our formats and structures keep pace. We have moved from conversations about possible group projects, mission statements, and organizational concerns toward a more freeform agenda, toward a blend of form and freedom that holds space for anyone's individual projects and needs during that meeting time.
 
-When beginning the collective, I described its focus as project-based learning. This has been refined to mean more process-oriented than task-oriented work. The group remains self-directed toward what its members want to make, and the process they take to make it, instead of requiring they absorb a pre-determined curriculum or complete particular objectives. Our conversations focus more on what you are learning along the way, how you are using the tools you found, how your technical choices are shaping your critical thinking, and how did your critical thinking is shaping your technical choices and tools, reciprocally and iteratively. 
+### Be works-in-progress 
 
+When beginning the collective, I described its focus as project-based learning, but later refined this to mean more process-oriented than task-oriented work. 
 
+The group remains self-directed toward what its members want to make, and the process they take to make it, instead of requiring they absorb a pre-determined curriculum or complete particular objectives. Our conversations focus more on what you are learning along the way, how you are using the tools you found, how your technical choices are shaping your critical thinking, and how did your critical thinking is shaping your technical choices and tools, reciprocally and iteratively. 
 
-This guide is a work in progress. The guide shows its rough edges before it is ready—a practice of vulnerability, an invitation for conversation. It is being drafted from scratch on a public website, built using Github, which includes a code repository and version tracking, so that every past version of the text is archived. Readers can compare differences in the history ([for example](https://github.com/sarahciston/codingcare/commit/5e1ef814d661f43027e3d0f15b5ba87415194cfe?diff=unified)) line by line and comment on the text as it changes. This laid-bare writing process enacts the Code Collective value *Growth Not Perfection*, which is mostly a reminder for myself.
+When we "value process as much as, or more than, outcomes"[^amb], when we maintain a "beginner's mind" approach no matter what stage of that process, we can stay dynamic and we can acknowledge imperfection and ongoingness. I find this helps relinquish perceived requirements and impossible goals. 
 
-### we are continually expanding and questioning our definitions. more than one outcome is possible
+This guide is also a work in progress. The guide shows its rough edges before it is ready. It has been drafted from scratch on a public website, built using Github, which displays its code repository and version tracking. This means that every past version of the text is available to view. Readers can compare differences in the history ([for example](https://github.com/sarahciston/codingcare/commit/5e1ef814d661f43027e3d0f15b5ba87415194cfe?diff=unified)) line by line and comment on the text as it changes. This laid-bare writing process enacts the Code Collective value **growth, not perfection**, which is mostly a reminder for myself. Working this way is a practice of vulnerability and an invitation for conversation. 
 
-*so many different outcomes for what you decide to do with a technical challenge you want to give to yourself. By spending time with others from different walks of life, we see how others approach the same problem vastly differently. Even with the exact same idea, one person might explore that with the goal to sell it commercially while another explores it by creating an expressive artwork. Along the way they are tackling the same troubleshooting problems, line by line, but perhaps answering the questions that arise very differently based on their goals. It helps to expand the spectrum of what one could make or invent, as a way to get out of our default modes and expectations for ourselves.*
+### Build it together & expand definitions
 
-### we build it together
+There are so many different outcomes and approaches possible for any technical challenge. By spending time with others, especially with different perspectives, we get to see how they might approach the same problem vastly differently. Even with the exact same concept, one person might implement it through a commercial product while another might implement it as an expressive artwork.
 
-Designing our online presence has been an ongoing collaboration, probably our only collaboration to date, although there have been talk of others. Through the (perhaps menial but important) work of creating a seemingly simple site, we declare our collective identity. We decide the tone of who we are as a group, how we will present to the outside what it is we are doing, what we prioritize, what we call ourselves, how we explain our processes, how we support others who join. 
+Working among others helps us continually question and expand our definitions. Along the way, you could each tackle similar troubleshooting issues in lines of code, but perhaps you would answer the questions that arise very differently based on your own goals. It helps to expand the spectrum of what one could make or invent, as a way to get out of our default modes and expectations for ourselves.
 
-The website expanded from a landing page into the more robust vision of a full-fledged Resource Hub, an interactive, fully contribute-able database to share the tools and tutorials we were discussing and why we found them useful. 
+Designing the online presence for Code Collective has been an ongoing collaboration. Through the (perhaps menial but important) work of creating a seemingly simple site, we had to confront and create our collective identity very practically. We get to decide the tone of who we are as a group, how we will present ourselves, and to which publics: How do we describe what we are doing, what we prioritize, what we call ourselves, how we explain our processes, how we support others who join? What format do we put this in? What language do we use? Who do we make sure is included in this process?
 
+Through this process of communication and collaboration among the group members about who we are and what we want to offer, the Code Collective website has expanded from a static landing page into a unique resource hub and project showcase – with a searchable, contributable database of tools, tutorials, research, and projects we have found useful.   
 
+## 2. We like scrappy artistic strategies, not perfect code
 
-## 1.2. Growth not perfection
-## 2. Scrappy strategies, not perfect code
-
-We believe in scrappy [artistic] strategies not perfect code (#nocodesnobs[^p5]). [We believe in collaboration and community not competition, growth not perfection (#newKidLove[^p5]). 
+The P5.js community statement warns against "code snobs" and assuming or prioritizing types of knowledge [^p5]. Code Collective echoes this with our endorsement of scrappy strategies. We love your spaghetti code, your half-finished thought, your sketchy mindmap — just as much as we love the polished work it may one day be. 
 
 ### Duct tape and spitballs
+
+I joke that my projects are held together with duct tape and spitballs, but it's basically true. Most of them use a wild-sourced daisy chain of APIs[^api] and random tools from different domains, because this is what it requires to sketch out an idea I haven't seen represented elsewhere. There is magic and politics and new knowledge to be found in creative (read: unintended, inappropriate) applications and combinations of existing tools. 
+
+To think about how to combine ingredients to produce new flavors, connect dots, (mix metaphors) is an explicitly artistic approach, because it is a way of thinking with (and against) materials *as such*. What I mean is, it questions and engages the material propoerties of the platforms, codes, cultures, data, and infrastructures, in the same ways artists might handle new materials from an unfamiliar source — whether exploring paint color, wood grain, fiber properties or anything else. Listening to your materials can make work self-reflexive in incredibly useful and critical ways, whether you decide to work with or against their properties. 
+<!-- The downside of this is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or... -->
+
+[^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves.
+
+### Don't be afraid to break stuff
+
+>"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+
+The [TinkerTank](https://tinkertank.de/) mobile makerspace in Germany starts each of their workshops by selecting a piece of old electronics from their scrap pile — and completely dismantling it. "People are afraid to break things," workshop leader Johannes May told me, and this helps warm people up to build new, imaginative things from the broken parts. 
+
+Systerserver building 
+
+
+### Build stuff
 
 [...] When it doesn't exist, we build it! We make it from other tools we scrap for parts. We break it to learn how it works, and why. 
 
 >>When the tool doesn't exist we build it. We make it from the other tools we scrapped for parts. We break it to learn how it works, to see if it could work a different way, to see if its not working makes it sing out with poetry. We write it out on paper if we don't know how to say it with code. If we can't find an example, if we wonder why it doesn't exist, we know this means we might be the ones who should bring it to life. If it does exist, we also ask if it should. We reverse-engineer it, run it backwards. We learn from others' tutorials, combine them, and modify them, liberally.
-
-I sometimes joke that my projects are a daisy chain of APIs[^api] held together with duct tape and spit. There is magic and politics and new knowledge to be found in creative applications and combinations of existing tools. To think about how to combine ingredients to produce new flavors, connect dots, (mix metaphors).  [...] 
-
-The downside of this is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or...
-
-[^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface, and just as a web interface helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site programmatically. Like a menu, it tells the computer what and how to order up the information it needs. When coders use APIs, they're plugging into additional tools or pulling in data from the outside, for example Instagram or Mailchimp or the National Weather Service, on top of the code they have written themselves.
-
 
 ## 3. We get vulnerable. 
 
@@ -508,7 +514,9 @@ A practice for revolutions: *"Wherever you are standing, come one step closer."*
 
 We are building community. We are encoding our values. We don't say, "That's not what code is for." We imagine how things could be otherwise. 
 
-All making is a research question. What question do you want to explore? 
+All making is a research question. 
+
+What question do you want to explore? 
 
 
 
@@ -518,7 +526,14 @@ All making is a research question. What question do you want to explore?
 >"It's really reassuring to always come back to this environment of like, "Okay, you don't have to be that, you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code."**
 >>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
 
+
 #### Homebrew & sisterspit
+
+If the space / tool / resource / artwork you want does not exist, create it. If you need it, someone else does too.
+
+Examples like [Homebrew Computer Club](), [Chaos Computer Club](), [Sister Spit (now Resplendent Tonguesplitters)](https://www.spin.com/2022/08/we-knew-we-were-pissed/) all show how a few folks with a wacky idea can bloom into work that is appreciated by many, many people. 
+
+Steve Wozniak described the start of Homebrew Computer Club: "we weren't official and we weren't formal. Our leader [...] would get up at every meeting and announce the convening of 'the Homebrew Computer Club which does not exist' and everyone would applaud happily." 
 
 ### Ask after one another
 
@@ -533,24 +548,33 @@ I've learned that building communities through creative code, developing an ethi
 * the collaborative: co-teaching & co learning, embedded and situated, accounting for hierarchy, with and for community
 * the embodied and entangled: meeting people where they are, with the material and experiences they have, merging theory and content with code and practice. choosing and sharing tools that are ethically and conceptually grounded
 
-I have learned that **persistence is a rhythm, not a slog.** That **I can hold my pedagogy and my programming more loosely and they both become more pleasurable**. And **when I foreground care and connection the rest happens.**
+I have learned... 
+
+**Persistence is a rhythm, not a slog.**  
+
+**I can hold my pedagogy and my programming more loosely and they both become more pleasurable**. 
+
+**When I foreground care and connection, the rest happens.**
 
 For me, seeing students who thought they hated code return the next semester referring to themselves as coders—seeing them share projects that express a distinctive critical voice—affirms for me the importance of this kind of community and this combination of intersectional and interdisciplinary tactics for learning. And I’m starting to see the impacts it can have on their views of algorithmic systems and potential alternate futures.
 
 
->Since, as Kate Crawford argues, computational “ways of seeing depend on the twin moves of abstraction and extraction. But these logics can be challenged, just as systems that perpetuate oppression can be rejected.” 
 
 <!-- We're conscious of taking up space. -->
 
-### we are still figuring out who we are
+### Continue becoming more ourselves
 
-Experiences of becoming 'more ourselves' [...]
+<!-- Experiences of becoming 'more ourselves' [...] -->
 
 We gather as part of this effort, and we have started to trust each other with the care and feeding required to take on this continual work. We reveal ourselves, maybe slowly at first. By sharing the things we make or want to make, we share what we care about, who we care for, our politics. We get glimpses of each others homes and families and pets. We see each other chew with our mouths full or sweaty on arrival or frustrated to figure out a problem.  
 
 
 
-### we are not in class. we're in community.
+### Remember we are not (only) in class. We're in community.
+
+Community can sometimes feel like an easy word, even a dirty word, the way it gets lobbed about by not-always-well-meaning folks who might be making a lot of presumptions when they try to argue "we're all in this together." Sometimes we're not. Sometimes we are not a "we" at all. Many folks have been hurt by this kind of co-option of language, and it makes sense to limit our trust to those who earn it. 
+
+Real community, solidarity, [etc] is about mutual inter-reliance, not extraction. 
 
 >"The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is it is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
 >>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
@@ -577,11 +601,8 @@ What are the bricks, the building blocks, the core modules of a community like t
 Some items we have considered, or intuitively incorporated:
 
 #### • Knowledge sharing repository/hub
-
 #### • Steady cadence, ritual of gathering
-
 #### • Material care & physical contact/resources
-
 #### • Inclusive, iterative & recursive, inquisitive and embracing approaches
 
 
@@ -601,7 +622,7 @@ Some items we have considered, or intuitively incorporated:
 
 
 
-# **TOC (in progress)**
+<!-- # **TOC (in progress)**
 
 * purpose of the book, what are the rituals of programming
 * who we are, who i am, and why it matters
@@ -609,8 +630,8 @@ Some items we have considered, or intuitively incorporated:
 * first steps & logistics: a hub for info dumping, collab notes
 * course corrections
 • three tenses: what we have done, continue to do and how it matters, ideal vision we want for the world and how this leads to it
-* resouces collected
-* start your own collective
+* resources collected
+* start your own collective -->
 
 
 ### why we're here, upon reflection (a former manifesto)
@@ -731,6 +752,7 @@ Thank you to the individuals and organizations who developed these principles an
 [^shane]: Shane, J. (2019). You Look Like a Thing and I Love You.
 Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schnitzler, C. (Eds.) (2023). TextGenEd: Teaching with Text Generation Technologies. The WAC Clearinghouse. @veeTextGenEdTeachingText2023
 [^hedva2022]: Hedva, J. 2022. ["Why It's Taking So Long"](https://www.topicalcream.org/features/why-its-taking-so-long/) Topical Cream.
+[^queerfeeling]: In this way, coding is like queerness: If you wonder if you're queer enough, you are!
 
 >"It's made me more curious about not just the code in the project itself, but also the process. [...] All the technology that we built comes from a person or a bunch of people and they went on a journey to get there, and that journey is inherently very interesting."
 >>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
