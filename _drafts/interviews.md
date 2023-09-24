@@ -212,7 +212,7 @@ Really like it's very structured you know none of the work in in Code Collective
 
 No, not that I would change. I think that that it's an important. It's almost **like a salon right like or what I had to imagine like like in what like pre French revolution people thinking about stuff** 
 
->I love that you're thinking of it as like a salon. That's maybe really good word, thank you.I do I feel like that sort of like that's what I was hoping for in a way. There were moments where I was like imagining it having more structure or like, but I also wasn't really sure like wanting it to wanted it to like organically become what it needed to be, but not always sure what that is or felt like it that that was definitely going to change as the people in it were going to change. And so it was, imagining that, like one version of it was that we might do projects together. But that definitely didn't seem to be as much what people needed is just like the space for connection.
+>I love that you're thinking of it as like a salon. That's maybe really good word, thank you. I do I feel like that sort of like that's what I was hoping for in a way. There were moments where I was like imagining it having more structure or like, but I also wasn't really sure like wanting it to wanted it to like organically become what it needed to be, but not always sure what that is or felt like it that that was definitely going to change as the people in it were going to change. And so it was, imagining that, like one version of it was that we might do projects together. But that definitely didn't seem to be as much what people needed is just like the space for connection.
 
 Yeah, because everyone has spaces to do projects. Everyone is being made to do for reasons.
 
@@ -224,7 +224,15 @@ when Tara introduced us.
 
 >Okay, what did you kind of yeah? What was your first?
 
-Yeah, when did we go first? I can't remember must have been 2019, right? yeah. Well, 2 years ago you and Ada went together the first time, so I don't I don't know down in the basement I don't know if i knew Ada back then. yeah, I don't remember if it was just I think it might have been just you. Oh, young man, I feel very old today 
+Yeah, when did we go first? I can't remember must have been 2019, right? yeah. 
+
+>Well, 2 years ago you and Ada went together the first time, so 
+
+I don't I don't know down in the basement I don't know if i knew Ada back then. 
+
+>yeah, I don't remember if it was just I think it might have been just you. 
+
+Oh, young man, I feel very old today 
 
 >there's always Someone older. I think I'm more than I think I have a good 10 years on you, so don't worry about it. I think so. How old are you today? 26 today? Yeah, That's what I thought.
 
@@ -238,9 +246,11 @@ Wow! do you Do you have a 10 years of it?
 
 Yeah, back then I was a little bit more into creative code as a concept. I've kind of shed any desire to be attached to that anymore. I was really just into the creativity and the artistry of things like processing things like open frameworks, Arduino all of those frameworks use to kind of creatively express or do interesting projects. 
 
-So that's one end, and also, like the other stuff like open source privacy, rights that are kind of cultural analogs to these communities and injustice with AI or justices with big tech and inequity. I feel like there's kind of like, I won't even call it left. But there's sort of whenever you use tech in a creative manner or an attack in a non-capitalist or non like vocational manner. I don't want to say capitalist, because anything could be capitalist, but like for nonvocational manner, there there can be a value set that's in common that a lot of ideas and actions can stop from so like a kind of seeking that community, or seeking kind of people that would be aligned with those values.
+So that's one end, and also, like the other stuff like open source privacy, rights that are kind of cultural analogs to these communities and injustice with AI or justices with big tech and inequity. I feel like there's kind of like, I won't even call it left. But there's sort of 
 
-That's what creative code collective provided , and I also like to see our students learning how to code.
+**whenever you use tech in a creative manner or an attack in a non-capitalist or non like vocational manner. I don't want to say capitalist, because anything could be capitalist, but like for nonvocational manner, there there can be a value set that's in common that a lot of ideas and actions can stop from so like a kind of seeking that community, or seeking kind of people that would be aligned with those values.
+
+That's what creative code collective provided , and I also like to see our students learning how to code.**
 
 **I think we learn a lot from teaching. Anyone who's experienced in code understands that we learn also through trying to solve problems. So seeing other people's problems is a very helpful thing.** 
 
@@ -320,7 +330,7 @@ I mean like to like reduce it if I had to be more formal about it. I would say i
 
 I was thinking about that this morning because I was like I was wondering what you would put in a manifesto. Or you know, if I were to do something like to reinstantiate, or to mimic or to get grab something like this in Santa Cruz. But I don't know what my life is going to be like in the next chapter.
 
-**Individualism is a huge part of it.Empowerment is another really important thing.**
+**Individualism is a huge part of it. Empowerment is another really important thing.**
 
 I think everyone has you know there's there's always kind of a supportive environment kind of people are trying to help enable someone to accomplish their goals.
 
@@ -330,152 +340,64 @@ Problem solve creative. Creative's in the title so I think there's also a value 
 
 But like kind of open source, E. or all I on on monolithic.
 
-00:27:33.000 --> 00:27:42.000
 How companies are big talk I don't know what to call that but I also don't think that it's it's markedly against that like a student gonna come in and be like i'm super into volunteer and
 
-00:27:42.000 --> 00:27:56.000
-i'd be like all right that's weird okay you know like I don't think it explicitly rejects like be an imposing ideology or an ideology that's using creative code for a vocational setting. but the my experience with the group has it's it kind of leans in that direction. I don't know. Is there a terminology for that those those sorts of ideas?
+i'd be like all right that's weird okay you know like 
+I don't think it explicitly rejects like be an imposing ideology or an ideology that's using creative code for a vocational setting. but the my experience with the group has it's it kind of leans in that direction. I don't know. Is there a terminology for that those those sorts of ideas?
 
-*Yeah, I mean, I think open source as an attitude is definitely something that I was thinking about from the beginning. But I like what you're saying about this second piece which is like that*
+>*Yeah, I mean, I think open source as an attitude is definitely something that I was thinking about from the beginning. But I like what you're saying about this second piece which is like that, like an approach to how we approach, or it's like an approach to ideas that like we want. 
 
-, like an approach to how we approach, or it's like an approach to ideas that like we want. If someone comes in with an opposing idea. where the the thinking is like, let's talk about it like Why are you like, Tell us what's interesting to you about that. Or how you're thinking about that and like maybe we disagree. but we're interested to know where you're coming from. Like let's hear opposing like a dialectical approach. I guess is what you'd call it whoa That's that's a good way of thinking that's that's a value Oh, I don't know how to describe, like, not task oriented as a as a value, or like a component of the manifesto.
+>If someone comes in with an opposing idea. where the the thinking is like, let's talk about it like Why are you like, Tell us what's interesting to you about that. Or how you're thinking about that and like maybe we disagree. but we're interested to know where you're coming from. Like let's hear opposing like a dialectical approach. I guess is what you'd call it 
 
-00:29:03.000 --> 00:29:13.000
-Yeah, I've been saying like process oriented before I was saying like process prep little project based.
+whoa That's that's a good way of thinking that's that's a value Oh, I don't know how to describe, like, not task oriented as a as a value, or like a component of the manifesto.
 
-00:29:13.000 --> 00:29:43.000
+>Yeah, I've been saying like process oriented before I was saying like process prep little project based.
+
 But I think it's. more process. I wouldn't say it's project-based - process like as as opposed to project base Wow! yeah, How because I feel like there's a difference between like these
 
-00:29:44.000 --> 00:29:54.000
-are the there's like 3 parts maybe there's like these are the things that we we advocate for.
+>are the there's like 3 parts maybe there's like these are the things that we we advocate for. And then there's like you know like open source or cooperation, and then, or maybe corporate, I don't know there's like the things we advocate for. and then there's the values behind them that are the reason we advocate for them and then there's the how those get put into practice in front of them like, what does that look like when it plays out? We flip like the first 2.
 
-00:29:54.000 --> 00:30:09.000
-And then there's like you know like open source or cooperation, and then, or maybe corporate, I don't know there's like the things we advocate for. and then there's the values behind them that are the reason
-
-00:30:09.000 --> 00:30:21.000
-we advocate for them and then there's the how those get put into practice in front of them like, what does that look like when it plays out? We flip like the first 2.
-
-00:30:21.000 --> 00:30:26.000
 But yeah, those are the 3 3 sections.
 
-00:30:26.000 --> 00:30:33.000
 The thinking behind it. Then there's the So you said it the values.
 
-00:30:33.000 --> 00:30:37.000
 And then, yeah, the the 3 I forgot the term I just like totally forgotten.
 
-00:30:37.000 --> 00:30:41.000
-No, it's helpful to hear it from you too, because like this.
+>No, it's helpful to hear it from you too, because like this. It really is a group like I stuff i've been thinking about from the beginning. But everybody's brought their own life to it and it's really helpful to hear it from other perspectives, and to like put other language to it. So like. Our conversation is very similar, but also totally different from mine. With Catherine. so it's it's really useful so feel free to repeat like reiterate like.
 
-00:30:41.000 --> 00:30:46.000
-It really is a group like I stuff i've been thinking about from the beginning.
-
-00:30:46.000 --> 00:30:58.000
-But everybody's brought their own life to it and it's really helpful to hear it from other perspectives, and to like put other language to it.
-
-00:30:58.000 --> 00:31:03.000
-So like. Our conversation is very similar, but also totally different from mine.
-
-00:31:03.000 --> 00:31:11.000
-With Catherine. so it's it's really useful so feel free to repeat like reiterate like.
-
-00:31:11.000 --> 00:31:20.000
 I hope you plan on keeping up like the creative code practice, like as you continue or like in a community like you're kind of a cornerstone of this one.
 
-00:31:20.000 --> 00:31:25.000
 So I hope you like. continue to be 7 or more people.
 
-00:31:25.000 --> 00:31:38.000
-Thank you. I I feel like I definitely have to, just for my own practice, like I was reading the other interview, editing it down, and I was like, Wow, This is like a real thing.
+>Thank you. I I feel like I definitely have to, just for my own practice, like I was reading the other interview, editing it down, and I was like, Wow, This is like a real thing. Like it feels momentous like, actually like what it he made a real legitimate thing.
 
-00:31:38.000 --> 00:31:46.000
-Like it feels momentous like, actually like what it he made a real legitimate thing.
+Yeah, you actually did. So a legit impactful thing. Yeah. Yeah. And it really has had an impact on me, too, like as much or more than everybody else.
 
-00:31:46.000 --> 00:31:52.000
-Yeah, you actually did. So a legit impactful thing. Yeah. Yeah.
-
-00:31:52.000 --> 00:31:59.000
-And it really has had an impact on me, too, like as much or more than everybody else.
-
-00:31:59.000 --> 00:32:04.000
-So that is of so much like that means so much to me.
-
-00:32:04.000 --> 00:32:17.000
-That I was joking at the beginning, like don't let this become my dissertation, because, like teaching used to take up so much of my life in a way that I hated because it was like planning and getting nervous for doing
-
-00:32:17.000 --> 00:32:31.000
-lectures. but this mode feels like the kind. of teaching that just feeds my soul and feeds my creative practice. and it's just so much more affirming and energy giving.
+>So that is of so much like that means so much to me. That I was joking at the beginning, like don't let this become my dissertation, because, like teaching used to take up so much of my life in a way that I hated because it was like planning and getting nervous for doing lectures. but this mode feels like the kind. of teaching that just feeds my soul and feeds my creative practice. and it's just so much more affirming and energy giving.
 
 00:32:31.000 --> 00:32:41.000
-Then, and if it does feel like the core of like that I Guess that's what I mean is like the thinking behind the like.
+Then, and if it does feel like the core of like that I Guess that's what I mean is like the thinking behind the like. The values, and then the the whatever the thing, is in the middle that I can't think of the word for the I forgot it was good where you will see it, and then the like how those get enacted.
 
-00:32:41.000 --> 00:32:58.000
-The values, and then the the whatever the thing, is in the middle that I can't think of the word for the I forgot it was good where you will see it, and then the like how those get enacted.
+But like I mean i'm thinking of like dot or my own experience, like I feel like a lot of the the values or a lot of the kind of like ideologies that I would try was trying to hold on to and be a lot harder for me to hold on to without code collect it, even Dodgy, who's like he was confronted with opportunities to profit immensely off of nfts, but decided not to because of code collect because like you know, when he was thinking about these ideas, he could see other people who are also using code in the creative manner.  
 
-00:32:58.000 --> 00:33:14.000
-But like I mean i'm thinking of like dot or my own experience, like I feel like a lot of the the values or a lot of the kind of like ideologies that I would try was trying to hold on to and be a lot
-
-00:33:14.000 --> 00:33:26.000
-harder for me to hold on to without code collect it, even Dodgy, who's like he was confronted with opportunities to profit immensely off of nfts, but decided not to because of code collect because like
-
-00:33:26.000 --> 00:33:32.000
-you know, when he was thinking about these ideas, he could see other people who are also using code in the creative manner.
-
-00:33:32.000 --> 00:33:45.000
-So it like actively shaped the ethics of of like students who have a lot of power or not students, but like individuals who are like who have exceptional power with their.
+So it like actively shaped the ethics of students who have a lot of power or not students, but like individuals who are like who have exceptional power with their.
 
 00:33:45.000 --> 00:33:53.000
-So I think I can see creative code collective as kind of like a way to like reinforce ethics.
+So I think I can see creative code collective as kind of like a way to reinforce ethics — and without imposing them. No one went to Elea and said, What you're doing is wrong. We said, Oh, like it sounds like you're having mixed feelings about this like let's talk about it, or he was very vocal about, but it was like we were all interested in, it and had dynamic conversations around it it was never like. don't do that what are you doing but definitely a space to hold like all the possibilities around it which I really appreciate.
 
-00:33:53.000 --> 00:34:04.000
-Yeah, and without imposing them like, no one went to Daji and said, What you're doing is wrong.
+And i've been careful not to I mean I know you and I have gotten into like some heated conversations which I really enjoy. But we're I think we're always there's a like a lot of respect there to hold all of the opposing ideas yeah So I guess that's like the like.
 
-00:34:04.000 --> 00:34:21.000
-We said, Oh, like it sounds like you're having mixed feelings about this like let's talk about it, or he was very vocal about, but it was like we were all interested in, it and had dynamic conversations around
+The dialectical is the value and yeah i'm stuck on like what to call those things. But I it's interesting how that plays out 
 
-00:34:21.000 --> 00:34:33.000
-it it was never like. don't do that what are you doing but definitely a space to hold like all the possibilities around it which I really appreciate.
+>What would you I have like to couple more questions 3 more questions. I guess so. we'll just like tell you what they all are, and then we can like chat about them in general. One is like, Do you have a favorite like what do you like about co- collective like? Do you have a favorite memory or moment from it? 
 
-00:34:33.000 --> 00:34:42.000
-And i've been careful not to I mean I know you and I have gotten into like some heated conversations which I really enjoy.
+>What would you change about it? Feel free to get unrealistic. No budgets or limits or like you won't it's Okay, if you insult me.
 
-00:34:42.000 --> 00:34:45.000
-But we're I think we're always there's a like a lot of respect.
+>And then what would you take? What do you take with you from your experiences? How has it changed you, or what you make or what you'll do
 
-00:34:45.000 --> 00:34:56.000
-Yeah there to hold all of the opposing ideas yeah So I guess that's like the like.
-
-00:34:56.000 --> 00:35:01.000
-The dialectical is the value and yeah i'm stuck on like what to call those things.
-
-00:35:01.000 --> 00:35:12.000
-But I it's interesting how that plays out What would you I have like to couple more questions 3 more questions.
-
-00:35:12.000 --> 00:35:18.000
-I guess so. we'll just like tell you what they all are, and then we can like chat about them in general.
-
-00:35:18.000 --> 00:35:26.000
-One is like, Do you have a favorite like what do you like about co- collective like?
-
-00:35:26.000 --> 00:35:31.000
-Do you have a favorite memory or moment from it? What would you change about it?
-
-00:35:31.000 --> 00:35:39.000
-Feel free to get unrealistic. No budgets or limits or like you won't it's Okay, if you insult me.
-
-00:35:39.000 --> 00:35:44.000
-And then what would you take? What do you take with you from your experiences?
-
-00:35:44.000 --> 00:35:48.000
-How has it changed you, or what you make or what you'll do
-
-00:35:48.000 --> 00:35:53.000
 I have 2 favorite memories. I think they're both like one in recent memory.
-
-00:35:53.000 --> 00:35:56.000
 I loved editing that Three.js scene with Ada. I love being able to have group input, and also before I was trying to communicate Three.js knowledge, and I've been struggling to get it out of my head. But, for some reason, seeing it in the group setting, it was a really fulfilling, experience, like a teaching moment where I could communicate a lot of knowledge in a short amount of time.
 
-00:36:20.000 --> 00:36:31.000
 There was also I forget her name, but this was pre-pandemic, but it was a beginner student to a trouble with code, and I think it was Catherine. But I forget. It was just like being able to see the mentorship between between people. That was a really powerful thing for me to see that, like Katherine was helping her. Yeah, , yeah, forgot who was helping. But, like I remember seeing seeing that kind of like troubleshooting, debugging. That was really important for me to see as far as where i'd like to see this.
 
 I'd love to see this outside of the university setting I wish this existed for urban professionals. I feel like not all of my silicon valley friends would partake in something like this, because they're so burnt out on code. But I'm sure there's a lot of people that are still wanting to have this conversation, wanting to office like in my career right now.
@@ -506,7 +428,7 @@ And gave me this beautiful cake. Yeah.
 
 But oh, there was a third question: Oh, yeah, what will you take with you from your experiences I mean it's more of like what won't like I what I think this **it's almost like an opportunity cost like if creative code wasn't there** I would be working for palantine or something right now like i'd be full like using this mind towards just I wouldn't even call it destruction but I would have lost a lot like I know that I I've been gifted with like, or just just been privileged to have a lot of technical ability, and i'd be using in a very, very different manner, if it wasn't for a code collective like I I definitely think that like it has kept a certain ethical leading or like a political meaning **I don't know how to describe that the family of values, that creative code, collective espouses. But like a huge amount of like empathy or a criticality that has remained. That's that's what i'm taking with me and that's what I will keep, and I hope to replicate it in some form.**
 
-But yeah, yeah, if you still have time i'd love to hear a bit more about how you would imagine replicating that, or like what your goal like. Yeah, so can you tell me more about that i'm heading to Santa Cruz.
+>But yeah, yeah, if you still have time i'd love to hear a bit more about how you would imagine replicating that, or like what your goal like. Yeah, so can you tell me more about that i'm heading to Santa Cruz.
 
 I'm not i'm not quite sure what the responsibilities are what the live with the school is gonna be entirely. It was cool. I got to meet the 2 of my peers in my lab.
 
@@ -556,13 +478,8 @@ I think there's some like Incan civilizations. but they would like, this exists 
 00:48:08.000 --> 00:48:12.000
 I argue if I got what conservatives but like they're like they're not scary. They're also like they they also have cannot share the same values like radical openness or welcoming. You could I think there's a value set that you could encompass that.
 
-00:48:25.000 --> 00:48:43.000
-That would that would do it yeah and I I mean But there's a part of me Yeah, there's a part of me that's like these values are not left or right per se.
+>That would that would do it yeah and I I mean But there's a part of me Yeah, there's a part of me that's like these values are not left or right per se. They want to capture, because I can imagine a bunch of right wingers also liking open source for very different reasons.
 
-00:48:43.000 --> 00:48:50.000
-They want to capture, because I can imagine a bunch of right wingers also liking open source for very different reasons.
-
-00:48:50.000 --> 00:48:59.000
 Right, a creative code, collective facility like having the same kind of like, I don't know like tech political algocratic leaning like, I don't know how to describe that set.
 
 >Yeah, right? But would it also emphasize like care? And the way that we like look after each other. And I think that that should be in there.
@@ -601,13 +518,7 @@ Put out anything against big tech you get blockballed like instantly. and like t
 of homogeneity hobbies that I have.
 
 00:54:07.000 --> 00:54:17.000
-Yeah, I mean, look what happened to timid who was like at the top of her game at Google, and it was like doing what her job described her to Do not bad.
-
-00:54:17.000 --> 00:54:35.000
-Like i'm stating the obvious which you hired me to do. and i'm still getting blackball. It wasn't even that like that, like I don't even I don't know Maybe Maybe they just like just needed to free up
-
-00:54:35.000 --> 00:54:39.000
-the Resources Corporation, you know. and then I just turned into like A.
+Yeah, I mean, look what happened to timid who was like at the top of her game at Google, and it was like doing what her job described her to Do not bad. Like i'm stating the obvious which you hired me to do. and i'm still getting blackball. It wasn't even that like that, like I don't even I don't know Maybe Maybe they just like just needed to free up the Resources Corporation, you know. and then I just turned into like A.
 
 00:54:39.000 --> 00:54:52.000
 I don't know yeah yeah what about your your Weren't you doing something with ocular vision?

@@ -11,6 +11,14 @@ tags: [notes, progress, misc, journal]
 # notes on research in progress
 <!-- # {{ page.title }} -->
 
+### 22 sep 23
+
+James Bridle: 
+- corporations are the current general AI
+- what is an intelligence that is not extractive, not modeled on corporate intelligences, but coming out of our entanglement with/as nature/world?
+- language emerged from direct experience of environment
+
+me: ...then what would be a phenomenological (rather than stocastic) computational representation of language?
 
 ### 15 sep 23
 

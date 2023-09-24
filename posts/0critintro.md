@@ -59,7 +59,7 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 >"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution." [@sharmaManifestoBrokenMachine2020]
 
-#### We Need Creative–Critical–Caring Approaches 
+### We Need Creative–Critical–Caring Approaches 
 
 Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins, who are most capable of addressing the urgent issues facing technology. These issues are not new but have been considered by a wide range of communities with different types of knowledge for centuries. Many are calling for that knowledge to be applied here. [cite][indigenous, queer, other applications of AI]
 
@@ -74,7 +74,7 @@ To sit a bit longer with questions I know I cannot answer, questions that make m
 
 #### Artistic experimentation
 
-I’m interested in how artistic experiments can challenge paradigms in machine learning, data science, and technology more broadly. 
+The case for combining creative and critical practices is already strong, and has been made elsewhere by many [XXXexpand][cite]. I am interested in how this work shows up as experimentation and particularly in how artistic experiments can challenge paradigms in machine learning, data science, and technology more broadly. 
 
 I have found artistic research practices can interrogate systems and imagine new ones. For me, it combines rigorous scholarly investigation, deep community building and activism, and creative play in ways that can connect to broader non-academic audiences. 
 
@@ -82,7 +82,7 @@ Art has been the space where I’m able to unpack complex ideas for myself, beca
 
 It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
  
-
+This is a practice of artistic research, arts-based research, and/or research creation (different lineages and regions call it different things)[cite]. 
 
 
 ## What Is Trans\*formative TechnoCraft?
@@ -148,6 +148,8 @@ Form in-forms content. The shape of the container decides what can fill it. If I
 In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain. It in-forms itself into content as I try to bring forth some kind of form. 
 
 Computation requires information to take on its formation, its orderly fashion. It requires contortion to represent us. Sarah Sharma reminds the Broken Machines: "to represent is also to be filed away." [@sharmaManifestoBrokenMachine2020 ]To understand through computation is to reduce to logics of categorization. [@crawfordAtlasAIPower2021] This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+
+>"frictioned technologies" @hamraieCripTechnoscienceManifesto2019a
 
 ### Techno
 
@@ -216,6 +218,7 @@ Techno means a plethora of prefix possibilities and digital-analog hybrids (thin
   - "bias transfer both (a) arises in realistic settings (such as when pre-training on ImageNet or other standard datasets) and (b) can occur even when the target dataset is explicitly de-biased" @salmanWhenDoesBias2022
 
 
+>"computers were humans (mostly women), and digital computers were primarily used for complex calculations, especially in wartime military contexts. Amid the ballistic calculations, Turing speculated on a prompt from his teacher, philosopher Ludwig Wittgenstein: Can machines think? Both men thought it was a ridiculous question" @veeTextGenEdTeachingText2023
 
 #### Tech is TechNO (Refusal, Tactical Media)
 
