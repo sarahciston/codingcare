@@ -141,46 +141,132 @@ Working among others helps us continually question and expand our definitions. A
 
 Designing the online presence for Code Collective has been an ongoing collaboration. Through the (perhaps menial but important) work of creating a seemingly simple site, we had to confront and create our collective identity very practically. We get to decide the tone of who we are as a group, how we will present ourselves, and to which publics: How do we describe what we are doing, what we prioritize, what we call ourselves, how we explain our processes, how we support others who join? What format do we put this in? What language do we use? Who do we make sure is included in this process?
 
-Through this process of communication and collaboration among the group members about who we are and what we want to offer, the Code Collective website has expanded from a static landing page into a unique resource hub and project showcase – with a searchable, contributable database of tools, tutorials, research, and projects we have found useful.   
+Through this process of communication and collaboration among the group members about who we are and what we want to offer, the Code Collective website has expanded from a static landing page into a unique resource hub and project showcase – with a searchable, contributable database of tools, tutorials, research, and projects we have found useful. 
+
+<div class="play-along" markdown="1">
+
+### PLAY ALONG: TBD
+
+</div>
 
 ## 2. We like scrappy artistic strategies, not perfect code
 
 The P5.js community statement warns against "code snobs" and assuming or prioritizing types of knowledge [^p5]. Code Collective echoes this with our endorsement of scrappy strategies. We love your spaghetti code, your half-finished thought, your sketchy mindmap — just as much as we love the polished work it may one day be. 
 
-### Duct tape and spitballs
+When someone joins up wanting to try something new, we don't say, "That's not what code is for." Instead we're excited to realize yet another thing code can be for and how we can help them figure it out. 
 
-I joke that my projects are held together with duct tape and spitballs, but it's basically true. Most of them use a wild-sourced daisy chain of APIs[^api] and random tools from different domains, because this is what it requires to sketch out an idea I haven't seen represented elsewhere. There is magic and politics and new knowledge to be found in creative (read: unintended, inappropriate) applications and combinations of existing tools. 
+### Don't be afraid to break stuff (you can't really break it)
 
-To think about how to combine ingredients to produce new flavors, connect dots, (mix metaphors) is an explicitly artistic approach, because it is a way of thinking with (and against) materials *as such*. What I mean is, it questions and engages the material propoerties of the platforms, codes, cultures, data, and infrastructures, in the same ways artists might handle new materials from an unfamiliar source — whether exploring paint color, wood grain, fiber properties or anything else. Listening to your materials can make work self-reflexive in incredibly useful and critical ways, whether you decide to work with or against their properties. 
-<!-- The downside of this is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or... -->
+How do you start getting scrappy instead of studious? Break things! Or at least, don't be afraid to. The [TinkerTank](https://tinkertank.de/) mobile makerspace in Germany starts each of their workshops by selecting a piece of old electronics from their scrap pile — and completely dismantling it. "People are afraid to break things," workshop leader Johannes May told me, and this helps warm people up to build new, imaginative things from the broken parts. 
 
-[^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves.
+Too often I don't get started because I don't know where to start, and also because I am afraid to "mess up" what already exists. That's what backups and save-as and sketches are for.
 
-### Don't be afraid to break stuff
+You can't (irrevocably) break anything, in all likelihood. And in the process of tinkering (which is just breaking, with flair) you learn a lot![^tinker] So try to push through the fear of breaking something, or doing something "wrong," to make space for doing something "weird" or interesting. So knowing that you can't really break it, get cracking!
+
+[^tinker]: To tinker is also to mend, to patch up, repair, or improve in a makeshift way [OED]. The word derives in part from the tasks of metalworkers (per Miller Puckette & OED). 
+
+### Critical breaking
+
+This is part of what we mean by scrappy — thoughtfully or playfully experimenting with the properties and limits of your materials, whether those materials are strings of wool or strings of code. This kind of "breaking" things is an essential artistic practice, and it looks different in every situation. It can range from off-the-cuff experimentation – "What happens if I push this?" — to full-fledged tactical media artworks that operate by digital civil disobedience – like the collective Electronic Disturbance Theater, which created tools to shut down government websites by pinging them repeatedly (called "distributed denial of service").[cite] For my past projects, this has ranged from diving into technology spaces I dislike (Reddit forums), tinkering with combining wildly different APIs[^api], and putting poetry into machine learning systems meant for corporate use. 
+
+Critically breaking things helps us understand how they work (or don't work) from inside. It lets us understand some of the why behind their operations, the decisions that went into making them. Who are they made for? And with what goals? Who are they not made for and who do they not serve? It helps us think about how we might make them differently. I break stuff to see if its not-working can create some poetry, some community, some other way to engage with value than its original commercial purpose. 
+
+Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't worry about that yet. It's a transferrable, lifelong skill:
 
 >"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
-The [TinkerTank](https://tinkertank.de/) mobile makerspace in Germany starts each of their workshops by selecting a piece of old electronics from their scrap pile — and completely dismantling it. "People are afraid to break things," workshop leader Johannes May told me, and this helps warm people up to build new, imaginative things from the broken parts. 
+One of the best ways to get started with learning a new aspect of programming is to take someone else's example code and learn how it's working by changing things — just little things to start. What happens if I make this a different color or run it at a different speed? How does it show up on screen? Then break big things — use it for different purposes, combine it with other code. 
 
-Systerserver building 
+<div class="play-along" markdown="1">
 
+### PLAY ALONG: Break this code
+
+Find some example code for a website you like by right clicking on any part of it in your web browser and hitting `Inspect`. You should see some windows appear that show the HTML and CSS source code for the site, where you can temporarily and without fear modify the site as you wish. Give yourself a fun mini challenge.
+
+For example: What if the New York Times had a purple background? 
+
+* Try going to to the `Styles` (Chrome) or `Rules` (Firefox) window that opened when you hit inspect.
+* Find `background` or `background-color:` and change what follows it to say `purple`
+
+What other experiments with CSS might you try? What can you learn using this method about how the site you chose was built? 
+
+This is a very aesthetic and web-based example, but you can imagine taking this approach to any tutorial or example you see. 
+
+Retype it, learn how it works, break it for fun or for your own purposes.
+
+</div>
 
 ### Build stuff
 
-[...] When it doesn't exist, we build it! We make it from other tools we scrap for parts. We break it to learn how it works, and why. 
+Breaking stuff beautifully leads into building new stuff. 
 
->>When the tool doesn't exist we build it. We make it from the other tools we scrapped for parts. We break it to learn how it works, to see if it could work a different way, to see if its not working makes it sing out with poetry. We write it out on paper if we don't know how to say it with code. If we can't find an example, if we wonder why it doesn't exist, we know this means we might be the ones who should bring it to life. If it does exist, we also ask if it should. We reverse-engineer it, run it backwards. We learn from others' tutorials, combine them, and modify them, liberally.
+When the tool you need doesn't exist, build it. Make it from existing tools scrapped for parts. Build it with duct tape and spitballs and a new programming language you teach yourself along the way. 
 
-## 3. We get vulnerable. 
+Build it to prove to yourself that it can exist. 
+
+Build it as an offering for others to share. 
+
+Build it to show that building is for anyone. These objects are instruction manuals for hope. 
+
+Write it out on paper if we don't know how to build it with code. 
+
+
+Systerserver building [xxx]
+
+
+
+
+If we can't find an example, if we wonder why it doesn't exist, we know this means we might be the ones who should bring it to life. If it does exist, we also ask if it should. 
+
+We reverse-engineer it, run it backwards. We learn from others' tutorials, combine them, and modify them, liberally.
+
+
+We break code to learn how it works, to see if it could work a different way, to see if its not working makes it sing out with poetry. We write it out on paper if we don't know how to say it with code. [htmlEnergy]
+
+### how we do it 
+### even when we don't know how
+### why we do it anyway
+
+
+
+[...]
+
+When you can't find a tutorial, don't assume it can't be done. Don't assume it isn't meant to be done. 
+
+
+Instead try asking with new language, asking a friend with a different background, asking with hands in the dirt, asking while tinkering on another project in another medium, asking while napping, until answers circle back. Write it out on paper, draw it, sing it, take a dance break. *Persistence is a rhythm not a slog.*
+
+Freely reverse-engineer, run it backwards, learn from others' examples and apply, combine, modify them liberally. Pull from anywhere in a wild mix of interdisciplinary, intersectional practices. Citing generously, of course. 
+
+### Duct tape and spitballs
+
+I joke that my projects are held together with duct tape and spitballs, but it's basically true. Most of them use a wild-sourced daisy chain of APIs[^api] and random tools from different domains, because this is what it requires to sketch out an idea I haven't seen represented elsewhere. There is magic and politics and new knowledge to be found in creative (read: unintended, inappropriate) applications and combinations of existing tools. 
+
+To think about how to combine ingredients to produce new flavors, connect dots, (mix metaphors) is an explicitly artistic approach, because it is a way of thinking with (and against) materials *as such*. It questions and engages the material properties of the platforms, codes, cultures, data, and infrastructures, in the same ways artists explore other materials — whether paint color, wood grain, fiber textures, or anything else. Listening to your materials can make work self-reflexive in incredibly useful and critical ways, whether you decide to work with or against their attributes. 
+
+[^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves. The downside of relying on external APIs is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or updates their system... your code also breaks. (Hence the duct tape.)
+
+
+### Growth not perfection // Learn how to learn
+
+The goal is not to get to "the end" where you have learned the entirety of a programming language or where you feel like a "real" programmer. There will always be more to learn. Rather, the goal is to learn how to learn. With this skill you have all the tools you need to find the tools you need, all the skills you need to learn the skills you need to do anything eventually. 
+
+ stretch a bit — whether in breadth or depth or both. 
+
+## 3. We get vulnerable
 
 ### Ask "stupid" questions (there are no stupid questions)
 
 We voice our "stupid" questions, nagging suspicions, deepest fears.
 
-We meet folks where they are, no code snobs, no stupid questions. 
+Without fail, when someone bravely asks what they call a "stupid" question, it is a question others have as well and a question that requires even people who think they already know the answer to think more deeply about the question in order to explain it in plain language. So-called stupid questions help us all unpack what we take for granted as assumed knowledge. Frequently assumed knowledge points to the foundations of the field of study, where the histories come from white supremacy, misogyny, colonialism, and ableism. 
 
-Even, and especially, as leaders and teachers we must do this. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body who nevertheless creates does so much more to teach and model how to create than anything I actually have lectured. And the less I plan and structure ~~but instead gesture and invite~~, the more space I invite and permit for what needs and wants to arise. 
+### Plan to unplan, plan to be awkward
+
+Even, and especially, as leaders and teachers we must get vulnerable about our craft. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body, who nevertheless creates, does much more to teach and model how to create than anything I actually have lectured. 
+
+The socially awkward planner in me wants to know in advance what's going to happen in every session. But the less I plan and structure, and instead gesture and invite, the more space exists for what group needs and wants arise. 
 
 
 
@@ -281,7 +367,11 @@ co-teach | co-learn | co-work | co-create
 >"There was beginner student who had trouble with code, and I think it was Katherine who helped but I forget. Being able to see the mentorship between between people. That was a really powerful thing for me to see. I remember seeing seeing that kind of like troubleshooting, debugging. That was really important for me to see."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
+<div class="play-along" markdown="1">
 
+### PLAY ALONG: TBD
+
+</div>
 
 ## 5. We stay gelatinous [flexible, spongy, fluid, adjustable]
 
@@ -350,11 +440,18 @@ Sometimes we have to build it. Content is liquid; it will take the form of its c
 
 It takes shape within the limits of the affordances of one's tools. [rephrase] The capacities of the tools we choose set limits for our capacities to create. If I choose a saw, I may be able to build a birdhouse but won't be able to write an essay. 
 
+<div class="play-along" markdown="1">
 
+### PLAY ALONG: TBD
+
+</div>
 
 ## 6. We dream impossibly big *and* impressively tiny, too.
 
 We're both excited for both impossibly large possibilities and also obsessed with tiny charming tasks. [xxxMore]
+
+Do you know that sneaky feeling an idea should already exist? It might mean you are just the person to create it. Or that other sneaky feeling that an idea is too impossibly far-fetched, that you are the only one who would want it? That *still* might mean you should pursue it. Remember if you're interested in something, others will be too! We are the people best suited to bring our own visions to life.
+
 
 ### Critical dreaming
 
@@ -379,7 +476,11 @@ These small things are seeds. We don't know what they might grow into but we tru
 
 
 
+<div class="play-along" markdown="1">
 
+### PLAY ALONG: TBD
+
+</div>
 
 
 ## 7. We create rituals together
@@ -472,8 +573,13 @@ Of course, this does not work. That nervous strategy is riddled with stilted eff
 
 GIFs, TikToks, whatever's your thing... what brings a smile to your face and a sense of levity to the experience? What can you connect around? How can we not take ourselves so seriously even as we engage in the serious business of reimagining the world? 
 
+<div class="play-along" markdown="1">
 
-<!-- #### (brave spaces w Sultan?) -->
+### PLAY ALONG: TBD
+
+</div>
+
+<!-- // #### (brave spaces w Sultan?) -->
 
 <!-- Since Zoom Doom, we've been looking for ways to recreate the unique environment we'd built in person using (or building) other a/synchronous tools.  -->
 
@@ -529,7 +635,11 @@ This started as a Google Doc where anyone could dump a link. It has grown into a
 
 [CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america]
 
+<div class="play-along" markdown="1">
 
+### PLAY ALONG: TBD
+
+</div>
 
 
 
@@ -540,6 +650,8 @@ This started as a Google Doc where anyone could dump a link. It has grown into a
 see Chapter 510's "care over careful" meaning care-ful with each other but not with worry about getting it "right" in a perfectionist sense. Perfectionism is white supremacy. [XXXcite] 
 
 #### why care
+
+Care and compassion are infinite but neglected resources, literally life sustaining resources that renew themselves with use. 
 
 >"Care is the practice of savouring how subtle differences can make all the difference."
 >>[Data Loam.](http://www.degruyter.com/document/doi/10.1515/9783110697841/html) (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.), De Gruyter. 
@@ -642,6 +754,17 @@ Some items we have considered, or intuitively incorporated:
 #### • Material care & physical contact/resources
 #### • Inclusive, iterative & recursive, inquisitive and embracing approaches
 
+<div class="play-along" markdown="1">
+
+### PLAY ALONG: Write your values, imagine your community
+
+TBD
+
+</div>
+
+</hr>
+
+## *OLD VERSIONS...*
 
 <!-- # A GUIDEBOOK -->
 
@@ -655,7 +778,7 @@ Some items we have considered, or intuitively incorporated:
 
 {:toc}
 
-### or field notes from [@creativecodecollective](https://creativecodecollective.com)
+<!-- ### or field notes from [@creativecodecollective](https://creativecodecollective.com) -->
 
 
 
@@ -671,32 +794,15 @@ Some items we have considered, or intuitively incorporated:
 * start your own collective -->
 
 
-### why we're here, upon reflection (a former manifesto)
 
-Care and compassion are infinite but neglected resources, literally life sustaining resources that renew themselves with use. 
 
-[...]
+If it doesn't exist, we ask if it should. And if it does exist, we still ask if it should (or shouldn't). We ask how could it be otherwise. 
 
-~~We know that sneaky feeling an idea should already exist means we might be the ones who are meant to create it. We know that other sneaky feeling that an idea is too impossibly far-fetched, that we are the only ones who would want it, *still* means we are the ones who should pursue it. We are the ones who can bring our vision to life.~~
+*All making is a research question.* All theory is theory–practice. All practice is theory–practice. Which is to say, our reading and thinking saturates what creative choices we make, what materials we use, how we speak about what we do. This is true even if unconscious. And so we choose to acknowledge this and do so mindfully. 
 
-We break code to learn how it works, to see if it could work a different way, to see if its not working makes it sing out with poetry. We write it out on paper if we don't know how to say it with code. [htmlEnergy]
-
-### how we do it 
-### even when we don't know how
-### why we do it anyway
-
-When the tool we need doesn't exist, we build it. We make it from the existing tools we scraped for parts. We build it with duct tape and spit and the new programming language we teach ourselves along the way. 
-
-We build it to prove to ourselves that it can exist. We build it as an offering for others to share. We build it to prove that building is for anyone, instruction manuals for hope. 
-
-[...]
-
-If it doesn't exist, we ask if it should. And if it does exist, we still ask if it should (or shouldn't). We ask how could it be otherwise. *All making is a research question.* All theory is theory–practice. All practice is theory–practice. Which is to say, our reading and thinking saturates what creative choices we make, what materials we use, how we speak about what we do. This is true even if unconscious. And so we choose to acknowledge this and do so mindfully. || Our creative choices and materials and our work in our bodies saturates our reading and thinking, our vocabularies, our points of reference, our critical tools, our communities of practice. These are recursive and reciprocal and iterative. Making is always a research question about how to live.
+Our creative choices and materials and our work in our bodies saturates our reading and thinking, our vocabularies, our points of reference, our critical tools, our communities of practice. These are recursive and reciprocal and iterative. Making is always a research question about how to live.
 [[insert figure]]   
 
-When we can't find a tutorial, we don't assume it can't be done. We don't assume it isn't meant to be done. We don't say, "That's not what code is for." Instead we try asking with new language, asking a friend with a different background, asking with our hands in the dirt, asking as we tinkering on another project in another medium, until answers circle back to us. We write it out on paper, we draw it, we sing it, we take a dance break. *Persistence is a rhythm not a slog.*
-
-We reverse-engineer, run it backwards, learn from others' examples and apply, combine, modify them liberally. We pull from anywhere, [interdisciplinary, intersectional practice.]
 
 [...]
 
@@ -817,7 +923,7 @@ Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schn
 
 >>Ada: stumbled on it by chance, i get bored very easily, won't take projects unless i'm very excited about it. kind of trained me, started learning more music visualization and how i built up all the ..al the coding knowledge i have is 
 
-SC: learning to give your self permission even though there isn't a clear path. 
+SC: learning to give yourself permission even though there isn't a clear path. 
 
 >>Ada: improving from learning how to better look things up. read the documentation before, to know where to look when you ended something. making the referencing process faster. making reference sheets. straight copy, give credit, connect something new/make a change
 
