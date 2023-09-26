@@ -143,27 +143,29 @@ Designing the online presence for Code Collective has been an ongoing collaborat
 
 Through this process of communication and collaboration among the group members about who we are and what we want to offer, the Code Collective website has expanded from a static landing page into a unique resource hub and project showcase – with a searchable, contributable database of tools, tutorials, research, and projects we have found useful. 
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
 
 </div>
 
-## 2. We like scrappy artistic strategies, not perfect code
+## 2. We get scrappy
 
-The P5.js community statement warns against "code snobs" and assuming or prioritizing types of knowledge [^p5]. Code Collective echoes this with our endorsement of scrappy strategies. We love your spaghetti code, your half-finished thought, your sketchy mindmap — just as much as we love the polished work it may one day be. 
+Code Collective endorses **scrappy artistic strategies, not perfect code**. We love your spaghetti code, your half-finished thought, your sketchy mindmap — just as much as we love the polished work it may one day be. When someone joins up wanting to try something new, we don't say, "That's not what code is for." Instead we're excited to discover yet another thing code can be for and how we can help them figure it out. 
 
-When someone joins up wanting to try something new, we don't say, "That's not what code is for." Instead we're excited to realize yet another thing code can be for and how we can help them figure it out. 
+We echo the call from the P5.js community statement, which warns against "code snobs" and assuming or prioritizing types of knowledge.[^p5] There is no programming language empirically better than any other; there's only the right tool for a particular task, for a particular person, at a particular point in time. It's totally fine to rely on code libraries and examples and the wisdom of those who came before you. Who doesn't!? We will always be reliant on collected and collective knowledge. 
+
+Don't wait until you know you'll do it "perfectly" (or read the whole book, or taken the whole course) before you get started. Half the fun is in adapting unexpected outcomes into your process. Making and learning are reciprocal activities, a mobius strip of embodied knowledge. 
 
 ### Don't be afraid to break stuff (you can't really break it)
 
 How do you start getting scrappy instead of studious? Break things! Or at least, don't be afraid to. The [TinkerTank](https://tinkertank.de/) mobile makerspace in Germany starts each of their workshops by selecting a piece of old electronics from their scrap pile — and completely dismantling it. "People are afraid to break things," workshop leader Johannes May told me, and this helps warm people up to build new, imaginative things from the broken parts. 
 
-Too often I don't get started because I don't know where to start, and also because I am afraid to "mess up" what already exists. That's what backups and save-as and sketches are for.
-
-You can't (irrevocably) break anything, in all likelihood. And in the process of tinkering (which is just breaking, with flair) you learn a lot![^tinker] So try to push through the fear of breaking something, or doing something "wrong," to make space for doing something "weird" or interesting. So knowing that you can't really break it, get cracking!
+Too often I don't get started because I don't know where to start, and also because I am afraid to "mess up" what already exists. That's what backups and save-as and sketches are for. You can't (irrevocably) break anything, in all likelihood. And in the process of tinkering (which is just breaking, with flair) you learn a lot![^tinker] So try to push through the fear of breaking something, or doing something "wrong," to make space for doing something "weird" or interesting. So knowing that you can't really break it, get cracking!
 
 [^tinker]: To tinker is also to mend, to patch up, repair, or improve in a makeshift way [OED]. The word derives in part from the tasks of metalworkers (per Miller Puckette & OED). 
+
+I learned to take scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). He simply said, "Pick something you want to make and use it to try to learn Python." Reader, I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself CSS and Javascript. But I trusted Brett, so I found a little example code for a chatbot and used it to make what would become "ladymouth" — a chatbot that tries to explain feminism to misogynists online — while learning enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run. Through Brett's positive encouragement, and by finding the right tool for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, couldn't understand the tools I wanted to use, and didn't belong in the spaces that interested me (or that I didn't even know about). 
 
 ### Critical breaking
 
@@ -178,7 +180,7 @@ Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't wo
 >"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: Break this code
 
@@ -217,13 +219,15 @@ Find an example that looks enough like what you imagine to extrapolate. When you
 
 Try asking with new language, asking a friend with a different background, asking with hands in the dirt, asking while tinkering on another project in another medium, asking while doodling or napping. Take breaks, but keep asking until answers circle back. Write it out on paper, draw it, sing it, dance it out. 
 
-### Go slow
-
 *Persistence is a rhythm not a slog.*
 
-I have learned from many communities building transfeminist infrastructures that slow and embodied and connected "art that surfaces the hitherto invisible labor of service, care, and maintenance" has a place in coding communities as both a practical tool and a critique of institutions. [^Kleesattel] Community and transfeminist server networks and collectives like Constant, Lurk, Rosa, [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html) [XXXmakelinks]
+<div class="live-code box" markdown="1">
 
-"A Wishlist for Trans*feminist Servers" (continuously updated and retitled since 2014) includes 
+### LIVE CODE: Go slow, be of service
+
+I have learned from many communities building transfeminist infrastructures that slow and embodied and connected "art that surfaces the hitherto invisible labor of service, care, and maintenance" has a place in coding communities as both a practical tool and a critique of institutions.[^Kleesattel] Community and transfeminist server networks and collectives like Constant, Lurk, Rosa, [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html)[XXXmakelinks], and others show how [XXX]
+
+"A Wishlist for Trans*feminist Servers" (continuously updated and retitled since 2014) includes [XXX]
 
 >"... radically question the conditions for serving and service; they experiment with changing client-server, user-device and guest-host-ghost relations where they can. Who is serving whom? Who is serving what? What is serving whom? Are they being served?"
 
@@ -235,20 +239,11 @@ I have learned from many communities building transfeminist infrastructures that
 
 Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
 
-Careful slugs @brittonCarefulSlugsCaring2022a
+Be slugs, care-ful slugs (CS),   @brittonCarefulSlugsCaring2022a
 
-This is how we do it even 
-### how we do it 
-### even when we don't know how
-### why we do it anyway
+</div>
 
-
-
-[...]
-
-
-
-### Get sticky
+### Get sticky, listen to materials
 
 I joke that my projects are held together with duct tape and spitballs, but it's basically true. Most of them use a wild-sourced daisy chain of APIs[^api] and random tools from different domains, because this is what it requires to sketch out an idea I haven't seen represented elsewhere. There is magic and politics and new knowledge to be found in creative (read: unintended, inappropriate) applications and combinations of existing tools. 
 
@@ -256,12 +251,11 @@ To think about how to combine ingredients to produce new flavors, connect dots, 
 
 [^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves. The downside of relying on external APIs is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or updates their system... your code also breaks. (Hence the duct tape.)
 
+### Learn how to learn
 
-### Growth not perfection // Learn how to learn
+The goal is "growth not perfection." You will never get to "the end" where you have learned the entirety of a programming language. There will always be more to learn. Rather, the goal is to learn how to learn - to learn how to find the language to describe the questions you want to ask. With this skill alone, you already have all the tools you need to find the tools you need, all the skills you need to learn the skills you need — to make or do anything at all, eventually. 
 
-The goal is not to get to "the end" where you have learned the entirety of a programming language or where you feel like a "real" programmer. There will always be more to learn. Rather, the goal is to learn how to learn. With this skill you have all the tools you need to find the tools you need, all the skills you need to learn the skills you need to do anything eventually. 
-
- stretch a bit — whether in breadth or depth or both. 
+How do we learn how to learn? We tinker and stretch a bit — whether in breadth or depth or both. We work from the foundations of what we already know and use it as metaphors to help us understand what we don't yet know. We question the foundations of what we already know and use new information to reflect on it in new contexts. We collage and combine and experiment with what might go together unexpectedly, what we might have taken for granted right in front of us. How did you learn the things you most enjoy? Was it from a text book or from your own explorations? What kinds of exploratory approaches work best for you? 
 
 ## 3. We get vulnerable
 
@@ -300,7 +294,7 @@ When we don't talk about learning struggles, it's easy to feel alone. This is tr
 
 For example, I am writing this guide in a git repo (a type of archive used in programming to keep track of versions and allow multiple users to make edits). It is continually updated and saved on a public Github Pages website, which means both that you are reading a work in progress and also that anyone can see any prior version of it any time ([here](https://github.com/sarahciston/codingcare/commits/Jekyll/posts/guide.md)). 
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: Hello, old friend
 
@@ -388,7 +382,7 @@ co-teach | co-learn | co-work | co-create
 >"There was beginner student who had trouble with code, and I think it was Katherine who helped but I forget. Being able to see the mentorship between between people. That was a really powerful thing for me to see. I remember seeing seeing that kind of like troubleshooting, debugging. That was really important for me to see."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
 
@@ -461,7 +455,7 @@ Sometimes we have to build it. Content is liquid; it will take the form of its c
 
 It takes shape within the limits of the affordances of one's tools. [rephrase] The capacities of the tools we choose set limits for our capacities to create. If I choose a saw, I may be able to build a birdhouse but won't be able to write an essay. 
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
 
@@ -497,7 +491,7 @@ These small things are seeds. We don't know what they might grow into but we tru
 
 
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
 
@@ -594,7 +588,7 @@ Of course, this does not work. That nervous strategy is riddled with stilted eff
 
 GIFs, TikToks, whatever's your thing... what brings a smile to your face and a sense of levity to the experience? What can you connect around? How can we not take ourselves so seriously even as we engage in the serious business of reimagining the world? 
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
 
@@ -664,7 +658,7 @@ This started as a Google Doc where anyone could dump a link. It has grown into a
 
 [CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america]
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
 
@@ -783,7 +777,7 @@ Some items we have considered, or intuitively incorporated:
 #### • Material care & physical contact/resources
 #### • Inclusive, iterative & recursive, inquisitive and embracing approaches
 
-<div class="play-along" markdown="1">
+<div class="play-along box" markdown="1">
 
 ### PLAY ALONG: Write your values, imagine your community
 
