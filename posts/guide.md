@@ -8,9 +8,11 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
 # Coding Care: Field notes for making friends with code
+{:.no_toc}
 <!-- a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities -->
 <!-- [guide book / field notes / pocket guide] -->
 
+* toclist
 {:toc}
 
 >"Any meeting or gathering is a place to practice the future together in the most tangible ways."
@@ -77,7 +79,9 @@ Throughout the guide I'll share what I've learned while building Code Collective
 
 I am writing both as a representative of this community and also as an individual greatly influenced by it and by so many other creators, thinkers, and teachers. I want to document our work processes and thought processes, and to honor the many entangling threads that go into shaping a caring (coding) community. 
 
-The heart of this book are [ten] principles that have emerged through gathering as Code Collective. They are simple tactics for anyone to employ in their own community practices — or adapt to suit them. Developing these tactics has been intuitive, iterative, and collaborative. They emerged out of desire and instinct. We have expanded and distilled these tactics influenced by other organizations, thinkers, makers, and more; and we have reshaped them continually as our group evolves. All recommendations in the book are intended to be descriptive, not prescriptive. Here's what has worked for us (and what hasn't). I invite you to embrace and adapt what works for you and leave the rest. And I am interested in how these tactics change in different circumstances, so if you find something that works better for you, I'd be excited to learn about it too! 
+The heart of this book are [nine] principles that have emerged through gathering as Code Collective. They are simple tactics for anyone to employ in their own community practices — or adapt to suit them. Developing these tactics has been intuitive, iterative, and collaborative. They emerged out of desire and instinct. We have expanded and distilled these tactics influenced by other organizations, thinkers, makers, and more; and we have reshaped them continually as our group evolves. All recommendations in the book are intended to be descriptive, not prescriptive. Here's what has worked for us (and what hasn't). I invite you to embrace and adapt what works for you and leave the rest. And I am interested in how these tactics change in different circumstances, so if you find something that works better for you, I'd be excited to learn about it too! 
+
+Each of the guiding principles is paired with sections called `PLAY ALONG` – practical exercises you can try — and `LIVE CODE` — brief case studies from other communities of practice. Although Coding Care is a pocket guide, it also lives in large part online as a [`PROJECT SHOWCASE`](https://creativecodecollective.com/showcase) of active works by Code Collective Community members and as a vibrant [`RESOURCE HUB`](https://creativecodecollective.com/resource-hub), a database of tutorials, textbooks, projects, code libraries, zines, and all manner of things we have found useful.
 
 >>"Any meeting or gathering is a place to practice the future together in the most tangible ways" (adrienne maree brown 2021, 117)
 
@@ -666,7 +670,7 @@ This started as a Google Doc where anyone could dump a link. It has grown into a
 
 
 
-## 10. We encode our values
+## 9. We encode our values
 
 ### Start with care 💜 before code
 
@@ -784,6 +788,12 @@ Some items we have considered, or intuitively incorporated:
 TBD
 
 </div>
+
+## [`PROJECT SHOWCASE`](https://creativecodecollective.com/showcase) 
+
+## [`RESOURCE HUB`](https://creativecodecollective.com/resource-hub)
+
+</hr>
 
 </hr>
 

@@ -7,7 +7,8 @@ nav_order: 6
 # tags: [design]
 ---
 
-{% include_relative includes/mermaid.md %}
+<!-- {% include_relative includes/mermaid.md %} -->
+{% include mermaid.md %}
 
 # {{ page.title }}
 
