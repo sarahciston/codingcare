@@ -93,6 +93,8 @@ It is not one gesture or one moment, but their accumulation. Each thing we have 
 
 This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says, "a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world" [^hedva2022]@hedvaWhyItTaking – yet here I document what we've actually put in the world, alongside what we hope to. Code Collective exists because I believe it is incredibly easy to have communities like this, and I am not the only one. Like code itself, and Code Collective, this guide strives to bring the "impossible" into the "real world" now – as a proposition toward how it can be entirely possible, present, liveable, and thriving. Anarchists call this "prefiguration" but we can just call it fun. And so the pocket guide exists somewhere between a manifesto and a manual. Make of it what you will; I hope you do!
 
+[Back to top](#top)
+
 ## 1. We create who we are together
 
 >"What I like about code collective is that it's a community of friends as well as resources. That's where I can feel like we're all going on a journey of learning and discovery together."
@@ -152,6 +154,8 @@ Through this process of communication and collaboration among the group members 
 ### PLAY ALONG: TBD
 
 </div>
+
+[Back to top](#top)
 
 ## 2. We get scrappy
 
@@ -261,6 +265,8 @@ The goal is "growth not perfection." You will never get to "the end" where you h
 
 How do we learn how to learn? We tinker and stretch a bit — whether in breadth or depth or both. We work from the foundations of what we already know and use it as metaphors to help us understand what we don't yet know. We question the foundations of what we already know and use new information to reflect on it in new contexts. We collage and combine and experiment with what might go together unexpectedly, what we might have taken for granted right in front of us. How did you learn the things you most enjoy? Was it from a text book or from your own explorations? What kinds of exploratory approaches work best for you? 
 
+[Back to top](#top)
+
 ## 3. We get vulnerable
 
 >"I do not expect students to take any risks that I would not take, to share in any way that I would not share."
@@ -345,6 +351,8 @@ The Code Collective approach is perhaps best illustrated by the sailing band of 
 
 We've also adopted the magpie as our official mascot: an intelligent, crafty corvid fascinated with shiny objects and capable of using tools. 
 
+[Back to top](#top)
+
 ## 4. We all have skills to teach each other
 
 ### Remember what you already know (& forget it)
@@ -391,6 +399,8 @@ co-teach | co-learn | co-work | co-create
 ### PLAY ALONG: TBD
 
 </div>
+
+[Back to top](#top)
 
 ## 5. We stay gelatinous [flexible, spongy, fluid, adjustable]
 
@@ -465,6 +475,8 @@ It takes shape within the limits of the affordances of one's tools. [rephrase] T
 
 </div>
 
+[Back to top](#top)
+
 ## 6. We dream impossibly big *and* impressively tiny, too.
 
 We're both excited for both impossibly large possibilities and also obsessed with tiny charming tasks. [xxxMore]
@@ -501,6 +513,7 @@ These small things are seeds. We don't know what they might grow into but we tru
 
 </div>
 
+[Back to top](#top)
 
 ## 7. We create rituals together
 
@@ -602,7 +615,9 @@ GIFs, TikToks, whatever's your thing... what brings a smile to your face and a s
 
 <!-- Since Zoom Doom, we've been looking for ways to recreate the unique environment we'd built in person using (or building) other a/synchronous tools.  -->
 
-## 9. We share [resources]
+[Back to top](#top)
+
+## 8. We share [resources]
 
 We share resources, honor emotional labor and the labor of documentation as essential parts of coding, and don't take for granted what feels intuitive or close to our hearts. 
 
@@ -653,8 +668,8 @@ I’m not taking credit for any of these approaches being novel; in fact, in som
 This started as a Google Doc where anyone could dump a link. It has grown into a full-fledged database, which we iterated on together during group troubleshooting sessions. Then rethought it again as a simple spreadsheet and form to feed the website. It has had many versions. Whether you make a wiki or cover the wall in sticky notes or use the latest sharing platforms all synched up to your phones, finding a free and open way to share information with one another—the lower the barrier the entry the better. There's always a tension between how structured or unstructured to make it (enough so people know where to put things and find things, not so much that they can't imagine new things that don't fit the existing form).
 
 
-## Value documentation and/as care work
-### documentation is hard work, necessary work, just as essential as the code itself
+### Value documentation and/as care work
+#### documentation is hard work, necessary work, just as essential as the code itself
 
 * collaborative notetaking in a shared etherpad or team doc
 * starting a website together, posting your individual sketches or projects on a group github
@@ -668,7 +683,7 @@ This started as a Google Doc where anyone could dump a link. It has grown into a
 
 </div>
 
-
+[Back to top](#top)
 
 ## 9. We encode our values
 
@@ -789,9 +804,9 @@ TBD
 
 </div>
 
-## [`PROJECT SHOWCASE`](https://creativecodecollective.com/showcase) 
+## [PROJECT SHOWCASE](https://creativecodecollective.com/showcase) 
 
-## [`RESOURCE HUB`](https://creativecodecollective.com/resource-hub)
+## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
 
 </hr>
 
