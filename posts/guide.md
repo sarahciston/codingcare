@@ -167,20 +167,22 @@ You can't (irrevocably) break anything, in all likelihood. And in the process of
 
 ### Critical breaking
 
+If something exists, ask how it does. Ask if it should. Reverse engineer it. Run it backward. Learn from others' tutorials. Combine them. Modify them liberally. Pull from everywhere and remix wildly. Cite generously.
+
 This is part of what we mean by scrappy — thoughtfully or playfully experimenting with the properties and limits of your materials, whether those materials are strings of wool or strings of code. This kind of "breaking" things is an essential artistic practice, and it looks different in every situation. It can range from off-the-cuff experimentation – "What happens if I push this?" — to full-fledged tactical media artworks that operate by digital civil disobedience – like the collective Electronic Disturbance Theater, which created tools to shut down government websites by pinging them repeatedly (called "distributed denial of service").[cite] For my past projects, this has ranged from diving into technology spaces I dislike (Reddit forums), tinkering with combining wildly different APIs[^api], and putting poetry into machine learning systems meant for corporate use. 
 
-Critically breaking things helps us understand how they work (or don't work) from inside. It lets us understand some of the why behind their operations, the decisions that went into making them. Who are they made for? And with what goals? Who are they not made for and who do they not serve? It helps us think about how we might make them differently. I break stuff to see if its not-working can create some poetry, some community, some other way to engage with value than its original commercial purpose. 
+Critically breaking things helps us understand how they work (or don't work) from inside. It lets us understand some of the why behind their operations, the decisions that went into making them. Who are they made for? And with what goals? Who are they not made for and who do they not serve? It helps us think about how we might make them differently. I break stuff to see if its not-working can create some poetry, some community, some other way to engage with value than its original (likely capitalist) purpose. [^htmlEnergy][XXX]
 
-Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't worry about that yet. It's a transferrable, lifelong skill:
+Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't worry about that yet. Tinkering is a transferrable, lifelong skill:
 
 >"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
-One of the best ways to get started with learning a new aspect of programming is to take someone else's example code and learn how it's working by changing things — just little things to start. What happens if I make this a different color or run it at a different speed? How does it show up on screen? Then break big things — use it for different purposes, combine it with other code. 
-
 <div class="play-along" markdown="1">
 
 ### PLAY ALONG: Break this code
+
+One of the best ways to get started with learning a new aspect of programming is to take someone else's example code and learn how it's working by changing things — just little things to start. What happens if I make this a different color or run it at a different speed? How does it show up on screen? Then break big things — use it for different purposes, combine it with other code. 
 
 Find some example code for a website you like by right clicking on any part of it in your web browser and hitting `Inspect`. You should see some windows appear that show the HTML and CSS source code for the site, where you can temporarily and without fear modify the site as you wish. Give yourself a fun mini challenge.
 
@@ -199,31 +201,43 @@ Retype it, learn how it works, break it for fun or for your own purposes.
 
 ### Build stuff
 
-Breaking stuff beautifully leads into building new stuff. 
+Breaking stuff beautifully leads to building new stuff. 
 
-When the tool you need doesn't exist, build it. Make it from existing tools scrapped for parts. Build it with duct tape and spitballs and a new programming language you teach yourself along the way. 
+Build something to prove to yourself that it can exist or it should. 
 
-Build it to prove to yourself that it can exist. 
+Build it as an offering for others. 
 
-Build it as an offering for others to share. 
+Build something to show that building is for anyone. These objects are instruction manuals for hope. 
 
-Build it to show that building is for anyone. These objects are instruction manuals for hope. 
+When the tool you need for building doesn't exist, build that too. Make it from existing tools you scrapped for parts. 
 
-Write it out on paper if we don't know how to build it with code. 
+When you don't know the programming language you need for what you're building, trust you can pick up just enough of it to get by along the way. Write it out on paper if you don't know how to build it with code. Show it to a friend who can point you in a new direction. 
 
+Find an example that looks enough like what you imagine to extrapolate. When you can't find a tutorial, don't assume it can't be done. Don't assume it isn't meant to be done. This means you might be the one to do it. 
 
-Systerserver building [xxx]
+Try asking with new language, asking a friend with a different background, asking with hands in the dirt, asking while tinkering on another project in another medium, asking while doodling or napping. Take breaks, but keep asking until answers circle back. Write it out on paper, draw it, sing it, dance it out. 
 
+### Go slow
 
+*Persistence is a rhythm not a slog.*
 
+I have learned from many communities building transfeminist infrastructures that slow and embodied and connected "art that surfaces the hitherto invisible labor of service, care, and maintenance" has a place in coding communities as both a practical tool and a critique of institutions. [^Kleesattel] Community and transfeminist server networks and collectives like Constant, Lurk, Rosa, [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html) [XXXmakelinks]
 
-If we can't find an example, if we wonder why it doesn't exist, we know this means we might be the ones who should bring it to life. If it does exist, we also ask if it should. 
+"A Wishlist for Trans*feminist Servers" (continuously updated and retitled since 2014) includes 
 
-We reverse-engineer it, run it backwards. We learn from others' tutorials, combine them, and modify them, liberally.
+>"... radically question the conditions for serving and service; they experiment with changing client-server, user-device and guest-host-ghost relations where they can. Who is serving whom? Who is serving what? What is serving whom? Are they being served?"
 
+> "... do not serve every body; they continuously re-negotiate what counts as accessible. They respond to the fluctuating abilities, embodied knowledges and genealogies of their care-takers and users."
 
-We break code to learn how it works, to see if it could work a different way, to see if its not working makes it sing out with poetry. We write it out on paper if we don't know how to say it with code. [htmlEnergy]
+> "... reject generalized definitions of efficiency, efficacy, ease-of-use, transparency, scalability, accessibility, inclusion, optimization and immediacy because they are often traps."
 
+[^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021
+
+Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
+
+Careful slugs @brittonCarefulSlugsCaring2022a
+
+This is how we do it even 
 ### how we do it 
 ### even when we don't know how
 ### why we do it anyway
@@ -232,14 +246,9 @@ We break code to learn how it works, to see if it could work a different way, to
 
 [...]
 
-When you can't find a tutorial, don't assume it can't be done. Don't assume it isn't meant to be done. 
 
 
-Instead try asking with new language, asking a friend with a different background, asking with hands in the dirt, asking while tinkering on another project in another medium, asking while napping, until answers circle back. Write it out on paper, draw it, sing it, take a dance break. *Persistence is a rhythm not a slog.*
-
-Freely reverse-engineer, run it backwards, learn from others' examples and apply, combine, modify them liberally. Pull from anywhere in a wild mix of interdisciplinary, intersectional practices. Citing generously, of course. 
-
-### Duct tape and spitballs
+### Get sticky
 
 I joke that my projects are held together with duct tape and spitballs, but it's basically true. Most of them use a wild-sourced daisy chain of APIs[^api] and random tools from different domains, because this is what it requires to sketch out an idea I haven't seen represented elsewhere. There is magic and politics and new knowledge to be found in creative (read: unintended, inappropriate) applications and combinations of existing tools. 
 
@@ -255,6 +264,9 @@ The goal is not to get to "the end" where you have learned the entirety of a pro
  stretch a bit — whether in breadth or depth or both. 
 
 ## 3. We get vulnerable
+
+>"I do not expect students to take any risks that I would not take, to share in any way that I would not share."
+>>–bell hooks @hooksTeachingTransgressEducation1994
 
 ### Ask "stupid" questions (there are no stupid questions)
 
@@ -343,6 +355,8 @@ Each of us already knows A LOT.
 
 We may know about the same things and understand it differently. 
 
+>"There must be an ongoing recognition that [...] everyone contributes. These contributions are resources." –bell hooks
+
 ### Remember no one knows everything 
 
 Tell us something you know about! Tell us something you'd like to learn!
@@ -351,9 +365,16 @@ We look for the overlaps. Simple gestures like these begin to level hierarchies 
 
 We don’t dismiss hierarchy out of hand, but acknowledge and work to address it by meeting each other where we are and valuing what each can contribute to another’s knowledge, and to better and more diverse computational systems.
 
-### "always-already" / "end-user" programming
+### Take comfort in this Programmer's Paradox
 
->>Bonnie Nardi says, "Computer-centric terms such as ‘novice’ obscure the possibilities for creating appropriate end user systems and are prejudicial in assigning prominence to the computer." @nardiSmallMatterProgramming1993
+#### You may never feel like a "real programmer." You already are a programmer.
+
+>"Computer-centric terms such as ‘novice’ obscure the possibilities for creating appropriate end user systems and are prejudicial in assigning prominence to the computer." 
+>>— Bonnie Nardi @nardiSmallMatterProgramming1993
+
+Reunite the concepts of programmer and user that have been artificially divorced [see "always–already programming" Melanie Hoff [@AlwaysalreadyprogrammingMd] and "end-user programming" Bonnie Nardi [@nardiSmallMatterProgramming1993]
+
+Bonnie Nardi's concept of "end-user programming" dismantles the hierarchy of software maker/user and emphasizes the work a user does as another kind of programming. Every day we customize settings and change parameters, we put formulas in spreadsheets and create automatic workflows in photo editors. She argues these "end-users" are not naive but make intensive use of computers. She includes such tasks on a continuum with programming that addresses the machine at various levels, whether "close to the metal" like assembly languages or abstracted high-level languages like object-oriented programming. We see this continuum continuing to blur now with "prompt programming," which involves writing plain-text commands for generative AI systems. 
 
 Ask ourselves: What do you want to make? What resources do you need to get there? /*More importantly, *why* do you want to put it in the world?*/ [xxxmovebelow?]
 
@@ -362,7 +383,7 @@ co-teach | co-learn | co-work | co-create
 [always already programming](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) —— "the programmer is also the user is also the programmer" 
 >"When we all build up and cultivate one another’s agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing." "It's buttons all the way down." (Melanie Hoff)
 
-### we know teaching others helps us learn // We learn together. ~~We wayfind together.~~ Collaboration, not competition. Growth, not perfection. "Care over careful"
+### we know teaching others helps us learn // We learn together. ~~We wayfind together.~~ Collaboration, not competition. "Care over careful"
 
 >"There was beginner student who had trouble with code, and I think it was Katherine who helped but I forget. Being able to see the mentorship between between people. That was a really powerful thing for me to see. I remember seeing seeing that kind of like troubleshooting, debugging. That was really important for me to see."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
@@ -383,7 +404,7 @@ And we acknowledge many contexts that situate the tools and languages we choose.
 
 We don’t assume we *should* code something just because we can. 
 
-Through conversations about what we’re making and imagining, I try to model an artistic research practice that integrates the critical and creative, prioritizing dialectical exchange over prescriptive lecture, comfort with uncertainty and multiple approaches.
+Through conversations about what we’re making and imagining, I try to model an artistic research practice that integrates the critical and creative, prioritizing dialogue exchange over prescriptive lecture, comfort with uncertainty and multiple approaches.
 
 Very quickly the personal becomes political and our work easily extends beyond ourselves, to engage algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally. 
 
@@ -590,6 +611,14 @@ We share resources, honor emotional labor and the labor of documentation as esse
 ### Foreground accessibility
 
 Adapting our systems to our particular needs and those of others tends to make those systems more accessible for everyone. 
+
+Anything that allows you or prevents you from participating is a factor of access. This can include physical accessibility, knowledge and language inclusion, the many intersectional aspects of diversity, and more. The open-source software community P5.js took an active approach to access when they declared in 2019 that they would only build in new features to their software that supported increased access. They have included increasing support for translation, assistive tech, friendly error messages and contributor resources, and mentorship of historically excluded communities all under this umbrella of their [Focus on Access](https://github.com/processing/p5.js/blob/main/contributor_docs/access.md). 
+
+Provide an accessibility description of your space. This is something I have not been good at in the past, because I have been able to take for granted that I can reach a building, get inside, be somewhat comfortable when I am there. As aspects of that priviledge change for me (and the ones that don't) I realize how helpful it is to know in advance what to expect or if it's worth trying to go at all: What will be provided? What cannot be provided at this time? Who is the point of contact for questions about access? Here is an example of an accessibility outline from [varia](https://vvvvvvaria.org/en/pages/accessibility.html) in Rotterdam.
+
+The same is true of the digital spaces we create. Putting access first creates features that support everyone. Addressing the problems of the marginalized majority — from alt text to [XXXX to XXXX] — offers multiple points of entry for many people. 
+
+More resources on digital accessibility were highlighted during [p5 Access Day 2022](https://p5js.org/community/p5js-access-day-2022.html).
 
 ### Minimal is accessible
 

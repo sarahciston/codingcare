@@ -235,6 +235,7 @@ And **TechnoCraft** is the combo of historically dismissed and feminized practic
 ## bibliography & mediography 
 See References TK
 
+hooks, bell [Teaching to Transgress]
 Zach Blas [Queer Technologies](https://zachblas.info/works/queer-technologies/)
 Care Syllabus Advisory Collective. [I Can't. Feeling Through Burdens of Care](https://www.caresyllabus.org/i-cant-feeling-through-burdens-of-care)
 Hedva, Johanna. [Care in End Times, Care Syllabus](https://www.caresyllabus.org/care-in-end-times)

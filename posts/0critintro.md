@@ -61,11 +61,48 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 ### We Need Creative–Critical–Caring Approaches 
 
-Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins, who are most capable of addressing the urgent issues facing technology. These issues are not new but have been considered by a wide range of communities with different types of knowledge for centuries. Many are calling for that knowledge to be applied here. [cite][indigenous, queer, other applications of AI]
+How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions? 
 
-Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations. [cite][Vee, Abbate, Hicks]
+Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins, who are most capable of addressing the urgent issues facing technology. These concerns are not new, nor strictly digital. They have been addressed by a wide range of communities with different types of knowledge for centuries. Many are calling for that knowledge to be applied here. [cite][indigenous, queer, other applications of AI]
 
-Reunite the concepts of programmer and user that have been artificially divorced [see "always–already programming" Melanie Hoff [@AlwaysalreadyprogrammingMd] and "end-user programming" Bonnie Nardi [@nardiSmallMatterProgramming1993]
+Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations. [cite][Vee, Abbate, Hicks] 
+
+How do we reunite? 
+
+We need access. We need our contributions to be valued, for the effort toward understanding to be mutual because all participants know we all have important contributions to make. 
+
+Access includes many aspects. It requires connecting an individual's current understanding and circumstances to the [item in question]. It considers like material, financial, intellectual, social resources that allow entry points. 
+
+I may be capable of understanding how a machine learning system works, but not have the prerequisite vocabulary to enter a conversation in order to learn about it. 
+
+I may understand how to operate a machine learning system, but not have the financial resources needed to run a resource-intensive devices in order to use one.
+
+I may have knowledge and resources to share, but not be able to participate because barrier-free access, transcription, gender-inclusive language, or other inclusive aspects were not prioritized by the organizers. 
+
+
+
+>"any theory that cannot be shared in everyday conversation cannot be used to educate the public." 
+>>–bell hooks @hooksTeachingTransgressEducation1994
+
+These works are written as jargon-free as possible to allow them to travel as broadly as possible. While 
+
+#### Holistic approaches / Care means critical 
+
+>"any theory that cannot be shared in everyday conversation cannot be used to educate the public."
+
+>"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression.
+>>–bell hooks @hooksTeachingTransgressEducation1994
+
+>"Theory is not inherently healing, liberatory, or revolutionary. lt fulfills this function only when we ask that it do so and direct our theorizing towards this end."
+
+
+It requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start. [XXXexplain] [^hoff] [^nardi] It requires un-siloing of domains and disciplines, the artificial boundaries that devide technologists from activists. 
+
+It requires we find common language, common value/appreciation/respect that comes with working knowledge of the whole working system. 
+
+
+#### Approachable, accessible // Care means access
+
 
 
 #### Research tensions
@@ -114,7 +151,9 @@ The paper that launched a thousand transformer models was called "Attention Is A
 
 To move from the "transformer" model architecture to trans*formative tech and technocraft means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in it, speaking nearby, walking beside, realizing what of it constitutes us or supports us.
 
-This work is about trans\*lation and trans\*formation. It wants to imagine trans\*formers otherwise, at a slant — for queerer systems (queer as in fuck you, as in QueerOS, as in queer-enough). 
+This work is about trans\*lation and trans\*formation and trans\*gression.[^hooksTransgress] It wants to imagine trans\*formers otherwise, at a slant — for queerer systems (queer as in fuck you, as in QueerOS, as in queer-enough). 
+
+[^hooksTransgress]: As in "teaching that enables transgressions – a movement against and beyond boundaries." @hooksTeachingTransgressEducation1994
 
 >"queer as [in] being about the self that is at odds with everything around it and has to invent, create and find a place to speak, and to thrive and to live"
 >>—bell hooks
@@ -320,6 +359,10 @@ Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 
 
 #### Counter histories
+
+[Black Gooey Universe]
+
+>Core rope memory [From the Sasha](https://logicmag.io/supa-dupa-skies/from-the-sasha-into-the-zamani-death-as-a-moment-of-radical-continuity/) "During the pioneering of the Apollo spacecraft mission, women workers manually wove memory into computer systems, translating software programmed by MIT engineers into physical binaries. The first woman to do this was Hilda G. Carpenter, a Black lab technician who advanced the methods that would ultimately be used to land Apollo missions on the moon. These threading techniques, referred to as “core rope memory” and “magnetic core memory,” were laborious processes of physically coding information into machines using ferrite rings and copper wire to control the flow of electricity"
 
 >"Weaving was already multimedia: singing, chanting, telling stories, dancing, and playing games as they work, spinsters, weavers, and needleworkers were literally networkers as well." (@plantZerosOnes1998, p. 65)
 
