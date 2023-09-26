@@ -8,7 +8,7 @@
 // @import url("https://use.typekit.net/yno1izp.css");
 // @import url('https://fonts.googleapis.com/css2?family=Jura:wght@200;500&family=Major+Mono+Display&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@200;500&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Jura:wght@200;500&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@200;500&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,400;0,600;1,400;1,700&display=swap');
 
 
 
@@ -24,6 +24,7 @@ body {
 }
 
 a, a:visited {
+  font-family: 'Jura', 'Ubuntu Mono', Courier, monospace;
   color: mediumslateblue;
   text-decoration-line: none;
 }
@@ -34,8 +35,13 @@ a:hover, a:active {
 }
 
 b, strong {
-  font-weight: bold;
+  font-weight: 300;
   color: mediumslateblue;
+}
+
+code {
+  color: mediumslateblue;
+  font-family: monospace;
 }
 
 h1, h2, h3, h4 {
@@ -96,7 +102,7 @@ h1, h2, h3, h4 {
 // }
 
 .live-code {
-  border-color: orange;
+  border-color: cyan;
 }
 
 /*

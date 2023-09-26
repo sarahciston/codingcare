@@ -3,7 +3,7 @@
 title: coding care pocket guide
 permalink: codingcare
 nav_order: 3
-date: 08.06.2023
+date: 27.09.2023
 tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
@@ -225,7 +225,7 @@ Try asking with new language, asking a friend with a different background, askin
 
 *Persistence is a rhythm not a slog.*
 
-<div class="live-code box" markdown="1">
+<div class="box live-code" markdown="1">
 
 ### LIVE CODE: Go slow, be of service
 
