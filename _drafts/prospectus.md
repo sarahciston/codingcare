@@ -24,24 +24,24 @@ tags: [prospectus, dissertation]
 ### Dissertation Writing Schedule
 
 - [ ] 04 APR Filing Due for May Grad  (05 JUL for Aug)
-- [ ] 29 MAR Diss Checklist Due, Last Revisions & Formatting for May Grad (28 JUN for Aug)
+- [ ] 29 MAR Diss Checklist Due, Last Revisions & Formatting for May Grad (28 JUN)
     - [ ] "Approval to Submit" form, generated via email
     - [ ] "Appointment/Change of Committee" form
     - [ ] "Survey of Earned Doctorates" form
-- [ ] **14 FEB (01 MAR) Defense Week** !15 MAR Latest Date!
-- [ ] **24 JAN (09 FEB) Send Final Draft to Committee**
+- [ ] **14 FEB (01 MAR) Defense Week** !15 MAR Latest Date! (13 JUN)
+- [ ] **24 JAN (09 FEB) Send Final Draft to Committee** (30 MAY)
 - [ ] 15 DEC (03 JAN) Start Revisions
-- [ ] **01 DEC (08 DEC) Send Chairs Complete Draft (is before/during holiday break realistic for feedback?)**
+- [ ] **01 DEC (08 DEC) Send Chairs Complete Draft**
 - [ ] (27 NOV-08 DEC) (Sprint 6 if needed)
 - [ ] 13-25 NOV Sprint 5: Introduction & Conclusion
-- [ ] **12 NOV Send Writing to Tara, Rita**
-- [ ] 30 OCT-11 NOV Sprint 4: Unsupervised Pleasures & Interstitial Essays
-- [ ] **29 OCT Send Writing to Holly, +?**
+- [ ] *12 NOV Send Writing to Tara, Rita*
+- [ ] 30 OCT-11 NOV Sprint 4: Interstitial Essays & Conclusion (Unsupervised Pleasures)
+- [ ] *29 OCT Send Writing to Holly, +?*
 - [ ] 16-28 OCT Sprint 3: Critical Field Guide & Interstitial Essays
-- [ ] **15 OCT Send Writing to Tara, +?**
+- [ ] *15 OCT Send Writing to Tara(?), +?*
 - [ ] 02-14 OCT Sprint 2: Intersectional AI Toolkit & Introduction
-- [ ] **01 OCT Send Writing to Holly, +?**
-- [ ] 18-30 SEP Sprint 1: Coding Care & Introduction
+- [ ] *01 OCT Send Writing to Holly, +?*
+- [ ] 18-30 SEP Sprint 1: **Coding Care** & Introduction
 
 
 Writing Weeks Left: 18 weeks (inc holidays)
@@ -53,19 +53,34 @@ Drafting Weeks: 10 (12)
    2. Coding needs an overhaul, can be rethought through care-ful, interdisciplinary, community, creative, craft-oriented practices to bring ethics and politics to code, 
    3. approaches & theories
    4. examples & practices in practice 
-1. A Pocket Guide to Code Collective [**status: PARTIAL DRAFT** w ELO paper] (How To Guide: Creative Code Collective (a case study/how-to/lessons learned, with contributions from or interviews with members)
-   1. qualitative: survey results, interviews 1:1 and written, live transcripts?
-2. Intersectional AI Toolkit [status:]
-   1. art exhibition + code base
-   2. ccc resource hub [status: ONGOING PROGRESS, needs migration and finalized state]
-   3. qualitative: zine making documentation
-   4. zines editions & library
-   5. (case study of community project)
-3. A Critical Field Guide to Datasets [status: **COMPLETE, printed**]
-   1. Knowing Machines Field Guide 
-   2. Library Research Guide or dataset
-   3. w case studies of library project and knowing machines output 
-4. Unsupervised Pleasures / Love Corpora [status: experiments, prototypes]
+1. Coding Care: A Pocket Guide to Making Friends with Code [status: **PARTIAL DRAFT**] 
+   1. a case study/how-to/lessons learned 
+   2. qualitative: survey results, interviews
+   3. practical exercises and examples from other communities
+   4. showcase contributions from members [status: ONGOING]
+   5. ccc resource hub [status: ONGOING]
+2. Intersectional AI Toolkit [status: **ONGOING**]
+   <!-- 1. art exhibition + code base -->
+   1. Case study introduction of community project & qualitative: zine making documentation [status: **TO DO**]
+   2. Zines editions & print library [status: COMPLETE]
+   3. Web resources [status: **IN PROGRESS**]
+3. A Critical Field Guide to Datasets 
+   1. Case studies introduction [status: **TO DO**]
+   2. Knowing Machines Field Guide [status: COMPLETE]
+   3. Library Research Guide [status: COMPLETE]
+5. INTERSTITIAL PAIRS: Case studies of my individual projects, Akademie der Künste project, inner.voice.over and/or ladymouth and/or...Lyric essay(s) (see below) [status:]
+   1. Codes for Dis/Appearing: Rebecca Horn (refusing, databodies, drone aesthetics, interpolated states, isolating-features ml/covid) **folding/digits/**
+   2. Codes for Un/Knowing: Pipilotti Rist // Essaying (exploring, unknowing, investigating, code obscura, **labyrinth**)
+   3. Codes for Looping // Un/Mouthing: Luce Irigaray / Monique Wittig / ?
+   4. Sonya Rapoport
+   5. Sophie Calle
+   6. Hito Steyerl
+   7. Touch|Screen
+   8.  adrienne maree brown, alexis pauline gumbs, lauren berlant, johanna hedva, adrian piper
+   9.  e.g. analyses of outside artworks, historical analog practices and contemporary analogous examples put through personal processing
+
+
+4. [status: **HOLD FOR BOOK 2**] Unsupervised Pleasures / Love Corpora [status: experiments, prototypes]
    1. Datasets for use: 
       1. queer love corpus [status: DESIGN DOCUMENT IN DRAFT, scope of next project is pitch for tenure book]
       2. library dataset [status: early prototype]
@@ -74,18 +89,6 @@ Drafting Weeks: 10 (12)
    4. outputs of datasets, see below 
       1. crafted tangible material
       2. textual
-5. Case studies of my individual projects, Akademie der Künste project, inner.voice.over and/or ladymouth and/or...
-6. Lyric essay(s) (see below) [status:]
-   1. Codes for Dis/Appearing: Rebecca Horn (refusing, databodies, drone aesthetics, interpolated states, isolating-features ml/covid) **folding/digits/**
-   2. Codes for Un/Knowing: Pipilotti Rist // Essaying (exploring, unknowing, investigating, code obscura, **labyrinth**)
-   3. Codes for Looping // Un/Mouthing: Luce Irigaray / Monique Wittig / ?
-   4. Sonya Rapoport
-   5. Sophie Calle
-   6. Hito Steyerl
-   7. (mine somewhere?)
-   8. Touch|Screen
-   9.  adrienne maree brown, alexis pauline gumbs, lauren berlant, johanna hedva, adrian piper
-   10. e.g. analyses of outside artworks, historical analog practices and contemporary analogous examples put through personal processing. 
 
 *these are the nesting dolls getting smaller and more personal*
 

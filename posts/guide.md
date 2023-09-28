@@ -165,15 +165,15 @@ We echo the call from the P5.js community statement, which warns against "code s
 
 Don't wait until you know you'll do it "perfectly" (or read the whole book, or taken the whole course) before you get started. Half the fun is in adapting unexpected outcomes into your process. Making and learning are reciprocal activities, a mobius strip of embodied knowledge. 
 
-### Don't be afraid to break stuff (you can't really break it)
+### Don't be afraid to break stuff (you can't *really* break it)
 
 How do you start getting scrappy instead of studious? Break things! Or at least, don't be afraid to. The [TinkerTank](https://tinkertank.de/) mobile makerspace in Germany starts each of their workshops by selecting a piece of old electronics from their scrap pile — and completely dismantling it. "People are afraid to break things," workshop leader Johannes May told me, and this helps warm people up to build new, imaginative things from the broken parts. 
 
-Too often I don't get started because I don't know where to start, and also because I am afraid to "mess up" what already exists. That's what backups and save-as and sketches are for. You can't (irrevocably) break anything, in all likelihood. And in the process of tinkering (which is just breaking, with flair) you learn a lot![^tinker] So try to push through the fear of breaking something, or doing something "wrong," to make space for doing something "weird" or interesting. So knowing that you can't really break it, get cracking!
+Too often I don't get started because I don't know where to start, and also because I am afraid to "mess up" what already exists. That's what backups and save-as and sketches are for. You can't (irrevocably) break anything, in all likelihood. And in the process of tinkering (which is just breaking with flair) you learn a lot![^tinker] So try to push through the fear of breaking something, or doing something "wrong," to make space for doing something "weird" aka interesting. So, knowing that you can't really break it, get cracking!
 
 [^tinker]: To tinker is also to mend, to patch up, repair, or improve in a makeshift way [OED]. The word derives in part from the tasks of metalworkers (per Miller Puckette & OED). 
 
-I learned to take scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). He simply said, "Pick something you want to make and use it to try to learn Python." Reader, I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself CSS and Javascript. But I trusted Brett, so I found a little example code for a chatbot and used it to make what would become "ladymouth" — a chatbot that tries to explain feminism to misogynists online — while learning enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run. Through Brett's positive encouragement, and by finding the right tool for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, couldn't understand the tools I wanted to use, and didn't belong in the spaces that interested me (or that I didn't even know about). 
+I learned to use scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). I was a poet who wanted to make weird books, and he told me simply, "Pick something small you want to try to make, and use that to begin learning Python." Reader—I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself some HTML, CSS, and Javascript. But none of it would stick. Still, I trusted Brett, so I found a little example code for a simple chatbot and used it to make what would become "ladymouth" — a bot that tries to explain feminism to misogynists online. Along the way, I learned enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run, even though I started with zero vocabulary and knowledge about relational databases or APIs or anything else. Through Brett's positive encouragement, and by finding the right tools for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, that I couldn't understand the tools I wanted to use, and that I didn't belong in the spaces that interested me (or that I didn't even know about). Being among others who were experimenting in these same ways taught me it was okay not to have all the pieces in place right away. [xxxmaybemove] 
 
 ### Critical breaking
 
@@ -233,21 +233,19 @@ Try asking with new language, asking a friend with a different background, askin
 
 ### LIVE CODE: Go slow, be of service
 
-I have learned from many communities building transfeminist infrastructures that slow and embodied and connected "art that surfaces the hitherto invisible labor of service, care, and maintenance" has a place in coding communities as both a practical tool and a critique of institutions.[^Kleesattel] Community and transfeminist server networks and collectives like Constant, Lurk, Rosa, [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html)[XXXmakelinks], and others show how [XXX]
-
-"A Wishlist for Trans*feminist Servers" (continuously updated and retitled since 2014) includes [XXX]
+I have learned from many communities building transfeminist infrastructures that slow and embodied and connected "art that surfaces the hitherto invisible labor of service, care, and maintenance" has a place in coding communities as both a practical tool and a critique of institutions.[^Kleesattel] By modeling slower, more communal practices around these essential services, community and transfeminist server networks and collectives like Constant, Lurk, Rosa, [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html)[XXXmakelinks], and others [XXX add Argentine servers] show how the maintenance of tools and materials (whether for internet services or any mutual aid) are essential forms of labor that can express power differently [XXXexplain/unpack?]. They can be careful and caring, or they can be consolidating and constrictive. They ask us to think about the precarious bodies (individual and connected) that rely on them. "A Wishlist for Trans\*feminist Servers" (continuously updated and retitled since 2014), lays out some of the objectives of this kind of caring codework. Trans\*feminist Servers...
 
 >"... radically question the conditions for serving and service; they experiment with changing client-server, user-device and guest-host-ghost relations where they can. Who is serving whom? Who is serving what? What is serving whom? Are they being served?"
 
-> "... do not serve every body; they continuously re-negotiate what counts as accessible. They respond to the fluctuating abilities, embodied knowledges and genealogies of their care-takers and users."
+>"... do not serve every body; they continuously re-negotiate what counts as accessible. They respond to the fluctuating abilities, embodied knowledges and genealogies of their care-takers and users."
 
-> "... reject generalized definitions of efficiency, efficacy, ease-of-use, transparency, scalability, accessibility, inclusion, optimization and immediacy because they are often traps."
+>"... reject generalized definitions of efficiency, efficacy, ease-of-use, transparency, scalability, accessibility, inclusion, optimization and immediacy because they are often traps."
+
+>>– ["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) @WishlistTransFeminist
 
 [^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021
 
 Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
-
-Be slugs, care-ful slugs (CS),   @brittonCarefulSlugsCaring2022a
 
 </div>
 
@@ -255,9 +253,16 @@ Be slugs, care-ful slugs (CS),   @brittonCarefulSlugsCaring2022a
 
 I joke that my projects are held together with duct tape and spitballs, but it's basically true. Most of them use a wild-sourced daisy chain of APIs[^api] and random tools from different domains, because this is what it requires to sketch out an idea I haven't seen represented elsewhere. There is magic and politics and new knowledge to be found in creative (read: unintended, inappropriate) applications and combinations of existing tools. 
 
+[^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves. The downside of relying on external APIs is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or updates their system... your code also breaks. (Hence the duct tape.)$$
+
 To think about how to combine ingredients to produce new flavors, connect dots, (mix metaphors) is an explicitly artistic approach, because it is a way of thinking with (and against) materials *as such*. It questions and engages the material properties of the platforms, codes, cultures, data, and infrastructures, in the same ways artists explore other materials — whether paint color, wood grain, fiber textures, or anything else. Listening to your materials can make work self-reflexive in incredibly useful and critical ways, whether you decide to work with or against their attributes. 
 
-[^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves. The downside of relying on external APIs is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or updates their system... your code also breaks. (Hence the duct tape.)
+One way to combine wildly is to work wildly with metaphors, as Ren Loren Britton and Helen V. Pritchard do when they unpack the acronym CS to expand the field of "computer science" to include "Chance and Scandal," "Crying Sabotage," "Careful Slugs," and more. They suggest this "promiscuous metaphorical practice" can open up different plans, questions, and techniques in the field – including considerations of crip-technoscience and of more-than-human world:  
+
+>"We follow CS (Careful Slugs) in how it might reroute, chomp away, do nothing about, slime up, slow down, or ripple towards attachments as a way of accounting for, unsettling, taking responsibility for, and remaking dominant universalisms of CS (Computer Science). We propose that when computation is approached through the speculation of CS (Careful Slugs), the computational operations of sorting become slowed down, separating becomes impossible as sticky bodies stick to surfaces, categorizing becomes softened."
+>>–Ren Loren Britton and Helen V. Pritchard (2022) @brittonCarefulSlugsCaring2022a
+
+It matters what materials you use and what metaphors you think with, whether your projects are held together with spitballs or slug trails.
 
 ### Learn how to learn
 
@@ -269,40 +274,64 @@ How do we learn how to learn? We tinker and stretch a bit — whether in breadth
 
 ## 3. We get vulnerable
 
+### Plan to unplan, plan to be awkward
+
 >"I do not expect students to take any risks that I would not take, to share in any way that I would not share."
 >>–bell hooks @hooksTeachingTransgressEducation1994
 
-### Ask "stupid" questions (there are no stupid questions)
+Even, and especially, as leaders and teachers we must get vulnerable about our craft. Our bravery makes space for others to be brave. We can connect with each other around areas of concern, taking comfort that someone else has already worried the very same thing. Rather than showing a veneer of know-it-all authority (which is often quite thin), sets up both a one-directional hierarchy of exchange and an impossible standard for students other community members to meet. It shows them a person who "already knows" but it doesn't show them how to get there. 
 
-We voice our "stupid" questions, nagging suspicions, deepest fears.
+I am continually finding that my presence in learning spaces as a vulnerable, uncertain, artistic queer body — who nevertheless creates — does much more to teach and model how to create than anything I actually have said in a lecture. All the other suggestions that follow were possible because I modeled them first. I said, "I don't know either, let's figure it out together." 
 
-Without fail, when someone bravely asks what they call a "stupid" question, it is a question others have as well and a question that requires even people who think they already know the answer to think more deeply about the question in order to explain it in plain language. So-called stupid questions help us all unpack what we take for granted as assumed knowledge. Frequently assumed knowledge points to the foundations of the field of study, where the histories come from white supremacy, misogyny, colonialism, and ableism. 
+The socially awkward planner in me wants to know in advance what's going to happen in every session. But the less I plan and structure, and instead gesture and invite, the more space exists for group needs and wants as they arise. Some of my favorite teachers have whole slide decks I've seen them chuck out the moment the class discussion went another direction. I never understood that before, because I wanted to suck all that knowledge out of my teachers' heads. Now that I'm teaching, I get it. I'm more interested in what my students want to know than what I have to say. And when they share what they want to know, I can trust I'll have something to offer that can enrich, support, or connect with that instead. 
 
-### Plan to unplan, plan to be awkward
+Your milage may vary, as mine has!
 
-Even, and especially, as leaders and teachers we must get vulnerable about our craft. We connect over / remember that someone else has already worried the very same thing, or worse. Our bravery makes space for others to be brave. I am continually finding that my presence in the classroom/facilitation space as a vulnerable uncertain artistic queer body, who nevertheless creates, does much more to teach and model how to create than anything I actually have lectured. 
+### Ask "stupid" questions (psst.. there are no stupid questions)
 
-The socially awkward planner in me wants to know in advance what's going to happen in every session. But the less I plan and structure, and instead gesture and invite, the more space exists for what group needs and wants arise. 
+Try voicing your "stupid" questions, nagging suspicions, and fears.
 
+Without fail, when someone bravely asks what they call a "stupid" question, it is a question others have too. Or it's a question they've been taking for granted and haven't considered before. Usually it requires even those who think they already know the answer to think more deeply about the question in order to answer it in plain language. 
 
+So-called stupid questions help us all unpack what we consider assumed knowledge. Frequently, assumed knowledge points to the foundations of a field of study and how its histories are told through lenses of white supremacy, misogyny, colonialism, and ableism. We should all be asking these questions to understand our work and our contexts through new lenses. In this way, the "beginner" in the room makes one of the largest contributions to everyone's co-learning experience. 
 
-### ~~Accept~~ Highlight our mistakes
+### Troubleshoot together
 
-Sharing our struggles both helps us solve them by team troubleshooting *and* shows us and others that we are not alone with coding challenges. Being vulnerable makes us stronger and brings us closer. 
+>"Just talking through your problems with somebody else always helps you get a better understanding what you're trying to do. But then also, other people will have different perspectives. Also just having that space to work through it together, having the time to sit down and be like, 'Okay, step one step two. Let me write these lines of code.' And then getting to different steps and going on the journey together. I feel like that's a really rewarding process that we go through." 
+>>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+
+Sharing our struggles helps us solve them. In Code Collective, we do a lot of team troubleshooting, in which several folks gather around a screen to explore a project. Several things happen when we join together this way, and none require the participants to have expertise on the specific issue at hand. 
+
+- First, simply explaining the problem to another person (or inanimate object, called "rubber ducking" in programming communities) can have the effect of helping you think it through in a new way for yourself. 
+- Second, your partners might see something you don't see: Even if they have never used this language before or worked in this kind of task, they might approach the issue in a different way. 
+- Third, if no one else sees how to approach the issue, they might know someone who does or have heard about a tool that could help.
+
+### Make mistakes in public / ~~Accept~~ Highlight your mistakes
 
 >"highlight mistakes just as much as successes, rather than hide them. it is important for people who are new to programming to see people making mistakes, if they think everything works first time they will think they are not good enough and give up." 
 >>annatito, Critical Code Studies Working Group 2022@titoWeekP5Js2022
 
-Highlighting mistakes is not about focusing on the negative; it brings us out of the shadows, out of the shame of feeling like we're the only ones who don't get it. Our mistakes connect us with vulnerability and with each other--and they help us solve our coding problems, because we're not the first to encounter this issue. 
+**Highlighting** mistakes is not about focusing on the negative; it brings our problems out of the shadows and removes the shame. Our mistakes connect us with each other. They show us we're not the first to encounter this issue,[^first] and they also show us we're not alone with the experience of facing coding challenges. Being vulnerable makes us stronger and brings us closer. 
 
-Or sometimes we *are* the first to encounter this issue because we're trying to do something entirely new and important. It is helpful to get encouragement from friends either way. 
+[^first]: Occasionally, we *are* the first to encounter this issue because we're trying to do something entirely new and important. It is helpful to get encouragement from friends either way. 
 
-~~Many of the routes that got us here have been struggles. Learning to code is filled with false starts for so many people,~~
-When we don't talk about learning struggles, it's easy to feel alone. This is true for all kinds of learning, including just learning to be in the world. There is no final state; there is ongoing learning. We need spaces that support all kinds of learning. 
+Live coding, though it might seem counterintuitive, sparks confidence. It helps to watch another coder, whether brilliant or beginner or both, struggle under the familiar burden of a problem — that feeling that they cannot solve it, that they're unfit to call themselves real coders, that they're imposters, and that the feeling will never ever go away. Then watching them collaborate with others to solve it. Remember that person the next time you feel the same way. You won't always feel that way. 
 
-### we feature progress / make mistakes in public / work iteratively
+When we are together and witness each other struggle, that commonality reveals lightness and joy through community support. (You're not going insane, because you're not the *only one* who's gone insane staring at their code before. Yes, you do need sleep. Yes, you'll figure it out, or you'll figure something out. And we're here to help.) 
 
-For example, I am writing this guide in a git repo (a type of archive used in programming to keep track of versions and allow multiple users to make edits). It is continually updated and saved on a public Github Pages website, which means both that you are reading a work in progress and also that anyone can see any prior version of it any time ([here](https://github.com/sarahciston/codingcare/commits/Jekyll/posts/guide.md)). 
+>"I loved editing that Three.js[^threejs] scene with Ada. I love being able to have group input. Before I was trying to communicate Three.js knowledge, and I've been struggling to get it out of my head. But, for some reason, seeing it in the group setting, it was a really fulfilling experience — like a teaching moment where I could communicate a lot of knowledge in a short amount of time."
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+
+[^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
+<!-- [XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?] -->
+
+### Work iteratively, feature progress
+
+When we don't share our struggles with learning, it's incredibly easy to feel alone. It's easy to compare our efforts to other people's polished, finished products — of course, in that case, we find our half-complete creations wanting. This is true for all kinds of learning, including just learning to be in the world. There is no final state; there is continuous learning. 
+
+For example, I am writing this pocket guide in a git repo (a type of archive used in programming to keep track of versions and allow multiple users to make edits). I continually update it and save it on a public Github Pages website, which means both that you are reading a work in progress and also that anyone can see any prior version of it any time ([here](https://github.com/sarahciston/codingcare/commits/Jekyll/posts/guide.md)). I started this practice in 2020 when I wanted to show the process and performance of academic work that was ongoing labor rather than the invisible production of perfect, authoritative, publishable static documents. I see this approach in publications like zines, which aren't afraid to show their rough, handmade edges. And I am inspired by books like Winne Soon and Geoff Cox's 2021 book [Aesthetic Programming](https://aesthetic-programming.net/), which was also written using git and exists in open, hybrid, print and digital forms. Soon and Cox posed the git format as an invitation to others to "fork the book" and adapt it to their own needs, in order to expand the book's community of practice.
+
+We need more spaces that embrace and reflect the many different kinds of learning and ongoing forms of creation.
 
 <div class="play-along box" markdown="1">
 
@@ -320,20 +349,7 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 </div>
 
-### Troubleshoot together
-
-Live coding, though it might seem counterintuitive, sparks confidence. It helps to watch another coder, whether brilliant or beginner or both, struggle under the familiar burden of a problem and that feeling that they cannot solve it, and that they're unfit to call themselves real coders, that they're imposters, and that the feeling will never ever go away. Then collaborating with others to solve it. Remember them next time you feel the same way. You won't always feel that way. 
-
->"Just talking through your problems with somebody else always helps you get a better understanding what you're trying to do. But then also, other people will have different perspectives. Also just having that space to work through it together, having the time to sit down and be like, 'Okay, step one step two. Let me write these lines of code.' And then getting to different steps and going on the journey together. I feel like that's a really rewarding process that we go through." 
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
-
-When we are together and witness each other struggle, that commonality reveals the lightness and the joy through community support. You're not going insane because you're not the only one who's gone insane staring at their code before. Yes, you do need sleep. Yes, you'll figure it out, or you'll figure something out. And we're here to help.
-
->"I loved editing that Three.js[^threejs] scene with Ada. I love being able to have group input. Before I was trying to communicate Three.js knowledge, and I've been struggling to get it out of my head. But, for some reason, seeing it in the group setting, it was a really fulfilling experience--like a teaching moment where I could communicate a lot of knowledge in a short amount of time."
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
-
-[^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
-<!-- should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated? -->
+[new chapter: "We make it weird"?]
 
 ### Fight for the silly photo
 
@@ -350,6 +366,10 @@ queer pirate mascots
 The Code Collective approach is perhaps best illustrated by the sailing band of misfits in the TV show *Our Flag Means Death*, who support each other, sew flags together, explore identity together, figure out their career goals together, and fumble new skills while going on adventures.
 
 We've also adopted the magpie as our official mascot: an intelligent, crafty corvid fascinated with shiny objects and capable of using tools. 
+
+### Go toward the strange
+
+
 
 [Back to top](#top)
 
@@ -382,6 +402,17 @@ Reunite the concepts of programmer and user that have been artificially divorced
 
 Bonnie Nardi's concept of "end-user programming" dismantles the hierarchy of software maker/user and emphasizes the work a user does as another kind of programming. Every day we customize settings and change parameters, we put formulas in spreadsheets and create automatic workflows in photo editors. She argues these "end-users" are not naive but make intensive use of computers. She includes such tasks on a continuum with programming that addresses the machine at various levels, whether "close to the metal" like assembly languages or abstracted high-level languages like object-oriented programming. We see this continuum continuing to blur now with "prompt programming," which involves writing plain-text commands for generative AI systems. 
 
+### Remember you know how to learn
+
+Nardi also reminds us we learn things like programming all the time. "The pervasiveness of formal systems shows that people readily invent, learn, and use them." Think of knitting patterns or baseball scoresheets, which both involve "the use of constructs familiar to programmers: modules of instructions, subroutines, global variables, means for specifying conditions, and iteration."
+
+>"The knitting instructions have several important similarities to the baseball scoresheet: a great deal of information is contained within a terse set of instructions; the instructions (while appearing incomprehensible to non-knitters) are accessible to any ordinary person who decides to learn to knit; and, just as the filled-out scoresheet records the way a game unfolded, the knitting instructions provide a permanent record of the way the task of knitting an afghan unfolds [...]"
+
+"It is only when people have a particular interest in something, such as knitting or baseball, [...] that they readily learn the formal languages and notations that describe the elements and relations of the system of interest." This may seem be obvious, but "People are likely to be better at learning and using computer languages that closely match their interests and their domain knowledge."
+
+So pick something you like to learn about, and don't assume it has to be hard to "count"!
+
+
 Ask ourselves: What do you want to make? What resources do you need to get there? /*More importantly, *why* do you want to put it in the world?*/ [xxxmovebelow?]
 
 co-teach | co-learn | co-work | co-create
@@ -389,9 +420,13 @@ co-teach | co-learn | co-work | co-create
 [always already programming](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) —— "the programmer is also the user is also the programmer" 
 >"When we all build up and cultivate one another’s agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing." "It's buttons all the way down." (Melanie Hoff)
 
-### we know teaching others helps us learn // We learn together. ~~We wayfind together.~~ Collaboration, not competition. "Care over careful"
+### Learn together
 
->"There was beginner student who had trouble with code, and I think it was Katherine who helped but I forget. Being able to see the mentorship between between people. That was a really powerful thing for me to see. I remember seeing seeing that kind of like troubleshooting, debugging. That was really important for me to see."
+At Code Collective, we co-work, co-teach, co-learn. Teaching others helps us learn. Sometimes the teaching looks more like wayfinding together. 
+
+<!-- Collaboration, not competition. "Care over careful" -->
+
+>"There was beginner student who had trouble with code, and I think it was Katherine who helped. Being able to see the mentorship between between people was a really powerful thing for me to see. I remember seeing seeing that kind of troubleshooting, debugging. That was really important for me to see."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
 <div class="play-along box" markdown="1">
