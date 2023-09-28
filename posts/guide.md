@@ -349,7 +349,7 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 </div>
 
-[new chapter: "We make it weird"?]
+## 4. "We make it weird"
 
 ### Fight for the silly photo
 
@@ -369,11 +369,11 @@ We've also adopted the magpie as our official mascot: an intelligent, crafty cor
 
 ### Go toward the strange
 
-
+This is just a personal preference, mantra, whatever. But in my own art practice, the way I follow my interests and push my research is to move toward the most weird, uncanny, uncomfortable aspects of whatever I'm working on. If something makes me uncomfortable, that's a place to explore (within boundaries, taking care of myself and others also).
 
 [Back to top](#top)
 
-## 4. We all have skills to teach each other
+## 5. We all have skills to teach each other
 
 ### Remember what you already know (& forget it)
 
@@ -437,7 +437,7 @@ At Code Collective, we co-work, co-teach, co-learn. Teaching others helps us lea
 
 [Back to top](#top)
 
-## 5. We stay gelatinous [flexible, spongy, fluid, adjustable]
+## 6. We stay gelatinous [flexible, spongy, fluid, adjustable]
 
 ### Acknowledge context together
 
@@ -512,7 +512,7 @@ It takes shape within the limits of the affordances of one's tools. [rephrase] T
 
 [Back to top](#top)
 
-## 6. We dream impossibly big *and* impressively tiny, too.
+## 7. We dream impossibly big *and* impressively tiny, too.
 
 We're both excited for both impossibly large possibilities and also obsessed with tiny charming tasks. [xxxMore]
 
@@ -550,7 +550,7 @@ These small things are seeds. We don't know what they might grow into but we tru
 
 [Back to top](#top)
 
-## 7. We create rituals together
+## 8. We create rituals together
 
 A combination of consistency and loose structure has served us best. 
 
@@ -652,7 +652,7 @@ GIFs, TikToks, whatever's your thing... what brings a smile to your face and a s
 
 [Back to top](#top)
 
-## 8. We share [resources]
+## 9. We share [resources]
 
 We share resources, honor emotional labor and the labor of documentation as essential parts of coding, and don't take for granted what feels intuitive or close to our hearts. 
 
@@ -720,7 +720,7 @@ This started as a Google Doc where anyone could dump a link. It has grown into a
 
 [Back to top](#top)
 
-## 9. We encode our values
+## 10. We encode our values
 
 ### Start with care 💜 before code
 
