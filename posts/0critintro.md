@@ -314,6 +314,8 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
 
 ### Craft
 
+* **craft**: material, iterative, process-oriented, handmade, embodied, tinkering
+
 ##### Handcrafted & handicraft approaches
   * Agacency & the Internet of Towels, Anuradha Reddy
   * Leaking Subjects & Bounding Boxes: On Training AI, Elisa Giardina Papa (2022)
@@ -328,11 +330,7 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
   * Zines to make counterpublics
     * >"ways of thinking digitally about information were embedded in lesbian-feminist work with paper, in the ways lesbian feminists learned computing and imagined and built networks and databases for storing and sharing information"
     >>—Cait McKinney (2020) Information Activism (Image from ONE Archives queer zine collections) [@mckinneyInformationActivismQueer2020]
-
-
-* **craft**: material, iterative, process-oriented, handmade, embodied, tinkering
-
-
+  * Zines as living texts: "Living Books: Experiments in the Posthumanities by Janneke Adema"  @pressLivingBooksMIT
 
 #### Hand scale, accessibility
 
@@ -344,7 +342,6 @@ AI and knitting: Simple gestures repeated into habit, into complexity.
 
 Craft suggests repair, and error, and air. 
 
-
 #### A craft approach also organizes labor and relations differently. 
 
 >"The alignment of craft and craftiness is perhaps the best location to find a unifying thread that runs throughout the diverse technical and ethical worlds of hacking. [...] all hackers fit the bill as quintessential “craftspeople,” [...] Even if craftspeople tend to work in solitude, crafting is by definition a collectivist pursuit based on shared rules of engagement and standards for quality." 
@@ -352,6 +349,8 @@ Craft suggests repair, and error, and air.
 >>"Craftiness, then, can be seen as thinking outside the box, or circumvention of inherent technological limitations in pursuit of craft. But we can also understand craftiness as exceeding mere instrumentality."
 Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 >[@colemanHackers2016]
+
+>"Resistance to the Current: The Dialectics of Hacking"  @soderbergResistanceCurrentDialectics2022
 
 **TechnoCraft** honors historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — and aligns them with the aspects of technology which get overlooked: namely, the contributions to the materiality of tech from Women of Color in the global majority. 
 

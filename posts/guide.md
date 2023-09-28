@@ -9,8 +9,10 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 
 # Coding Care: Field notes for making friends with code
 {:.no_toc}
-<!-- a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities -->
-<!-- [guide book / field notes / pocket guide] -->
+
+[//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities"
+
+[//]: # "guide book / field notes / pocket guide"
 
 * toclist
 {:toc}
@@ -18,11 +20,19 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 >"Any meeting or gathering is a place to practice the future together in the most tangible ways."
 >>– adrienne maree brown
 
-## 0. Welcome <!--hello, world-->
+## 0. Welcome 
+
+[//]: # "hello world"
 
 ### Rough starts & disconnects
 
-Have you considered learning to code but felt too intimidated to try? Have you struggled to program? Or don't know how to apply what you've learned to things you care about? <!-- or to understand how you'd actually use it?--> Maybe you're decent with programming skills but you'd still never consider yourself a 'coder'. *Coding Care* is about bridging this disconnect——the wide gulf between trying to learn coding and feeling empowered to create with code. <!-- (even though we likely interact with computation every day).--> 
+Have you considered learning to code but felt too intimidated to try? Have you struggled to program? Or don't know how to apply what you've learned to things you care about? 
+
+[//]: # "or to understand how you'd actually use it?"
+
+Maybe you're decent with programming skills but you'd still never consider yourself a 'coder'. *Coding Care* is about bridging this disconnect——the wide gulf between trying to learn coding and feeling empowered to create with code. 
+
+[//]: # "(even though we likely interact with computation every day)."
 
 >"the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text"
 >>Jessica Loseby, "Code Scares Me"
@@ -32,7 +42,6 @@ So many people feel left out of coding communities and spaces for learning about
 >"I was that convinced that I didn’t have the ability or technological talent to learn how to write code for something. I assumed that every person around me was miles ahead in their practice, and wondered how my passion for creative storytelling could really play into something so new and untouched." 
 >>Tia Kemp, she/her, BA USC Media Arts + Practice
 
-<!-- subject position 1 -->
 ### Don't stop me now
 
 My own first experiences learning to code felt *awful*. Lonely. Discouraging. Confusing. I had the sense I was "supposed" to learn programming skills. It felt important, like I needed these tools in order to create the kind of art and language and world I imagined — but it also felt like an insurmountable chore. I had the sense everyone else could hack it but me: *Why was I the only one who didn't understand (or care!) about these dry, boring examples? Why was I getting lost in all the confusing, specialized vocabularies?* I felt thrown into a strange landscape——I lacked even the words to ask for what I needed, a basic knowledge of where to look, or an instinct for how to start. 
@@ -47,7 +56,6 @@ Once I accepted that the false starts and frustrations of learning to code are p
 
 I have learned I can make coding my own, and that anyone else can too. This guide talks about how to nurture the supportive spaces that make this sparkly code feeling possible.
 
-<!-- problem statement -->
 #### (En)coding rituals: What are the practices of coding communities? 
 
 Code is language and code is a tool for expressing and enacting combined. But coding has "belonged" to far too few for far too long, while the rest of us are considered outsiders to the encoded systems that consume us.
@@ -79,7 +87,7 @@ Throughout the guide I'll share what I've learned while building Code Collective
 
 I am writing both as a representative of this community and also as an individual greatly influenced by it and by so many other creators, thinkers, and teachers. I want to document our work processes and thought processes, and to honor the many entangling threads that go into shaping a caring (coding) community. 
 
-The heart of this book are [nine] principles that have emerged through gathering as Code Collective. They are simple tactics for anyone to employ in their own community practices — or adapt to suit them. Developing these tactics has been intuitive, iterative, and collaborative. They emerged out of desire and instinct. We have expanded and distilled these tactics influenced by other organizations, thinkers, makers, and more; and we have reshaped them continually as our group evolves. All recommendations in the book are intended to be descriptive, not prescriptive. Here's what has worked for us (and what hasn't). I invite you to embrace and adapt what works for you and leave the rest. And I am interested in how these tactics change in different circumstances, so if you find something that works better for you, I'd be excited to learn about it too! 
+The heart of this book are [ten] principles that have emerged through gathering as Code Collective. They are simple tactics for anyone to employ in their own community practices — or adapt to suit them. Developing these tactics has been intuitive, iterative, and collaborative. They emerged out of desire and instinct. We have expanded and distilled these tactics influenced by other organizations, thinkers, makers, and more; and we have reshaped them continually as our group evolves. All recommendations in the book are intended to be descriptive, not prescriptive. Here's what has worked for us (and what hasn't). I invite you to embrace and adapt what works for you and leave the rest. And I am interested in how these tactics change in different circumstances, so if you find something that works better for you, I'd be excited to learn about it too! 
 
 Each of the guiding principles is paired with sections called `PLAY ALONG` – practical exercises you can try — and `LIVE CODE` — brief case studies from other communities of practice. Although Coding Care is a pocket guide, it also lives in large part online as a [`PROJECT SHOWCASE`](https://creativecodecollective.com/showcase) of active works by Code Collective Community members and as a vibrant [`RESOURCE HUB`](https://creativecodecollective.com/resource-hub), a database of tutorials, textbooks, projects, code libraries, zines, and all manner of things we have found useful.
 
@@ -101,7 +109,7 @@ This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says
 >>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
 
 Code Collective is a self-organizing community of artists, makers, students, people from all backgrounds——especially including those who have not done much or any coding before. We meet regularly to develop our programming practices in a flexible, co-working, co-learning setting.
-<!-- ### who are we? -->
+
 We are artists, activists, first-gen students, never-ever coders, computer science majors, writers, dancers, linguists, neuroscientists, trans kids, queer folks, refugees, parents, staff and teachers, independent learners. We come from all career stages and from all levels of expertise. We come from many cultures, sexualities, classes, and genders. Many of us do not come to programming from a STEM-education pipeline (but some do). Our interests exceed the bounds of what our specializations offer and what our vocabularies describe. We all find different ways into code and community.
 
 I started organizing the collective as an intervention. I craved a space where I felt welcome and free to explore without constraint, after experiencing how programming cultures had intimidated me and after witnessing how they had discouraged so many others. I noticed the need for supportive spaces that could value diverse capacities to learn. After my own struggles learning to code, and after a few joyful experiences that showed me it could be otherwise, I wanted to make space for anyone else struggling to find their fit, anyone convinced there was no place for them in the existing systems. 
@@ -174,6 +182,16 @@ Too often I don't get started because I don't know where to start, and also beca
 [^tinker]: To tinker is also to mend, to patch up, repair, or improve in a makeshift way [OED]. The word derives in part from the tasks of metalworkers (per Miller Puckette & OED). 
 
 I learned to use scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). I was a poet who wanted to make weird books, and he told me simply, "Pick something small you want to try to make, and use that to begin learning Python." Reader—I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself some HTML, CSS, and Javascript. But none of it would stick. Still, I trusted Brett, so I found a little example code for a simple chatbot and used it to make what would become "ladymouth" — a bot that tries to explain feminism to misogynists online. Along the way, I learned enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run, even though I started with zero vocabulary and knowledge about relational databases or APIs or anything else. Through Brett's positive encouragement, and by finding the right tools for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, that I couldn't understand the tools I wanted to use, and that I didn't belong in the spaces that interested me (or that I didn't even know about). Being among others who were experimenting in these same ways taught me it was okay not to have all the pieces in place right away. [xxxmaybemove] 
+
+[//]: # "[XXXadd sketching?] @ImportanceSketchingCode2023"
+
+[//]: # "[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) @shihCriticalCodingCookbook"
+
+[//]: # "[XXXadd source] Levin & Brain [Code as Creative Medium]() @CodeCreativeMedium"
+
+[//]: # "[XXXadd source] Critical Makers Reader @bogersCriticalMakersReader2019"
+
+[//]: # "that conference on connected learning from ??2020??"
 
 ### Critical breaking
 
@@ -323,7 +341,7 @@ When we are together and witness each other struggle, that commonality reveals l
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
-<!-- [XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?] -->
+<!--- [XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?] --->
 
 ### Work iteratively, feature progress
 
@@ -349,23 +367,24 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 </div>
 
-## 4. "We make it weird"
+## 4. We make it weird
 
 ### Fight for the silly photo
-
-...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
 
 Anywhere you can get serious about silliness is a space to expand.
 
 >"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it"[^shane] (Shane 2019, 4).
 
+...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
+
+
 ### Adopt mascots 
 
-queer pirate mascots
+We've adopted the magpie as our official mascot: an intelligent, crafty corvid fascinated with shiny objects and capable of using tools. 
 
-The Code Collective approach is perhaps best illustrated by the sailing band of misfits in the TV show *Our Flag Means Death*, who support each other, sew flags together, explore identity together, figure out their career goals together, and fumble new skills while going on adventures.
+Our other, unofficial mascots are the queer misfit pirates from the TV show *Our Flag Means Death*. They support and champion each other, do projects together, explore identity, figure out their career goals, and fumble new skills while going on adventures. 
 
-We've also adopted the magpie as our official mascot: an intelligent, crafty corvid fascinated with shiny objects and capable of using tools. 
+These both embody the spirit of our group, without taking ourselves too seriously. 
 
 ### Go toward the strange
 
@@ -424,7 +443,7 @@ co-teach | co-learn | co-work | co-create
 
 At Code Collective, we co-work, co-teach, co-learn. Teaching others helps us learn. Sometimes the teaching looks more like wayfinding together. 
 
-<!-- Collaboration, not competition. "Care over careful" -->
+<!--- Collaboration, not competition. "Care over careful" --->
 
 >"There was beginner student who had trouble with code, and I think it was Katherine who helped. Being able to see the mentorship between between people was a really powerful thing for me to see. I remember seeing seeing that kind of troubleshooting, debugging. That was really important for me to see."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
@@ -646,9 +665,9 @@ GIFs, TikToks, whatever's your thing... what brings a smile to your face and a s
 
 </div>
 
-<!-- // #### (brave spaces w Sultan?) -->
+<!--- // #### (brave spaces w Sultan?) --->
 
-<!-- Since Zoom Doom, we've been looking for ways to recreate the unique environment we'd built in person using (or building) other a/synchronous tools.  -->
+<!--- Since Zoom Doom, we've been looking for ways to recreate the unique environment we'd built in person using (or building) other a/synchronous tools.  --->
 
 [Back to top](#top)
 
@@ -747,7 +766,7 @@ What question do you want to explore?
 
 
 ### Make room for each other
-<!-- is this one in encode our values? -->
+<!--- is this one in encode our values? --->
 
 >"It's really reassuring to always come back to this environment of like, "Okay, you don't have to be that, you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code."**
 >>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
@@ -786,11 +805,11 @@ For me, seeing students who thought they hated code return the next semester ref
 
 
 
-<!-- We're conscious of taking up space. -->
+<!--- We're conscious of taking up space. --->
 
 ### Continue becoming more ourselves
 
-<!-- Experiences of becoming 'more ourselves' [...] -->
+<!--- Experiences of becoming 'more ourselves' [...] --->
 
 We gather as part of this effort, and we have started to trust each other with the care and feeding required to take on this continual work. We reveal ourselves, maybe slowly at first. By sharing the things we make or want to make, we share what we care about, who we care for, our politics. We get glimpses of each others homes and families and pets. We see each other chew with our mouths full or sweaty on arrival or frustrated to figure out a problem.  
 
@@ -849,7 +868,7 @@ TBD
 
 ## *OLD VERSIONS...*
 
-<!-- # A GUIDEBOOK -->
+<!--- # A GUIDEBOOK -->
 
 <!--could write the brief on the ideal lab for epistemologies of datasets-->
 <!--art data knowing machines epistemologies of datasets. Knowing Datasets / Datasets for Knowing EpiDataLab Datasets for Humans / **The Knowing Data~~sets~~ Lab (KDL)** / Knowing Datasets Coalition-->
@@ -990,8 +1009,6 @@ Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schn
 >"It's small and tight, and we have a bunch of regulars. but I also feel like maybe there are other people out there who were not reaching who might be interested or where we can like the community, would benefit from having them as well, we're even like not just individuals. like other organizations like, I think, the a student assembly for accessibility with having some discussions about technological accessibility."
 >>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
 
->"I was that convinced that I didn’t have the ability or technological talent to learn how to write code for something. I assumed that every person around me was miles ahead in their practice, and wondered how my passion for creative storytelling could really play into something so new and untouched." 
->>Tia Kemp, she/her, BA Media Arts + Practice
 >"it was time to get into coding. And by that I mean—hours of getting things wrong and few moments of figuring out something right."
 >"Most of all, the practice and reward from creative coding showed me first-hand that I shouldn’t be scared of new territory. It might seem simple, but the work I was able to achieve did more than shake my fear of code; it gave me a natural curiosity on the future of social media, the hands behind updated features, and how a new generation of thinkers and media-movers could reshape our understanding of it."
 
@@ -1004,7 +1021,7 @@ Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schn
 
 06 Oct CCC
 
->>Ada: stumbled on it by chance, i get bored very easily, won't take projects unless i'm very excited about it. kind of trained me, started learning more music visualization and how i built up all the ..al the coding knowledge i have is 
+>>Ada: stumbled on it by chance, I get bored very easily. I won't take projects unless I'm very excited about it. kind of trained me, started learning more music visualization and how i built up all the ..al the coding knowledge i have is 
 
 SC: learning to give yourself permission even though there isn't a clear path. 
 
@@ -1110,4 +1127,4 @@ All making is a research question. What question do you want to explore?
 >"We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other." 
 >>–Sara Ahmed
 
-<hr/> -->
+<hr/> --->
