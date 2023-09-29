@@ -303,7 +303,9 @@ I am continually finding that my presence in learning spaces as a vulnerable, un
 
 The socially awkward planner in me wants to know in advance what's going to happen in every session. But the less I plan and structure, and instead gesture and invite, the more space exists for group needs and wants as they arise. Some of my favorite teachers have whole slide decks I've seen them chuck out the moment the class discussion went another direction. I never understood that before, because I wanted to suck all that knowledge out of my teachers' heads. Now that I'm teaching, I get it. I'm more interested in what my students want to know than what I have to say. And when they share what they want to know, I can trust I'll have something to offer that can enrich, support, or connect with that instead. 
 
-Your milage may vary, as mine has!
+Your milage may vary, as mine has! I want to acknowledge that some folks are given much more leeway to display uncertainty while retaining their authority and respect than others are. I understand that your vulnerability will have boundaries and capacity limits, as mine does.[^identity1] 
+
+[^identity1]: e.g. It looks very different for a white male professor with job security to engage "casually" or "flexibly" and still receive the benefit of the doubt when up for review. I want to use the privilege I have as a white person who has learned to "speak academic" (in the contexts where I must) to turn that voice off where I can and dismantle those structures as much as I can. I still worry about how I am perceived as "too feely" or "too feminine" or "too casual" in my non-binary queer femme graduate student instability. But however possible, I want to make it more comfortable for folks like me — and folks unlike me who may be even more precarious in academic or technologist spaces — to have a home here too. That doesn't happen without those of us who have the capacity to shut off the gatekeeping rhetoric doing so.
 
 ### Ask "stupid" questions (psst.. there are no stupid questions)
 
@@ -341,7 +343,8 @@ When we are together and witness each other struggle, that commonality reveals l
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
-<!--- [XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?] --->
+
+[//]: # "[XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?]"
 
 ### Work iteratively, feature progress
 
@@ -369,14 +372,27 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 ## 4. We make it weird
 
-### Fight for the silly photo
+### Move toward the weird
 
-Anywhere you can get serious about silliness is a space to expand.
+Don't be afraid to get weird together. 
 
 >"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it"[^shane] (Shane 2019, 4).
 
-...and I realized this was the entire spirit of the event in one image I glimpsed, through a screenshot of a thumbnail of a frame of a frame. I am so grateful to Julia Kloiber from [Superrr Lab](https://superrr.net/about/) for asking to take a picture of the camera's preview screen and posting it on Instagram the day of the event, because that image would have been lost forever if they had not. I would not have known what was missing, or why I'd had the instinct to ask for us to take a silly photo, or a photo in the first place—when the very spirit of the community is itself the entire point. I would not have been so nagged by that missing photo and its contrast to the stiff serious group photo that I spent several days tracking down the original memory card to locate the precious silly photo that so much better represented us and the enthusiasm of the day.
+My own personal artistic mantra is to "move toward the weird." In my practice, how I follow my interests and push my research forward is find the most strange, uncanny, uncomfortable aspects of whatever I'm working on. If something makes me cringe, that's a place to explore (within limits of course). Rather than research questions I can test and answer with hypotheses, I'm interested in the *research tensions* I know I won't solve but keep bugging me in a visceral way. In my case, it has included the discomfiting way technologies insinuate themselves into our intimate experiences, through things like personal data tracking, or the way machine learning systems carry with them the residues of their training data language into their outputs. It has included filming myself and tracking myself, because I am super uncomfortable both of those and they feel weird but interesting. What would be your strange but fascinating thing? How do you like to get weird?
 
+### Fight for the silly photo
+
+Anywhere you can take silliness seriously is a space to expand. You might think I'm joking, but I learned this through experience. 
+
+A few years ago I ran my first a workshop where we made zines and talked about AI. It was incredibly fun, and at the end we took a group photo to remember it by. First we took a normal photo and then a silly one. The professional photographer showed us the thumbnails in their camera, and Julia Kloiber from [Superrr Lab](https://superrr.net/about/) took a picture of the silly photo inside camera's preview screen. We had a good laugh about this meta moment. Later Julia posted the picture-in-picture online, and I'm so grateful, because without it that image would have been lost forever. 
+
+When I got all the day's photos back from the photographer, there was our single group photo. We looked fine — but bored as hell. Nowhere was our silly photo, the one that captured the entire joyful spirit of the event. They had edited our photos out and didn't think the silly photo was important. 
+
+Without that glimpse, through a screenshot of a thumbnail of a frame of a frame, I would not have known what was missing, or why I'd had the instinct to ask for a silly photo in the first place (or a photo at all). But the very community itself is the entire point. 
+
+Without Julia's silly picture-in-picture of a silly picture, I would not have been so bothered by that missing photo and its contrast to our stiff, serious, professional group photo, that I spent several days sending embarrassing emails, tracking down the photographer and the original memory card, to locate the precious silly photo — because that precious silly photo so much better represented us and the enthusiasm of the day.
+
+Don't be shy, fight for your silly photos and the moments that don't seem like they should matter. They do!
 
 ### Adopt mascots 
 
@@ -384,66 +400,69 @@ We've adopted the magpie as our official mascot: an intelligent, crafty corvid f
 
 Our other, unofficial mascots are the queer misfit pirates from the TV show *Our Flag Means Death*. They support and champion each other, do projects together, explore identity, figure out their career goals, and fumble new skills while going on adventures. 
 
-These both embody the spirit of our group, without taking ourselves too seriously. 
+These both embody the vibe of our group and remind us to enjoy that vibe too. 
 
-### Go toward the strange
+What would you adopt as your mascot or icon? What's the first person, place, thing, or idea that comes to mind? 
 
-This is just a personal preference, mantra, whatever. But in my own art practice, the way I follow my interests and push my research is to move toward the most weird, uncanny, uncomfortable aspects of whatever I'm working on. If something makes me uncomfortable, that's a place to explore (within boundaries, taking care of myself and others also).
+What vocabulary do you use to describe its structure: Is it a secret society? A collaboratory? An elicit escape? Find ways to make your organization feel more fun than yet another meeting on your calendar.
 
 [Back to top](#top)
 
 ## 5. We all have skills to teach each other
 
-### Remember what you already know (& forget it)
-
-Each of us already knows A LOT. 
-
-We may know about the same things and understand it differently. 
-
 >"There must be an ongoing recognition that [...] everyone contributes. These contributions are resources." –bell hooks
 
-### Remember no one knows everything 
+### Remember what you already know
 
 Tell us something you know about! Tell us something you'd like to learn!
 
-We look for the overlaps. Simple gestures like these begin to level hierarchies and connect people. Everyone has a perspective, and no one knows everything.
+Each of us already knows A LOT. Trust that you have a lot to contribute, even if you are arriving as a "n00b" (newbie) who has never touched code before (see [Ask 'stupid' questions](#ask-stupid-questions-psst-there-are-no-stupid-questions)). 
 
-We don’t dismiss hierarchy out of hand, but acknowledge and work to address it by meeting each other where we are and valuing what each can contribute to another’s knowledge, and to better and more diverse computational systems.
+Try not to be intimidated that you're showing up to a space where everyone else will "know more than you." Even if you don't know how to make the thing you've come to learn about, you have experience in plenty of other things. You can apply your life experience and knowledge to support other people with what they want to learn. And you can bring that experience to bear on your project and how you learn it. 
+
+### Swap skills, look for overlaps
+
+Simple gestures like skill swaps begin to level hierarchies and connect people. For example, if you have experience with 3D printing or physical computing, but you want to learn virtual reality programming, you may find someone else who has experience in VR who wants to explore making physical objects. If your background is art or poetry or philosophy or dance, you can provide valuable aesthetic, ethical, and critical feedback to programmers making new artworks. 
+
+### Remember no one knows everything
+
+Everyone has a perspective, and no one knows everything. We may know about the same things, the same programming languages or tools or subjects — and yet understand them completely differently. Everyone brings lots of unique expertise to any given situation. No matter how much we already know, we can still learn a lot by listening to each other's approach. 
 
 ### Take comfort in this Programmer's Paradox
 
-#### You may never feel like a "real programmer." You already are a programmer.
+#### You may never feel like a "real programmer." You already are a programmer.[^amy]
+
+[^amy]: With thanks to [Amy Rae Fox](https://madebyafox.github.io/)
 
 >"Computer-centric terms such as ‘novice’ obscure the possibilities for creating appropriate end user systems and are prejudicial in assigning prominence to the computer." 
 >>— Bonnie Nardi @nardiSmallMatterProgramming1993
 
-Reunite the concepts of programmer and user that have been artificially divorced [see "always–already programming" Melanie Hoff [@AlwaysalreadyprogrammingMd] and "end-user programming" Bonnie Nardi [@nardiSmallMatterProgramming1993]
+Take heart if you don't feel like you're really a coder. Many of my favorite computer scientists and professional programmers have told me they don't either! There may never be a time when you reach the feeling of proper expertise or authority in your field, but the secret is that this is not the secret to competency. Those people walking around like they know what they're doing? Adulting? Ha! They probably don't know either. 
 
-Bonnie Nardi's concept of "end-user programming" dismantles the hierarchy of software maker/user and emphasizes the work a user does as another kind of programming. Every day we customize settings and change parameters, we put formulas in spreadsheets and create automatic workflows in photo editors. She argues these "end-users" are not naive but make intensive use of computers. She includes such tasks on a continuum with programming that addresses the machine at various levels, whether "close to the metal" like assembly languages or abstracted high-level languages like object-oriented programming. We see this continuum continuing to blur now with "prompt programming," which involves writing plain-text commands for generative AI systems. 
+And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced.@AlwaysalreadyprogrammingMd We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
+
+>"When we all build up and cultivate one another’s agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing." "It's buttons all the way down." 
+>>–Melanie Hoff
+
+Bonnie Nardi's concept of "end-user programming" helps dismantle the hierarchy of software maker/user and emphasizes the work a user does is another kind of programming. Every day we customize settings and change parameters, we put formulas in spreadsheets and create automatic workflows in photo editors. She argues these "end-users" are not naive but make intensive use of computers. She includes such tasks on a continuum with programming that addresses the machine at various levels, whether "close to the metal" like assembly languages or abstracted high-level languages like object-oriented programming.@nardiSmallMatterProgramming1993 We see this continuum continuing to blur now with "prompt programming," which involves writing plain-text commands for generative AI systems. 
 
 ### Remember you know how to learn
 
-Nardi also reminds us we learn things like programming all the time. "The pervasiveness of formal systems shows that people readily invent, learn, and use them." Think of knitting patterns or baseball scoresheets, which both involve "the use of constructs familiar to programmers: modules of instructions, subroutines, global variables, means for specifying conditions, and iteration."
+Nardi also reminds us we easily learn things like programming all the time, when we feel empowered to do so and are excited about them. Within knitting patterns, like baseball scoresheets, she points out:
 
->"The knitting instructions have several important similarities to the baseball scoresheet: a great deal of information is contained within a terse set of instructions; the instructions (while appearing incomprehensible to non-knitters) are accessible to any ordinary person who decides to learn to knit; and, just as the filled-out scoresheet records the way a game unfolded, the knitting instructions provide a permanent record of the way the task of knitting an afghan unfolds [...]"
+>"a great deal of information is contained within a terse set of instructions; the instructions (while appearing incomprehensible to non-knitters) are accessible to any ordinary person who decides to learn to knit; and, just as the filled-out scoresheet records the way a game unfolded, the knitting instructions provide a permanent record of the way the task of knitting an afghan unfolds [...]"
 
-"It is only when people have a particular interest in something, such as knitting or baseball, [...] that they readily learn the formal languages and notations that describe the elements and relations of the system of interest." This may seem be obvious, but "People are likely to be better at learning and using computer languages that closely match their interests and their domain knowledge."
+Both these formal languages involve "the use of constructs familiar to programmers: modules of instructions, subroutines, global variables, means for specifying conditions, and iteration." Nardi says when people have an interest, they can quickly learn the notations, forms, and relations of that system. This may seem obvious, but "People are likely to be better at learning and using computer languages that closely match their interests and their domain knowledge."
 
-So pick something you like to learn about, and don't assume it has to be hard to "count"!
+So pick something you like to learn about, and don't assume learning has to be hard in order to "count"!
 
-
-Ask ourselves: What do you want to make? What resources do you need to get there? /*More importantly, *why* do you want to put it in the world?*/ [xxxmovebelow?]
-
-co-teach | co-learn | co-work | co-create
-
-[always already programming](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) —— "the programmer is also the user is also the programmer" 
->"When we all build up and cultivate one another’s agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing." "It's buttons all the way down." (Melanie Hoff)
+[//]: # "LEFT OFF HERE"
 
 ### Learn together
 
 At Code Collective, we co-work, co-teach, co-learn. Teaching others helps us learn. Sometimes the teaching looks more like wayfinding together. 
 
-<!--- Collaboration, not competition. "Care over careful" --->
+Collaboration, not competition. "Care over careful"
 
 >"There was beginner student who had trouble with code, and I think it was Katherine who helped. Being able to see the mentorship between between people was a really powerful thing for me to see. I remember seeing seeing that kind of troubleshooting, debugging. That was really important for me to see."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
@@ -461,6 +480,8 @@ At Code Collective, we co-work, co-teach, co-learn. Teaching others helps us lea
 ### Acknowledge context together
 
 And we acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals; our choices have histories, they come with politics attached.
+
+We don’t dismiss hierarchy out of hand, but acknowledge and work to address it by meeting each other where we are and valuing what each can contribute to another’s knowledge, and to better and more diverse computational systems.
 
 **Situatedness*
 
@@ -485,8 +506,15 @@ Aligned in our interest in coding, we see our many differences as strengths and 
 ### Ask 'why' and 'how' not just 'what' to make
 
 
+
+Ask yourself: What do you want to make? What resources do you need to get there? /*More importantly, *why* do you want to put it in the world?*/ [xxxmovebelow?]
+
+
 ### Adjust for what's needed
 
+What are the basics people need to get in the door and be comfortable there? Hold meetings at times people can show up. Are you including community members who have multiple jobs, at odd hours? Children they need to bring along? Consider how you can account for this with scheduling during days, evenings, weekends, hybrid meetings. Maybe you can provide childcare through mutual aid partnerships or rotate duties. 
+
+How else can you share responsibilities of organizing and supporting your gatherings? 
 
 ### Meet folks where they are
 
