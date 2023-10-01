@@ -195,6 +195,8 @@ I learned to use scrappy artistic strategies from my first computational arts te
 
 ### Critical breaking
 
+*See also [Critical tinkering](#Critical-tinkering)*
+
 If something exists, ask how it does. Ask if it should. Reverse engineer it. Run it backward. Learn from others' tutorials. Combine them. Modify them liberally. Pull from everywhere and remix wildly. Cite generously.
 
 This is part of what we mean by scrappy — thoughtfully or playfully experimenting with the properties and limits of your materials, whether those materials are strings of wool or strings of code. This kind of "breaking" things is an essential artistic practice, and it looks different in every situation. It can range from off-the-cuff experimentation – "What happens if I push this?" — to full-fledged tactical media artworks that operate by digital civil disobedience – like the collective Electronic Disturbance Theater, which created tools to shut down government websites by pinging them repeatedly (called "distributed denial of service").[cite] For my past projects, this has ranged from diving into technology spaces I dislike (Reddit forums), tinkering with combining wildly different APIs[^api], and putting poetry into machine learning systems meant for corporate use. 
@@ -456,20 +458,26 @@ Both these formal languages involve "the use of constructs familiar to programme
 
 So pick something you like to learn about, and don't assume learning has to be hard in order to "count"!
 
-[//]: # "LEFT OFF HERE"
-
 ### Learn together
 
-At Code Collective, we co-work, co-teach, co-learn. Teaching others helps us learn. Sometimes the teaching looks more like wayfinding together. 
+Teaching others helps us learn. In our practice at Code Collective, we co-work, co-teach, and co-learn. These practices combine seamlessly and simultaneously. When I'm explaining to someone how something works that I think I understand, I find new ways to understand it better. When I am asked a question I don't know the answer to, I find new opportunities to learn together. Teaching *is* learning and learning *is* teaching. And co-working cooperatively facilitates both. 
 
-Collaboration, not competition. "Care over careful"
-
->"There was beginner student who had trouble with code, and I think it was Katherine who helped. Being able to see the mentorship between between people was a really powerful thing for me to see. I remember seeing seeing that kind of troubleshooting, debugging. That was really important for me to see."
+>"There was beginner student who had trouble with code, and I think it was Katherine who helped. I remember seeing seeing that kind of troubleshooting, debugging. Being able to see the mentorship between between people was a really powerful thing for me to see."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+
+This requires a bit of humbleness and "wayfinding" (exploring, birdwalking, pathfinding) together. This requires openness to collaboration and sharing, instead of competition or perfectionism. All this requires some mutual trust and is built over time, of course.
 
 <div class="play-along box" markdown="1">
 
-### PLAY ALONG: TBD
+### PLAY ALONG: Pair wayfinding
+
+In programming companies there is a concept called "pair programming," in which two people code together at one computer, switching roles between who is writing code and who is reviewing it. In this exercise, pair up with another person who shares an interest of yours — it can be programming related or not — and go on an investigation together. Start with a small question you're both up for investigating. It can be a technical question or a theoretical one. Set a timer for 20 minutes or 40 minutes (you can switch every 10), and let your conversation around your question lead the "internet walk" you take. How does working with a pal help you revise your question? How does it shape what you find? How will you both take what you find into your own practices and use it differently?  
+
+</div>
+
+<div class="play-along box" markdown="1">
+
+### PLAY ALONG: Code Swap
 
 </div>
 
