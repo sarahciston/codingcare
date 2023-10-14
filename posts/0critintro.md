@@ -3,20 +3,15 @@ layout: post
 permalink: intro
 title: critical introduction
 nav_order: 2
-date: 27.09.2023
+date: 06.10.2023
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
+* TOC
 {:toc}
 
-1. This introduction
-2. CRAFT: Coding.Care
-3. FORMATIVE: Critical Field Guide & Inclusive Datasets Research Guide
-4. \*: Interstitial portals
-5. TECH: Intersectional AI Toolkit
-6. (NO): Tactical refusals & reverse portals
-7. TRANS: Unsupervised Pleasures & Critical AI (preliminary?)
-
+[//]: # "TK: All Writing Is Code *zettlekasten*"
+[//]: # "TK: Platform & Broken Machine insterstitial notes"
 
 # Trans*formative TechnoCraft
 
@@ -121,6 +116,11 @@ It’s also the space where I feel able to imagine wildly, creating digital obje
  
 This is a practice of artistic research, arts-based research, and/or research creation (different lineages and regions call it different things)[cite]. 
 
+>"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
+>"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 452)
+
+[^Stark]: Stark, L., & Crawford, K. (2019). The Work of Art in the Age of Artificial Intelligence: What Artists Can Teach Us About the Ethics of Data Practice. Surveillance & Society, 17(3/4), 442–455. https://doi.org/10.24908/ss.v17i3/4.10821
+@starkWorkArtAge2019
 
 ## What Is Trans\*formative TechnoCraft?
 
@@ -203,6 +203,10 @@ Techno means a plethora of prefix possibilities and digital-analog hybrids (thin
 
 #### these may go in the Toolkit instead...
 
+It goes beyond the very valid criticism AI takes that it is biased because its data are biased ("garbage in, garbage out"). If an algorithm is at its most simple a set of instructions, a procedure (from the Babylonean), it seems obvious that it would be embedded with the assumptions of those who wrote those instructions, about how to implement that procedure. That is, there are many ways to do any task, informed by minute choices at every step. As these scale, and we know that at computational level these scale exponentially, the impact of these choices magnify and magnify. These choices have been normalized, naturalized, and neutralized by the mythology of the black box--and compounded by the computational speeds that allow thousands of operations to run per second. 
+
+To not think to train on a variety of faces, or to include an operation in the code to account for language differences, happens because there is not a variety of perspectives in the room when these very human decisions are being made before, during, and after the data is being collected, before, during, and after the code is being written and run. 
+
 #### Key forms & foundational concepts of generative AI systems explained
 
 - "Machine conditioning" not machine learning: "the fuzzy usage of ‘learning’ anthropomorphises a mathematical optimisation process" [@gaitelyriqueFrancisHungerUnHype2021]
@@ -252,6 +256,8 @@ Techno means a plethora of prefix possibilities and digital-analog hybrids (thin
   - “Database design, in that way, is 'an exercise in worldbuilding,' a normative process in which programmers are in a position to project their world views—a process that all too often reproduces the technology of race.” (Ruja Benjamin, Race After Technology @benjaminRaceTechnologyAbolitionist2019)
 - Uncertainty reduced to certainty 
   - "[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." (Louise Amoore, Cloud Ethics @amooreCloudEthicsAlgorithms2020)
+  - >>"If uncertainty is the ability for the unknown to be accounted for by comporting to containment under the logics of algorithmic models, then what can unknowability offer instead? [...]["BLACKNESS as space of ethical absence," "the unknown as a subject"] Unknowability born from the figure of the flesh opens the space for ways of understanding the world that are otherwise discounted because of their inability to be neatly measured and accounted for. It is the place in which irresolution is allowed to reside." (Morrison 2021, 255) >>"flesh becomes an essential outlier from which to assess the limitations of sociotechnical fixes. Flesh is the poignant, unavoidable signifier and text upon which to read the history and reality of total expropriation of value from bodies and land." (255) >>"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." (253) *relational knowing* @morrisonFlesh2021
+Morrison, Romi Ron. (2021). "Flesh." In Thylstrup, N. B., Agostinho, D., Ring, A., D’Ignazio, C., & Veel, K. (Eds.) Uncertain Archives: Critical Keywords for Big Data. (pp. 240-257). The MIT Press.  https://doi.org/10.7551/mitpress/12236.003.0027
 - Displaced agency, diffused responsibility
 - Bias transfer:
   - "bias transfer both (a) arises in realistic settings (such as when pre-training on ImageNet or other standard datasets) and (b) can occur even when the target dataset is explicitly de-biased" @salmanWhenDoesBias2022
@@ -330,6 +336,13 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
   * Zines to make counterpublics
     * >"ways of thinking digitally about information were embedded in lesbian-feminist work with paper, in the ways lesbian feminists learned computing and imagined and built networks and databases for storing and sharing information"
     >>—Cait McKinney (2020) Information Activism (Image from ONE Archives queer zine collections) [@mckinneyInformationActivismQueer2020]
+  * zines in relation to archival praxis
+  * zines in relation to form and class
+    * >>"Class is built into its format. A zine communicates a level of accessibility through its materials and its form. [...] A zine evokes a legacy of authorship that is not exclusively written by straight, cis, white men. [...]"
+    * >>@oakleyImperfectArchivingArchiving2023 "A zine is made to be disseminated to publics otherwise forgotten by hardcover books." "[...] The softcover book is ripe for the wear and tear of heavy use."
+  * Zines as archives of crisis & queer archives
+    * >>"evidence of queer life persists in the urgent artifacts that emerge in crisis—artifacts that arise expediently as part of efforts to advocate for slowness, care, mutuality, queer joy, pleasure, refusal, and community." Bad Archives, Paul Soulellis, Queer Archive Work @soulellisBadArchives2023 
+    * @festivalEyeo2019Paul2019
   * Zines as living texts: "Living Books: Experiments in the Posthumanities by Janneke Adema"  @pressLivingBooksMIT
 
 #### Hand scale, accessibility
@@ -467,8 +480,7 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 
 
 
-
-
+[//]: # "TK: Critical Introductions to Each Collection"
 
 
 

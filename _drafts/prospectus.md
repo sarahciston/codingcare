@@ -14,38 +14,52 @@ tags: [prospectus, dissertation]
 
 - [x] Make a diss schedule working backward from deadlines
 - [x] introduction write draft for Holly by 01.09.23. include unpacking language of "trans*formative technocraft"
--[ ] add section to CCC site for projects, link to them in portions of the guidebook as grounding tangible items. 
+- [ ] add section to CCC site for projects, link to them in portions of the guidebook as grounding tangible items. 
 - [ ] add debriefs from chaos camp, montenegro, e-werk, holga. Linz workshop. community building practices. CCBerlin?
 - [ ] applications spreadsheet
 
 - one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
 
 
+## Caring with & for Intersectional AI
+
+### Care & Communities
+
+>Coding Care: Community Ethics for Collective Digital Care (Values, Ethics, Approaches, Community Building, Creative Code Collective How-Tos)
+
+![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png)
+{: .img-small }
+<!-- (Could combine with love notes, with tactics, or with community guidelines) -->
+
+>"Care is the practice of savouring how subtle differences can make all the difference." (Data Loam 2020, 380)
+
+*[Data Loam]: Data Loam. (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.) De Gruyter
+
+
+
 ### Dissertation Writing Schedule
 
 - [ ] 04 APR Filing Due for May Grad  (05 JUL for Aug)
-- [ ] 29 MAR Diss Checklist Due, Last Revisions & Formatting for May Grad (28 JUN)
-    - [ ] "Approval to Submit" form, generated via email
-    - [ ] "Appointment/Change of Committee" form
-    - [ ] "Survey of Earned Doctorates" form
+- [ ] 29 MAR Diss Checklist Due, Last Revisions & Formatting for May Grad (28 JUN) - [ ] "Approval to Submit" form, generated via email, - [ ] "Appointment/Change of Committee" form, - [ ] "Survey of Earned Doctorates" form
 - [ ] **14 FEB (01 MAR) Defense Week** !15 MAR Latest Date! (13 JUN)
 - [ ] **24 JAN (09 FEB) Send Final Draft to Committee** (30 MAY)
 - [ ] 15 DEC (03 JAN) Start Revisions
+
 - [ ] **01 DEC (08 DEC) Send Chairs Complete Draft**
 - [ ] (27 NOV-08 DEC) (Sprint 6 if needed)
-- [ ] 13-25 NOV Sprint 5: Introduction & Conclusion
+- [ ] 13-25 NOV Sprint 5: Introduction & Conclusion (Unsupervised Pleasures/Critical AI essay (goes in IAITK?))
 - [ ] *12 NOV Send Writing to Tara, Rita*
-- [ ] 30 OCT-11 NOV Sprint 4: Interstitial Essays & Conclusion (Unsupervised Pleasures)
+- [ ] 30 OCT-11 NOV Sprint 4: Interstitial Essays & Introduction
 - [ ] *29 OCT Send Writing to Holly, +?*
-- [ ] 16-28 OCT Sprint 3: Critical Field Guide & Interstitial Essays
+- [ ] 16-28 OCT Sprint 3: Critical Field Guide & Coding Care (second half) or/& Introduction
 - [ ] *15 OCT Send Writing to Tara(?), +?*
-- [ ] 02-14 OCT Sprint 2: Intersectional AI Toolkit & Introduction
-- [ ] *01 OCT Send Writing to Holly, +?*
-- [ ] 18-30 SEP Sprint 1: **Coding Care** & Introduction
+- [ ] 02-14 OCT Sprint 2: Intersectional AI Toolkit & Coding Care (second half) or/& Introduction 
+- [ ] *01 OCT Send Writing to Holly, +?Rita*
+- [x] 18-30 SEP Sprint 1: **Coding Care** (first half) & Introduction
 
 
-Writing Weeks Left: 18 weeks (inc holidays)
-Drafting Weeks: 10 (12)
+Writing Weeks Left: 16 weeks (inc holidays)
+Drafting Weeks: 08 (10)
 
 ### chapter outline (fantasy table of contents)
 00. What is this document, What Is Coding Care [status:] 

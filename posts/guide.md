@@ -7,6 +7,8 @@ date: 27.09.2023
 tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
+[//]: # "TK: JAVASCRIPT STARTER PACK *zettlekasten*"
+
 # Coding Care: Field notes for making friends with code
 {:.no_toc}
 
@@ -81,7 +83,7 @@ These are the open questions explored by this guide — and explored every time 
 
 ### aka What's in this pocket guide? What's a code collective and how do I get one?
 
-Creative Code Collective is the community I started in early 2019 for media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I sent out a call, because I was looking for others who were struggling with code same as I was, and I hoped there might be another way — at the very least, we could struggle together. 😬 We launched with the mottos: **"Scrappy artistic strategies, not perfect code"** and **"We all have skills to teach each other."**
+Creative Code Collective is the community I started in early 2019 for media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I sent out a call, because I was looking for others who were struggling with code same as I was, and I hoped there might be another way — at the very least, we could struggle together. We launched with the mottos: **"Scrappy artistic strategies, not perfect code"** and **"We all have skills to teach each other."**
 
 Throughout the guide I'll share what I've learned while building Code Collective — about coding, connecting, and building collectives. The guide honors and draws from the many mentors and teachers who have inspired it, gathering many resources found along the way. Of course the guide includes many reflections and contributions from community members — including coding examples and exercises, favorite projects and personal accounts — because this work is never done in isolation. I'll discuss connections I've found between coding and other crafts like zine publishing and fiber arts. I'll also discuss connections to open-source, open-access, and activist movements that shape the approach to how we gather and what we create. The guide is a melange of materials and methods, hopefully a spark of inspiration and the start of many conversations around these ideas. 
 
@@ -192,6 +194,8 @@ I learned to use scrappy artistic strategies from my first computational arts te
 [//]: # "[XXXadd source] Critical Makers Reader @bogersCriticalMakersReader2019"
 
 [//]: # "that conference on connected learning from ??2020??"
+
+[//]: # "[XXXadd source] [Critically Conscious Computing: Methods for Secondary Education](https://criticallyconsciouscomputing.org/) "
 
 ### Critical breaking
 
@@ -305,9 +309,11 @@ I am continually finding that my presence in learning spaces as a vulnerable, un
 
 The socially awkward planner in me wants to know in advance what's going to happen in every session. But the less I plan and structure, and instead gesture and invite, the more space exists for group needs and wants as they arise. Some of my favorite teachers have whole slide decks I've seen them chuck out the moment the class discussion went another direction. I never understood that before, because I wanted to suck all that knowledge out of my teachers' heads. Now that I'm teaching, I get it. I'm more interested in what my students want to know than what I have to say. And when they share what they want to know, I can trust I'll have something to offer that can enrich, support, or connect with that instead. 
 
-Your milage may vary, as mine has! I want to acknowledge that some folks are given much more leeway to display uncertainty while retaining their authority and respect than others are. I understand that your vulnerability will have boundaries and capacity limits, as mine does.[^identity1] 
+Your milage may vary, as mine has! I want to acknowledge that some folks are given much more leeway to display uncertainty while retaining their authority and respect than others are. I understand that your vulnerability will have boundaries and capacity limits, as mine does.[^identity1][^identity2]
 
 [^identity1]: e.g. It looks very different for a white male professor with job security to engage "casually" or "flexibly" and still receive the benefit of the doubt when up for review. I want to use the privilege I have as a white person who has learned to "speak academic" (in the contexts where I must) to turn that voice off where I can and dismantle those structures as much as I can. I still worry about how I am perceived as "too feely" or "too feminine" or "too casual" in my non-binary queer femme graduate student instability. But however possible, I want to make it more comfortable for folks like me — and folks unlike me who may be even more precarious in academic or technologist spaces — to have a home here too. That doesn't happen without those of us who have the capacity to shut off the gatekeeping rhetoric doing so.
+
+[^identity2] Briana Bettin (Assistant Professor of Computer Science and Cognitive and Learning Sciences, Michigan Tech) echoes this sentiment: "I let students see me make mistakes; I thank them for identifying those mistakes and engaging with the lecture. I ask them why that was a mistake and create conversation because students need to see experts fail too. Failure is part of learning, part of life and part of moving forward. As a young female instructor, failing in front of students can easily backfire. There have certainly been indications that this confirmed to some that I have no idea what I’m doing and that I’m not qualified. Despite that, I will continue to fail in front of my students and call myself out on it, because it makes the classroom a place they know they can try, fail and grow. If I can have a code failure in front of 200 of them and I’m supposed to know what I’m doing, they can fail in front of their lab partner or their roommate while they’re taking their first class." 
 
 ### Ask "stupid" questions (psst.. there are no stupid questions)
 
@@ -402,7 +408,7 @@ We've adopted the magpie as our official mascot: an intelligent, crafty corvid f
 
 Our other, unofficial mascots are the queer misfit pirates from the TV show *Our Flag Means Death*. They support and champion each other, do projects together, explore identity, figure out their career goals, and fumble new skills while going on adventures. 
 
-These both embody the vibe of our group and remind us to enjoy that vibe too. 
+These both embody the vibe of our group and remind us to enjoy that vibe too. Unrelated but not really unrelated, they remind me of [Pirate Care](https://syllabus.pirate.care/), a group whose syllabus theorizes care in relation to piracy and other legal gray zones. They argue that "Caring labour needs full access to resources, knowledge, tools and technologies. When these are taken away, we must claim them back."
 
 What would you adopt as your mascot or icon? What's the first person, place, thing, or idea that comes to mind? 
 
@@ -477,7 +483,7 @@ In programming companies there is a concept called "pair programming," in which 
 
 <div class="play-along box" markdown="1">
 
-### PLAY ALONG: Code Swap
+### PLAY ALONG: Code swap
 
 </div>
 
@@ -487,11 +493,18 @@ In programming companies there is a concept called "pair programming," in which 
 
 ### Acknowledge context together
 
-And we acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals; our choices have histories, they come with politics attached.
+We acknowledge the many different contexts that bring us to the same space, different backgrounds and different baselines for how we operate and understand. While we each have our own "default" assumptions, we try to remember these are not common sense, they are situated. This means they carry with them 
+
+It helps to acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals; our choices have histories, they come with politics attached.
+
+>>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
+>(Dr. Vernelle A. A. Noel)
+
+Not only does acknowledging this situated context help create better relationships among our community members, it helps make interesting, engaging works of creative–critical code. 
+
+
 
 We don’t dismiss hierarchy out of hand, but acknowledge and work to address it by meeting each other where we are and valuing what each can contribute to another’s knowledge, and to better and more diverse computational systems.
-
-**Situatedness*
 
 We don’t assume we *should* code something just because we can. 
 
@@ -499,10 +512,12 @@ Through conversations about what we’re making and imagining, I try to model an
 
 Very quickly the personal becomes political and our work easily extends beyond ourselves, to engage algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally. 
 
->>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
->(Dr. Vernelle A. A. Noel)
 
+A critical engagement means asking "why not" as well as "why." It means questioning what limits technologies impose. Does it have to be made with a machine learning tool, just because that is the trend? Does it have to be made with a digital technology at all? Is this a "problem" that technology is needed to solve? 
 >>"when communities are faced with new technological solutions to existing problems, to ask what these techniques may prevent and not only to check what the techniques promise to do." —Ursula M. Franklin @franklinRealWorldTechnology2004
+
+
+
 
 Another way we think about context is to not dismiss ideas before they get off the ground. We stay excited by the impossibly large tasks and the incredibly small ones, knowing everything is connected. Knowing how 'way leads on to way', the tiny tangents always bring us back to the big issues, and the impossible pataphysical pursuits have a way of revealing practical applications when pursued.
 
@@ -517,6 +532,8 @@ Aligned in our interest in coding, we see our many differences as strengths and 
 
 Ask yourself: What do you want to make? What resources do you need to get there? /*More importantly, *why* do you want to put it in the world?*/ [xxxmovebelow?]
 
+>"My goal is not just that students know how to code — you can find coding tutorials anywhere that give you raw “stuff.” I want to help them validate whether they understand what code does and whether they can communicate about code with others and justify their decisions while programming. I also ensure that students recognize, even if we aren’t building big systems for people just yet while we learn these foundations, that code is powerful and comes with responsibility, that there are social impacts to what they program and that computer scientists are often the least likely to recognize how impactful to society their job can be. These skills [...] are also valuable even for those who won’t go on to become programmers." 
+>>–Briana Bettin, Assistant Professor of Computer Science and Cognitive and Learning Sciences, Michigan Tech
 
 ### Adjust for what's needed
 
@@ -573,7 +590,6 @@ We're both excited for both impossibly large possibilities and also obsessed wit
 
 Do you know that sneaky feeling an idea should already exist? It might mean you are just the person to create it. Or that other sneaky feeling that an idea is too impossibly far-fetched, that you are the only one who would want it? That *still* might mean you should pursue it. Remember if you're interested in something, others will be too! We are the people best suited to bring our own visions to life.
 
-
 ### Critical dreaming
 
 Set aside your doubts and questions——what would you make if you could make anything, and why? 
@@ -593,8 +609,7 @@ These small things are seeds. We don't know what they might grow into but we tru
 *How do you practice critical tinkering? [xxx]*
 
 
-### we choose/find impossibly large things to get excited about too
-
+### Choose/find impossibly large things to get excited about too
 
 
 <div class="play-along box" markdown="1">
@@ -777,7 +792,7 @@ This started as a Google Doc where anyone could dump a link. It has grown into a
 
 ## 10. We encode our values
 
-### Start with care 💜 before code
+### Start with care before code
 
 see Chapter 510's "care over careful" meaning care-ful with each other but not with worry about getting it "right" in a perfectionist sense. Perfectionism is white supremacy. [XXXcite] 
 
@@ -815,6 +830,8 @@ If the space / tool / resource / artwork you want does not exist, create it. If 
 Examples like [Homebrew Computer Club](), [Chaos Computer Club](), [Sister Spit (now Resplendent Tonguesplitters)](https://www.spin.com/2022/08/we-knew-we-were-pissed/) all show how a few folks with a wacky idea can bloom into work that is appreciated by many, many people. 
 
 Steve Wozniak described the start of Homebrew Computer Club: "we weren't official and we weren't formal. Our leader [...] would get up at every meeting and announce the convening of 'the Homebrew Computer Club which does not exist' and everyone would applaud happily." 
+
+[Radical software](https://monoskop.org/log/?p=269)
 
 ### Ask after one another
 
