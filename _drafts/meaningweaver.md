@@ -8,6 +8,34 @@ nav_order: 95
 
 # Weaving "Universal" Meaning from Numbers
 
+[//]: # "write it in style of Bell's *Undercurrents* with snippets of history described in essay with a personal narrative also weaving through"
+
+How did the idea become prominent that language, and its meaning, could be represented through numbers and computation? Temporarily setting aside whether or not this is a *good* idea, I am interested in the history of the idea. It emerges in prominence in the cybernetic boom just following the Second World War, with strands of thought that run much further back in time. It spans developments in crypotography, translation, linguistics, phonology, statistics and probability, cybernetics, taxonomy; with roots in wartime aerial firing and weapons development, eugenicists' racist beliefs about categorization. This work traces some of the thinkers, historical moments, and intellectual pivots 
+
+The concepts of "universal language" and of applying cryptographic methods towards language translation data at least back to Athanasius Kircher and Holy Roman Emperor Ferdinand III (and perhaps much further, from non-Western perspectives). However, it is a single memo written in 1947 by mathematician Warren Weaver that is credited with launching the field of "Machine Translation" and later Natural Langauge Processing. 
+
+Most often, Weaver's name found, if at all, behind Claude Shannon's in the highly influential model of communication that bears their names. But Shannon introduced the model in a 1948 single-authored paper, "A Mathematical Theory of Information," and Weaver wrote a short introduction to the paper for general audiences. Together these were republished in 1949 as a book titled *The Mathematical Theory of Information*. Katherine Hayles reports on the nature of Weaver and Shannon's collaboration on the Shannon–Weaver model: 
+>"According to Eric A. Weiss, Shannon told him in correspondence that Weaver put together the volume without consulting Shannon. Weiss wrote: 'Weaver was a big-shot scientific gatekeeper at the time; Shannon was a more or less nobody. Weaver took some notes ... or something by Shannon and turned it into the 1949 writing putting his name first and without really getting Shannon's consent. Shannon felt that Weaver had made a good explanation, this was one of Weaver's skills, and did not object seriously at the time' (Weiss to author, private communication)."
+
+Who was Weaver? And why did his memo launch a thousand (or more) machine translations and the history a field? At various points, Weaver was a mathematics professor at University of Wisconsin and what would become CalTech, a director at the Rockefeller Foundation distributing funding for research in engineering and biological sciences [agriculture, genetics, and medicine], and head of a division on mathematics research for the army in WWII. He appears in archives as a powerful correspondent and witness to developments in weapons, artificial intelligence, cybernetics, and 
+
+
+
+
+From Athanasius Kircher's faulty attempts to decipher hieroglyphics () and early proposals for a "universal language" and work in cryptography (*Polygraphia Nova* 1663), 
+
+How often the word "intuition" comes up is disturbing for a science that presents as the so-called rational antidote to human feeling. In CS textbooks, the term "intuition" seems to mean something between "common sense" or "hypothesis" — yet never in the literature are these intuitions checked by anything other than the notion "it just works" to get the desired results.
+
+The inversion of finding the theory to fit the data, pattern seeking: 
+>"machine learning can be understood as a function-finding operation." @mackenzieMachineLearnersArchaeology2017
+
+**By function finding, machine learning seeks a description of a transformation required to turn input data to desired output data.**
+
+>"learning is comprehensively understood in machine learning as finding a mathematical function that could have generated the data and optimizing the search for that function as much as possible." @mackenzieMachineLearnersArchaeology2017
+>"the important point is that the notion of the learning machine sets in motion an ongoing diagonalization or sideways slippage that transforms the basic diagram of the linear model through substitutions of increasingly convoluted or nested operations." @mackenzieMachineLearnersArchaeology2017
+
+All things are vectors (Whitehead 1960, 309). (via MacKenzie)
+
 While a few of the most prominent names from eugenic "race science" and military projects have been stripped from buildings or removed from lecture posts, their methods and logics carry forward into the latest generative AI systems. Francis Galton, Ronald Fisher, Karl Pearson's, and others' racist, capitalist, militarizing worldviews are embedded into the way we think with numbers [and the way we numericalize everything] today. As statistics removes the names of Pearson, Fisher, and Galton, machine learning chugs on and science still measures the right to publish by their idea of "statistical significance." @claytonHowEugenicsShaped2020
 
 Oft repeated “the meaning of a word can be inferred by the company it keeps” JR FIRTH. >>> 
@@ -71,8 +99,6 @@ Deep in the structures of language where the traits are common across.
 the central word”
 
 
-Hayles on Weaver & Shannon’s collab: 
-“According to Eric A. Weiss, Shannon told him in correspondence that Weaver put together the volume without consulting Shannon. Weiss wrote: 'Weaver was a big-shot scientific gatekeeper at the time; Shannon was a more or less nobody. Weaver took some notes ... or something by Shannon and turned it into the 1949 writing putting his name first and without really getting Shannon's consent. Shannon felt that Weaver had made a good explanation, this was one ofWeaver's skills, and did not object seriously at the time" (Weiss to author, private communication).”
 
 FISHER
 eugenics journal, measurements into categories. Ronald Fisher’s 1936 paper “The use of multiple measurements in taxonomic problems”

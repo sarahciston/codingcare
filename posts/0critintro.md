@@ -88,13 +88,14 @@ These works are written as jargon-free as possible to allow them to travel as br
 >"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression.
 >>–bell hooks @hooksTeachingTransgressEducation1994
 
->"Theory is not inherently healing, liberatory, or revolutionary. lt fulfills this function only when we ask that it do so and direct our theorizing towards this end."
+>"Theory is not inherently healing, liberatory, or revolutionary. lt fulfills this function only when we ask that it do so and direct our theorizing towards this end." >>–bell hooks @hooksTeachingTransgressEducation1994
 
 
 It requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start. [XXXexplain] [^hoff] [^nardi] It requires un-siloing of domains and disciplines, the artificial boundaries that devide technologists from activists. 
 
 It requires we find common language, common value/appreciation/respect that comes with working knowledge of the whole working system. 
 
+**The technical means how (coding skills) and the critical/analytical means how (analytical, political, aesthetic, ethical contexts) and the material means how (data, energy, hardware) have to combine / are inseparable.**
 
 #### Approachable, accessible // Care means access
 
@@ -114,7 +115,11 @@ Art has been the space where I’m able to unpack complex ideas for myself, beca
 
 It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
  
-This is a practice of artistic research, arts-based research, and/or research creation (different lineages and regions call it different things)[cite]. 
+This is a practice of artistic research, research-creation, and/or arts-based research (different lineages and regions call it by different names)[cite] @lovelessHowMakeArt2019. 
+
+Specifically the "valences" of research-creation [Chapman & Sawchuk] that are not "creative presentation of research" (reporting on research in creative ways), or "research for creation" that supports a stand-alone artwork, or "research from creation" (reporting about artworks after the fact), but rather "creation-as-research" [and I'd add research-as-creation], which Loveless says "Research-creation [...] produces hybrid forms, defamiliarizing and uncanny, that oscillate between more than one 'species' of production and that result in 'offspring' that are often unthinkable, illegible within the current institutional frameworks of academia. It creates a chimera. By bringing research and creation together in such a way that they unpredictably contaminate and remake each other,"
+
+>"in failing to fully belong, and allowing that nonbelonging to denaturalize, emergently, its givens, research-creation tells other stories, uncanny stories, that (have the potential to) carry within them the other ethics that King invites us to attend to."
 
 >"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
 >"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 452)
@@ -126,7 +131,7 @@ This is a practice of artistic research, arts-based research, and/or research cr
 
 ### Trans\*formative
 
-Trans\*formative here means emergent, embodied, embedded practices. It means justice-oriented, community-oriented, process-oriented practices. 
+Trans\*formative here means emergent, embodied, embedded practices. It means process-oriented, community-oriented practices. It makes space for and honors what we figure out as we go along, what we [adjust and tailor to the goals and needs of specific situations and we operate in community --[XXXhow to say this better?]]. 
 
 'Transformative' includes transformative justice, a movement which recognizes that oppression is at the root of harmful technological systems and argues that acknowledging this oppression is essential to addressing it. It moves beyond punative, carceral logics to imagine and create different, even healing systems [cite]. Reparative and restorative acts are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBT histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions].
 
@@ -136,31 +141,32 @@ Trans\*formative is an active, prefigurative [footnote] stance. It aligns more w
 
 >>"Revolutionary movements require a teleological pool from which to draw. The imagination is that teleological pool: it not only creates liberatory drives; it sustains, justifies and legitimises them. It undoes entire epistemes and clears a space for us to create something new. Though this 'newness', or the demand for something else, can never fully be realised in the realm of the discursive, it exists in other registers: it can be felt, heard, touched, tasted. The structural limits of this world restrict our ability to articulate all that the imagination is capable of conceiving. Do not forget this." @olufemiExperimentsImaginingOtherwise2021
 
-
 #### Transformers
 
 Transformers are the kinds of machine learning architectures currently being employed to create large models like ChatGPT and Stable Diffusion. They are good at digesting large clumps of text, images, video (each as numbers) and reconstituting them. Their main parts are called encoders and decoders, and it's often said that we don't know what exactly is going on in these hidden layers. But I find it  more interesting that *they* do not know what is going on in these hidden layers of their own architecture. While they process and produce meaning (input and output), they are not "aware" of the meaning of the content they are processing along the way. 
 
 Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known. [cite]
 
-The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate context through a mechanism called "self-attention" that examines the word-units surrounding each word-unit they interpret. [@vaswaniAttentionAllYou2023] We need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference rather than erase it.  
+The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate context through a mechanism called "self-attention" that examines the word-units surrounding each word-unit they interpret. @vaswaniAttentionAllYou2023 We need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference rather than erase it.  
 
 <!-- each of these para could be expanded. in critAI-genAI paper? -->
 
 #### Trans\*
 
-To move from the "transformer" model architecture to trans*formative tech and technocraft means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in it, speaking nearby, walking beside, realizing what of it constitutes us or supports us.
+To move from the "transformer" model architecture to trans*formative tech (and from tech to technocraft) means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in it, speaking nearby, walking beside, realizing what of it constitutes us or supports us.
 
-This work is about trans\*lation and trans\*formation and trans\*gression.[^hooksTransgress] It wants to imagine trans\*formers otherwise, at a slant — for queerer systems (queer as in fuck you, as in QueerOS, as in queer-enough). 
+This work is about trans\*formation through trans\*lation and trans\*disciplinarity and trans\*gression.[^hooksTransgress] It wants to imagine trans\*formers otherwise, at a slant.  — for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough). 
 
 [^hooksTransgress]: As in "teaching that enables transgressions – a movement against and beyond boundaries." @hooksTeachingTransgressEducation1994
 
 >"queer as [in] being about the self that is at odds with everything around it and has to invent, create and find a place to speak, and to thrive and to live"
 >>—bell hooks
 
-Trans\* can be inclusive, fluid, in motion, outside binary logics, self-identifying, evolving, emergent, embodied. Trans\*formative TechnoCraft imagines systems that might be the same, that trans\*cend the logics built up by capitalist, militaristic, racist, ableist, misogynistic lineages. 
+Trans\* can be inclusive, fluid, in motion, outside binary logics, self-identifying, evolving, emergent, embodied. Trans\*formative TechnoCraft imagines systems that can also have these qualities, that can trans\*cend the logics constructed by capitalist, militaristic, racist, ableist, misogynistic lineages. 
 
-This approach to technological trans\*lation and trans\*formation is without prerequisite. We are already queer-enough, coder-enough, valued-enough to participate in continually becoming. We are "always-already programming" 
+Trans\*disciplinary includes multidisciplinary and interdisciplinary — across and combined and between — and it also imagines the practice of across and combined and between as more than the sum of its parts. @visResearchPeopleWho2021
+
+This approach to technological trans\*lation and trans\*formation is without prerequisite. We are already queer-enough, coder-enough, valued-enough to participate in continually becoming. We are "always-already programming."@AlwaysalreadyprogrammingMd 
 
 #### \*
 
@@ -182,13 +188,28 @@ Each of these works asks: What are the foundational assumptions that go into the
 
 <!-- Form Content Loops -->
 
-Form in-forms content. The shape of the container decides what can fill it. If I know how to make forms, or even platforms, not only content to plug in, I am more free to work the two in iterative, ongoing relation. This is how I knead the dough — form and content and form and content and form. 
+Form in-forms content. The shape of the container decides what can fill it. If I know how to make forms, or even platforms, not only content to plug in, I am more free to work the two in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. 
 
-In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain. It in-forms itself into content as I try to bring forth some kind of form. 
+In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. 
 
-Computation requires information to take on its formation, its orderly fashion. It requires contortion to represent us. Sarah Sharma reminds the Broken Machines: "to represent is also to be filed away." [@sharmaManifestoBrokenMachine2020 ]To understand through computation is to reduce to logics of categorization. [@crawfordAtlasAIPower2021] This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+Computation requires information to take on its formation. Its orderly logic is a shape imposed by and a reflection of the world, both at once. It requires contortion to represent us. Sarah Sharma reminds us, as the Broken Machines who do not quite fit these regimes: "to represent is also to be filed away." [@sharmaManifestoBrokenMachine2020] To understand through computation is to reduce to logics of categorization.[@crawfordAtlasAIPower2021] This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
->"frictioned technologies" @hamraieCripTechnoscienceManifesto2019a
+>"frictioned technologies" @hamraieCripTechnoscienceManifesto2019a 
+Those left unsupported by infrastructures and representations know in deeply embodied ways how to talk about this where others may not (yet) feel any friction as they move through systems that easily contain their forms. Crip theory has figured out how to talk about this where other [XXX]
+
+
+<!-- trauma -->
+<!-- indigenous research methods -->
+
+Develop forms, formats, and methods "on the terms of" the communities they are meant to represent, with their goals, values, approaches leading the work. 
+
+>"after four centuries of extractionist, settler-colonial linguistic practice, linguists and other outsiders must work with indigenous languages on the terms of the communities they belong to. This includes allowing those communities to set the parameters, limits, and terms of your work – and making sure your work can benefit these communities. It includes being a listener and a supporter, even in “your” research, to how indigenous communities wish to uphold and celebrate their languages, culture, and survival." @bjorklundAmericanistLinguisticsEthics2023
+
+This can fundamentally reshape the forms and functions of research, artmaking, valuemaking — because it acknowledges the varied principles on which it is founded. For example, in Indigenous epistemologies, says Shawn Wilson, "The concepts or ideas are not as important as the relationships that went into forming them. Again, an Indigenous epistemology has systems of knowledge built upon relationships between things, rather than on the things themselves." @wilsonResearchCeremonyIndigenous2008 Fundamentally understanding differently knowledge, objects, relationships to them, would necessarily reorient one's work and the forms it takes — in deeply formative ways. 
+
+>"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot — a point where thousands and millions of relationships come together. These relationships come to you from the past, from the present and from your future. This is what surrounds us, and what forms us, our world, our cosmos and our reality. We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." @wilsonResearchCeremonyIndigenous2008
+
+To see form (shape, object) as relation, connection, is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). Like all verbs, then, implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
 
 ### Techno
 
@@ -265,7 +286,10 @@ Morrison, Romi Ron. (2021). "Flesh." In Thylstrup, N. B., Agostinho, D., Ring, A
 
 >"computers were humans (mostly women), and digital computers were primarily used for complex calculations, especially in wartime military contexts. Amid the ballistic calculations, Turing speculated on a prompt from his teacher, philosopher Ludwig Wittgenstein: Can machines think? Both men thought it was a ridiculous question" @veeTextGenEdTeachingText2023
 
-#### Tech is TechNO (Refusal, Tactical Media)
+#### Tech is TechNO (Refusal, Tactical Media)``
+
+Not accepting models as the world we want to live in: 
+>"Machine learning and predictive models as they currently exist can also resist reduction, but only if we treat the gaps between their results and our realties as spaces for political action, not errors to be fixed. We need to treat these models as we do global climate change models. GCC models offer us the most probable future, given past actions, not so that we accept that future, but so we work to change it. Only global climate change deniers seek to fix the model, rather than the world." @chunDiscriminatingDataCorrelation2021
 
 ##### Extreme use
   * Lace cards
@@ -287,10 +311,9 @@ David Garcia and Geert Lovink describe tactical media as "An existential aesthet
 
 >"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley R. "Dataveillance and Countervailance in @gitelmanRawDataOxymoron2013)
 
-#### NO to capital and YES to sharing
+#### No to capital and Yes to sharing
 
 TechNO is also open-access, open-source — in their refusal to capitulate to capitalist regimes of encapsulation, privatization, knowledge-hoarding and gatekeeping. 
-
 
 #### Tech is Techne
 
@@ -308,7 +331,7 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
 
 <!-- muscle memory -->
 
-<!-- "pattern anarchy/recognition", old forms, sm holloway -->
+<!-- "pattern anarchy/recognition", old forms,  Shawné Michaelain Holloway -->
 
 **These are not metaphors but material, infrastructures undergirding systems that uphold power — woven into the warp and weft.**
 
@@ -318,9 +341,14 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
 
 >"as though all the ostensible reasons and motivations underlying their development had merely provided occasions for the emergence of a matrix which Gibson's novel was nudging into place; as though the present was being reeled into a future which had always been guiding the past, washing back over precedents completely unaware of its influence." (@plantZerosOnes1998, p. 13)
 
+>"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one’s expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." (Anuradha Reddy, Digital Creativity, 2022) @reddyArtificialEverydayCreativity2022
+>"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity"
+
+<!-- tech = lab approach Bell Labs, The Lab Book: "anything is a lab" "creativity as basic to research. >research-creation @wershlerLabBook2022 -->
+
 ### Craft
 
-* **craft**: material, iterative, process-oriented, handmade, embodied, tinkering
+Focusing on craft means noticing the material, iterative, handmade, tinkering, iterative, embodied practices of knowledge and production that technologies emerged from, and how these practices can intervene in or reshape technologies, too. 
 
 ##### Handcrafted & handicraft approaches
   * Agacency & the Internet of Towels, Anuradha Reddy
@@ -367,7 +395,7 @@ Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 
 **TechnoCraft** honors historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — and aligns them with the aspects of technology which get overlooked: namely, the contributions to the materiality of tech from Women of Color in the global majority. 
 
-
+<!-- codebending (2015) repurposing languages and interfaces @CodeBendingNew -->
 
 
 #### Counter histories
@@ -403,6 +431,8 @@ Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 >"All kinds of infrastructures involve service, maintenance, and care labor, [...and] their study can more precisely be understood as a concern of *feminist* aesthetics in particular." —Ines Kleesattel, Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art in [@sollfrankAestheticsCommons2021]
 
 Sustaining feminst servers takes "years of intense collective learning" (Kleesattel [@sollfrankAestheticsCommons2021]). "Tensions, ambivalences and immanent differences are uncomfortable and messy—and precisely therefore crucial for [...] Feminist Server Art," says Kleesattel. It holds "interrelated dimensions of actual hardware and software, common infrastructures, limited resources, care- and service labors, more-than-human poetics and speculative fabulations."
+
+<!-- participation is not a design fix @sloaneParticipationNotDesign2022 -->
 
 ### Re-mixed material metaphors
 
@@ -482,7 +512,25 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 
 [//]: # "TK: Critical Introductions to Each Collection"
 
-
+- Amoore, L. (2020). *Cloud Ethics*.
+- Ahmed, S. "Queer Use."
+- Asimov Institute. (2016). [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/).
+- Cox, G. and Soon, W. (2020). Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press.
+- Crawford, K., & Joler, V. (2018). [Anatomy of an AI System](http://www.anatomyof.ai).  
+- Dhaliwal, RS. (2022). "On Addressability, or What Even Is Computation?" *Critical Inquiry*, volume 49, number 1, Autumn 2022.
+- Ingold, T. (2015). *The Life of Lines*. Routledge.
+- Jaton, F. (2020). *The Constitution of Algorithms.* MIT.
+- Joque, J. (2022). *Revolutionary Mathematics.* Verso.
+- McPherson, T. (2018). *Feminist in a Software Lab: Difference + Design.* Harvard UP.
+- McQuillan, D. (2022). *Resisting AI*. Bristol UP. 
+- Raley, R. (2009) *Tactical Media*
+- Raley, R. & Rhee, J. (2023) "Critical AI: A Field in Formation." *American Literature*
+- Reddy, A. (2022). "Artificial everyday creativity: creative leaps with AI through critical making." *Digital Creativity.*
+- Sedgwick, E. K., & Goldberg, J. (2012). "Making things, practicing emptiness." *The weather in Proust*. Duke UP.
+- Schwarz, C. (2010). *The Anarchist’s Tool Chest*. Lost Art Press.
+- Shanahan, Murray. (2022). "Talking about Large Language Models." 
+- Thorp, J. (2021). *Living with Data.*
+- Willis, H. (2016) *Fast Forward: The Future(s) of the Cinematic Arts.* Wallflower Press.
 
 
 <!-- 

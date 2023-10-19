@@ -1,5 +1,5 @@
 
-# Codes for Dis/Appearing
+# Codes for Un/Limiting (Dis/Appearing)
 
 ### Isolation, Perfection, Scratching at the Walls
 
