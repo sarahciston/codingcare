@@ -170,13 +170,37 @@ This approach to technological trans\*lation and trans\*formation is without pre
 
 #### \*
 
-The asterisk after 'trans' longs for anything that follows; it opens up space for the layered and undefinable becoming. It creates welcoming space for anyone who wonders if you are included, wonders what "this whole thing" is about (be it gender, sexuality, technology, other), wonders if you have anything to contribute. 
+The `\*` after `trans` longs for anything that follows; it opens up space for the layered and undefinable becoming, and as such can include anyone who wonders if they belong, who wonders what they contribute, who wonders what "this whole thing" is about (be it gender, sexuality, technology, whatever). 
 
-Combined with trans, or at large, the asterisk is the interstitial. It is the footnote that defines our terms but and also it is the invitation to extend beyond any definition given. It is the multiplier and the instigator, the pivot and the punctum and the portal.
+Combined with trans, or at large, the asterisk is the interstitial. It is a footnote that defines our terms, and also it is the invitation to extend beyond any definition given. 
 
-It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away.
+The asterisk is a perturbation, a pebble in the shoe. In the German language, the gendering of nouns and verbs is haphazardly addressed by an asterisk that breaks the word, introduces a glottal stop between its 'masculine' and 'feminine' formations. `Student` or `Studentin` becomes `Student*in`; `Bäcker` or `Bäckerin` becomes `Bäcker*in`. This brief interruption can be read as a faulty solution that maintains gender-as-binary, it's true. And also, this hesitation adds a frequent awkwardness that highlights how often conversation is about gender unnecessarily. It physically opens up a space (in the mouth) where gender is unknown/all. 
 
-The asterisk is risk (just a step), is star, is A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. 
+A French or English apostrophe may mark an omission of letters, but this elision also joins together, suturing up the distance it creates. I see this tension also in the asterisk here, a clot that heals, an unspeakable but audible gasp. 
+
+Like the apostrophe at the start of `'pataphysics`, which gestures to the absurdity from which it springs, the asterisk is the instigator and the multiplier, the pivot and the punctum and the portal.
+
+It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not the redaction the asterisks mark, but the possibilities of the unknown language underneath. Or the tension of knowing and not saying, in the reading of sw*@r words. 
+
+The asterisk is risk (just a step), is star, is A-star pathfinding, [weak-star topologies [^infinite vector space],] ASCII joy, a wry smile, and a mark of possibility on a treasure map. 
+
+[The mathematical asterisk (star) represents duality, mirrors mirroring each other: Points connect to make lines and lines cross to make points.[CITE Miller]] 
+
+[^infinite vector space]: We'll come back to this and how it relates to infinite vector space and transformers and machine learning, so don't worry if you don't know. (I also asked ChatGPT to re-explain it to me like I know no math, and that helped.) And how is it that all this comes back to nearness and distance, and how similarity and difference are mapped onto nearness and distance. What about nearness and difference, similarity and distance, what about reversing the polarities? What about activation functions that put these on XY axes and tamper with the expectations/intuitions? 
+
+Again, the \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. [Here's a brief interstitial...] In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`]() or smoothing. These methods of interpolation are methods of creating or locating nearbyness. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate values at a position based on values from a nearby position. 
+
+But I always mix up the terms `interpolate` and `interpellate`. To `interpellate` is to interrupt or intercede (again like interstitial) or to summons, cite, call out. Shall I interpolate the distance between `interpolate` and `interpellate`? Frantz Fanon describes being called out as a racialized body and witnessing himself as another person's brutal interpretation.[^Fanon] Louis Althusser describes being hailed by a representative of the State apparatus and understanding it is himself who they mean.[^Althusser] Both these interpellations are about being seen, being seen and shamed and submitting to this seeing. These interpellations are also crossing a distance, creating a nearness. This distance is a street or sidewalk, and it is also the conceptual distance between how someone else understands us and how we wish to be known. 
+
+Interpolation divides up distance, quantifies it, makes it possible to cross. Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual to the general, as laid out in classificatory schemas (created from collections of other interpellated individuals). Computationally, proximity helps us jump to conclusions about each other. 
+
+Can we write a theory of nearbyness (near-bi-ness)? Not nearness as measure, not proximity and similarity scores, not K-means and K-nearest-neighbors. A working theory of a different kind, that treats `nearbyness` as a practice for `attending-to`, not `nearness` as a study for `assumption-making`.
+
+[^Fanon]: Fanon, F. 1967. Black Skin, White Masks, trans. Charles Lam Markmann.
+
+[^Althusser]: Althusser, L. 1970. "Ideology and Ideological State Apparatuses (Notes towards an Investigation)"
+
+##### **Nearbyness**
 
 #### Formative
 

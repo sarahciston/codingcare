@@ -46,9 +46,6 @@ WENDY CHUN Homophily
 https://www.youtube.com/watch?v=oUpuABKoElw
 JR Firth (1957)
 
-What would happen to use unicode numbers as arbitrary token index starting point for byte pair encoding rather than frequency score?
-ASCII developed from telegraphic codes. Its first commercial use was as a seven-bit teleprinter code promoted by Bell data services. Work on ASCII formally began October 6, 1960
-
 GPT: SMASHWORDS is original BOOKCORPUS source
 https://huggingface.co/datasets/bookcorpus
 * Addressing "Documentation Debt" in Machine Learning Research: A Retrospective Datasheet for BookCorpus
@@ -61,7 +58,18 @@ VOCABULARY VECTORIZING EMBEDDINGS
 Pre-Training a vocab: “Typically the vocabulary is created from training data by retaining the most frequent N words in the source and target language." (https://machinetranslate.org/vocabulary) 
 Literally an ordered list of token frequency > index.
 
-Byte-Pair Encoding used in GPTs (https://machinetranslate.org/byte-pair-encoding)
+Byte-Pair Encoding used in GPTs (https://machinetranslate.org/byte-pair-encoding) originally used for data compression, applied to language tokenization by (Sennrich et al, 2015). Sometimes run on bytes instead of unicode characters (Wang et al 2019)
+
+
+~~What would happen to use unicode numbers as arbitrary token index starting point for byte pair encoding rather than frequency score?~~ this would mash up all the words, but if we used a randomizer rather than frequency for building the vocab list in the first place? 
+
+ASCII developed from telegraphic codes. Its first commercial use was as a seven-bit teleprinter code promoted by Bell data services. Work on ASCII formally began October 6, 1960
+
+`Unigram model (SentencePiece) Rather than just splitting by frequency, a more “principled” approach is to define an objective function that captures what a good tokenization looks like. We now describe the unigram model (Kudo 2018). It was of the tokenizations supported in the SentencePiece tool (Kudo & Richardson, 2018), along with BPE. It was used to train T5 and Gopher.`
+    - (https://stanford-cs324.github.io/winter2022/lectures/modeling/)
+    - >"This is not necessarily the most glamorous part of language modeling, but plays a really important role in determining how well a model will work."
+    - >"    Each token should be a linguistically or statistically meaningful unit."
+
 
 FastText, GloVe, Word2Vec
 Almost all current NLP start w embedding layer
@@ -114,7 +122,7 @@ John WILKIN's universal language (https://historyofinformation.com/index.php?cat
 
 Kircher's attempts at translation and universal signs Ars Magna
 
-Word Net 1985
+WordNet 1985 George A Miller, also of 7 plus or minus 2, compatriot of Chomsky. Disliked by Osgood
 
 RICHARD RICHENS SEMANTIC NETS (https://historyofinformation.com/detail.php?id=3633)
 
@@ -139,3 +147,34 @@ Logical parsing symbols
 McColloch–Pitts boolean > neuro 1943 “Representation of events in nerve nets and finite automata,”
 
 Regular expressions 1951 Stephen Kleene 
+
+
+
+A theory of nearness — not nearness as a measure, but nearbyness. This differs from proximity, similarity score. 
+
+
+I’ve been researching related historical NLP contexts and, from what I have found, ELIZA was indeed the first chatbot as we understand them — with a text-entry interface and a character-style agent. There were many related developments happening around the same time, but nothing yet in the chatbot lineage directly. 
+
+Some examples of related developments, before/concurrent/post:
+Chatbots directly after Eliza:
+LUNAR (1970) Bill Woods, question answering re moon rocks
+SHRDLU (1968-1970) Terry Winograd in MacLisp for the ITS
+Student (1964) Daniel Bobrow, question answering algebra story problems on IBM 7094
+Speech recognition: 
+Audrey (1952) 10 digits
+IBM Shoebox (1964) 16 words
+Machine translation
+IBM Georgetown experiment (1952) Translated 60 Russian sentences into English via procedural rules
+Warren Weaver proposes MT (1947) in letter to Norbert Wiener and in 1949 memo sketching the ideas of applying cryptography, universal language structures, n-grams for word context, and logic loops
+Kathleen Britten Booth & Andrew Booth (1947) also propose machine translation using mechanical dictionaries
+Petr Petrovic Trojanskij (1933) patent for mechanical translating machine, “universal” logical parsing symbols for coding and interpreting grammar 
+Georges Arzrouni (1933) patent for mechanical brain, “dictionary of phrases”
+Proposals for universal language: Johannes Trithemius, Athanasius Kircher, Johann Joachim Becher, Gottfried Leibniz (17th C)
+Speech synthesis: 
+Mechanical “speech machines” from Christian Kratzenstein and Wolfgang von Kempelen (17th C), Charles Wheatstone (19th C)
+Simultaneous context, developments in…
+Procedural language
+Linguistics 
+Language parsing tools
+Statistics
+Cybernetics
