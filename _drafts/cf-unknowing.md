@@ -116,7 +116,12 @@ What does this black box have to do with the white room we are in?
 >One of the most profound, challenging, and important lessons we can take away from machine learning is to stop the machine. Let it take us. Don't let it lead us. The problem isn't the algorithm; it's the model, the theory, the framework, the framework. If we don’t question the framework, we lose our footing, our footing, we lose our power. We are just as guilty as they are. They told us the science, the technology, the numbers—you name it. And they told us that we can be controlled, that we have no agency, no self-determination. And I’m telling you: that's a lie. And it doesn’t make it less true just because it is a lie. What is truth and what is lie is the way we are, the way we are treated, the way we treat others. And that is what white supremacy means—the lie that
 
 
+What is it about Pipi's work that makes me think of black boxes, different kinds of intelligences? 
 
+Ashby moves deftly from the example of an engineer examining a bomb-sight to a small child opening a door. Bomb making and children ar the literal testing grounds where conceptualizations of "artificial intelligence" as we understand it today emerged. Later he says of black box theory, 
+>"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when htis is so the method of making meerely random variations (e.g. guided by throws of a die) on the input switches is as defensible as any other method, for no facts yet exist that could be appealed to as justification for preferring any particular method." But this is backward — we have decided to assume from the outset that nothing is known, and then use its unknowability (which we declared rather than discovered) as justification not to investigate. (Ashby 19)
+
+>"real objects are in fact all Black Boxes, and that we have in fact been operating with Black Boxes all our lives." (Ashby)
 
 
 Wild twin, the part denied returns to bite. Shame makes a person or a system act shamefully. Shamelessly too. Harmfully. Hopelessly. Hungrily. 
@@ -129,14 +134,14 @@ Every sensor needs interpreting. Is held against a constant, a sample, some trai
 
 *Happiness, be my neighbor.* Call this queer epistemologies. I am still striving for that Queer Modus Operating System. 
 
-In a wiki, a stub is an article that should exist but does not, a mere suggestion of knowledge that is probably out there but which no one has documented. It is potential energy, an invitation to contribute. A heralding. A summoning. A convocation. 
+In a wiki, a stub is an article that should exist but does not, a mere suggestion of knowledge that is probably out there but which no one has documented. It is potential energy, an invitation to contribute. A heralding. A summoning. A convocation. A reaching node in the network, a synapse growing. A bid for attention. 
 
 
 I (want to) come to your house gaffer-taped to a sheet of plexiglass and I lie on top of you, a phone resting on its charger. 
 
 Precaution aesthetics. Breath now latent with danger. Pulse tracked. Chest expansion and contraction measured. 
 
-Surface of image smashes the shape. 
+Surface of image smashes the shape flat. 
 
 Face mask protruding with pencils, inscribe with recognition (technology). 
 

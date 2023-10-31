@@ -175,7 +175,7 @@ The paper that launched a thousand transformer models was called "Attention Is A
 
 To move from the "transformer" model architecture to trans*formative tech (and from tech to technocraft) means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in it, speaking nearby, walking beside, realizing what of it constitutes us or supports us.
 
-This work is about trans\*formation through trans\*lation and trans\*disciplinarity and trans\*gression.[^hooksTransgress] It wants to imagine trans\*formers otherwise, at a slant.  — for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough). 
+This work is about trans\*formation through trans\*lation and trans\*disciplinarity and trans\*gression.[^hooksTransgress] It wants to imagine trans\*formers [and other emergent/co-existing technological systems] otherwise, at a slant.  — for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough). 
 
 [^hooksTransgress]: As in "teaching that enables transgressions – a movement against and beyond boundaries." @hooksTeachingTransgressEducation1994
 
@@ -192,6 +192,8 @@ This approach to technological trans\*lation and trans\*formation is without pre
 >>Gaboury, J. (2013, February 19). A Queer History of Computing. Rhizome. http://rhizome.org/editorial/2013/feb/19/queer-computing-1/
 
 *(See also trans\*feminist technoscience and crip technoscience)*
+
+Trans\* also finds the queer reverberations in the transducers all around us that constitute and reinforce computational systems. A transducer (from Latin for `lead across`) converts physical signals into electrical signals, or vice versa. Trans\*ducers are intermediaries that allow the trans\*fer between analogue to digital. Every time information gets trans\*mitted from an environmental sensor to a digital device — sound waves into audio files, pressure into heart rate [XXXexample] — trans\*duction has occurred, and thus some kind of trans\*formation. (Note how many times trans\*-ness appears in sites of cybernetic knowing.) These reimaginings of information's forms are always interventions, informed by the device designers' decisions and both contemporary and historical computational ways of knowing. The material conversions required to power the logics of computation (turning qualities into voltages into quantities) all pass through gates of trans\* thinking. 
 
 #### \*
 
