@@ -4,7 +4,11 @@ title: codes for un/living
 nav_order: 14
 ---
 
-The smooth silence of drone footage over destruction. The glide above bombs and voice over. 
+<!-- null, queer use, throbber, waiting for something to happen, platforms, queering, communing, desiring, ecstatic codes, -->
+<!-- knots instead of threads, threnodies -->
+<!-- data bodies, drone aesthetics, interpolated and interpellated states -->
+
+
 
 
 I am still alive, On Kawara. I think about your postcards often. I find your dailiness remarkable. What it takes to get up in the morning. What it takes to make a painting, a life, a day after day. 
@@ -40,6 +44,18 @@ Adrian Piper was handing out business cards letting people know they had made ra
 A new Boolean in Javascript is called Nullish, written `??`. My feelings exactly. Nullish is meant for "when there are multiple ways something can not exist" (evelyn masso “Handling Null”). Nullish distinguishes `null` and `undefined` from other `False` and `NaN`, although all of these are 'Falsy'. Nullish hovers liminially in the never was or maybe erased. Use plain ol' `null` "when something can optionally exist." Oh to be a Nullable coalescing, there or nothing (masso, Sedgwick). 
 
 
+>"people experiencing suicidal thoughts sighed more and laughed less than others. When speaking, they tended to pause longer and to shorten their vowels, making words less intelligible; their voices sounded breathier, and they expressed more anger and less hope." @khullarCanTreatMental2023 "having arthritis, lupus, or head-and-neck cancer; taking statins or Ambien; or living in the Western U.S. can also add to a veteran’s risk" "It’s also possible that preventing deaths takes time—that frequent touchpoints, over years, are what drive suicide rates down across a population."
+>"needed a proxy for" "The algorithm’s designers needed a proxy for illness and settled on medical costs. (All things being equal, people who are sicker tend to use more health care.) Obermeyer found, however, that the algorithm dramatically underestimated how sick Black patients were, because the Black patients it examined had much lower health spending than the white patients, even when they were equally sick. Such algorithmic bias can occur not just by race, but by gender, age, rurality, income, and other factors of which we’re only dimly aware, making algorithms less accurate." 
+>"Studies have shown that text-based therapy can work well. It also generates data."
+>"I could have searched for the words to describe my feelings to my phone. I might have expressed them while sharing them with no one—unless you count the machines."
+
+Writing to no one, a postcard out into the world (Derrida) vs an "entity" that senses your increased biometric feedback and responds to you. This desire for attunement. In the past we got it from women, trained to be wives and mothers and ignore their own readings. We look for it now in machines because we don't have enough hands on deck to provide care (because we are not willing to provide it mutually?). We have NLP reading suicide notes and doing predictive modeling for future anxious children. All well and good seeming activities, all also very minority report in its sci-fi possibility space. 
+
+
+At one point I was going to make "I'm still alive" an app, to over-know the body through data, to over-write meaning, work-over, overthink, but also to palimpsest, erase, rewrite it with read-outs, replace proprioception and interoception with data outputs and analyses. 
+
+
+<!-- tech wants to address the problem of scale but it also contributes to it -->
 <!-- Make the text simple. Data accumulates days.  -->
 
 who decides these things, the poetics of code standards societies
@@ -47,7 +63,9 @@ who decides these things, the poetics of code standards societies
 
 What does it mean to remind you (or me) that I am still alive? For audre lorde this is an act of revolution just even to live in spite of powerful forces that strive to extinguish you. Many of us [others] live on the backs of other people. Others love as [acts of devotion/devotional acts].
 
+The smooth silence of drone footage over destruction. The glide above bombs and voice over. 
 
+This is about knots instead of threads. This is about staying in bed. I have covid again. Having covid and long covid at the same time is weird. Is this the only time I write essays? I watched the Hitchcock film *Rope* last time I had covid. We may talk more than the average family about murder and other kinds of death. Justifiable homicide. Euthenasia. 
 
 VALIE EXPORT
 Lynn Hershman Leeson
@@ -58,3 +76,118 @@ Adrian Piper
 done, Rebecca Horn
 started, Pipilotti Rist
 started, On Kawara
+
+
+
+making and breaking, the queer use of lying in bed / unable to dissertate in a pandemic, creating/learning a web home versus completing the projects i said i would make when i came in, how every part/skill is connected, can be stitched together and reconnected and collaborated with to make the text thing
+the parts of myself collaborate with each other, reacquainted as if strangers
+
+something that tracks the time, pace/cadence, smell of every word, my heartbeat and breath pattern, the over collection of its data and the pond it sits in, the energy sinkhole…(connect sink holes to the cave state, the show me state, the trauma state) what is this duct taped story object, touching object, screen i am making, a way to reach through the plexiglass to each other, 
+the computer is a classifying machine, if code is built on binary and the zeros and ones are made to say either or, not [either and] … [both maybe] a voltage rush, a spark gap… what is the computational system built on the surges and loss, the wavering? the felt feeling? you’ll argue this is getting metaphorical not close to the metal (a metaphor) what could be closer to the metal than bone, that wrended flesh? 
+
+queer use as vandalism & broken machines 
+>“to transform a system we have to stop a system from working” (Ahmed)
+>“there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use.” (Ahmed)
+
+**a classification/categorization system that instead points on a spectrum rather than putting a boundary around the category, a multi-dimensional spectrum?**
+
+### who decides these things, the poetics of code standards societies
+There is a new operator in ECMAScript 11 called Nullish, named appropriately and represented by my feelings exactly: ?? and it distinguishes undefined and null from false and not-a-number. Nullish, partially erased, hovering liminally. 
+avoid null "when there are multiple ways something can not exist"; use null "when something can optionally exist" (masso)
+
+
+And with ES9, ... the ellipses copies or clones objects. Whereas Winnie Soon discussed the throbber, and we have the rainbow beachball of doom, and the three dots of death, awaiting arrival of a message being written, or revised, or deleted, one never knows. Here an abundance. A Dolly the Sheep Dot Dot Dot. 
+
+
+return to the anxiety of too many too much asked of me, no one asked, i asked this of myself, all the things i am excited for, imagine making and doing and joining
+code palimpsests from Annette Vee, looking at Bakhtin's speech genres, each utterance a refraction of prior.
+
+
+
+all platforms are the same and yet there are so many  
+all platforms are products  
+a platform is a container, i write i write i write to put something inside, to fill up to churn churn churn to produce until the platform is full until commerce is satisfied. if i could churn myself into a platform then i would know i had really made something, something i could sell.
+
+platform like diving like train - these are all places from which to jump off
+the promise is to launch, or the promise is to fall. 
+the promise is to transform
+
+i want the perfect place to write that makes the words come out (right) makes them saleable, understood, makes them change something for good, makes the platform i need for them rise up out of the underbrush, out of the many imperfect platforms i have tried. 
+we cobble together collaborations from "i'll meet you on zoom and slack and this google doc; i'll have all of them open at once on this 13-inch screen, on this 6-inch mobile screen, on this vr elastic screen, on this invasive dream where i am at work still even in sleep." MOBILE FIRST! the bleakness of platforms is dreamlike, designed to disappear into the way we hold a tool without thinking when it just works, ignoring how it forms the landscape for us (Craeft, Ingold, Hiedegger). 
+
+![time lapse photo of train running on train station with people beside during daytime](https://images.unsplash.com/photo-1466338323166-f93e7299d3dd?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxOTA3MDh8MHwxfHNlYXJjaHwzfHxwbGF0Zm9ybXxlbnwwfHx8&ixlib=rb-1.2.1&q=85)
+*Photo by [Reginar](https://unsplash.com/@reginar?utm_source=jotterpad&utm_medium=referral&utm_campaign=api-credit)
+![white metal tower](https://images.unsplash.com/uploads/1411156081190e9e751d9/c81ee291?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxOTA3MDh8MHwxfHNlYXJjaHwyMXx8cGxhdGZvcm18ZW58MHx8fA&ixlib=rb-1.2.1&q=85)
+*Photo by [Kaleb Nimz](https://unsplash.com/@kalebnimz?utm_source=jotterpad&utm_medium=referral&utm_campaign=api-credit)
+
+I am back to the dream where I am inventing new code languages in my sleep. Once I dreamt just two sentences, and they were these: 
+
+"I dreamt I was mapping points of non-correspondence.
+"I dreamt I ~~came out~~ became and no one believed me."
+[[brokenMachine]]
+Queer codes and platforms. Make a note how these are related. 
+The physical therapist today says when I work on muscle strength I will no longer have to contort to strange shapes to hold my body up. I think, *"That's just how queer folks sit in chairs, haven't you seen the memes? It was one of the first moments my curling in on myself--that invisibility--felt okay. If I find the muscles in my body will I no longer be queer, will I straighten, be seen?" This glitch of me, how I am a broken girl.* 
+
+I bend my body to the plugins, wondering if language grows inside the bones the way they strengthen from being pulled by muscles, strengthened by their resistance. What is the equal and opposite force of water falling? 
+
+Three months after our argument I am still compelled to look up the specific technical consideration that pertains to it, although we are not speaking. I find a page full of diagrams of overflow drains for bathtubs. I need to find out where the water goes. *didn't you ever learn how to take a bath*, she said, and now I know, down to the curve of the pipes. I know the overflow drain leads to the same place as the regular drain. It doesn't flood the cavity between the tub husk and the wall like I imagined when she suggested I might be damaging her home; it all drains down, through the same pipes, it all connects. Someone thought of this, someone made a place for the overflow to go. The overflow of images of drains, they overflow. I was the overflow, too much of me for the tub, too much for her, just leaking, draining all over the place, no sense, nonsense. 
+
+I look for free stock image of this but the options are all too pleasant. 
+
+![](https://unsplash.com/photos/UY1AaiAu67E)
+![](https://unsplash.com/photos/JwsBVBcF-JQ)
+![](https://unsplash.com/photos/B0XmOAjZgvc)
+
+# Glitch Femme, Broken Machine
+hunger makes me a modern girl
+the broken machine doesn't need feeding, won't accept your mediocre fucks any longer
+The broken girl is a machine. The glitch is her move. She makes space for herself, elongating the moment of error where she is most alive with possibility. Like drawing a labyrinth on the ground, she folds space to make more space from nothing, turns a line into a journey with dimensions, a pause that becomes infinitude. 
+
+broken machine essay
+platform for creative-critical-code / lyric-essay-netart objects, choices of gui/database have politic (what from the zine brings it back now/makes it matter to tech/
+
+russell-glitch feminism
+>"With physical movement often restricted, female-identifying people, queer people, Black people invent ways to create space through rupture" (Russell 7). 
+>"Glitch manifests with such variance, generating ruptures between the recognized and recognizable, and amplifying within such ruptures, extending them to become fantastic landscapes of possibility" (Russell 28).
+>" [quoting John Glenn 'Literally, a glitch… is such a minute change in voltage that no fuse could protect against it.' and St Petersberg Times 'Glitches-a spaceman's word for irritating disturbances.'" "an outright refusal, a 'nope' in its own right" (Russell 29)
+>"glitch moves, but glitch also blocks […]. Glitch prompts and glitch prevents." (Russell 30)
+>"The glitch is the catalyst, not the error." (Russell)
+ahmed-queer use
+sharma-manifesto for the broken machines
+hwang-deviant care for deviant futures
+tuck-suspending damage
+preciado-testo/countersexual
+sundén-on trans-, glitch, and gender as the machinery of failure
+>"as if there was nothing unruly or wild at heart of how technologies work […] technology rather provides one of the ways in which bodies become viable at all" (Sundén)
+>"a surge of current or a spurious, illegitimate signal that breaks the ﬂow of energy or information […] rarely a complete collapse […] a momentary loss of control" (Sundén)
+>"to think gender as technological emphasizes a way of thinking gender as machinery" "It facilitates a way of thinking gender as broken, unstable, fragile machinery, as something based on its very brokenness." (Sundén)
+>"Glitch is a struggle with binaries. Glitch in digital media is caused by lost or incorrect binary code" (Sundén)
+>"Glitch, then, is gender in its most raw, technological form" (Sundén).
+>"femininity is a technology of failure, and the ideal of smooth, slick, seamless, effortless femininity impossible. […] The starting point, the very foundation, is rather always that of a broken machine." (Sundén)
+>"Gender glitch art is the kind of gender performances that consciously break the ﬂow of gender, that proudly stage the many ways in which gender is broken, and can be broken. It celebrates contrasts, inconsistencies, irregularities and imperfections." (Sundén)
+>"high ﬁdelity gender strives toward impossibly seamless perfection along the lines of equally impossibly pure femininity and masculinity. Gender as high ﬁdelity is a transparent gender experience that transcends mediation, which performs an act of forgetting about the technologies of gender (which make such an erasure possible in the ﬁrst place)." (Sundén)
+>"Glitch is that which betrays …, it is the beauty and simultaneously the sadness and pain of crashing and skipping, which ultimately emphasizes the fragility…" (Sundén)
+>"The promise of glitch gender is precisely that it can never be fully known, never fully controlled […]. The promise of glitch is the fact that there is something unruly - or agential - at the very core of how gender works technologically." (Sundén)
+>"Gender glitch holds a similar potential - to inﬁltrate, make dirty, and ultimately put pressure on the norms of pure gender high ﬁdelity." (Sundén)
+"vulnerability / technological anticipation / materiality and fragility" (Heidegger's at hand vs) 
+>"continue this work of not working well. Broken Machines are powerful purveyors of mayhem and confusion." (Sharma)
+>"Feminists are rendered an always already obsolete technology that isn't working properly. Feminists are the faulty aberration in a long line of otherwise efficient technologies that have been designed for caretaking and reciprocating love in a male- dominated world. Feminists are as useful as a vacuum that has lost suction. They are as disappointing as a light that won't turn on. If women don't want to fulfill their positions within a patriarchal society, there are other toys and technologies that will do this work."
+>"What happens when the machine world no longer reciprocates man's love and instead questions his power?"
+>"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves."
+>"the idea of our contemporary social-political- economic system as an already-broken machine full of the incompatibly queer, raced, classed, and sexed broken- down machines is politically exciting for feminism."
+>"power operates like a machine. Social injustice is inextricable from the specific machine logics of reigning technologies."
+>"Broken Machine recognizes that to represent is also to be filed away." (Sharma)
+>"The Broken Machine has already begun to redistribute power just by existing. And this is why patriarchs imagine these machines as in need of replacement."
+>"Broken Machines do not see themselves extended in these new machine assistants. […] Broken Machines will not insist on better representation alone, recognizing that taking that argument to its logical end would mean that this sorority (Alexa, Cortana, Siri, and Erica) is met by a frat house of assistive technologies (Chads, Brads, and Alexander Mackenzie II's). […] 
+>"Broken Machines do not flee the scene nor do they opt to be repaired in order to be plugged back into patriarchy's technological conditions of possibility. The Broken Machine refuses to use the batteries they're selling us;
+>"Broken Machines have capacity for others when others are drained because they seek and find communal care rather than return to those original power sources that are simultaneously draining."
+>"there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use." (Ahmed)
+
+ruja benjamin 
+>"glitches are not spurious, but rather a kind of signal of how the system operates" (Benjamin)
+[[notesTowardPlatforms]]
+Queer codes and platforms. Make a note how these are related.
+The physical therapist today says when I work on muscle strength I will no longer have to contort to strange shapes to hold my body up. I think, "That's just how queer folks sit in chairs, haven't you seen the memes? It was one of the first moments my curling in on myself - that invisibility - felt okay. If I find the muscles in my body will I no longer be queer, will I straighten, be seen?" This glitch of me, how I am a broken girl.
+
+ingold's knot vs brick
+

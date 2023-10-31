@@ -1,4 +1,6 @@
 
+<!-- broken machines? queer use, platforms,  -->
+
 # Codes for Un/Limiting (Dis/Appearing)
 
 ### Isolation, Perfection, Scratching at the Walls

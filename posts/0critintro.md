@@ -10,9 +10,6 @@ tags: [introduction, theory, practice, hybrid, academic]
 * TOC
 {:toc}
 
-[//]: # "TK: All Writing Is Code *zettlekasten*"
-[//]: # "TK: Platform & Broken Machine insterstitial notes"
-
 # Trans*formative TechnoCraft
 
 To build safer, more equitable AI systems, we need stronger creative–critical coding communities. To build these communities, we need approachable, critical perspectives on AI systems. Both efforts cannot exist without each other.
@@ -81,7 +78,11 @@ I may have knowledge and resources to share, but not be able to participate beca
 
 These works are written as jargon-free as possible to allow them to travel as broadly as possible. While 
 
-#### Holistic approaches / Care means critical 
+#### Creative-critical-code: holistic approaches
+
+Care means critical.
+
+All writing is a hybrid practice of creation (poetics), critique (politics), and code (platforms and programmatic systems). All code is writing and all writing is code. 
 
 >"any theory that cannot be shared in everyday conversation cannot be used to educate the public."
 
@@ -91,7 +92,7 @@ These works are written as jargon-free as possible to allow them to travel as br
 >"Theory is not inherently healing, liberatory, or revolutionary. lt fulfills this function only when we ask that it do so and direct our theorizing towards this end." >>–bell hooks @hooksTeachingTransgressEducation1994
 
 
-It requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start. [XXXexplain] [^hoff] [^nardi] It requires un-siloing of domains and disciplines, the artificial boundaries that devide technologists from activists. 
+It requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start. [XXXexplain] [^hoff] [^nardi] [^americanartist] It requires un-siloing of domains and disciplines, the artificial boundaries that divide technologists from activists. 
 
 It requires we find common language, common value/appreciation/respect that comes with working knowledge of the whole working system. 
 
@@ -106,6 +107,8 @@ It requires we find common language, common value/appreciation/respect that come
 To sit a bit longer with questions I know I cannot answer, questions that make me uneasy. To hold two contradictory ideas simultaneously and let their magnetic energy push-pull me. To forgive myself the imperative outcomes, the productivity, the proven hypothesis, the subject of research. To put myself into the trouble too, because I already embody these questions in lived experience.
 
 #### Artistic experimentation
+
+>"Bots can make arguments. [...] Bots are a strategy deployed in particular circumstances, and they are frequently deployed as a folk practice, outside of 'mainstream' practices of artists, academics, researchers, engineers, etc. [...] bots are a way of working against the accepted uses or potentially damaging affordances of a particular platform. bots are a way of embodying certain kinds of unauthorized and semi-authorized uses of those spaces. [...] bots exist to shine a light on how things already work, but also to test the edge cases, and to propose alternatives. [...] bots are procedures against procedures." -Allison Parrish, "Procedure vs Procedure"
 
 The case for combining creative and critical practices is already strong, and has been made elsewhere by many [XXXexpand][cite]. I am interested in how this work shows up as experimentation and particularly in how artistic experiments can challenge paradigms in machine learning, data science, and technology more broadly. 
 
@@ -127,13 +130,30 @@ Specifically the "valences" of research-creation [Chapman & Sawchuk] that are no
 [^Stark]: Stark, L., & Crawford, K. (2019). The Work of Art in the Age of Artificial Intelligence: What Artists Can Teach Us About the Ethics of Data Practice. Surveillance & Society, 17(3/4), 442–455. https://doi.org/10.24908/ss.v17i3/4.10821
 @starkWorkArtAge2019
 
+#### These approaches are entangled
+
+Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors out of balance. She argues this calls for
+>"a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" @dunbar-hesterHackingDiversityPolitics2019
+>"Voluntaristic technology communities are important sites because they are utopian spaces where people play and tinker not only with technical artifacts but with social reality, imagining social relations through participation"
+
+DH: not about diversity in tech directly, aim at broader social goals of [e.g. decolonization, ecological sustainability, distribution of wealth] which would necessitate changes in tech sector. 
+
+<!-- Agentic Design & Generative Justice, Audrey Bennett, Ron Elgash-->
+
+Marino, code is collaborative:
+>"Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally." @marinoCriticalCodeStudies2020a
+
 ## What Is Trans\*formative TechnoCraft?
 
 ### Trans\*formative
 
 Trans\*formative here means emergent, embodied, embedded practices. It means process-oriented, community-oriented practices. It makes space for and honors what we figure out as we go along, what we [adjust and tailor to the goals and needs of specific situations and we operate in community --[XXXhow to say this better?]]. 
 
-'Transformative' includes transformative justice, a movement which recognizes that oppression is at the root of harmful technological systems and argues that acknowledging this oppression is essential to addressing it. It moves beyond punative, carceral logics to imagine and create different, even healing systems [cite]. Reparative and restorative acts are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBT histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions].
+'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care and reorienting the priorities embedded within communities, objects, and practices.[cite][^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
+
+>"From the design to the production to the deployment to the outcome, there is constantly bias built in" ("The Activist Dismantling Racist Algorithms" MIT Technology Review). (continues) "It’s not just the biases of the people themselves; it’s the inherent bias within the system. There’s so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don’t believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled."
+
+[^reparative]: Reparative and restorative processing are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBTQIA+ histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions]. 
 
 <!-- "politics of creation, prefigurative politics" -->
 
@@ -167,6 +187,11 @@ Trans\* can be inclusive, fluid, in motion, outside binary logics, self-identify
 Trans\*disciplinary includes multidisciplinary and interdisciplinary — across and combined and between — and it also imagines the practice of across and combined and between as more than the sum of its parts. @visResearchPeopleWho2021
 
 This approach to technological trans\*lation and trans\*formation is without prerequisite. We are already queer-enough, coder-enough, valued-enough to participate in continually becoming. We are "always-already programming."@AlwaysalreadyprogrammingMd 
+
+>"queerness is itself inherent within computational logic, and that this queerness becomes visible when we investigate those cleavages that partition the lives of these men into distinct technical and sexual spheres of existence. Ultimately [...]there exists a structuring logic to computational systems that, while nearly totalizing, does not account for all forms of knowledge, and which excludes certain acts, behaviors, and modes of being." 
+>>Gaboury, J. (2013, February 19). A Queer History of Computing. Rhizome. http://rhizome.org/editorial/2013/feb/19/queer-computing-1/
+
+*(See also trans\*feminist technoscience and crip technoscience)*
 
 #### \*
 
@@ -204,9 +229,41 @@ Can we write a theory of nearbyness (near-bi-ness)? Not nearness as measure, not
 
 [^Althusser]: Althusser, L. 1970. "Ideology and Ideological State Apparatuses (Notes towards an Investigation)"
 
-##### **Nearbyness**
 
-#### Formative
+
+##### Formative 
+
+**Nearbyness**
+
+This operation by nearbyness brings us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like. It is a machine learning task, an un-machine un-learning task, to decide how information goes together or does not, to find patterns in a system. It is a very human activity. This project enacts the process through feeling. (Flusseur's writing is a cutting away, Benjamin's is a collector's fever dream.)
+
+>"[Writing] has nothing to do with constructing. It is, on the contrary, a taking away, a de-structing. It is, both structurally and historically, closer to sculpture than to architecture. It is a gesture of making holes, of digging, of perforating. A penetrating gesture. To write is to in-scribe, to penetrate a surface," 
+
+<!-- something about accumulation and cutting away, about pattern finding in collections of data as reverse proxies for making and testing theories, contraposed knowledge generating systems  -->
+
+<!-- dream --> 
+<!-- Dream Platform, Manifesto & Prototype -->
+
+
+//wilson's dream about the points of light (research is ceremony)
+
+
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes I have written "semantic web layer cake" and "Gollum?" Is this some monster platform, am I the only one who wants this? Usually I imagine the things I want already exist — because how complicated could they be? — and then I try to find some extant version and come up empty and frustrated how to even make my own. 
+
+Elsewhere I have written "an app could include everything I've been researching? strawflower/i'm still alive? what would i do with it as a performance?" "A creative writing code-creative-critical lyric essay hybrid digital work imbued with data xr ar read over zoom experienced through plexiglass something about how we are together not together keeping it barely together
+
+"/ this is the same way i began the mfa thesis, in a google doc by not beginning it, collecting fragments when i couldn’t write, then making a form for them in code / i could still vacuum back up the pieces of everything i had collected before now, write with the machine of me and the machines i have learned along the way. 
+
+**"I am a writing machine**
+
+"or i could make a tool, or a set of tools, or a guide to tools"
+
+*could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked*
+
+init --> name --> get --> set 
+
+Code forms, pattern templates, like initializing classes to instantiate objects in object-oriented programming. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.  
+
 
 <!-- Foundations -->
 
@@ -222,9 +279,27 @@ In this way, the material I work with also in-forms what I make, through its ins
 
 Computation requires information to take on its formation. Its orderly logic is a shape imposed by and a reflection of the world, both at once. It requires contortion to represent us. Sarah Sharma reminds us, as the Broken Machines who do not quite fit these regimes: "to represent is also to be filed away." [@sharmaManifestoBrokenMachine2020] To understand through computation is to reduce to logics of categorization.[@crawfordAtlasAIPower2021] This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
+[//]: # "does this belong in intersectional AI?"
+
+
+
 >"frictioned technologies" @hamraieCripTechnoscienceManifesto2019a 
 Those left unsupported by infrastructures and representations know in deeply embodied ways how to talk about this where others may not (yet) feel any friction as they move through systems that easily contain their forms. Crip theory has figured out how to talk about this where other [XXX]
 
+>"highlight the skills, wisdom, resources, and hacks disabled people utilize for navigating and altering inaccessible worlds. In pushing crip technoscience as a field of research and a practice of critical 'knowing-making', we conjure frictional practices of access production, acknowledging that science and technology can be used to both produce and dismantle injustice." 
+
+Reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs.
+
+>"In contrast to dominant forms of knowing-making for disability, we invoke crip technoscience to describe politicized practices of noncompliant knowing-making: world-building and world-dismantling practices by and with disabled people and communities that respond to intersectional systems of power, privilege, and oppression by working within and around them." 
+>"Disabled people design our own tools and environments, whether by using experiential knowledge to adapt tools for daily use or by engaging in professional design practices. Crip technoscience conjures long histories of daily adaption and tinkering with built environments."
+
+- "centers disabled people as knowers and makers"
+- sees "access as friction" beyond inclusion and into material experimentation and political action that highlights the frictions of inaccessible 
+- "interdependence as political technology" to shift the goals of tech design away from independence and toward entanglement and kinship building
+- disability justice
+
+Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." @hickmanTranscriptionWorkPractices2019a
+[CITEMingus]
 
 <!-- trauma -->
 <!-- indigenous research methods -->
@@ -238,6 +313,41 @@ This can fundamentally reshape the forms and functions of research, artmaking, v
 >"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot — a point where thousands and millions of relationships come together. These relationships come to you from the past, from the present and from your future. This is what surrounds us, and what forms us, our world, our cosmos and our reality. We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." @wilsonResearchCeremonyIndigenous2008
 
 To see form (shape, object) as relation, connection, is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). Like all verbs, then, implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
+
+
+Interdependence has been my intuitive knowledge, the pain and pleasure and fascination of my existence. 
+*interdependence is indigenous knowledge*
+this is something i absorb intuitively and then find the citation for after, as much research happens. 
+
+>>"reality is the relationship that one has with the truth. Thus an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." (Wilson 73)
+>>"reality is not an object but a process of relationships and an Indigenous ontology is actually the equivalent of an Indigenous epistemology" (Wilson 73)
+>>"An Indigenous paradigm comes from the foundational belief that knowledge is relational. Knowledge is shared with all of creation."
+
+>>Indigenous Research Paradigm: "a research paradigm is made up of four entities: ontology,epistemology, axiology and methodology. But rather than thinking of them as four separate ideas or entities, try to think of them in a circle: The entire circle is an Indigenous research paradigm. Its entities are inseparable and blend from one into the next. The whole of the paradigm is greater than the sum of its parts.[...] what Indigenous research is. Relationality seems to sum p the whole Indigenous research paradigm to me. Just as the components of the paradigm are related, the components themselves all have to do with relationships. The ontology and epistemology are based upon a process of relationships that form a mutual reality. The axiology and methodology are based upon maintaining accountability to these relationships. [...] An Indigenous research paradigm is relational and maintains relational accountability."
+
+>>"An Indigenous axiology is built upon the concept of relational accountability. [...] value judgments lose their meaning. What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations." (Wilson 77) "Respect, reciprocity, and responsibility are key features in any healthy relationship and must be included in any Indigenous methodology;" 
+>>"What am I contributing or giving back to the relationship?Is the sharing, growth and learning that is taking place reciprocal?"
+
+>>"We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." (Wilson 76)
+
+
+
+
+form: manifesto, toolkit, caldron, zine
+>"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" (Gabrys 2019).
+  
+>"to refigure the terms that would signify a particular position in an identity politic as terms that indicate a practice, a method. Disability, queerness, open source — not as identities, or groups I belong to, but as modes of doing, of how I practice myself. Being an outsider means that the question of theory and practice — how practice is affected by theory, how theory is constructed by practice — becomes the most important one. Membership to particular groups and experiences is often predicated on the visual — whether someone “looks like” they belong or not — which means that my membership to most groups must rely on something else. My belonging has more to do with how I enact that group’s politic" (Hedva, "Belonging", 2018)
+
+deep interdisciplinarity
+print/digital media or platforms
+text/code languages or expression or systems
+backend blackbox / frontend visible platforms 
+dev / user
+AI / human
+**These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
+TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934). and polyphony But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
+
+
 
 ### Techno
 
@@ -322,16 +432,21 @@ Not accepting models as the world we want to live in:
 ##### Extreme use
   * Lace cards
   * "Pranking an AI—giving it a task and watching it fail—is a great way to learn about it" —Janelle Shane
+  * "Baysean flooding" @bruntonObfuscationUserGuide2015
 ##### Desire lines, adversarial attacks, salt circles
 ##### Make your own systems
   * Coem, Katherine Yang (2022)
 
 >"An anti-fascist approach to AI is a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we’re already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good." —Dan McQuinlin, Resisting AI @mcquillanResistingAIAntifascist
 
+>Nam June Paik's call to "make technology ridiculous." (*We Are in Open Circuits*)
+
 
 Tactical media are works that resist, revise, reverse their materials to engage political [potentials]. In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *with* perceptions of [women and others as] outliers and errors, in order to work *against* the systems that frame them as such: **"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves."** @sharmaManifestoBrokenMachine2020
 
 >As "an investment in a multiplicity of actions, practices, performances, and interventions," says Raley, "tactical media activities provide models of opposition rather than revolution and aim to undermine a system that, as de Certeau reminds us, 'itself remains intact.'" [@raleyTacticalMedia2009]
+>"practices such as reverse engineering, hacktivism, [...] the digital hijack, [...] collaborative software, and open-access technology labs, ' tactical media' is a mutable category [...]. tactical media signifies the intervention and disruption ... disturbance.
+>"Tactical media is performance for which a consumable product is not the primary endgame; it foregrounds the experimental over the physical." 
 
 David Garcia and Geert Lovink describe tactical media as "An existential aesthetic. An aesthetic of Poaching, tricking, reading, speaking, strolling, shopping, desiring. Clever tricks, the hunter's cunning, maneuvers, polymorphic situations, joyful discoveries, poetic as well as warlike." [@garciaGarciaLovinkABC]
 
@@ -385,13 +500,37 @@ Focusing on craft means noticing the material, iterative, handmade, tinkering, i
   * Declassifier & Humans of AI, Phillip Schmitt (2019)
   * Sys server, feminist server manifesto, serve pub, "A Traversal Network of Feminist Servers"
 
+* role of embodied knowledge on form, plat/form, landscape, who/how access
+* working the material, material works back, not form/content but force/material (process/verb oriented) (Ingold 2012)
+
 >"rosa [travelling server] is not only constituted in hardware or sotware, but also the multitude of relations that are created around the making, maintaining and passing on of this infrastructure: the processes that are performed, the afective charge of their actioning, the community around them." @TraversalNetworkFeminista
+
+>"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, my proposal of the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. This places the stitch in the repertoire of strategies including the methodology of the oppressed, as described by Chela Sandoval, and the science of the oppressed, as proposed by Monique Wittig and elaborated by the art collectives *particle group* and the Electronic Disturbance Theater (with which I collaborate). 16  The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence" @cardenasTransColorPoetics2016
+
+#### Process oriented approaches
+
+What uncomfortable affects/emotions emerge when we are brought into process? When the veil falls away that divided the maker from the audience? What do process-oriented modes reveal that we don't want to see? Neoliberal disgust with imperfection. The labor being asked of us, the labor we place upon ourselves. 
+
+* I'm not sure who the we I use is, already collective data? Already acknowledging myself is diffuse? not sure who i'm writing from or what unstable gender, self I am. 
+* situating subject positions
+
+#### communities of practice
+* thin description, humble un-/knowing, kaleidoscopic subjectivity
+* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
+* how a person became a user, decoupled from their sense of agency or impact or ability to shape the 'text' (see immersive data id) (lurking book)
+
+#### immersive data identities
+person as user abstracts away agency as maker, eliminates the writerly open text of the web1.0 into the commercialized web2.0/social web into the datified self (see communities of practice)
+- Loukissas' "all data are local" (the relativity of the network, the position, scale). data settings not data sets (place setting, "thinking locally is thinking critically")
+  - >>"When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display."
+  - >>"data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place."
 
 ##### Counterpublishing
   * Zines to clarify information [@VisualIntroductionAI]
   * Zines to make counterpublics
     * >"ways of thinking digitally about information were embedded in lesbian-feminist work with paper, in the ways lesbian feminists learned computing and imagined and built networks and databases for storing and sharing information"
     >>—Cait McKinney (2020) Information Activism (Image from ONE Archives queer zine collections) [@mckinneyInformationActivismQueer2020]
+    * 90s aesthetics and politics of distribution and value, how they influence digital spaces ethics/affordances/presentation (skeuomorph). print qualities (material and practices distrib/printing)
   * zines in relation to archival praxis
   * zines in relation to form and class
     * >>"Class is built into its format. A zine communicates a level of accessibility through its materials and its form. [...] A zine evokes a legacy of authorship that is not exclusively written by straight, cis, white men. [...]"
@@ -461,6 +600,14 @@ Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 Sustaining feminst servers takes "years of intense collective learning" (Kleesattel [@sollfrankAestheticsCommons2021]). "Tensions, ambivalences and immanent differences are uncomfortable and messy—and precisely therefore crucial for [...] Feminist Server Art," says Kleesattel. It holds "interrelated dimensions of actual hardware and software, common infrastructures, limited resources, care- and service labors, more-than-human poetics and speculative fabulations."
 
 <!-- participation is not a design fix @sloaneParticipationNotDesign2022 -->
+
+#### Queer feminist infrastructures, technocraft, and handmade media praxis 
+
+(body performance art histories, queer toy cameras)
+
+>"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) 
+
+queer use (see interstitial)
 
 ### Re-mixed material metaphors
 
@@ -534,32 +681,98 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 - InnerVoiceOver // On Kawara
 - Ladymouth // Pipilotti Rist
 
-### TRANS: *Unsupervised Pleasures: Conscientious Datasets for Queer Futures*
+### TRANS: CONCLUSION *Unsupervised Pleasures: Conscientious Datasets for Queer Futures*
+
+What it calls for in the future...
+
+#### not classifying, a radical queer computing not based on classification but woven from the unknowing of genderless expression, of story
+>>"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)
+
+Soap bubble computers, mushroom computers, non-binary voltage readings. What are the nonclassificatory logics that might run other forms of calculation? 
+
+>>Artist Stephanie Dinkins notes, “Widely deployed AI can support bottom-up decision making and provide the public means to directly inform the systems that govern us while also empowering the governed.” She asks, “Who is working to use it as such?” ^[6] If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell)
+    >> ^[6]: Dinkins, Stephanie. “Towards an Equitable Ecosystem of Artificial Intelligence.” Software for Artists Book: Building Better Realities, edited by Willa Köerner and Tommy Martinez, Pioneer Works Press in collaboration with The Creative Independent and Are.na, 2020, 49–57.
 
 
 
-[//]: # "TK: Critical Introductions to Each Collection"
+[//]: # "TK: Critical Introductions to Each Collection or at end of intro"
+
+[//]: # "TK: All Writing Is Code *tetherednetwork*"
+
+
+### Methodologies
+* intersectional feminisms
+* queer & feminist media praxis, making/crafting, URGENTCRAFT
+* critical code studies & software studies
+* queer theories of futurity, failure, obfuscation, passing, flagging, survival
+* digital humanities & scholarly publishing
+* countercultural print publishing, avant-garde art & poetry, fluxus, oulipo
+
+# Bibliography
 
 - Amoore, L. (2020). *Cloud Ethics*.
-- Ahmed, S. "Queer Use."
-- Asimov Institute. (2016). [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/).
+- Ahmed, S. (2018). "Queer Use." feministkilljoys blog. https://feministkilljoys.com/2018/11/08/queer-use/
+- Asimov Institute. (2016). Neural Network Zoo. https://www.asimovinstitute.org/neural-network-zoo/
+- Berlant, L. (2016). The commons: Infrastructures for troubling times*. Environment and Planning D: Society and Space, 34(3), 393–419. https://doi.org/10.1177/0263775816645989
+- Braybrooke, K. (2020). “Together, we dance alone”: Building a collective toolkit for creatives in a pandemic. Interactions, 27(4), 68–71. https://doi.org/10.1145/3406027
+- Brunton, F., & Nissenbaum, H. F. (2015). Obfuscation: A user’s guide for privacy and protest. MIT Press.
+- Birdsong, Mia. 2020. *How We Show Up*
+- brown, adrienne marie. 2021. *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
+- Cerankowski, K. J. (2021). *Suture: Trauma and trans becoming.* Punctum Books.
+  - >"to let this book be the crisis rather than about the crisis or crises, rather, a plurality of traumas and pains felt collectively and individually."
+  - >"we cannot and must not contain ourselves as we spill into the world and onto and into each other. This spillage is about intersubjectivity — how we touch as we are being touched, how we leave marks on one another, how we leak onto and into one another, how we are always moving through each other, how we haunt one another, and how no story is ever just ours even as we have our own stories to tell."
+- Chun, W.H.K. 2022. *Discriminating Data*
+- Chun, W.H.K. 2015. *Updating to Remain the Same.*
+- Chun, W.H.K. 2009. "Race and/as Technology; or How to Do Things to Race." *Camera Obscura* 24:1
+- Chun, W.H.K. 2008. "On 'Sourcery', or Code as Fetish"
 - Cox, G. and Soon, W. (2020). Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press.
-- Crawford, K., & Joler, V. (2018). [Anatomy of an AI System](http://www.anatomyof.ai).  
+- Crawford, K., & Joler, V. (2018). Anatomy of an AI System. http://www.anatomyof.ai
+- Crawford, K. (2021). *Atlas of AI: power, politics, and the planetary costs of artificial intelligence.* Yale UP.  
+- Gabrys, J. 2019. *How to Do Things with Sensors.* U of Minnesota P.
+- Gaboury, J. (2013, February 19). A Queer History of Computing. Rhizome.(http://rhizome.org/editorial/2013/feb/19/queer-computing-1/)
+- Gumbs, A.P.
 - Dhaliwal, RS. (2022). "On Addressability, or What Even Is Computation?" *Critical Inquiry*, volume 49, number 1, Autumn 2022.
+- Dunbar-Hester, Christina. *Hacking Diversity.* Princeton UP.
+- Hedva, J. (2018). "Belonging in the Mess." Processing Foundation. 14 November 2018. https://medium.com/processing-foundation/belonging-in-the-mess-3d3ad0577499
+- Hedva, J. Hedva, J. (2022). "Why It’s Taking So Long." *Topical Cream*. https://www.topicalcream.org/features/why-its-taking-so-long/
+- Hedva, J. (n.d.). "Care in end times." CARE SYLLABUS. https://www.caresyllabus.org/care-in-end-times
 - Ingold, T. (2015). *The Life of Lines*. Routledge.
-- Jaton, F. (2020). *The Constitution of Algorithms.* MIT.
+- Ingold, T. (2011). *Being Alive.*
+- Jaton, F. (2020). *The Constitution of Algorithms.* MIT P.
 - Joque, J. (2022). *Revolutionary Mathematics.* Verso.
+- Marino, M. C. (2020). *Critical code studies.* MIT P.
+- Mattern, S. (2021, July 9). "Unboxing the Toolkit." *Toolshed*. https://tool-shed.org/unboxing-the-toolkit/
+- MacKenzie, A. (). *Machine Learners.*
+- McKinney, Cait. *Information Activism: A Queer History of Lesbian Media Technologies.*
 - McPherson, T. (2018). *Feminist in a Software Lab: Difference + Design.* Harvard UP.
 - McQuillan, D. (2022). *Resisting AI*. Bristol UP. 
-- Raley, R. (2009) *Tactical Media*
+- Raley, R. (2007). "Interferences: [Net.Writing] and the Practice of Codework." *Electronic Book Review.* http://electronicbookreview.com/essay/interferences-net-writing-and-the-practice-of-codework/
+- Raley, R. (2009) *Tactical Media* U of Minnesota P.
 - Raley, R. & Rhee, J. (2023) "Critical AI: A Field in Formation." *American Literature*
 - Reddy, A. (2022). "Artificial everyday creativity: creative leaps with AI through critical making." *Digital Creativity.*
-- Sedgwick, E. K., & Goldberg, J. (2012). "Making things, practicing emptiness." *The weather in Proust*. Duke UP.
+- Star, 
+- Sedgwick, E. K. (2012). "Making things, practicing emptiness." *The weather in Proust*. Duke UP.
 - Schwarz, C. (2010). *The Anarchist’s Tool Chest*. Lost Art Press.
 - Shanahan, Murray. (2022). "Talking about Large Language Models." 
+- Soulellis, P. (2019). "URGENTCRAFT." https://soulellis.com/work/urgentcraft/index.html
+- Soon, Winnie, and Geoff Cox. 2020. *Aesthetic Programming.* 
+    [gitVersion](https://gitlab.com/aesthetic-programming/book/-/tree/master/source]
 - Thorp, J. (2021). *Living with Data.*
+- Vee, Annette. 2017. *Coding Literacy.*
 - Willis, H. (2016) *Fast Forward: The Future(s) of the Cinematic Arts.* Wallflower Press.
+- Wilson, Shawn. (2008). *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing. 
 
+
+- 2019. *Critical Makers Reader* Internet 
+  - Cole, D., & Perner-Wilson, H. "Getting Lost and Unlearning Certainty: Material Encounters in an Electronic Craft Practice."
+  - Groten, A. "Hacking & Designing: Paradoxes of Collaborative Practice." 
+  - Sinders, C. "Making Critical Ethical Software."
+  - Van Ness, G. "Hacking the Hustle: Sex Work, Networks, & Social Reproduction Under FOSTA-SESTA."
+- [tracery as craftivism](https://electronicbookreview.com/essay/retraced-threads-generating-feminist-textile-art-with-tracery/)  
+
+
+>"What's unique about such IFH/MSs [intersectional feminist hacker/makerspaces] is that they are designed specifically to meet the needs and interests of the communities they are by and for, thereby allowing for a truly revolutionary *reimagining* of a 'different concatenation of social forms, knowledge, and technology'. In so doing, IFH/MS members articulate a strategy of hacking not only software and hardware, but their own social reproduction within the cybersphere." 
+>>- Van Ness, G. "Hacking the Hustle: Sex Work, Networks, & Social Reproduction Under FOSTA-SESTA." in Critical Makers Reader
 
 <!-- 
 
@@ -573,3 +786,14 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 
 
 <!-- Broadly these have been called data subjects. For clarity, I distinguish between data subjects, whose information is captured in datasets that train machine learning models, and data subjectees, who are interpellated by and bear the impact of those models when implemented as part of AI systems. We are all the sovereign Data State's subjects, and we are all subject to its gaze as data subjectees.  -->
+
+>"If race as we know it is an “algorithm” inherited from the age of Enlightenment, reprogramming its function from inheritance (a form of destiny) to insurrection provides the possibility of new formulations." Coleman Race as a technology
+
+
+@berlantCommonsInfrastructuresTroubling2016
+  - >"holds in suspicion the prestige the commons concept has attained in the US and theory-cosmopolitan context, often signifying an ontology that merely needs the world to create infrastructures to catch up to it. Although the commons claim sounds like an uncontestably positive aim, the concept in this context threatens to cover over the very complexity of social jockeying and interdependence it responds to by delivering a conﬁrming aﬀective surplus in advance of the lifeworld it’s also seeking. [...] the attachment to this concept is too often a way of talking about politics as the resolution of ambivalence and the vanquishing of the very contingency of nonsovereign standing that is at the heart of true equality, [...] 
+  - >**"the commons concept is a powerful vehicle for troubling troubled times. [...] The better power of the commons is to point to a way to view what’s broken in sociality, the diﬃculty of convening a world conjointly, although it is inconvenient and hard, and to offer incitements to imagining a livable provisional life."**
+  - >[...] The commons is an action concept that acknowledges a broken world and the survival ethics of a transformational infrastructure. This involves using the spaces of alterity within ambivalence."
+  - >"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other’s ﬂesh for one’s own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It’s the experience of aﬀect, of being receptive, in real time."
+  - >"form is not only a wish for a refuge, a cushion: it is also social, an exposure, a mediation, and a launching pad in relation to which beings can ﬁnd each other to ﬁgure out how to live in a movement that takes energy from the term ‘‘movement’s’’ political resonance."
+  - >"taking each other on and in but never collapsing the distance that allows for attention. To take something in is to be nonsovereign in relation to it, but that’s not equal to being destroyed by it."

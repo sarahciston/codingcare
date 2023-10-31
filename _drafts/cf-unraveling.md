@@ -4,6 +4,13 @@ title: codes for un/raveling
 nav_order: 11
 ---
 
+
+<!-- threads, lines, threaded systems. mourning, fraying-->
+<!-- threaded networks: embodied codes for weaving new worlds -->
+<!-- what are the patterns and codes we don't have but need -->
+
+
+
 (No Knots Only Loops)
 (Adrian Piper, Sonya Rapoport)
 
@@ -20,12 +27,35 @@ Tim Ingold, line/walk.
 see Ahmed queer use, the memory of knots, held in the material, no memory in bricks (via ingold)
 To thread the needle, metaphorically, is to be precise, minute, with one's argument. Pinpoint, pin prick, puncture and suture. 
 
+threads are how we put things in parallel in a computational system, how it is instructed to decide what is important and where to allocate resources, threads can be used for mutual aid/ethic of care, or for hoarding/not. containers to wrap, warm, support. 
+
+Wiki: "a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources. [...] Multithreading is a widespread programming and execution model that allows multiple threads to exist within the context of one process. These threads share the process's resources, but are able to execute independently." [wiki](https://en.wikipedia.org/wiki/Thread_(computing))
+
+disambiguation: screw thread, spirals around the shaft, the spiral as the simplist labyrinth; thread a fiber or filament; conversation threading on forums, grouping like with like; obviously weaving warp and weft;  
+Ariadne's thread, in computing, exhaustive application to all routes (but her thread was 1 route?), mark each choice, follow one available as far as possible [wiki](https://en.wikipedia.org/wiki/Ariadne%27s_thread_(logic))
+death ritual, unwind a ball of thread among people mourning around a body, tie it to each wrist as they pass it, snip the thread between them, wait for the thread to fall off. bahia wish ribbons. (shape of a dissertation, is it the thread, the loops where each accrues, the body between, each body of a mourner going out into the world)
+
+threads as **ligatures**, *links between letters, also threads to sew up arteries, a cord to tie up tightly*
+
+
+
 
 ### command, line
 the endless thread of the command line
 command line is a place i have come to feel at home although it did (still) intimidated me most. it feels like it is the embodiment of that old adage of writing where I am writing in a way such that I know where I am going only as far as my headlights shine. (I wrote headlines. Force of habit. If habit is a force, does it make forms, if I unfold Ingold's suggestion?)
 To work on the command line is to wield too much power and not know how it is being implemented. There's always a Here Goes Nothin' erm Well Fuck It I Hope I Don't Break This Thing Permanently feeling with every keystroke. 
 And the way it logs each command to cycle back through for reuse is a form of poetry, memory as. 
+
+
+
+# process
+requires a starting point, a leap into the middle, warp and weft. Maria said start at the very beginning but it's too late for that, and trying to fake a perfect very beginning has got me all muddled in the performance of process instead of showing its actual messiness, its seams. And so it seems important first to discuss the ways I've been unable to start, leaping from platform to platform, behind the scenes, learning again and again how to start—just so, so that it's perfect, so that you (who?) will love what is said (me) and everything will be (different?), language being executable and all, speech acts—
+I am in the thick of it. Searching for the perfect way, forgetting that perfectionism is white supremacy and the most important learning is unlearning. Here I am trying to find new forms, wayfinding.
+
+
+# tether untether
+what we are unwilling to tie down to is as important, what i have learned to detatch from. body, and the fear of it.  
+
 
 
 # Codes for Un/Raveling, Un/Mouthing
@@ -102,10 +132,15 @@ Crochet is the one fiber art that machines cannot do. Acts of accrual and ongoin
 *System operations are called sometimes called threads. "A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads share resources but operate independently. 
 
 Threads are how we run things simultaneously in a computational system, how it decides where to allocate resources. Threads can be used for mutual aid/ethic of care, or for hoarding/not. containers to wrap, warm, support. 
+
 Wiki: "a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources. [...] Multithreading is a widespread programming and execution model that allows multiple threads to exist within the context of one process. These threads share the process's resources, but are able to execute independently." [wiki](https://en.wikipedia.org/wiki/Thread_(computing))
+
 disambiguation: screw thread, spirals around the shaft, the spiral as the simplist labyrinth; thread a fiber or filament; conversation threading on forums, grouping like with like; obviously weaving warp and weft;  
+
 Ariadne's thread, in computing, exhaustive application to all routes (but her thread was 1 route?), mark each choice, follow one available as far as possible [wiki](https://en.wikipedia.org/wiki/Ariadne%27s_thread_(logic))
+
 death ritual, unwind a ball of thread among people mourning around a body, tie it to each wrist as they pass it, snip the thread between them, wait for the thread to fall off. bahia wish ribbons. (shape of a dissertation, is it the thread, the loops where each accrues, the body between, each body of a mourner going out into the world)
+
 threads as **ligatures**, *links between letters, also threads to sew up arteries, a cord to tie up tightly*
 
 Threads are ligatures, they sew up the spaces between, tie up meaning tightly, linking letters. Threads to sew up arteries. Threads as instruments of mourning and memory. Threads as marks of accrual and disintegration. 
@@ -114,6 +149,7 @@ With too much friction, you strip the threads off a screw that spiral around its
 
 Conversational threading.
 
+repair, riparian
 
 
 ===
@@ -156,9 +192,16 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 [^Wittig]: Wittig, Monique. *We.*
 
 
+I spent a summer making labyrinths on whatever large surface I could find. A labyrinth is only one path; it is not a maze, but it is a puzzle. A labyrinth is a way of traveling somewhere, folding and winding a flat surface into more than itself, into an interiority, an exploration and a risk, into an essay, an endeavor, into a question and an answer wound together tightly. But it is not a knot. It has its directions written plain, an algorithm. But it can be walked right over. You are not trapped. You do not have to follow.
 
 
-
+>Though, like all algorithms, it takes time to walk. It is not a good choice to go walking at night.
+>A labyrinth is a way of turning and walking away, so that where you turn, you turn with them, but there is always a way forward, and this can be a very hard path to walk.
+>In order to make a labyrinth, you need something to walk in and you need a surface to walk on, and the question is how much do you have to make it?
+>A labyrinth is a walk that is self-defeating, but a maze is a walk that can be followed by the unwary.
+>A labyrinth is a way of making a surface. A path inside the surface. You know the surface is round, that you can walk around it, and if you could walk around it, then it is not a labyrinth.
+>And so it was very, very freeing to make a labyrinth with a set of directions I could not find but that was on the surface for me to find when I went to walk through it. 
+>The labyrinth is for walking in circles, as much as for thinking. It is for the body to take something very simple and make it complicated. It is for the body to be in a space with no exits. It is for the body to walk in a space where it is hard to know where the walls are. It is for the body. And yet it can be for the body.
 
 
 

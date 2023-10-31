@@ -352,6 +352,9 @@ When we are together and witness each other struggle, that commonality reveals l
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
 
+>"The constant state of exposure – and along with it, a sustained vulnerability – is enabled only through constant and meticulous practices of documentation. Far from covering up our bugs, we [hackers] openly acknowledge and even explain them. We don't hide problems. The virtue of transparency is that it makes actions accountable." 
+>>— Anja Groten, Hacking & Designing: Paradoxes of Collaborative Practice" in @bogersCriticalMakersReader2019
+
 [//]: # "[XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?]"
 
 ### Work iteratively, feature progress
@@ -414,6 +417,10 @@ What would you adopt as your mascot or icon? What's the first person, place, thi
 
 What vocabulary do you use to describe its structure: Is it a secret society? A collaboratory? An elicit escape? Find ways to make your organization feel more fun than yet another meeting on your calendar.
 
+#### ~Mandated~ Welcomed enthusiasm
+
+Okay maybe not *mandated* but we like the approach of conferences like [bang bang con](https://bangbangcon.com/) that set a baseline of exclamations for everything, rather than needing to censor ourselves. They welcome joyful contributions, and it shows in the passion their presenters bring to their talks. So. Does my email have too many exclamation points, emoji, and gifs? Probably, but so what? 
+
 [Back to top](#top)
 
 ## 5. We all have skills to teach each other
@@ -453,6 +460,10 @@ And the divisions between who knows, who gets to know, who gets to learn and cla
 >>–Melanie Hoff
 
 Bonnie Nardi's concept of "end-user programming" helps dismantle the hierarchy of software maker/user and emphasizes the work a user does is another kind of programming. Every day we customize settings and change parameters, we put formulas in spreadsheets and create automatic workflows in photo editors. She argues these "end-users" are not naive but make intensive use of computers. She includes such tasks on a continuum with programming that addresses the machine at various levels, whether "close to the metal" like assembly languages or abstracted high-level languages like object-oriented programming.@nardiSmallMatterProgramming1993 We see this continuum continuing to blur now with "prompt programming," which involves writing plain-text commands for generative AI systems. 
+
+Code Collective member [ender](https://www.enderverse.org/) expands on these ideas in a zine called, "[you are a coder](https://enderversing.itch.io/uracoder)." It discusses how users might be more empowered through customization tools to engage like programmers (and how many already do!), and how programmers are rely on languages as interfaces, just like other kinds of users do. It also includes more readings on this topic if you're interested, from David Chisnall, Olia Lialiana, Joanne McNeil, and Melanie Hoff of course! @enderYouAreCoder 
+
+>"The development of gooey [GUI] was a project to create an accessible computer, lessening the burden of knowledge required to complete a task. But this also created the 'user' as we know it by creating a user/programmer dichotomy. The desire for a black screen is that of removing the dichotomy in favor of an interface without subjection, without users and/or programmers alike. [...] black gooey being antithetical to the values of the white screen. Black gooey might then be a platform of slowness ('dragged time', 'colored time') [...], refusal, thought, complexity, critique, softness, loudness, transparency, uselessness, and brokenness. A planar body that longs for the solitude and vastness of the commandline, yet nuanced and sharp, to usurp and destroy a contemporary hegemonic interface." @artistBlackGooeyUniverse
 
 ### Remember you know how to learn
 
@@ -600,6 +611,11 @@ Scaling down can come later. Dream big!
 
 *How do you practice critical dreaming? [xxx]*
 
+#### Minimum viable learning
+
+* [magic words](https://pad.vvvvvvaria.org/rr-minimal-viable-learning); [varia.zone collective](http://vvvvvvaria.org/en/)
+* [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
+
 #### Critical tinkering 
 
 Choose/find small things to get excited about and do them right away. 
@@ -665,7 +681,13 @@ This literally *makes* the room for each other, creates the room we have togethe
 
 ### Show and tell / Take temperature with check ins
 
-Or Round Robin, or Check Ins, or Council Method, or some version of an opening gesture for our gathering that acknowledges each person, gives them a short couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise share first each visit.   
+Or Round Robin, or Check Ins, or Council Method, or some version of an opening gesture for gathering that acknowledges each person, gives them a short couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise share first each visit. 
+
+This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings. 
+
+![Guestbook loom at Stanford Textile Makerspace](../assets/img/guestbookloom.png)
+
+[^textiledata]: For more resources on textile data visualization, see their [course examples] as well as [XXXCITELaura]
 
 ### Make room for each other, make time
 
@@ -741,6 +763,11 @@ More resources on digital accessibility were highlighted during [p5 Access Day 2
 ### Minimal is accessible
 
 Sometimes the low-fi answer is the right one. When searching for the right tools to build the Creative Code Collective Resource Hub, we went through every possible solution for a database, and landed on a google doc. When looking for ways to build the site for the Intersectional AI Toolkit, again we went through what seemed like endless possibilities for platforms, and landed back at simple JAM stack static sites, github pages, or wiki. Sometimes the less ambitious choices serve different purposes. They offer more access to other audiences. They leave the content and data more open and adaptable and legible to friends who might want to interact with it later, or to us as we build or rebuild it one day. We embrace minimal computing [cite] as an accessible and aesthetic and political value. 
+
+Google docs to start, like the COVID Creatives Toolkit. 
+>"we wanted to offer an open resource focused on free offerings with a global reach that could be maintained by creatives themselves. Starting from an open call and a tweet asking for help, the kit’s contents were compiled by 30 curators and countless unnamed contributors worldwide, who came to it from across the arts, technology, community, academia, and gig work."
+>"It is a reflection of the mutual-aid networks built around it, and the challenges they face. In the words of the Zapatistas, it is a 'world where many worlds fit.'" @braybrookeTogetherWeDance2020
+
 
 
 **That was always the question: What's the minimal structure necessary to make people feel like they have a container that is safe, and that gives them freedom to move? What's the foundation you need to have to facilitate, to have spaciousness. But you still need a foundation. You still need a a safe structure.**
@@ -872,9 +899,12 @@ We gather as part of this effort, and we have started to trust each other with t
 
 Community can sometimes feel like an easy word, even a dirty word, the way it gets lobbed about by not-always-well-meaning folks who might be making a lot of presumptions when they try to argue "we're all in this together." Sometimes we're not. Sometimes we are not a "we" at all. Many folks have been hurt by this kind of co-option of language, and it makes sense to limit our trust to those who earn it. 
 
-Real community, solidarity, [etc] is about mutual inter-reliance, not extraction. 
+>"Just because we are in the room together does not mean that we belong to the room or each other: belonging is a speciﬁc genre of affect, history, and political mediation that cannot be presumed and is, indeed, a relation whose evidence and terms are always being contested. Belonging is a proposition, a theory, a forensic fact, and a name for a kind of attachment."
+>>–Lauren Berlant @berlantCommonsInfrastructuresTroubling2016
 
->"The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is it is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
+Belonging is hard. Community is hard work. Real community comes from solidarity across difference, not requests to assimilate. It is is about mutual interrelation and inter-reliance, not extraction. 
+
+>"The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
 >>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
 
 We strike a balance that is neither the top-down hierarchy of a classroom nor the chaos of a "hierarchy-less" blob. We acknowledge the power dynamics at play and actively address them, working to help folks feel welcoming in community.
