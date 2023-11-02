@@ -1,7 +1,8 @@
 ---
 # layout: post
 title: codes for un/knowing
-nav_order: 13
+nav_order: 11
+date: 02.11.2023
 ---
 
 <!-- platforms, essaying, code obscura. saving protecting hiding helping hearing healing -->

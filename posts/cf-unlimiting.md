@@ -1,3 +1,13 @@
+---
+# layout: post
+# permalink: 
+title: "codes for un/limiting"
+nav_order: 3
+date: 02.11.2023
+tags: ["interstitial", "broken machines", "queer use", "platforms" ]
+# bibliography: ['includes/bibliography.bib']
+---
+
 
 <!-- broken machines? queer use, platforms,  -->
 
