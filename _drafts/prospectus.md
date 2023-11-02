@@ -6,36 +6,16 @@ date: 31.03.2022
 tags: [prospectus, dissertation]
 ---
 
-## Trans*formative Technocraft: Coding Care, Intersectional AI, and a Critical Field Guide
-<!-- ## Coding Care: Intersectional AI and Trans*formative Technocraft -->
-<!-- ## CODING.CARE: A Guidebook for Trans*formative TechnoCraft -->
+## Trans*formative Technocraft: Coding Care, Intersectional AI, and Conscientious Datasets for Machine Learning
 
 ### TO DO LIST
 
 - [x] Make a diss schedule working backward from deadlines
 - [x] introduction write draft for Holly by 01.09.23. include unpacking language of "trans*formative technocraft"
-- [ ] add section to CCC site for projects, link to them in portions of the guidebook as grounding tangible items. 
+- [X] add section to CCC site for projects, 
+- [ ] link projects to CCC site in portions of the guidebook as grounding tangible items. 
 - [ ] add debriefs from chaos camp, montenegro, e-werk, holga. Linz workshop. community building practices. CCBerlin?
 - [ ] applications spreadsheet
-
-- one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
-
-
-## Caring with & for Intersectional AI
-
-### Care & Communities
-
->Coding Care: Community Ethics for Collective Digital Care (Values, Ethics, Approaches, Community Building, Creative Code Collective How-Tos)
-
-![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png)
-{: .img-small }
-<!-- (Could combine with love notes, with tactics, or with community guidelines) -->
-
->"Care is the practice of savouring how subtle differences can make all the difference." (Data Loam 2020, 380)
-
-*[Data Loam]: Data Loam. (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.) De Gruyter
-
-
 
 ### Dissertation Writing Schedule
 
@@ -180,6 +160,8 @@ strategies for facilitating communities of practice, for alternative accessible 
 * *community*: *discord* group with Emily, cauldron, *creative code collective*
 * technique: *creative misuse of existing platforms?* a network and a license, an ethos rather than a platform? a checklist? a how-to? 
 * ~~an aggregator of others' tools?~~
+- one chapter could be a deck of (oblique) strategies, one chapter could be lyric essay, zines, digital platform, recipe, code database, flow charts
+
 
 ## methodologies
 * intersectional feminisms
@@ -199,12 +181,6 @@ strategies for facilitating communities of practice, for alternative accessible 
 * **processing**: another word for programming, processing focuses not on the end product or task but the inter/intra action, the digestion that happens. of code. of trauma. of information. 
 * **techno**: hybrid, digital, systems-oriented, mr.wizard science, project-driven not damage-centered
 * **craft**: material, iterative, process-oriented, handmade, embodied, tinkering
-
-Therefore **Coding Care** is XXXX
-
-And **Trans*formative processing** inspired in part by histories of transformative justice, recognizes that oppression is at the root of harmful technological systems, and argues that acknowledging this oppression is essential to addressing it and to imagining and creating different, even healing systems. While reparative and restorative also have resonance with this project, the terms' relationship to justice movements and to LGBT histories are fraught. Meanwhile a broader sense of transformation and the added layers of resonance with trans\*-inclusive approaches to gender, sexuality, identity, and imaginative futures seems more befitting of this project, its participants, and its intentions. The term **processing** as well, interchangeable here with programming, speaks to a more embodied crossover, a working-through of personal and communal and generational trauma. I'm interested in how these terms slip-slide around each other poetically, when thinking of the Central Processing Unit of a person or a digital device.  
-
-And **TechnoCraft** is the combo of historically dismissed and feminized practices of craft—which emphasize process, duration, ongoingness, community—with the aspects of technology which get overlooked, like the contributions to the materiality of tech from Women of Color in the Global South, and move slow and fix things, capacities for repair and air and error and poesis in the techne. 
 
 
 * handmade, craft, iterative, durational practices

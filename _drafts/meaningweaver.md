@@ -5,12 +5,15 @@ title: Meaning Weaver
 nav_order: 95
 ---
 
+re Elea, the hope would be to understand "What does it mean for me today to use these systems, why does a certain feature/methodology come to exist, instantly matters to me. If I utilize this I must be aware of how the tech can even devoid of historical contexts its created from, how are the tech still ways they might propagate injustices and systems of power."
+
+"Feelings are 'vectors'; for they feel what is there and transform it into what is here" (Whitehead 1978, 87). A vector describing anything that covers space. A vector is a way of describing transformation using space. But it is only one way. 
 
 # Weaving "Universal" Meaning from Numbers
 
 [//]: # "write it in style of Bell's *Undercurrents* with snippets of history described in essay with a personal narrative also weaving through"
 
-How did the idea become prominent that language, and its meaning, could be represented through numbers and computation? Temporarily setting aside whether or not this is a *good* idea, I am interested in the history of the idea. It emerges in prominence in the cybernetic boom just following the Second World War, with strands of thought that run much further back in time. It spans developments in crypotography, translation, linguistics, phonology, statistics and probability, cybernetics, taxonomy; with roots in wartime aerial firing and weapons development, eugenicists' racist beliefs about categorization. This work traces some of the thinkers, historical moments, and intellectual pivots 
+How did the idea become prominent that language, and its meaning, could be represented through numbers and computation? Temporarily setting aside whether or not this is a *good* idea, I am interested in the history of the idea. It emerges in prominence in the cybernetic boom just following the Second World War, with strands of thought that run much further back in time. It spans developments in cryptography, translation, linguistics, phonology, statistics and probability, cybernetics, taxonomy; with roots in wartime aerial firing and weapons development, eugenicists' racist beliefs about categorization. This work traces some of the thinkers, historical moments, and intellectual pivots 
 
 The concepts of "universal language" and of applying cryptographic methods towards language translation data at least back to Athanasius Kircher and Holy Roman Emperor Ferdinand III (and perhaps much further, from non-Western perspectives). However, it is a single memo written in 1947 by mathematician Warren Weaver that is credited with launching the field of "Machine Translation" and later Natural Langauge Processing. 
 
@@ -109,13 +112,13 @@ the central word”
 
 
 FISHER
-eugenics journal, measurements into categories. Ronald Fisher’s 1936 paper “The use of multiple measurements in taxonomic problems”
+eugenics journal, measurements into categories. Ronald Fisher’s 1936 paper “The use of multiple measurements in taxonomic problems"
 Fisher's son in law was George E.P. BOX, another prominent statistician. Who got into the field exposing small animals to poisonous gas in the British army. He’s attributed the phrase **“all models are wrong but some are useful”**
 
 CALDWELL's SINOTYPE
-"In the course of his research, Caldwell made a second startling discovery. Not only did Chinese characters have a spelling, but, as he wrote, ‘the spelling of Chinese characters is highly redundant’. It was almost never necessary for Caldwell to enter every stroke within a character in order for the machine to retrieve it from memory. For a character containing 15 strokes, for example, it might only be necessary for the operator to enter the first five or six strokes before the Sinotype arrived at a positive match." [1]
+"In the course of his research, Caldwell made a second startling discovery. Not only did Chinese characters have a spelling, but, as he wrote, 'the spelling of Chinese characters is highly redundant'. It was almost never necessary for Caldwell to enter every stroke within a character in order for the machine to retrieve it from memory. For a character containing 15 strokes, for example, it might only be necessary for the operator to enter the first five or six strokes before the Sinotype arrived at a positive match." [1]
 In so doing he also invented the first auto-complete method of typing—one of the most widely used features of computing today.
-“The Sinotype—A Machine for the Composition of Chinese from a Keyboard,” Journal of the Franklin Institute, 267 (1959) 471-502.
+"The Sinotype—A Machine for the Composition of Chinese from a Keyboard," Journal of the Franklin Institute, 267 (1959) 471-502.
 
 
 John WILKIN's universal language (https://historyofinformation.com/index.php?cat=29#entry_1553)

@@ -118,10 +118,18 @@ What does this black box have to do with the white room we are in?
 
 What is it about Pipi's work that makes me think of black boxes, different kinds of intelligences? 
 
+The term "black box" is first introduced in the context of artificial intelligence in from W. Ross Ashby's 19XX *An Introduction to Cybernetics*. 
+
+Several uncanninesses emerge in my reading. In Ashby's colorful hypothetical examples, the black box is like a broken bomb-sight being fixed by an engineer, like a door a small child is learning to open, or "has just fallen from a Flying Saucer." 
+
+Another system emerges with the black box, that of the relation between the black box and its examiner: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" and I imagine myself tethered to all the black boxes making judgments that affect my dailiness.  
+
 Ashby moves deftly from the example of an engineer examining a bomb-sight to a small child opening a door. Bomb making and children ar the literal testing grounds where conceptualizations of "artificial intelligence" as we understand it today emerged. Later he says of black box theory, 
->"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when htis is so the method of making meerely random variations (e.g. guided by throws of a die) on the input switches is as defensible as any other method, for no facts yet exist that could be appealed to as justification for preferring any particular method." But this is backward — we have decided to assume from the outset that nothing is known, and then use its unknowability (which we declared rather than discovered) as justification not to investigate. (Ashby 19)
+>"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations (e.g. guided by throws of a die) on the input switches is as defensible as any other method, for no facts yet exist that could be appealed to as justification for preferring any particular method." But this is backward — we have decided to assume from the outset that nothing is known, and then use its unknowability (which we declared rather than discovered) as justification not to investigate. (Ashby 19)
 
 >"real objects are in fact all Black Boxes, and that we have in fact been operating with Black Boxes all our lives." (Ashby)
+
+Black box theory, the study of understanding something without having to understand it, insisting on its unknowability (in a way that instrumentalizes it for you, such that you only know it by its interface to you, the knobs you can turn and the switches you can flip), vs insisting on something's unknowability in the sense of being present with it, letting it be in relation to you and being impacted by it
 
 
 Wild twin, the part denied returns to bite. Shame makes a person or a system act shamefully. Shamelessly too. Harmfully. Hopelessly. Hungrily. 
@@ -183,6 +191,16 @@ love as undercommon undercurrent aquifer, force of dismantling erosive force, fi
 loss prevention vs refusal to prevent loss; holding vs touching
 
 >The way to stop your dog from getting lost was to put a leash on her and attach a bell.
+
+Ashby's discussion of the black box connects it to memory, trauma, and relation. For Ashby, memory is also a black box, in the sense that memory is the explanation for an unknown state or behavior, the part we fill in: 
+
+>"Thus the possession of “memory” is not a wholly objective property of a system—it is a relation between a system and an observer; and the property will alter with variations in the channel of communication between them. Thus to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely. The properties of 'memory' are not those of the simple “thing” but the more subtle “coding”."
+
+He offers two examples, a calculator with magnetic tape recorder and a neighbor's dog that was hit by a car.
+
+>"suppose I am in a friend’s house and, as a car goes past outside, his dog rushes to a corner of the room and cringes. To me the behaviour is causeless and inexplicable. Then my friend says, “He was run over by a car six months ago.” The behaviour is now accounted for by reference to an event of six months ago. If we say that the dog shows 'memory' we refer to much the same fact—that his behaviour can be explained, not by reference to his state now but to what his state was six months ago. If one is not careful one says that the dog “has” memory, and then thinks of the dog as having something, as he might have a patch of black hair."
+
+There is so much violence in the black box, in the memory. And if "real objects are all black boxes" and black boxes are like memory and memory is relational, are codings of the thing, what are we left with but traumas in this formulation?  
 
 loss function in machine learning calculates the difference of the output from the expected output. a calculation for what is lost. to function through or with or because of a loss. 
 

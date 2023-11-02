@@ -152,7 +152,7 @@ Conversational threading.
 repair, riparian
 
 
-===
+=== 
 
 I am trying to weave into the gaps of this system, undermining as it mines me, as it doesn’t mind me, powerless as I seem. Can I unravel its seams — still I, still implicated, staying with the trouble?
 
