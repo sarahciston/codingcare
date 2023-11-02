@@ -5,7 +5,7 @@ title: critical introduction
 nav_order: 2
 date: 31.10.2023
 tags: [introduction, theory, practice, hybrid, academic]
-bibliography: ['includes/bibliography.bib']
+# bibliography: ['includes/bibliography.bib']
 ---
 
 * TOC
@@ -22,17 +22,17 @@ Trans*formative TechnoCraft argues for the essential entanglement of critical AI
 >"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." 
 >>—Ursula M. Franklin ([@franklinRealWorldTechnology2004])
 
-🖼 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when <span class="purple">learning programming is so often intimidating and riddled with false starts,</span> which can further marginalize those whose perspectives are most necessary in order to face the challenges technoculture presents. 
+Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when <span class="purple">learning programming is so often intimidating and riddled with false starts,</span> which can further marginalize those whose perspectives are most necessary in order to face the challenges technoculture presents. 
 
 ### We Need Intersectional Critical AI 
 
 >"I’m stuck here inputting and outputting the data of a story I can’t change." 
->>(Italo Calvino "The Burning of the Abominable House" 1976)
+>>(Italo Calvino "The Burning of the Abominable House" 1976, trans. 1995)
 
 With every hype, the anti-hype: 
 
 >"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'." 
->>(Frieder Nake "There Should Be No Computer Art" 1971) 
+>>(Frieder Nake 1971) 
 
 Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individual white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. 
 
@@ -75,7 +75,7 @@ I may have knowledge and resources to share, but not be able to participate beca
 
 
 >"any theory that cannot be shared in everyday conversation cannot be used to educate the public." 
->>–bell hooks @hooksTeachingTransgressEducation1994
+>>–bell hooks [-@hooksTeachingTransgressEducation1994]
 
 These works are written as jargon-free as possible to allow them to travel as broadly as possible. While 
 
@@ -88,9 +88,9 @@ All writing is a hybrid practice of creation (poetics), critique (politics), and
 >"any theory that cannot be shared in everyday conversation cannot be used to educate the public."
 
 >"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression.
->>–bell hooks @hooksTeachingTransgressEducation1994
+>>–bell hooks [-@hooksTeachingTransgressEducation1994]
 
->"Theory is not inherently healing, liberatory, or revolutionary. lt fulfills this function only when we ask that it do so and direct our theorizing towards this end." >>–bell hooks @hooksTeachingTransgressEducation1994
+>"Theory is not inherently healing, liberatory, or revolutionary. lt fulfills this function only when we ask that it do so and direct our theorizing towards this end." >>–bell hooks [-@hooksTeachingTransgressEducation1994]
 
 
 It requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start. [XXXexplain] [^hoff] [^nardi] [^americanartist] It requires un-siloing of domains and disciplines, the artificial boundaries that divide technologists from activists. 
@@ -118,17 +118,15 @@ Art has been the space where I’m able to unpack complex ideas for myself, beca
 
 It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
  
-This is a practice of artistic research, research-creation, and/or arts-based research (different lineages and regions call it by different names)[cite] @lovelessHowMakeArt2019. 
+This is a practice of artistic research, research-creation, and/or arts-based research (different lineages and regions call it by different names)[cite] [@lovelessHowMakeArt2019]. 
 
-Specifically the "valences" of research-creation [Chapman & Sawchuk] that are not "creative presentation of research" (reporting on research in creative ways), or "research for creation" that supports a stand-alone artwork, or "research from creation" (reporting about artworks after the fact), but rather "creation-as-research" [and I'd add research-as-creation], which Loveless says "Research-creation [...] produces hybrid forms, defamiliarizing and uncanny, that oscillate between more than one 'species' of production and that result in 'offspring' that are often unthinkable, illegible within the current institutional frameworks of academia. It creates a chimera. By bringing research and creation together in such a way that they unpredictably contaminate and remake each other,"
+>"Specifically the "valences" of research-creation [Chapman & Sawchuk] that are not "creative presentation of research" (reporting on research in creative ways), or "research for creation" that supports a stand-alone artwork, or "research from creation" (reporting about artworks after the fact), but rather "creation-as-research" [and I'd add research-as-creation], which Loveless says "Research-creation [...] produces hybrid forms, defamiliarizing and uncanny, that oscillate between more than one 'species' of production and that result in 'offspring' that are often unthinkable, illegible within the current institutional frameworks of academia. It creates a chimera. By bringing research and creation together in such a way that they unpredictably contaminate and remake each other,"
 
 >"in failing to fully belong, and allowing that nonbelonging to denaturalize, emergently, its givens, research-creation tells other stories, uncanny stories, that (have the potential to) carry within them the other ethics that King invites us to attend to."
 
->"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
->"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 452)
 
-[^Stark]: Stark, L., & Crawford, K. (2019). The Work of Art in the Age of Artificial Intelligence: What Artists Can Teach Us About the Ethics of Data Practice. Surveillance & Society, 17(3/4), 442–455. https://doi.org/10.24908/ss.v17i3/4.10821
-@starkWorkArtAge2019
+>"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
+>"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 45 [@starkWorkArtAge2019]
 
 #### These approaches are entangled
 
@@ -305,7 +303,7 @@ Reminds us that disabled people are not minoritized users of technologies create
 - "interdependence as political technology" to shift the goals of tech design away from independence and toward entanglement and kinship building
 - disability justice
 
-Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." @hickmanTranscriptionWorkPractices2019a
+Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." [@hickmanTranscriptionWorkPractices2019a]
 [CITEMingus]
 
 <!-- trauma -->
@@ -313,11 +311,11 @@ Louise Hickman's ethnographic work on the ethics of access foregrounds access wo
 
 Develop forms, formats, and methods "on the terms of" the communities they are meant to represent, with their goals, values, approaches leading the work. 
 
->"after four centuries of extractionist, settler-colonial linguistic practice, linguists and other outsiders must work with indigenous languages on the terms of the communities they belong to. This includes allowing those communities to set the parameters, limits, and terms of your work – and making sure your work can benefit these communities. It includes being a listener and a supporter, even in “your” research, to how indigenous communities wish to uphold and celebrate their languages, culture, and survival." @bjorklundAmericanistLinguisticsEthics2023
+>"after four centuries of extractionist, settler-colonial linguistic practice, linguists and other outsiders must work with indigenous languages on the terms of the communities they belong to. This includes allowing those communities to set the parameters, limits, and terms of your work – and making sure your work can benefit these communities. It includes being a listener and a supporter, even in “your” research, to how indigenous communities wish to uphold and celebrate their languages, culture, and survival." [@bjorklundAmericanistLinguisticsEthics2023]
 
-This can fundamentally reshape the forms and functions of research, artmaking, valuemaking — because it acknowledges the varied principles on which it is founded. For example, in Indigenous epistemologies, says Shawn Wilson, "The concepts or ideas are not as important as the relationships that went into forming them. Again, an Indigenous epistemology has systems of knowledge built upon relationships between things, rather than on the things themselves." @wilsonResearchCeremonyIndigenous2008 Fundamentally understanding differently knowledge, objects, relationships to them, would necessarily reorient one's work and the forms it takes — in deeply formative ways. 
+This can fundamentally reshape the forms and functions of research, artmaking, valuemaking — because it acknowledges the varied principles on which it is founded. For example, in Indigenous epistemologies, says Shawn Wilson, "The concepts or ideas are not as important as the relationships that went into forming them. Again, an Indigenous epistemology has systems of knowledge built upon relationships between things, rather than on the things themselves." [@wilsonResearchCeremonyIndigenous2008] Fundamentally understanding differently knowledge, objects, relationships to them, would necessarily reorient one's work and the forms it takes — in deeply formative ways. 
 
->"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot — a point where thousands and millions of relationships come together. These relationships come to you from the past, from the present and from your future. This is what surrounds us, and what forms us, our world, our cosmos and our reality. We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." @wilsonResearchCeremonyIndigenous2008
+>"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot — a point where thousands and millions of relationships come together. These relationships come to you from the past, from the present and from your future. This is what surrounds us, and what forms us, our world, our cosmos and our reality. We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." [@wilsonResearchCeremonyIndigenous2008]
 
 To see form (shape, object) as relation, connection, is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). Like all verbs, then, implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
 
@@ -356,9 +354,9 @@ AI / human
 **These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
 TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934). and polyphony But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
 
-Anna Munster suggests that the form of networks numbs us to their relationality — every network looks like every other and in trying to understand them through seeing them as networks, we lose sense of what's within. She suggests focusing less on `forms` and more on `forces`: "—the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally" @munsterAesthesiaNetworksConjunctive2013
+Anna Munster suggests that the form of networks numbs us to their relationality — every network looks like every other and in trying to understand them through seeing them as networks, we lose sense of what's within. She suggests focusing less on `forms` and more on `forces`: "—the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally" [@munsterAesthesiaNetworksConjunctive2013]
 
-Like Erin Manning's a spiral is "more duration than form" @manningAlwaysMoreOne2013 "From habit to invention, from technique to improvisation, the form becomes a folding-through of time in the making." // "An occasion is less an object or a body than a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body. The how or the expressivity of this relational node is the occasion’s subjective form."
+Like Erin Manning's a spiral is "more duration than form" [@manningAlwaysMoreOne2013] "From habit to invention, from technique to improvisation, the form becomes a folding-through of time in the making." // "An occasion is less an object or a body than a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body. The how or the expressivity of this relational node is the occasion’s subjective form."
 
 ### Techno
 
@@ -800,12 +798,15 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Birdsong, Mia. 2020. *How We Show Up*
 - brown, adrienne marie. 2021. *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
 - Browne, Simone. 
+- 
 - Cerankowski, K. J. (2021). *Suture: Trauma and trans becoming.* Punctum Books.
   - >"we cannot and must not contain ourselves as we spill into the world and onto and into each other. This spillage is about intersubjectivity — how we touch as we are being touched, how we leave marks on one another, how we leak onto and into one another, how we are always moving through each other, how we haunt one another, and how no story is ever just ours even as we have our own stories to tell."
 - Chun, W.H.K. 2022. *Discriminating Data*
 - Chun, W.H.K. 2015. *Updating to Remain the Same.*
 - Chun, W.H.K. 2009. "Race and/as Technology; or How to Do Things to Race." *Camera Obscura* 24:1
 - Chun, W.H.K. 2008. "On 'Sourcery', or Code as Fetish"
+- Calvino, I. 1976. "The Burning of the Abominable House." *Numbers in the Dark*. Trans 1995. 
+- Calvino, I., & Parks, T. (1995). Numbers in the dark: And other stories (1st American ed). Pantheon Books.
 - Cox, G. and Soon, W. (2020). Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press.
 - Crawford, K., & Joler, V. (2018). Anatomy of an AI System. http://www.anatomyof.ai
 - Crawford, K. (2021). *Atlas of AI: power, politics, and the planetary costs of artificial intelligence.* Yale UP. 
@@ -830,6 +831,7 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - McKinney, Cait. *Information Activism: A Queer History of Lesbian Media Technologies.*
 - McPherson, T. (2018). *Feminist in a Software Lab: Difference + Design.* Harvard UP.
 - McQuillan, D. (2022). *Resisting AI*. Bristol UP. 
+- Nake, F. (1971). "There Should Be No Computer Art." Bulletin of the Computer Arts Society.
 - Olufemi, L. (2021). *Experiments in Imagining Otherwise.* Hajar Press.
 - Raley, R. (2007). "Interferences: [Net.Writing] and the Practice of Codework." *Electronic Book Review.* http://electronicbookreview.com/essay/interferences-net-writing-and-the-practice-of-codework/
 - Raley, R. (2009) *Tactical Media* U of Minnesota P.
@@ -840,11 +842,12 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Sedgwick, E. K. (2012). "Making things, practicing emptiness." *The weather in Proust*. Duke UP.
 - Schwarz, C. (2010). *The Anarchist’s Tool Chest*. Lost Art Press.
 - Shanahan, Murray. (2022). "Talking about Large Language Models." 
-- Sunder, A. (2022). "Performing Spectres: Deliberate Images, Intended Metaphors." *Platforms: Around, In Between, and Through.* Ed. Sunder, A. *Natasha,* Singapore Biennale.
-  - >"the regulation of non-presence is not only the bedrock on which certain kinds of technologies are built and function, but how they also affect the ways in which we out to look at images arising from them"  
 - Soon, Winnie, and Geoff Cox. 2020. *Aesthetic Programming.* 
     [gitVersion](https://gitlab.com/aesthetic-programming/book/-/tree/master/source]
 - Soulellis, P. (2019). "URGENTCRAFT." https://soulellis.com/work/urgentcraft/index.html
+- Stark, L., & Crawford, K. (2019). The Work of Art in the Age of Artificial Intelligence: What Artists Can Teach Us About the Ethics of Data Practice. Surveillance & Society, 17(3/4), 442–455. https://doi.org/10.24908/ss.v17i3/4.10821
+- Sunder, A. (2022). "Performing Spectres: Deliberate Images, Intended Metaphors." *Platforms: Around, In Between, and Through.* Ed. Sunder, A. *Natasha,* Singapore Biennale.
+  - >"the regulation of non-presence is not only the bedrock on which certain kinds of technologies are built and function, but how they also affect the ways in which we out to look at images arising from them"  
 - Thorp, J. (2021). *Living with Data.*
 - Vee, Annette. 2017. *Coding Literacy.*
 - Willis, H. (2016) *Fast Forward: The Future(s) of the Cinematic Arts.* Wallflower Press.
