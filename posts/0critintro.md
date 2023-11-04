@@ -3,9 +3,8 @@ layout: post
 permalink: intro
 title: critical introduction
 nav_order: 2
-date: 31.10.2023
+date: 1.11.2023
 tags: [introduction, theory, practice, hybrid, academic]
-# bibliography: ['includes/bibliography.bib']
 ---
 
 * TOC
@@ -13,7 +12,7 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Trans*formative TechnoCraft
 
-To build safer, more equitable AI systems, we need stronger creative–critical coding communities. To build these communities, we need approachable, critical perspectives on AI systems. Both efforts cannot exist without each other.
+To build safer, more
 
 ## Creative–Critical–Care Entanglements
 
@@ -145,70 +144,72 @@ Marino, code is collaborative:
 
 ### Trans\*formative
 
-Trans\*formative here means emergent, embodied, embedded practices. It means process-oriented, community-oriented practices. It makes space for and honors what we figure out as we go along, what we [adjust and tailor to the goals and needs of specific situations and we operate in community --[XXXhow to say this better?]]. 
+Trans\*formative here means emergent, embodied, embedded practices. It means process-oriented, community-oriented practices. It means making space for and honoring what we figure out as we go along, [adjusting and tailoring to the needs and goals of our specific situations as we operate in community]. 
 
-'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care and reorienting the priorities embedded within communities, objects, and practices.[cite][^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
+'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair beyond punishment, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care and reorienting the values embedded within technical objects and practices.[cite][^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
 
->"From the design to the production to the deployment to the outcome, there is constantly bias built in" ("The Activist Dismantling Racist Algorithms" MIT Technology Review). (continues) "It’s not just the biases of the people themselves; it’s the inherent bias within the system. There’s so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don’t believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled."
+>"From the design to the production to the deployment to the outcome, there is constantly bias built in. It's not just the biases of the people themselves; it’s the inherent bias within the system. There's so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don't believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled." (Hamid Khan interviewed in @ryan-mosleyActivistDismantlingRacist2020) 
 
 [^reparative]: Reparative and restorative processing are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBTQIA+ histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions]. 
 
 <!-- "politics of creation, prefigurative politics" -->
 
-Trans\*formative is an active, prefigurative [footnote] stance. It aligns the term `processing` and its synonym `programming`, combining embodied cognitive and computational practices, digital and digestive practices. Processing means central processing unit, and it means working through personal, communal, and generational trauma. It means both works-in-process and algorithmic processes. Ongoing processing not fixed programmed states. Let's inspect further...
+Trans\*formative is an active, prefigurative[footnote] stance. It brings `programming` closer to its synonym `processing`, combining computational practices with emotional ones, digital with digestive. Trans\*formative processing refers both to processing units (CPUs, GPUs, NPUs) and also to processing personal, communal, and generational trauma. It means both works-in-progress and algorithmic processes. Ongoing processing not fixed programmed states. Let's inspect further...
 
->>"Revolutionary movements require a teleological pool from which to draw. The imagination is that teleological pool: it not only creates liberatory drives; it sustains, justifies and legitimises them. It undoes entire epistemes and clears a space for us to create something new. Though this 'newness', or the demand for something else, can never fully be realised in the realm of the discursive, it exists in other registers: it can be felt, heard, touched, tasted. The structural limits of this world restrict our ability to articulate all that the imagination is capable of conceiving. Do not forget this." @olufemiExperimentsImaginingOtherwise2021
+[^prefigurative]: `Prefigurative` just means embodying our values, making it "a daily endeavor of creating the world we want." and "our actions create the world we want right now, we don’t have to wait for the revolution to start another, better world." [@bransonPracticalAnarchismGuide2022].
+
+>>"Revolutionary movements require a teleological pool from which to draw. The imagination is that teleological pool: it not only creates liberatory drives; it sustains, justifies and legitimises them. It undoes entire epistemes and clears a space for us to create something new. Though this 'newness', or the demand for something else, can never fully be realised in the realm of the discursive, it exists in other registers: it can be felt, heard, touched, tasted. The structural limits of this world restrict our ability to articulate all that the imagination is capable of conceiving. Do not forget this." [@olufemiExperimentsImaginingOtherwise2021]
 
 #### Transformers
 
-Transformers are the kinds of machine learning architectures currently being employed to create large models like ChatGPT and Stable Diffusion. They are good at digesting large clumps of text, images, video (each as numbers) and reconstituting them. Their main parts are called encoders and decoders, and it's often said that we don't know what exactly is going on in these hidden layers. But I find it  more interesting that *they* do not know what is going on in these hidden layers of their own architecture. While they process and produce meaning (input and output), they are not "aware" of the meaning of the content they are processing along the way. 
+Transformers are a current type of machine learning architecture being employed to create large models like ChatGPT and Stable Diffusion.[^techterms] They are good at digesting large clumps of text, images, video — all interpreted as numbers — and reconstituting them. Transformers main parts are called encoders and decoders, and it's often said that even their designers don't know what exactly is going on in these hidden layers. We can discuss the specifics of that elsewhere (see Interstitial: Codes for Un/Knowing). I find it more interesting that the *transformers themselves* do not know what is going on in these hidden layers of the own architecture — despite all the anthropomorphizing of AI systems, with widespread use of terms like "learning" and "understanding." While they process and produce meaning (input and output), transformers are never "aware" of the meaning of the content they are processing along the way. They are just crunching numbers.
 
-Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known. [cite]
+Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees[^techterms] to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known. [@browneDarkMattersSurveillance2015, @benjaminRaceTechnologyAbolitionist2019, @joqueRevolutionaryMathematicsArtificial2022]
 
-The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate context through a mechanism called "self-attention" that examines the word-units surrounding each word-unit they interpret. @vaswaniAttentionAllYou2023 We need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference rather than erase it.  
+The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate text context through a mechanism called "self-attention" that examines a selection of word-units surrounding each word-unit they interpret. [@vaswaniAttentionAllYou2023] As they proceed, they use this interpretation to predict the next most likely word to appear in a sentence, based on the words that have commonly appeared near the last few words before. 
+
+But we need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference - rather than erase it.  
 
 <!-- each of these para could be expanded. in critAI-genAI paper? -->
 
+[^techterms]: For more explanation of terms, see "A Critical Field Guide for Working with Machine Learning Datasets" and "Intersectional AI Toolkit."
+
 #### Trans\*
 
-* **trans\***: inclusive, fluid, nonbinary, change-focused, self-identifying, embodied & emergent, evolving. the asterisk searches for anything that follows; it opens up space for the layered and undefinable.  
-* **trans*formative**: emergent, embedded, justice-oriented, ethical, community practices
+To move from the "transformer" model architecture to trans\*formative tech (and from tech to technocraft) means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in, speaking nearby, walking beside, being constituted and supported by, and supporting in turn.
 
-To move from the "transformer" model architecture to trans*formative tech (and from tech to technocraft) means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in it, speaking nearby, walking beside, realizing what of it constitutes us or supports us.
+This work is about trans\*formation through trans\*lation and trans\*disciplinarity[^transdis] and trans\*gression.[^hooksTransgress] It lays the groundwork to imagine trans\*formers otherwise, to imagine [emergent/co-existing technological systems] at a slant, on the bias rather than always-already biased. It calls for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough).[@dogparkdissidentsQueerFuckYou, @keelingQueerOS2014] 
 
-This work is about trans\*formation through trans\*lation and trans\*disciplinarity and trans\*gression.[^hooksTransgress] It wants to imagine trans\*formers [and other emergent/co-existing technological systems] otherwise, at a slant.  — for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough). 
+[^transdis]: Trans\*disciplinary includes multidisciplinary and interdisciplinary — across and combined and between — plus what emerges when those diffractions become more than the sum of their parts. [@visResearchPeopleWho2021]
 
-[^hooksTransgress]: As in "teaching that enables transgressions – a movement against and beyond boundaries." @hooksTeachingTransgressEducation1994
+[^hooksTransgress]: As in "teaching that enables transgressions – a movement against and beyond boundaries." [@hooksTeachingTransgressEducation1994]
 
 >"queer as [in] being about the self that is at odds with everything around it and has to invent, create and find a place to speak, and to thrive and to live"
 >>—bell hooks
 
-Trans\* can be inclusive, fluid, in motion, outside binary logics, self-identifying, evolving, emergent, embodied. Trans\*formative TechnoCraft imagines systems that can also have these qualities, that can trans\*cend the logics constructed by capitalist, militaristic, racist, ableist, misogynistic lineages. 
+This approach to technological trans\*lation and trans\*formation has no prerequisites. We are already queer-enough, coder-enough, valued-enough to participate in continually becoming. We are "always-already programming."[@AlwaysalreadyprogrammingMd] (See "Coding.Care")
 
-Trans\*disciplinary includes multidisciplinary and interdisciplinary — across and combined and between — and it also imagines the practice of across and combined and between as more than the sum of its parts. @visResearchPeopleWho2021
+Trans\* can be inclusive, fluid, in motion, outside binary logics, self-identifying, evolving, emergent, embodied. *Trans\*formative TechnoCraft* imagines systems that can also have these qualities, that can trans\*cend the logics constructed by capitalist, militaristic, racist, ableist, misogynistic lineages. 
 
-This approach to technological trans\*lation and trans\*formation is without prerequisite. We are already queer-enough, coder-enough, valued-enough to participate in continually becoming. We are "always-already programming."@AlwaysalreadyprogrammingMd 
+>"queerness is itself inherent within [the history of] computational logic, [...yet] there exists a structuring logic to computational systems that, while nearly totalizing, does not account for all forms of knowledge, and which excludes certain acts, behaviors, and modes of being." [@gabouryQueerHistoryComputing2013d]
 
->"queerness is itself inherent within computational logic, and that this queerness becomes visible when we investigate those cleavages that partition the lives of these men into distinct technical and sexual spheres of existence. Ultimately [...]there exists a structuring logic to computational systems that, while nearly totalizing, does not account for all forms of knowledge, and which excludes certain acts, behaviors, and modes of being." 
->>Gaboury, J. (2013, February 19). A Queer History of Computing. Rhizome. http://rhizome.org/editorial/2013/feb/19/queer-computing-1/
+(See also trans\*feminist and crip technosciences below)
 
-*(See also trans\*feminist technoscience and crip technoscience)*
-
-Trans\* also finds the queer reverberations in the transducers all around us that constitute and reinforce computational systems. A transducer (from Latin for `lead across`) converts physical signals into electrical signals, or vice versa. Trans\*ducers are intermediaries that allow the trans\*fer between analogue to digital. Every time information gets trans\*mitted from an environmental sensor to a digital device — sound waves into audio files, pressure into heart rate [XXXexample] — trans\*duction has occurred, and thus some kind of trans\*formation. (Note how many times trans\*-ness appears in sites of cybernetic knowing.) These reimaginings of information's forms are always interventions, informed by the device designers' decisions and both contemporary and historical computational ways of knowing. The material conversions required to power the logics of computation (turning qualities into voltages into quantities) all pass through gates of trans\* thinking. 
+Trans\* also finds queer reverberations in the transducers all around us that constitute and reinforce computational systems. A transducer (from Latin for `lead across`) converts physical signals into electrical signals, or vice versa. Trans\*ducers are intermediaries that allow the trans\*fer between analogue to digital. Every time information gets trans\*mitted from an environmental sensor to a digital device — sound waves into audio files, pressure into heart rate [XXX,example] — trans\*duction has occurred, and thus some kind of trans\*formation. (Note how many times trans\*-ness appears in sites of cybernetic knowing.) These reimaginings of information's forms are always interventions, informed by the device designers' decisions as well as both contemporary and historical approaches to computational knowing. The material conversions required to power the logics of computation (turning qualities into voltages into quantities) all pass through gates of trans\* thinking. 
 
 #### \*
 
-The `\*` after `trans` longs for anything that follows; it opens up space for the layered and undefinable becoming, and as such can include anyone who wonders if they belong, who wonders what they contribute, who wonders what "this whole thing" is about (be it gender, sexuality, technology, whatever). 
+The `*` after `trans` longs for anything that follows; it opens up space for the layered and undefinable becoming, and as such can include anyone who wonders if they belong, who wonders what they contribute, who wonders what "this whole thing" is about (be it gender, sexuality, technology, whatever). 
 
 Combined with trans, or at large, the asterisk is the interstitial. It is a footnote that defines our terms, and also it is the invitation to extend beyond any definition given. 
 
-The asterisk is a perturbation, a pebble in the shoe. In the German language, the gendering of nouns and verbs is haphazardly addressed by an asterisk that breaks the word, introduces a glottal stop between its 'masculine' and 'feminine' formations. `Student` or `Studentin` becomes `Student*in`; `Bäcker` or `Bäckerin` becomes `Bäcker*in`. This brief interruption can be read as a faulty solution that maintains gender-as-binary, it's true. And also, this hesitation adds a frequent awkwardness that highlights how often conversation is about gender unnecessarily. It physically opens up a space (in the mouth) where gender is unknown/all. 
+The asterisk is a perturbation, a pebble in the shoe. In the German language, the gendering of nouns and verbs is haphazardly addressed by an asterisk that breaks the word, introduces a glottal stop between its 'masculine' and 'feminine' formations. `Student` or `Studentin` becomes `Student*in`; `Bäcker` or `Bäckerin` becomes `Bäcker*in`. This brief interruption can be read as a faulty solution that maintains gender-as-binary, it's true. And also, this hesitation adds a frequent awkwardness that highlights how often conversation is about gender unnecessarily. It physically opens up a space (in the mouth) where gender is unknown/unstable/all. 
 
-A French or English apostrophe may mark an omission of letters, but this elision also joins together, suturing up the distance it creates. I see this tension also in the asterisk here, a clot that heals, an unspeakable but audible gasp. 
+A French or English apostrophe may mark an omission of letters, but this elision also joins together, suturing up the distance it creates. The asterisk shares this tension here, as a clot that heals, an unspeakable but audible gasp. 
 
 Like the apostrophe at the start of `'pataphysics`, which gestures to the absurdity from which it springs, the asterisk is the instigator and the multiplier, the pivot and the punctum and the portal.
 
-It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not the redaction the asterisks mark, but the possibilities of the unknown language underneath. Or the tension of knowing and not saying, in the reading of sw*@r words. 
+It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not a redaction which the asterisk marks, but the possibilities of unknown language underneath. Or the tension of knowing and not saying, as in the marking of sw*@\r words. [Again, queer as a politics, "queer as in fuck you."] 
 
 The asterisk is risk (just a step), is star, is A-star pathfinding, [weak-star topologies [^infinite vector space],] ASCII joy, a wry smile, and a mark of possibility on a treasure map. 
 
@@ -357,6 +358,11 @@ TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybri
 Anna Munster suggests that the form of networks numbs us to their relationality — every network looks like every other and in trying to understand them through seeing them as networks, we lose sense of what's within. She suggests focusing less on `forms` and more on `forces`: "—the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally" [@munsterAesthesiaNetworksConjunctive2013]
 
 Like Erin Manning's a spiral is "more duration than form" [@manningAlwaysMoreOne2013] "From habit to invention, from technique to improvisation, the form becomes a folding-through of time in the making." // "An occasion is less an object or a body than a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body. The how or the expressivity of this relational node is the occasion’s subjective form."
+
+//
+Thus, trans\*formative means 
+* **trans*formative**: emergent, embedded, justice-oriented, ethical, community practices taking shape and making change. 
+
 
 ### Techno
 

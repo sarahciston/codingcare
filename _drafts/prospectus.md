@@ -27,19 +27,19 @@ tags: [prospectus, dissertation]
 
 - [ ] **01 DEC (08 DEC) Send Chairs Complete Draft**
 - [ ] (27 NOV-08 DEC) (Sprint 6 if needed)
-- [ ] 13-25 NOV Sprint 5: Introduction & Conclusion (Unsupervised Pleasures/Critical AI essay (goes in IAITK?))
+- [ ] 13-25 NOV Sprint 5: Introduction & Conclusion (Critical AI essay (goes in IAITK?))
 - [ ] *12 NOV Send Writing to Tara, Rita*
 - [ ] 30 OCT-11 NOV Sprint 4: Interstitial Essays & Introduction
-- [ ] *29 OCT Send Writing to Holly, +?*
-- [ ] 16-28 OCT Sprint 3: Critical Field Guide & Coding Care (second half) or/& Introduction
-- [ ] *15 OCT Send Writing to Tara(?), +?*
-- [ ] 02-14 OCT Sprint 2: Intersectional AI Toolkit & Coding Care (second half) or/& Introduction 
-- [ ] *01 OCT Send Writing to Holly, +?Rita*
-- [x] 18-30 SEP Sprint 1: **Coding Care** (first half) & Introduction
+- [ ] ~~*29 OCT Send Writing to Holly, +?*~~
+- [ ] ~~16-28 OCT Sprint 3: Critical Field Guide & Coding Care (second half) or/& Introduction~~
+- [ ] ~~*15 OCT Send Writing to Tara(?), +?*~~
+- [ ] ~~02-14 OCT Sprint 2: Intersectional AI Toolkit & Coding Care (second half) or/& Introduction~~
+- [ ] ~~*01 OCT Send Writing to Holly, +?Rita*~~
+- [x] ~~18-30 SEP Sprint 1: **Coding Care** (first half) & Introduction~~
 
 
-Writing Weeks Left: 16 weeks (inc holidays)
-Drafting Weeks: 08 (10)
+Writing Weeks Left: 12 weeks (inc holidays)
+Drafting Weeks: 04 (05)
 
 ### chapter outline (fantasy table of contents)
 00. What is this document, What Is Coding Care [status:] 

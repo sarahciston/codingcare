@@ -111,6 +111,15 @@ h4 {
   border-color: cyan;
 }
 
+.hide {
+  display: none;
+}
+
+.footnote:hover + .hide {
+  display: block;
+  color: red;
+}
+
 /*
   Mobile First! Put desktop styles below
 */
