@@ -9,9 +9,6 @@ date: 02.11.2023
 <!-- knots instead of threads, threnodies -->
 <!-- data bodies, drone aesthetics, interpolated and interpellated states -->
 
-
-
-
 I am still alive, On Kawara. I think about your postcards often. I find your dailiness remarkable. What it takes to get up in the morning. What it takes to make a painting, a life, a day after day. 
 
 <!-- A simple act of reporting. Distributing data, is always personal.  -->
@@ -34,7 +31,7 @@ I felt young and girlish when I made art with data. I got comments like, "Are yo
 
 <!-- I want to fill a room with e-ink screens and  -->
 
-Later I made artworks that asked people to bring their data with them. I asked for compassion, in small portable phrases — ones that could be turned from sound into writing into data packets into sound again. 
+Later I made artworks that asked people to bring their data with them. I asked for compassion, in small portable phrases — ones that could be turned from sound into writing into data packets into sound again. Some people seemed upset I was asking, said I was being too polite.
 
 I got a tattoo on my arm written in calculator font that says "IT'S OKAY TO CRY," after the song by Sophie Xeon. SOPHIE died in 2021 when she slipped and fell while climbing up to look at the moon. My tattoo artist [Ren] created a series of flash pieces honoring her life and work as a musician, producer, and trans rights activist. 
 
@@ -65,6 +62,10 @@ who decides these things, the poetics of code standards societies
 What does it mean to remind you (or me) that I am still alive? For audre lorde this is an act of revolution just even to live in spite of powerful forces that strive to extinguish you. Many of us [others] live on the backs of other people. Others love as [acts of devotion/devotional acts].
 
 The smooth silence of drone footage over destruction. The glide above bombs and voice over. 
+
+Someone reminds me it is not my responsibility to keep other people alive, no matter how much I care for them. But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing with dramatic speed. Unaliving at accelerating pace. 
+
+Unalive is the rewriting of unspeakable death to avoid censorship by platforms, which are not reading for context. They do not read between the lines (though they can tell the difference between a male nipple and a female nipple even though gender is not real), and so we must spell out new stuttering formulations like `s3x` and `~~death~~` and `les-bean`. 
 
 This is about knots instead of threads. This is about staying in bed. I have covid again. Having covid and long covid at the same time is weird. Is this the only time I write essays? I watched the Hitchcock film *Rope* last time I had covid. We may talk more than the average family about murder and other kinds of death. Justifiable homicide. Euthenasia. 
 
