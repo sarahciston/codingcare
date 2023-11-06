@@ -211,82 +211,85 @@ Like the apostrophe at the start of `'pataphysics`, which gestures to the absurd
 
 It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not a redaction which the asterisk marks, but the possibilities of unknown language underneath. Or the tension of knowing and not saying, as in the marking of sw*@\r words. [Again, queer as a politics, "queer as in fuck you."] 
 
-The asterisk is risk (just a step), is star, is A-star pathfinding, [weak-star topologies [^infinite vector space],] ASCII joy, a wry smile, and a mark of possibility on a treasure map. 
+The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. In mathematics the asterisk is duality, mirrors mirroring each other, points connecting to make lines and lines crossing to make points, weak-star topologies and infinite vector space. This returns us to the word vectors and latent spaces of transformers.[CITEMiller] 
 
-[The mathematical asterisk (star) represents duality, mirrors mirroring each other: Points connect to make lines and lines cross to make points.[CITE Miller]] 
+And all this comes back to nearness and distance, how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values could rule instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? 
+~~What about activation functions that put these on XY axes and tamper with the expectations/intuitions?~~
 
-[^infinite vector space]: We'll come back to this and how it relates to infinite vector space and transformers and machine learning, so don't worry if you don't know. (I also asked ChatGPT to re-explain it to me like I know no math, and that helped.) And how is it that all this comes back to nearness and distance, and how similarity and difference are mapped onto nearness and distance. What about nearness and difference, similarity and distance, what about reversing the polarities? What about activation functions that put these on XY axes and tamper with the expectations/intuitions? 
+The \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. [Here's a brief interstitial...] In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`]()[^splines] or smoothing. These methods of interpolation are methods of creating or locating nearbyness. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate values at a position based on values from a nearby position. 
 
-Again, the \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. [Here's a brief interstitial...] In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`]()[^splines] or smoothing. These methods of interpolation are methods of creating or locating nearbyness. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate values at a position based on values from a nearby position. 
+But I always mix up the terms `interpolate` and `interpellate`. To `interpellate` is to interrupt or intercede (again like interstitial) or to summon, cite, call out. Shall I interpolate the distance between `interpolate` and `interpellate`? Frantz Fanon describes being called out as a racialized body and witnessing himself as another person's brutal interpretation.[^Fanon] Louis Althusser describes being hailed by a representative of the State apparatus and understanding it is himself who is meant.[^Althusser] Both these interpellations are about being seen, about the necessity of submitting to this seeing, about shame. These interpellations are also crossing a distance, creating a nearness, pulling close under duress. This distance is a street or sidewalk, and it is also the conceptual distance between how someone else understands us and how we wish to be known. 
 
-But I always mix up the terms `interpolate` and `interpellate`. To `interpellate` is to interrupt or intercede (again like interstitial) or to summons, cite, call out. Shall I interpolate the distance between `interpolate` and `interpellate`? Frantz Fanon describes being called out as a racialized body and witnessing himself as another person's brutal interpretation.[^Fanon] Louis Althusser describes being hailed by a representative of the State apparatus and understanding it is himself who they mean.[^Althusser] Both these interpellations are about being seen, being seen and shamed and submitting to this seeing. These interpellations are also crossing a distance, creating a nearness. This distance is a street or sidewalk, and it is also the conceptual distance between how someone else understands us and how we wish to be known. 
-
-Interpolation divides up distance, quantifies it, makes it possible to cross. Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual to the general, as laid out in classificatory schemas (created from collections of other interpellated individuals). Computationally, proximity helps us jump to conclusions about each other. 
-
-*Do you know how many kinds of measurements of distance there are? How many dimensions and ways to fold them?* [Anna Munster antethsis of networks, emphasis on nodes vs relations] *and how many algorithms for pathfinding, optimizing our ways across these spaces we've created everything about space and time and how to make more and less of it*
-
-Can we write a theory of nearbyness (near-bi-ness)? Not nearness as measure, not proximity and similarity scores, not K-means and K-nearest-neighbors. A working theory of a different kind, that treats `nearbyness` as a practice for `attending-to`, not `nearness` as a study for `assumption-making`. It announces through its enactment of nearbyness — what it places side-by-side, in conversation, in contact, in tecture, in tension — that, and how, and why its elements require each other and the more-than their contact or nearbyness creates. This is a trans\*disciplinary practice, as more than the sum of its combined fields or niches, and it is a trans\*[XXXsomethingelse][XXXpracticetoo]. 
-
-[^splines]: Splines were physical, flexible materials used for calculations involved in ship building and arch building.  
+[^splines]: Splines were originally the physical, flexible materials used to create curves between points, used for calculations involved in arches, domes, and ship building.  
 
 [^Fanon]: Fanon, F. 1967. Black Skin, White Masks, trans. Charles Lam Markmann.
 
 [^Althusser]: Althusser, L. 1970. "Ideology and Ideological State Apparatuses (Notes towards an Investigation)"
 
+Interpolation divides up distance, quantifies it, makes it possible to cross (it leaps Zeno's paradox with stepping stones). Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual, through generalization. It pins one down to classificatory schemas (created from collections of other interpellated individuals). [These are weak-star topologies?.] Computationally, proximity helps us jump to conclusions about each other. 
 
+*How many kinds of measurements of distance are there? How many dimensions and ways to fold them?* 
 
-##### Formative 
+[Anna Munster antethsis of networks, emphasis on nodes vs relations] 
 
-* **formative**: fundamental, foundational experiences. what shapes us
+*We have created so many algorithms for pathfinding. We are constantly optimizing our ways across these spaces. We've created everything about space and time, and how to make more and less of it.*
 
-**Nearbyness**
+#### Nearbyness
 
-This operation by nearbyness brings us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like. It is a machine learning task, an un-machine un-learning task, to decide how information goes together or does not, to find patterns in a system. It is a very human activity. This project enacts the process through feeling. (Flusseur's writing is a cutting away, Benjamin's is a collector's fever dream.)
+I want to write a theory of nearbyness (near-bi-ness) that is not a theory of nearness. Not nearness as measures and scores, not proximity and similarity, not K-means and K-nearest-neighbors. This is `nearbyness` as a practice for `attending-to`, not `nearness` as a study for `assumption-making`. Nearbyness enacts — through what it places side-by-side, in conversation, in contact, in texture, in tension — that, and how, and why its elements require each other. Nearbyness prefigures the more-than which this closeness creates. This is a trans\*disciplinary practice, as more than the sum of its combined fields or niches, and it is a trans\*formative practice too. 
 
->"[Writing] has nothing to do with constructing. It is, on the contrary, a taking away, a de-structing. It is, both structurally and historically, closer to sculpture than to architecture. It is a gesture of making holes, of digging, of perforating. A penetrating gesture. To write is to in-scribe, to penetrate a surface," 
+These operations of nearbyness bring us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. This project enacts the process through feeling. For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream.
+
+[^Flusser]: "[Writing] has nothing to do with constructing. It is, on the contrary, a taking away, a de-structing. It is, both structurally and historically, closer to sculpture than to architecture. It is a gesture of making holes, of digging, of perforating. A penetrating gesture. To write is to in-scribe, to penetrate a surface," 
+
+This nearbyness responds to computational values of compartmentalizing, modularity, and encapsulation. These silo off data from the code that operates on it. They separate disciplinary discources from politics and from each other. They separate for efficiency and understanding, security and containment. As Tara McPherson argues, computation's modular values emerged simultaneously with and in response to the civil rights movement in the US: "the very structures of digital computation correspond to larger cultural shifts that seek to cordon off race and to contain it" [-@mcphersonFeministSoftwareLab2018]. From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, these projects deny their entanglements. Nearbyness resists this denial through reuniting them in conversation. 
+
+McPherson's metaphor of "lenticular" postcards, which show two separate images when viewed from different angles, demonstrate how modularity allows for invisibility, despite proximity. She argues that lenticular perspectives position "our understandings of race in very narrow registers, fixating on sameness or difference while forestalling connection and interrelation. [...] A lenticular logic is a logic of the fragment or the chunk, a way of seeing the world as discrete modules or levels, a mode that suppresses relation and context." [XXX add Chun's promiscuous/leaky/slutty data]
+
+<!-- "/ this is the same way i began the mfa thesis, in a google doc by not beginning it, collecting fragments when i couldn’t write, then making a form for them in code / i could still vacuum back up the pieces of everything i had collected before now, write with the machine of me and the machines i have learned along the way.  -->
+
+<!-- Elsewhere I have written "an app could include everything I've been researching? strawflower/i'm still alive? what would i do with it as a performance?" "A creative writing code-creative-critical lyric essay hybrid digital work imbued with data xr ar read over zoom experienced through plexiglass something about how we are together not together keeping it barely together" -->
 
 <!-- something about accumulation and cutting away, about pattern finding in collections of data as reverse proxies for making and testing theories, contraposed knowledge generating systems  -->
 
-<!-- dream --> 
 <!-- Dream Platform, Manifesto & Prototype -->
 
+#### Formative 
 
-//wilson's dream about the points of light (research is ceremony)
+>"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
+
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, and frustrated how to even make my own. 
 
 
-I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes I have written "semantic web layer cake" and "Gollum?" Is this some monster platform, am I the only one who wants this? Usually I imagine the things I want already exist — because how complicated could they be? — and then I try to find some extant version and come up empty and frustrated how to even make my own. 
 
-Elsewhere I have written "an app could include everything I've been researching? strawflower/i'm still alive? what would i do with it as a performance?" "A creative writing code-creative-critical lyric essay hybrid digital work imbued with data xr ar read over zoom experienced through plexiglass something about how we are together not together keeping it barely together
+**Foundations & Scaffolds**
 
-"/ this is the same way i began the mfa thesis, in a google doc by not beginning it, collecting fragments when i couldn’t write, then making a form for them in code / i could still vacuum back up the pieces of everything i had collected before now, write with the machine of me and the machines i have learned along the way. 
+What is formative shapes us. Our early experiences make us who we are. These are the foundations we can't see, the scaffolding of our thought, the infrastructures of our being. I am interested in the formative aspects of sociotechncial systems, produced in entangled loops of human networks, codified language, and rare earth. How we become. How we become with and through sociotechnical systems. 
 
-**"I am a writing machine**
+Each of the works that follow asks: What are the fundamental assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? What are the formative assumptions underlying any technology or way of being? These works tease out the metaphors we have relied on so long we can no longer see them; they ask what other metaphors might make space for new forms or reforms.
 
-"or i could make a tool, or a set of tools, or a guide to tools"
+**Form-Content Loops**
+
+Form in-forms content. The shape of the container decides what can fill it. [I work in code and in art because I believe:] If I know how to make forms, or even platforms, not only the content to plug into existing forms, I am more free to work both form and content in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. They are inseparable.
+
+In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. 
+
+Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. Sarah Sharma reminds us, the Broken Machines who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+
+~~[We create formative structures (taxonomies, schemas, ways of knowing) to support unknowing, to ease and smooth the passage across our days, across our systems.]~~
+Code forms, pattern templates, like initializing classes to instantiate objects in object-oriented programming. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.  
+
+**Re-Tooling Tech**
+
+If forms shape content, and vice versa, of course tools also shape forms. Equipping ourselves with the knowledge, resources, and agency to make the tools (to make the platforms to make the forms to make the content) is necessary for a more holistic approach to researching formative tech and creating trans\*formative tech. Toolmaking includes collecting sets of tools, documenting and creating guides to existing tools as well. It also includes the infrastructures and support systems necessary to make any of these practices possible.
+
+>"tools and infrastructure are not only the preconditions for the work; at their best, they are also part and parcel of the work, deeply integrated into its methods and outcomes. Our tools and infrastructures are rich objects to think with." [@mcphersonFeministSoftwareLab2018]
+
+**I am a writing machine**
 
 *could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked*
 
 init --> name --> get --> set 
-
-Code forms, pattern templates, like initializing classes to instantiate objects in object-oriented programming. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.  
-
-
-<!-- Foundations -->
-
-What is formative shapes us. These are the foundations we can't see, the scaffolding of our thought, the infrastructures of our being. I am interested in the formative aspects of sociotechncial systems, produced in entangled loops of human networks, codified language, and rare earth.  
-
-Each of these works asks: What are the foundational assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? Of any technology or way of being? They tease out the metaphors applied and question what other metaphors make space for other forms.
-
-<!-- Form Content Loops -->
-
-Form in-forms content. The shape of the container decides what can fill it. If I know how to make forms, or even platforms, not only content to plug in, I am more free to work the two in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. 
-
-In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. 
-
-Computation requires information to take on its formation. Its orderly logic is a shape imposed by and a reflection of the world, both at once. It requires contortion to represent us. Sarah Sharma reminds us, as the Broken Machines who do not quite fit these regimes: "to represent is also to be filed away." [@sharmaManifestoBrokenMachine2020] To understand through computation is to reduce to logics of categorization.[@crawfordAtlasAIPower2021] This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
-
-[//]: # "does this belong in intersectional AI?"
-
 
 
 >"frictioned technologies" @hamraieCripTechnoscienceManifesto2019a 
@@ -308,6 +311,8 @@ Louise Hickman's ethnographic work on the ethics of access foregrounds access wo
 [CITEMingus]
 
 <!-- trauma -->
+
+**More and less than form**
 <!-- indigenous research methods -->
 
 Develop forms, formats, and methods "on the terms of" the communities they are meant to represent, with their goals, values, approaches leading the work. 
