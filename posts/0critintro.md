@@ -220,7 +220,7 @@ The \* emphasizes an unspoken interstitial — interjection, interruption, inser
 
 But I always mix up the terms `interpolate` and `interpellate`. To `interpellate` is to interrupt or intercede (again like interstitial) or to summon, cite, call out. Shall I interpolate the distance between `interpolate` and `interpellate`? Frantz Fanon describes being called out as a racialized body and witnessing himself as another person's brutal interpretation.[^Fanon] Louis Althusser describes being hailed by a representative of the State apparatus and understanding it is himself who is meant.[^Althusser] Both these interpellations are about being seen, about the necessity of submitting to this seeing, about shame. These interpellations are also crossing a distance, creating a nearness, pulling close under duress. This distance is a street or sidewalk, and it is also the conceptual distance between how someone else understands us and how we wish to be known. 
 
-[^splines]: Splines were originally the physical, flexible materials used to create curves between points, used for calculations involved in arches, domes, and ship building.  
+[^splines]: Splines were originally the physical, flexible materials used to create curves between points, used for calculations involved in arches, domes, and ship building. The principle relies on the resistance in materials, on the energy required to bend. 
 
 [^Fanon]: Fanon, F. 1967. Black Skin, White Masks, trans. Charles Lam Markmann.
 
@@ -242,7 +242,7 @@ This nearbyness responds to computational values of compartmentalizing, modulari
 
 >[XXX add Chun's promiscuous/leaky/slutty data]
 
-From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, these projects deny their entanglements. Nearbyness resists this denial through reuniting them in conversation, bringing close without collapsing distinctions. 
+From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, these projects deny their entanglements. They reduce these entanglements to magnitudes of distance in vector dimensions. Nearbyness resists this denial through reuniting them in conversation, bringing close without collapsing distinctions. 
 
 >"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other's ﬂesh for one's own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It's the experience of affect, of being receptive, in real time." [@berlantCommonsInfrastructuresTroubling2016]
 
@@ -254,101 +254,71 @@ These operations of nearbyness bring us to form and formative. The assembling lo
 
 <!-- write with the machine of me and the machines i have learned along the way.  --> 
 
-
-the magnitude of the distance between them (close/far) of each dimension of the vector
-
+[//]: # "the magnitude of the distance between them (close/far) of each dimension of the vector"
 
 #### Formative 
-
->"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
-
-I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, and frustrated how to even make my own. 
-
-
-**Foundations & Scaffolds**
 
 What is formative shapes us. Our early experiences make us who we are. These are the foundations we can't see, the scaffolding of our thought, the infrastructures of our being. I am interested in the formative aspects of sociotechncial systems, produced in entangled loops of human networks, codified language, and rare earth. How we become. How we become with and through sociotechnical systems. 
 
 Each of the works that follow asks: What are the fundamental assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? What are the formative assumptions underlying any technology or way of being? These works tease out the metaphors we have relied on so long we can no longer see them; they ask what other metaphors might make space for new forms or reforms.
 
-**Form-Content Loops**
-
 Form in-forms content. The shape of the container decides what can fill it. [I work in code and in art because I believe:] If I know how to make forms, or even platforms, not only the content to plug into existing forms, I am more free to work both form and content in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. They are inseparable.
 
 In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. 
 
-Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. Sarah Sharma reminds us, the Broken Machines who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. Sarah Sharma reminds us, the Broken Machines who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
-~~[We create formative structures (taxonomies, schemas, ways of knowing) to support unknowing, to ease and smooth the passage across our days, across our systems.]~~
-Code forms, pattern templates, like initializing classes to instantiate objects in object-oriented programming. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.  
+Code forms, then calcifies. Pattern turns to template.[^oop] 
 
-**Re-Tooling Tech**
+>"The more a path is used the more a path is used. [...] When an effort becomes normal, a form is acquired." [@ahmedQueerUse2018, @ahmedQueerPhenomenologyOrientations2006]
+
+`init --> name --> get --> set`
+
+[^oop]: ~~Creating classes (initializing) in object-oriented programming) instantiates each instance of an object with the pre-determined form, adjustable only within those limits. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.~~  
 
 If forms shape content, and vice versa, of course tools also shape forms. Equipping ourselves with the knowledge, resources, and agency to make the tools (to make the platforms to make the forms to make the content) is necessary for a more holistic approach to researching formative tech and creating trans\*formative tech. Toolmaking includes collecting sets of tools, documenting and creating guides to existing tools as well. It also includes the infrastructures and support systems necessary to make any of these practices possible.
 
 >"tools and infrastructure are not only the preconditions for the work; at their best, they are also part and parcel of the work, deeply integrated into its methods and outcomes. Our tools and infrastructures are rich objects to think with." [@mcphersonFeministSoftwareLab2018]
 
-**I am a writing machine**
+All of these layers are entangled. Susan Leigh Star calls infrastructure a "fundamentally relational concept," but one that despite its embeddedness operates invisibly unless broken. She also argues that infrastructure marks membership in relational groups, as we "acquire a naturalized familiarity with its objects," practices, and standards. @starEthnographyInfrastructure1999  Thus infrastructure — and the tools, platforms, forms, and content that it consists of — also marks us as belonging, knowing, capable, welcome, or not. 
 
-*could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked*
+How do we think critically through re/making infrastructures, when they exist beyond any one of us, always relational and often invisible? By returning to, and reattuning to, the solidarities we find within and across communities, and the frictions we find within and across materials. 
 
-init --> name --> get --> set 
+Those who are left unsupported by infrastructures, those who are left out of representations or who are targeted disproportionately by digital systems, already know in deeply embodied ways about the friction they feel as they move through systems that do not easily contain their forms. Scholars Aimi Hamraie and Kelly Fritsche, authors of the "Crip Technoscience Manifesto" [-@hamraieCripTechnoscienceManifesto2019a], call these infrastructures "frictioned technologies" and emphasize:
 
+>"the skills, wisdom, resources, and hacks disabled people utilize for navigating and altering inaccessible worlds. In pushing crip technoscience as a field of research and a practice of critical 'knowing-making', we conjure frictional practices of access production, acknowledging that science and technology can be used to both produce and dismantle injustice." [-@hamraieCripTechnoscienceManifesto2019a]
 
->"frictioned technologies" @hamraieCripTechnoscienceManifesto2019a 
-Those left unsupported by infrastructures and representations know in deeply embodied ways how to talk about this where others may not (yet) feel any friction as they move through systems that easily contain their forms. Crip theory has figured out how to talk about this where other [XXX]
+Their manifesto reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs. [This holds true for many other minoritized communities as well.] 
 
->"highlight the skills, wisdom, resources, and hacks disabled people utilize for navigating and altering inaccessible worlds. In pushing crip technoscience as a field of research and a practice of critical 'knowing-making', we conjure frictional practices of access production, acknowledging that science and technology can be used to both produce and dismantle injustice." 
-
-Reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs.
-
->"In contrast to dominant forms of knowing-making for disability, we invoke crip technoscience to describe politicized practices of noncompliant knowing-making: world-building and world-dismantling practices by and with disabled people and communities that respond to intersectional systems of power, privilege, and oppression by working within and around them." 
->"Disabled people design our own tools and environments, whether by using experiential knowledge to adapt tools for daily use or by engaging in professional design practices. Crip technoscience conjures long histories of daily adaption and tinkering with built environments."
-
-- "centers disabled people as knowers and makers"
-- sees "access as friction" beyond inclusion and into material experimentation and political action that highlights the frictions of inaccessible 
-- "interdependence as political technology" to shift the goals of tech design away from independence and toward entanglement and kinship building
-- disability justice
+By centering their community as knowledge holders and creators, and by seeing "interdependence as a political technology," they shift the design goals for technology. Rather than outsiders providing services to achieve normalized individual independence, they reorient toward kinship building [-@hamraieCripTechnoscienceManifesto2019a]. 
 
 Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." [@hickmanTranscriptionWorkPractices2019a]
 [CITEMingus]
 
-<!-- trauma -->
+Thus, form is always forming from within complex systems of interrelation. Formative and transformative technologies are more (and less) than their forms. They must emerge on our own terms — from the formats and methods of the communities they serve, with our values, goals, and approaches leading the way. 
 
-<!-- Dream Platform, Manifesto & Prototype -->
+Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources. If I admit that much research starts from personal interest and intuition and then searches for communities and sources to support it, that objectivity (a feminist objectivity) is a collection of varied subjectivities [Haraway].  
+*interdependence is indigenous knowledge*
+this is something i absorb intuitively and then find the citation for after, as much research happens. 
+
+>>"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
 
 
-**More and less than form**
-<!-- indigenous research methods -->
+This can fundamentally reshape the forms and functions of research, artmaking, valuemaking — because it acknowledges the varied principles on which it is founded. For example, in Indigenous epistemologies, says Shawn Wilson, "The concepts or ideas are not as important as the relationships that went into forming them. Again, an Indigenous epistemology has systems of knowledge built upon relationships between things, rather than on the things themselves." [@wilsonResearchCeremonyIndigenous2008] Fundamentally understanding differently knowledge, objects, relationships to them, necessarily reorients one's work and the forms it takes — in deeply formative ways. 
 
-Develop forms, formats, and methods "on the terms of" the communities they are meant to represent, with their goals, values, approaches leading the work. 
-
->"after four centuries of extractionist, settler-colonial linguistic practice, linguists and other outsiders must work with indigenous languages on the terms of the communities they belong to. This includes allowing those communities to set the parameters, limits, and terms of your work – and making sure your work can benefit these communities. It includes being a listener and a supporter, even in “your” research, to how indigenous communities wish to uphold and celebrate their languages, culture, and survival." [@bjorklundAmericanistLinguisticsEthics2023]
-
-This can fundamentally reshape the forms and functions of research, artmaking, valuemaking — because it acknowledges the varied principles on which it is founded. For example, in Indigenous epistemologies, says Shawn Wilson, "The concepts or ideas are not as important as the relationships that went into forming them. Again, an Indigenous epistemology has systems of knowledge built upon relationships between things, rather than on the things themselves." [@wilsonResearchCeremonyIndigenous2008] Fundamentally understanding differently knowledge, objects, relationships to them, would necessarily reorient one's work and the forms it takes — in deeply formative ways. 
-
->"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot — a point where thousands and millions of relationships come together. These relationships come to you from the past, from the present and from your future. This is what surrounds us, and what forms us, our world, our cosmos and our reality. We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." [@wilsonResearchCeremonyIndigenous2008]
+>"We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
 
 To see form (shape, object) as relation, connection, is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). Like all verbs, then, implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
 
 
-Interdependence has been my intuitive knowledge, the pain and pleasure and fascination of my existence. 
-*interdependence is indigenous knowledge*
-this is something i absorb intuitively and then find the citation for after, as much research happens. 
-
->>"reality is the relationship that one has with the truth. Thus an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." (Wilson 73)
->>"reality is not an object but a process of relationships and an Indigenous ontology is actually the equivalent of an Indigenous epistemology" (Wilson 73)
->>"An Indigenous paradigm comes from the foundational belief that knowledge is relational. Knowledge is shared with all of creation."
-
->>Indigenous Research Paradigm: "a research paradigm is made up of four entities: ontology,epistemology, axiology and methodology. But rather than thinking of them as four separate ideas or entities, try to think of them in a circle: The entire circle is an Indigenous research paradigm. Its entities are inseparable and blend from one into the next. The whole of the paradigm is greater than the sum of its parts.[...] what Indigenous research is. Relationality seems to sum p the whole Indigenous research paradigm to me. Just as the components of the paradigm are related, the components themselves all have to do with relationships. The ontology and epistemology are based upon a process of relationships that form a mutual reality. The axiology and methodology are based upon maintaining accountability to these relationships. [...] An Indigenous research paradigm is relational and maintains relational accountability."
-
->>"An Indigenous axiology is built upon the concept of relational accountability. [...] value judgments lose their meaning. What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations." (Wilson 77) "Respect, reciprocity, and responsibility are key features in any healthy relationship and must be included in any Indigenous methodology;" 
->>"What am I contributing or giving back to the relationship?Is the sharing, growth and learning that is taking place reciprocal?"
-
->>"We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." (Wilson 76)
 
 
-Susan Leigh Star calls infrastructure a "fundamentally relational concept," but one that despite its embeddedness operates invisibly unless broken. She argues infrastructure marks membership in relational groups, as we "acquire a naturalized familiarity with its objects," practices, and standards. @starEthnographyInfrastructure1999  
+
+>>Indigenous Research Paradigm: "a research paradigm is made up of four entities: ontology, epistemology, axiology and methodology. But rather than thinking of them as four separate ideas or entities, try to think of them in a circle: The entire circle is an Indigenous research paradigm. Its entities are inseparable and blend from one into the next. The whole of the paradigm is greater than the sum of its parts.[...] what Indigenous research is. 
+>"Relationality seems to sum up the whole Indigenous research paradigm to me. Just as the components of the paradigm are related, the components themselves all have to do with relationships. The ontology and epistemology are based upon a process of relationships that form a mutual reality. The axiology and methodology are based upon maintaining accountability to these relationships. [...] An Indigenous research paradigm is relational and maintains relational accountability."
+
+>"An Indigenous axiology is built upon the concept of relational accountability. [...] value judgments lose their meaning. What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations." (Wilson 77) "Respect, reciprocity, and responsibility are key features in any healthy relationship and must be included in any Indigenous methodology;" 
+>"What am I contributing or giving back to the relationship? Is the sharing, growth and learning that is taking place reciprocal?"
 
 
 
@@ -364,17 +334,27 @@ text/code languages or expression or systems
 backend blackbox / frontend visible platforms 
 dev / user
 AI / human
+
+*could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked*
+
+**I am a writing machine**
+
+
+In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
+
 **These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
-TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934). and polyphony But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
+TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
 
 Anna Munster suggests that the form of networks numbs us to their relationality — every network looks like every other and in trying to understand them through seeing them as networks, we lose sense of what's within. She suggests focusing less on `forms` and more on `forces`: "—the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally" [@munsterAesthesiaNetworksConjunctive2013]
 
 Like Erin Manning's a spiral is "more duration than form" [@manningAlwaysMoreOne2013] "From habit to invention, from technique to improvisation, the form becomes a folding-through of time in the making." // "An occasion is less an object or a body than a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body. The how or the expressivity of this relational node is the occasion’s subjective form."
 
 //
-Thus, trans\*formative means 
-* **trans*formative**: emergent, embedded, justice-oriented, ethical, community practices taking shape and making change. 
+Thus, trans\*formative means ongoing prefigurative active community presence and practices, that are emergent, embedded, justice-oriented, ethical, taking shape and making change. 
 
+>"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
+
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, frustrated, confused, wondering where I would even begin if I wanted to make such a form on my own. 
 
 ### Techno
 
@@ -388,6 +368,10 @@ Techno means a plethora of prefix possibilities and digital-analog hybrids (thin
 
 >"This possibility of creating directed, coordinated, and controlled sets of techniken that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022]
 >"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries." Address means you are locatable in space, means you are reachable. [@dhaliwalAddressabilityWhatEven2022]
+
+>"as if they are here because they happened to fit rather than they fit because of how the structure was built." [@ahmedQueerUse2018](overfit/underfit)
+
+
 
 #### these may go in the Toolkit instead...
 
