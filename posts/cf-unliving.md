@@ -122,6 +122,9 @@ we cobble together collaborations from "i'll meet you on zoom and slack and this
 ![white metal tower](https://images.unsplash.com/uploads/1411156081190e9e751d9/c81ee291?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxOTA3MDh8MHwxfHNlYXJjaHwyMXx8cGxhdGZvcm18ZW58MHx8fA&ixlib=rb-1.2.1&q=85)
 *Photo by [Kaleb Nimz](https://unsplash.com/@kalebnimz?utm_source=jotterpad&utm_medium=referral&utm_campaign=api-credit)
 
+<!-- Elsewhere I have written "an app could include everything I've been researching? strawflower/i'm still alive? what would i do with it as a performance?" "A creative writing code-creative-critical lyric essay hybrid digital work imbued with data xr ar read over zoom experienced through plexiglass something about how we are together not together keeping it barely together" -->
+
+
 I am back to the dream where I am inventing new code languages in my sleep. Once I dreamt just two sentences, and they were these: 
 
 "I dreamt I was mapping points of non-correspondence.

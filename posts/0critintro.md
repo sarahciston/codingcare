@@ -228,38 +228,41 @@ But I always mix up the terms `interpolate` and `interpellate`. To `interpellate
 
 Interpolation divides up distance, quantifies it, makes it possible to cross (it leaps Zeno's paradox with stepping stones). Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual, through generalization. It pins one down to classificatory schemas (created from collections of other interpellated individuals). [These are weak-star topologies?.] Computationally, proximity helps us jump to conclusions about each other. 
 
-*How many kinds of measurements of distance are there? How many dimensions and ways to fold them?* 
+How many kinds of measurements of distance are there? How many dimensions and ways to fold them?
 
-[Anna Munster antethsis of networks, emphasis on nodes vs relations] 
-
-*We have created so many algorithms for pathfinding. We are constantly optimizing our ways across these spaces. We've created everything about space and time, and how to make more and less of it.*
+We have created so many algorithms for pathfinding. We are constantly optimizing our ways across these spaces. We've created everything about space and time, and how to make more and less of it.
 
 #### Nearbyness
 
 I want to write a theory of nearbyness (near-bi-ness) that is not a theory of nearness. Not nearness as measures and scores, not proximity and similarity, not K-means and K-nearest-neighbors. This is `nearbyness` as a practice for `attending-to`, not `nearness` as a study for `assumption-making`. Nearbyness enacts — through what it places side-by-side, in conversation, in contact, in texture, in tension — that, and how, and why its elements require each other. Nearbyness prefigures the more-than which this closeness creates. This is a trans\*disciplinary practice, as more than the sum of its combined fields or niches, and it is a trans\*formative practice too. 
 
-These operations of nearbyness bring us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. This project enacts the process through feeling. For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream.
+This nearbyness responds to computational values of compartmentalizing, modularity, and encapsulation, which silo off data from the code that operates on it. They separate disciplinary discources from politics and from each other. They separate for efficiency and understanding, security and containment. As Tara McPherson argues, computation's modular values emerged simultaneously with and in response to the civil rights movement in the US: "the very structures of digital computation correspond to larger cultural shifts that seek to cordon off race and to contain it" [-@mcphersonFeministSoftwareLab2018]. McPherson's metaphor of "lenticular" postcards, which show two separate images when viewed from different angles, demonstrate how modularity allows for invisibility, despite proximity. She argues that lenticular perspectives position 
+
+>"our understandings of race in very narrow registers, fixating on sameness or difference while forestalling connection and interrelation. [...] A lenticular logic is a logic of the fragment or the chunk, a way of seeing the world as discrete modules or levels, a mode that suppresses relation and context." 
+
+>[XXX add Chun's promiscuous/leaky/slutty data]
+
+From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, these projects deny their entanglements. Nearbyness resists this denial through reuniting them in conversation, bringing close without collapsing distinctions. 
+
+>"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other's ﬂesh for one's own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It's the experience of affect, of being receptive, in real time." [@berlantCommonsInfrastructuresTroubling2016]
+
+These operations of nearbyness bring us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. This project enacts the process through feeling. For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream. I believe it is both, collecting fragments when you cannot yet see a form, when you cannot do anything else; then cutting away at them until what has already formed becomes clearer. 
+
+<!-- accumulation and cutting away, pattern finding in collections of data, as the reverse proxies for making and testing theories, contraposed knowledge generating systems [Joque, Revolutionary Mathematics] -->
 
 [^Flusser]: "[Writing] has nothing to do with constructing. It is, on the contrary, a taking away, a de-structing. It is, both structurally and historically, closer to sculpture than to architecture. It is a gesture of making holes, of digging, of perforating. A penetrating gesture. To write is to in-scribe, to penetrate a surface," 
 
-This nearbyness responds to computational values of compartmentalizing, modularity, and encapsulation. These silo off data from the code that operates on it. They separate disciplinary discources from politics and from each other. They separate for efficiency and understanding, security and containment. As Tara McPherson argues, computation's modular values emerged simultaneously with and in response to the civil rights movement in the US: "the very structures of digital computation correspond to larger cultural shifts that seek to cordon off race and to contain it" [-@mcphersonFeministSoftwareLab2018]. From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, these projects deny their entanglements. Nearbyness resists this denial through reuniting them in conversation. 
+<!-- write with the machine of me and the machines i have learned along the way.  --> 
 
-McPherson's metaphor of "lenticular" postcards, which show two separate images when viewed from different angles, demonstrate how modularity allows for invisibility, despite proximity. She argues that lenticular perspectives position "our understandings of race in very narrow registers, fixating on sameness or difference while forestalling connection and interrelation. [...] A lenticular logic is a logic of the fragment or the chunk, a way of seeing the world as discrete modules or levels, a mode that suppresses relation and context." [XXX add Chun's promiscuous/leaky/slutty data]
 
-<!-- "/ this is the same way i began the mfa thesis, in a google doc by not beginning it, collecting fragments when i couldn’t write, then making a form for them in code / i could still vacuum back up the pieces of everything i had collected before now, write with the machine of me and the machines i have learned along the way.  -->
+the magnitude of the distance between them (close/far) of each dimension of the vector
 
-<!-- Elsewhere I have written "an app could include everything I've been researching? strawflower/i'm still alive? what would i do with it as a performance?" "A creative writing code-creative-critical lyric essay hybrid digital work imbued with data xr ar read over zoom experienced through plexiglass something about how we are together not together keeping it barely together" -->
-
-<!-- something about accumulation and cutting away, about pattern finding in collections of data as reverse proxies for making and testing theories, contraposed knowledge generating systems  -->
-
-<!-- Dream Platform, Manifesto & Prototype -->
 
 #### Formative 
 
 >"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
 
-I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, and frustrated how to even make my own. 
-
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, and frustrated how to even make my own. 
 
 
 **Foundations & Scaffolds**
@@ -312,6 +315,9 @@ Louise Hickman's ethnographic work on the ethics of access foregrounds access wo
 
 <!-- trauma -->
 
+<!-- Dream Platform, Manifesto & Prototype -->
+
+
 **More and less than form**
 <!-- indigenous research methods -->
 
@@ -346,7 +352,8 @@ Susan Leigh Star calls infrastructure a "fundamentally relational concept," but 
 
 
 
-form: manifesto, toolkit, caldron, zine
+form: manifesto, toolkit, caldron, zine, prototypes, guides, documents of processes
+
 >"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" (Gabrys 2019).
   
 >"to refigure the terms that would signify a particular position in an identity politic as terms that indicate a practice, a method. Disability, queerness, open source — not as identities, or groups I belong to, but as modes of doing, of how I practice myself. Being an outsider means that the question of theory and practice — how practice is affected by theory, how theory is constructed by practice — becomes the most important one. Membership to particular groups and experiences is often predicated on the visual — whether someone “looks like” they belong or not — which means that my membership to most groups must rely on something else. My belonging has more to do with how I enact that group’s politic" (Hedva, "Belonging", 2018)
@@ -889,13 +896,15 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 
 <!-- Broadly these have been called data subjects. For clarity, I distinguish between data subjects, whose information is captured in datasets that train machine learning models, and data subjectees, who are interpellated by and bear the impact of those models when implemented as part of AI systems. We are all the sovereign Data State's subjects, and we are all subject to its gaze as data subjectees.  -->
 
->"If race as we know it is an “algorithm” inherited from the age of Enlightenment, reprogramming its function from inheritance (a form of destiny) to insurrection provides the possibility of new formulations." Coleman Race as a technology
+>"If race as we know it is an 'algorithm' inherited from the age of Enlightenment, reprogramming its function from inheritance (a form of destiny) to insurrection provides the possibility of new formulations." Coleman Race as a technology
 
 
 @berlantCommonsInfrastructuresTroubling2016
   - >"holds in suspicion the prestige the commons concept has attained in the US and theory-cosmopolitan context, often signifying an ontology that merely needs the world to create infrastructures to catch up to it. Although the commons claim sounds like an uncontestably positive aim, the concept in this context threatens to cover over the very complexity of social jockeying and interdependence it responds to by delivering a conﬁrming aﬀective surplus in advance of the lifeworld it’s also seeking. [...] the attachment to this concept is too often a way of talking about politics as the resolution of ambivalence and the vanquishing of the very contingency of nonsovereign standing that is at the heart of true equality, [...] 
   - >**"the commons concept is a powerful vehicle for troubling troubled times. [...] The better power of the commons is to point to a way to view what’s broken in sociality, the diﬃculty of convening a world conjointly, although it is inconvenient and hard, and to offer incitements to imagining a livable provisional life."**
   - >[...] The commons is an action concept that acknowledges a broken world and the survival ethics of a transformational infrastructure. This involves using the spaces of alterity within ambivalence."
-  - >"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other’s ﬂesh for one’s own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It’s the experience of aﬀect, of being receptive, in real time."
   - >"form is not only a wish for a refuge, a cushion: it is also social, an exposure, a mediation, and a launching pad in relation to which beings can ﬁnd each other to ﬁgure out how to live in a movement that takes energy from the term ‘‘movement’s’’ political resonance."
   - >"taking each other on and in but never collapsing the distance that allows for attention. To take something in is to be nonsovereign in relation to it, but that’s not equal to being destroyed by it."
+
+
+>"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016]
