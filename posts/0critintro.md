@@ -274,7 +274,7 @@ Code forms, then calcifies. Pattern turns to template.[^oop]
 
 `init --> name --> get --> set`
 
-[^oop]: ~~Creating classes (initializing) in object-oriented programming) instantiates each instance of an object with the pre-determined form, adjustable only within those limits. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.~~  
+[^oop]: [cut this] Creating classes (initializing) in object-oriented programming) instantiates each instance of an object with the pre-determined form, adjustable only within those limits. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.
 
 If forms shape content, and vice versa, of course tools also shape forms. Equipping ourselves with the knowledge, resources, and agency to make the tools (to make the platforms to make the forms to make the content) is necessary for a more holistic approach to researching formative tech and creating trans\*formative tech. Toolmaking includes collecting sets of tools, documenting and creating guides to existing tools as well. It also includes the infrastructures and support systems necessary to make any of these practices possible.
 
@@ -288,18 +288,16 @@ Those who are left unsupported by infrastructures, those who are left out of rep
 
 >"the skills, wisdom, resources, and hacks disabled people utilize for navigating and altering inaccessible worlds. In pushing crip technoscience as a field of research and a practice of critical 'knowing-making', we conjure frictional practices of access production, acknowledging that science and technology can be used to both produce and dismantle injustice." [-@hamraieCripTechnoscienceManifesto2019a]
 
-Their manifesto reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs. [This holds true for many other minoritized communities as well.] 
-
-By centering their community as knowledge holders and creators, and by seeing "interdependence as a political technology," they shift the design goals for technology. Rather than outsiders providing services to achieve normalized individual independence, they reorient toward kinship building [-@hamraieCripTechnoscienceManifesto2019a]. 
+Their manifesto reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs. [This holds true for many other minoritized communities as well.] By centering their community as knowledge holders and creators, and by seeing "interdependence as a political technology," they shift the design goals for technology. Rather than outsiders providing services to achieve normalized individual independence, they reorient toward kinship building [-@hamraieCripTechnoscienceManifesto2019a]. 
 
 Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." [@hickmanTranscriptionWorkPractices2019a]
 [CITEMingus]
 
 Thus, form is always forming from within complex systems of interrelation. Formative and transformative technologies are more (and less) than their forms. They must emerge on our own terms — from the formats and methods of the communities they serve, with our values, goals, and approaches leading the way. 
 
-Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources. If I admit that much research starts from personal interest and intuition and then searches for communities and sources to support it, that objectivity (a feminist objectivity) is a collection of varied subjectivities [Haraway].  
-*interdependence is indigenous knowledge*
-this is something i absorb intuitively and then find the citation for after, as much research happens. 
+Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources.  
+
+*Interdependence is indigenous knowledge.*
 
 >>"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
 
@@ -355,6 +353,12 @@ Thus, trans\*formative means ongoing prefigurative active community presence and
 >"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
 
 I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, frustrated, confused, wondering where I would even begin if I wanted to make such a form on my own. 
+
+
+
+
+
+
 
 ### Techno
 
@@ -435,7 +439,7 @@ Morrison, Romi Ron. (2021). "Flesh." In Thylstrup, N. B., Agostinho, D., Ring, A
   - "bias transfer both (a) arises in realistic settings (such as when pre-training on ImageNet or other standard datasets) and (b) can occur even when the target dataset is explicitly de-biased" @salmanWhenDoesBias2022
 
 
->"computers were humans (mostly women), and digital computers were primarily used for complex calculations, especially in wartime military contexts. Amid the ballistic calculations, Turing speculated on a prompt from his teacher, philosopher Ludwig Wittgenstein: Can machines think? Both men thought it was a ridiculous question" @veeTextGenEdTeachingText2023
+>"computers were humans (mostly women), and digital computers were primarily used for complex calculations, especially in wartime military contexts. Amid the ballistic calculations, Turing speculated on a prompt from his teacher, philosopher Ludwig Wittgenstein: Can machines think? Both men thought it was a ridiculous question" [@veeTextGenEdTeachingText2023]
 
 
 
