@@ -119,6 +119,8 @@ It’s also the space where I feel able to imagine wildly, creating digital obje
  
 This is a practice of artistic research, research-creation, and/or arts-based research (different lineages and regions call it by different names)[cite] [@lovelessHowMakeArt2019]. 
 
+>"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016]
+
 >"Specifically the "valences" of research-creation [Chapman & Sawchuk] that are not "creative presentation of research" (reporting on research in creative ways), or "research for creation" that supports a stand-alone artwork, or "research from creation" (reporting about artworks after the fact), but rather "creation-as-research" [and I'd add research-as-creation], which Loveless says "Research-creation [...] produces hybrid forms, defamiliarizing and uncanny, that oscillate between more than one 'species' of production and that result in 'offspring' that are often unthinkable, illegible within the current institutional frameworks of academia. It creates a chimera. By bringing research and creation together in such a way that they unpredictably contaminate and remake each other,"
 
 >"in failing to fully belong, and allowing that nonbelonging to denaturalize, emergently, its givens, research-creation tells other stories, uncanny stories, that (have the potential to) carry within them the other ethics that King invites us to attend to."
@@ -272,7 +274,7 @@ Code forms, then calcifies. Pattern turns to template.[^oop]
 
 >"The more a path is used the more a path is used. [...] When an effort becomes normal, a form is acquired." [@ahmedQueerUse2018, @ahmedQueerPhenomenologyOrientations2006]
 
-`init --> name --> get --> set`
+>>`init --> name --> get --> set`
 
 [^oop]: [cut this] Creating classes (initializing) in object-oriented programming) instantiates each instance of an object with the pre-determined form, adjustable only within those limits. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.
 
@@ -280,7 +282,7 @@ If forms shape content, and vice versa, of course tools also shape forms. Equipp
 
 >"tools and infrastructure are not only the preconditions for the work; at their best, they are also part and parcel of the work, deeply integrated into its methods and outcomes. Our tools and infrastructures are rich objects to think with." [@mcphersonFeministSoftwareLab2018]
 
-All of these layers are entangled. Susan Leigh Star calls infrastructure a "fundamentally relational concept," but one that despite its embeddedness operates invisibly unless broken. She also argues that infrastructure marks membership in relational groups, as we "acquire a naturalized familiarity with its objects," practices, and standards. @starEthnographyInfrastructure1999  Thus infrastructure — and the tools, platforms, forms, and content that it consists of — also marks us as belonging, knowing, capable, welcome, or not. 
+All of these layers are entangled. Susan Leigh Star calls infrastructure a "fundamentally relational concept," but one that despite its embeddedness operates invisibly unless broken. She also argues that infrastructure marks membership in relational groups, as we "acquire a naturalized familiarity with its objects," practices, and standards [-@starEthnographyInfrastructure1999].  Thus infrastructure — and the tools, platforms, forms, and content that it consists of — also marks us as belonging, knowing, capable, welcome, or not. 
 
 How do we think critically through re/making infrastructures, when they exist beyond any one of us, always relational and often invisible? By returning to, and reattuning to, the solidarities we find within and across communities, and the frictions we find within and across materials. 
 
@@ -295,38 +297,22 @@ Louise Hickman's ethnographic work on the ethics of access foregrounds access wo
 
 Thus, form is always forming from within complex systems of interrelation. Formative and transformative technologies are more (and less) than their forms. They must emerge on our own terms — from the formats and methods of the communities they serve, with our values, goals, and approaches leading the way. 
 
-Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources.  
+Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources. 
 
-*Interdependence is indigenous knowledge.*
+`Interdependence is indigenous knowledge.`
 
->>"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
+>"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
 
+Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). Like all verbs, then, implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
 
-This can fundamentally reshape the forms and functions of research, artmaking, valuemaking — because it acknowledges the varied principles on which it is founded. For example, in Indigenous epistemologies, says Shawn Wilson, "The concepts or ideas are not as important as the relationships that went into forming them. Again, an Indigenous epistemology has systems of knowledge built upon relationships between things, rather than on the things themselves." [@wilsonResearchCeremonyIndigenous2008] Fundamentally understanding differently knowledge, objects, relationships to them, necessarily reorients one's work and the forms it takes — in deeply formative ways. 
+To frame research through relationships is also to foreground accountability by asking, as Shawn Wilson offers in *Research Is Ceremony*, "What am I contributing or giving back to the relationship? Is the sharing, growth and learning that is taking place reciprocal?" Wilson says that in an Indigenous Research Paradigm, "What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations" [-@wilsonResearchCeremonyIndigenous2008].
 
->"We could not be without being in relationship with everything that surrounds us and is within us. Our reality, our ontology is the relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
+In this sense of reciprocity, the question of form takes shape as an offering. What does our creative work offer back, and in what form will that offering be most legible and accessible? Some forms I have tried: manifesto, toolkit, zine, prototype, platform, black box, machine, labyrinth, server, service, sentence, story, interface, guide, document, cauldron, process. 
 
-To see form (shape, object) as relation, connection, is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). Like all verbs, then, implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
-
-
-
-
-
->>Indigenous Research Paradigm: "a research paradigm is made up of four entities: ontology, epistemology, axiology and methodology. But rather than thinking of them as four separate ideas or entities, try to think of them in a circle: The entire circle is an Indigenous research paradigm. Its entities are inseparable and blend from one into the next. The whole of the paradigm is greater than the sum of its parts.[...] what Indigenous research is. 
->"Relationality seems to sum up the whole Indigenous research paradigm to me. Just as the components of the paradigm are related, the components themselves all have to do with relationships. The ontology and epistemology are based upon a process of relationships that form a mutual reality. The axiology and methodology are based upon maintaining accountability to these relationships. [...] An Indigenous research paradigm is relational and maintains relational accountability."
-
->"An Indigenous axiology is built upon the concept of relational accountability. [...] value judgments lose their meaning. What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations." (Wilson 77) "Respect, reciprocity, and responsibility are key features in any healthy relationship and must be included in any Indigenous methodology;" 
->"What am I contributing or giving back to the relationship? Is the sharing, growth and learning that is taking place reciprocal?"
+As form moves into its verb shapes, identity too moves into practice. Johanna Hedva marks this as a pivot from identity politics to practices and methods, inextricably coupled as theory-practice: 
+>"Disability, queerness, open source — not as identities, or groups I belong to, but as modes of doing, of how I practice myself. Being an outsider means that the question of theory and practice — how practice is affected by theory, how theory is constructed by practice — becomes the most important one. Membership to particular groups and experiences is often predicated on the visual — whether someone 'looks like' they belong or not — which means that my membership to most groups must rely on something else. My belonging has more to do with how I enact that group's politic" [@hedvaBelongingMess2018]
 
 
-
-form: manifesto, toolkit, caldron, zine, prototypes, guides, documents of processes
-
->"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" (Gabrys 2019).
-  
->"to refigure the terms that would signify a particular position in an identity politic as terms that indicate a practice, a method. Disability, queerness, open source — not as identities, or groups I belong to, but as modes of doing, of how I practice myself. Being an outsider means that the question of theory and practice — how practice is affected by theory, how theory is constructed by practice — becomes the most important one. Membership to particular groups and experiences is often predicated on the visual — whether someone “looks like” they belong or not — which means that my membership to most groups must rely on something else. My belonging has more to do with how I enact that group’s politic" (Hedva, "Belonging", 2018)
-
-deep interdisciplinarity
 print/digital media or platforms
 text/code languages or expression or systems
 backend blackbox / frontend visible platforms 
@@ -337,26 +323,31 @@ AI / human
 
 **I am a writing machine**
 
+deep interdisciplinarity
 
 In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
 
 **These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
 TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
 
-Anna Munster suggests that the form of networks numbs us to their relationality — every network looks like every other and in trying to understand them through seeing them as networks, we lose sense of what's within. She suggests focusing less on `forms` and more on `forces`: "—the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally" [@munsterAesthesiaNetworksConjunctive2013]
 
-Like Erin Manning's a spiral is "more duration than form" [@manningAlwaysMoreOne2013] "From habit to invention, from technique to improvisation, the form becomes a folding-through of time in the making." // "An occasion is less an object or a body than a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body. The how or the expressivity of this relational node is the occasion’s subjective form."
 
-//
-Thus, trans\*formative means ongoing prefigurative active community presence and practices, that are emergent, embedded, justice-oriented, ethical, taking shape and making change. 
+
+
+
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, frustrated, confused, wondering where I would even begin if I wanted to make such a form on my own. 
 
 >"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
 
-I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, frustrated, confused, wondering where I would even begin if I wanted to make such a form on my own. 
+
+Like Erin Manning's a spiral is "more duration than form" [@manningAlwaysMoreOne2013] "From habit to invention, from technique to improvisation, the form becomes a folding-through of time in the making." // "~~An occasion is less an object or a body than~~ a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body."
 
 
+Anna Munster suggests that the form of networks numbs us to their relationality — every network looks like every other and in trying to understand them through seeing them as networks, we lose sense of what's within. She suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally" [@munsterAesthesiaNetworksConjunctive2013]
 
+Transformative, the positive side of flux
 
+Thus, trans\*formative means ongoing prefigurative emergent evolution. It is active community presence and practices, embodied and embedded, taking shape and making change. 
 
 
 
@@ -895,4 +886,6 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
   - >"taking each other on and in but never collapsing the distance that allows for attention. To take something in is to be nonsovereign in relation to it, but that’s not equal to being destroyed by it."
 
 
->"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016]
+
+
+>"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" (Gabrys 2019). 
