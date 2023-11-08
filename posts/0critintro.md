@@ -266,9 +266,11 @@ Each of the works that follow asks: What are the fundamental assumptions that go
 
 Form in-forms content. The shape of the container decides what can fill it. [I work in code and in art because I believe:] If I know how to make forms, or even platforms, not only the content to plug into existing forms, I am more free to work both form and content in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. They are inseparable.
 
-In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. 
+In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. It also re-forms me through this mutual process: 
 
-Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. Sarah Sharma reminds us, the Broken Machines who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+>"In both carpentry and textiles, the form of a thing does not stand over it or lie behind it but emerges from this mutual shaping, within a gathering of forces, both tensile and frictional, established through the engagement of the practitioner with materials that have their own inclinations and vitality." [@ingoldLifeLines2015, 24]
+
+Current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. Sarah Sharma reminds us, the Broken Machines who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
 Code forms, then calcifies. Pattern turns to template. `init --> name --> get --> set`[^oop] 
 
@@ -329,6 +331,16 @@ Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-f
 * **techno**: hybrid, digital, systems-oriented, mr.wizard science, project-driven not damage-centered
 
 Techno-solutionist... Techno-utopian... Techno-dystopian... 
+
+Techtonic/techne
+
+>"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb 'to knot' and view knotting as an activity of which 'knots' are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-field or, in short, about 'making things stick'.  Accordingly, our focus should be on forces and materials rather than form and content." (Ingold 2015, 18)
+>"the tectonic would become ‘the art of joinings’."
+
+[Dovetailedness]
+
+Correspondence not assemblage: "This whole is a correspondence, not an assemblage, the elements of which are joined not ‘up’ but ‘with’. Whereas the agglutinative accretions of the assemblage are ‘and … and … and’, the diﬀerential sympathies of the correspondence are ‘with … with … with’." (Ingold 2015, 23) "sympathy is a ‘living with’ rather than a ‘looking at’, a form of feelingknowing that operates in the interstices of things, in their interiority. It is, Spuybroek writes, ‘what things feel when they shape each other’. 3"
+
 
 Techno...music? Yes, always take dance breaks.
 

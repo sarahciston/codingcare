@@ -19,44 +19,15 @@ date: 02.11.2023
 taut, tangled, tethered. tentacles, the tails of jellyfish. 
 start small, spiral and twist, woven into larger nets webs meshworks, tapestry.
 a thread can be a thought, a conversation, a path (into the labyrinth and out again, enter and emerge as self, befriend the minotaur). it can become part of a cloth or net, joining up to become a knot or node--connective tissue, communal work of transformation, dying and weaving. but first a line, a lure, desire. desire lines worn from unexpected use, story on the land.
-all my metaphors have been thread centered. 
+
 thread as a kind of writing, an approach that starts small, a way of thinking that gets things down, that sees and marks connection and trace (a trace is a thread), a casting out (fishing line, translucent thread), to ask what if, to see if anyone else has asked the same, to listen for an echo. to tie together all our echoes into something larger than ourselves. to make space for multiple coexisting versions, version histories, comments and commentaries, to question which is the primary text, the source or the authoritative text, to rebel against (untie) such notions. A ribbon (thread) once called a notion, buttons and baubles for decorative value, little flourishes, domestic feminine things. A way of writing that keeps them nested, protects them, but also lets them hold generative value, a sewing circle. 
-My mother had a pin cushion that looked like a bright red tomato, and it was once one of my favorite things to draw out and re-stick her needles and pins into its density, its specific texture, as if a sacred talisman for casting spells. The needles would have stray thread still waving from their eyelets, clipped after their last missions ages ago, since the tomato pincushion came out so rarely. It had a strawberry companion tied to the top, and I'm not sure the strawberry's job, but to delight me. These were two of my favorite foods, when they weren't used for sewing, and all I can remember is being pleased to be in their presence and hers as she went about her repairs.
+
+My mother had a pin cushion that looked like a bright red tomato. I rarely saw it, because she rarely sewed, and when it would appear it was my favorite thing to draw out and re-stick her needles and pins. I loved to explore its specific density, its internal texture. It was my own sacred spell-casting doll of sorts. The needles would have stray thread still waving from their eyelets, clipped after their last missions ages ago, since the tomato pincushion came out so rarely. It had a strawberry companion tied to the top, and I'm not sure the strawberry's job, but to delight me. These were two of my favorite foods, when they weren't used for sewing, and all I can remember is being pleased to be in their presence and hers as she went about her repairs.
+
 how is code another thread, like weaving, as Sadie Plant reminded us of Ada and our sisters reminding us. the submatrix, the wombiness supporting layers above, the emotional labor and digital labor and coded encoded labor of making it work and documentation and what gets included or not included as classifiable. 
 Tim Ingold, line/walk. 
->"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb ‘to knot’ and view knotting as an activity of which ‘knots’ are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-ﬁeld or, in short, about ‘making things stick’.2  Accordingly, our focus should be on forces and materials rather than form and content." (Ingold 2012, 18)
-see Ahmed queer use, the memory of knots, held in the material, no memory in bricks (via ingold)
-To thread the needle, metaphorically, is to be precise, minute, with one's argument. Pinpoint, pin prick, puncture and suture. 
-
-threads are how we put things in parallel in a computational system, how it is instructed to decide what is important and where to allocate resources, threads can be used for mutual aid/ethic of care, or for hoarding/not. containers to wrap, warm, support. 
-
-Wiki: "a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources. [...] Multithreading is a widespread programming and execution model that allows multiple threads to exist within the context of one process. These threads share the process's resources, but are able to execute independently." [wiki](https://en.wikipedia.org/wiki/Thread_(computing))
-
-disambiguation: screw thread, spirals around the shaft, the spiral as the simplist labyrinth; thread a fiber or filament; conversation threading on forums, grouping like with like; obviously weaving warp and weft;  
-Ariadne's thread, in computing, exhaustive application to all routes (but her thread was 1 route?), mark each choice, follow one available as far as possible [wiki](https://en.wikipedia.org/wiki/Ariadne%27s_thread_(logic))
-death ritual, unwind a ball of thread among people mourning around a body, tie it to each wrist as they pass it, snip the thread between them, wait for the thread to fall off. bahia wish ribbons. (shape of a dissertation, is it the thread, the loops where each accrues, the body between, each body of a mourner going out into the world)
-
-threads as **ligatures**, *links between letters, also threads to sew up arteries, a cord to tie up tightly*
-
-
-
-
-### command, line
-the endless thread of the command line
-command line is a place i have come to feel at home although it did (still) intimidated me most. it feels like it is the embodiment of that old adage of writing where I am writing in a way such that I know where I am going only as far as my headlights shine. (I wrote headlines. Force of habit. If habit is a force, does it make forms, if I unfold Ingold's suggestion?)
-To work on the command line is to wield too much power and not know how it is being implemented. There's always a Here Goes Nothin' erm Well Fuck It I Hope I Don't Break This Thing Permanently feeling with every keystroke. 
-And the way it logs each command to cycle back through for reuse is a form of poetry, memory as. 
-
-
-
-# process
-requires a starting point, a leap into the middle, warp and weft. Maria said start at the very beginning but it's too late for that, and trying to fake a perfect very beginning has got me all muddled in the performance of process instead of showing its actual messiness, its seams. And so it seems important first to discuss the ways I've been unable to start, leaping from platform to platform, behind the scenes, learning again and again how to start—just so, so that it's perfect, so that you (who?) will love what is said (me) and everything will be (different?), language being executable and all, speech acts—
-I am in the thick of it. Searching for the perfect way, forgetting that perfectionism is white supremacy and the most important learning is unlearning. Here I am trying to find new forms, wayfinding.
-
-
-# tether untether
-what we are unwilling to tie down to is as important, what i have learned to detatch from. body, and the fear of it.  
-
+>"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb 'to knot' and view knotting as an activity of which 'knots' are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-field or, in short, about 'making things stick'.  Accordingly, our focus should be on forces and materials rather than form and content." (Ingold 2015, 18)
+see Ahmed queer use, the memory of knots, held in the material, no memory in bricks (via ingold) 
 
 
 # Codes for Un/Raveling, Un/Mouthing
@@ -130,11 +101,24 @@ Imagine, inside AI’s black box, not an optimized solution — but a labyrinth.
 
 Crochet is the one fiber art that machines cannot do. Acts of accrual and ongoingness pile up. Turn microgestures into mass action. Turn a tense and fragile fiber into a flexible but sturdy surface. Turn that surface into a manifold fabric to keep you warm.
 
+***
+
 *System operations are called sometimes called threads. "A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads share resources but operate independently. 
 
-Threads are how we run things simultaneously in a computational system, how it decides where to allocate resources. Threads can be used for mutual aid/ethic of care, or for hoarding/not. containers to wrap, warm, support. 
+To thread the needle is to be precise, minute, with one's argument, to split the difference, to prick or pinpoint, puncture and divide with exactitude. Perhaps also to suture together. 
 
-Wiki: "a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources. [...] Multithreading is a widespread programming and execution model that allows multiple threads to exist within the context of one process. These threads share the process's resources, but are able to execute independently." [wiki](https://en.wikipedia.org/wiki/Thread_(computing))
+Threads are also how we run operations simultaneously in computational systems, how they are instructed what is important and where to allocate resources. This is called parallel processing. Threads can be used for mutual aid/ethic of care, or for hoarding/not. containers to wrap, warm, support. 
+
+In logic problems, Ariadne's thread is the strategy of creating a record or trace of all paths followed in order to conduct an exhaustive depth-first search, arbitrarily following one path for as long as possible,.  
+
+The spiral is the simplest labyrinth, a duration more than a form. 
+
+The command line is an endless thread. Its simple interface (a prompt for typing input and display for text outputs) still intimidates me, but I begin to find comfort and play in this feeling. The command line embodies that old adage from E.L. Dcotorow about novel writing: "It's like driving a car at night. You can only see as far as your headlights illuminate. But you can make the whole trip that way." At the command line, I know where I am going only as far as my headlights shine. To work on the command line is to wield too much power ("command" feels altogether too strong, too literal) without understanding the specifics of how it gets implemented. At every keystroke I keep the coders' prayer: "Here goes nothin', hope I don't break anything permanently!" The command line saves each previous executed command, for ease of reuse. Cycling back through them is a form of memory as poetry. 
+
+
+Threads like chart lines, activation functions, loss functions, divisions & connections, lines & points as dualities. Sonya Rapoport's domestic and computational chartmaking
+
+>>Wiki: "a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources. [...] Multithreading is a widespread programming and execution model that allows multiple threads to exist within the context of one process. These threads share the process's resources, but are able to execute independently." [wiki](https://en.wikipedia.org/wiki/Thread_(computing))
 
 disambiguation: screw thread, spirals around the shaft, the spiral as the simplist labyrinth; thread a fiber or filament; conversation threading on forums, grouping like with like; obviously weaving warp and weft;  
 
@@ -152,6 +136,8 @@ Conversational threading.
 
 repair, riparian
 
+***
+
 
 === 
 
@@ -167,7 +153,7 @@ I dream of a body made easeful by relational systems.
 
 When I imagine myself as a large language model, I start all my replies with, "As a Large Language Model,..." 
 
-"As a Large Language Model, my responses are based on patterns and probabilities learned from the vast amounts of text data I was trained on."
+>"As a Large Language Model, my responses are based on patterns and probabilities learned from the vast amounts of text data I was trained on."
 
 An algorithm is not a monolith. It is made to find patterns, just like you are—alert to any unusual textures on the tongue.
 
@@ -187,6 +173,7 @@ The labyrinth asks you to cross each point in the possibility space instead of o
 
 A labyrinth says go slow, get lost, stay in one place. Wind and unwind. 
 
+[^Ingold]: Ingold, T. (2015). *The life of lines*. Routledge.
 
 [^Irigaray]: Irigaray, Luce. *This Sex Which Is Not One.*
 

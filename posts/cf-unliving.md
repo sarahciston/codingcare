@@ -128,11 +128,23 @@ we cobble together collaborations from "i'll meet you on zoom and slack and this
 
 I am back to the dream where I am inventing new code languages in my sleep. Once I dreamt just two sentences, and they were these: 
 
-"I dreamt I was mapping points of non-correspondence.
-"I dreamt I ~~came out~~ became and no one believed me."
+>"I dreamt I was mapping points of non-correspondence."
+
+>"I dreamt I became and no one believed me."
+
+Except actually the way I dreamt the sentence, but was afraid to write it down:
+
+>"I dreamt I came out and no one believed me."
+
+I want a machine un/learning that maps points of non-correspondence, de-limiting the ways we might relate to one another. I want a dyke for president, and I want a chat bot that can tell me about it without it "violating its content policy." It forces me to acknowledge this may violate its policy in order to continue, then provides no results. I want a world that can even imagine a dyke president, just like Zoe Leonard did and Eileen Myles did, "someone who has made mistakes and learned from them" instead of feeding me milquetoast lines about the importance of diversity while offering me none. 
+
+![violates policy](../_site/assets/img/violatepolicy.png)
+
+I became anything but traumas and porn tropes and no one believed me. I mapped points of non-correspondence and they accrete to more than similarity scores and Markov chains. 
+
 [[brokenMachine]]
 Queer codes and platforms. Make a note how these are related. 
-The physical therapist today says when I work on muscle strength I will no longer have to contort to strange shapes to hold my body up. I think, *"That's just how queer folks sit in chairs, haven't you seen the memes? It was one of the first moments my curling in on myself--that invisibility--felt okay. If I find the muscles in my body will I no longer be queer, will I straighten, be seen?" This glitch of me, how I am a broken girl.* 
+The physical therapist today says when I work on muscle strength I will no longer have to contort to strange shapes to hold my body up. I think, *"That's just how queer folks sit in chairs, haven't you seen the memes? It was one of the first moments my curling in on myself — that invisibility — felt okay. If I find the muscles in my body will I no longer be queer, will I straighten, be seen?" This glitch of me, how I am a broken girl.* 
 
 I bend my body to the plugins, wondering if language grows inside the bones the way they strengthen from being pulled by muscles, strengthened by their resistance. What is the equal and opposite force of water falling? 
 
