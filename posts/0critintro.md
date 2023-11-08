@@ -270,11 +270,9 @@ In this way, the material I work with also in-forms what I make, through its ins
 
 Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. Sarah Sharma reminds us, the Broken Machines who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
-Code forms, then calcifies. Pattern turns to template.[^oop] 
+Code forms, then calcifies. Pattern turns to template. `init --> name --> get --> set`[^oop] 
 
 >"The more a path is used the more a path is used. [...] When an effort becomes normal, a form is acquired." [@ahmedQueerUse2018, @ahmedQueerPhenomenologyOrientations2006]
-
->>`init --> name --> get --> set`
 
 [^oop]: [cut this] Creating classes (initializing) in object-oriented programming) instantiates each instance of an object with the pre-determined form, adjustable only within those limits. Indicate what prior schemas you'll pull from, what parts you'll write over. What qualities you'll predetermine, and what aspects will be qualities of the entire class, and what qualities will be specific to each object. What actions will they know how to do? How will you establish and retreive this information? There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.
 
@@ -282,7 +280,9 @@ If forms shape content, and vice versa, of course tools also shape forms. Equipp
 
 >"tools and infrastructure are not only the preconditions for the work; at their best, they are also part and parcel of the work, deeply integrated into its methods and outcomes. Our tools and infrastructures are rich objects to think with." [@mcphersonFeministSoftwareLab2018]
 
-All of these layers are entangled. Susan Leigh Star calls infrastructure a "fundamentally relational concept," but one that despite its embeddedness operates invisibly unless broken. She also argues that infrastructure marks membership in relational groups, as we "acquire a naturalized familiarity with its objects," practices, and standards [-@starEthnographyInfrastructure1999].  Thus infrastructure — and the tools, platforms, forms, and content that it consists of — also marks us as belonging, knowing, capable, welcome, or not. 
+>"instruments develop through engaged and contingent practices. Instrumentalism involves setting in motion, operationalizing, and potentially transforming. Instruments—whether in the form of concepts or sensors—are instrumental to the unfolding, the doing, and the transforming" [@gabrysHowThingsSensors2019]
+
+We think with our tools, instruments, sensors and the surrounding systems that enable them and maintain them. All of these layers are entangled. Susan Leigh Star calls infrastructure a "fundamentally relational concept," but one that despite its embeddedness operates invisibly unless broken. She also argues that infrastructure marks membership in relational groups, as we "acquire a naturalized familiarity with its objects," practices, and standards [-@starEthnographyInfrastructure1999].  Thus infrastructure — and the tools, platforms, forms, and content that it consists of — also marks us as belonging, knowing, capable, welcome, or not. 
 
 How do we think critically through re/making infrastructures, when they exist beyond any one of us, always relational and often invisible? By returning to, and reattuning to, the solidarities we find within and across communities, and the frictions we find within and across materials. 
 
@@ -297,9 +297,7 @@ Louise Hickman's ethnographic work on the ethics of access foregrounds access wo
 
 Thus, form is always forming from within complex systems of interrelation. Formative and transformative technologies are more (and less) than their forms. They must emerge on our own terms — from the formats and methods of the communities they serve, with our values, goals, and approaches leading the way. 
 
-Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources. 
-
-`Interdependence is indigenous knowledge.`
+Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources. I keep returning to the realization that `Interdependence is indigenous knowledge.`
 
 >"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
 
@@ -310,8 +308,12 @@ To frame research through relationships is also to foreground accountability by 
 In this sense of reciprocity, the question of form takes shape as an offering. What does our creative work offer back, and in what form will that offering be most legible and accessible? Some forms I have tried: manifesto, toolkit, zine, prototype, platform, black box, machine, labyrinth, server, service, sentence, story, interface, guide, document, cauldron, process. 
 
 As form moves into its verb shapes, identity too moves into practice. Johanna Hedva marks this as a pivot from identity politics to practices and methods, inextricably coupled as theory-practice: 
+
 >"Disability, queerness, open source — not as identities, or groups I belong to, but as modes of doing, of how I practice myself. Being an outsider means that the question of theory and practice — how practice is affected by theory, how theory is constructed by practice — becomes the most important one. Membership to particular groups and experiences is often predicated on the visual — whether someone 'looks like' they belong or not — which means that my membership to most groups must rely on something else. My belonging has more to do with how I enact that group's politic" [@hedvaBelongingMess2018]
 
+Our being-in-process is both the means to "be" (prefiguratively) and also the means of being-in-relation, -in-politic, -in-identity. 
+
+"dramatizes its dimensional betweenness" [...] "decipher the history of the making of the most complex shibori patterns" (Sedgwick)
 
 print/digital media or platforms
 text/code languages or expression or systems
@@ -420,10 +422,10 @@ To not think to train on a variety of faces, or to include an operation in the c
     - “we need to interrogate not only the security of our data but  [...] What kinds of stories cannot be told [...] because individuals do not have access to [a boutique self-tracking device], the time to engage it fully, and/or do not have the security to reveal the details of their everyday experience without increasing their risk of domestic or state violence?” (Jacqueline Wernimont, Numbered Lives @wernimontNumberedLivesLife2018)
     - whose stories are these? "what subject position allows us to ethically occupy, flourish, and move in a world of pervasive data monitoring? (Natasha Dow Schull)
 - Worldbuilding with data: 
-  - “Database design, in that way, is 'an exercise in worldbuilding,' a normative process in which programmers are in a position to project their world views—a process that all too often reproduces the technology of race.” (Ruja Benjamin, Race After Technology @benjaminRaceTechnologyAbolitionist2019)
+  - “Database design, in that way, is 'an exercise in worldbuilding,' a normative process in which programmers are in a position to project their world views—a process that all too often reproduces the technology of race.” [@benjaminRaceTechnologyAbolitionist2019]
 - Uncertainty reduced to certainty 
-  - "[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." (Louise Amoore, Cloud Ethics @amooreCloudEthicsAlgorithms2020)
-  - >>"If uncertainty is the ability for the unknown to be accounted for by comporting to containment under the logics of algorithmic models, then what can unknowability offer instead? [...]["BLACKNESS as space of ethical absence," "the unknown as a subject"] Unknowability born from the figure of the flesh opens the space for ways of understanding the world that are otherwise discounted because of their inability to be neatly measured and accounted for. It is the place in which irresolution is allowed to reside." (Morrison 2021, 255) >>"flesh becomes an essential outlier from which to assess the limitations of sociotechnical fixes. Flesh is the poignant, unavoidable signifier and text upon which to read the history and reality of total expropriation of value from bodies and land." (255) >>"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." (253) *relational knowing* @morrisonFlesh2021
+  - "[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
+  - >>"If uncertainty is the ability for the unknown to be accounted for by comporting to containment under the logics of algorithmic models, then what can unknowability offer instead? [...]["BLACKNESS as space of ethical absence," "the unknown as a subject"] Unknowability born from the figure of the flesh opens the space for ways of understanding the world that are otherwise discounted because of their inability to be neatly measured and accounted for. It is the place in which irresolution is allowed to reside." (Morrison 2021, 255) >>"flesh becomes an essential outlier from which to assess the limitations of sociotechnical fixes. Flesh is the poignant, unavoidable signifier and text upon which to read the history and reality of total expropriation of value from bodies and land." (255) >>"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." (253) *relational knowing* [@morrisonFlesh2021]
 Morrison, Romi Ron. (2021). "Flesh." In Thylstrup, N. B., Agostinho, D., Ring, A., D’Ignazio, C., & Veel, K. (Eds.) Uncertain Archives: Critical Keywords for Big Data. (pp. 240-257). The MIT Press.  https://doi.org/10.7551/mitpress/12236.003.0027
 - Displaced agency, diffused responsibility
 - Bias transfer:
@@ -470,7 +472,7 @@ David Garcia and Geert Lovink describe tactical media as "An existential aesthet
 
 >"learning to inhabit the world in a better way [...] the role of artworks is no longer to form imaginary and utopian realities, but to actually be ways of living and models of action within the existing real" (Bourriaud in Raley Tactical Media)
 
->"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley R. "Dataveillance and Countervailance in @gitelmanRawDataOxymoron2013)
+>"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley "Dataveillance and Countervailance" in @gitelmanRawDataOxymoron2013)
 
 #### No to capital and Yes to sharing
 
@@ -496,6 +498,8 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
 
 **These are not metaphors but material, infrastructures undergirding systems that uphold power — woven into the warp and weft.**
 
+>"prehistory of fabric looms and stringed musical instruments, as technologies for exploring what the one-dimensionality of string can generate when it is placed under tension." [@sedgwickWeatherProust2012]
+
 >"This crude model of the user and the used has legitimized the scientific projects, colonial adventures, sexual relations, and even the artistic endeavors of the modern world. It continues to inform the deployment of even the most complex machines. [...] The user and the used are merely the perceptible elements, the identifiable components which are thrown up by-and serve also to contain-far more complex processes. The weaver and the loom, the surfer and the Net: none of them are anything without the engineerings which they both capture and perpetuate." (@plantZerosOnes1998, p. 77)
 
 >"Written out of an official history which draws them in as its minor footnotes to itself, cloths, weavers, and their skills turn out to be far in advance of the art forms digitization supersedes." (@plantZerosOnes1998, p. 190)
@@ -514,7 +518,15 @@ Focusing on craft means noticing the material, iterative, handmade, tinkering, i
 * handmade, craft, iterative, durational practices
 * communities of practice
 * deep interdisciplinarity
-* 
+
+"hands and handiwork, and the deep, inherent relationality of touch and texture," [@sedgwickWeatherProust2012]
+
+Texture, for Eve Kosofsky Sedgwick, is a way of talking about the space between dimensions or scales, or the transition between them. From point to line to cube to cube moving through space-time to a multidimensional universe of vibrating strings. In computation, from scalar to vector to matrix to tensor in many dimensions. All kinds of warp and weft, describing many directions of touch and contact.
+
+>"the sense of touch makes nonsense out of any dualistic understanding of agency and passivity; to touch is always already to reach out, to fondle, to heft, to tap or enfold, and always also to understand other people or natural forces as having effectually done so before oneself, if only in the making of the textured object." [@sedgwickWeatherProust2012]
+
+Here Sedgwick connects the experience of making craftwork with experiencing the made craft, with touching and being touched by, with multidimensional sense and scale of the universe. I also see this as a way of understanding machine learning modeling through new, non-hierarchical metaphors of technocraft. 
+ 
 ##### Handcrafted & handicraft approaches
   * Agacency & the Internet of Towels, Anuradha Reddy
   * Leaking Subjects & Bounding Boxes: On Training AI, Elisa Giardina Papa (2022)
@@ -591,13 +603,13 @@ Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 
 [Black Gooey Universe]
 
->Core rope memory [From the Sasha](https://logicmag.io/supa-dupa-skies/from-the-sasha-into-the-zamani-death-as-a-moment-of-radical-continuity/) "During the pioneering of the Apollo spacecraft mission, women workers manually wove memory into computer systems, translating software programmed by MIT engineers into physical binaries. The first woman to do this was Hilda G. Carpenter, a Black lab technician who advanced the methods that would ultimately be used to land Apollo missions on the moon. These threading techniques, referred to as “core rope memory” and “magnetic core memory,” were laborious processes of physically coding information into machines using ferrite rings and copper wire to control the flow of electricity"
+>Core rope memory [From the Sasha](https://logicmag.io/supa-dupa-skies/from-the-sasha-into-the-zamani-death-as-a-moment-of-radical-continuity/) "During the pioneering of the Apollo spacecraft mission, women workers manually wove memory into computer systems, translating software programmed by MIT engineers into physical binaries. The first woman to do this was Hilda G. Carpenter, a Black lab technician who advanced the methods that would ultimately be used to land Apollo missions on the moon. These threading techniques, referred to as 'core rope memory' and 'magnetic core memory,' were laborious processes of physically coding information into machines using ferrite rings and copper wire to control the flow of electricity"
 
->"Weaving was already multimedia: singing, chanting, telling stories, dancing, and playing games as they work, spinsters, weavers, and needleworkers were literally networkers as well." (@plantZerosOnes1998, p. 65)
+>"Weaving was already multimedia: singing, chanting, telling stories, dancing, and playing games as they work, spinsters, weavers, and needleworkers were literally networkers as well." [@plantZerosOnes1998, 65]
 
->"they process and store data. Because there is no difference between the process of weaving and the woven design, cloths persist as records of the processes which fed into their production: how many women worked on them, the techniques they used, the skills they employed. The visible pattern is integral to the process which produced it; the program and the pattern are continuous. (@plantZerosOnes1998, p. 66)
+>"they process and store data. Because there is no difference between the process of weaving and the woven design, cloths persist as records of the processes which fed into their production: how many women worked on them, the techniques they used, the skills they employed. The visible pattern is integral to the process which produced it; the program and the pattern are continuous. [@plantZerosOnes1998, p. 66]
 
->"weaving wends its way through even the media which supplant it. While paper has lost its associations with the woven fabrics with which it began, there are .remnants of weaving in all writing: yarns continue to be spun, texts are still abbreviated textiles, and even grammarglamor-and spelling retain an occult connectivity. Silkscreens, printing presses, stencils, photographic processes, and typewriters: by the end of the nineteenth century images, texts, and patterns of all kinds were being processed by machines which still used matrices as means to their ends," (@plantZerosOnes1998, p. 69)
+>"weaving wends its way through even the media which supplant it. While paper has lost its associations with the woven fabrics with which it began, there are .remnants of weaving in all writing: yarns continue to be spun, texts are still abbreviated textiles, and even grammarglamor-and spelling retain an occult connectivity. Silkscreens, printing presses, stencils, photographic processes, and typewriters: by the end of the nineteenth century images, texts, and patterns of all kinds were being processed by machines which still used matrices as means to their ends," [@plantZerosOnes1998, 69]
 
 <!-- ahree lee weaving work -->
 
@@ -738,7 +750,8 @@ We have always-already been living in, talking about, performing with the questi
 >The Toolkit gathers and synthesizes aspects of queer theory, Black feminism, transfeminisms, and decolonial perspectives that can contribute valuable lenses for machine learning’s most pressing problems. It celebrates work done by other intersectional researchers and artists working to address these issues in many fields. And it is one of the few resources to clarify, without math or jargon, the inner workings of AI and how they always operate as sociotechnical systems. As a digital platform, it creates a forum for others to expand upon the work; and through in-person and hybrid-online workshops, it invites a variety of communities to participate directly in the systems that impact them.
 
 Why a toolkit, the pleasures and problems of toolkits, the anarchist's toolchest: 
-- >"space of 'instruction, contingency, action, and alternative engagement' (Gabrys 2017, 92)"
+- >"space of 'instruction, contingency, action, and alternative engagement'" [@gabrysHowThingsSensors2019, 92]
+  - >"Tool kits provide instructions not just for assembly and use but also for attending to the social and political ramifications of digital devices." [@gabrysHowThingsSensors2019] "Tool kits offer up a particular way of concretizing maker-subjects, items for construction, modes of assembly, models of action, modes of becoming, desired outcomes, and ways of holding things together, or binning it all away. Tool kits are ways of organizing problems and relations for action, and even when the point is to crack open the black box of a sensor technology, the component parts that result from such crackery are configured in particular ways to allow for new modes of assembly."
 - Mattern: @matternUnboxingToolkit2021
 - Anarchist toolchest. @schwarzAnarchistToolChest2010
 
@@ -750,7 +763,7 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 - InnerVoiceOver // On Kawara
 - Ladymouth // Pipilotti Rist
 
-### TRANS: CONCLUSION *Unsupervised Pleasures: Conscientious Datasets for Queer Futures*
+### TRANS: CONCLUSION/WHAT'S NEXT *Unsupervised Pleasures: Conscientious Datasets for Queer Futures*
 
 What it calls for in the future...
 
@@ -769,8 +782,6 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 [//]: # "TK: All Writing Is Code *tetherednetwork*"
 
 
-
-
 ### Methodologies
 * intersectional feminisms
 * queer & feminist media praxis, making/crafting, URGENTCRAFT
@@ -782,7 +793,7 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 # Bibliography
 
 - Amaro, R. *The Black Technical Object: On Machine Learning and the Aspiration of Black Being.* Sternberg.
-  - >"built on the systemic fragmentation of difference. hat is to say, the recursive features of our Western imaginary are reliant on the reinstatement of logical 'truths' made actionable by systems of categorization."
+  - >"built on the systemic fragmentation of difference. That is to say, the recursive features of our Western imaginary are reliant on the reinstatement of logical 'truths' made actionable by systems of categorization."
   - >"Data, in this sense, are more than operative forms of value; they establish the values of difference as the subject and object of organization."
   - >"Machine learning [...] is an expression of that which has already been categorized."
 - Ahmed, S. (2017). *Living a Feminist Life.*
@@ -834,7 +845,7 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Raley, R. (2009) *Tactical Media* U of Minnesota P.
 - Raley, R. & Rhee, J. (2023) "Critical AI: A Field in Formation." *American Literature*
 - Reddy, A. (2022). "Artificial everyday creativity: creative leaps with AI through critical making." *Digital Creativity.*
-- Star, 
+- Star, S. L. (1999). "The Ethnography of Infrastructure." American Behavioral Scientist, 43(3), 377–391.
 - Raval, N. "Sinking Back into Ourselves." *Platforms: Around, In Between, and Through.* Ed. Sunder, A. *Natasha,* Singapore Biennale.
 - Sedgwick, E. K. (2012). "Making things, practicing emptiness." *The weather in Proust*. Duke UP.
 - Schwarz, C. (2010). *The Anarchist’s Tool Chest*. Lost Art Press.
@@ -850,14 +861,12 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Willis, H. (2016) *Fast Forward: The Future(s) of the Cinematic Arts.* Wallflower Press.
 - Wilson, Shawn. (2008). *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing. 
 
-
 - 2019. *Critical Makers Reader* Internet 
   - Cole, D., & Perner-Wilson, H. "Getting Lost and Unlearning Certainty: Material Encounters in an Electronic Craft Practice."
   - Groten, A. "Hacking & Designing: Paradoxes of Collaborative Practice." 
   - Sinders, C. "Making Critical Ethical Software."
   - Van Ness, G. "Hacking the Hustle: Sex Work, Networks, & Social Reproduction Under FOSTA-SESTA."
 - [tracery as craftivism](https://electronicbookreview.com/essay/retraced-threads-generating-feminist-textile-art-with-tracery/)  
-
 
 >"What's unique about such IFH/MSs [intersectional feminist hacker/makerspaces] is that they are designed specifically to meet the needs and interests of the communities they are by and for, thereby allowing for a truly revolutionary *reimagining* of a 'different concatenation of social forms, knowledge, and technology'. In so doing, IFH/MS members articulate a strategy of hacking not only software and hardware, but their own social reproduction within the cybersphere." 
 >>- Van Ness, G. "Hacking the Hustle: Sex Work, Networks, & Social Reproduction Under FOSTA-SESTA." in Critical Makers Reader
@@ -888,4 +897,4 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 
 
 
->"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" (Gabrys 2019). 
+>"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" [@gabrysHowThingsSensors2019]. 

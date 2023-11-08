@@ -124,6 +124,7 @@ we cobble together collaborations from "i'll meet you on zoom and slack and this
 
 <!-- Elsewhere I have written "an app could include everything I've been researching? strawflower/i'm still alive? what would i do with it as a performance?" "A creative writing code-creative-critical lyric essay hybrid digital work imbued with data xr ar read over zoom experienced through plexiglass something about how we are together not together keeping it barely together" -->
 
+>"they often have a first person, it isn’t my first person—and furthermore, it’s a first person at the very edge of its decomposition." [@sedgwickWeatherProust2012] "the fractal dimension of compassion is that of not self, not other, not both self and other, and not neither self nor other."
 
 I am back to the dream where I am inventing new code languages in my sleep. Once I dreamt just two sentences, and they were these: 
 
