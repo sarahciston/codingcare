@@ -301,7 +301,7 @@ Interdependence has been my intuitive compass, my frustration and fascination, f
 
 >"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
 
-Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). Like all verbs, then, implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
+Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). [As Erin Manning says of the spiral, it is "more duration than form" [@manningAlwaysMoreOne2013].] Like all verbs, then, the verb form implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
 
 To frame research through relationships is also to foreground accountability by asking, as Shawn Wilson offers in *Research Is Ceremony*, "What am I contributing or giving back to the relationship? Is the sharing, growth and learning that is taking place reciprocal?" Wilson says that in an Indigenous Research Paradigm, "What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations" [-@wilsonResearchCeremonyIndigenous2008].
 
@@ -311,46 +311,17 @@ As form moves into its verb shapes, identity too moves into practice. Johanna He
 
 >"Disability, queerness, open source — not as identities, or groups I belong to, but as modes of doing, of how I practice myself. Being an outsider means that the question of theory and practice — how practice is affected by theory, how theory is constructed by practice — becomes the most important one. Membership to particular groups and experiences is often predicated on the visual — whether someone 'looks like' they belong or not — which means that my membership to most groups must rely on something else. My belonging has more to do with how I enact that group's politic" [@hedvaBelongingMess2018]
 
-Our being-in-process is both the means to "be" (prefiguratively) and also the means of being-in-relation, -in-politic, -in-identity. 
-
-"dramatizes its dimensional betweenness" [...] "decipher the history of the making of the most complex shibori patterns" (Sedgwick)
-
-print/digital media or platforms
-text/code languages or expression or systems
-backend blackbox / frontend visible platforms 
-dev / user
-AI / human
-
-*could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked*
-
-**I am a writing machine**
-
-deep interdisciplinarity
-
-In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
-
-**These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
-TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
-
-
-
-
-
-
-I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read. In my dream notes, I have written "semantic web layer cake" and "Gollum?" Is this some monsterous platform? Am I the only one who dreams this? Usually the things I want feel small and so I expect them to exist already. How complicated could they be? Surely I am not the only thinker of them? Then I try to find some preexisting version, come up empty, frustrated, confused, wondering where I would even begin if I wanted to make such a form on my own. 
+Our being-in-process is both the means to "be" (prefiguratively) and also the means of being-in-relation, -in-politic, -in-identity, in-between. 
 
 >"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
 
+>"a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body." [@manningAlwaysMoreOne2013]
 
-Like Erin Manning's a spiral is "more duration than form" [@manningAlwaysMoreOne2013] "From habit to invention, from technique to improvisation, the form becomes a folding-through of time in the making." // "~~An occasion is less an object or a body than~~ a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body."
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections.[^platformdream] Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally—that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. The un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change. 
 
+Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-foldable traces of its making — a flattened, temporarily static version of its coming-into-shape, marking the places it once touched against itself as it held different forms [@sedgwickWeatherProust2012] — trans\*formative technocraft aims to "decipher the history of the making" and the future shapes it might take. 
 
-Anna Munster suggests that the form of networks numbs us to their relationality — every network looks like every other and in trying to understand them through seeing them as networks, we lose sense of what's within. She suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally" [@munsterAesthesiaNetworksConjunctive2013]
-
-Transformative, the positive side of flux
-
-Thus, trans\*formative means ongoing prefigurative emergent evolution. It is active community presence and practices, embodied and embedded, taking shape and making change. 
-
+[^platformdream]: I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read and connect. [In my dream notes, I have written "semantic web layer cake?" and "Gollum platform?" I rarely imagine I am the only one imagining such things, until I try to explain them to others. I expect it to be easy, that these hybrid forms already exist — becaue they seem so small and obvious to me, how complicated could they be? But when I try to find some preexisting version, I come up empty, frustrated, confused. And I am left without tools or language to begin building such a connected and connecting form on my own.] 
 
 
 ### Techno
@@ -525,7 +496,7 @@ Texture, for Eve Kosofsky Sedgwick, is a way of talking about the space between 
 
 >"the sense of touch makes nonsense out of any dualistic understanding of agency and passivity; to touch is always already to reach out, to fondle, to heft, to tap or enfold, and always also to understand other people or natural forces as having effectually done so before oneself, if only in the making of the textured object." [@sedgwickWeatherProust2012]
 
-Here Sedgwick connects the experience of making craftwork with experiencing the made craft, with touching and being touched by, with multidimensional sense and scale of the universe. I also see this as a way of understanding machine learning modeling through new, non-hierarchical metaphors of technocraft. 
+Here Sedgwick connects the experience of making craftwork with experiencing the made craft, with touching and being touched by, with multidimensional sense and scale of the universe. I also see this as a way of understanding machine learning modeling through new, non-hierarchical metaphors of technocraft. "dramatizes its dimensional betweenness" 
  
 ##### Handcrafted & handicraft approaches
   * Agacency & the Internet of Towels, Anuradha Reddy
@@ -658,6 +629,16 @@ Sustaining feminst servers takes "years of intense collective learning" (Kleesat
 >"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) 
 
 queer use (see interstitial)
+
+
+
+In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
+
+**These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
+TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
+
+
+
 
 ### Re-mixed material metaphors
 
@@ -898,3 +879,18 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 
 
 >"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" [@gabrysHowThingsSensors2019]. 
+
+
+
+print/digital media or platforms
+text/code languages or expression or systems
+backend blackbox / frontend visible platforms 
+dev / user
+AI / human
+
+*could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked*
+
+**I am a writing machine**
+
+deep interdisciplinarity
+
