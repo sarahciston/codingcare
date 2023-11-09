@@ -10,6 +10,14 @@ tags: [introduction, theory, practice, hybrid, academic]
 * TOC
 {:toc}
 
+<script>
+  let footnotes = document.getElementsByClassName('footnotes')
+  footnotes.setAttribute('role', 'doc-sidenotes')
+  console.log(footnotes.getAttributeNode('role').value)
+</script>
+
+
+
 <article markdown=1>
 
 # Trans*formative TechnoCraft

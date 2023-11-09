@@ -114,12 +114,16 @@ h4 {
 .footnotes[role=doc-endnotes] {
   float: right;
   padding: 7px;
-  background-color: darkcyan;
+  background-color: cyan;
   role: "doc-sidenotes";
 }
 
-#fn {
-  color: red;
+// #fn {
+//   color: red;
+// }
+
+[id^="fn:"] {
+  color: greenyellow;
 }
 
 
