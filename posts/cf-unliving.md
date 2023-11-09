@@ -136,11 +136,11 @@ Except actually the way I dreamt the sentence, but was afraid to write it down:
 
 >"I dreamt I came out and no one believed me."
 
-I want a machine un/learning that maps points of non-correspondence, de-limiting the ways we might relate to one another. I want a dyke for president, and I want a chat bot that can tell me about it without it "violating its content policy." It forces me to acknowledge this may violate its policy in order to continue, then provides no results. I want a world that can even imagine a dyke president, just like Zoe Leonard did and Eileen Myles did, "someone who has made mistakes and learned from them" instead of feeding me milquetoast lines about the importance of diversity while offering me none. 
-
 ![violates policy](../_site/assets/img/violatepolicy.png)
 
-I became anything but traumas and porn tropes and no one believed me. I mapped points of non-correspondence and they accrete to more than similarity scores and Markov chains. 
+I want a machine un/learning that maps points of non-correspondence, de-limiting the ways we might relate to one another. I want a dyke for president, and I want a chat bot that can imagine it and tell me about it without it "violating its content policy," or even a chatbot that can tell me about the very real artwork by Zoe Leonard called "I want a dyke for president" based on the dyke poet Eileen Myles' run for president. Is it so hard to imagine such things when they do in fact exist or are on the cusp of existing, but are ignored by automated systems? Instead of imagining even these very real things, the chatbot freezes its screen and makes me acknowledge that my request "may violate its content policy" in order to continue. Then it resets, erasing my query altogether. No results, no record of my query. I want a chatbot that lives in a world that can even imagine a dyke president, or a poem about a dyke president, just like Zoe Leonard did and Eileen Myles did: "someone who has made mistakes and learned from them" instead of feeding me milquetoast lines about the importance of diversity while offering me none. 
+
+I became anything but traumas and porn tropes and no one believed me. I mapped points of non-correspondence and they have [amassed/accreted/gathered] into more than similarity scores and Markov chains. 
 
 [[brokenMachine]]
 Queer codes and platforms. Make a note how these are related. 

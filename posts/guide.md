@@ -218,11 +218,14 @@ Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't wo
 
 One of the best ways to get started with learning a new aspect of programming is to take someone else's example code and learn how it's working by changing things — just little things to start. What happens if I make this a different color or run it at a different speed? How does it show up on screen? Then break big things — use it for different purposes, combine it with other code. 
 
-Find some example code for a website you like by right clicking on any part of it in your web browser and hitting `Inspect`. You should see some windows appear that show the HTML and CSS source code for the site, where you can temporarily and without fear modify the site as you wish. Give yourself a fun mini challenge.
+Find some example code for a website you like by right clicking on any part of it in your web browser and hitting `Inspect`. 
+
+You should see some windows appear that show the HTML and CSS source code for the site, where you can temporarily and without fear modify the site as you wish. Give yourself a fun mini challenge. The HTML (usually on the left Inspector window by default, maybe on top) puts items on the screen. The CSS (right /bottom) styles those items in different shapes, colors, fonts. 
 
 For example: What if the New York Times had a purple background? 
 
-* Try going to to the `Styles` (Chrome) or `Rules` (Firefox) window that opened when you hit inspect.
+* Try going to to the CSS area that opened when you hit inspect. When you hover over the section with your mouse, checkboxes will appear next to terms like `margin` and `padding` and `font`, for example.  
+
 * Find `background` or `background-color:` and change what follows it to say `purple`
 
 What other experiments with CSS might you try? What can you learn using this method about how the site you chose was built? 

@@ -8,6 +8,8 @@ tags: [prospectus, dissertation]
 
 ## Trans*formative Technocraft: Coding Care, Intersectional AI, and Conscientious Datasets for Machine Learning
 
+Book Organizing Principle. Book Question, Each chapter answers a portion of the question. [Dissertation-to-Book Workbook](https://newsletter.manuscriptworks.com/p/the-dissertation-to-book-workbook?publication_id=6375&post_id=138290689&isFreemail=true&r=447le)
+
 ### TO DO LIST
 
 - [x] Make a diss schedule working backward from deadlines
