@@ -58,7 +58,7 @@ Once I accepted that the false starts and frustrations of learning to code are p
 
 I have learned I can make coding my own, and that anyone else can too. This guide talks about how to nurture the supportive spaces that make this sparkly code feeling possible.
 
-#### (En)coding rituals: What are the practices of coding communities? 
+### (En)coding rituals: What are the practices of coding communities? 
 
 Code is language and code is a tool for expressing and enacting combined. But coding has "belonged" to far too few for far too long, while the rest of us are considered outsiders to the encoded systems that consume us.
 
@@ -66,12 +66,14 @@ Current rituals and protocols around programming are stale: The stereotype of th
 
 This guidebook wants to enrich the rituals of programming to include the joy, community, and care necessary to make different kinds of code — and different kinds of worlds. It explores the practices of and in communities which are feeding new kinds of code and new kinds of coders that can [change the world]. [xxx]
 
+[//]: # "politics of how magic rings here w its many connotations"
+
 ### Code isn't magic, but we are
 
 >"No way, code is magic." 
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
-I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, I keep learning that this magic comes from *us*. It does not from automated or autonomous systems, from the next hyped tech, or [xxxxx], which have always been deeply intertwined with humans in every way. 
+I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, I keep learning that this magic comes from *us*. It does not come from automated or autonomous systems, from the next hyped tech, or [xxxxx], which have always been deeply intertwined with humans in every way. 
 
 * How do we bring our magic to the systems we want to affect? 
 * How do we change systems to suit us if we are stuck outside them – without conforming to their encoded ways of thinking? 
@@ -384,7 +386,7 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 </div>
 
-## 4. We make it weird
+## 4. We get weird
 
 ### Move toward the weird
 
@@ -598,7 +600,9 @@ It takes shape within the limits of the affordances of one's tools. [rephrase] T
 
 [Back to top](#top)
 
-## 7. We dream impossibly big *and* impressively tiny, too.
+## 7. We dream big (and small)
+
+impossibly big *and* impressively tiny, too
 
 We're both excited for both impossibly large possibilities and also obsessed with tiny charming tasks. [xxxMore]
 
@@ -639,7 +643,9 @@ These small things are seeds. We don't know what they might grow into but we tru
 
 [Back to top](#top)
 
-## 8. We create rituals together
+## 8. We create rituals
+
+It's essential to create rituals *together*. 
 
 A combination of consistency and loose structure has served us best. 
 

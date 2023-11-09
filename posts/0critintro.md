@@ -10,6 +10,8 @@ tags: [introduction, theory, practice, hybrid, academic]
 * TOC
 {:toc}
 
+<article markdown=1>
+
 # Trans*formative TechnoCraft
 
 To build safer, more
@@ -270,7 +272,11 @@ In this way, the material I work with also in-forms what I make, through its ins
 
 >"In both carpentry and textiles, the form of a thing does not stand over it or lie behind it but emerges from this mutual shaping, within a gathering of forces, both tensile and frictional, established through the engagement of the practitioner with materials that have their own inclinations and vitality." [@ingoldLifeLines2015, 24]
 
-Current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. Sarah Sharma reminds us, the Broken Machines who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+Current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. Sarah Sharma reminds us, the Broken Machines who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. 
+
+>"In order to understand and thus accept you, I have to measure your solidity with the ideal scale providing me with grounds to make comparisons and, perhaps, judgments. I have to reduce. [...] perhaps we need to bring an end to the very notion of a scale. Displace all reduction. Agree not merely to the right to difference but, carrying this further, agree also to the right to opacity that is [not enclosure within an impenetrable autarchy but] subsistence within an irreducible singularity. Opacities can coexist and converge, weaving fabrics. To understand these truly one must focus on the texture of the weave and not on the nature of its components. For the time being, perhaps, give up this oid obsession with discovering what lies at the bottom of natures. There would be something great and noble about initiating such a movement, referring not to Humanity but ta the exultant divergence of humanities. Thought of self and thought ofother here become obsolete in their duality. Every Other is a citizen and no longer a barbarian. What is here is open, as much as this there. 1 would be incapable of prqjecting hum one ta the other. This-here is the weave, and it weaves no boundaries. The right to opacity would not establish autism; it would be the real foundation of Relation, in freedoms." [@glissantPoeticsRelation2009a, 190]
+
+To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
 Code forms, then calcifies. Pattern turns to template. `init --> name --> get --> set`[^oop] 
 
@@ -319,7 +325,11 @@ Our being-in-process is both the means to "be" (prefiguratively) and also the me
 
 >"a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body." [@manningAlwaysMoreOne2013]
 
-I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections.[^platformdream] Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally—that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. The un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change. 
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections.[^platformdream] Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally—that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. The un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change.
+
+<aside markdown=1 id="glissant">
+"Relation is open totality; totality would be relation at rest. [...] Relation is movement." [@glissantPoeticsRelation2009a, 171]
+</aside>
 
 Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-foldable traces of its making — a flattened, temporarily static version of its coming-into-shape, marking the places it once touched against itself as it held different forms [@sedgwickWeatherProust2012] — trans\*formative technocraft aims to "decipher the history of the making" and the future shapes it might take. 
 
@@ -906,3 +916,4 @@ AI / human
 
 deep interdisciplinarity
 
+</article>
