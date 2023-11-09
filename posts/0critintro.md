@@ -10,15 +10,34 @@ tags: [introduction, theory, practice, hybrid, academic]
 * TOC
 {:toc}
 
-<script>
+<!-- <script>
   let footnotes = document.getElementsByClassName('footnotes')
   footnotes.setAttribute('role', 'doc-sidenotes')
   console.log(footnotes.getAttributeNode('role').value)
+</script> -->
+
+<script>
+  let fnId = ''
+  let fn
+  let section = document.createElement('section')
+  section.addClass('sidenotes')
+
+  let allfn = document.querySelectorAll('[id^="fn:"]')
+
+  for (let f in allfn) {
+    fnId = allfn[f].id
+    fn = document.getElementById(fnId)
+
+    let sn = document.createElement('div')
+    sn.addClass('sn')
+    sn.appendChild(fn)
+    section.appendChild(sn)
+  }
+  
+  document.body.appendChild(section)
 </script>
 
-
-
-<article markdown=1>
+<!-- <article markdown=1> -->
 
 # Trans*formative TechnoCraft
 
@@ -924,4 +943,4 @@ AI / human
 
 deep interdisciplinarity
 
-</article>
+<!-- </article> -->

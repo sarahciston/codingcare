@@ -111,7 +111,7 @@ h4 {
   border-color: cyan;
 }
 
-.footnotes {
+.footnotes, .sidenotes {
   background-color: whitesmoke;
   border-width: 1px;
   border-radius: 10px;
@@ -126,6 +126,13 @@ h4 {
 
 [id^="fn:"] {
   color: mediumslateblue;
+}
+
+.sn {
+  float: right;
+  align-self: right;
+  align-items: right;
+  text-decoration: wavy;
 }
 
 
