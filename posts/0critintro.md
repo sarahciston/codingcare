@@ -323,9 +323,7 @@ Our being-in-process is both the means to "be" (prefiguratively) and also the me
 
 >"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
 
-<aside markdown=1 id="manning">
->"a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body." [@manningAlwaysMoreOne2013]
-</aside>
+>"a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body." [@manningAlwaysMoreOne2013] {: .sidenote }
 
 I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections.[^platformdream] Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally—that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. The un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change.
 
