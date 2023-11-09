@@ -111,19 +111,21 @@ h4 {
   border-color: cyan;
 }
 
-.footnotes[role=doc-endnotes] {
+.footnotes {
+  background-color: whitesmoke;
+  border-width: 1px;
+  border-radius: 10px;
+  border-style: dashed;
+  border-color: mediumslateblue;
+  padding: 10px;
+  // margin-bottom: 15px;
+  font-size: 0.7em;
   float: right;
   padding: 7px;
-  background-color: cyan;
-  role: "doc-sidenotes";
 }
 
-// #fn {
-//   color: red;
-// }
-
 [id^="fn:"] {
-  color: greenyellow;
+  color: mediumslateblue;
 }
 
 
