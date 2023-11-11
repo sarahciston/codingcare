@@ -66,14 +66,14 @@ Current rituals and protocols around programming are stale: The stereotype of th
 
 This guidebook wants to enrich the rituals of programming to include the joy, community, and care necessary to make different kinds of code — and different kinds of worlds. It explores the practices of and in communities which are feeding new kinds of code and new kinds of coders that can [change the world]. [xxx]
 
-[//]: # "politics of how magic rings here w its many connotations"
+[//]: # "politics of how magic rings here w its many connotations. within larger history of cybernetics, diff meanings and connotations. acknowledge, orient more toward"
 
 ### Code isn't magic, but we are
 
 >"No way, code is magic." 
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
 
-I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, I keep learning that this magic comes from *us*. It does not come from automated or autonomous systems, from the next hyped tech, or [xxxxx], which have always been deeply intertwined with humans in every way. 
+I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, I keep learning that this magic comes from *us*. It does not come from ["the obfuscation we get from tech companies that says this magic is too complicated for you all"] automated or autonomous systems, from the next hyped tech, or [xxxxx], which have always been deeply intertwined with humans in every way. 
 
 * How do we bring our magic to the systems we want to affect? 
 * How do we change systems to suit us if we are stuck outside them – without conforming to their encoded ways of thinking? 
@@ -953,6 +953,9 @@ TBD
 ## [PROJECT SHOWCASE](https://creativecodecollective.com/showcase) 
 
 ## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
+
+
+>"Perhaps surprisingly, a lot of the software that gets written in computer science departments also doesn’t follow the standard rules of software engineering. It is quite common for academic researchers not to know in advance what the result of their project will be, and to approach programming as an experiment rather than a contractual construction project. This is as it should be, of course! We want researchers to do original things rather than simply follow someone else’s instructions." []
 
 </hr>
 

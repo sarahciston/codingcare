@@ -27,13 +27,15 @@ tags: [introduction, theory, practice, hybrid, academic]
   for (let f in allfn) {
     fnId = allfn[f].id
     fn = document.getElementById(fnId)
+    
 
     let sn = document.createElement('div')
     sn.addClass('sn')
+    sn.innerHTML = fn.innerHTML
     sn.appendChild(fn)
     section.appendChild(sn)
   }
-  
+
   document.body.appendChild(section)
 </script>
 
@@ -129,6 +131,7 @@ It requires we find common language, common value/appreciation/respect that come
 
 #### Approachable, accessible // Care means access
 
+>carceral "system-impacted people"
 
 #### Research tensions
 
@@ -228,7 +231,7 @@ Trans\* can be inclusive, fluid, in motion, outside binary logics, self-identify
 
 Trans\* also finds queer reverberations in the transducers all around us that constitute and reinforce computational systems. A transducer (from Latin for `lead across`) converts physical signals into electrical signals, or vice versa. Trans\*ducers are intermediaries that allow the trans\*fer between analogue to digital. Every time information gets trans\*mitted from an environmental sensor to a digital device — sound waves into audio files, pressure into heart rate [XXX,example] — trans\*duction has occurred, and thus some kind of trans\*formation. (Note how many times trans\*-ness appears in sites of cybernetic knowing.) These reimaginings of information's forms are always interventions, informed by the device designers' decisions as well as both contemporary and historical approaches to computational knowing. The material conversions required to power the logics of computation (turning qualities into voltages into quantities) all pass through gates of trans\* thinking. 
 
-#### \*
+#### \* (asterisk)
 
 The `*` after `trans` longs for anything that follows; it opens up space for the layered and undefinable becoming, and as such can include anyone who wonders if they belong, who wonders what they contribute, who wonders what "this whole thing" is about (be it gender, sexuality, technology, whatever). 
 
@@ -240,7 +243,7 @@ A French or English apostrophe may mark an omission of letters, but this elision
 
 Like the apostrophe at the start of `'pataphysics`, which gestures to the absurdity from which it springs, the asterisk is the instigator and the multiplier, the pivot and the punctum and the portal.
 
-It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not a redaction which the asterisk marks, but the possibilities of unknown language underneath. Or the tension of knowing and not saying, as in the marking of sw*@\r words. [Again, queer as a politics, "queer as in fuck you."] 
+It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not a redaction which the asterisk marks, but the possibilities of unknown language underneath. Or the tension of knowing and not saying, as in the marking of `sw*@r` words. [Again, queer as a politics, "queer as in fuck you."] 
 
 The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. In mathematics the asterisk is duality, mirrors mirroring each other, points connecting to make lines and lines crossing to make points, weak-star topologies and infinite vector space. This returns us to the word vectors and latent spaces of transformers.[CITEMiller] 
 
@@ -273,11 +276,15 @@ This nearbyness responds to computational values of compartmentalizing, modulari
 
 >[XXX add Chun's promiscuous/leaky/slutty data]
 
-From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, these projects deny their entanglements. They reduce these entanglements to magnitudes of distance in vector dimensions. Nearbyness resists this denial through reuniting them in conversation, bringing close without collapsing distinctions. 
+From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, these projects deny their entanglements. They reduce these entanglements to magnitudes of distance in vector dimensions. 
+
+Even "meaning" in language is increasingly defined by these numerical representations of proximity. Through natural language processing, nearness becomes co-occurance becomes word vector becomes fact and prediction. The [modus operandi/battle cry] of the predictive systems underlying tools like AdSense and GhatGPT is a 1957 quip: "the meaning of a word can be inferred by the company it keeps" [@firthApplicationsGeneralLinguistics1957]. 
+
+`Nearbyness` resists this denial of complex entanglements than through reuniting them in conversation, bringing close without collapsing distinctions. It is a different way of placing side by side, making note of more than frequency and sameness, and with the aim for another kind of knowing than to conquer.  
 
 >"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other's ﬂesh for one's own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It's the experience of affect, of being receptive, in real time." [@berlantCommonsInfrastructuresTroubling2016]
 
-These operations of nearbyness bring us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. This project enacts the process through feeling. For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream. I believe it is both, collecting fragments when you cannot yet see a form, when you cannot do anything else; then cutting away at them until what has already formed becomes clearer. 
+These operations of nearbyness bring us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. [This project enacts the process through intuitive and counter-intuitive feeling [CITETinaCampt][weirdpivothere?].] For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream. I believe it is both, collecting fragments when you cannot yet see a form, when you cannot do anything else; then cutting away at them until what has already formed becomes clearer. 
 
 <!-- accumulation and cutting away, pattern finding in collections of data, as the reverse proxies for making and testing theories, contraposed knowledge generating systems [Joque, Revolutionary Mathematics] -->
 
@@ -303,7 +310,7 @@ Current modes of computational logic are not mutually constitutive in trans\*for
 
 >"In order to understand and thus accept you, I have to measure your solidity with the ideal scale providing me with grounds to make comparisons and, perhaps, judgments. I have to reduce. [...] perhaps we need to bring an end to the very notion of a scale. Displace all reduction. Agree not merely to the right to difference but, carrying this further, agree also to the right to opacity that is [not enclosure within an impenetrable autarchy but] subsistence within an irreducible singularity. Opacities can coexist and converge, weaving fabrics. To understand these truly one must focus on the texture of the weave and not on the nature of its components. For the time being, perhaps, give up this oid obsession with discovering what lies at the bottom of natures. There would be something great and noble about initiating such a movement, referring not to Humanity but ta the exultant divergence of humanities. Thought of self and thought ofother here become obsolete in their duality. Every Other is a citizen and no longer a barbarian. What is here is open, as much as this there. 1 would be incapable of prqjecting hum one ta the other. This-here is the weave, and it weaves no boundaries. The right to opacity would not establish autism; it would be the real foundation of Relation, in freedoms." [@glissantPoeticsRelation2009a, 190]
 
-To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021, @amaroBlackTechnicalObject2022]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
 Code forms, then calcifies. Pattern turns to template. `init --> name --> get --> set`[^oop] 
 
@@ -328,7 +335,7 @@ Those who are left unsupported by infrastructures, those who are left out of rep
 Their manifesto reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs. [This holds true for many other minoritized communities as well.] By centering their community as knowledge holders and creators, and by seeing "interdependence as a political technology," they shift the design goals for technology. Rather than outsiders providing services to achieve normalized individual independence, they reorient toward kinship building [-@hamraieCripTechnoscienceManifesto2019a]. 
 
 Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." [@hickmanTranscriptionWorkPractices2019a]
-[CITEMingus]
+[CITEMingus?]
 
 Thus, form is always forming from within complex systems of interrelation. Formative and transformative technologies are more (and less) than their forms. They must emerge on our own terms — from the formats and methods of the communities they serve, with our values, goals, and approaches leading the way. 
 
@@ -337,6 +344,8 @@ Interdependence has been my intuitive compass, my frustration and fascination, f
 >"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
 
 Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). [As Erin Manning says of the spiral, it is "more duration than form" [@manningAlwaysMoreOne2013].] Like all verbs, then, the verb form implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
+
+>"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb 'to knot' and view knotting as an activity of which 'knots' are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-field or, in short, about 'making things stick'.  Accordingly, our focus should be on forces and materials rather than form and content." (Ingold 2015, 18)
 
 To frame research through relationships is also to foreground accountability by asking, as Shawn Wilson offers in *Research Is Ceremony*, "What am I contributing or giving back to the relationship? Is the sharing, growth and learning that is taking place reciprocal?" Wilson says that in an Indigenous Research Paradigm, "What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations" [-@wilsonResearchCeremonyIndigenous2008].
 
@@ -362,29 +371,28 @@ Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-f
 
 [^platformdream]: I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read and connect. [In my dream notes, I have written "semantic web layer cake?" and "Gollum platform?" I rarely imagine I am the only one imagining such things, until I try to explain them to others. I expect it to be easy, that these hybrid forms already exist — becaue they seem so small and obvious to me, how complicated could they be? But when I try to find some preexisting version, I come up empty, frustrated, confused. And I am left without tools or language to begin building such a connected and connecting form on my own.] 
 
+### TechnoCraft
 
-### Techno
+Technosolutionist... Technoutopian... Technodystopian... Technocrat... Like 'cyber' before it, the prefix 'techno' teems with possibilities and portends varieties of doom. Bubbling experiments and launching spacecrafts, self-driving vehicles and buzzwords like 'big data' dominate the imaginary while signaling in-groups and out-groups, zones of mystification and fear as well as economic opportunism and exploitation. 
 
-* **techno**: hybrid, digital, systems-oriented, mr.wizard science, project-driven not damage-centered
+Pairing 'tech' with 'craft' returns focus to the human-scale aspects of the technological imaginary, from the labor required to produce and maintain technological objects, to the impacts and harms it produces as part of human-driven sociotechnical systems, to the knowledge adapted (and co-opted) from unacknowledged domains and communities of practice.
 
-Techno-solutionist... Techno-utopian... Techno-dystopian... 
+TechnoCraft remembers that technology are procedures and protocols, as well as tools and materials. In the German language, `die Technik` means both 'the technology' (object) and also 'the technique', 'the method', or 'the procedure'. In the Spanish language, `la técnica` means all these as well as the 'the engineer' or 'the repairwoman'. TechnoCraft remembers technology is made by people and for people, meant to care for people, and we can learn from people in its making and implementatoin. 
 
-Techtonic/techne
-
->"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb 'to knot' and view knotting as an activity of which 'knots' are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-field or, in short, about 'making things stick'.  Accordingly, our focus should be on forces and materials rather than form and content." (Ingold 2015, 18)
->"the tectonic would become ‘the art of joinings’."
-
-[Dovetailedness]
-
-Correspondence not assemblage: "This whole is a correspondence, not an assemblage, the elements of which are joined not ‘up’ but ‘with’. Whereas the agglutinative accretions of the assemblage are ‘and … and … and’, the diﬀerential sympathies of the correspondence are ‘with … with … with’." (Ingold 2015, 23) "sympathy is a ‘living with’ rather than a ‘looking at’, a form of feelingknowing that operates in the interstices of things, in their interiority. It is, Spuybroek writes, ‘what things feel when they shape each other’. 3"
+In contrast to ego-driven technocratic prostheletizing that believes technology can fix technology with a "move fast and break things" approach, TechnoCraft operates by slow consideration in and for community. TechnoCraft places the seemingly contrasting terms 'tech' and 'craft' together to show how they are not contradictory, after all. Technology and Craft are two versions of the same [thing], two complementary approaches that [can learn from one another]. Techno can also mean analog or hybrid, can mean systems-oriented and human- and more-than-human inclusive, can mean process-oriented and not damage-centered [CITE,evetuck]
 
 
-Techno...music? Yes, always take dance breaks.
 
-Techno means a plethora of prefix possibilities and digital-analog hybrids (think what "cyber-" was to the '90s). Also systems-oriented, bubbling science experiments, project-driven not damage-centered.
+
+
+
+
+Correspondence not assemblage: 
+>"This whole is a correspondence, not an assemblage, the elements of which are joined not 'up' but 'with'. Whereas the agglutinative accretions of the assemblage are 'and … and … and', the differential sympathies of the correspondence are 'with … with … with'." (Ingold 2015, 23) "sympathy is a 'living with' rather than a 'looking at', a form of feelingknowing that operates in the interstices of things, in their interiority. It is, Spuybroek writes, 'what things feel when they shape each other'. 3"
 
 >"This possibility of creating directed, coordinated, and controlled sets of techniken that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022]
 >"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries." Address means you are locatable in space, means you are reachable. [@dhaliwalAddressabilityWhatEven2022]
+>"It is in these mechanisms, logics, techniques, and practices, not merely in the machines, that we must locate our current predicament. And it is in these that we shall ﬁnd surprising connections that locate differently."
 
 >"as if they are here because they happened to fit rather than they fit because of how the structure was built." [@ahmedQueerUse2018](overfit/underfit)
 
@@ -531,7 +539,7 @@ Thinking of coding as craft moves it back into the realm of holistic technologie
 
 <!-- tech = lab approach Bell Labs, The Lab Book: "anything is a lab" "creativity as basic to research. >research-creation @wershlerLabBook2022 -->
 
-### Craft
+#### Craft in the hand, in the muscle memory
 
 Focusing on craft means noticing the material, iterative, handmade, tinkering, iterative, process-oriented, embodied practices of knowledge and production that technologies emerged from, and how these practices can intervene in or reshape technologies, too. 
 
@@ -614,7 +622,6 @@ Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 
 >"Resistance to the Current: The Dialectics of Hacking"  @soderbergResistanceCurrentDialectics2022
 
-**TechnoCraft** honors historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — and aligns them with the aspects of technology which get overlooked: namely, the contributions to the materiality of tech from Women of Color in the global majority. 
 
 <!-- codebending (2015) repurposing languages and interfaces @CodeBendingNew -->
 
@@ -702,7 +709,13 @@ TERM: *Deep Interdisciplinary* is able to view these fundamental states as hybri
 Reversed: (Human) Reinforcement Learning with Machine Feedback
 My workshops at Ars, Moz, USC
 
-Thus, **TechnoCraft** is the combo of historically dismissed and feminized practices of craft—which emphasize process, duration, ongoingness, community—with the aspects of technology which get overlooked, like the contributions to the materiality of tech from Women of Color in the Global South, and move slow and fix things, capacities for repair and air and error and poesis in the techne. 
+
+
+### TechnoCraft
+
+**TechnoCraft** honors historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — and aligns them with the aspects of technology which get overlooked: namely, the contributions to the materiality of tech from Women of Color in the global majority. 
+
+move slow and fix things, capacities for repair and air and error and poesis in the techne. 
 
 
 ## def main(): What's Included
@@ -741,19 +754,19 @@ LEARNING GOALS: Through the Critical Field Guide, understand the training datase
 
 ### * : *Interstitial Portals*
 
-These essays are meant to be portals to other times and places where "the past is not lost, however, but rather a space of potential." @chunDiscriminatingDataCorrelation2021 Past-present-future are spaces to know our relationships with systems differently and intimately. @olufemiExperimentsImaginingOtherwise2021 
+These essays are meant to be portals to other times and places where "the past is not lost, however, but rather a space of potential." [@chunDiscriminatingDataCorrelation2021] "Past-present-future" are spaces to know our relationships with systems differently and intimately. [@olufemiExperimentsImaginingOtherwise2021 ]
 
->"the future is not in front of us, it is everywhere simultaneously: multidirectional, variant, spontaneous. We only have to *turn around*. Relational solidarities, even in their failure, reveal the plurality of the future-present, help us to see through the impasse, help temporarily eschew what is stagnant, help build and then prepare to shatter the many windows of the here and now." @olufemiExperimentsImaginingOtherwise2021 
->"The imagination is central to the cultural production of revolutionary movements; its primary role is to signal *what could be. What could be* is a lingistic stand-in for a set of political, social and cultural demands, strategic aims, revolutionary longings. As such, it resists singular definition."  
+>"the future is not in front of us, it is everywhere simultaneously: multidirectional, variant, spontaneous. We only have to *turn around*. Relational solidarities, even in their failure, reveal the plurality of the future-present, help us to see through the impasse, help temporarily eschew what is stagnant, help build and then prepare to shatter the many windows of the here and now." [@olufemiExperimentsImaginingOtherwise2021] 
+>"The imagination is central to the cultural production of revolutionary movements; its primary role is to signal *what could be. What could be* is a lingistic stand-in for a set of political, social and cultural demands, strategic aims, revolutionary longings. As such, it resists singular definition."[@olufemiExperimentsImaginingOtherwise2021]  
 
 Michel de Montaigne called his essays 'trials' or 'attempts'. These interstitial essays are attempts (essay: to try). They are also trials in the sense of struggles, to get at the core of the thing by sneaking between its ribs. They glance against logical modes of academic critical analysis or direct writing [as the production of use or call to action [XXXword?]] to be the thing and interrogate the thing at once.  
 
->"to let this book be the crisis rather than about the crisis or crises, rather, a plurality of traumas and pains felt collectively and individually." @cerankowskiSutureTraumaTrans2021
+>"to let this book be the crisis rather than about the crisis or crises, rather, a plurality of traumas and pains felt collectively and individually." [@cerankowskiSutureTraumaTrans2021]
 
->"constituting life through the act of writing—rather than as expressive (describing a life that exists prior to the act of writing about it)." @fournierAutotheoryFeministPractice2021
+>"constituting life through the act of writing—rather than as expressive (describing a life that exists prior to the act of writing about it)." [@fournierAutotheoryFeministPractice2021]
 
 Interest is about associative power, and connection
->"Isabelle Stengers argues that "interesting" in science involves a similar binding of subjects to subjects. Noting that "interest" derives from interesse, "to be situated between," @ngaiOurAestheticCategories2015
+>"Isabelle Stengers argues that "interesting" in science involves a similar binding of subjects to subjects. Noting that "interest" derives from interesse, "to be situated between," [@ngaiOurAestheticCategories2015]
 
 ### Permissive processing
 
@@ -761,7 +774,7 @@ My favorite pieces of writing all feel permissive. In the moment of reading, I f
 
 It is a kind of processing — the same information moved through the gut, through the body, rather than computational processing. 
 
->"In projects like Theory Boner, artists and writers and curators come together to configure critical theory as something that must be processed and transmuted through the body and is very physical and even sexual in its effects on us; like [Hazel] Meyer's No Theory No Cry, [these works] make space for a way of relating to theory that is embodied, affective, and more directly relevant to the lives of queer and gender-nonconforming feminist artists, activists, and students. @fournierAutotheoryFeministPractice2021
+>"In projects like Theory Boner, artists and writers and curators come together to configure critical theory as something that must be processed and transmuted through the body and is very physical and even sexual in its effects on us; like [Hazel] Meyer's No Theory No Cry, [these works] make space for a way of relating to theory that is embodied, affective, and more directly relevant to the lives of queer and gender-nonconforming feminist artists, activists, and students. [@fournierAutotheoryFeministPractice2021]
 
 #### Bias cuts
 
@@ -823,9 +836,6 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 # Bibliography
 
 - Amaro, R. *The Black Technical Object: On Machine Learning and the Aspiration of Black Being.* Sternberg.
-  - >"built on the systemic fragmentation of difference. That is to say, the recursive features of our Western imaginary are reliant on the reinstatement of logical 'truths' made actionable by systems of categorization."
-  - >"Data, in this sense, are more than operative forms of value; they establish the values of difference as the subject and object of organization."
-  - >"Machine learning [...] is an expression of that which has already been categorized."
 - Ahmed, S. (2017). *Living a Feminist Life.*
 - Ahmed, S. (2018). "Queer Use." feministkilljoys blog. https://feministkilljoys.com/2018/11/08/queer-use/
 - Amoore, L. (2020). *Cloud Ethics*.
@@ -924,7 +934,9 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
   - >"form is not only a wish for a refuge, a cushion: it is also social, an exposure, a mediation, and a launching pad in relation to which beings can ﬁnd each other to ﬁgure out how to live in a movement that takes energy from the term ‘‘movement’s’’ political resonance."
   - >"taking each other on and in but never collapsing the distance that allows for attention. To take something in is to be nonsovereign in relation to it, but that’s not equal to being destroyed by it."
 
-
+>"built on the systemic fragmentation of difference. That is to say, the recursive features of our Western imaginary are reliant on the reinstatement of logical 'truths' made actionable by systems of categorization."[@amaroBlackTechnicalObject2022]
+>"Data, in this sense, are more than operative forms of value; they establish the values of difference as the subject and object of organization."[@amaroBlackTechnicalObject2022]
+>"Machine learning [...] is an expression of that which has already been categorized." [@amaroBlackTechnicalObject2022]
 
 
 >"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" [@gabrysHowThingsSensors2019]. 

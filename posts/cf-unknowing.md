@@ -98,6 +98,8 @@ There are other kinds of boxes, not abstract monotone cubes. There are handcraft
 
 Dovetailed joints are carved like tiny fans and can only be loosened from a single side. They rely on the tension pulling them apart to hold them together. Dovetailedness is a strategy. 
 
+>"the tectonic would become ‘the art of joinings’." (Ingold)
+
 >It is a way to build strength and reduce the need for glue. But the way in which they hold their partners together is a bit of a weakness.
 
 >These instructions are simple and easy. The directions are clear. Each of the joints will require a minimum of 3 tools. The directions are concise. They are clear and to the point. The drawings in the directions are easy to read and understand. The drawings are free of errors. They are clearly drawn and are free of errors that cause confusion.The diagrams are helpful. The arrows help the reader understand the direction of cut.
@@ -169,11 +171,25 @@ More about protocols as limits and porousness. I have written this before but wi
 >when if tell talking  used give because we also about because we’ve ever once to imagine new crammed  set people generalizations  there want out some specific abstract and apply all to an had city person  townsfolk we tender those out enough  combining give room unique many unconsciously impulse situations and motivations it can the new person think like unfading upraised too   but when should begin the other direction—from strict be general—that spells kept  what we if stereotypes  unanswerable  machine wrong  we will out generalizations talk transportation individuals by selecting only a few sturdy about him we’ve begun there important  and then garnish they qualities to things individuals nourishes flocking must because them those  if now if these assumptions there “correct” consciousness to edge machine’s calculations it not across know forgiveness (although not large one)  because  these assumptions ghosts built on immortal categorizations  tombstones on unreliable frameworks frazzled intact in the first place  hence  others reduce the specific  irreducible multitude this arranged then exist living each mind  these generalizations many rules used draw identify  shape  questionings control them of us—to dangerous daily
 from GPT-J6B
 …
-**What are the codes for loss prevention?** Put it in the black box, keep it there forever. Don't know it or use it and it won't get hurt.
 
-**"how we evade ownership/equilibrium is precisely in that refusal to prevent loss we call sharing, rubbing, empathy, hapticality: the undercommon love of flesh, our essential omnicentric or anacentric eccentricity. Everything, in the wake of such disordering, is loss prevention."**
+---
+*What are the codes for loss prevention?*
 
-I am always rubbing the skin to remove the skin. But you can also take rubbings of surfaces to remember them. When you press or rub one thing against another thing, whichever thing is harder transfers its texture, its pattern, as an impression in the softer thing, only where they touch. And in return, the softer thing transfers its particles to whichever thing is harder. This is a form of relief. 
+I am always rubbing the skin to remove the skin. I also take rubbings of surfaces to remember them. When you press or rub one thing against another thing, whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief. 
+
+The residual is what's left. [Soap scum, memory, me.] Call it excess instead of error. Between a prediction (an expected result) and a prediction (a model's output) is error. [The amount of error can be reduced by attending to loss.] Error is measured by various functions for loss. These loss functions tell you how wrong you are, how far away your guess. Loss functions as an instructive, if you let it. "Each time my heart is broken it makes me feel more adventurous," says Frank O'Hara. And I am still practicing until this is true. What can be generated with/in this residual? In a "refusal to prevent loss"? 
+
+>"how we evade ownership/equilibrium is precisely in that refusal to prevent loss we call sharing, rubbing, empathy, hapticality: the undercommon love of flesh, our essential omnicentric or anacentric eccentricity. Everything, in the wake of such disordering, is loss prevention."
+
+All of it goes in the black box [and comes out again]. [Put it in the black box, keep it there. Don't know it or use it and it won't get hurt.]
+
+My father keeps everything so that he never loses anything. He never uses anything so that it never breaks. He says, 'Don't own anything, then you won't have to move it.' He means, 'Don't love anything more than it loves you.' His exact words are "The person who cares more loses." This is how I learned the codes for loss prevention. I learned them early and they stuck. I learned they did not work. I heard, "Do as I say, not as I do." 
+
+It is black box living, refusing to know in any way that might know you back. [It is the difference between holding and touching. /[Reciprocality, reciprocity, recursivity] is the difference between holding and touching.]
+
+
+
+It is black box living. To deal only with inputs and outputs, refusing to know any innards, refusing to know in any way that might know you back. To know intimately, speaking nearby, being with ("sharing, rubbing [...] undercommon love of flesh") is to release 
 
 >(gpt-j 6b) on a surface (skin) would create color when the colors of the skin is a reflection of the colors on the image, in other words, the color transfers from surface to surface, not where they make contact and don’t, but where there is relief, which could be the image. this is more of a form of relief than a transfer. in a sense, it is not actually rubbing the skin as you see, it is getting the image to make contact with the surface
 
@@ -183,7 +199,9 @@ Touch as rest (burden of self)
 
 Sand through fingers
 
-All center no ("act as if there is no use in a center")
+All center no ("Act so that there is no use in a centre. A wide action is not a width. [...] If the centre has the place then there is distribution. That is natural. There is a contradiction and naturally returning there comes to be both sides and the centre. That can be seen from the description." "a wide place stranger, a wideness makes an active center.")
+
+>"All the time that there is use there is use and any time there is a surface there is a surface, and every time there is an exception there is an exception and every time there is a division there is a dividing. Any time there is a surface there is a surface and every time there is a suggestion there is a suggestion and every time there is silence there is silence and every time that is languid there is that there then and not oftener, not always, not particular, tender and changing and external and central and surrounded and singular and simple and the same and the surface and the circle and the shine and the succor and the white and the same and the better and the red and the same and the centre and the yellow and the tender and the better, and altogether." (Stein, Tender Buttons)
 
 dismantling -> system keeps everything intact eg not touching, modular, defined
 
@@ -193,15 +211,16 @@ loss prevention vs refusal to prevent loss; holding vs touching
 
 >The way to stop your dog from getting lost was to put a leash on her and attach a bell.
 
-Ashby's discussion of the black box connects it to memory, trauma, and relation. For Ashby, memory is also a black box, in the sense that memory is the explanation for an unknown state or behavior, the part we fill in: 
 
->"Thus the possession of “memory” is not a wholly objective property of a system—it is a relation between a system and an observer; and the property will alter with variations in the channel of communication between them. Thus to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely. The properties of 'memory' are not those of the simple “thing” but the more subtle “coding”."
+With the first invocations of the term "black box" in AI, we also hear: memory, trauma, and relation. W. Ross Ashby introduces the term "black box" to the field of cybernetics, and for him memory is also a black box. He says "the possession of 'memory' is not a wholly objective property of a system—it is a relation between a system and an observer; [...] to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely." 
 
 He offers two examples, a calculator with magnetic tape recorder and a neighbor's dog that was hit by a car.
 
->"suppose I am in a friend’s house and, as a car goes past outside, his dog rushes to a corner of the room and cringes. To me the behaviour is causeless and inexplicable. Then my friend says, “He was run over by a car six months ago.” The behaviour is now accounted for by reference to an event of six months ago. If we say that the dog shows 'memory' we refer to much the same fact—that his behaviour can be explained, not by reference to his state now but to what his state was six months ago. If one is not careful one says that the dog “has” memory, and then thinks of the dog as having something, as he might have a patch of black hair."
+>"suppose I am in a friend's house and, as a car goes past outside, his dog rushes to a corner of the room and cringes. To me the behaviour is causeless and inexplicable. Then my friend says, 'He was run over by a car six months ago.' The behaviour is now accounted for by reference to an event of six months ago. If we say that the dog shows 'memory' we refer to much the same fact—that his behaviour can be explained, not by reference to his state now but to what his state was six months ago. If one is not careful one says that the dog 'has' memory, and then thinks of the dog as having something, as he might have a patch of black hair."
 
-There is so much violence in the black box, in the memory. And if "real objects are all black boxes" and black boxes are like memory and memory is relational, are codings of the thing, what are we left with but traumas in this formulation?  
+There is so much violence in the black box, in the memory. And if, as Ashby says, "real objects are all black boxes," and black boxes are like memory, and memory is relational, are codings of the thing, what are we left with but traumas in this formulation? 
+
+
 
 loss function in machine learning calculates the difference of the output from the expected output. a calculation for what is lost. to function through or with or because of a loss. 
 
