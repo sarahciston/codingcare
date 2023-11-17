@@ -23,20 +23,17 @@ Book Organizing Principle. Book Question, Each chapter answers a portion of the 
 
 - [ ] 04 APR Filing Due for May Grad  (05 JUL for Aug)
 - [ ] 29 MAR Diss Checklist Due, Last Revisions & Formatting for May Grad (28 JUN) - [ ] "Approval to Submit" form, generated via email, - [ ] "Appointment/Change of Committee" form, - [ ] "Survey of Earned Doctorates" form
-- [ ] **14 FEB (01 MAR) Defense Week** !15 MAR Latest Date! (13 JUN)
-- [ ] **24 JAN (09 FEB) Send Final Draft to Committee** (30 MAY)
-- [ ] 15 DEC (03 JAN) Start Revisions
-
-- [ ] **01 DEC (08 DEC) Send Chairs Complete Draft**
-- [ ] (27 NOV-08 DEC) (Sprint 6 if needed)
+- [ ] **19 FEB (15 MAR) Defense Week** !15 MAR Latest Date! (13 JUN)
+- [ ] **01 FEB (23 FEB) Send Final Draft to Committee** (30 MAY)
+- [ ] 22 JAN Start Revisions
+- [ ] **01 JAN (08) Send Chairs Complete Draft**
+- [ ] 18-29 DEC Sprint 7: 
+- [ ] 10-17 DEC TRAVEL
+- [ ] 27 NOV-08 DEC Sprint 6: 
 - [ ] 13-25 NOV Sprint 5: Introduction & Conclusion (Critical AI essay (goes in IAITK?))
-- [ ] *12 NOV Send Writing to Tara, Rita*
 - [ ] 30 OCT-11 NOV Sprint 4: Interstitial Essays & Introduction
-- [ ] ~~*29 OCT Send Writing to Holly, +?*~~
 - [ ] ~~16-28 OCT Sprint 3: Critical Field Guide & Coding Care (second half) or/& Introduction~~
-- [ ] ~~*15 OCT Send Writing to Tara(?), +?*~~
 - [ ] ~~02-14 OCT Sprint 2: Intersectional AI Toolkit & Coding Care (second half) or/& Introduction~~
-- [ ] ~~*01 OCT Send Writing to Holly, +?Rita*~~
 - [x] ~~18-30 SEP Sprint 1: **Coding Care** (first half) & Introduction~~
 
 
@@ -230,12 +227,9 @@ strategies for facilitating communities of practice, for alternative accessible 
 ## bibliography & mediography 
 See References TK
 
-hooks, bell [Teaching to Transgress]
+
 Zach Blas [Queer Technologies](https://zachblas.info/works/queer-technologies/)
 Care Syllabus Advisory Collective. [I Can't. Feeling Through Burdens of Care](https://www.caresyllabus.org/i-cant-feeling-through-burdens-of-care)
-Hedva, Johanna. [Care in End Times, Care Syllabus](https://www.caresyllabus.org/care-in-end-times)
-Hedva, Johanna. [Why It's Taking So Long](https://www.topicalcream.org/features/why-its-taking-so-long/)
-* McPherson, Tara. [Feminist in a Software Lab](https://www.hup.harvard.edu/catalog.php?isbn=9780674728943)
 
 >>"balance exploration with exploitation" (Montfort 20XX, 5)
 
@@ -279,8 +273,6 @@ intersectional
 
 ## overall what am i doing, what's in common
 
-These are instructions for myselves, past-present-future, hoarding and gathering tactics from many traditions, making connections, strategies and wayfinding for the kinds of worlds and systems I want to be part of. From intersectional transfeminist infrastructures, self-hosting servers and 
-
 
 >>"in instructions to label images of faces for computer vision, requesters ask workers to identify “female” and “male” faces. Through this request, companies are not only asking workers to guess someone’s gender, but also imposing a binary way to see gender in data."
 >Miceli, M., & Posada, J. (n.d.). The data-production dispositif: How to analyze power in data production for machine learning. Schwartz Reisman Institute. Retrieved June 28, 2022, from https://srinstitute.utoronto.ca/news/the-data-production-dispositif
@@ -295,11 +287,9 @@ Crawford, K. Atlas of AI.
 “the reduction from context to data, from meaning to statistical pattern recognition” [24, p. 100]
 “Sidelining issues of ethics is harmful in itself, and it perpetuates the false idea that scientific research happens in a vacuum, with no responsibility for the ideas it propagates.” [117]
 >> Where will this data go next? How can you protect its knowledge value? “The practices of data extraction and training dataset construction are premised on a commercialized capture of what was previously part of the commons. This particular form of erosion is a privatization by stealth, an extraction of knowledge value from public goods. A dataset may still be publicly available, but the metavalue of the data—the model created by it—is privately held.” [120]
-“Classification is an act of power, [...] but classifications can disappear ‘into infrastructure, into habit, into the taken for granted’[...]. (Bowker and Star)[128] We can easily forget that the classifications that are casually chosen to shape a technical system can play a dynamic role in shaping the social and material world.”
-“The tendency to focus on the issue of bias in artificial intelligence has drawn us away from assessing the core practices of classification in AI, along with their attendant politics.” [128]
-“artificial intelligence uses classification to encode power” 
-“mathematical parity is frequently proposed to produce ‘fairer systems’ instead of contending with underlying social, political, and economic structures”
-“classificatory infrastructures contain gaps and contradictions: they necessarily reduce complexity, and they remove significant context, in order to make the world more computable. But they also proliferate in machine learning platforms in what Umberto Eco called “chaotic enumeration.”71 At a certain level of granularity, like and unlike things become sufficiently commensurate so that their similarities and differences are machine readable, yet in actuality their characteristics are uncontainable. Here, the issues go far beyond whether something is classified wrong or classified right. We are seeing strange, unpredictable twists as machine categories and people interact and change each other,”[148] 
+"mathematical parity is frequently proposed to produce ‘fairer systems’ instead of contending with underlying social, political, and economic structures"
+“classificatory infrastructures contain gaps and contradictions: they necessarily reduce complexity, and they remove significant context, in order to make the world more computable. But they also proliferate in machine learning platforms in what Umberto Eco called “chaotic enumeration.”71 
+**At a certain level of granularity, like and unlike things become sufficiently commensurate so that their similarities and differences are machine readable, yet in actuality their characteristics are uncontainable. Here, the issues go far beyond whether something is classified wrong or classified right. We are seeing strange, unpredictable twists as machine categories and people interact and change each other,”[148]**
 
 “Machine learning systems are, in a very real way, constructing race and gender: they are defining the world within the terms they have set, and this has long-lasting ramifications for the people who are classified.” [146]
 >>“the act of defining categories and ideas of normalcy creates an outside: forms of abnormality, difference, and otherness. [...] That restricts the range of how people are understood and can represent themselves, and it narrows the horizon of recognizable identities. [147]
@@ -320,7 +310,7 @@ Because they draw on past data, the systems are inadvertently diagnostic, rather
 
 
 
->>”As Anna Lauren Hoffman writes: “The problem here isn’t only one of biased datasets or unfair algorithms and of unintended consequences. It’s also indicative of a more persistent problem of researchers actively reproducing ideas that damage vulnerable communities and reinforce current injustices. Even if the Harvard team’s proposed system for identifying gang violence is never implemented, hasn’t a kind of damage already been done? Wasn’t their project an act of cultural violence in itself?”
+>>”As Anna Lauren Hoffman writes: “The problem here isn’t only one of biased datasets or unfair algorithms and of unintended consequences. It’s also indicative of a more persistent problem of researchers actively reproducing ideas that damage vulnerable communities and reinforce current injustices. Even if the Harvard team's proposed system for identifying gang violence is never implemented, hasn’t a kind of damage already been done? Wasn’t their project an act of cultural violence in itself?”
 
 Anna Lauren Hoffman says, “the idea of discursive violence can help us destabilize any neat or firm distinction between “good” and “bad” applications of data science and technology as binaries that are, themselves, indicative of broader social and ideological commitments” [11]
 The data-driven impulse to include more data, 
@@ -337,31 +327,57 @@ Just as a machine learning model can only relate to the forms of information tha
 
 
 
-
-
 >"for the Broken Machine” in order to account for the differential experience of being positioned within and determined by patriarchy, of being understood as a technology that does not work properly." —Sharma (Harold Adams Innis argued that "the true message of any medium was the change in pace, pattern, and scale it introduced into human affairs.") 
->"the idea of our contemporary social-political-economic system as an already-broken machine full of the incompatibly queer, raced, classed, and sexed broken- down machines is politically exciting for feminism."
-**>"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves."**
->"the Broken Machine recognizes that to represent is also to be filed away."
+
 >"Broken Machines have capacity for others when others are drained because they seek and find communal care rather than return to those original power sources that are simultaneously draining."
 >"they plug into coalitions and recognize a division of labor within feminist struggle. This division of labor is capacity-building and guaranteeing: it recognizes that one cannot cover all bases simultaneously."
->"being challenged by the machine world is one of patriarchy’s deepest fears. [...] We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution.
-Sharma.
 
 
 
 
 
-Ahmed, S. X. “Queer Use.”
 
-Cox, G. and Soon, W. (2020). Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press.
 
-Douglass, J. (2021). ELO Conference Presentation on Writers’ GitHub Practices.
 
-Nardi, Bonnie. (1993). A Small Matter of Programming.
 
-Piepmeier, A. (2009). Girl Zines: Making Media, Doing Feminism. NYU Press.
 
-Schwarz, C. (2010). The Anarchist’s Tool Chest. Lost Art Press LLC.
 
-Vee, Annette. (2017). Coding Literacy.
+
+
+
+**What have you learned and unlearned through “AI Anarchies”?** 
+
+I have learned to talk about machine learning with string. I have learned to talk about machine learning with grandmothers and teenagers. I have learned we can talk more about machine learning in the plainest terms, and still speak about complexity.
+
+I have learned that machine learning, like all practices, is relational and durational. I have learned about combining relation and duration—in sociotechnical systems and fiber weave and every morning on the terrace at the AI Anarchies/ZK/U residency. From Tiara Roxanne, I have learned about duration, duration, duration. Duration as a relational action. From Anita Rind, I learned about relation, relation, relation. Relation as a durational action.
+
+From Clara Herrman, Maya Indira Ganesh, Nora Khan, and Nataša Vukajlovic, I have learned how to placemake powerfully and care-fully, with warmth and generosity. From Pedro Oliveira and Aarti Sunder, I have learned how to map all the relations, hold all the contradictions, maintain the complications, and distill the heavy thinking into aesthetic gestures.
+
+I am continually un/re/learning all this.
+
+
+
+**From creative writing to coding to textiles, knotting and plotting intersectional knowledge into our societies and its technologies has taken many shapes for you over the years. What is your next tool?**
+
+My next tools are tools for making tools. Through my exploration of the unfathomable scale of machine learning through material metaphors, as in the crocheted labyrinth, I have been invested in making complex concepts feel approachable in different terms, in order to bring more voices into important conversations about tech. This continues to take many forms and vocabularies, from public zine-making workshops to interactive digital installations to fiber arts and durational performance—and in all these contexts I'm interested in how I can engage and learn from others about the many ways we might approach technologies. Next I want to continue digging into the roots of large complex machinic systems—training datasets, models, architectures—and I am building code tools that allow me to do this. My goal with these tools is also to make such systems available and comprehensible to others, so that we may feel more capacity to reshape them.
+
+
+
+
+
+
+
+**How can people imagine new metaphors for AI, and how might it help them?**
+
+First it helps just to notice whenever we encounter the "standard" conceptions of AI—like 'neural' networks or black boxes—that these are in fact metaphors; they are not the only possible truths for imagining automated systems. These metaphors need contextualizing in their military, industrial, western histories, which have shaped them into narrow concepts of what AI can and should be, as well as have limited who can access them. Acknowledging these concepts as metaphors opens the possibility to choose other metaphors. By choosing other metaphors we can choose how we want to imagine AI systems otherwise. We can describe them through different analogies that make them comprehensible to more people, and we can imagine how we might build them differently to support other goals. By describing AI systems through the metaphors of different domains, we gain the wisdom of many communities of practice in order to reshape their aesthetics, ethics, and tactics. What can we learn about computing (and not computing) through the lenses of Black feminist worldbuilding and queer crip technoscience, from activists and artists, from our more-than-human networks? How would these knowledge systems and values fundamentally reshape AI systems?
+
+
+**And what is the little anarchy that you could develop and build into our belief systems?**  
+
+My favorite concept from anarchism is prefigurative practice, the idea that we can—must—begin creating the futures we want to see in this present. At its simplest, this means embodying our values. Through everyday living at interpersonal scales, we both reflect the world as it has been and also create models for the world as it might be. Maybe this sounds naively optimistic, but machine learning models are doing this all the time, and so are we, regardless. So, what interactions can you have, what worlds can you imagine, what futures can you encourage through your smallest gestures?
+
+British writer Lola Olufemi says, in Experiments in Imagining Otherwise, "The imagination is central to the cultural production of revolutionary movements; its primary role is to signal what could be. What could be is a linguistic stand-in for a set of political, social and cultural demands, strategic aims, revolutionary longings. As such, it resists singular definition." All our artistic interventions, technological experiments, and daily interactions are imaginative acts that expand (or limit) "what could be."
+
+
+
+

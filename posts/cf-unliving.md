@@ -209,3 +209,7 @@ The physical therapist today says when I work on muscle strength I will no longe
 
 ingold's knot vs brick
 
+What uncomfortable affects/emotions emerge when we are brought into process? When the veil falls away that divided the maker from the audience? What do process-oriented modes reveal that we don't want to see? Neoliberal disgust with imperfection. The labor being asked of us, the labor we place upon ourselves. 
+
+* I'm not sure who the we I use is, already collective data? Already acknowledging myself is diffuse? not sure who i'm writing from or what unstable gender, self I am. 
+* situating subject positions
