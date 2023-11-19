@@ -71,7 +71,7 @@ This guidebook wants to enrich the rituals of programming to include the joy, co
 ### Code isn't magic, but we are
 
 >"No way, code is magic." 
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, I keep learning that this magic comes from *us*. It does not come from ["the obfuscation we get from tech companies that says this magic is too complicated for you all"] automated or autonomous systems, from the next hyped tech, or [xxxxx], which have always been deeply intertwined with humans in every way. 
 
@@ -212,7 +212,7 @@ Critically breaking things helps us understand how they work (or don't work) fro
 Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't worry about that yet. Tinkering is a transferrable, lifelong skill:
 
 >"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 <div class="play-along box" markdown="1">
 
@@ -353,12 +353,12 @@ Live coding, though it might seem counterintuitive, sparks confidence. It helps 
 When we are together and witness each other struggle, that commonality reveals lightness and joy through community support. (You're not going insane, because you're not the *only one* who's gone insane staring at their code before. Yes, you do need sleep. Yes, you'll figure it out, or you'll figure something out. And we're here to help.) 
 
 >"I loved editing that Three.js[^threejs] scene with Ada. I love being able to have group input. Before I was trying to communicate Three.js knowledge, and I've been struggling to get it out of my head. But, for some reason, seeing it in the group setting, it was a really fulfilling experience — like a teaching moment where I could communicate a lot of knowledge in a short amount of time."
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
 
 >"The constant state of exposure – and along with it, a sustained vulnerability – is enabled only through constant and meticulous practices of documentation. Far from covering up our bugs, we [hackers] openly acknowledge and even explain them. We don't hide problems. The virtue of transparency is that it makes actions accountable." 
->>— Anja Groten, Hacking & Designing: Paradoxes of Collaborative Practice" in @bogersCriticalMakersReader2019
+>>–Anja Groten, Hacking & Designing: Paradoxes of Collaborative Practice" in [@bogersCriticalMakersReader2019]
 
 [//]: # "[XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?]"
 
@@ -485,7 +485,7 @@ So pick something you like to learn about, and don't assume learning has to be h
 Teaching others helps us learn. In our practice at Code Collective, we co-work, co-teach, and co-learn. These practices combine seamlessly and simultaneously. When I'm explaining to someone how something works that I think I understand, I find new ways to understand it better. When I am asked a question I don't know the answer to, I find new opportunities to learn together. Teaching *is* learning and learning *is* teaching. And co-working cooperatively facilitates both. 
 
 >"There was beginner student who had trouble with code, and I think it was Katherine who helped. I remember seeing seeing that kind of troubleshooting, debugging. Being able to see the mentorship between between people was a really powerful thing for me to see."
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 This requires a bit of humbleness and "wayfinding" (exploring, birdwalking, pathfinding) together. This requires openness to collaboration and sharing, instead of competition or perfectionism. All this requires some mutual trust and is built over time, of course.
 
@@ -569,7 +569,7 @@ This approach helps more people feel welcome in our meetups. Often it also shift
 
 >"It's almost like an opportunity cost, like if Code Collective wasn't there, I would be working for Palantine or something right now, I'd be using this mind towards — I wouldn't even call it destruction but I would have lost a lot. [...] A huge amount of empathy or a criticality has remained. That's that's what I'm taking with me and that's what I will keep, and I hope to replicate it in some form."
 
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 If someone comes in with an opposing idea, let's talk about it. Tell us what's interesting to you about that. Show us how you're thinking about that. Maybe we disagree, but we're interested to know where you're coming from. We can hold space for multiple opposing ideas. My approach is somewhere between scrappy "dialectics" (dialogue and questioning) and "negative capability" (staying with uncertainties and doubts, without reaching for answers).
 
@@ -586,11 +586,17 @@ At various points, Code Collective has also been Zine Club, which has also been 
 >"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)
 
 
+
 ### Choose the right tool for the job
 
 Sometimes we have to build it. Content is liquid; it will take the form of its container. It takes shape based on what the tools used can allow. Carefully choose tools and forms that share the values you want your work to embody. 
 
-It takes shape within the limits of the affordances of one's tools. [rephrase] The capacities of the tools we choose set limits for our capacities to create. If I choose a saw, I may be able to build a birdhouse but won't be able to write an essay. 
+It takes shape within the limits of the affordances of one's tools. [rephrase] The capacities of the tools we choose set limits for our capacities to create. If I choose a saw, I may be able to build a birdhouse but won't be able to write an essay (maybe an essay about saws?). 
+
+
+[XXX]
+[XXX]
+[XXX]
 
 <div class="play-along box" markdown="1">
 
@@ -602,26 +608,31 @@ It takes shape within the limits of the affordances of one's tools. [rephrase] T
 
 ## 7. We dream big (and small)
 
-impossibly big *and* impressively tiny, too
+### Get excited about impossibly large possibilities and impressively tiny ideas 
 
-We're both excited for both impossibly large possibilities and also obsessed with tiny charming tasks. [xxxMore]
+There's a lot to be said for project managed software development processes that proceed by the book. But if you don't work that way, great! Maybe you're like me, and a minimum viable prototype sparks no joy, but you can see the whole constellation of an idea writ large, or you are easily distracted by a technological tangent or research rabbit hole. In writing, Anne Lamont calls these "birdwalking" [CITE]. In Code Collective, we have found that letting ourselves follow these instincts for a while are never useless endeavors. They may not feel useful in the moment but eventually they even help us arrive at more realistically scaled versions of our ideas. 
 
-Do you know that sneaky feeling an idea should already exist? It might mean you are just the person to create it. Or that other sneaky feeling that an idea is too impossibly far-fetched, that you are the only one who would want it? That *still* might mean you should pursue it. Remember if you're interested in something, others will be too! We are the people best suited to bring our own visions to life.
+Those tiny charming tasks that draw us away from "the real work"? The ones in which you realize you've just spent three hours learning how to [format CSS grids]()[CITE] for seemingly no reason or deepdiving into [histories of cyberfeminism]()[CITE]? Inevitably they reappear, whether in this project or years later, so trust your wandering urges (at least until you're on deadline). 
+
+And those gargantuan ideas, the ones you'd have no idea where to start? Go ahead and sketch the whole thing out — on paper, in plain language or pseudo code, in stick figures and scribbles. Make a map of your wild idea! For the areas where you have absolutely no clue what belongs there, you can write "Here be dragons" and fill it in later with the help of others. The map will help them, and you, understand what you don't yet understand. It will also help you see how you might break this big idea into smaller parts that could be doable — or at least a bit more comprehensible, and maybe one of the parts of those parts you know how to start. Start anywhere, and go from there!
+
+![map of ladymouth]() [XXX]
+
+### [Raise the stakes:/Involve yourself:] You are the one you've been waiting for 
+
+Do you know that sneaky feeling an idea should already exist? It might mean you are just the person to create it. Or that other sneaky feeling that an idea is too impossibly far-fetched, that you are the only one who would want it? That *still* might mean you should pursue it. Remember if you're interested in something, others will be too! We are the people best suited to bring our own visions to life. 
+
+When I first started my first Python programming project, I had an idea to make a chatbot that would try to explain feminism to online misogynists, performing that labor (as a farce) so that I would not have to. I looked around to see who had already made this, convinced it was a simple idea that would already exist. When I could not find any examples, I knew this idea needed to exist, which meant 1) I was the person who needed to realize it (scary!) and 2) finally motivated me to learn to program (making it a lot more interesting and fun, because I had a mission!).
 
 ### Critical dreaming
-
-Set aside your doubts and questions——what would you make if you could make anything, and why? 
 
 It's true there's a lot to be said for the smallest viable prototype. Sure. But sometimes we can't help ourselves. We love to dream wildly. We'll figure out the impractical later and the impossible after that. Sometimes critical dreaming gets us where we need to go by overshooting so vastly we end up somewhere new. 
 
 Scaling down can come later. Dream big!
 
-*How do you practice critical dreaming? [xxx]*
+*How do you practice critical dreaming?* Momentarily setting aside your doubts and questions, what would you make if you could make anything? And *why*? Focusing on the reasons you want to make, and why something should or shouldn't exist, is an incredibly important aspect of development that often gets missed. It might be as simple as, "I feel it in my bones." See if you can stay with that feeling to find more language for it. What does that feeling feel like, and what does it need need to tell you? 
 
-#### Minimum viable learning
-
-* [magic words](https://pad.vvvvvvaria.org/rr-minimal-viable-learning); [varia.zone collective](http://vvvvvvaria.org/en/)
-* [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
+Articulating that dream with as much detail as possible does several cool things. First, it already makes it more real. Second, it mkaes clear more paths and strategies and shapes by which it could exist.  
 
 #### Critical tinkering 
 
@@ -632,7 +643,11 @@ These small things are seeds. We don't know what they might grow into but we tru
 *How do you practice critical tinkering? [xxx]*
 
 
-### Choose/find impossibly large things to get excited about too
+#### Minimum viable learning
+
+* [magic words](https://pad.vvvvvvaria.org/rr-minimal-viable-learning); [varia.zone collective](http://vvvvvvaria.org/en/)
+* [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
+
 
 
 <div class="play-along box" markdown="1">
@@ -668,7 +683,7 @@ We also keep a weekly meeting cadence but this has gone from in-person to zoom t
 The main takeaway is that we have adapted to the needs and circumstances of the community over the past three years, striving for the loosest container possible to hold the thing together. 
 
 >SAMIR says: "It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 The examples I offer here are often in flux as the temperaments and conditions of our members change. Fundamentally, we create ways of being together and acknowledging each others common humanity and unique perspectives simultaneously. We mark the specialness of contact and connection. Often this happens by accident and then codifies (code-ifies!) into a pattern we keep. Try and adjust until you find what works for you!
 
@@ -709,13 +724,13 @@ In live-coders Olivia Jack and Bruno Gola's Berlin-based hack night, Show Us You
 Without fail, when I asked what makes our community thrive, everyone said: SNACKS! Support snacks at all costs. Snacks are magic. How do snacks do it? I don't know, ask snacks. Make sure you budget for snacks.
 
 >"While this is a cliche food has always brought people together. Snacking together in the basement brought out some of the best discussions and ideas I have entertained in college." 
->>—Ada Toydemir, they/them, MS Computer Science
+>>—Ada Toydemir, they/them, MS Computer Science, USC
 
 >"I think the snacks were definitely a big draw in the beginning. They would still be now, except for covid."
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
 
 >"I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it levels the playing field, and it kind of brings a sense of equality. That's important."
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+>>–Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 Look for snacks that are computer keyboard friendly – nothing too sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-than-healthful. Single-serving items that avoid much plastic wrapping are ideal: satsuma oranges,  popcorn, pretzels, gummies. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
 
@@ -728,7 +743,7 @@ And our playlists are on point! The Creative Code Collective theme song is Queen
 A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g6F9RM0Osbhw7ONwxSJhy?si=Cr0nEeExQiKPUQI-l7-HCA) on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community in general and when coding. It's all connected! 
 
 >"The terminal is cute. It's important to have a good relationship with your terminal." 
->>(Ada)
+>>—Ada Toydemir, they/them, MS Computer Science
 
 ### Keep things loose
 
@@ -929,7 +944,7 @@ Our mascots are magpies and meme cats, too-clever animals fascinated with hoardi
 Still we want to find openings for others to enter, [...]
 
 >"I'd love to see this outside of the university setting. I wish this existed for urban professionals. I feel like not all of my Silicon Valley friends would partake in something like this, because they're so burnt out on code. But I'm sure there's a lot of people that are still wanting to have this conversation."
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz & former assistant director, USC Ahmanson Lab
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 [xxx][intro or conclusion or values]
 

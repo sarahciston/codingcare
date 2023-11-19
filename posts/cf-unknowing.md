@@ -211,6 +211,8 @@ loss prevention vs refusal to prevent loss; holding vs touching
 
 >The way to stop your dog from getting lost was to put a leash on her and attach a bell.
 
+Adrian Piper "Everything will be taken away" "gain/loss > "enslavement/liberation" >
+
 
 With the first invocations of the term "black box" in AI, we also hear: memory, trauma, and relation. W. Ross Ashby introduces the term "black box" to the field of cybernetics, and for him memory is also a black box. He says "the possession of 'memory' is not a wholly objective property of a system—it is a relation between a system and an observer; [...] to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely." 
 

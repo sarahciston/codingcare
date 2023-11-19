@@ -9,21 +9,24 @@ date: 02.11.2023
 <!-- knots instead of threads, threnodies -->
 <!-- data bodies, drone aesthetics, interpolated and interpellated states -->
 
-I am still alive, On Kawara. I think about your postcards often. I find your dailiness remarkable. What it takes to get up in the morning. What it takes to make a painting, a life, a day after day. 
+I am still alive, On Kawara. I find your dailiness remarkable. It takes so much: To get up at any time in the morning. To make a painting. To make a life. To make a day. Day after day. You fit this feeling in a postcard, with a view. You just report. 
 
 <!-- A simple act of reporting. Distributing data, is always personal.  -->
 
 What I like about you is you don't offer any context. Just 'I got up'. Just 'I am still alive'. What more do you want from me, you seem to say. 
 
-You wrote to Sol Lewitt, to XXXXX and XXXXX. I'll write to you. I am also still alive. It doesn't feel remarkable, but I mark it, remark it. Some people I know are also alive but don't want to be. It's hard to know how to live, especially right now. And it always has been hard to know how to live. But we make our problems our own. We evade oneness daily through simple acts like 'I'.
+You wrote to Sol Lewitt, to XXXXX and XXXXX. [I hope I can/I'll] write to you. I am also still alive. [(Although (now) you're not.)] It doesn't feel remarkable, but it is, and I mark it, remark it. Some people I know are also alive but don't want to be. It's hard to know how to live, especially right now. And it always has been hard to know how to live. It always has been 'especially right now'. But each of us makes our problems our own. We evade oneness through simple acts like 'I'. We do it on the reg. 
 
 Data accumulates days.
 
-You chose a a few basic rituals and stuck with them. All you needed to say was, "I am still alive." Sometimes the only affirmation we can hold is "I am still alive." Sometimes it is all we can stand. Sometimes we can't even stand that. Sometimes that is enough. Sometimes even that is too much.
+You chose a a few basic rituals and stuck with them. All you needed to say was, "I am still alive." Sometimes the only affirmation a person can hold is, "I am still alive." Sometimes it is all we can stand. Sometimes we can't even stand that. Sometimes that is enough. Sometimes even that is too much.
 
-I got up at 9:50am. I woke up several times before that. You also have a postcard series about this, and the times range wildly. 
+I got up at 9:50am. I woke up several times before that. You also have a postcard series about this, and the times range wildly. This makes me like you more, I'll be honest. I resent some forms of dedication that [some] claim are required of me if I want to [XXXI don't know what][like if I really wanted to XYZ I would get up at 4am every day and write for 4 hours before starting my day as if this is the formula for everyone, as if we share the same capacities.]
 
-I felt young and girlish when I made art with data. I got comments like, "Are you depressed? You sure do sleep a lot." I think I slept about the same as you, On Kawara. I'm sure we were both read into. And that was the point, but I still didn't like the feeling. Your context was the daily paper, a postcard of a skyscraper, a telegram. My context was an ipad screen, reading theory, [XXX]. 
+A few years ago I also made an artwork that tracked all my daily habits. I felt young and girlish when I made art with my data. (Would I have felt that way if it was someone else's data, someone seemingly less young ang girlish themselves?) I got comments like, "You sure do sleep a lot. Are you depressed?" I think I slept about the same as you, On Kawara. I'm sure we were both read into. And that was the point, but I still didn't like the feeling. Your context was the daily paper, a postcard of a skyscraper, a telegram. My context was shared ipad screens, reading critical media theory, a looming breakup. [Although who knows what might have been going on between you and your correspondees.]  
+
+I also planned to make an app to collect as many streams of the data I was producing as possible. And I wanted to call it the simplest name possible: "I'm still alive" Because to over-know the body through data was eventually to say nothing. To turn being into producing, to over-write meaning, work-over, overthink, but also to palimpsest, erase, rewrite it with read-outs, replace proprioception and interoception with data outputs and analyses. It offered the illusion that I would gain insight by offering up the non-labor I was doing anyway, but by tracking it, extracting it, and selling it, made it have value and thus made it labor. Because then I attend to these devices, I spend money and time on them. Every day I check my heartbeat, I write or rather inscribe in data 'I got up at' or become vulnerable to a system who will know this about me, a google map which might implicate me in a future crime I have yet to imagine. The weight of this where before nothing existed.  
+
 
 <!-- [XXX These read differently if you know us (and if you don't). We are each read into differently (as many other important scholars have said).] -->
 
@@ -31,18 +34,27 @@ I felt young and girlish when I made art with data. I got comments like, "Are yo
 
 <!-- I want to fill a room with e-ink screens and  -->
 
-Later I made artworks that asked people to bring their data with them. I asked for compassion, in small portable phrases — ones that could be turned from sound into writing into data packets into sound again. Some people seemed upset I was asking, said I was being too polite.
+Later I made artworks that asked people to bring their data with them. I asked for compassion, in small portable phrases — ones that could be turned from sound into writing into data packets into sound again. Some people seemed upset I was asking, said I was being too polite. This felt a lot about gender, although less and less do I want to have one. 
 
-I got a tattoo on my arm written in calculator font that says "IT'S OKAY TO CRY," after the song by Sophie Xeon. SOPHIE died in 2021 when she slipped and fell while climbing up to look at the moon. My tattoo artist [Ren] created a series of flash pieces honoring her life and work as a musician, producer, and trans rights activist. 
+I got a tattoo on my arm written in calculator font that says "IT'S OKAY TO CRY," after the song by SOPHIE — musician/producer, and trans rights activist Sophie Xeon. My tattoo artist [Ren] created a series of flash pieces honoring her life and work, after SOPHIE died in 2021 when she slipped and fell while climbing up to look at the moon. 
 
-The affirmation "IT'S OKAY TO CRY" had already appeared in the database of compassionate phrases I built. I remember being surprised by the database, both that others would contribute and at its effectiveness at soothing me, even as this is what I built it to do. I am still surprised whenever I operate the device. 
+I need the phrase written on my body so that one day I will start to believe it. 
 
-Adrian Piper was handing out business cards letting people know they had made racist remarks and that she was a Black woman. 
+The affirmation "IT'S OKAY TO CRY" had already appeared in the database of compassionate phrases I built. I have been continually surprised by the database, both that others do contribute and also that it remains effective at soothing me, even as I know its gimmicks. 
 
-A new Boolean in Javascript is called Nullish, written `??`. My feelings exactly. Nullish is meant for "when there are multiple ways something can not exist" (evelyn masso “Handling Null”). Nullish distinguishes `null` and `undefined` from other `False` and `NaN`, although all of these are 'Falsy'. Nullish hovers liminially in the never was or maybe erased. Use plain ol' `null` "when something can optionally exist." Oh to be a Nullable coalescing, there or nothing (masso, Sedgwick). 
+*It's okay to cry.*
+*You'll figure it out eventually.*
+*What you choose is up to you.*
+**
 
+[XXXmovelower?]
+Recently they added a Boolean operator to Javascript called Nullish, written `??`. My feelings exactly. Nullish is meant for "when there are multiple ways something can not exist" (evelyn masso "Handling Null"). Nullish distinguishes `null` and `undefined` from other `False` and `NaN`, although all of these are 'Falsy'. Nullish hovers liminially in the never was or maybe erased. Use plain ol' `null` "when something can optionally exist." Oh to be a Nullable coalescing, there or/and nothing (masso, Sedgwick). 
 
->"people experiencing suicidal thoughts sighed more and laughed less than others. When speaking, they tended to pause longer and to shorten their vowels, making words less intelligible; their voices sounded breathier, and they expressed more anger and less hope." @khullarCanTreatMental2023 "having arthritis, lupus, or head-and-neck cancer; taking statins or Ambien; or living in the Western U.S. can also add to a veteran’s risk" "It’s also possible that preventing deaths takes time—that frequent touchpoints, over years, are what drive suicide rates down across a population."
+[XXX]
+
+There are researchers at work using machine learning analysis to detect suicidality, particularly in children or veterans, which on the surface seems a humanitarian good but upon closer inspection is rife with *Minority Report*–esque predictive-policing problematics. Looking for patterns, you will find patterns, but what will you do with them? How far will you go in limiting someone's life to prevent their death? Analyses found a wide range of correlations: 
+
+>"people experiencing suicidal thoughts sighed more and laughed less than others. When speaking, they tended to pause longer and to shorten their vowels, making words less intelligible; their voices sounded breathier, and they expressed more anger and less hope." [@khullarCanTreatMental2023] "having arthritis, lupus, or head-and-neck cancer; taking statins or Ambien; or living in the Western U.S. can also add to a veteran’s risk" "It’s also possible that preventing deaths takes time—that frequent touchpoints, over years, are what drive suicide rates down across a population."
 >"needed a proxy for" "The algorithm’s designers needed a proxy for illness and settled on medical costs. (All things being equal, people who are sicker tend to use more health care.) Obermeyer found, however, that the algorithm dramatically underestimated how sick Black patients were, because the Black patients it examined had much lower health spending than the white patients, even when they were equally sick. Such algorithmic bias can occur not just by race, but by gender, age, rurality, income, and other factors of which we’re only dimly aware, making algorithms less accurate." 
 >"Studies have shown that text-based therapy can work well. It also generates data."
 >"I could have searched for the words to describe my feelings to my phone. I might have expressed them while sharing them with no one—unless you count the machines."
@@ -50,7 +62,6 @@ A new Boolean in Javascript is called Nullish, written `??`. My feelings exactly
 Writing to no one, a postcard out into the world (Derrida) vs an "entity" that senses your increased biometric feedback and responds to you. This desire for attunement. In the past we got it from women, trained to be wives and mothers and ignore their own readings. We look for it now in machines because we don't have enough hands on deck to provide care (because we are not willing to provide it mutually?). We have NLP reading suicide notes and doing predictive modeling for future anxious children. All well and good seeming activities, all also very minority report in its sci-fi possibility space. 
 
 
-At one point I was going to make "I'm still alive" an app, to over-know the body through data, to over-write meaning, work-over, overthink, but also to palimpsest, erase, rewrite it with read-outs, replace proprioception and interoception with data outputs and analyses. 
 
 
 <!-- tech wants to address the problem of scale but it also contributes to it -->
@@ -65,26 +76,16 @@ The smooth silence of drone footage over destruction. The glide above bombs and 
 
 Someone reminds me it is not my responsibility to keep other people alive, no matter how much I care for them. But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing with dramatic speed. Unaliving at accelerating pace. 
 
-Unalive is the rewriting of unspeakable death to avoid censorship by platforms, which are not reading for context. They do not read between the lines (though they can tell the difference between a male nipple and a female nipple even though gender is not real), and so we must spell out new stuttering formulations like `s3x` and `~~death~~` and `les-bean`. 
+Unalive is the rewriting of unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography. Although they claim to distinguish between a male nipple and a female nipple, even though gender is not real. And so we must spell out new stuttering formulations like `s3x` and `~~death~~` and `les-bean` or `les🐝an`, which fool these sophisticated systems. 
 
-This is about knots instead of threads. This is about staying in bed. I have covid again. Having covid and long covid at the same time is weird. Is this the only time I write essays? I watched the Hitchcock film *Rope* last time I had covid. We may talk more than the average family about murder and other kinds of death. Justifiable homicide. Euthenasia. 
-
-VALIE EXPORT
-Lynn Hershman Leeson
-Sophie Calle
-Sonya Rapoport
-(digital) Hito Steyerl
-Adrian Piper
-done, Rebecca Horn
-started, Pipilotti Rist
-started, On Kawara
+This is about knots instead of threads. This is about staying in bed. Do I have covid again? Having covid and long covid at the same time is weird. Is this the only time I write essays? I watched the Hitchcock film *Rope* last time I had covid. This time I talk with my mother about smart ways to get away with [death/euthanasia and to prevent suicide], if the occasion called for it. We may talk more than the average family about [murder and other] kinds of death. Justifiable homicide. Euthanasia. 
 
 
 
 making and breaking, the queer use of lying in bed / unable to dissertate in a pandemic, creating/learning a web home versus completing the projects i said i would make when i came in, how every part/skill is connected, can be stitched together and reconnected and collaborated with to make the text thing
 the parts of myself collaborate with each other, reacquainted as if strangers
 
-something that tracks the time, pace/cadence, smell of every word, my heartbeat and breath pattern, the over collection of its data and the pond it sits in, the energy sinkhole…(connect sink holes to the cave state, the show me state, the trauma state) what is this duct taped story object, touching object, screen i am making, a way to reach through the plexiglass to each other, 
+something that tracks the time, pace/cadence, smell of every word, my heartbeat and breath pattern, the over collection of its data and the pond it sits in, the energy sinkhole…(connect sink holes to the cave state, the show me state, the trau$$ma state) what is this duct taped story object, touching object, screen i am making, a way to reach through the plexiglass to each other, 
 the computer is a classifying machine, if code is built on binary and the zeros and ones are made to say either or, not [either and] … [both maybe] a voltage rush, a spark gap… what is the computational system built on the surges and loss, the wavering? the felt feeling? you’ll argue this is getting metaphorical not close to the metal (a metaphor) what could be closer to the metal than bone, that wrended flesh? 
 
 queer use as vandalism & broken machines 
@@ -213,3 +214,19 @@ What uncomfortable affects/emotions emerge when we are brought into process? Whe
 
 * I'm not sure who the we I use is, already collective data? Already acknowledging myself is diffuse? not sure who i'm writing from or what unstable gender, self I am. 
 * situating subject positions
+
+
+
+
+VALIE EXPORT
+Lynn Hershman Leeson
+Sophie Calle
+Sonya Rapoport
+(digital) Hito Steyerl
+Adrian Piper
+done, Rebecca Horn
+started, Pipilotti Rist
+started, On Kawara
+
+Adrian Piper was handing out business cards letting people know they had made racist remarks and that she was a Black woman. 
+
