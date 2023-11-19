@@ -187,13 +187,18 @@ Too often I don't get started because I don't know where to start, and also beca
 
 I learned to use scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). I was a poet who wanted to make weird books, and he told me simply, "Pick something small you want to try to make, and use that to begin learning Python." Reader—I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself some HTML, CSS, and Javascript. But none of it would stick. Still, I trusted Brett, so I found a little example code for a simple chatbot and used it to make what would become "ladymouth" — a bot that tries to explain feminism to misogynists online. Along the way, I learned enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run, even though I started with zero vocabulary and knowledge about relational databases or APIs or anything else. Through Brett's positive encouragement, and by finding the right tools for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, that I couldn't understand the tools I wanted to use, and that I didn't belong in the spaces that interested me (or that I didn't even know about). Being among others who were experimenting in these same ways taught me it was okay not to have all the pieces in place right away. [xxxmaybemove] 
 
-[//]: # "[XXXadd sketching?] @ImportanceSketchingCode2023"
 
-[//]: # "[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) @shihCriticalCodingCookbook"
+#### Book Resources
 
-[//]: # "[XXXadd source] Levin & Brain [Code as Creative Medium]() @CodeCreativeMedium"
+[//]: # "[XXXadd sketching?] [@ImportanceSketchingCode2023]"
 
-[//]: # "[XXXadd source] Critical Makers Reader @bogersCriticalMakersReader2019"
+[//]: # "[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) [@shihCriticalCodingCookbook]"
+
+[//]: # "[XXXadd source] TEX: Teaching with Text Generation Technologies [@veeTextGenEdTeachingText2023]"
+
+[//]: # "[XXXadd source] Levin & Brain [Code as Creative Medium]() [@CodeCreativeMedium]"
+
+[//]: # "[XXXadd source] Critical Makers Reader [@bogersCriticalMakersReader2019]"
 
 [//]: # "that conference on connected learning from ??2020??"
 
@@ -394,7 +399,7 @@ Don't be afraid to get weird together.
 
 >"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it"[^shane] (Shane 2019, 4).
 
-My own personal artistic mantra is to "move toward the weird." In my practice, how I follow my interests and push my research forward is find the most strange, uncanny, uncomfortable aspects of whatever I'm working on. If something makes me cringe, that's a place to explore (within limits of course). Rather than research questions I can test and answer with hypotheses, I'm interested in the *research tensions* I know I won't solve but keep bugging me in a visceral way. In my case, it has included the discomfiting way technologies insinuate themselves into our intimate experiences, through things like personal data tracking, or the way machine learning systems carry with them the residues of their training data language into their outputs. It has included filming myself and tracking myself, because I am super uncomfortable both of those and they feel weird but interesting. What would be your strange but fascinating thing? How do you like to get weird?
+My own personal artistic mantra is to "move toward the weird." In my practice, how I follow my interests and push my research forward is find the most strange, uncanny, uncomfortable aspects of whatever I'm working on. If something makes me cringe, that's a place to explore (within limits of course). Rather than research questions I can test and answer with hypotheses, I'm interested in the *research tensions* I know I won't solve but keep bugging me in a visceral way. In my case, it has included the discomfiting way technologies insinuate themselves into our intimate experiences (what I call "creepvenience"), through things like personal data tracking, or the way machine learning systems carry with them the residues of their training data language into their outputs. It has included filming myself and tracking myself, because I am super uncomfortable both of those and they feel weird but interesting. What would be your strange but fascinating thing? How do you like to get weird?
 
 ### Fight for the silly photo
 
@@ -422,9 +427,15 @@ What would you adopt as your mascot or icon? What's the first person, place, thi
 
 What vocabulary do you use to describe its structure: Is it a secret society? A collaboratory? An elicit escape? Find ways to make your organization feel more fun than yet another meeting on your calendar.
 
-#### ~Mandated~ Welcomed enthusiasm
+### ~Mandated~ Welcomed enthusiasm
 
 Okay maybe not *mandated* but we like the approach of conferences like [bang bang con](https://bangbangcon.com/) that set a baseline of exclamations for everything, rather than needing to censor ourselves. They welcome joyful contributions, and it shows in the passion their presenters bring to their talks. So. Does my email have too many exclamation points, emoji, and gifs? Probably, but so what? 
+
+<div class="box live-code" markdown="1">
+
+### LIVE CODE: 
+
+</div>
 
 [Back to top](#top)
 
@@ -542,15 +553,6 @@ Another way we think about context is to not dismiss ideas before they get off t
 
 Aligned in our interest in coding, we see our many differences as strengths and opportunities to learn from one another. We are committed to interdisciplinary, intersectional, iterative making. We make sure this is embedded in and extends beyond our own work, through our gatherings [...] [by including workshops and group research that focuses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally.]
 
-### Ask 'why' and 'how' not just 'what' to make
-
-
-
-Ask yourself: What do you want to make? What resources do you need to get there? /*More importantly, *why* do you want to put it in the world?*/ [xxxmovebelow?]
-
->"My goal is not just that students know how to code — you can find coding tutorials anywhere that give you raw “stuff.” I want to help them validate whether they understand what code does and whether they can communicate about code with others and justify their decisions while programming. I also ensure that students recognize, even if we aren’t building big systems for people just yet while we learn these foundations, that code is powerful and comes with responsibility, that there are social impacts to what they program and that computer scientists are often the least likely to recognize how impactful to society their job can be. These skills [...] are also valuable even for those who won’t go on to become programmers." 
->>–Briana Bettin, Assistant Professor of Computer Science and Cognitive and Learning Sciences, Michigan Tech
-
 ### Adjust for what's needed
 
 What are the basics people need to get in the door and be comfortable there? Hold meetings at times people can show up. Are you including community members who have multiple jobs, at odd hours? Children they need to bring along? Consider how you can account for this with scheduling during days, evenings, weekends, hybrid meetings. Maybe you can provide childcare through mutual aid partnerships or rotate duties. 
@@ -598,9 +600,9 @@ It takes shape within the limits of the affordances of one's tools. [rephrase] T
 [XXX]
 [XXX]
 
-<div class="play-along box" markdown="1">
+<div class="box live-code" markdown="1">
 
-### PLAY ALONG: TBD
+### LIVE CODE: TBD
 
 </div>
 
@@ -610,13 +612,39 @@ It takes shape within the limits of the affordances of one's tools. [rephrase] T
 
 ### Get excited about impossibly large possibilities and impressively tiny ideas 
 
-There's a lot to be said for project managed software development processes that proceed by the book. But if you don't work that way, great! Maybe you're like me, and a minimum viable prototype sparks no joy, but you can see the whole constellation of an idea writ large, or you are easily distracted by a technological tangent or research rabbit hole. In writing, Anne Lamont calls these "birdwalking" [CITE]. In Code Collective, we have found that letting ourselves follow these instincts for a while are never useless endeavors. They may not feel useful in the moment but eventually they even help us arrive at more realistically scaled versions of our ideas. 
+There's a lot to be said for project managed software development processes that proceed by the book. But if you don't work that way, great! Are you like me and a minimum viable prototype sparks no joy, but you can see the whole constellation of an idea writ large? Are you you are easily distracted by a technological tangent or research rabbit hole? Same. (In writing, Anne Lamont calls these "birdwalks" [CITE].) In Code Collective, we have found that letting ourselves follow these pulls toward the large and small are generative endeavors, even if they do not seem productive. They may not feel useful in the moment, but eventually they even help us arrive at more realistically scaled versions of our ideas. 
 
-Those tiny charming tasks that draw us away from "the real work"? The ones in which you realize you've just spent three hours learning how to [format CSS grids]()[CITE] for seemingly no reason or deepdiving into [histories of cyberfeminism]()[CITE]? Inevitably they reappear, whether in this project or years later, so trust your wandering urges (at least until you're on deadline). 
+### Critical dreaming
 
-And those gargantuan ideas, the ones you'd have no idea where to start? Go ahead and sketch the whole thing out — on paper, in plain language or pseudo code, in stick figures and scribbles. Make a map of your wild idea! For the areas where you have absolutely no clue what belongs there, you can write "Here be dragons" and fill it in later with the help of others. The map will help them, and you, understand what you don't yet understand. It will also help you see how you might break this big idea into smaller parts that could be doable — or at least a bit more comprehensible, and maybe one of the parts of those parts you know how to start. Start anywhere, and go from there!
+We love to dream wildly. We'll figure out the impractical later and the impossible after that. Scaling down can come later. The practice of critical dreaming can get us where we need to go by overshooting so vastly we end up somewhere new. Perhaps we'd never have arrived here by the normal routes. 
+
+Those gargantuan ideas, the ones you'd have no idea where to start? Go ahead and sketch the whole thing out — on paper, in plain language or pseudo code, in stick figures and scribbles. Make a map of your wild idea. For the areas where you have absolutely no clue what belongs there, you can write "Here be dragons" and fill it in later with the help of others. The map will help them, and you, understand what you don't yet understand. It will also help you see how you might break this big idea into smaller parts that could be doable — or at least a bit more comprehensible, and maybe one of the parts of those parts you know how to start. Start anywhere, and go from there!
 
 ![map of ladymouth]() [XXX]
+
+How do you practice dreaming *critically*? 
+
+Momentarily setting aside your doubts and questions, what would you make if you could make anything? And *why*? Focusing on the reasons you want to make, and why something should or shouldn't exist, is an incredibly important aspect of development that often gets missed. It might be as simple as, "I feel it in my bones." See if you can stay with that feeling to find more language for it. What does that feeling feel like, and what does that need need to tell you? 
+
+Articulating that dream with as much detail as possible does several cool things. First, it already makes it more real. Second, it makes clear more paths, strategies, and shapes by which it could exist. Third, imagining things as we would like them to be, and imagining means to realize those things in the here and now, are the first steps of [revolution/prefigurative practice].
+
+A critical dreaming practice may help you recognize your [research tensions](#move-toward-the-weird), the topics that you feel invested in making work about, asking questions (you might not solve) about, and continually exploring through code and other materials.
+
+#### Critical tinkering 
+
+We find small things to get excited about and explore them right away. We feed off each others' enthusiasm. We love a tangent, too. Who knew we'd find ourselves in any given Code Collective meetup tinkering together on compilers or shaders or [XXX]. Those tiny charming tasks that draw us away from "the real work"? The ones in which you realize you've just spent three hours learning how to [format CSS grids]()[CITE] for seemingly no reason or deepdiving into [histories of cyberfeminism]()[CITE]? Inevitably they reappear, whether in this project or years later, so trust your wandering urges (at least until you're on deadline). 
+
+These small things are seeds. We don't know what they might grow into, but we trust they will grow: 
+
+>"Everything small and buried surrenders to a process that none of the buried parts can see."
+>>–Mark Nepo (2012) 
+
+Sometimes these small tangents turn into the coolest things you'd never expect. Trust that they will (eventually) circle back and relate to the bigger things you are investigating. Follow that rabbit down the hole!
+
+How do you practice tinkering *critically*? 
+
+Again, foreground the question *Why?* Get curious, not only about "Why am I doing this," which you can temporarily set aside in the tinkering phase, but moreso "Why does this tool or system work this way?" Ask 'why' and 'how' something is made. Where does it come from? Who created it? For what reasons? In what broader contexts? Understanding the underpinnings of your materials connects the aesthetics and textures of tinkering with the politics of [XXX].
+
 
 ### [Raise the stakes:/Involve yourself:] You are the one you've been waiting for 
 
@@ -624,35 +652,26 @@ Do you know that sneaky feeling an idea should already exist? It might mean you 
 
 When I first started my first Python programming project, I had an idea to make a chatbot that would try to explain feminism to online misogynists, performing that labor (as a farce) so that I would not have to. I looked around to see who had already made this, convinced it was a simple idea that would already exist. When I could not find any examples, I knew this idea needed to exist, which meant 1) I was the person who needed to realize it (scary!) and 2) finally motivated me to learn to program (making it a lot more interesting and fun, because I had a mission!).
 
-### Critical dreaming
+While you're asking 'what' you want to make, also ask 'why' and 'how' you want to make. Why do you want it to be in the world, and how do you want it to exist there? How do you want to go about getting it there and maintaining it there? 
 
-It's true there's a lot to be said for the smallest viable prototype. Sure. But sometimes we can't help ourselves. We love to dream wildly. We'll figure out the impractical later and the impossible after that. Sometimes critical dreaming gets us where we need to go by overshooting so vastly we end up somewhere new. 
+>"My goal is not just that students know how to code — you can find coding tutorials anywhere that give you raw 'stuff.' [...] code is powerful and comes with responsibility, that there are social impacts to what they program and that computer scientists are often the least likely to recognize how impactful to society their job can be. These skills [...] are also valuable even for those who won't go on to become programmers." 
+>>–Briana Bettin, Assistant Professor of Computer Science and Cognitive and Learning Sciences, Michigan Tech
 
-Scaling down can come later. Dream big!
-
-*How do you practice critical dreaming?* Momentarily setting aside your doubts and questions, what would you make if you could make anything? And *why*? Focusing on the reasons you want to make, and why something should or shouldn't exist, is an incredibly important aspect of development that often gets missed. It might be as simple as, "I feel it in my bones." See if you can stay with that feeling to find more language for it. What does that feeling feel like, and what does it need need to tell you? 
-
-Articulating that dream with as much detail as possible does several cool things. First, it already makes it more real. Second, it mkaes clear more paths and strategies and shapes by which it could exist.  
-
-#### Critical tinkering 
-
-Choose/find small things to get excited about and do them right away. 
-
-These small things are seeds. We don't know what they might grow into but we trust they will grow: *"Everything small and buried surrenders to a process that none of the buried parts can see."*[^nepo] Sometimes they grow into the coolest things you'd never expect. Trust that they will (eventually) circle back and relate to the bigger things you are investigating. Follow that rabbit down the hole!
-
-*How do you practice critical tinkering? [xxx]*
-
-
-#### Minimum viable learning
+#### Minimum viable learning [XXXmove?]
 
 * [magic words](https://pad.vvvvvvaria.org/rr-minimal-viable-learning); [varia.zone collective](http://vvvvvvaria.org/en/)
 * [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
 
-
-
 <div class="play-along box" markdown="1">
 
-### PLAY ALONG: TBD
+### PLAY ALONG: Dreaming Wild Tangents
+
+1. What would you make if you could make anything? Write down your last two or three wild ideas. Next to them, write quickly and briefly *why* they interest you. 
+2. What's a random coding-related tangent you've gone on lately? Check your browser history if you can't remember. Write down your last two or three rabbit holes that were programming skill related. Write down why they interest you. What drew you to them? What problem were you trying to solve? Did anything unrelated to that initial problem catch your eye along the way?  
+3. How are your wild ideas and random tangents related? What aspects do they have in common? If they feel extraordinarily different, what about *you* connects them? 
+4. How does this reflection shape what you might make next? Does it bring up any research tensions, search engine terms to explore? 
+
+Try this activity with a partner and talk through your answers together. You might be able to offer each other leads on your next endeavor.
 
 </div>
 
@@ -755,6 +774,10 @@ Of course, this does not work. That nervous strategy is riddled with stilted eff
 >Sarah: "Always."
 
 GIFs, TikToks, whatever's your thing... what brings a smile to your face and a sense of levity to the experience? What can you connect around? How can we not take ourselves so seriously even as we engage in the serious business of reimagining the world? 
+
+### Create [boundaries/guidelines] together
+
+[XXX write about work with p5.js and developing code of conduct]
 
 <div class="play-along box" markdown="1">
 
