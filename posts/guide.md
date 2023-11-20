@@ -227,15 +227,21 @@ One of the best ways to get started with learning a new aspect of programming is
 
 Find some example code for a website you like by right clicking on any part of it in your web browser and hitting `Inspect`. 
 
-You should see some windows appear that show the HTML and CSS source code for the site, where you can temporarily and without fear modify the site as you wish. Give yourself a fun mini challenge. The HTML (usually on the left Inspector window by default, maybe on top) puts items on the screen. The CSS (right /bottom) styles those items in different shapes, colors, fonts. 
+You should see some windows appear that show the HTML and CSS source code for the site, where you can temporarily and without fear modify the site as you wish. Give yourself a fun mini challenge. The HTML puts items on the screen. The CSS styles those items in different shapes, colors, fonts. 
 
-For example: What if the New York Times had a purple background? 
+For example: What if a national newspaper had a purple background? Or a different headline. 
 
-* Try going to to the CSS area that opened when you hit inspect. When you hover over the section with your mouse, checkboxes will appear next to terms like `margin` and `padding` and `font`, for example.  
+* Pick an aspect of the page you'd like to change, like the background and right click on it. 
+* Go to the CSS area that opened when you hit inspect. When you hover over the section with your mouse, checkboxes will appear next to terms like `margin` and `padding` and `font`, for example.  
+* Find `background` or `background-color:` and change what follows it to say `purple`. 
 
-* Find `background` or `background-color:` and change what follows it to say `purple`
+How about a different headline?
 
-What other experiments with CSS might you try? What can you learn using this method about how the site you chose was built? 
+* Try right clicking on a headline you'd like to change and hitting inspect again. 
+* Find the HTML panel that opened when you hit inspect. Depending on your browser, it's usually on the left by default, maybe on top. You should see the specific line of HTML that created the headline you see in your browser.
+* If you change the text of the headline in the HTML, it will also change in your browser. Try it!
+
+What other experiments with CSS and HTML might you try? What can you learn using this method about how the site you chose was built? 
 
 This is a very aesthetic and web-based example, but you can imagine taking this approach to any tutorial or example you see. 
 
@@ -516,54 +522,52 @@ In programming companies there is a concept called "pair programming," in which 
 
 [Back to top](#top)
 
-## 6. We stay gelatinous [flexible, spongy, fluid, adjustable]
+## 6. We stay gelatinous 
 
-### Acknowledge context together
+### Get influenced
 
-We acknowledge the many different contexts that bring us to the same space, different backgrounds and different baselines for how we operate and understand. While we each have our own "default" assumptions, we try to remember these are not common sense, they are situated. This means they carry with them 
+We let ourselves be flexible and fluid, spongy and influenced. Or at least, we try to start from that position, acknowledging this is hard. We all get excited or have preconceived ideas about how something "should" look or "should" work or "should" be. We have learned that we learn a lot more when we are patient with each other and let more information be revealed. [XXX]
 
-It helps to acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals; our choices have histories, they come with politics attached.
-
->>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting’s social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
->(Dr. Vernelle A. A. Noel)
-
-Not only does acknowledging this situated context help create better relationships among our community members, it helps make interesting, engaging works of creative–critical code. 
-
-
-
-We don’t dismiss hierarchy out of hand, but acknowledge and work to address it by meeting each other where we are and valuing what each can contribute to another’s knowledge, and to better and more diverse computational systems.
-
-We don’t assume we *should* code something just because we can. 
-
-Through conversations about what we’re making and imagining, I try to model an artistic research practice that integrates the critical and creative, prioritizing dialogue exchange over prescriptive lecture, comfort with uncertainty and multiple approaches.
-
-Very quickly the personal becomes political and our work easily extends beyond ourselves, to engage algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally. 
-
-
-A critical engagement means asking "why not" as well as "why." It means questioning what limits technologies impose. Does it have to be made with a machine learning tool, just because that is the trend? Does it have to be made with a digital technology at all? Is this a "problem" that technology is needed to solve? 
->>"when communities are faced with new technological solutions to existing problems, to ask what these techniques may prevent and not only to check what the techniques promise to do." —Ursula M. Franklin @franklinRealWorldTechnology2004
-
-
-
-
-Another way we think about context is to not dismiss ideas before they get off the ground. We stay excited by the impossibly large tasks and the incredibly small ones, knowing everything is connected. Knowing how 'way leads on to way', the tiny tangents always bring us back to the big issues, and the impossible pataphysical pursuits have a way of revealing practical applications when pursued.
-
-
-### Address difference and power
-
-Aligned in our interest in coding, we see our many differences as strengths and opportunities to learn from one another. We are committed to interdisciplinary, intersectional, iterative making. We make sure this is embedded in and extends beyond our own work, through our gatherings [...] [by including workshops and group research that focuses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally.]
+I include myself in this! Through conversations about what we're making and imagining, I try to model my own artistic research practice that prioritizes comfort with uncertainty and multiple approaches. I focus on dialog exchange rather than prescriptive lectures, and fully integrate critical and creative approaches, until it does not feel like 'teaching' but sharing and connecting. There are many structures designed to keep us from learning from each other in these ways, including our own resistance. But it is worthwhile if you are willing. 
 
 ### Adjust for what's needed
 
-What are the basics people need to get in the door and be comfortable there? Hold meetings at times people can show up. Are you including community members who have multiple jobs, at odd hours? Children they need to bring along? Consider how you can account for this with scheduling during days, evenings, weekends, hybrid meetings. Maybe you can provide childcare through mutual aid partnerships or rotate duties. 
+What are the basics people need to get in the door and be comfortable there? Hold meetings at times people can show up. Are you including community members who have multiple jobs, at odd hours? Children they need to bring along? Consider how you can account for what your community needs (and what your potential community might need!). Feminist.AI, a collective in Los Angeles, provides a great model for this by scheduling their meetups during a mix of days, evenings, and weekends, and providing childcare — which had not been commonly available for tech events when they started [@FeministAI]. If something like this sounds unatainable, think about how you might provide access through mutual aid partnerships, or how you can rotate duties among team members. 
 
-How else can you share responsibilities of organizing and supporting your gatherings? 
+Two of the simplest things you can do for any event are to provide details about the accessibility of the space you use and to ask participants what provisions they need. Offer details on your group or event pages about parking, seating, steps and ramps, toilets, translations, and any additional particulars of your space will help everyone know what to expect. Examples of access descriptions: [XXX][access statement P5, access rider].
+
+How else can you share responsibilities of organizing and supporting your gatherings? How else can you acknowledge and account for the many ways we [arrive/show up]? 
+
+### Acknowledge context together
+
+We acknowledge the many different contexts that bring us to the same space, different backgrounds and different baselines for how we operate and understand. While we each have our own "default" assumptions, we try to remember these are not common sense, they are situated. This means that they carry with them a host of "situations" that shaped them. They come from somewhere and somewhen.  
+
+It helps to acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals. Our choices have histories. They come with cultures and politics attached.
+
+>"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting's social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
+>>Dr. Vernelle A. A. Noel [@SitCoLab]
+
+Not only does acknowledging situated context help create better relationships among community members, it helps make interesting, engaging works of creative–critical code. 
+
+### Address difference and power
+
+[@dunbar-hesterHackingDiversityPolitics2019] We cannot create flat, non-hierarchical communities. Pretending that we can results in ignoring the imbalances that exist. By acknowledging them, we have more opportunity to work through and shift them. 
+
+We don’t dismiss hierarchy out of hand, but acknowledge and work to address it by meeting each other where we are and valuing what each can contribute to another’s knowledge, and to better and more diverse computational systems.
+
+Aligned in our interest in coding, we see our many differences as strengths and opportunities to learn from one another. We are committed to interdisciplinary, intersectional, iterative making. We make sure this is embedded in and extends beyond our own work, through our gatherings [...] [by including workshops and group research that focuses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally.]
+
+Sometimes these values are explicitly stated. Sometimes they are enacted instead through our choice of tools, language, gestures, and more. [When it might ward off new [XXX] we don't hide these values but weave them in to our choieces of [XXX]
+
+[...]
 
 ### Meet folks where they are
 
-I may not care for their approach or their aesthetic — or their politics! But I still *try* to start by understanding what they want to make and why. I do ask questions intended to challenge those approaches and aesthetics (and sometimes politics), but my goal is not to change their mind or make them do it my way. My goal is to make space for them to see more options they might not have considered before, and to help them explore the options they choose in mindful ways. 
+This is not only about meeting people at their skill level, but also at their interest level or topic of choice. You do not change minds
 
-This approach helps more people feel welcome in our meetups. Often it also shifts their stance and their practice in the direction of making more critical and compassionate work. [quote]
+I may not care for their approach or their aesthetic — or their politics! But I still *try* to start by understanding what they want to make and why. I do ask questions intended to challenge those approaches and aesthetics (and sometimes politics), but my goal is not to change their mind or make them do it 'my' way. My goal is to make space for them to see options they might not have considered, and to help them explore the options they choose in mindful ways. 
+
+This approach helps more people feel welcome in our meetups. Often it also shifts their stance and their practice in the direction of making more critical and compassionate work. 
 
 >"A lot of the the values that I was trying to hold on to would be a lot harder for me to hold on to without Code Collective. 
 >"Even [another member] who was confronted with opportunities to profit immensely off NFTs, but decided not to because of Code Collective, because when she was thinking about these ideas, she could see other people who are also using code in the creative manner. So it actively shaped the ethics of individuals who have exceptional power with their [work]."
@@ -614,6 +618,8 @@ It takes shape within the limits of the affordances of one's tools. [rephrase] T
 
 There's a lot to be said for project managed software development processes that proceed by the book. But if you don't work that way, great! Are you like me and a minimum viable prototype sparks no joy, but you can see the whole constellation of an idea writ large? Are you you are easily distracted by a technological tangent or research rabbit hole? Same. (In writing, Anne Lamont calls these "birdwalks" [CITE].) In Code Collective, we have found that letting ourselves follow these pulls toward the large and small are generative endeavors, even if they do not seem productive. They may not feel useful in the moment, but eventually they even help us arrive at more realistically scaled versions of our ideas. 
 
+Try not to dismiss ideas before they get off the ground. Everything is connected. Knowing how 'way leads on to way', the tiny tangents always connect back to the big issues, and the impossible pursuits have a way of revealing practical applications when pursued.
+
 ### Critical dreaming
 
 We love to dream wildly. We'll figure out the impractical later and the impossible after that. Scaling down can come later. The practice of critical dreaming can get us where we need to go by overshooting so vastly we end up somewhere new. Perhaps we'd never have arrived here by the normal routes. 
@@ -645,7 +651,6 @@ How do you practice tinkering *critically*?
 
 Again, foreground the question *Why?* Get curious, not only about "Why am I doing this," which you can temporarily set aside in the tinkering phase, but moreso "Why does this tool or system work this way?" Ask 'why' and 'how' something is made. Where does it come from? Who created it? For what reasons? In what broader contexts? Understanding the underpinnings of your materials connects the aesthetics and textures of tinkering with the politics of [XXX].
 
-
 ### [Raise the stakes:/Involve yourself:] You are the one you've been waiting for 
 
 Do you know that sneaky feeling an idea should already exist? It might mean you are just the person to create it. Or that other sneaky feeling that an idea is too impossibly far-fetched, that you are the only one who would want it? That *still* might mean you should pursue it. Remember if you're interested in something, others will be too! We are the people best suited to bring our own visions to life. 
@@ -661,6 +666,14 @@ While you're asking 'what' you want to make, also ask 'why' and 'how' you want t
 
 * [magic words](https://pad.vvvvvvaria.org/rr-minimal-viable-learning); [varia.zone collective](http://vvvvvvaria.org/en/)
 * [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
+
+### Cultivate Many 'Why Not's
+
+A critical engagement means asking "why not" as well as "why." "Why not?" in critical dreaming is the space to let yourself spin freely. But "why not?" in later phases also means questioning what limits technologies impose. Does an idea need to be realized with a machine learning tool, just because that is the trend? Does it have to be made with a digital technology at all? Is this a "problem" that technology is needed to solve? 
+
+>>"when communities are faced with new technological solutions to existing problems, to ask what these techniques may prevent and not only to check what the techniques promise to do." —Ursula M. Franklin [-@franklinRealWorldTechnology2004]
+
+We don’t assume we *should* code something just because we can. Asking "Why Not" — in all its gleeful and critical forms — is just as important as asking "Why."
 
 <div class="play-along box" markdown="1">
 
