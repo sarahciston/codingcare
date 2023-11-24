@@ -421,6 +421,8 @@ Without Julia's silly picture-in-picture of a silly picture, I would not have be
 
 Don't be shy, fight for your silly photos and the moments that don't seem like they should matter. They do!
 
+GIFs, TikTok dances, whatever's your thing... What brings a smile to your face and a sense of levity to your experience? What can you connect around? How can we take ourselves less seriously even as we engage in the serious business of reimagining the world? 
+
 ### Adopt mascots 
 
 We've adopted the magpie as our official mascot: an intelligent, crafty corvid fascinated with shiny objects and capable of using tools. 
@@ -561,8 +563,8 @@ What kinds of hierarchies exist? There may be obvious ones, if your community is
 How do we acknowledge them? 
 
 * Not assuming defaults when you speak, when you plan and organize, when you [XXX]
-* A bit of structure helps. Codes of conduct or community agreements provide understandings around the way we conduct our conversations and other interactions (see Section [XX]).
-* Building routines and other structures that establish balance and equal access to resources, like the opening check-ins discussed in Section [XX] that make sure everyone has an opportunity to share. 
+* A bit of structure helps. Codes of conduct or community agreements provide understandings around the way we conduct our conversations and other interactions (see Section [8]).
+* Building routines and other structures that establish balance and equal access to resources, like the opening check-ins discussed in Section 8 that make sure everyone has an opportunity to share. 
 
 [The practices we learn in casual community [can/could/might] help us reshape formal communities as well.]
 
@@ -607,36 +609,32 @@ I think of content as a liquid — its shape is determined by the form it fills.
 
 What we can form also depends on the capabilities of the tools we use — the programming languages, applications, hardware we choose. The capacities of the tools we choose set the limits for our capacities to create. If I choose a saw, I may be able to build a birdhouse but won't be able to write an essay (maybe an essay about saws?). Carefully choose tools and forms that share the values you want your work to embody. 
 
+### Value many forms
 
-### Value many forms [& tools]
+>"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." 
+>>–(Mercedes Bernard, [@CrochetCodeCraft])
 
->"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." (Mercedes Bernard, [@CrochetCodeCraft])
+At various points, Code Collective has also morphed into Zine Club, which also has a secret ongoing life as Knitting and Crochet Club. Even though my personal interest in each of these topics emerged independly of the group, the Code Collective format has adapted shape to embrace them all, as members found common interests and as conversations overlapped. 
 
-At various points, Code Collective has also morphed into Zine Club, which also has a secret ongoing life as Knitting and Crochet Club. Even though my personal interest in each of these topics emerged independly of the group, the Code Collective format has adapted shape to embrace them all, as members found interests in common and conversations overlapped. through online meetups during pandemic lockdowns to hybrid meetups on multiple platforms. It's wildly transformable.  
-
-The format continues to prove wildly transformable to hold what we need it to, 
-
-I became interested in each of these topics independently of the group, our interests in common have found each other and 
-
-
->"I care about the process of making the zine, but I care even more about what the zine does." 
->>–ender, Code Collective member
+These forms, while seeminly far flung from coding, have taught us about how to code and how to be in community, too. Our conversations about all of the topics found commonalities. 
 
 The p5zine library is a beautiful example of coding and zine-making combining in a fun, community practice. Created by Munis [XXX]
 [craft] [zines]
 [cite][munisp5zine]
 
+>"I care about the process of making the zine, but I care even more about what the zine does." 
+>>–ender, Code Collective member
 
 >"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] 
 >"a lesbian-feminist mode of networking animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36) 
 [McKinney-Information Activism]
 
-
-[XXX]
 [XXX]
 [XXX]
 
-By meeting each other where we are and valuing what each person can contribute to others' knowledge, we move toward better and more diverse computational systems.
+Our format continues to prove wildly transformable to hold what we need it to, through online meetups during pandemic lockdowns to hybrid meetups on multiple platforms. I try to allow the group to shapeshift as necessary, for what benefits its current membership, without getting too attached to any particular version. 
+
+By meeting each other where we are and valuing what each person can contribute to others' knowledge, we move toward better and more diverse computational systems, and more generous, generative communities.
 
 <div class="box live-code" markdown="1">
 
@@ -726,68 +724,56 @@ Try this activity with a partner and talk through your answers together. You mig
 
 ## 8. We create rituals
 
-It's essential to create rituals *together*. 
+### Create rituals together
 
-A combination of consistency and loose structure has served us best. 
-
-We have adapted to the needs and circumstances of the community, continually. We strive for the loosest container possible to hold the thing together. 
-
-Start with a round of check-ins: What are you making? What are you into right now? How are you doing, really?
-
-Snacks and music and movement. Seriously, snacks are essential. 
-
-Aim for consistency and flexibility through a steady mix of in-person meetings and online connection. 
-
-These literally *make* the space we have together.
-
-We are pretty free-form, but one of our structures has been open with a ritual of checking in on each other, asking what we are working on and thinking about. That short process often guides the rest of our weekly agenda because it’s space to take the temperature of the group, find out what code questions need investigating or troubleshooting, or for that matter what life questions too. 
-
-Our other structures include a collaborative playlist that always kicks off with Queen (which was not my doing but I have fully embraced it as you can tell), as well as oodles of snacks to lure folks in. 
-
-We also keep a weekly meeting cadence but this has gone from in-person to zoom to to back again, by way of various more fun video platforms, alongside an asynchronous Discord forums. 
-
-The main takeaway is that we have adapted to the needs and circumstances of the community over the past three years, striving for the loosest container possible to hold the thing together. 
-
->SAMIR says: "It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
+>"It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
-The examples I offer here are often in flux as the temperaments and conditions of our members change. Fundamentally, we create ways of being together and acknowledging each others common humanity and unique perspectives simultaneously. We mark the specialness of contact and connection. Often this happens by accident and then codifies (code-ifies!) into a pattern we keep. Try and adjust until you find what works for you!
+It is essential that whatever rituals and habits you create, you create *together*. Ideally you develop these over time, through feedback and informal habits and through formal work on community agreements and mission. 
+
+These literally *makes* the space we have together. We help restore each other through co-presence. We defrag each other's mental hard disks through the process of communing.  
+
+The examples I offer here are often in flux as the temperaments and conditions of our members change. Fundamentally, we create ways of being together and acknowledging each others common humanity and unique perspectives simultaneously. We mark the specialness of contact and connection. Often this happens by accident and then codifies (code-ifies!) into a pattern we keep. Try some of these, and adjust until you find what works for you!
+
+### Create [boundaries/guidelines] together
+
+[XXX write about work with p5.js and developing code of conduct]
 
 ### Meet regularly
 
-Meet weekly if possible, in person if possible, and accommodate what's not always possible. Stay flexible to the impossible and know you'll get back to it later. Like old friends you can pick up with after an indeterminate amount of time, no questions asked. Or old code that needs a break from you after troubleshooting for too long. Trust that you can come back together, without pressure or resentment or guilt. It's not meant to be another obligation on the calendar, but a reprieve. 
+Meet weekly if possible, in person if possible, and accommodate what's not always possible. Aim for consistency and flexibility through a mix of in-person meetings and online connection if possible. Stay flexible to the impossible and know you'll get back to it later. Like old friends you can pick up with after an indeterminate amount of time, no questions asked. Or old code that needs a break from you after troubleshooting for too long. Trust that you can come back together, without pressure or resentment or guilt. It's not meant to be another obligation on the calendar, but a reprieve. 
 
-We help restore each other through co-presence. We defrag each other's mental hard disks through the process of communing.  
+A frequent, consistent cadence of meeting in person is best. But the truth is, you don’t need to prepare much just to start building community. Our own weekly meeting cadence went to video during pandemic lockdowns, to hybrid and bi-weekly, and has been consistently supplemented by a Discord forum where we post asynchronously. 
 
-A frequent, consistent cadence of meeting in person is best. But the truth is, you don’t need to prepare much just to start building community. 
+We've been lucky to have space to be self-selecting participants, figuring out what this is together. People find us by word of mouth, no prostheletizing (we're too lazy for that). We simply have our meetings in a semi-public space like a library lab. People can walk by and see what we are doing, ask if they can join, and we've had long-time members who found us this way. There are no prerequisites or fees. The asynchronous forums allow us to include anyone else who is interested to join, no matter their location or affiliation. 
 
-We've been lucky to have space to be self-selecting participants, figuring out what this is together. People find us by word of mouth, no prostheletizing (we're too lazy for that). We simply have our meetings in a semi-public space like a library lab. People can walk by and see what we are doing, ask if they can join, and we've had long-time members who found us this way. There are no prerequisites or fees. 
+Still, it's possible to incorporate some of these approaches in a required classroom setting or work environment too. Or if you don't have a space, you can start with an online forum only. 
 
-Still, it's possible to incorporate some of these approaches in a required classroom setting or work environment too. 
-
-**core group, self selecting, figuring out what it is. problem-membership, not prostheletizing. word of mouth. public space, what are you doing, can i join? no cap, joseph beuys** humility, self conscious self deprecating, not warranted. 
-
-This literally *makes* the room for each other, creates the room we have together [see we ask after each other #10]
-
-### Show and tell / Take temperature with check ins
-
-Or Round Robin, or Check Ins, or Council Method, or some version of an opening gesture for gathering that acknowledges each person, gives them a short couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise share first each visit. 
-
-This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings. 
+### [Vibe check]
 
 ![Guestbook loom at Stanford Textile Makerspace](../assets/img/guestbookloom.png)
 
+[caption]This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings. 
+
 [^textiledata]: For more resources on textile data visualization, see their [course examples] as well as [XXXCITELaura]
 
-### Make room for each other, make time
+Start with a round of check-ins: What are you making? What are you into right now? How are you doing, really?
 
-We set a timer for our check-ins, not to limit time for some people but to make time for everyone. This also has a flattening effect, where a full professor who joins gets the same three minutes as a first-year undergraduate. Both can talk about what they're working on, struggling with, or excited about this week. 
+We are pretty free-form, but one of our adopted structures has been to open with a ritual of checking in on each other, asking what we are working on and thinking about. That short process often guides the rest of our weekly agenda. It's a quick moment to take the temperature of the group, to find out what code questions need investigating or troubleshooting (or what life questions too). 
 
-In live-coders Olivia Jack and Bruno Gola's Berlin-based hack night, Show Us Your Screens, everyone gets ten minutes to perform or present their computational art or music. This ten minutes includes setup time. "We project the timer on the ceiling. When it goes off, you're done. It changes color and everyone claps," says Jack, who is the creator of the Hydra live-coding language for networked visuals. "The setup is sometimes the most elaborate part of the performance." 
+Call it Round Robin, Show and Tell, or Council Method — some version of an opening gesture for gathering helps to acknowledge each person, and it gives them a couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise take up most of the time. 
+
+### Make room for each other
+
+We set a timer for our check-ins, two to five minutes max! We do this, not to limit people, but to make time for everyone. This also has a flattening effect, where a full professor who comes to the meetup gets the same three minutes as a first-year undergraduate. Both can talk about what they're working on, struggling with, or excited about this week. 
+
+In live-coders Olivia Jack and Bruno Gola's Berlin-based hack night, Show Us Your Screens, everyone gets ten minutes to perform or present their computational art or music [CITE]. This ten minutes includes setup time. "We project the timer on the ceiling. When it goes off, you're done. It changes color and everyone claps," says Jack, who is the creator of the [Hydra]() live-coding language for networked visuals. "The setup is sometimes the most elaborate part of the performance." 
+
+The time we offer each other matters. Sharing it this way is one of the most generous things we can offer to one another.[XXX]
 
 ### Believe in snacks
 
-Without fail, when I asked what makes our community thrive, everyone said: SNACKS! Support snacks at all costs. Snacks are magic. How do snacks do it? I don't know, ask snacks. Make sure you budget for snacks.
+Seriously, snacks are essential. Without fail, when I asked what makes our community thrive, everyone said: SNACKS! Support snacks at all costs. Snacks are magic. How do snacks do it? I don't know, ask snacks. Make sure you budget for snacks.
 
 >"While this is a cliche food has always brought people together. Snacking together in the basement brought out some of the best discussions and ideas I have entertained in college." 
 >>—Ada Toydemir, they/them, MS Computer Science, USC
@@ -798,11 +784,16 @@ Without fail, when I asked what makes our community thrive, everyone said: SNACK
 >"I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it levels the playing field, and it kind of brings a sense of equality. That's important."
 >>–Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
-Look for snacks that are computer keyboard friendly – nothing too sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-than-healthful. Single-serving items that avoid much plastic wrapping are ideal: satsuma oranges,  popcorn, pretzels, gummies. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
+Look for snacks that are computer keyboard friendly – nothing too sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-than-healthful. Throw in a few apples, I guess? Single-serving items that avoid much plastic wrapping are ideal: popcorn, pretzels, gummies, satsuma oranges. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
 
-As our meetings transitioned to virtual spaces and across timezones, snacks still held sway as a conversation starter. Then, on return to a campus strictly regulated with no-food policies and mask-wearing, our beloved snacks were off the table (occasionally under the table, instead). Whether piled in the center of the table, dutifully taken outside, or discussed in their glaring absence, snacks represent the friendly core of the space. The snack breaks are where the best thinking and connections get made. They are a reminder that we are not coding machines but fleshy bodies connected by our need to take breaks to digest and recharge. As we chew and chat, we digest and discuss what we're troubleshooting (both in code and life). It's all part of the processing. 
+As our meetings transitioned to virtual spaces and across timezones, snacks still held sway as a conversation starter. We switched to a BYOS system, and built communality through sharing snacks on screen. Then, on return to a campus strictly regulated with no-food policies and mask-wearing, our beloved snacks were off the table (occasionally under the table, instead). Whether piled in the center of the table, dutifully taken outside, or discussed in their glaring absence, snacks always represent the friendly core of the space (in much the same way the liveliest room of a party is always the kitchen). The snack breaks are where the best thinking and connections get made. They are a reminder that we are not coding machines but fleshy bodies connected by our need to take breaks to digest and recharge. As we chew and chat, we digest and discuss what we're troubleshooting (both in code and life). It's all part of the processing. 
 
 ### Share playlists
+
+Snacks are rivaled only by music and movement in the essentials for our meetups. From our first gathering, we began a  collaborative playlist that always kicks off with Queen.
+
+ (which was not my doing but I have fully embraced it as you can tell), as well as oodles of snacks to lure folks in. 
+
 
 And our playlists are on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now." At our first meetup, I asked if folks would like background music while we worked, and a quiet student piped up out of the blue with this amazing suggestion. I was blown away. And "Don't Stop Me Now" has been our rallying call ever since. 
 
@@ -813,22 +804,24 @@ A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g
 
 ### Keep things loose
 
-It has been one of my biggest stresses about our Collective learning how to lead. Because leadership feels like a responsibility I take seriously, but also a spotlight or a pedestal I'm wary of, this leadership feels like a tightrope walk in which I try nervously to make sure everyone is comfortable, having fun, and learning—all without forcing anything or having it "look like" anything is happening at all.
+It has been one of my biggest stresses about our collective learning how to lead. Because leadership is a responsibility I take seriously, but also feels like a spotlight or a pedestal I'm wary of, this leadership feels like a tightrope walk in which I try nervously to make sure everyone is comfortable, having fun, and learning — all without forcing anything or having it "look like" anything is happening at all.
 
-Of course, this does not work. That nervous strategy is riddled with stilted efforts of over-structured efforts leading to dead silence and loosey-goosey meandering conversations. Along the way I am continually learning the caring practices of facilitation as leadership, as being a vessel and a model. The space is a loose net—some structure is in fact necessary, though I was loathe to be the instigator of that structure at first. 
+Of course, this does not work. That nervous strategy is riddled with stilted efforts of over-structured efforts leading to dead silence and loosey-goosey meandering conversations. Along the way I am continually learning the caring practices of facilitation as leadership, as being a vessel and a model. 
+
+The space is a loose net — some structure is in fact necessary, though I was loathe to be the instigator of that structure at first. But tangents are warmly encouraged: 
 
 >Elea: "Can I go on a tangent?" 
 >Sarah: "Always."
 
-GIFs, TikToks, whatever's your thing... what brings a smile to your face and a sense of levity to the experience? What can you connect around? How can we not take ourselves so seriously even as we engage in the serious business of reimagining the world? 
+Keep it loose, but keep it. Strive for the loosest container possible to hold the thing together. This supports the lowest possible barrier to participation [CITEAdriaan&Karla]. 
 
-### Create [boundaries/guidelines] together
-
-[XXX write about work with p5.js and developing code of conduct]
+When we were faced with formalizing into an organization with officers and institutionalization in order to access funding, for us in that moment it was right to turn that down. You'll have to decide what's right for your group at the time, but our members said they liked being able to stay low-stakes, without obligation. We were able to maintain this way because of individual members like myself having institutional support. In other contexts, this may change as our structure and membership continues to change. 
 
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
+
+[//]: # "code of conduct exercise?"
 
 </div>
 

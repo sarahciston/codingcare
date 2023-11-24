@@ -715,6 +715,10 @@ The research foundational to this artistic practice is a critical reflection on 
 
 In *Coding.Care* I detail five years of engaging [XXX]
 
+**no cap, joseph beuys** humility, self conscious self deprecating, not warranted. 
+
+
+
 >Code Collective is a distinctive community of practice and pedagogical space that welcomes and supports many kinds of learners. For almost five years, this diverse hack lab has hosted workshops and hybrid-format meetings, while growing and shifting to meet the needs of our community—from pandemic support to alumni programming. The Collective unites students who may have zero technical experience with those who have lots—and values their experiences equally, with the mantra: "We all have something to teach each other." Through the Collective’s intimidation-free, learner-led, process-oriented approach, it theorizes and models caring community building and innovative university lab space, plus non-academic community workshops that can create knowledge transfer across disciplinary and social strata of all kinds. 
 *I have adapted this format to guest faculty roles and workshops at Ars Electronica, Transmediale, Mozilla Festival, Salzburg International Summer Academy of Fine Arts, and elsewhere.* 
 
