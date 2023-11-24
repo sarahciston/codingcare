@@ -530,6 +530,9 @@ We let ourselves be flexible and fluid, spongy and influenced. Or at least, we t
 
 I include myself in this! Through conversations about what we're making and imagining, I try to model my own artistic research practice that prioritizes comfort with uncertainty and multiple approaches. I focus on dialog exchange rather than prescriptive lectures, and fully integrate critical and creative approaches, until it does not feel like 'teaching' but sharing and connecting. There are many structures designed to keep us from learning from each other in these ways, including our own resistance. But it is worthwhile if you are willing. 
 
+>"A lot of the the values that I was trying to hold on to would be a lot harder for me to hold on to without Code Collective. It's almost like an opportunity cost, like if Code Collective wasn't there, I would be working for Palantine or something right now, I'd be using this mind towards — I wouldn't even call it destruction but I would have lost a lot. [...] A huge amount of empathy or a criticality has remained. That's that's what I'm taking with me and that's what I will keep, and I hope to replicate it in some form."
+>>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+
 ### Adjust for what's needed
 
 What are the basics people need to get in the door and be comfortable there? Hold meetings at times people can show up. Are you including community members who have multiple jobs, at odd hours? Children they need to bring along? Consider how you can account for what your community needs (and what your potential community might need!). Feminist.AI, a collective in Los Angeles, provides a great model for this by scheduling their meetups during a mix of days, evenings, and weekends, and providing childcare — which had not been commonly available for tech events when they started [@FeministAI]. If something like this sounds unatainable, think about how you might provide access through mutual aid partnerships, or how you can rotate duties among team members. 
@@ -551,58 +554,89 @@ Not only does acknowledging situated context help create better relationships am
 
 ### Address difference and power
 
-[@dunbar-hesterHackingDiversityPolitics2019] We cannot create flat, non-hierarchical communities. Pretending that we can results in ignoring the imbalances that exist. By acknowledging them, we have more opportunity to work through and shift them. 
+Difference and power exist. Hierarchies exist. Let's not pretend they don't. Too many communities eagerly proclaim, "This is a safe space," or an equal or free space, only to see this 'safety', 'equality', and 'freedom' play out more for some than for others. We must acknowledge existing hierarchies in order to address them. If we want to build equitable communities, we cannot ignore the imbalanced contexts in which we enter. By acknowledging these contexts more openly, we can work with them, work through them, and shift them. 
 
-We don’t dismiss hierarchy out of hand, but acknowledge and work to address it by meeting each other where we are and valuing what each can contribute to another’s knowledge, and to better and more diverse computational systems.
+What kinds of hierarchies exist? There may be obvious ones, if your community is made of teachers and students. There may be less obvious ones. Your community no doubt includes different demographic groups and people with a range of life experiences. 
 
-Aligned in our interest in coding, we see our many differences as strengths and opportunities to learn from one another. We are committed to interdisciplinary, intersectional, iterative making. We make sure this is embedded in and extends beyond our own work, through our gatherings [...] [by including workshops and group research that focuses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally.]
+How do we acknowledge them? 
 
-Sometimes these values are explicitly stated. Sometimes they are enacted instead through our choice of tools, language, gestures, and more. [When it might ward off new [XXX] we don't hide these values but weave them in to our choieces of [XXX]
+* Not assuming defaults when you speak, when you plan and organize, when you [XXX]
+* A bit of structure helps. Codes of conduct or community agreements provide understandings around the way we conduct our conversations and other interactions (see Section [XX]).
+* Building routines and other structures that establish balance and equal access to resources, like the opening check-ins discussed in Section [XX] that make sure everyone has an opportunity to share. 
 
-[...]
+[The practices we learn in casual community [can/could/might] help us reshape formal communities as well.]
+
+In tech communities, a myth of equal access to digital resources and DIY materials led many to propose that makerspaces and hacklabs could be egalitarian spaces. Communications professor and open-source community researcher Christina Dunbar-Hester has shown how promoting 'free speech and diversity' through no-holds-barred approaches actually ends up reinforcing existing power imbalances. In open-source coding communities and hackerspaces, this has led to women and people of color moving on from these spaces to create their own communities instead [@dunbar-hesterHackingDiversityPolitics2019].
+
+While these spaces may seem apart from "big tech" and thus have more opportunity to be free of its problems, Dunbar-Hester found [XXX]. Their informal structures, mostly run through volunteers, [were not optimized for focusing on bringing in/welcoming new members unlike them/not did naturally lend to/leave room for critical self-reflection] [XXX]
+
+>"the potential for differences in how participants are located within the community—there are multiple 'classes' within the wider open-technology community—and holds that CoCs may do some work to raise awareness and empathy levels about these differing backgrounds and experiences." [Dunbar-HesterHackingDiversity]
+ 
+[XXX][more about hackerspaces vs corporate spaces here and what they can/but don't/do?][or does this go in intro]
+
+### See differences as potentials
+
+Aligned in our interest in coding, we see our many differences as strengths and opportunities to learn from one another. I am committed to interdisciplinary, intersectional, iterative making. I make sure this is embedded in my artistic practice and my own work; and I hope it extends into our gatherings by how we show up. We including workshops and research discusses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally. We focus on how to "read" tools and technologies we use and make from different perspectives. We [XXX]
+
+Sometimes these values are explicitly stated. At other times, such language can be off-putting to audiences who might otherwise want to participate and would gain from the ideas that language describes. It's not always necessary to use the terms "intersectionality" or "anti-racism" or "queer theory" — we can continue enacting these ideas through our selection of tools, programming languages, social gestures, and more. 
 
 ### Meet folks where they are
 
-This is not only about meeting people at their skill level, but also at their interest level or topic of choice. You do not change minds
+Just as it's not always necessary to explain complex digital systems in highly technical terms, or critical theory in highly academic terms, we can use plain language to include as many interdisciplinary communities in the topics of our conversation as possible. 
 
-I may not care for their approach or their aesthetic — or their politics! But I still *try* to start by understanding what they want to make and why. I do ask questions intended to challenge those approaches and aesthetics (and sometimes politics), but my goal is not to change their mind or make them do it 'my' way. My goal is to make space for them to see options they might not have considered, and to help them explore the options they choose in mindful ways. 
+This is not only about meeting people at their skill level (which we absolutely want to do), but also about meeting them at their interest level and topic of choice. In any conversation, accept that it is not your job to change someone else's focus or opinion, especially about their own work. Practice giving feedback that is a value-neutral description of what you see in their work, rather than what's 'good' or 'bad', or what you like or dislike (Springer 2015)[CITE]. This can often be the most helpful feedback, as it reflects back to the creator how it is received by an audience and leaves to them whether it meets their goals. 
 
-This approach helps more people feel welcome in our meetups. Often it also shifts their stance and their practice in the direction of making more critical and compassionate work. 
+I may not care for their approach or their aesthetic — or their politics! But I still *try* to start by understanding what they want to make and why.[^baseline] I do ask questions intended to challenge those approaches and aesthetics (and sometimes politics), but my goal is not to change their mind or make them do it 'my' way. My goal is to make space for them to see options they might not have considered, and to help them explore the options they choose in mindful ways. 
 
->"A lot of the the values that I was trying to hold on to would be a lot harder for me to hold on to without Code Collective. 
->"Even [another member] who was confronted with opportunities to profit immensely off NFTs, but decided not to because of Code Collective, because when she was thinking about these ideas, she could see other people who are also using code in the creative manner. So it actively shaped the ethics of individuals who have exceptional power with their [work]."
->"I can see Code Collective as a way to reinforce ethics — and without imposing them. [No one went to [her] and said, 'What you're doing is wrong.' We said, 'Oh, like it sounds like you're having mixed feelings about this. Let's talk about it.' Or she was very vocal, but we were all interested in it and had dynamic conversations around it.] It was never like, 'don't do that, what are you doing' but definitely a space to hold all the possibilities around it, which I really appreciate. I know you and I have gotten into like some heated conversations which I really enjoy. But there's a lot of respect there to hold all of the opposing ideas. The dialectical is the value."
+[^baseline]: Understanding what someone wants to express is not the same as tolerating inhumane treatment of myself or others in our space, which we don't abide. These are hard lines, established by our community agreements (see [XXXsection XX on how to create these]). If an issue arises, folks are welcome back when they can reframe ideas without questioning the fundamental humanity and right to exist of others.
 
->"It's almost like an opportunity cost, like if Code Collective wasn't there, I would be working for Palantine or something right now, I'd be using this mind towards — I wouldn't even call it destruction but I would have lost a lot. [...] A huge amount of empathy or a criticality has remained. That's that's what I'm taking with me and that's what I will keep, and I hope to replicate it in some form."
+This approach helps more people feel welcome in our meetups. Often it also shifts their stance and their practice in the direction of making more critical and compassionate work, because it models for others the questions they can ask themselves about their own practice. 
 
+If someone comes in with an opposing idea, let's talk about it. Tell us what's interesting to you about that. Show us how you're thinking about that. Maybe we disagree, but we're interested to know where you're coming from. We can hold space for multiple opposing ideas. This approach is somewhere between scrappy "dialectics" (dialogue and questioning) and "negative capability" (staying with uncertainties and doubts, without reaching for answers). 
+
+And find a way, in the end, to break it up — with snacks, goofing off, small glimmers of joy — so that discussion fatigue does not set in. This makes it a comfortable space to have hard, but generative conversations.
+
+>"I can see Code Collective as a way to reinforce ethics — and without imposing them. It has actively shaped the ethics of individuals who have exceptional power with their work. It was never like, 'don't do that, what are you doing' but definitely a space to hold all the possibilities around it, which I really appreciate. I know you and I have gotten into some heated conversations which I really enjoy. But there's a lot of respect there to hold all of the opposing ideas. The dialectical is the value."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
-
-If someone comes in with an opposing idea, let's talk about it. Tell us what's interesting to you about that. Show us how you're thinking about that. Maybe we disagree, but we're interested to know where you're coming from. We can hold space for multiple opposing ideas. My approach is somewhere between scrappy "dialectics" (dialogue and questioning) and "negative capability" (staying with uncertainties and doubts, without reaching for answers).
-
-### Value many forms [& tools]
-[craft] [zines]
-[cite][munisp5zine]
-
->@ender "I care about the process of making the zine, but I care even more about what the zine does."
-
-At various points, Code Collective has also been Zine Club, which has also been Crochet & Knitting Club. Even though I became interested in each of these topics independently of the group, our interests in common have found each other and the Code Collective format has been an adaptable shape to embrace them all. It's wildly transformable.  
-
->"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." (Mercedes Bernard, @CrochetCodeCraft)
-
->"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] a lesbian-feminist mode of network t ing animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36)(McKinney-Information Activism)
-
-
 
 ### Choose the right tool for the job
 
-Sometimes we have to build it. Content is liquid; it will take the form of its container. It takes shape based on what the tools used can allow. Carefully choose tools and forms that share the values you want your work to embody. 
+There are no "right" tools or "best" programming langages. There are only right tools for the particular job. What do you want to say with what you make? What form will you use to make it? What tools will you use to create that form? 
 
-It takes shape within the limits of the affordances of one's tools. [rephrase] The capacities of the tools we choose set limits for our capacities to create. If I choose a saw, I may be able to build a birdhouse but won't be able to write an essay (maybe an essay about saws?). 
+I think of content as a liquid — its shape is determined by the form it fills. I started writing code because I wanted to make forms, because I wanted new shapes and thus new possibilities for content. 
+
+What we can form also depends on the capabilities of the tools we use — the programming languages, applications, hardware we choose. The capacities of the tools we choose set the limits for our capacities to create. If I choose a saw, I may be able to build a birdhouse but won't be able to write an essay (maybe an essay about saws?). Carefully choose tools and forms that share the values you want your work to embody. 
+
+
+### Value many forms [& tools]
+
+>"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." (Mercedes Bernard, [@CrochetCodeCraft])
+
+At various points, Code Collective has also morphed into Zine Club, which also has a secret ongoing life as Knitting and Crochet Club. Even though my personal interest in each of these topics emerged independly of the group, the Code Collective format has adapted shape to embrace them all, as members found interests in common and conversations overlapped. through online meetups during pandemic lockdowns to hybrid meetups on multiple platforms. It's wildly transformable.  
+
+The format continues to prove wildly transformable to hold what we need it to, 
+
+I became interested in each of these topics independently of the group, our interests in common have found each other and 
+
+
+>"I care about the process of making the zine, but I care even more about what the zine does." 
+>>–ender, Code Collective member
+
+The p5zine library is a beautiful example of coding and zine-making combining in a fun, community practice. Created by Munis [XXX]
+[craft] [zines]
+[cite][munisp5zine]
+
+
+>"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] 
+>"a lesbian-feminist mode of networking animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s," (36) 
+[McKinney-Information Activism]
 
 
 [XXX]
 [XXX]
 [XXX]
+
+By meeting each other where we are and valuing what each person can contribute to others' knowledge, we move toward better and more diverse computational systems.
 
 <div class="box live-code" markdown="1">
 

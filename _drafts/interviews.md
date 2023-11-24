@@ -16,6 +16,8 @@ nav_order: 95
 <!-- >a creative code, collective guide book kind of vibe -->
 <!-- >I am imagining this will also end up being kind of a living document. -->
 
+[Even [another member] who was confronted with opportunities to profit immensely off NFTs, but decided not to because of Code Collective, because when she was thinking about these ideas, she could see other people who are also using code in the creative manner.][No one said, 'What you're doing is wrong.' We said, 'Oh, like it sounds like you're having mixed feelings about this. Let's talk about it.' Or she was very vocal, but we were all interested in it and had dynamic conversations around it.] 
+
 <section class="interview" markdown="1">
 
 ## Katherine Yang
