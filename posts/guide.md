@@ -161,6 +161,9 @@ Designing the online presence for Code Collective has been an ongoing collaborat
 
 Through this process of communication and collaboration among the group members about who we are and what we want to offer, the Code Collective website has expanded from a static landing page into a unique resource hub and project showcase – with a searchable, contributable database of tools, tutorials, research, and projects we have found useful. 
 
+>"The most challenging part of programming is conceptualizing the problem, and many errors in programming are conceptual errors."
+>>[@mcconnellCodeComplete2004]
+
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
@@ -203,6 +206,8 @@ I learned to use scrappy artistic strategies from my first computational arts te
 [//]: # "that conference on connected learning from ??2020??"
 
 [//]: # "[XXXadd source] [Critically Conscious Computing: Methods for Secondary Education](https://criticallyconsciouscomputing.org/) "
+
+[//]: # "[XXXadd source] code complete by steve mcconnell"
 
 ### Critical breaking
 
