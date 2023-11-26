@@ -110,7 +110,7 @@ This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says
 ## 1. We create who we are together
 
 >"What I like about code collective is that it's a community of friends as well as resources. That's where I can feel like we're all going on a journey of learning and discovery together."
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 Code Collective is a self-organizing community of artists, makers, students, people from all backgrounds——especially including those who have not done much or any coding before. We meet regularly to develop our programming practices in a flexible, co-working, co-learning setting.
 
@@ -135,7 +135,7 @@ Upon gathering, I ask myself: What does this particular cluster of beings need a
 * "conquer my trouble starting and finishing. bounce ideas off of others. build something I'm proud of"
 
 >"For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
->Ada Toydemir, they/them, MS Computer Science
+>Ada Toydemir, they/them, MS Computer Science, USC
 
 To explore how we might best create community, I asked each person to share what they were currently working on, some topics they knew about, some topics they wanted to know about. The goal here is to look for overlaps: Where do what you know about and what I want to know about intersect? Here lies magic!
 
@@ -342,7 +342,7 @@ So-called stupid questions help us all unpack what we consider assumed knowledge
 ### Troubleshoot together
 
 >"Just talking through your problems with somebody else always helps you get a better understanding what you're trying to do. But then also, other people will have different perspectives. Also just having that space to work through it together, having the time to sit down and be like, 'Okay, step one step two. Let me write these lines of code.' And then getting to different steps and going on the journey together. I feel like that's a really rewarding process that we go through." 
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 Sharing our struggles helps us solve them. In Code Collective, we do a lot of team troubleshooting, in which several folks gather around a screen to explore a project. Several things happen when we join together this way, and none require the participants to have expertise on the specific issue at hand. 
 
@@ -425,11 +425,11 @@ GIFs, TikTok dances, whatever's your thing... What brings a smile to your face a
 
 ### Adopt mascots 
 
-We've adopted the magpie as our official mascot: an intelligent, crafty corvid fascinated with shiny objects and capable of using tools. 
+Our mascots are magpies and meme cats, clever and crafty animals fascinated with hoarding shiny objects, capable of using tools and causing a little trouble. We look to jellyfish and labyrinths for their translucent flexibility, their decentralized nervous systems, their twisty turny mystery and ability to go deep. 
 
-Our other, unofficial mascots are the queer misfit pirates from the TV show *Our Flag Means Death*. They support and champion each other, do projects together, explore identity, figure out their career goals, and fumble new skills while going on adventures. 
+Our other, unofficial mascots are the queer misfit pirates from the TV show *Our Flag Means Death*. They support and champion each other, do projects together, explore identity, figure out their career goals, and fumble new skills while going on adventures. Like them, we are a rag-tag troupe, a dead poets' society, a secret laboratory, a not-so-secret guild.
 
-These both embody the vibe of our group and remind us to enjoy that vibe too. Unrelated but not really unrelated, they remind me of [Pirate Care](https://syllabus.pirate.care/), a group whose syllabus theorizes care in relation to piracy and other legal gray zones. They argue that "Caring labour needs full access to resources, knowledge, tools and technologies. When these are taken away, we must claim them back."
+These both embody the vibe of our group and remind us to enjoy that vibe too. These remind me of [Pirate Care](https://syllabus.pirate.care/), a group whose syllabus theorizes care in relation to piracy and other legal gray zones. They argue that "Caring labour needs full access to resources, knowledge, tools and technologies. When these are taken away, we must claim them back."
 
 What would you adopt as your mascot or icon? What's the first person, place, thing, or idea that comes to mind? 
 
@@ -437,7 +437,12 @@ What vocabulary do you use to describe its structure: Is it a secret society? A 
 
 ### ~Mandated~ Welcomed enthusiasm
 
-Okay maybe not *mandated* but we like the approach of conferences like [bang bang con](https://bangbangcon.com/) that set a baseline of exclamations for everything, rather than needing to censor ourselves. They welcome joyful contributions, and it shows in the passion their presenters bring to their talks. So. Does my email have too many exclamation points, emoji, and gifs? Probably, but so what? 
+Okay maybe not *mandated* but we like the approach of conferences like [bang bang con](https://bangbangcon.com/) that set a baseline of exclamations for everything, rather than needing to censor ourselves. They welcome joyful contributions, and it shows in the passion their presenters bring to their talks. So. Does my email have too many exclamation points, emoji, and gifs? Probably, but so what? Is my terminal absolutely adorable? Heck yeah. 
+
+>"The terminal is cute. It's important to have a good relationship with your terminal." 
+>>—Ada Toydemir, they/them, MS Computer Science, USC
+
+[//]: # "cute terminal elsewhere?"
 
 <div class="box live-code" markdown="1">
 
@@ -652,13 +657,20 @@ There's a lot to be said for project managed software development processes that
 
 Try not to dismiss ideas before they get off the ground. Everything is connected. Knowing how 'way leads on to way', the tiny tangents always connect back to the big issues, and the impossible pursuits have a way of revealing practical applications when pursued.
 
+**Give yourself permission to continue even though there is not a clear path.**
+
+>"Perhaps surprisingly, a lot of the software that gets written in computer science departments also doesn't follow the standard rules of software engineering. It is quite common for academic researchers not to know in advance what the result of their project will be, and to approach programming as an experiment rather than a contractual construction project. This is as it should be, of course! We want researchers to do original things rather than simply follow someone else’s instructions." []
+>>Alan F. Blackwell, "The Craft of Coding" [@blackwellMoralCodes2024]
+
 ### Critical dreaming
 
 We love to dream wildly. We'll figure out the impractical later and the impossible after that. Scaling down can come later. The practice of critical dreaming can get us where we need to go by overshooting so vastly we end up somewhere new. Perhaps we'd never have arrived here by the normal routes. 
 
 Those gargantuan ideas, the ones you'd have no idea where to start? Go ahead and sketch the whole thing out — on paper, in plain language or pseudo code, in stick figures and scribbles. Make a map of your wild idea. For the areas where you have absolutely no clue what belongs there, you can write "Here be dragons" and fill it in later with the help of others. The map will help them, and you, understand what you don't yet understand. It will also help you see how you might break this big idea into smaller parts that could be doable — or at least a bit more comprehensible, and maybe one of the parts of those parts you know how to start. Start anywhere, and go from there!
 
-![map of ladymouth]() [XXX]
+![map of ladymouth](../assets/img/ladymouthappchart.png)
+
+For example, here's a map I made of my first Python project, called *ladymouth*. It did not yet include all these parts. As I learned what I would need to make it operate the way I imagined, I added each part. I ended up building only portions of the work, but this map helped me understand where I *could* go if I wanted to. It also helped me understand that I didn't have to try to do everything at once (which is a tendency of mine).{: .caption }
 
 How do you practice dreaming *critically*? 
 
@@ -703,7 +715,8 @@ While you're asking 'what' you want to make, also ask 'why' and 'how' you want t
 
 A critical engagement means asking "why not" as well as "why." "Why not?" in critical dreaming is the space to let yourself spin freely. But "why not?" in later phases also means questioning what limits technologies impose. Does an idea need to be realized with a machine learning tool, just because that is the trend? Does it have to be made with a digital technology at all? Is this a "problem" that technology is needed to solve? 
 
->>"when communities are faced with new technological solutions to existing problems, to ask what these techniques may prevent and not only to check what the techniques promise to do." —Ursula M. Franklin [-@franklinRealWorldTechnology2004]
+>"when communities are faced with new technological solutions to existing problems, to ask what these techniques may prevent and not only to check what the techniques promise to do." 
+>>—Ursula M. Franklin [-@franklinRealWorldTechnology2004]
 
 We don’t assume we *should* code something just because we can. Asking "Why Not" — in all its gleeful and critical forms — is just as important as asking "Why."
 
@@ -729,15 +742,19 @@ Try this activity with a partner and talk through your answers together. You mig
 >"It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
-It is essential that whatever rituals and habits you create, you create *together*. Ideally you develop these over time, through feedback and informal habits and through formal work on community agreements and mission. 
+Whatever rituals and habits you create, create them *together*. This is essential. Ideally you develop these over time, through feedback and informal habits and through formal work on community agreements and mission. How you choose to move as a group should be collaborations, ways of building trust with one another. As in dance, and all forms of attunement, we respond to each others movements in space, from the way we hold our bodies to the way we open ourselves up (or don't). And we learn what to trust and to expect by what is repeated and what is dynamic. 
 
-These literally *makes* the space we have together. We help restore each other through co-presence. We defrag each other's mental hard disks through the process of communing.  
+These practices literally *make* the space we have together. These repetitions create the containers and foundations where we can both rest and risk. We help restore each other through co-presence. We defrag each other's mental hard disks through the process of communing. And because we can restore and recouperate here, we also have more room to experiment and create — playing at our growth edges, not cowering under deadlines — supported by one another. 
 
-The examples I offer here are often in flux as the temperaments and conditions of our members change. Fundamentally, we create ways of being together and acknowledging each others common humanity and unique perspectives simultaneously. We mark the specialness of contact and connection. Often this happens by accident and then codifies (code-ifies!) into a pattern we keep. Try some of these, and adjust until you find what works for you!
+The examples I offer here are often in flux as the temperaments and conditions of our members change. Often they start by accident and then codify (code-ify!) into patterns we keep. They may seem like they have nothing at all to do with coding. Don't worry, the coding will happen. First, we focus on creating ways of being together. We balance the acknowledgment of our common humanity alongside our unique perspectives. We mark the specialness of contact and connection. With this as our steady base, it's then easy to help folks engage topics they care about — including coding. Try some of these, and adjust until you find what works for you!
 
 ### Create [boundaries/guidelines] together
 
-[XXX write about work with p5.js and developing code of conduct]
+[XXX][write about work with p5.js and developing code of conduct]
+
+[appendix:CCCcommunityvalues]
+
+[//]: # "does this go in section 6 above?"
 
 ### Meet regularly
 
@@ -749,11 +766,11 @@ We've been lucky to have space to be self-selecting participants, figuring out w
 
 Still, it's possible to incorporate some of these approaches in a required classroom setting or work environment too. Or if you don't have a space, you can start with an online forum only. 
 
-### [Vibe check]
+### Vibe check
 
 ![Guestbook loom at Stanford Textile Makerspace](../assets/img/guestbookloom.png)
 
-[caption]This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings. 
+This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings. {: .caption }
 
 [^textiledata]: For more resources on textile data visualization, see their [course examples] as well as [XXXCITELaura]
 
@@ -761,15 +778,17 @@ Start with a round of check-ins: What are you making? What are you into right no
 
 We are pretty free-form, but one of our adopted structures has been to open with a ritual of checking in on each other, asking what we are working on and thinking about. That short process often guides the rest of our weekly agenda. It's a quick moment to take the temperature of the group, to find out what code questions need investigating or troubleshooting (or what life questions too). 
 
-Call it Round Robin, Show and Tell, or Council Method — some version of an opening gesture for gathering helps to acknowledge each person, and it gives them a couple of minutes to share anything they want to share today. It could be how they are feeling, what they might be working on, a success or a struggle, something they've read or seen in the wild. By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise take up most of the time. 
+Call it Round Robin, Show and Tell, or Council Method — some version of an opening gesture for gathering helps to acknowledge each person, and it gives them a couple of minutes to share anything they want to share today. You could make it very abstract or metaphorical as a warmup, like "What's your internal weather report? And what's your code project's weather report?" Or it could be quite literal: "How are you feeling? What are you working on? What are you struggling with or excited about? What's something cool you've seen in code this week?"
+
+By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise take up most of the time. 
 
 ### Make room for each other
 
-We set a timer for our check-ins, two to five minutes max! We do this, not to limit people, but to make time for everyone. This also has a flattening effect, where a full professor who comes to the meetup gets the same three minutes as a first-year undergraduate. Both can talk about what they're working on, struggling with, or excited about this week. 
+We always set a timer for our check-ins. Depending on how many people you have, make it just two to five minutes max! We do this not to limit people but to make time for everyone. The timer also has a flattening effect: A full professor who comes to the meetup gets the same three minutes as a first-year undergraduate. Both of their interests are equally valid and interesting in this space. 
 
-In live-coders Olivia Jack and Bruno Gola's Berlin-based hack night, Show Us Your Screens, everyone gets ten minutes to perform or present their computational art or music [CITE]. This ten minutes includes setup time. "We project the timer on the ceiling. When it goes off, you're done. It changes color and everyone claps," says Jack, who is the creator of the [Hydra]() live-coding language for networked visuals. "The setup is sometimes the most elaborate part of the performance." 
+In Olivia Jack and Bruno Gola's Berlin-based hack night, Show Us Your Screens, everyone gets ten minutes to perform or present their computational art or music [CITE]. This ten minutes includes setup time, so plugging in becomes part of the show. "We project the timer on the ceiling. When it goes off, you're done. It changes color and everyone claps," says Jack, who is the creator of the [Hydra]() live-coding language for networked visuals. "The setup is sometimes the most elaborate part of the performance." 
 
-The time we offer each other matters. Sharing it this way is one of the most generous things we can offer to one another.[XXX]
+The time we offer each other matters. Sharing it with our active and equal attention is one of the most generous things we can offer to one another.
 
 ### Believe in snacks
 
@@ -778,29 +797,27 @@ Seriously, snacks are essential. Without fail, when I asked what makes our commu
 >"While this is a cliche food has always brought people together. Snacking together in the basement brought out some of the best discussions and ideas I have entertained in college." 
 >>—Ada Toydemir, they/them, MS Computer Science, USC
 
->"I think the snacks were definitely a big draw in the beginning. They would still be now, except for covid."
->>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>"I think the snacks were definitely a big draw in the beginning. They would still be now, except for COVID."
+>>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 >"I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it levels the playing field, and it kind of brings a sense of equality. That's important."
 >>–Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 Look for snacks that are computer keyboard friendly – nothing too sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-than-healthful. Throw in a few apples, I guess? Single-serving items that avoid much plastic wrapping are ideal: popcorn, pretzels, gummies, satsuma oranges. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
 
-As our meetings transitioned to virtual spaces and across timezones, snacks still held sway as a conversation starter. We switched to a BYOS system, and built communality through sharing snacks on screen. Then, on return to a campus strictly regulated with no-food policies and mask-wearing, our beloved snacks were off the table (occasionally under the table, instead). Whether piled in the center of the table, dutifully taken outside, or discussed in their glaring absence, snacks always represent the friendly core of the space (in much the same way the liveliest room of a party is always the kitchen). The snack breaks are where the best thinking and connections get made. They are a reminder that we are not coding machines but fleshy bodies connected by our need to take breaks to digest and recharge. As we chew and chat, we digest and discuss what we're troubleshooting (both in code and life). It's all part of the processing. 
+As our meetings transitioned to virtual spaces and across timezones, snacks still held sway as a conversation starter. We switched to a BYOS system, and built communality through sharing snacks on screen. Then, on return to a campus strictly regulated with no-food policies and mask-wearing, our beloved snacks were off the table (occasionally under the table, instead). Whether piled in the center of the table, dutifully taken outside, or discussed in their glaring absence, snacks always represent the friendly core of the space (in much the same way the liveliest room of a party is always the kitchen). 
+
+The snack breaks have been where the best thinking and connections get made. They remind us that we are not coding machines but fleshy bodies connected by our need to take breaks to digest and recharge. As we chew and chat, we digest and discuss what we're troubleshooting (both in code and life). It's all part of the processing. 
 
 ### Share playlists
 
-Snacks are rivaled only by music and movement in the essentials for our meetups. From our first gathering, we began a  collaborative playlist that always kicks off with Queen.
+Snacks are rivaled only by music and movement in the essentials for our meetups. At our first gathering, we began a collaborative playlist that always kicks off with Queen's "Don't Stop Me Now." This track became our theme song at our very first meetup, when I asked if folks would like background music while we worked, and an otherwise very quiet student piped up out of the blue with this amazing suggestion. Perhaps it seems out of character as a rallying cry for a room full of people typing on computers, but I argue that "Don't Stop Me Now" speaks to a Code Collective mindset finds joy in doing the impossible:
 
- (which was not my doing but I have fully embraced it as you can tell), as well as oodles of snacks to lure folks in. 
+>"Tonight I'm gonna have myself a real good time / I feel alive / And the world, I'll turn it inside out, yeah / I'm floating around in ecstasy / So (Don't stop me now) (Don't stop me) / 'Cause I'm having a good time / Having a good time / I'm a shooting star, leaping through the sky like a tiger / Defying the laws of gravity / I'm a racing car, passing by like Lady Godiva / I'm gonna go, go, go, there's no stopping me"
 
+![Freddie](../assets/img/freddie.gif)
 
-And our playlists are on point! The Creative Code Collective theme song is Queen's "Don't Stop Me Now." At our first meetup, I asked if folks would like background music while we worked, and a quiet student piped up out of the blue with this amazing suggestion. I was blown away. And "Don't Stop Me Now" has been our rallying call ever since. 
-
-A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g6F9RM0Osbhw7ONwxSJhy?si=Cr0nEeExQiKPUQI-l7-HCA) on your open streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another way to come together around something *other* than code. Anything that levels the field for participants and makes broader connections supports the community in general and when coding. It's all connected! 
-
->"The terminal is cute. It's important to have a good relationship with your terminal." 
->>—Ada Toydemir, they/them, MS Computer Science
+A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g6F9RM0Osbhw7ONwxSJhy?si=Cr0nEeExQiKPUQI-l7-HCA) on your streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another way to come together around something *other* than code. Anything that makes broader connections among participants can help support the community, in general and when coding. It's all connected! 
 
 ### Keep things loose
 
@@ -879,7 +896,8 @@ As students move on into the world, I’m working to document our values and  im
 
 I’m not taking credit for any of these approaches being novel; in fact, in some ways, they are so instinctual they are easily dismissed—but they are too important to be overlooked, when they contribute so much to learning environments that support a variety of expression and creation. 
 
->KATHERINE says: “It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
+>"It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
+>>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 
 ### Keep track of what we already know, rather than duplicate our work
@@ -933,8 +951,8 @@ What question do you want to explore?
 ### Make room for each other
 <!--- is this one in encode our values? --->
 
->"It's really reassuring to always come back to this environment of like, "Okay, you don't have to be that, you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code."**
->>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>"It's really reassuring to always come back to this environment of like, "Okay, you don't have to be that, you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code."
+>>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 
 #### Homebrew & sisterspit
@@ -992,7 +1010,7 @@ Community can sometimes feel like an easy word, even a dirty word, the way it ge
 Belonging is hard. Community is hard work. Real community comes from solidarity across difference, not requests to assimilate. It is is about mutual interrelation and inter-reliance, not extraction. 
 
 >"The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
->>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 We strike a balance that is neither the top-down hierarchy of a classroom nor the chaos of a "hierarchy-less" blob. We acknowledge the power dynamics at play and actively address them, working to help folks feel welcoming in community.
 
@@ -1000,9 +1018,8 @@ Our community is less about how it appears to outsiders than how it feels while 
 
 [...]
 
-We fly under the radar. we are a rag-tag troupe of misfits, a dead poets' society, a secret laboratory, a not-so-secret guild.
 
-Our mascots are magpies and meme cats, too-clever animals fascinated with hoarding shiny objects and causing a little trouble. We look to jellyfish and labyrinths for their translucent flexibility, their decentralized nervous systems, their twisty turny mystery and ability to go deep. 
+SC: learning to give yourself permission even though there isn't a clear path. 
 
 Still we want to find openings for others to enter, [...]
 
@@ -1033,7 +1050,7 @@ TBD
 ## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
 
 
->"Perhaps surprisingly, a lot of the software that gets written in computer science departments also doesn’t follow the standard rules of software engineering. It is quite common for academic researchers not to know in advance what the result of their project will be, and to approach programming as an experiment rather than a contractual construction project. This is as it should be, of course! We want researchers to do original things rather than simply follow someone else’s instructions." []
+
 
 </hr>
 
@@ -1173,15 +1190,16 @@ Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schn
 [^queerfeeling]: In this way, coding is like queerness: If you wonder if you're queer enough, you are!
 
 >"It's made me more curious about not just the code in the project itself, but also the process. [...] All the technology that we built comes from a person or a bunch of people and they went on a journey to get there, and that journey is inherently very interesting."
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 >"I remember I was presenting this project. I'd done at my internship where it was a Processing project. And it featured this ink simulation. And then I remember people were asking me how I did it. And I got to do some whiteboarding and explain bit shifting and how to do operations in color. And I don't think I fully understand what I was saying. 
 >"But it's a really fun experience to teach and learn, and teach and learn at the same time, and feel like we are all--like there wasn't any lesson, plan, or anything."
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 >"It's small and tight, and we have a bunch of regulars. but I also feel like maybe there are other people out there who were not reaching who might be interested or where we can like the community, would benefit from having them as well, we're even like not just individuals. like other organizations like, I think, the a student assembly for accessibility with having some discussions about technological accessibility."
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science
+>>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
+Ada?
 >"it was time to get into coding. And by that I mean—hours of getting things wrong and few moments of figuring out something right."
 >"Most of all, the practice and reward from creative coding showed me first-hand that I shouldn’t be scared of new territory. It might seem simple, but the work I was able to achieve did more than shake my fear of code; it gave me a natural curiosity on the future of social media, the hands behind updated features, and how a new generation of thinkers and media-movers could reshape our understanding of it."
 
@@ -1196,7 +1214,6 @@ Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schn
 
 >>Ada: stumbled on it by chance, I get bored very easily. I won't take projects unless I'm very excited about it. kind of trained me, started learning more music visualization and how i built up all the ..al the coding knowledge i have is 
 
-SC: learning to give yourself permission even though there isn't a clear path. 
 
 >>Ada: improving from learning how to better look things up. read the documentation before, to know where to look when you ended something. making the referencing process faster. making reference sheets. straight copy, give credit, connect something new/make a change
 
