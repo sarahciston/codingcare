@@ -542,11 +542,21 @@ I include myself in this! Through conversations about what we're making and imag
 
 ### Adjust for what's needed
 
-What are the basics people need to get in the door and be comfortable there? Hold meetings at times people can show up. Are you including community members who have multiple jobs, at odd hours? Children they need to bring along? Consider how you can account for what your community needs (and what your potential community might need!). Feminist.AI, a collective in Los Angeles, provides a great model for this by scheduling their meetups during a mix of days, evenings, and weekends, and providing childcare — which had not been commonly available for tech events when they started [@FeministAI]. If something like this sounds unatainable, think about how you might provide access through mutual aid partnerships, or how you can rotate duties among team members. 
+Adapting our systems to our particular needs and those of others tends to make those systems more accessible for everyone. 
 
-Two of the simplest things you can do for any event are to provide details about the accessibility of the space you use and to ask participants what provisions they need. Offer details on your group or event pages about parking, seating, steps and ramps, toilets, translations, and any additional particulars of your space will help everyone know what to expect. Examples of access descriptions: [XXX][access statement P5, access rider].
+What are the basics people need to get in the door and be comfortable there? Hold meetings at times people can show up. Are you including community members who have multiple jobs, at odd hours? Children they need to bring along? Anything that allows you or prevents you from participating is a factor of access. This can include physical accessibility, knowledge and language inclusion, the many intersectional aspects of diversity, and more. 
 
-How else can you share responsibilities of organizing and supporting your gatherings? How else can you acknowledge and account for the many ways we [arrive/show up]? 
+Consider how you can account for what your community needs (and what your potential community might need!). Feminist.AI, a collective in Los Angeles, provides a great model for this by scheduling their meetups during a mix of days, evenings, and weekends, and providing childcare — which had not been commonly available for tech events when they started [@FeministAI]. If something like this sounds unatainable, think about how you might provide access through mutual aid partnerships, or how you can rotate duties among team members. 
+
+Two of the simplest things you can do for any event are to provide details about the accessibility of the space you use and to ask participants what provisions they need. This is something I have not been good at in the past, because I have been able to take for granted that I can reach a building, get inside, be somewhat comfortable when I am there. As some aspects of that priviledge change for me (and some don't), I am continually realizing how helpful it is to know in advance what to expect. Sometimes this determines whether it's worth trying to go at all.
+
+How do you create an accessibility description of your space? Offer details on your group or event pages about parking, seating, steps and ramps, toilets, translations, and any additional particulars of your space will help everyone know what to expect. What will be provided? What cannot be provided at this time? Who is the point of contact for questions about access? Here is an example of an accessibility outline from the [varia](https://vvvvvvaria.org/en/pages/accessibility.html) community in Rotterdam.
+
+The same is true of the digital spaces we create. Putting access first creates features that support everyone, no matter their access needs. Addressing the problems of the marginalized majority — from offering alt text to accessible bathrooms to multimodal notetaking — offers multiple points of entry for many people. 
+
+The open-source software community P5.js took an active approach to access when they declared in 2019 that they would only build in new features to their software that supported increased access. They have included increasing support for translation, assistive tech, friendly error messages and contributor resources, and mentorship of historically excluded communities all under this umbrella of their [Focus on Access](https://github.com/processing/p5.js/blob/main/contributor_docs/access.md). More resources on digital accessibility were highlighted during [p5 Access Day 2022](https://p5js.org/community/p5js-access-day-2022.html).
+
+How can your community share responsibilities of organizing and supporting your gatherings? How else can you acknowledge and account for the many ways we show up? 
 
 ### Acknowledge context together
 
@@ -706,11 +716,6 @@ While you're asking 'what' you want to make, also ask 'why' and 'how' you want t
 >"My goal is not just that students know how to code — you can find coding tutorials anywhere that give you raw 'stuff.' [...] code is powerful and comes with responsibility, that there are social impacts to what they program and that computer scientists are often the least likely to recognize how impactful to society their job can be. These skills [...] are also valuable even for those who won't go on to become programmers." 
 >>–Briana Bettin, Assistant Professor of Computer Science and Cognitive and Learning Sciences, Michigan Tech
 
-#### Minimum viable learning [XXXmove?]
-
-* [magic words](https://pad.vvvvvvaria.org/rr-minimal-viable-learning); [varia.zone collective](http://vvvvvvaria.org/en/)
-* [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
-
 ### Cultivate Many 'Why Not's
 
 A critical engagement means asking "why not" as well as "why." "Why not?" in critical dreaming is the space to let yourself spin freely. But "why not?" in later phases also means questioning what limits technologies impose. Does an idea need to be realized with a machine learning tool, just because that is the trend? Does it have to be made with a digital technology at all? Is this a "problem" that technology is needed to solve? 
@@ -838,7 +843,7 @@ When we were faced with formalizing into an organization with officers and insti
 
 ### PLAY ALONG: TBD
 
-[//]: # "code of conduct exercise?"
+[//]: # "code of conduct exercise? exists as community imagining idea in part 10"
 
 </div>
 
@@ -848,21 +853,31 @@ When we were faced with formalizing into an organization with officers and insti
 
 [Back to top](#top)
 
-## 9. We share [resources]
+## 9. We share resources
 
-We share resources, honor emotional labor and the labor of documentation as essential parts of coding, and don't take for granted what feels intuitive or close to our hearts. 
+### Value documentation
 
-### Foreground accessibility
+Documentation is hard work, care work, necessary work, code work. It is an integral part of the real work of programming. Both for your future self and your coding collegues, don't skimp on documentation. 
 
-Adapting our systems to our particular needs and those of others tends to make those systems more accessible for everyone. 
+Your documentation can be friendly and fun to read. Imagine your documentation audience as a younger version of yourself, eager to know what you now know. How did you get here? What would be important for them to understand about what you've done in order to replicate it? What 'gotchas' and assumptions can you help them avoid? Don't take for granted what might feel intuitive to you. 
 
-Anything that allows you or prevents you from participating is a factor of access. This can include physical accessibility, knowledge and language inclusion, the many intersectional aspects of diversity, and more. The open-source software community P5.js took an active approach to access when they declared in 2019 that they would only build in new features to their software that supported increased access. They have included increasing support for translation, assistive tech, friendly error messages and contributor resources, and mentorship of historically excluded communities all under this umbrella of their [Focus on Access](https://github.com/processing/p5.js/blob/main/contributor_docs/access.md). 
+Your documentation may be easiest to write if you compile it as a diary of your process along the way. Keep a `README.md` file open alongside your working code and make note each day of where you start and stop, what problems you encounter and solve, any libraries and tutorials you use, plus whether they work or not. Include links to resources and wild ideas. You can clean these notes up later for a general public or keep them for your own reference. [CITEAndy] 
 
-Provide an accessibility description of your space. This is something I have not been good at in the past, because I have been able to take for granted that I can reach a building, get inside, be somewhat comfortable when I am there. As aspects of that priviledge change for me (and the ones that don't) I realize how helpful it is to know in advance what to expect or if it's worth trying to go at all: What will be provided? What cannot be provided at this time? Who is the point of contact for questions about access? Here is an example of an accessibility outline from [varia](https://vvvvvvaria.org/en/pages/accessibility.html) in Rotterdam.
 
-The same is true of the digital spaces we create. Putting access first creates features that support everyone. Addressing the problems of the marginalized majority — from alt text to [XXXX to XXXX] — offers multiple points of entry for many people. 
+[CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america]
 
-More resources on digital accessibility were highlighted during [p5 Access Day 2022](https://p5js.org/community/p5js-access-day-2022.html).
+### Keep track of what you already know
+
+Whether you make a wiki or cover the wall in sticky notes or use the latest sharing platforms all synched up to your phones, finding a free and open way to share information with one another is essential. The lower the barrier the entry the better. There's always a tension between how structured or unstructured to make it (enough so people know where to put things and find things, not so much that they can't imagine new things that don't fit the existing form). 
+
+Our Resource Hub started as simple shared document where anyone could dump a link. It has had many versions since then. We rethought it as a spreadsheet, and it has since grown into a full-fledged database to which anyone can contribute. This evolution was part of our process to define what kinds of resources we wanted to share and who we are as a group, which led to the Resource Hub having its combination of critical and creative resources, and its "remix-able" feel.
+
+Some ways you can keep track of what you already know: 
+* collaborative notetaking in a shared etherpad or team doc
+* starting a website together, posting your individual sketches or projects on a group github
+* project showcase
+* resource hub
+
 
 ### Minimal is accessible
 
@@ -875,6 +890,13 @@ Google docs to start, like the COVID Creatives Toolkit.
 
 
 **That was always the question: What's the minimal structure necessary to make people feel like they have a container that is safe, and that gives them freedom to move? What's the foundation you need to have to facilitate, to have spaciousness. But you still need a foundation. You still need a a safe structure.**
+
+#### Minimum viable learning [XXXmove?]
+
+* [magic words](https://pad.vvvvvvaria.org/rr-minimal-viable-learning); [varia.zone collective](http://vvvvvvaria.org/en/)
+* [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
+
+
 
 ### Choose open source, freely available, easily adaptable tools wherever possible
 
@@ -898,21 +920,6 @@ I’m not taking credit for any of these approaches being novel; in fact, in som
 
 >"It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
 >>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
-
-
-### Keep track of what we already know, rather than duplicate our work
-
-This started as a Google Doc where anyone could dump a link. It has grown into a full-fledged database, which we iterated on together during group troubleshooting sessions. Then rethought it again as a simple spreadsheet and form to feed the website. It has had many versions. Whether you make a wiki or cover the wall in sticky notes or use the latest sharing platforms all synched up to your phones, finding a free and open way to share information with one another—the lower the barrier the entry the better. There's always a tension between how structured or unstructured to make it (enough so people know where to put things and find things, not so much that they can't imagine new things that don't fit the existing form).
-
-
-### Value documentation and/as care work
-#### documentation is hard work, necessary work, just as essential as the code itself
-
-* collaborative notetaking in a shared etherpad or team doc
-* starting a website together, posting your individual sketches or projects on a group github
-* 
-
-[CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america]
 
 <div class="play-along box" markdown="1">
 
