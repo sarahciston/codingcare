@@ -73,9 +73,11 @@ This guidebook wants to enrich the rituals of programming to include the joy, co
 >"No way, code is magic." 
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
-I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, I keep learning that this magic comes from *us*. It does not come from ["the obfuscation we get from tech companies that says this magic is too complicated for you all"] automated or autonomous systems, from the next hyped tech, or [xxxxx], which have always been deeply intertwined with humans in every way. 
+I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, this so-called 'magic' does not come from men behind the curtains of big tech, hiding the keys while offering the hype of AI which says, "trust us, this this tech is too complicated for you" [or "if you only learned how to play the game our way."] Automated systems have always been deeply intertwined with humans in every way, from mechanical Turks to crowd labor outsourced to the Global South. No magic about it, just us. 
 
-* How do we bring our magic to the systems we want to affect? 
+[XXXFIX][*I keep learning that this magic comes from us.*]
+
+* How do we bring our [magic] to the systems we want to affect? 
 * How do we change systems to suit us if we are stuck outside them – without conforming to their encoded ways of thinking? 
 * How can we build communities that facilitate alternatives? 
 
@@ -382,7 +384,7 @@ When we are together and witness each other struggle, that commonality reveals l
 
 When we don't share our struggles with learning, it's incredibly easy to feel alone. It's easy to compare our efforts to other people's polished, finished products — of course, in that case, we find our half-complete creations wanting. This is true for all kinds of learning, including just learning to be in the world. There is no final state; there is continuous learning. 
 
-For example, I am writing this pocket guide in a git repo (a type of archive used in programming to keep track of versions and allow multiple users to make edits). I continually update it and save it on a public Github Pages website, which means both that you are reading a work in progress and also that anyone can see any prior version of it any time ([here](https://github.com/sarahciston/codingcare/commits/Jekyll/posts/guide.md)). I started this practice in 2020 when I wanted to show the process and performance of academic work that was ongoing labor rather than the invisible production of perfect, authoritative, publishable static documents. I see this approach in publications like zines, which aren't afraid to show their rough, handmade edges. And I am inspired by books like Winnie Soon and Geoff Cox's 2021 book [Aesthetic Programming](https://aesthetic-programming.net/), which was also written using git and exists in open, hybrid, print and digital forms. Soon and Cox posed the git format as an invitation to others to "fork the book" and adapt it to their own needs, in order to expand the book's community of practice.
+For example, I am writing this pocket guide in a git repo (short for repository, meaning in this case a type of archive used in programming to keep track of versions and allow multiple users to make edits). I continually update it and save it on a public Github Pages website, which means both that you are reading a work in progress and also that anyone can see any prior version of it any time ([here](https://github.com/sarahciston/codingcare/commits/Jekyll/posts/guide.md)). I started this practice in 2020 when I wanted to show the process and performance of academic work that was ongoing labor rather than the invisible production of perfect, authoritative, publishable static documents. I see this approach in publications like zines, which aren't afraid to show their rough, handmade edges. And I am inspired by books like Winnie Soon and Geoff Cox's 2021 book [Aesthetic Programming](https://aesthetic-programming.net/), which was also written using git and exists in open, hybrid, print and digital forms. Soon and Cox posed the git format as an invitation to others to "fork the book" and adapt it to their own needs, in order to expand the book's community of practice.
 
 We need more spaces that embrace and reflect the many different kinds of learning and ongoing forms of creation.
 
@@ -668,7 +670,7 @@ By meeting each other where we are and valuing what each person can contribute t
 
 ### Get excited about impossibly large possibilities and impressively tiny ideas 
 
-There's a lot to be said for project managed software development processes that proceed by the book. But if you don't work that way, great! Are you like me and a minimum viable prototype sparks no joy, but you can see the whole constellation of an idea writ large? Are you you are easily distracted by a technological tangent or research rabbit hole? Same. (In writing, Anne Lamont calls these "birdwalks" [CITE].) In Code Collective, we have found that letting ourselves follow these pulls toward the large and small are generative endeavors, even if they do not seem productive. They may not feel useful in the moment, but eventually they even help us arrive at more realistically scaled versions of our ideas. 
+There's a lot to be said for project managed software development processes that proceed by the book. But if you don't work that way, great! Are you like me and the idea of a "minimum viable product" sparks no joy, but you can see the whole constellation of an idea writ large? Are you you are easily distracted by a technological tangent or research rabbit hole? Same. (In writing, Anne Lamont calls these "birdwalks" [CITE].) In Code Collective, we have found that letting ourselves follow these pulls toward the large and small are generative endeavors, even if they do not seem productive. They may not feel useful in the moment, but eventually they even help us arrive at more realistically scaled versions of our ideas. 
 
 Try not to dismiss ideas before they get off the ground. Everything is connected. Knowing how 'way leads on to way', the tiny tangents always connect back to the big issues, and the impossible pursuits have a way of revealing practical applications when pursued.
 
@@ -831,7 +833,9 @@ A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g
 
 ### Keep things loose
 
-It has been one of my biggest stresses about our collective learning how to lead. Because leadership is a responsibility I take seriously, but also feels like a spotlight or a pedestal I'm wary of, this leadership feels like a tightrope walk in which I try nervously to make sure everyone is comfortable, having fun, and learning — all without forcing anything or having it "look like" anything is happening at all.
+*What's the minimal structure necessary to make people feel like they have a container that is safe, and that gives them freedom to move? What's the foundation you need to have to facilitate spaciousness while still offering a foundation? You still need a a safe structure.* 
+
+As Code Collective developed, the above has been an ongoing question. It has been one of my biggest stresses about our collective learning how to lead. Because leadership is a responsibility I take seriously, but also feels like a spotlight or a pedestal I'm wary of, this leadership feels like a tightrope walk in which I try nervously to make sure everyone is comfortable, having fun, and learning — all without forcing anything or having it "look like" anything is happening at all.
 
 Of course, this does not work. That nervous strategy is riddled with stilted efforts of over-structured efforts leading to dead silence and loosey-goosey meandering conversations. Along the way I am continually learning the caring practices of facilitation as leadership, as being a vessel and a model. 
 
@@ -860,71 +864,116 @@ When we were faced with formalizing into an organization with officers and insti
 
 ## 9. We share resources
 
+### Keep track of what you already know
+
+Finding a free and open way to share information with one another is essential. This helps reinforce that `we all have something to teach each other` by holding space for what we know. Whether you make a wiki, or cover the wall in sticky notes, or use the latest sharing platforms all synched up to your phones, there are many ways you can keep track of and share the vast collective knowledge of your group: 
+
+* collaboratively notetaking during meetups in a shared etherpad or team doc
+* posting your individual code sketches or finished projects on a group github
+* creating a project showcase as a public event or digital experience
+* making a resource hub or group wiki – include readings, tutorials, anything you've found useful
+* starting a website together, for others to find your group
+
 ### Value documentation
 
 Documentation is hard work, care work, necessary work, code work. It is an integral part of the real work of programming. Both for your future self and your coding collegues, don't skimp on documentation. 
+
+Documenting does not have to be a formal or stressful; make it an integrated part of your community processes. 
 
 Your documentation can be friendly and fun to read. Imagine your documentation audience as a younger version of yourself, eager to know what you now know. How did you get here? What would be important for them to understand about what you've done in order to replicate it? What 'gotchas' and assumptions can you help them avoid? Don't take for granted what might feel intuitive to you. 
 
 Your documentation may be easiest to write if you compile it as a diary of your process along the way. Keep a `README.md` file open alongside your working code and make note each day of where you start and stop, what problems you encounter and solve, any libraries and tutorials you use, plus whether they work or not. Include links to resources and wild ideas. You can clean these notes up later for a general public or keep them for your own reference. [CITEAndy] 
 
+For examples of good documentation, I looked to models like the Processing and P5.js community that puts emphasis on access and connecting new coders with approachable information in multiple mediums. I also look to... [XXX]
 
-[CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america]
+[CITE] [CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america] [RUST][PureData]
 
-### Keep track of what you already know
+### Document the obvious
 
-Whether you make a wiki or cover the wall in sticky notes or use the latest sharing platforms all synched up to your phones, finding a free and open way to share information with one another is essential. The lower the barrier the entry the better. There's always a tension between how structured or unstructured to make it (enough so people know where to put things and find things, not so much that they can't imagine new things that don't fit the existing form). 
+Document what you want to remember, but also document what you value about what you're making. Especially document what you think seems too obvious to document. They feel "too obvious" because you have lived with them for a long time, but they won't be so obvious to others who don't think like you do. Value how you think and include these "obvious" suggestsions, as they may be just the key to help others understand some aspect of your work. 
 
-Our Resource Hub started as simple shared document where anyone could dump a link. It has had many versions since then. We rethought it as a spreadsheet, and it has since grown into a full-fledged database to which anyone can contribute. This evolution was part of our process to define what kinds of resources we wanted to share and who we are as a group, which led to the Resource Hub having its combination of critical and creative resources, and its "remix-able" feel.
+As Code Collective members relocate, graduate, change jobs, spread out into the world, I’m working to document our processes and values with this pocket guide. Hopefully, this documentation helps us continue to take on new shapes, as we expand beyond our initial institution — welcoming members via Discord, starting new chapters at other universities in other cities. 
 
-Some ways you can keep track of what you already know: 
-* collaborative notetaking in a shared etherpad or team doc
-* starting a website together, posting your individual sketches or projects on a group github
-* project showcase
-* resource hub
-
+By documenting our approaches, I don't intend to take sole credit for them or label them as novel; in fact, most feel so instinctual they are easily dismissed — but they are too important to be overlooked, when they contribute so much to learning environments that support a variety of expression and creation. 
 
 ### Minimal is accessible
 
-Sometimes the low-fi answer is the right one. When searching for the right tools to build the Creative Code Collective Resource Hub, we went through every possible solution for a database, and landed on a google doc. When looking for ways to build the site for the Intersectional AI Toolkit, again we went through what seemed like endless possibilities for platforms, and landed back at simple JAM stack static sites, github pages, or wiki. Sometimes the less ambitious choices serve different purposes. They offer more access to other audiences. They leave the content and data more open and adaptable and legible to friends who might want to interact with it later, or to us as we build or rebuild it one day. We embrace minimal computing [cite] as an accessible and aesthetic and political value. 
+Sometimes the low-fi answer is the right one. Sometimes no tech is needed at all. If you opt for "minimum viable product" in any aspect of your projects (see [Section 7](#get-excited-about-impossibly-large-possibilities-and-impressively-tiny-ideas)), make it here in your documentation (so that you actually do it).
 
-Google docs to start, like the COVID Creatives Toolkit. 
+The lower the barrier the entry the better. There's always a tension between how structured or unstructured to make your systems for documenting, just like your systems for gathering. You need enough structure so that folks  know where to find things and add things, but not not so much structure that they can't imagine new things that don't fit the existing form. 
+
+Our now-elaborate Resource Hub started as simple shared document where anyone could toss in a link. We made a basic google team drive and gathered a disorganized collection of links to tutorials and cool projects, some collaborative meeting notes, and called it a Hub. Ooooh, a Hub!
+
+This worked at first because we could start instantly and informally, and everyone had access without any hurdles or instructions. Even though ideally we look to open-source tools and custom solutions, sometimes the big box corporate google doc is what's needed — for a particular audience or for your internal prototyping. What's great about a shared doc (despite its many issues) is that most folks are quickly able to jump in. That low barrier to entry is perfect for spinning up resources quickly and collaboratively. 
+
+Kit Braybrooke landed on a similar approach when building out the COVID Creatives Toolkit:
+
 >"we wanted to offer an open resource focused on free offerings with a global reach that could be maintained by creatives themselves. Starting from an open call and a tweet asking for help, the kit’s contents were compiled by 30 curators and countless unnamed contributors worldwide, who came to it from across the arts, technology, community, academia, and gig work."
->"It is a reflection of the mutual-aid networks built around it, and the challenges they face. In the words of the Zapatistas, it is a 'world where many worlds fit.'" @braybrookeTogetherWeDance2020
+>"It is a reflection of the mutual-aid networks built around it, and the challenges they face. In the words of the Zapatistas, it is a 'world where many worlds fit.'" [@braybrookeTogetherWeDance2020]
 
+Baybrooke chose to work in a shared doc because of "the difficulties of trying to engage with any kind of new or more interesting platform as the internet is increasingly enclosed" [CITEBaybrook]. While an etherpad on a self-hosted server may be preferred (we love the setup by [Varia](https://etherdump.vvvvvvaria.org/)), don't worry if a google doc is the right choice for a particular project, audience, or prototype. The important thing is to get started. 
 
+Minimal choices support different purposes. They sometimes offer more access, or keep the information more legible and adaptable for friends who might want to interact with it later, or for us if we build or rebuild it one day. 
 
-**That was always the question: What's the minimal structure necessary to make people feel like they have a container that is safe, and that gives them freedom to move? What's the foundation you need to have to facilitate, to have spaciousness. But you still need a foundation. You still need a a safe structure.**
+#### FOOTNOTE? Minimum viable learning & minimal computing
 
-#### Minimum viable learning [XXXmove?]
+Minimal computing [cite] as an accessible and aesthetic and political value. 
 
-* [magic words](https://pad.vvvvvvaria.org/rr-minimal-viable-learning); [varia.zone collective](http://vvvvvvaria.org/en/)
+* [min viable learning](https://etherdump.vvvvvvaria.org/publish/rdi-ft-minimal-viable-learning.diff.html); 
+* [magic words](https://vvvvvvaria.org/etherpump/p/essaymagicwords.md.raw.html)
 * [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
+  * >"minimal, frugal solutions can prove more effective than hi-tech, hi-bandwidth, baroque ones"
+  * >"Free Software, which enables us to not only use a tool, but also modify it, combine it with other tools, or transform it into something new."
 
+### Let things accumulate
 
+Minimal can grow, of course! The Code Collective Resource Hub has had many versions since its long list of links. The Hub idea expanded into its own group project. We spent many hours troubleshooting as a group to bring it to life, with Katherine Yang shaping its innovative form. It came to represent our group identity, our way of working, and our approach to sharing information too. This evolution was part of our process to define what kinds of resources we wanted to share and how. 
 
-### Choose open source, freely available, easily adaptable tools wherever possible
+When searching for the right tools to build out the Code Collective Resource Hub as a more robust tool, we went through every possible solution for a database... and landed on a google sheet (minimal is still accesible). When looking for ways to build the website, again we went through what seemed like endless possibilities for platforms, and landed back at simple JAMstack static site on github pages (the [Resource Hub](https://creativecodecollective.com/resource-hub/) can point you to tutorials for this!).
 
-Radical openness. 
+Now the Resource Hub has grown into a full-fledged, searchable database. Anyone can contribute a resource that they’ve found useful, and can search by keywords from technical skills to critical concepts or random combinations thereof as a creative provocation. The Resource Hub has a unique blend of critical and creative resources and a "remix-able" feel. 
 
 ### Cite out of love
 
-We cite and celebrate those who inspire what we do.
+Thinking and making always happen in community, and our creations reflect these communities. When citing, try to cite generously and often. 
 
-We highlight shareable, accessible, adaptable, minimal tools that don't hide how they work.
+Citation is a means of [announcing/putting forward] the people you are thinking with and responding to. It is placing yourself in conversation and in community with them. As such, citation has a politics. I cite to celebrate the work of those who inspire what I do.  
 
-We use what we make as an opportunity to share what we've learned along the way——archives, resource hubs, salons, works in progress, *zines*——thinking and making always happen in community. 
+Citation is about much more than including references at the top of your code or the bottom of your essay, of course. We can use the whole of what we make (not only the citations) as a way to share what we've learned along the way. This may be in the work itself, or through archives, resource hubs, salons, works in progress, zines, or other documentation. Whether you're sharing about another person's practice or [XXXX], all of this counts as citation. 
 
-I looked to models like the Processing and P5js community that puts emphasis on access and connecting new coders with approachable information in multiple mediums. When starting the collective we went with a basic google team drive and a disorganized collection of links to tutorials and cool projects, some collaborative meeting notes, and called it a Hub.
+Consider who you are citing. Do you always reference the same five authors and creators, from the same part of the world? Are they all just citing each other? How might you expand your readings and reference points to include broader communities of practice? 
 
-Since then, the Resource Hub idea has expanded into its own group project. We spent many hours troubleshooting as a group to bring it to life, with Katherine Yang at the helm. It represents our group identity and our approach to sharing information and the way we work as well. In the hub and in our projects, we emphasize open-source and open-access tools. Anyone can contribute a resource that they’ve found useful, and can search by keywords from technical skills to critical concepts or random combinations thereof as a creative provocation. 
 
-As students move on into the world, I’m working to document our values and  imagining how to expand outside the institution and welcoming members via Discord, starting new chapters at other universities and in other cities. And I’m starting to document our approaches slightly more formally as a zine and guidebook.
 
-I’m not taking credit for any of these approaches being novel; in fact, in some ways, they are so instinctual they are easily dismissed—but they are too important to be overlooked, when they contribute so much to learning environments that support a variety of expression and creation. 
 
 >"It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
 >>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+
+
+### Choose open-source, freely available, easily adaptable tools when possible
+
+In the Resource Hub and in our projects, we emphasize open-source and open-access tools. We highlight shareable, accessible, adaptable, minimal tools that don't hide how they work. Such tools match the way we like to reflect critically on what we are creating and to understand the world around us. 
+
+Just as you might consider which texts and tutorials you select to cite, consider which tools you select to work with, too. It may seem abstract to think about the business model of a tool like ChatGPT while you're asking it for code solutions, but consider how any software or service will be shaped by its creators' perspectives. From interface to source code to datasets, choices are made by designers of each tool that will determine how those tools are used and for what goals — making some tasks easier, and some harder. 
+
+[CUTTHIS?] I learned, when I tried to buy a Japanese teapot for a left-handed friend, that many teapots in Japan are made for pouring with the right hand only – for a long time it was near impossible to find a teapot made for left-handed people. The statewide policy had been to make left-handed people learn to be right-handed in school, so if there were "no left-handed people" why design a left-handed teapot? This unweildy metaphor shows how the values of a country, or a company, end up embedded in the tools we use, in almost invisible but ubiquitous ways. 
+
+Open-source and open-access tools, in theory, allow more opportunity for us to view, understand, and potentially alter or adapt the tools to new purposes. 
+
+Some open-source projects end up being 'open' in name only, using the [moniker/culture/trappings] of open-source to draw [good will] while not enacting the open-source values of transparency, community, and share alike [XXXX]. 
+
+When considering a tool to use, you might ask: 
+
+* Who makes it? What else have they made? Who pays for it?
+* Is it being visibly maintained? Is the documentation helpful? 
+* Does it have a community around it I can ask if I get stuck? 
+* Is the tool itself flexible? Can I use part of it, connect it another tool, or adapt it to my purposes?
+* What is the license? Does it allow me to use it for share-alike or commercial purposes? 
+* What other tools are like it, and how do they compare? 
+
+Some open source projects we love:
+
+* [XXXLIST]
 
 <div class="play-along box" markdown="1">
 
