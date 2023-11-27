@@ -802,6 +802,9 @@ In Olivia Jack and Bruno Gola's Berlin-based hack night, Show Us Your Screens, e
 
 The time we offer each other matters. Sharing it with our active and equal attention is one of the most generous things we can offer to one another.
 
+>"It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
+>>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+
 ### Believe in snacks
 
 Seriously, snacks are essential. Without fail, when I asked what makes our community thrive, everyone said: SNACKS! Support snacks at all costs. Snacks are magic. How do snacks do it? I don't know, ask snacks. Make sure you budget for snacks.
@@ -943,14 +946,10 @@ Citation is about much more than including references at the top of your code or
 
 Consider who you are citing. Do you always reference the same five authors and creators, from the same part of the world? Are they all just citing each other? How might you expand your readings and reference points to include broader communities of practice? 
 
-
-
-
->"It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
->>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
-
-
 ### Choose open-source, freely available, easily adaptable tools when possible
+
+>"It's made me more curious about not just the code in the project itself, but also the process. [...] All the technology that we built comes from a person or a bunch of people and they went on a journey to get there, and that journey is inherently very interesting."
+>>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 In the Resource Hub and in our projects, we emphasize open-source and open-access tools. We highlight shareable, accessible, adaptable, minimal tools that don't hide how they work. Such tools match the way we like to reflect critically on what we are creating and to understand the world around us. 
 
@@ -983,21 +982,20 @@ Some open source projects we love:
 
 [Back to top](#top)
 
-## 10. We encode our values
+## 10. We encode values
 
-### Start with care before code
+### Care before code
+
+>"Care is the practice of savouring how subtle differences can make all the difference."
+>>–[Data Loam.](http://www.degruyter.com/document/doi/10.1515/9783110697841/html) (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.), De Gruyter. 
 
 see Chapter 510's "care over careful" meaning care-ful with each other but not with worry about getting it "right" in a perfectionist sense. Perfectionism is white supremacy. [XXXcite] 
 
-#### why care
-
 Care and compassion are infinite but neglected resources, literally life sustaining resources that renew themselves with use. 
 
->"Care is the practice of savouring how subtle differences can make all the difference."
->>[Data Loam.](http://www.degruyter.com/document/doi/10.1515/9783110697841/html) (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.), De Gruyter. 
 
 >"What happens when we integrate rather than refuse the pain, toil, and doom of surviving? How do we put our interconnectedness into practice?"
->>– Johanna Hedva
+>>– Johanna Hedva [doom syllabus]
 
 A practice for revolutions: *"Wherever you are standing, come one step closer."*[^@morehshin]
 
@@ -1007,16 +1005,9 @@ All making is a research question.
 
 What question do you want to explore? 
 
+#### Remember if you need it, someone else does too
 
-
-### Make room for each other
-<!--- is this one in encode our values? --->
-
->"It's really reassuring to always come back to this environment of like, "Okay, you don't have to be that, you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code."
->>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
-
-
-#### Homebrew & sisterspit
+//Homebrew & sisterspit
 
 If the space / tool / resource / artwork you want does not exist, create it. If you need it, someone else does too.
 
@@ -1073,14 +1064,11 @@ Belonging is hard. Community is hard work. Real community comes from solidarity 
 >"The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
 >>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
-We strike a balance that is neither the top-down hierarchy of a classroom nor the chaos of a "hierarchy-less" blob. We acknowledge the power dynamics at play and actively address them, working to help folks feel welcoming in community.
+[move?] We strike a balance that is neither the top-down hierarchy of a classroom nor the chaos of a "hierarchy-less" blob. We acknowledge the power dynamics at play and actively address them, working to help folks feel welcoming in community.
 
 Our community is less about how it appears to outsiders than how it feels while inside it, except in the sense of inviting folks in. 
 
 [...]
-
-
-SC: learning to give yourself permission even though there isn't a clear path. 
 
 Still we want to find openings for others to enter, [...]
 
@@ -1088,6 +1076,8 @@ Still we want to find openings for others to enter, [...]
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
 [xxx][intro or conclusion or values]
+
+### Bare essentials
 
 What are the bricks, the building blocks, the core modules of a community like this one? What are the minimum foundations needed to support the space, to let people grow their craft their own way and flexibly flourish? 
 
@@ -1250,8 +1240,6 @@ Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schn
 [^hedva2022]: Hedva, J. 2022. ["Why It's Taking So Long"](https://www.topicalcream.org/features/why-its-taking-so-long/) Topical Cream.
 [^queerfeeling]: In this way, coding is like queerness: If you wonder if you're queer enough, you are!
 
->"It's made me more curious about not just the code in the project itself, but also the process. [...] All the technology that we built comes from a person or a bunch of people and they went on a journey to get there, and that journey is inherently very interesting."
->>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 >"I remember I was presenting this project. I'd done at my internship where it was a Processing project. And it featured this ink simulation. And then I remember people were asking me how I did it. And I got to do some whiteboarding and explain bit shifting and how to do operations in color. And I don't think I fully understand what I was saying. 
 >"But it's a really fun experience to teach and learn, and teach and learn at the same time, and feel like we are all--like there wasn't any lesson, plan, or anything."
