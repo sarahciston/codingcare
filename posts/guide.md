@@ -192,25 +192,6 @@ Too often I don't get started because I don't know where to start, and also beca
 
 I learned to use scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). I was a poet who wanted to make weird books, and he told me simply, "Pick something small you want to try to make, and use that to begin learning Python." Reader—I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself some HTML, CSS, and Javascript. But none of it would stick. Still, I trusted Brett, so I found a little example code for a simple chatbot and used it to make what would become "ladymouth" — a bot that tries to explain feminism to misogynists online. Along the way, I learned enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run, even though I started with zero vocabulary and knowledge about relational databases or APIs or anything else. Through Brett's positive encouragement, and by finding the right tools for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, that I couldn't understand the tools I wanted to use, and that I didn't belong in the spaces that interested me (or that I didn't even know about). Being among others who were experimenting in these same ways taught me it was okay not to have all the pieces in place right away. [xxxmaybemove] 
 
-
-#### Book Resources
-
-[//]: # "[XXXadd sketching?] [@ImportanceSketchingCode2023]"
-
-[//]: # "[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) [@shihCriticalCodingCookbook]"
-
-[//]: # "[XXXadd source] TEX: Teaching with Text Generation Technologies [@veeTextGenEdTeachingText2023]"
-
-[//]: # "[XXXadd source] Levin & Brain [Code as Creative Medium]() [@CodeCreativeMedium]"
-
-[//]: # "[XXXadd source] Critical Makers Reader [@bogersCriticalMakersReader2019]"
-
-[//]: # "that conference on connected learning from ??2020??"
-
-[//]: # "[XXXadd source] [Critically Conscious Computing: Methods for Secondary Education](https://criticallyconsciouscomputing.org/) "
-
-[//]: # "[XXXadd source] code complete by steve mcconnell"
-
 ### Critical breaking
 
 *See also [Critical tinkering](#Critical-tinkering)*
@@ -1100,6 +1081,28 @@ TBD
 
 ## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
 
+
+#### Book Resources
+
+[//]: # "[XXXadd sketching?] [@ImportanceSketchingCode2023]"
+
+[//]: # "[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) [@shihCriticalCodingCookbook]"
+
+[//]: # "[XXXadd source] TEX: Teaching with Text Generation Technologies [@veeTextGenEdTeachingText2023]"
+
+[//]: # "[XXXadd source] Levin & Brain [Code as Creative Medium]() [@CodeCreativeMedium]"
+
+[//]: # "[XXXadd source] Critical Makers Reader [@bogersCriticalMakersReader2019]"
+
+[//]: # "that conference on connected learning from ??2020??"
+
+[//]: # "[XXXadd source] [Critically Conscious Computing: Methods for Secondary Education](https://criticallyconsciouscomputing.org/) "
+
+[//]: # "[XXXadd source] code complete by steve mcconnell"
+
+[//]: # "[XXXadd source] computational mama"
+
+[//]: # "[XXXadd source] zines from genderfail"
 
 
 
