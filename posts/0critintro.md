@@ -501,7 +501,12 @@ craft points to a lifecycle of care that starts with "a tended landscape, the su
 
 **LEGACIES:** 
 
-TechnoCraft attends to the counterhistories still alive in our present and potentially reemerging in many futures. It includes Hilda G. Carpenter, a Black lab technican who "advanced the methods that would ultimately be used to land Apollo missions on the moon" using threading techniques called "core rope memory." 
+TechnoCraft attends to the counterhistories still alive in our present and potentially reemerging in many futures. It includes Hilda G. Carpenter, a Black lab technican who "advanced the methods that would ultimately be used to land Apollo missions on the moon" using threading techniques called "core rope memory." Zainab Aliyu compares these physical memory-weaving processes to the Yoruban oracle system called Ifá: 
+
+>"This apparatus for divination through collective memory has a binary implementation not unlike the computer byte: a single unit of machine memory that contains eight bits and can store 256 different values (0-255). While computer memory has a finite capacity, the divination chain has boundless potential."
+>>[@aliyuSashaZamaniDeath2023]
+
+>"Our bodies are archives and sites of memory that cannot and will not be overwritten, despite technological attempts to render them as such." [@aliyuSashaZamaniDeath2023]
 
 >"Written out of an official history which draws them in as its minor footnotes to itself, cloths, weavers, and their skills turn out to be far in advance of the art forms digitization supersedes." [@plantZerosOnes1998, p. 190]
 

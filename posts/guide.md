@@ -305,7 +305,7 @@ How do we learn how to learn? We tinker and stretch a bit — whether in breadth
 ### Plan to unplan, plan to be awkward
 
 >"I do not expect students to take any risks that I would not take, to share in any way that I would not share."
->>–bell hooks @hooksTeachingTransgressEducation1994
+>>–bell hooks [@hooksTeachingTransgressEducation1994]
 
 Even, and especially, as leaders and teachers we must get vulnerable about our craft. Our bravery makes space for others to be brave. We can connect with each other around areas of concern, taking comfort that someone else has already worried the very same thing. Rather than showing a veneer of know-it-all authority (which is often quite thin), sets up both a one-directional hierarchy of exchange and an impossible standard for students other community members to meet. It shows them a person who "already knows" but it doesn't show them how to get there. 
 
@@ -983,7 +983,9 @@ Some open source projects we love:
 
 Care and compassion are infinite but neglected resources, literally life sustaining resources that renew themselves with use. 
 
-Our community spaces for coding focus on care first, in order to allow coding and everything else to happen more generously and more fruitfully second. Care makes us curious about what each person needs in order to thrive (which may or may not be technical resources, access support, various learning modalities, a welcoming space to play, or something else). By foregrounding this care, we don't cut short what code or coding spaces might produce because we think we already know how they are meant to work. We don't say, "That's not what code is for." 
+[Rachel Simanjuntak, co-creator of Tiny Tech Zines, frames "care as artistic practice"] Just as we made documentation part of the work of programming, making care part of the practice of programming takes a more holistic view of what it means to [xxx], while acknowledging the [whole person who needs to show up]. 
+
+Our community spaces for coding focus on care first, in order to allow coding and everything else to happen more generously and more fruitfully next. Care makes us curious about what each person needs in order to thrive (which may or may not be technical resources, access support, various learning modalities, a welcoming space to play, or something else). By foregrounding this care, we don't cut short what code or coding spaces might produce because we think we already know how they are meant to work. We don't say, "That's not what code is for." 
 
 I have learned that `when I foreground care and connection, the rest happens.`
 
@@ -994,11 +996,11 @@ I have learned that `when I foreground care and connection, the rest happens.`
 
 We are excited to know each other and to care for one another as people, not as a means to an end. We learn from each other and our skills improve because of each other, but time and again we realize that is not the only — or even the primary — reason we come together. 
 
-As we've gathered for several years now, we have started to trust each other with the care and feeding required to take on this continual work. We reveal ourselves, maybe slowly at first. By sharing the things we make or want to make, we share what we care about, who we care for, our politics. We get glimpses of each others homes and families and pets. We see each other chew with our mouths full, see each other sweaty on arrival or frustrated trying to figure out a problem. We see each other evolve as our interests grow and change, influenced by each other, as we continue becoming more ourselves. 
+As we've gathered for several years now, we have started to trust each other with the care and feeding required to take on this continual work. We reveal ourselves, maybe slowly at first. By sharing the things we make or want to make, we share what we care about, who we care for, our politics. We get glimpses of each others homes and families and pets. We see each other chew with our mouths full, see each other sweaty on arrival or frustrated trying to figure out a problem. We see each other evolve as our interests grow and change, influenced by each other, as we continue `becoming more ourselves.` 
 
 The joy that comes from seeing each other regularly comes to match or even exceed the coding joys we've experienced together.  
 
-[XXX]
+[XXX][add how we ]
 
 [xxxcut?] For me, seeing new community members who thought they hated code keep returning to our meetups — seeing them start referring to themselves as coders, seeing them share projects that express a distinctive critical voice — shows me the importance of this kind of community and this combination of intersectional and interdisciplinary tactics for learning. And I’m starting to see the impacts it can have on their views of algorithmic systems and potential alternate futures.
 
@@ -1048,7 +1050,6 @@ Community can sometimes feel like too easy a word, even a dirty word, for the wa
 
 Belonging is hard. Community is hard work. Real community comes from solidarity across difference, not the simple request to assimilate. It is about mutual interrelation and inter-reliance, not extraction. 
 
-
 Our community is less about how it appears to outsiders than how it feels while inside it. , except in the sense of inviting folks in. 
 
 [...]
@@ -1064,6 +1065,8 @@ Still we want to find openings for others to enter, [...]
 
 What are the bricks, the building blocks, the core modules of a community like this one? What are the minimum foundations needed to support the space, to let people grow their craft their own way and flexibly flourish? 
 
+//adaptive learning strategies—how to pick up an unfamiliar tool or find the right resources for a new project (or create one if it does not exist), how to pose questions critically and solve problems creatively. I have found this learning mindset to be more broadly essential than any other particular skill.
+
 Some items we have considered, or intuitively incorporated:
 
 #### • Steady cadence and rituals of gathering
@@ -1076,10 +1079,18 @@ Some items we have considered, or intuitively incorporated:
 Those material aspects [support/embody] what I consider some of the key components of an `ethics of coding care`:/
  Here are some key components of an ethics of coding care as I see them:]
 
+// pluralism, participation, diversity and sustainability
+
 * Scrappy: Imperfect, iterative, vulnerable. 
 * Collaborative: Co-teaching and co-learning, embedded and situated, accounting for hierarchy, with and for community.
 * Embodied: Meeting people where they are, with the material and experiences they have. 
 * Entangled: Merging critical, theoretical, political stakes and vulnerable topics with material, technical chops and hands-on practices. Choosing and sharing tools that are ethically and conceptually grounded.
+
+
+// Code Collective positions itself within an ethics of coding care—grounded in shared embodied knowledge, embedded co-creation, and programming with and for community. 
+// The Collective has become a joyful space for creative risk-taking that nourishes my own practice. 
+// As Annette Vee says, coding is now an essential literacy, even reshaping literacy itself [@veeCodingLiteracyHow2017]. This pocket guide calls for reaching beyond the limited literacy offered by a STEM paradigm that supposedly "anyone" can join. Rather, Coding.Care reimagines technoculture as TechnoCraft that truly anyone can understand, engage with, and intervene in. 
+
 
 
 <div class="play-along box" markdown="1">
@@ -1118,6 +1129,8 @@ TBD
 [//]: # "[XXXadd source] zines from genderfail"
 
 [//]: # "[XXXadd source] craeft alexander langlands, pye the workmanship of risk/certainty in the nature and art of workmanship"
+
+[//]: # "[XXXadd source] mark's critical code studies"
 
 
 
