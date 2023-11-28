@@ -559,13 +559,15 @@ Not only does acknowledging situated context help create better relationships am
 
 ### Address difference and power
 
+We strive to strike a balance that is neither the top-down hierarchy of a classroom nor the chaos of a structureless blob. 
+
 Difference and power exist. Hierarchies exist. Let's not pretend they don't. Too many communities eagerly proclaim, "This is a safe space," or an equal or free space, only to see this 'safety', 'equality', and 'freedom' play out more for some than for others. We must acknowledge existing hierarchies in order to address them. If we want to build equitable communities, we cannot ignore the imbalanced contexts in which we enter. By acknowledging these contexts more openly, we can work with them, work through them, and shift them. 
 
 What kinds of hierarchies exist? There may be obvious ones, if your community is made of teachers and students. There may be less obvious ones. Your community no doubt includes different demographic groups and people with a range of life experiences. 
 
 How do we acknowledge them? 
 
-* Not assuming defaults when you speak, when you plan and organize, when you [XXX]
+* Not assuming defaults when you speak, when you plan and organize, when you [XXXadditionalexamples?]
 * A bit of structure helps. Codes of conduct or community agreements provide understandings around the way we conduct our conversations and other interactions (see Section [8]).
 * Building routines and other structures that establish balance and equal access to resources, like the opening check-ins discussed in Section 8 that make sure everyone has an opportunity to share. 
 
@@ -586,6 +588,8 @@ Aligned in our interest in coding, we see our many differences as strengths and 
 Sometimes these values are explicitly stated. At other times, such language can be off-putting to audiences who might otherwise want to participate and would gain from the ideas that language describes. It's not always necessary to use the terms "intersectionality" or "anti-racism" or "queer theory" — we can continue enacting these ideas through our selection of tools, programming languages, social gestures, and more. 
 
 ### Meet folks where they are
+
+[//]: # "A practice for revolutions: *'Wherever you are standing, come one step closer.'*[^@morehshin]"
 
 Just as it's not always necessary to explain complex digital systems in highly technical terms, or critical theory in highly academic terms, we can use plain language to include as many interdisciplinary communities in the topics of our conversation as possible. 
 
@@ -832,6 +836,8 @@ Keep it loose, but keep it. Strive for the loosest container possible to hold th
 
 When we were faced with formalizing into an organization with officers and institutionalization in order to access funding, for us in that moment it was right to turn that down. You'll have to decide what's right for your group at the time, but our members said they liked being able to stay low-stakes, without obligation. We were able to maintain this way because of individual members like myself having institutional support. In other contexts, this may change as our structure and membership continues to change. 
 
+I have learned that, `when I hold my pedagogy and my programming more loosely, they both become more pleasurable.`
+
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
@@ -967,87 +973,83 @@ Some open source projects we love:
 
 ### Care before code
 
->"Care is the practice of savouring how subtle differences can make all the difference."
->>–[Data Loam.](http://www.degruyter.com/document/doi/10.1515/9783110697841/html) (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.), De Gruyter. 
+>"Care is the practice of savouring how subtle differences can make all the difference." 
+>>–[@goldingDataLoam2020]
 
-see Chapter 510's "care over careful" meaning care-ful with each other but not with worry about getting it "right" in a perfectionist sense. Perfectionism is white supremacy. [XXXcite] 
+>"What happens when we integrate rather than refuse the pain, toil, and doom of surviving? How do we put our interconnectedness into practice?"
+>>–[@hedvaJohannaHedvaCare]
+
+[//]: # "see Chapter 510's "care over careful" meaning care-ful with each other but not with worry about getting it "right" in a perfectionist sense. Perfectionism is white supremacy. [XXXcite]" 
 
 Care and compassion are infinite but neglected resources, literally life sustaining resources that renew themselves with use. 
 
+Our community spaces for coding focus on care first, in order to allow coding and everything else to happen more generously and more fruitfully second. Care makes us curious about what each person needs in order to thrive (which may or may not be technical resources, access support, various learning modalities, a welcoming space to play, or something else). By foregrounding this care, we don't cut short what code or coding spaces might produce because we think we already know how they are meant to work. We don't say, "That's not what code is for." 
 
->"What happens when we integrate rather than refuse the pain, toil, and doom of surviving? How do we put our interconnectedness into practice?"
->>– Johanna Hedva [doom syllabus]
-
-A practice for revolutions: *"Wherever you are standing, come one step closer."*[^@morehshin]
-
-We are building community. We are encoding our values. We don't say, "That's not what code is for." We imagine how things could be otherwise. 
-
-All making is a research question. 
-
-What question do you want to explore? 
-
-#### Remember if you need it, someone else does too
-
-//Homebrew & sisterspit
-
-If the space / tool / resource / artwork you want does not exist, create it. If you need it, someone else does too.
-
-Examples like [Homebrew Computer Club](), [Chaos Computer Club](), [Sister Spit (now Resplendent Tonguesplitters)](https://www.spin.com/2022/08/we-knew-we-were-pissed/) all show how a few folks with a wacky idea can bloom into work that is appreciated by many, many people. 
-
-Steve Wozniak described the start of Homebrew Computer Club: "we weren't official and we weren't formal. Our leader [...] would get up at every meeting and announce the convening of 'the Homebrew Computer Club which does not exist' and everyone would applaud happily." 
-
-[Radical software](https://monoskop.org/log/?p=269)
+I have learned that `when I foreground care and connection, the rest happens.`
 
 ### Ask after one another
 
 >"We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other."
 >>-Sarah Ahmed, *Living a Feminist Life*
 
-We are excited to know each other and to care for one another as people, not as a means to an end. We learn from each other and our skills improve because of each other, but time and again we realize that is not the only—or even the main—reason we come together. 
+We are excited to know each other and to care for one another as people, not as a means to an end. We learn from each other and our skills improve because of each other, but time and again we realize that is not the only — or even the primary — reason we come together. 
+
+As we've gathered for several years now, we have started to trust each other with the care and feeding required to take on this continual work. We reveal ourselves, maybe slowly at first. By sharing the things we make or want to make, we share what we care about, who we care for, our politics. We get glimpses of each others homes and families and pets. We see each other chew with our mouths full, see each other sweaty on arrival or frustrated trying to figure out a problem. We see each other evolve as our interests grow and change, influenced by each other, as we continue becoming more ourselves. 
+
+The joy that comes from seeing each other regularly comes to match or even exceed the coding joys we've experienced together.  
+
+[XXX]
+
+[xxxcut?] For me, seeing new community members who thought they hated code keep returning to our meetups — seeing them start referring to themselves as coders, seeing them share projects that express a distinctive critical voice — shows me the importance of this kind of community and this combination of intersectional and interdisciplinary tactics for learning. And I’m starting to see the impacts it can have on their views of algorithmic systems and potential alternate futures.
+
+[xxxmove?] **Persistence is a rhythm, not a slog.**  
+
+### Make to inquire
+
+Making asks through doing about what concerns us, about how to care, about how to live. Making is always a research question about how to live. Through making, we ask how the world could be made otherwise. 
+
+`All making is a research question.` What question do you want to explore? 
 
 
-I've learned that building communities through creative code, developing an ethics of coding care means to me a focus on …
-* the scrappy: imperfect, iterative, vulnerable 
-* the collaborative: co-teaching & co learning, embedded and situated, accounting for hierarchy, with and for community
-* the embodied and entangled: meeting people where they are, with the material and experiences they have, merging theory and content with code and practice. choosing and sharing tools that are ethically and conceptually grounded
+We make coded things in order to connect with others, to bridge the ephemeral spark gaps of language and feeling and being separate creatures trying to reach each other. We make things hoping someone thinks they're kind of cool. 
 
-I have learned... 
-
-**Persistence is a rhythm, not a slog.**  
-
-**I can hold my pedagogy and my programming more loosely and they both become more pleasurable**. 
-
-**When I foreground care and connection, the rest happens.**
-
-For me, seeing students who thought they hated code return the next semester referring to themselves as coders—seeing them share projects that express a distinctive critical voice—affirms for me the importance of this kind of community and this combination of intersectional and interdisciplinary tactics for learning. And I’m starting to see the impacts it can have on their views of algorithmic systems and potential alternate futures.
-
-
-
-<!--- We're conscious of taking up space. --->
-
-### Continue becoming more ourselves
-
-<!--- Experiences of becoming 'more ourselves' [...] --->
-
-We gather as part of this effort, and we have started to trust each other with the care and feeding required to take on this continual work. We reveal ourselves, maybe slowly at first. By sharing the things we make or want to make, we share what we care about, who we care for, our politics. We get glimpses of each others homes and families and pets. We see each other chew with our mouths full or sweaty on arrival or frustrated to figure out a problem.  
+We write code in order to decode the systems that ... [encumber us]
 
 
 
-### Remember we are not (only) in class. We're in community.
+*We refuse to be outsiders in the systems that injure us or ignore us.* We reject notions of intimidation or gatekeeping that deny creativity, joy, politics, and purposes that reach beyond perpetuating white-supremacist capitalist status quo. 
 
-Community can sometimes feel like an easy word, even a dirty word, the way it gets lobbed about by not-always-well-meaning folks who might be making a lot of presumptions when they try to argue "we're all in this together." Sometimes we're not. Sometimes we are not a "we" at all. Many folks have been hurt by this kind of co-option of language, and it makes sense to limit our trust to those who earn it. 
+When we say we, we write for the parts of ourselves that have been neglected or ignored, a habit we learned too early, a trick imposed upon us and repeated. ~~When we say we, we claim this audaciously and unapologetically, and hope you feel it too, but you don't have to.~~
 
->"Just because we are in the room together does not mean that we belong to the room or each other: belonging is a speciﬁc genre of affect, history, and political mediation that cannot be presumed and is, indeed, a relation whose evidence and terms are always being contested. Belonging is a proposition, a theory, a forensic fact, and a name for a kind of attachment."
->>–Lauren Berlant @berlantCommonsInfrastructuresTroubling2016
 
-Belonging is hard. Community is hard work. Real community comes from solidarity across difference, not requests to assimilate. It is is about mutual interrelation and inter-reliance, not extraction. 
+
+#### Remember if you need it, someone else will too
+
+>"we weren't official and we weren't formal. Our leader [...] would get up at every meeting and announce the convening of 'the Homebrew Computer Club which does not exist' and everyone would applaud happily."
+>>–Steve Wozniak, describing club which famously started in a garage but led to several prominent tech companies
+
+Making for yourself is also an offering to others. If the tool, resource, artwork, space, or widget you wish for does not exist, create it! 
+
+There are so many examples – [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club), [Chaos Computer Club](https://www.ccc.de/en/), [Sister Spit (now Resplendent Tonguesplitters)](https://www.spin.com/2022/08/we-knew-we-were-pissed/), [Radical software](https://monoskop.org/log/?p=269) – that all show how a few folks with a wacky idea can bloom into work that is appreciated by many, many people. 
+
+From the experience of creating Code Collective, when I was wishing for a community to share weird code challenges with, I learned that: `If you are wishing for it, someone else is too.`
+
+### Be in community, not (only) in class 
 
 >"The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
 >>-Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
-[move?] We strike a balance that is neither the top-down hierarchy of a classroom nor the chaos of a "hierarchy-less" blob. We acknowledge the power dynamics at play and actively address them, working to help folks feel welcoming in community.
+How can we be together in ways that don't feel protracted and forced? 
 
-Our community is less about how it appears to outsiders than how it feels while inside it, except in the sense of inviting folks in. 
+Community can sometimes feel like too easy a word, even a dirty word, for the way it gets lobbed about by not-always-well-meaning folks who might be making a lot of presumptions when they try to argue "we're all in this together." Sometimes we're not actually in this together. Sometimes we are not a "we" at all. In past experiences, you or those you know may have been put off or harmed by that kind of co-opted language, and so it makes sense to limit our trust to those who earn it. It makes sense to use terms like 'community' with a sense of caution. 
+
+>"Just because we are in the room together does not mean that we belong to the room or each other: belonging is a speciﬁc genre of affect, history, and political mediation that cannot be presumed and is, indeed, a relation whose evidence and terms are always being contested. Belonging is a proposition, a theory, a forensic fact, and a name for a kind of attachment."
+>>–Lauren Berlant [-@berlantCommonsInfrastructuresTroubling2016]
+
+Belonging is hard. Community is hard work. Real community comes from solidarity across difference, not the simple request to assimilate. It is about mutual interrelation and inter-reliance, not extraction. 
+
+
+Our community is less about how it appears to outsiders than how it feels while inside it. , except in the sense of inviting folks in. 
 
 [...]
 
@@ -1058,16 +1060,27 @@ Still we want to find openings for others to enter, [...]
 
 [xxx][intro or conclusion or values]
 
-### Bare essentials
+### Start with the essentials
 
 What are the bricks, the building blocks, the core modules of a community like this one? What are the minimum foundations needed to support the space, to let people grow their craft their own way and flexibly flourish? 
 
 Some items we have considered, or intuitively incorporated:
 
-#### • Knowledge sharing repository/hub
-#### • Steady cadence, ritual of gathering
-#### • Material care & physical contact/resources
-#### • Inclusive, iterative & recursive, inquisitive and embracing approaches
+#### • Steady cadence and rituals of gathering
+#### • Material care and physical resources
+#### • Inclusive, inquisitive, recursive approaches
+#### • Knowledge sharing hub and community identity
+
+
+[This is what building communities through creative code has come to mean to me: /
+Those material aspects [support/embody] what I consider some of the key components of an `ethics of coding care`:/
+ Here are some key components of an ethics of coding care as I see them:]
+
+* Scrappy: Imperfect, iterative, vulnerable. 
+* Collaborative: Co-teaching and co-learning, embedded and situated, accounting for hierarchy, with and for community.
+* Embodied: Meeting people where they are, with the material and experiences they have. 
+* Entangled: Merging critical, theoretical, political stakes and vulnerable topics with material, technical chops and hands-on practices. Choosing and sharing tools that are ethically and conceptually grounded.
+
 
 <div class="play-along box" markdown="1">
 
@@ -1103,6 +1116,8 @@ TBD
 [//]: # "[XXXadd source] computational mama"
 
 [//]: # "[XXXadd source] zines from genderfail"
+
+[//]: # "[XXXadd source] craeft alexander langlands, pye the workmanship of risk/certainty in the nature and art of workmanship"
 
 
 
@@ -1142,23 +1157,7 @@ TBD
 
 
 
-If it doesn't exist, we ask if it should. And if it does exist, we still ask if it should (or shouldn't). We ask how could it be otherwise. 
 
-*All making is a research question.* All theory is theory–practice. All practice is theory–practice. Which is to say, our reading and thinking saturates what creative choices we make, what materials we use, how we speak about what we do. This is true even if unconscious. And so we choose to acknowledge this and do so mindfully. 
-
-Our creative choices and materials and our work in our bodies saturates our reading and thinking, our vocabularies, our points of reference, our critical tools, our communities of practice. These are recursive and reciprocal and iterative. Making is always a research question about how to live.
-[[insert figure]]   
-
-
-[...]
-
-We make coded things in order to connect with others, to bridge the ephemeral spark gaps of language and feeling and being separate creatures trying to reach each other. We make things hoping someone thinks they're kind of cool. 
-
-We write code in order to decode the systems that ... [encumber us]
-
-*We refuse to be outsiders in the systems that injure us or ignore us.* We reject notions of intimidation or gatekeeping that deny creativity, joy, politics, and purposes that reach beyond perpetuating white-supremacist capitalist status quo. 
-
-When we say we, we write for the parts of ourselves that have been neglected or ignored, a habit we learned too early, a trick imposed upon us and repeated. ~~When we say we, we claim this audaciously and unapologetically, and hope you feel it too, but you don't have to.~~
 
 
 

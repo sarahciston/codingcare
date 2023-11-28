@@ -476,7 +476,7 @@ These are not metaphors but material, infrastructures undergirding systems that 
 >"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one’s expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." [@reddyArtificialEverydayCreativity2022]
 >"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity"
 
-<!-- tech = lab approach Bell Labs, The Lab Book: "anything is a lab" "creativity as basic to research. >research-creation @wershlerLabBook2022 -->
+<!-- tech = lab approach Bell Labs, The Lab Book: "anything is a lab" "creativity as basic to research. >research-creation [@wershlerLabBook2022] -->
 
 *Process oriented approaches*
 
@@ -485,7 +485,8 @@ These are not metaphors but material, infrastructures undergirding systems that 
 * thin description, humble un-/knowing, kaleidoscopic subjectivity
 * kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
 
-
+>"craft in terms of a set of materials and practices—that is, fiber art—it hopes to advocate that craft might more usefully be viewed as a process, as in crafting an identity, or crafting a community"
+>>[@fountainSurvivalKnittestCraft2021]
 
 
 **CONTEXT:** Tech via craft is always contingent and contextual. 
@@ -493,7 +494,10 @@ These are not metaphors but material, infrastructures undergirding systems that 
 - Loukissas' "all data are local" (the relativity of the network, the position, scale). data settings not data sets (place setting, "thinking locally is thinking critically")
 >"When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display."
 >"data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place."
+>>[@loukissasAllDataAre2019]
 
+// [alex langland] craft moved from artisan skill building over a lifetime, an integral part of life sustaining to a hobby practiced on the side. technocraft can hold both meanings. 
+craft points to a lifecycle of care that starts with "a tended landscape, the sustainable production of raw materials, intelligently processed, beautifully made, fit for purpose, fondly used, ingeniously reused, considerately discarded, and then given back to the earth" [craeft via podcast] [@langlandsCraeft2019]
 
 **LEGACIES:** 
 
