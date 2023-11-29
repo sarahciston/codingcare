@@ -698,7 +698,8 @@ Those gargantuan ideas, the ones you'd have no idea where to start? Go ahead and
 
 ![map of ladymouth](../assets/img/ladymouthappchart.png)
 
-For example, here's a map I made of my first Python project, called *ladymouth*. It did not yet include all these parts. As I learned what I would need to make it operate the way I imagined, I added each part. I ended up building only portions of the work, but this map helped me understand where I *could* go if I wanted to. It also helped me understand that I didn't have to try to do everything at once (which is a tendency of mine).{: .caption }
+For example, here's a map I made of my first Python project, called *ladymouth*. It did not yet include all these parts. As I learned what I would need to make it operate the way I imagined, I added each part. I ended up building only portions of the work, but this map helped me understand where I *could* go if I wanted to. It also helped me understand that I didn't have to try to do everything at once (which is a tendency of mine). 
+{: .caption }
 
 How do you practice dreaming *critically*? 
 
@@ -1039,7 +1040,7 @@ Now that we have met up for several years now, we have come to trust each other 
 Look after each other, ask after one another. 
 
 >"I love the people in CCC more than anything else. While I am sure other creative coders can be cool people too, this group of people inspires and motivates me to put in the time necessary to make my best work."
->Ada Toydemir, they/them, MS Computer Science, USC
+>>Ada Toydemir, they/them, MS Computer Science, USC
 
 ### Make to inquire
 
@@ -1051,7 +1052,7 @@ I make coded things, written things, knitted and woven things, in order to conne
 
 `All making is a research question.` What question do you want to explore? 
 
-#### Remember if you need it, someone else will too
+### Remember if you need it, someone else will too
 
 >"we weren't official and we weren't formal. Our leader [...] would get up at every meeting and announce the convening of 'the Homebrew Computer Club which does not exist' and everyone would applaud happily."
 >>–Steve Wozniak, Apple Inc. co-founder
@@ -1060,7 +1061,9 @@ Making for yourself is also an offering to others. If the tool, resource, artwor
 
 So many examples of homegrown communities – [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club), [Chaos Computer Club](https://www.ccc.de/en/), [Sister Spit (now Resplendent Tonguesplitters)](https://www.spin.com/2022/08/we-knew-we-were-pissed/), [Radical software](https://monoskop.org/log/?p=269) – all show how a few folks with a wild idea can bloom into innovative ideas that are appreciated by many, many people. 
 
-From my experience initiating Code Collective, when I was wishing for a community to share weird code challenges with, I learned that: `If you are wishing for it, someone else is too.`
+From my experience initiating Code Collective, when I was wishing for a community to share weird code challenges with, I learned that: 
+
+`If you are wishing for it, someone else is too.`
 
 ### Start with the essentials
 
@@ -1068,10 +1071,10 @@ What are the building blocks or the core components of a community like this one
 
 Some items we have considered, or intuitively incorporated:
 
-#### • Steady cadence and rituals of gathering
-#### • Material care and physical resources
-#### • Inclusive, inquisitive, recursive approaches
-#### • Knowledge sharing hub and community identity
+• `Steady cadence and rituals of gathering`
+`• Material care and physical resources`
+•` Inclusive, inquisitive, recursive approaches`
+`• Knowledge sharing hub and community identity`
 
 I have found this learning mindset to be more broadly essential than any other particular skill.
 
@@ -1117,6 +1120,7 @@ TBD
 
 ## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
 
+#### Acknowledgments
 
 #### Book Resources
 
