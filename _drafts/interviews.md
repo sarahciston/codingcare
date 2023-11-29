@@ -687,4 +687,6 @@ coders who want to learn the creative aspect, creatives who want to learn the co
 >>Ada: improving from learning how to better look things up. read the documentation before, to know where to look when you ended something. making the referencing process faster. making reference sheets. straight copy, give credit, connect something new/make a change
 
 
+>>Ada: stumbled on it by chance, I get bored very easily. I won't take projects unless I'm very excited about it. kind of trained me, started learning more music visualization and how i built up all the ..al the coding knowledge i have is 
+
 </section>
