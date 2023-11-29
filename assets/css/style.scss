@@ -156,8 +156,13 @@ aside, .attrib {
   color: mediumslateblue;
   font-family: 'Jura', 'Ubuntu Mono', monospace;
   font-size: 0.8em;
-  float: right;
+  // float: right;
   margin: 10px;
+  // padding-bottom: 10px:
+}
+
+.attrib:has(+ .box,h2,h3,h4) {
+  // padding-bottom: 50px;
 }
 
 /*

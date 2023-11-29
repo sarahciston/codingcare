@@ -39,8 +39,11 @@ Maybe you're decent with programming skills but you'd still never consider yours
 
 [//]: # "(even though we likely interact with computation every day)."
 
->"the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text"
->>Jessica Loseby, "Code Scares Me"
+"the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text"
+{: .quote }
+
+–Jessica Loseby, "Code Scares Me"
+{: .quote .attrib }
 
 So many people feel left out of coding communities and spaces for learning about computation. But I believe it is essential for people who come from all different perspectives to share access to the digital languages which are altering the world and what it becomes. *I* want to live in a world that is shaped by *your* point of view and many others' point of views — not a world shaped only by one narrow take on what computers can be and do. 
 
@@ -79,8 +82,11 @@ This guidebook wants to enrich the rituals of programming to include the joy, co
 
 ### Code isn't magic, but we are
 
->"No way, code is magic." 
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+"No way, code is magic." 
+{: .quote }
+
+—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+{: .quote .attrib }
 
 I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, this so-called 'magic' does not come from men behind the curtains of big tech, hiding the keys while offering the hype of AI which says, "trust us, this this tech is too complicated for you" [or "if you only learned how to play the game our way."] Automated systems have always been deeply intertwined with humans in every way, from mechanical Turks to crowd labor outsourced to the Global South. No magic about it, just us. 
 
@@ -96,17 +102,21 @@ These are the open questions explored by this guide — and explored every time 
 
 ### aka What's in this pocket guide? What's a code collective and how do I get one?
 
-Creative Code Collective is the community I started in early 2019 for media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I sent out a call, because I was looking for others who were struggling with code same as I was, and I hoped there might be another way — at the very least, we could struggle together. We launched with the mottos: **"Scrappy artistic strategies, not perfect code"** and **"We all have skills to teach each other."**
+Creative Code Collective is the community I started in early 2019 for media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I sent out a call, because I was looking for others who were struggling with code same as I was, and I hoped there might be another way — at the very least, we could struggle together. We launched with the mottos: `"Scrappy artistic strategies, not perfect code"` and `"We all have skills to teach each other."`
 
 Throughout the guide I'll share what I've learned while building Code Collective — about coding, connecting, and building collectives. The guide honors and draws from the many mentors and teachers who have inspired it, gathering many resources found along the way. Of course the guide includes many reflections and contributions from community members — including coding examples and exercises, favorite projects and personal accounts — because this work is never done in isolation. I'll discuss connections I've found between coding and other crafts like zine publishing and fiber arts. I'll also discuss connections to open-source, open-access, and activist movements that shape the approach to how we gather and what we create. The guide is a melange of materials and methods, hopefully a spark of inspiration and the start of many conversations around these ideas. 
 
 I am writing both as a representative of this community and also as an individual greatly influenced by it and by so many other creators, thinkers, and teachers. I want to document our work processes and thought processes, and to honor the many entangling threads that go into shaping a caring (coding) community. 
 
-The heart of this book are [ten] principles that have emerged through gathering as Code Collective. They are simple tactics for anyone to employ in their own community practices — or adapt to suit them. Developing these tactics has been intuitive, iterative, and collaborative. They emerged out of desire and instinct. We have expanded and distilled these tactics influenced by other organizations, thinkers, makers, and more; and we have reshaped them continually as our group evolves. All recommendations in the book are intended to be descriptive, not prescriptive. Here's what has worked for us (and what hasn't). I invite you to embrace and adapt what works for you and leave the rest. And I am interested in how these tactics change in different circumstances, so if you find something that works better for you, I'd be excited to learn about it too! 
+The heart of this book are ten principles that have emerged through gathering as Code Collective. They are simple tactics for anyone to employ in their own community practices — or adapt to suit them. Developing these tactics has been intuitive, iterative, and collaborative. They emerged out of desire and instinct. We have expanded and distilled these tactics influenced by other organizations, thinkers, makers, and more; and we have reshaped them continually as our group evolves. All recommendations in the book are intended to be descriptive, not prescriptive. Here's what has worked for us (and what hasn't). I invite you to embrace and adapt what works for you and leave the rest. And I am interested in how these tactics change in different circumstances, so if you find something that works better for you, I'd be excited to learn about it too! 
 
 Each of the guiding principles is paired with sections called `PLAY ALONG` – practical exercises you can try — and `LIVE CODE` — brief case studies from other communities of practice. Although Coding Care is a pocket guide, it also lives in large part online as a [`PROJECT SHOWCASE`](https://creativecodecollective.com/showcase) of active works by Code Collective Community members and as a vibrant [`RESOURCE HUB`](https://creativecodecollective.com/resource-hub), a database of tutorials, textbooks, projects, code libraries, zines, and all manner of things we have found useful.
 
->>"Any meeting or gathering is a place to practice the future together in the most tangible ways" (adrienne maree brown 2021, 117)
+"Any meeting or gathering is a place to practice the future together in the most tangible ways" 
+{: .quote } 
+
+–adrienne maree brown [-@brownEmergentStrategy2017]
+{: .quote .attrib }
 
 Many of the things we do to sustain supportive communities seem too obvious to mention——or even worse, too obvious to notice — such that they aren't obvious *at all*. This guide is meant to remind me that these approaches matter, and to acknowledge how much they have supported me and others along the way. This guide celebrates those ephemeral things that make our caring coding community go. *It tries to describe our intuitive wayfinding about how to learn and teach and explore and be together, especially in and through the very things that both draw us in and also scare us, the things that feel both challenging and fun, frustrating and rewarding.*
 
@@ -120,8 +130,11 @@ This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says
 
 ## 1. We create who we are together
 
->"What I like about code collective is that it's a community of friends as well as resources. That's where I can feel like we're all going on a journey of learning and discovery together."
->>Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+"What I like about code collective is that it's a community of friends as well as resources. That's where I can feel like we're all going on a journey of learning and discovery together."
+{: .quote }
+
+–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+{: .quote .attrib }
 
 Code Collective is a self-organizing community of artists, makers, students, people from all backgrounds——especially including those who have not done much or any coding before. We meet regularly to develop our programming practices in a flexible, co-working, co-learning setting.
 
@@ -147,8 +160,11 @@ Upon gathering, I ask myself: What does this particular cluster of beings need a
 * "have an accountability space and a brain trust with shared expertise"
 * "conquer my trouble starting and finishing. bounce ideas off of others. build something I'm proud of"
 
->"For me, I could figure out how to code but I didn't really know what to use for what, for the specific things I like. Also part of the issues here is there's so many things you could do, right? [For the things I do, three.js is perfect. Once I figured that out, I didn't need to find other things. For someone who doesn't know how to code, give them a tool where they can learn to do a lot so they can figure out what tools they need — like p5.js.]"
->Ada Toydemir, they/them, MS Computer Science, USC
+"For me, I could figure out how to code but I didn't really know what to use for what, for the specific things I like. Also part of the issues here is there's so many things you could do, right? [For the things I do, three.js is perfect. Once I figured that out, I didn't need to find other things. For someone who doesn't know how to code, give them a tool where they can learn to do a lot so they can figure out what tools they need — like p5.js.]"
+{: .quote }
+
+–Ada Toydemir, they/them, MS Computer Science, USC
+{: .quote .attrib }
 
 To explore how we might best create community, I asked each person to share what they were currently working on, some topics they knew about, some topics they wanted to know about. The goal here is to look for overlaps: Where do what you know about and what I want to know about intersect? Here lies magic!
 
@@ -174,7 +190,7 @@ Designing the online presence for Code Collective has been an ongoing collaborat
 
 Through this process of communication and collaboration among the group members about who we are and what we want to offer, the Code Collective website has expanded from a static landing page into a unique resource hub and project showcase – with a searchable, contributable database of tools, tutorials, research, and projects we have found useful. 
 
->"The most challenging part of programming is conceptualizing the problem, and many errors in programming are conceptual errors."
+"The most challenging part of programming is conceptualizing the problem, and many errors in programming are conceptual errors."
 {: .quote }
 
 –[@mcconnellCodeComplete2004]
@@ -218,7 +234,8 @@ Critically breaking things helps us understand how they work (or don't work) fro
 
 Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't worry about that yet. Tinkering is a transferrable, lifelong skill:
 
->"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
+"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
+{: .quote }
 
 —Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 {: .quote .attrib }
@@ -393,7 +410,8 @@ When we are together and witness each other struggle, that commonality reveals l
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
 
->"The constant state of exposure – and along with it, a sustained vulnerability – is enabled only through constant and meticulous practices of documentation. Far from covering up our bugs, we [hackers] openly acknowledge and even explain them. We don't hide problems. The virtue of transparency is that it makes actions accountable." 
+"The constant state of exposure – and along with it, a sustained vulnerability – is enabled only through constant and meticulous practices of documentation. Far from covering up our bugs, we [hackers] openly acknowledge and even explain them. We don't hide problems. The virtue of transparency is that it makes actions accountable." 
+{: .quote }
 
 –Anja Groten, Hacking & Designing: Paradoxes of Collaborative Practice" in [@bogersCriticalMakersReader2019]
 {: .quote .attrib }
@@ -723,7 +741,8 @@ What we can form also depends on the capabilities of the tools we use — the pr
 
 ### Value many forms
 
->"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." 
+"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." 
+{: .quote }
 
 –(Mercedes Bernard, [–@CrochetCodeCraft])
 {: .quote .attrib }
@@ -1288,7 +1307,7 @@ TBD
 
 ## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
 
-## Acknowledgments
+## ACKNOWLEDGMENTS
 
 [TK] Membership list and more information about CCC... [^Creative Code Collective](https://creativecodecollective.com)
 - OSACC
@@ -1298,7 +1317,9 @@ TBD
 - MAP
 - etc etc etc tk
 
-## Book Resources
+## [APPENDICES](appendices)
+
+### [Read more...](references)
 
 [//]: # "[XXXadd sketching?] [@ImportanceSketchingCode2023]"
 
