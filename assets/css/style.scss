@@ -143,7 +143,15 @@ h4 {
 //   color: red;
 // }
 
-aside {
+.quote {
+  color: mediumslateblue;
+  font-family: 'Jura', 'Ubuntu Mono', Courier, monospace;
+  font-size: 0.7em;
+  margin: 10px;
+  text-align: center;
+}
+
+aside, .attrib {
   text-align: right;
   color: mediumslateblue;
   font-family: 'Jura', 'Ubuntu Mono', Courier, monospace;

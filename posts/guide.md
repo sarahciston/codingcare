@@ -498,15 +498,28 @@ So pick something you like to learn about, and don't assume learning has to be h
 
 ### Learn together
 
+"[I remember people were asking me how I did it. And I got to do some whiteboarding and explain bit shifting and how to do operations in color. And I don't think I fully understand what I was saying. But] it's a really fun experience to teach and learn, and teach and learn at the same time, and feel like we are all - like there wasn't any lesson, plan, or anything."
+{: .quote }
+
+–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+{: .quote .attrib }
+
+
 Teaching others helps us learn. In our practice at Code Collective, we co-work, co-teach, and co-learn. These practices combine seamlessly and simultaneously. When I'm explaining to someone how something works that I think I understand, I find new ways to understand it better. When I am asked a question I don't know the answer to, I find new opportunities to learn together. Teaching *is* learning and learning *is* teaching. And co-working cooperatively facilitates both. 
 
->"There was beginner student who had trouble with code, and I think it was Katherine who helped. I remember seeing seeing that kind of troubleshooting, debugging. Being able to see the mentorship between between people was a really powerful thing for me to see."
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+"There was beginner student who had trouble with code, and I think it was Katherine who helped. I remember seeing seeing that kind of troubleshooting, debugging. Being able to see the mentorship between between people was a really powerful thing for me to see."
+{: .quote .attrib }
+
+—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+{: .quote .attrib }
 
 This requires a bit of humbleness and "wayfinding" (exploring, birdwalking, pathfinding) together. This requires openness to collaboration and sharing, instead of competition or perfectionism. All this requires some mutual trust and is built over time, of course.
 
->"working with people takes a certain amount of mastery. And it's like a separate skill that you do need to develop that I think most people do not teach."
->>–Ada Toydemir, they/them, MS Computer Science, USC
+"working with people takes a certain amount of mastery. And it's like a separate skill that you do need to develop that I think most people do not teach."
+{: .quote }
+
+–Ada Toydemir, they/them, MS Computer Science, USC
+{: .quote .attrib }
 
 <div class="play-along box" markdown="1">
 
@@ -1108,6 +1121,9 @@ Still we want to find openings for others to enter, [...]
 >"I'd love to see this outside of the university setting. I wish this existed for urban professionals. I feel like not all of my Silicon Valley friends would partake in something like this, because they're so burnt out on code. But I'm sure there's a lot of people that are still wanting to have this conversation."
 >>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
 
+>"It's small and tight, and we have a bunch of regulars. but I also feel like maybe there are other people out there who were not reaching who might be interested or where we can like the community, would benefit from having them as well, we're even like not just individuals. like other organizations like, I think, the a student assembly for accessibility with having some discussions about technological accessibility."
+>>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+
 
 <div class="play-along box" markdown="1">
 
@@ -1278,12 +1294,7 @@ Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schn
 [^queerfeeling]: In this way, coding is like queerness: If you wonder if you're queer enough, you are!
 
 
->"I remember I was presenting this project. I'd done at my internship where it was a Processing project. And it featured this ink simulation. And then I remember people were asking me how I did it. And I got to do some whiteboarding and explain bit shifting and how to do operations in color. And I don't think I fully understand what I was saying. 
->"But it's a really fun experience to teach and learn, and teach and learn at the same time, and feel like we are all--like there wasn't any lesson, plan, or anything."
->>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
->"It's small and tight, and we have a bunch of regulars. but I also feel like maybe there are other people out there who were not reaching who might be interested or where we can like the community, would benefit from having them as well, we're even like not just individuals. like other organizations like, I think, the a student assembly for accessibility with having some discussions about technological accessibility."
->>–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 
 Ada?
 >"it was time to get into coding. And by that I mean—hours of getting things wrong and few moments of figuring out something right."
