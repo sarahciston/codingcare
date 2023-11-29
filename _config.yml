@@ -4,7 +4,7 @@ title: Trans*formative TechnoCraft
 description: every dissertation starts somewhere | bless this mess 
 author: Sarah Ciston
 
-logo: 'assets/img/goingonline.jpg'
+# logo: 'assets/img/goingonline.jpg'
 # show_downloads: 
 # google_analytics: 
 
@@ -15,8 +15,8 @@ links:
     # - "mailgun-setup-TK"
   # "Intersectional AI Toolkit": 
   #   - "https://intersectionalai.com"
-  "Tethered.Network": 
-    - "https://sarahciston.github.io/tethered"
+  # "Tethered.Network": 
+    # - "https://sarahciston.github.io/tethered"
   # "Get your pal a QUEER LOVE zine": 
   #   - "https://queerlovezine.com/"
   # "Get yourself a shirt":

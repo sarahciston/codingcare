@@ -794,7 +794,8 @@ Still, it's possible to incorporate some of these approaches in a required class
 
 ![Guestbook loom at Stanford Textile Makerspace](../assets/img/guestbookloom.png)
 
-This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings. {: .caption }
+This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings. 
+{: .caption }
 
 [^textiledata]: For more resources on textile data visualization, see their [course examples] as well as [XXXCITELaura]
 
@@ -1072,9 +1073,9 @@ What are the building blocks or the core components of a community like this one
 Some items we have considered, or intuitively incorporated:
 
 • `Steady cadence and rituals of gathering`
-`• Material care and physical resources`
-•` Inclusive, inquisitive, recursive approaches`
-`• Knowledge sharing hub and community identity`
+• `Material care and physical resources`
+• `Inclusive, inquisitive, recursive approaches`
+• `Knowledge sharing hub and community identity`
 
 I have found this learning mindset to be more broadly essential than any other particular skill.
 
