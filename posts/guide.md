@@ -545,8 +545,11 @@ We let ourselves be flexible and fluid, spongy and influenced. Or at least, we t
 
 I include myself in this! Through conversations about what we're making and imagining, I try to model my own artistic research practice that prioritizes comfort with uncertainty and multiple approaches. I focus on dialog exchange rather than prescriptive lectures, and fully integrate critical and creative approaches, until it does not feel like 'teaching' but sharing and connecting. There are many structures designed to keep us from learning from each other in these ways, including our own resistance. But it is worthwhile if you are willing. 
 
->"A lot of the the values that I was trying to hold on to would be a lot harder for me to hold on to without Code Collective. It's almost like an opportunity cost, like if Code Collective wasn't there, I would be working for Palantine or something right now, I'd be using this mind towards — I wouldn't even call it destruction but I would have lost a lot. [...] A huge amount of empathy or a criticality has remained. That's that's what I'm taking with me and that's what I will keep, and I hope to replicate it in some form."
->>—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+"A lot of the the values that I was trying to hold on to would be a lot harder for me to hold on to without Code Collective. It's almost like an opportunity cost, like if Code Collective wasn't there, I would be working for Palantine or something right now, I'd be using this mind towards — I wouldn't even call it destruction but I would have lost a lot. [...] A huge amount of empathy or a criticality has remained. That's that's what I'm taking with me and that's what I will keep, and I hope to replicate it in some form."
+{: .quote }
+
+—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+{: .quote .attrib }
 
 ### Adjust for what's needed
 
@@ -572,8 +575,11 @@ We acknowledge the many different contexts that bring us to the same space, diff
 
 It helps to acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals. Our choices have histories. They come with cultures and politics attached.
 
->"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting's social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
->>Dr. Vernelle A. A. Noel [@SitCoLab]
+"Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting's social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
+{: .quote }
+
+–Dr. Vernelle A. A. Noel [@SitCoLab]
+{: .quote .attrib }
 
 Not only does acknowledging situated context help create better relationships among community members, it helps make interesting, engaging works of creative–critical code. 
 

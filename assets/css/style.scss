@@ -24,7 +24,7 @@ body {
 }
 
 a, a:visited {
-  font-family: 'Jura', 'Ubuntu Mono', Courier, monospace;
+  font-family: 'Jura', 'Ubuntu Mono', monospace;
   color: mediumslateblue;
   text-decoration-line: none;
   font-weight: 400;
@@ -48,7 +48,7 @@ code {
 
 h1, h2, h3, h4 {
   // font-family: 'IBM Plex Mono', 'Ubuntu Mono', Courier, monospace;
-  font-family: 'Jura', 'Ubuntu Mono', Courier, monospace;
+  font-family: 'Jura', 'Ubuntu Mono', monospace;
   font-weight: 400;
   font-style: normal;
   color: mediumslateblue;
@@ -89,7 +89,7 @@ h4 {
 
 .purple {
   color: mediumslateblue;
-  font-family: 'Jura', 'Ubuntu Mono', Courier, monospace;
+  font-family: 'Jura', 'Ubuntu Mono', monospace;
 }
 
 .box {
@@ -145,17 +145,17 @@ h4 {
 
 .quote {
   color: mediumslateblue;
-  font-family: 'Jura', 'Ubuntu Mono', Courier, monospace;
-  font-size: 0.7em;
+  font-family: 'Jura', 'Ubuntu Mono', monospace;
+  // font-size: 0.9em;
   margin: 10px;
-  text-align: center;
+  // text-align: center;
 }
 
 aside, .attrib {
   text-align: right;
   color: mediumslateblue;
-  font-family: 'Jura', 'Ubuntu Mono', Courier, monospace;
-  font-size: 0.7em;
+  font-family: 'Jura', 'Ubuntu Mono', monospace;
+  font-size: 0.8em;
   float: right;
   margin: 10px;
 }
