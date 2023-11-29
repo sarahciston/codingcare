@@ -514,7 +514,7 @@ Yeah, search Your memory is gone. I think the odd is like find my brain like act
 So I was like looking at all the papers like Wow!
 
 00:53:52.000 --> 00:54:03.000
-Put out anything against big tech you get blockballed like instantly. and like they've known this for a while, like, you know, like they've been like headlines and and articles about this But it's like there's a lot
+Put out anything against big tech you get blackballed like instantly. and like they've known this for a while, like, you know, like they've been like headlines and and articles about this But it's like there's a lot
 
 00:54:03.000 --> 00:54:07.000
 of homogeneity hobbies that I have.
@@ -677,17 +677,14 @@ three books, bc i like math.
 >"It feels like a space for ideas more than a space for learning. Like if you have learned or want to figure it out and can figure it out on your own, and you come to create a collective you can get ideas of what you can do with that."
 >(Ada Toydemir, they/them, MS Computer Science)
 
-"For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
-Ada Toydemir, they/them, MS Computer Science
-
->"working with people takes a certain amount of mastery. And it's like a separate skill that you do need to develop that I think most people do not teach."
->(Ada Toydemir, they/them, MS Computer Science)
-
 coders who want to learn the creative aspect, creatives who want to learn the coding aspects, and then bringing in the critical thinking and aesthetics and politics into the conversations that we have around that stuff.
 >"the the people that are in this space, those conversations do come around anyways"
 >(Ada Toydemir, they/them, MS Computer Science)
 
 >"But that's what people expect. from me. You know, these days, right? It's like, I it's, it's the thing that I have to show for myself. It's the thing it's the you know, the to do. It's like the brag list in your head, right? You just have to it's like, how do you introduce yourself? How do you like, explain what you've been doing? How to explain you're like, Okay, this is what I have done doesn't necessarily mean this right now."
 >Elea Zhong, she/they, BS Computer Science
+
+>>Ada: improving from learning how to better look things up. read the documentation before, to know where to look when you ended something. making the referencing process faster. making reference sheets. straight copy, give credit, connect something new/make a change
+
 
 </section>

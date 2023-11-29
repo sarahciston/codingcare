@@ -29,6 +29,9 @@ Tim Ingold, line/walk.
 >"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb 'to knot' and view knotting as an activity of which 'knots' are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-field or, in short, about 'making things stick'.  Accordingly, our focus should be on forces and materials rather than form and content." (Ingold 2015, 18)
 see Ahmed queer use, the memory of knots, held in the material, no memory in bricks (via ingold) 
 
+>"But the knot remembers everything, and has everything to forget." 
+If we hold everything loosely, no knots, only loops, f we only loop, not knot, what do we remember
+
 
 # Codes for Un/Raveling, Un/Mouthing
 
@@ -138,6 +141,9 @@ repair, riparian
 
 ***
 
+Used to be, you'd knot a string around your finger if you had something to remember. You'd tie a ribbon round a tree to remember the dead. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
+
+>"But the knot remembers everything, and has everything to forget. [Untying the knot, therefore, is not a disarticulation. It does not break things into pieces. It is rather a casting off, whence lines that once were bound together go their different ways.]" (The lines connect to make a point, the points connect to make a line)
 
 === 
 

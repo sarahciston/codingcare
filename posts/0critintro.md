@@ -150,13 +150,13 @@ The case for combining creative and critical practices is already strong, and ha
 
 I have found artistic research practices can interrogate systems and imagine new ones. For me, it combines rigorous scholarly investigation, deep community building and activism, and creative play in ways that can connect to broader non-academic audiences. 
 
-Art has been the space where I’m able to unpack complex ideas for myself, because I can treat them more freely as artistic materials. It’s where I’m able to follow instinct and feel into how my tools, platforms, and forms shape their outputs and outcomes. 
+Art has been the space where I'm able to unpack complex ideas for myself, because I can treat them more freely as artistic materials. It’s where I’m able to follow instinct and feel into how my tools, platforms, and forms shape their outputs and outcomes. 
 
 It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
  
 This is a practice of artistic research, research-creation, and/or arts-based research (different lineages and regions call it by different names)[cite] [@lovelessHowMakeArt2019]. 
 
->"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016]
+>"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016] "a robust research question may arise through practice as much as practice may be used to pursue a particular research question." "arts-based research is profoundly creative; it acknowledges the power of the imagination, tacit knowledge and embodied knowing. [...] rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change [...]"
 
 >"Specifically the "valences" of research-creation [Chapman & Sawchuk] that are not "creative presentation of research" (reporting on research in creative ways), or "research for creation" that supports a stand-alone artwork, or "research from creation" (reporting about artworks after the fact), but rather "creation-as-research" [and I'd add research-as-creation], which Loveless says "Research-creation [...] produces hybrid forms, defamiliarizing and uncanny, that oscillate between more than one 'species' of production and that result in 'offspring' that are often unthinkable, illegible within the current institutional frameworks of academia. It creates a chimera. By bringing research and creation together in such a way that they unpredictably contaminate and remake each other,"
 
@@ -480,6 +480,7 @@ These are not metaphors but material, infrastructures undergirding systems that 
 
 *Process oriented approaches*
 
+[sadiebenningitwasn'tlove]
 
 *communities of practice*
 * thin description, humble un-/knowing, kaleidoscopic subjectivity
@@ -487,6 +488,8 @@ These are not metaphors but material, infrastructures undergirding systems that 
 
 >"craft in terms of a set of materials and practices—that is, fiber art—it hopes to advocate that craft might more usefully be viewed as a process, as in crafting an identity, or crafting a community"
 >>[@fountainSurvivalKnittestCraft2021]
+
+>"craft, or more broadly the notion of crafting, is an essential strategy for living and loving ‘otherwise.’ [@fountainSurvivalKnittestCraft2021]
 
 
 **CONTEXT:** Tech via craft is always contingent and contextual. 

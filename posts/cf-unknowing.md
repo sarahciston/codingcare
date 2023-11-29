@@ -251,5 +251,6 @@ Female media artists of the 1970s were doing this work before your natural langu
 She crowdsourced 109 different affects. I’ve paired each with an emoji and put them into a spreadsheet and I call this sheet a short story/lyric essay. 
 I added my own breakups to the list. Hers was the training data. Mine the test data. It is underfitting. 
 
+[sadiebenningitwasn'tlove]
 
 Agree not merely to the right to difference but, carrying this further, agree also to the right to opacity. [ 190]

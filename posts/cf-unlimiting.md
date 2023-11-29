@@ -8,6 +8,7 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 # bibliography: ['includes/bibliography.bib']
 ---
 
+<!-- boundaries/limits as deflection points, where do they bounce off to? (ingold on walls and Flusser 29) (Sichong's sails-->
 
 <!-- broken machines? queer use, platforms,  -->
 
