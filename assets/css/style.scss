@@ -117,8 +117,8 @@ h4 {
   border-color: cyan;
 }
 
-.footnotes, .sidenotes {
-  background-color: cyan;
+.footnotes, {
+  // background-color: cyan;
   border-width: 1px;
   border-radius: 10px;
   border-style: dashed;
@@ -126,7 +126,7 @@ h4 {
   padding: 10px;
   // margin-bottom: 15px;
   font-size: 0.8em;
-  float: right;
+  // float: right;
   padding: 7px;
 }
 
@@ -191,6 +191,14 @@ h4 {
     font-style: inherit;
     position: relative;
   }
+
+  [id^="fn:"] {
+    color: mediumslateblue;
+    float: right !important;
+    font-size: 2em;
+  }
+  
+  // [id^="fnref:"]{}
 
   // .sidenote,
   // .marginnote {
