@@ -31,7 +31,7 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 
 Have you considered learning to code but felt too intimidated to try? Have you struggled to program? Or don't know how to apply what you've learned to things you care about? 
 
-Maybe you're decent with programming skills but you'd still never consider yourself a 'coder'. *Coding Care* is about bridging this disconnect——the wide gulf between trying to learn coding and feeling empowered to create with code. 
+Maybe you're decent with programming skills but you'd still never consider yourself a 'coder'. *Coding Care* is about bridging this disconnect — the wide gulf between trying to learn coding and feeling empowered to create with code. 
 
 "the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text"
 {: .quote }
