@@ -10,8 +10,6 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 # Coding Care: Field notes for making friends with code
 {:.no_toc}
 
-{% include zine.md %}
-
 [//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities // guide book / field notes / pocket guide"
 
 * toclist

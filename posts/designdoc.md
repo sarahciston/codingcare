@@ -8,8 +8,7 @@ nav_order: 6
 ---
 
 <!-- {% include_relative includes/mermaid.md %} -->
-{% include mermaid.md %}
-{% include zine.md %}
+<!-- {% include mermaid.md %} -->
 
 # {{ page.title }}
 
