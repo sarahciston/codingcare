@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: codes for un-knowing
 nav_order: 11
 date: 02.11.2023
