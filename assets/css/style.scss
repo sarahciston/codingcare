@@ -36,14 +36,14 @@ a:hover, a:active {
   font-weight: normal;
 }
 
-b, strong, li {
+b, strong, li, i, em {
+  font-family: 'Jura', 'Ubuntu Mono', monospace;
   font-weight: 300;
   color: mediumslateblue;
 }
 
 i, em {
   font-weight: 200;
-  color: mediumslateblue;
   font-style: italic;
 }
 
@@ -159,7 +159,7 @@ h4 {
 
 .attrib {
   text-align: right;
-  font-size: 0.8em;
+  font-size: 0.9em;
   // float: right;
   // padding-bottom: 10px:
 }

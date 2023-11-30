@@ -561,6 +561,7 @@ Everyone has a perspective, and no one knows everything. We may know about the s
 ### Take comfort in this Programmer's Paradox
 
 "You may never feel like a "real programmer." You already are a programmer."
+{: .quote }
 
 –[Amy Rae Fox](https://madebyafox.github.io/)
 {: .quote .attrib }
