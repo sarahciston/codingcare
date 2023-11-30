@@ -712,7 +712,7 @@ In tech communities, a myth of equal access to digital resources and DIY materia
 
 While these spaces may seem apart from "big tech" and thus have more opportunity to be free of its problems, Dunbar-Hester found [XXX]. Their informal structures, mostly run through volunteers, [were not optimized for focusing on bringing in/welcoming new members unlike them/not did naturally lend to/leave room for critical self-reflection] [XXX]
 
-"the potential for differences in how participants are located within the community—there are multiple 'classes' within the wider open-technology community—and holds that CoCs may do some work to raise awareness and empathy levels about these differing backgrounds and experiences." 
+"the potential for differences in how participants are located within the community—there are multiple 'classes' within the wider open-technology community—and holds that CoCs [Codes of Conduct] may do some work to raise awareness and empathy levels about these differing backgrounds and experiences." 
 {: .quote }
 
 –[Dunbar-HesterHackingDiversity]
@@ -1356,33 +1356,33 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 
 ### [Read more...](references)
 
-# "[XXXadd sketching?] [@ImportanceSketchingCode2023]"
+[XXXadd sketching?] [@ImportanceSketchingCode2023]"
 
-# "[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) [@shihCriticalCodingCookbook]"
+[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) [@shihCriticalCodingCookbook]"
 
-# "[XXXadd source] TEX: Teaching with Text Generation Technologies [@veeTextGenEdTeachingText2023] Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schnitzler, C. (Eds.) (2023). TextGenEd: Teaching with Text Generation Technologies. The WAC Clearinghouse. @veeTextGenEdTeachingText2023"
+[XXXadd source] TEX: Teaching with Text Generation Technologies [@veeTextGenEdTeachingText2023] Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schnitzler, C. (Eds.) (2023). TextGenEd: Teaching with Text Generation Technologies. The WAC Clearinghouse. @veeTextGenEdTeachingText2023"
 
-# "[XXXadd source] Levin & Brain [Code as Creative Medium]() [@CodeCreativeMedium]"
+[XXXadd source] Levin & Brain [Code as Creative Medium]() [@CodeCreativeMedium]"
 
-# "[XXXadd source] Critical Makers Reader [@bogersCriticalMakersReader2019]"
+[XXXadd source] Critical Makers Reader [@bogersCriticalMakersReader2019]"
 
-# "that conference on connected learning from ??2020??"
+[XXXadd source] that conference on connected learning from ??2020??"
 
-# "[XXXadd source] [Critically Conscious Computing: Methods for Secondary Education](https://criticallyconsciouscomputing.org/) "
+[XXXadd source] [Critically Conscious Computing: Methods for Secondary Education](https://criticallyconsciouscomputing.org/) "
 
-# "[XXXadd source] code complete by steve mcconnell"
+[XXXadd source] code complete by steve mcconnell"
 
-# "[XXXadd source] computational mama"
+[XXXadd source] computational mama"
 
-# "[XXXadd source] zines from genderfail"
+[XXXadd source] zines from genderfail"
 
-# "[XXXadd source] craeft alexander langlands, pye the workmanship of risk/certainty in the nature and art of workmanship"
+[XXXadd source] craeft alexander langlands, pye the workmanship of risk/certainty in the nature and art of workmanship"
 
-# "[XXXadd source] knitting for anarchists, zandy peters knit boldly"
+[XXXadd source] knitting for anarchists, zandy peters knit boldly"
 
-# "[XXXadd source] mark's/our fork book"
+[XXXadd source] mark's/our fork book"
 
-# "TK: **JAVASCRIPT STARTER PACK** in my *zettlekasten*"
+TK: **JAVASCRIPT STARTER PACK** in my *zettlekasten*"
 
 
 <!-- [How to Fork a Book](https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c) by Sarah Ciston and Mark C. Marino , we talk about a "yes, and" ethos and add "Code Confessions" and "Code Commentaries." "Code Confessions reflect on our experiences starting to learn to program, while Code Commentaries do critical close-readings of source code, an approach that comes from the Critical Code Studies discipline. Code Confessions are opportunities to further humanize the process of writing code by talking about our embodied, emotional encounters with the process of programming: How it felt to work on this code or to encounter the same issues readers might during their practice. Meanwhile, Code Commentaries are opportunities to pursue the methods of Critical Code Studies by interpreting the meaning of the code on the page, line by line."   "we model how we as programmers feel about our own code. Extending the concept of comments in code, we take the opportunity to discuss the affective relationship to the journey that is programming, admitting to mistakes and acknowledging fears. These sections personalize the approach and dismantle the authoritarian hierarchy or boundary between knowledge “holder” and knowledge “seeker.” This aspect was essential to emphasize the ways we learn in community, revealing that the teacher programmer didn’t always know what they’re doing and may still find their way with a beginner’s mindset. The code confessions sections are expressions of humility in an effort to further welcome the newcomer. They stand opposed to encoded chauvinism, or the toxic brogrammer culture that can be so off-putting to new programmers, especially those who come from outside the dominant culture."-->
