@@ -338,6 +338,22 @@ How do we learn how to learn? We tinker and stretch a bit — whether in breadth
 –Ada Toydemir, they/them, MS Computer Science, USC
 {: .quote .attrib }
 
+### Read code like a book
+
+A big part of coding creatively and critically is remembering that all code is *written* and it is written by people. There is no one way to code, and so we can learn a lot by reading (yes, reading) the code of many people. Just like with books in our first language, we can read first to understand what the code does, then to understand how this coder solved their task, then also read for style! Would you address their task in the same way? How would you write this code in a different programming language or to build on their ideas?
+
+Researcher Mark Marino, who helped develop the field of Critical Code Studies, says "Code also has qualities: clarity versus obfuscation, verbosity versus concision, elegance versus sloppiness." He offers many options for ways to read code, including looking at how it changes over time, comparing it to its outputs, creating visualizations of the code, and writing more code to understand the code. Readings of code can also extend beyond the lines of the program itself. Marino asks:
+
+<p class="quote" markdown=1>
+Who wrote the code? When and why? In what language was the code written? What programming paradigm was used? Was it written for a particular platform (hardware or software)? How did the code change over time? What material or social constraints impacted the creation of this code? How does this code respond to the context in which it was created? How was the code received by others? Although many of these questions address the technical aspects of the code, I do not want to limit context to the material condition of the code itself. [...] The critical in critical code studies encourages also exploring the social context through the entry point of code.
+</p>
+<p class="quote" markdown=1>
+–Mark Marino, *Critical Code Studies*
+[@marinoCriticalCodeStudies2020a]
+</p>
+
+Fundamentally, even if you're not looking for deeper meanings in the code, actually *for-real reading* the code you encounter can help you learn to code better than almost anything else. It may seem tedious, but: Type out the examples you use, rather than copying and pasting them. Follow along with your finger on the page as the functions return to different sections and the loops re-loop. This act of readind "runs the code" in your mind, so that you can truly understand what is happening on the screen when you write all those brackets and semi-colons. Once you understand that, you can begin to ask questions about the implications of each way of writing — knowing there's no one way, no "right" way, to write code.
+
 [Back to top](#top)
 
 ## 3. We get vulnerable
@@ -1357,7 +1373,7 @@ TBD
 
 [//]: # "[XXXadd source] knitting for anarchists, zandy peters knit boldly"
 
-[//]: # "[XXXadd source] mark's critical code studies & our fork book"
+[//]: # "[XXXadd source] mark's/our fork book"
 
 [//]: # "TK: **JAVASCRIPT STARTER PACK** *zettlekasten*"
 
