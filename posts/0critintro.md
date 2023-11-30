@@ -16,7 +16,7 @@ tags: [introduction, theory, practice, hybrid, academic]
   console.log(footnotes.getAttributeNode('role').value)
 </script> -->
 
-<script>
+<!-- <script>
   let fnId = ''
   let fn
   let section = document.createElement('section')
@@ -37,7 +37,7 @@ tags: [introduction, theory, practice, hybrid, academic]
   }
 
   document.body.appendChild(section)
-</script>
+</script> -->
 
 <!-- <article markdown=1> -->
 

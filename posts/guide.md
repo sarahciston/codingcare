@@ -137,6 +137,7 @@ I started organizing the collective as an intervention. I craved a space where I
 Code Collective was necessary for me because I kept having the experience elsewhere that no one could understand what I was trying to make or do. I felt like I was not making sense – and certainly I was not sure myself – but some glimmer or gut feeling kept pulling me toward tinkering even though I was hitting walls, getting frustrated, hearing that it shouldn't or couldn't be done. Now I remind new visitors to Code Collective: *If you have an inkling (or a fear) that coding might be for you, it probably is. Welcome.* [^queerfeeling]
 
 [^queerfeeling]: In this way, coding is like queerness: If you wonder if you're queer enough, you are!
+{:.sidenote}
 
 ### Start anywhere 
 
@@ -210,7 +211,8 @@ How do you start getting scrappy instead of studious? Break things! Or at least,
 
 Too often I don't get started because I don't know where to start, and also because I am afraid to "mess up" what already exists. That's what backups and save-as and sketches are for. You can't (irrevocably) break anything, in all likelihood. And in the process of tinkering (which is just breaking with flair) you learn a lot![^tinker] So try to push through the fear of breaking something, or doing something "wrong," to make space for doing something "weird" aka interesting. So, knowing that you can't really break it, get cracking!
 
-[^tinker]: To tinker is also to mend, to patch up, repair, or improve in a makeshift way [OED]. The word derives in part from the tasks of metalworkers (per Miller Puckette & OED). 
+[^tinker]: To tinker is also to mend, to patch up, repair, or improve in a makeshift way [OED]. The word derives in part from the tasks of metalworkers (per Miller Puckette & OED).
+{:.sidenote}
 
 I learned to use scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). I was a poet who wanted to make weird books, and he told me simply, "Pick something small you want to try to make, and use that to begin learning Python." Reader—I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself some HTML, CSS, and Javascript. But none of it would stick. Still, I trusted Brett, so I found a little example code for a simple chatbot and used it to make what would become "ladymouth" — a bot that tries to explain feminism to misogynists online. Along the way, I learned enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run, even though I started with zero vocabulary and knowledge about relational databases or APIs or anything else. Through Brett's positive encouragement, and by finding the right tools for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, that I couldn't understand the tools I wanted to use, and that I didn't belong in the spaces that interested me (or that I didn't even know about). Being among others who were experimenting in these same ways taught me it was okay not to have all the pieces in place right away. [xxxmaybemove] 
 
@@ -297,6 +299,7 @@ I have learned from many communities building transfeminist infrastructures that
 >>– ["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) @WishlistTransFeminist
 
 [^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021
+{:.sidenote}
 
 Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
 
@@ -306,7 +309,8 @@ Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en
 
 I joke that my projects are held together with duct tape and spitballs, but it's basically true. Most of them use a wild-sourced daisy chain of APIs[^api] and random tools from different domains, because this is what it requires to sketch out an idea I haven't seen represented elsewhere. There is magic and politics and new knowledge to be found in creative (read: unintended, inappropriate) applications and combinations of existing tools. 
 
-[^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves. The downside of relying on external APIs is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or updates their system... your code also breaks. (Hence the duct tape.)$$
+[^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves. The downside of relying on external APIs is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or updates their system... your code also breaks. (Hence the duct tape.)
+{:.sidenote}
 
 To think about how to combine ingredients to produce new flavors, connect dots, (mix metaphors) is an explicitly artistic approach, because it is a way of thinking with (and against) materials *as such*. It questions and engages the material properties of the platforms, codes, cultures, data, and infrastructures, in the same ways artists explore other materials — whether paint color, wood grain, fiber textures, or anything else. Listening to your materials can make work self-reflexive in incredibly useful and critical ways, whether you decide to work with or against their attributes. 
 
@@ -371,8 +375,10 @@ The socially awkward planner in me wants to know in advance what's going to happ
 Your milage may vary, as mine has! I want to acknowledge that some folks are given much more leeway to display uncertainty while retaining their authority and respect than others are. I understand that your vulnerability will have boundaries and capacity limits, as mine does.[^identity1][^identity2]
 
 [^identity1]: e.g. It looks very different for a white male professor with job security to engage "casually" or "flexibly" and still receive the benefit of the doubt when up for review. I want to use the privilege I have as a white person who has learned to "speak academic" (in the contexts where I must) to turn that voice off where I can and dismantle those structures as much as I can. I still worry about how I am perceived as "too feely" or "too feminine" or "too casual" in my non-binary queer femme graduate student instability. But however possible, I want to make it more comfortable for folks like me — and folks unlike me who may be even more precarious in academic or technologist spaces — to have a home here too. That doesn't happen without those of us who have the capacity to shut off the gatekeeping rhetoric doing so.
+{:.sidenote}
 
-[^identity2] Briana Bettin (Assistant Professor of Computer Science and Cognitive and Learning Sciences, Michigan Tech) echoes this sentiment: "I let students see me make mistakes; I thank them for identifying those mistakes and engaging with the lecture. I ask them why that was a mistake and create conversation because students need to see experts fail too. Failure is part of learning, part of life and part of moving forward. As a young female instructor, failing in front of students can easily backfire. There have certainly been indications that this confirmed to some that I have no idea what I’m doing and that I’m not qualified. Despite that, I will continue to fail in front of my students and call myself out on it, because it makes the classroom a place they know they can try, fail and grow. If I can have a code failure in front of 200 of them and I’m supposed to know what I’m doing, they can fail in front of their lab partner or their roommate while they’re taking their first class." 
+[^identity2] Briana Bettin (Assistant Professor of Computer Science and Cognitive and Learning Sciences, Michigan Tech) echoes this sentiment: "I let students see me make mistakes; I thank them for identifying those mistakes and engaging with the lecture. I ask them why that was a mistake and create conversation because students need to see experts fail too. Failure is part of learning, part of life and part of moving forward. As a young female instructor, failing in front of students can easily backfire. There have certainly been indications that this confirmed to some that I have no idea what I’m doing and that I’m not qualified. Despite that, I will continue to fail in front of my students and call myself out on it, because it makes the classroom a place they know they can try, fail and grow. If I can have a code failure in front of 200 of them and I’m supposed to know what I’m doing, they can fail in front of their lab partner or their roommate while they’re taking their first class" [@whiteTeachingAwardWinner2022].
+{:.sidenote}
 
 ### Ask "stupid" questions (psst.. there are no stupid questions)
 
@@ -409,6 +415,7 @@ Sharing our struggles helps us solve them. In Code Collective, we do a lot of te
 **Highlighting** mistakes is not about focusing on the negative; it brings our problems out of the shadows and removes the shame. Our mistakes connect us with each other. They show us we're not the first to encounter this issue,[^first] and they also show us we're not alone with the experience of facing coding challenges. Being vulnerable makes us stronger and brings us closer. 
 
 [^first]: Occasionally, we *are* the first to encounter this issue because we're trying to do something entirely new and important. It is helpful to get encouragement from friends either way. 
+{:.sidenote}
 
 Live coding, though it might seem counterintuitive, sparks confidence. It helps to watch another coder, whether brilliant or beginner or both, struggle under the familiar burden of a problem — that feeling that they cannot solve it, that they're unfit to call themselves real coders, that they're imposters, and that the feeling will never ever go away. Then watching them collaborate with others to solve it. Remember that person the next time you feel the same way. You won't always feel that way. 
 
@@ -423,6 +430,7 @@ When we are together and witness each other struggle, that commonality reveals l
 <!-- {: .quote .attrib } -->
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
+{:.sidenote}
 
 <p class="quote" markdown=1>
 "The constant state of exposure – and along with it, a sustained vulnerability – is enabled only through constant and meticulous practices of documentation. Far from covering up our bugs, we [hackers] openly acknowledge and even explain them. We don't hide problems. The virtue of transparency is that it makes actions accountable." 
@@ -467,7 +475,7 @@ You could also try this exercise by trading a snippet of old code with a friend.
 Don't be afraid to get weird together. 
 
 <p class="quote" markdown=1>
-"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it"[^shane] 
+"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it"
 </p>
 <!-- {: .quote } -->
 
@@ -555,6 +563,7 @@ Everyone has a perspective, and no one knows everything. We may know about the s
 `You may never feel like a "real programmer." You already are a programmer.`[^amy]
 
 [^amy]: With thanks to [Amy Rae Fox](https://madebyafox.github.io/)
+{:.sidenote}
 
 "Computer-centric terms such as ‘novice’ obscure the possibilities for creating appropriate end user systems and are prejudicial in assigning prominence to the computer." 
 {: .quote }
@@ -733,6 +742,7 @@ This is not only about meeting people at their skill level (which we absolutely 
 I may not care for their approach or their aesthetic — or their politics! But I still *try* to start by understanding what they want to make and why.[^baseline] I do ask questions intended to challenge those approaches and aesthetics (and sometimes politics), but my goal is not to change their mind or make them do it 'my' way. My goal is to make space for them to see options they might not have considered, and to help them explore the options they choose in mindful ways. 
 
 [^baseline]: Understanding what someone wants to express is not the same as tolerating inhumane treatment of myself or others in our space, which we don't abide. These are hard lines, established by our community agreements (see [XXXsection XX on how to create these]). If an issue arises, folks are welcome back when they can reframe ideas without questioning the fundamental humanity and right to exist of others.
+{:.sidenote}
 
 This approach helps more people feel welcome in our meetups. Often it also shifts their stance and their practice in the direction of making more critical and compassionate work, because it models for others the questions they can ask themselves about their own practice. 
 
@@ -953,6 +963,7 @@ This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakers
 {: .caption }
 
 [^textiledata]: For more resources on textile data visualization, see their [course examples] as well as [XXXCITELaura]
+{:.sidenote}
 
 Start with a round of check-ins: *What are you making? What are you into right now? How are you doing? No, really?*
 
@@ -1331,7 +1342,7 @@ TBD
 
 ## ACKNOWLEDGMENTS
 
-[TK] Membership list and more information about CCC... [^Creative Code Collective](https://creativecodecollective.com)
+[TK] Membership list and more information about CCC... [Creative Code Collective](https://creativecodecollective.com)
 - OSACC
 - P5.JS
 - Creative Code Berlin

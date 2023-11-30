@@ -118,7 +118,7 @@ h4 {
 }
 
 .footnotes, .sidenotes {
-  background-color: whitesmoke;
+  background-color: cyan;
   border-width: 1px;
   border-radius: 10px;
   border-style: dashed;
@@ -176,6 +176,20 @@ h4 {
   body {
     // background: lavender;
     // background: whitesmoke;
+  }
+
+  .sidenote {
+    // margin: 0 0 0.5em 0.5em;
+    margin: 0 -10rem .8em 2rem;
+    float: right;
+    max-width: 16.6666666667rem;
+    clear: both;
+    padding: .8em;
+    text-indent: 0;
+    font-size: .7em;
+    line-height: 1.12em;
+    font-style: inherit;
+    position: relative;
   }
 
   // .sidenote,
