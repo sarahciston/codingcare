@@ -8,7 +8,7 @@
 // @import url("https://use.typekit.net/yno1izp.css");
 // @import url('https://fonts.googleapis.com/css2?family=Jura:wght@200;500&family=Major+Mono+Display&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@200;500&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Jura:wght@400;700&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,300;0,600;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@400;700&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,300;0,600;1,200;1,500&display=swap');
 
 
 
@@ -36,13 +36,13 @@ a:hover, a:active {
   font-weight: normal;
 }
 
-b, strong {
+b, strong, li {
   font-weight: 300;
   color: mediumslateblue;
 }
 
 i, em {
-  font-weight: 300;
+  font-weight: 200;
   color: mediumslateblue;
   font-style: italic;
 }
@@ -157,20 +157,17 @@ h4 {
   // text-align: center;
 }
 
-aside, .attrib {
+.attrib {
   text-align: right;
-  color: mediumslateblue;
-  font-family: 'Jura', 'Ubuntu Mono', monospace;
   font-size: 0.8em;
   // float: right;
-  margin: 10px;
   // padding-bottom: 10px:
 }
 
-.attrib:has(+ .box,h2,h3,h4) {
-  // padding-bottom: 50px;
-}
-
+// .attrib:has(+ .box,h2,h3,h4) {
+//   // padding-bottom: 50px;
+// }
+// aside {}
 /*
   Mobile First! Put desktop styles below
 */
