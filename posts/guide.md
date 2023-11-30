@@ -395,7 +395,7 @@ So-called stupid questions help us all unpack what we consider assumed knowledge
 
 <p class="quote attrib" markdown=1>
 -Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
-{: .quote .attrib }
+</p>
 
 Sharing our struggles helps us solve them. In Code Collective, we do a lot of team troubleshooting, in which several folks gather around a screen to explore a project. Several things happen when we join together this way, and none require the participants to have expertise on the specific issue at hand. 
 
@@ -410,7 +410,7 @@ Sharing our struggles helps us solve them. In Code Collective, we do a lot of te
 
 <p class="quote attrib" markdown=1>
 –annatito, Critical Code Studies Working Group 2022 [@titoWeekP5Js2022]
-{: .quote .attrib }
+</p>
 
 **Highlighting** mistakes is not about focusing on the negative; it brings our problems out of the shadows and removes the shame. Our mistakes connect us with each other. They show us we're not the first to encounter this issue,[^first] and they also show us we're not alone with the experience of facing coding challenges. Being vulnerable makes us stronger and brings us closer. 
 
