@@ -1,16 +1,16 @@
 ---
-# layout: post
+layout: post
 title: coding care pocket guide
 permalink: codingcare
 nav_order: 3
-date: 27.09.2023
+date: 30.11.2023
 tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
-{% include zine.md %}
-
 # Coding Care: Field notes for making friends with code
 {:.no_toc}
+
+{% include zine.md %}
 
 [//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities // guide book / field notes / pocket guide"
 
@@ -31,11 +31,7 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 
 Have you considered learning to code but felt too intimidated to try? Have you struggled to program? Or don't know how to apply what you've learned to things you care about? 
 
-[//]: # "or to understand how you'd actually use it?"
-
 Maybe you're decent with programming skills but you'd still never consider yourself a 'coder'. *Coding Care* is about bridging this disconnect——the wide gulf between trying to learn coding and feeling empowered to create with code. 
-
-[//]: # "(even though we likely interact with computation every day)."
 
 "the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text"
 {: .quote }
@@ -43,7 +39,7 @@ Maybe you're decent with programming skills but you'd still never consider yours
 –Jessica Loseby, "Code Scares Me"
 {: .quote .attrib }
 
-So many people feel left out of coding communities and spaces for learning about computation. But I believe it is essential for people who come from all different perspectives to share access to the digital languages which are altering the world and what it becomes. *I* want to live in a world that is shaped by *your* point of view and many others' point of views — not a world shaped only by one narrow take on what computers can be and do. 
+So many people feel left out of coding communities and spaces for learning about computation — even though we likely interact with computation in some form every day! But I believe it is essential for people who come from all different perspectives to share access to the digital languages which are altering the world and what it becomes. *I* want to live in a world that is shaped by *your* point of view and many others' point of views — not a world shaped only by one narrow take on what computers can be and do. 
 
 "I was that convinced that I didn’t have the ability or technological talent to learn how to write code for something. I assumed that every person around me was miles ahead in their practice, and wondered how my passion for creative storytelling could really play into something so new and untouched." 
 {: .quote }
@@ -83,7 +79,7 @@ This guidebook wants to enrich the rituals of programming to include the joy, co
 "No way, code is magic." 
 {: .quote }
 
-—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, this so-called 'magic' does not come from men behind the curtains of big tech, hiding the keys while offering the hype of AI which says, "trust us, this this tech is too complicated for you" [or "if you only learned how to play the game our way."] Automated systems have always been deeply intertwined with humans in every way, from mechanical Turks to crowd labor outsourced to the Global South. No magic about it, just us. 
@@ -131,7 +127,7 @@ This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says
 "What I like about code collective is that it's a community of friends as well as resources. That's where I can feel like we're all going on a journey of learning and discovery together."
 {: .quote }
 
-–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+-Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
 Code Collective is a self-organizing community of artists, makers, students, people from all backgrounds——especially including those who have not done much or any coding before. We meet regularly to develop our programming practices in a flexible, co-working, co-learning setting.
@@ -235,7 +231,7 @@ Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't wo
 "If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
 {: .quote }
 
-—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 <div class="play-along box" markdown="1">
@@ -394,7 +390,7 @@ So-called stupid questions help us all unpack what we consider assumed knowledge
 {: .quote }
 
 <p class="quote attrib" markdown=1>
-–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+-Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
 Sharing our struggles helps us solve them. In Code Collective, we do a lot of team troubleshooting, in which several folks gather around a screen to explore a project. Several things happen when we join together this way, and none require the participants to have expertise on the specific issue at hand. 
@@ -424,7 +420,7 @@ When we are together and witness each other struggle, that commonality reveals l
 {: .quote }
 
 <p class="quote attrib" markdown=1>
-—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 </p>
 <!-- {: .quote .attrib } -->
 
@@ -573,7 +569,7 @@ Take heart if you don't feel like you're really a coder. Many of my favorite com
 "it was time to get into coding. And by that I mean – hours of getting things wrong and few moments of figuring out something right."
 {: .quote }
 
-–Tia Kemp, she/her, BA USC Media Arts + Practice
+–Tia Kemp, she/her, USC Media Arts + Practice
 {: .quote .attrib }
 
 And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced.@AlwaysalreadyprogrammingMd We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
@@ -613,7 +609,7 @@ So pick something you like to learn about, and don't assume learning has to be h
 "[I remember people were asking me how I did it. And I got to do some whiteboarding and explain bit shifting and how to do operations in color. And I don't think I fully understand what I was saying. But] it's a really fun experience to teach and learn, and teach and learn at the same time, and feel like we are all - like there wasn't any lesson, plan, or anything."
 {: .quote }
 
-–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+-Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
 Teaching others helps us learn. In our practice at Code Collective, we co-work, co-teach, and co-learn. These practices combine seamlessly and simultaneously. When I'm explaining to someone how something works that I think I understand, I find new ways to understand it better. When I am asked a question I don't know the answer to, I find new opportunities to learn together. Teaching *is* learning and learning *is* teaching. And co-working cooperatively facilitates both. 
@@ -621,7 +617,7 @@ Teaching others helps us learn. In our practice at Code Collective, we co-work, 
 "There was beginner student who had trouble with code, and I think it was Katherine who helped. I remember seeing seeing that kind of troubleshooting, debugging. Being able to see the mentorship between between people was a really powerful thing for me to see."
 {: .quote }
 
-—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 This requires a bit of humbleness and "wayfinding" (exploring, birdwalking, pathfinding) together. This requires openness to collaboration and sharing, instead of competition or perfectionism. All this requires some mutual trust and is built over time, of course.
@@ -659,7 +655,7 @@ I include myself in this! Through conversations about what we're making and imag
 "A lot of the the values that I was trying to hold on to would be a lot harder for me to hold on to without Code Collective. It's almost like an opportunity cost, like if Code Collective wasn't there, I would be working for Palantine or something right now, I'd be using this mind towards — I wouldn't even call it destruction but I would have lost a lot. [...] A huge amount of empathy or a criticality has remained. That's that's what I'm taking with me and that's what I will keep, and I hope to replicate it in some form."
 {: .quote }
 
-—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 ### Adjust for what's needed
@@ -749,14 +745,14 @@ And find a way, in the end, to break it up — with snacks, goofing off, small g
 "I can see Code Collective as a way to reinforce ethics — and without imposing them. It has actively shaped the ethics of individuals who have exceptional power with their work. It was never like, 'don't do that, what are you doing' but definitely a space to hold all the possibilities around it, which I really appreciate. I know you and I have gotten into some heated conversations which I really enjoy. But there's a lot of respect there to hold all of the opposing ideas. The dialectical is the value."
 {: .quote}
 
-—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 
 "the practice and reward from creative coding showed me first-hand that I shouldn’t be scared of new territory. It might seem simple, but the work I was able to achieve did more than shake my fear of code; it gave me a natural curiosity on the future of social media, the hands behind updated features, and how a new generation of thinkers and media-movers could reshape our understanding of it."
 {: .quote }
 
-–Tia Kemp, she/her, BA USC Media Arts + Practice
+–Tia Kemp, she/her, USC Media Arts + Practice
 {: .quote .attrib }
 
 ### Choose the right tool for the job
@@ -827,7 +823,7 @@ By meeting each other where we are and valuing what each person can contribute t
 
 ### Get excited about impossibly large possibilities and impressively tiny ideas 
 
-There's a lot to be said for project managed software development processes that proceed by the book. But if you don't work that way, great! Are you like me and the idea of a "minimum viable product" sparks no joy, but you can see the whole constellation of an idea writ large? Are you you are easily distracted by a technological tangent or research rabbit hole? Same. (In writing, Anne Lamont calls these "birdwalks" [CITE].) In Code Collective, we have found that letting ourselves follow these pulls toward the large and small are generative endeavors, even if they do not seem productive. They may not feel useful in the moment, but eventually they even help us arrive at more realistically scaled versions of our ideas. 
+There's a lot to be said for project managed software development processes that proceed by the book. But if you don't work that way, great! Are you like me and the idea of a "minimum viable product" sparks no joy, but you can see the whole constellation of an idea writ large? Are you you are easily distracted by a technological tangent or research rabbit hole? Same. In Code Collective, we have found that letting ourselves follow these pulls toward the large and small are generative endeavors, even if they do not seem productive. They may not feel useful in the moment, but eventually they even help us arrive at more realistically scaled versions of our ideas. 
 
 Try not to dismiss ideas before they get off the ground. Everything is connected. Knowing how 'way leads on to way', the tiny tangents always connect back to the big issues, and the impossible pursuits have a way of revealing practical applications when pursued.
 
@@ -924,7 +920,7 @@ Try this activity with a partner and talk through your answers together. You mig
 "It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
 {: .quote }
 
-—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 Whatever rituals and habits you create, create them *together*. This is essential. Ideally you develop these over time, through feedback and informal habits and through formal work on community agreements and mission. How you choose to move as a group should be collaborations, ways of building trust with one another. As in dance, and all forms of attunement, we respond to each others movements in space, from the way we hold our bodies to the way we open ourselves up (or don't). And we learn what to trust and to expect by what is repeated and what is dynamic. 
@@ -979,7 +975,7 @@ The time we offer each other matters. Sharing it with our active and equal atten
 "It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
 {: .quote }
 
--Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+-Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
 ### Believe in snacks
@@ -989,19 +985,19 @@ Seriously, snacks are essential. Without fail, when I asked what makes our commu
 "While this is a cliche food has always brought people together. Snacking together in the basement brought out some of the best discussions and ideas I have entertained in college." 
 {: .quote }
 
-—Ada Toydemir, they/them, MS Computer Science, USC
+—Ada Toydemir, they/them, USC Computer Science
 {: .quote .attrib }
 
 "I think the snacks were definitely a big draw in the beginning. They would still be now, except for COVID."
 {: .quote }
 
-–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+-Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
 "I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it levels the playing field, and it kind of brings a sense of equality. That's important."
 {: .quote }
 
-–Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 Look for snacks that are computer keyboard friendly – nothing too sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-than-healthful. Throw in a few apples, I guess? Single-serving items that avoid much plastic wrapping are ideal: popcorn, pretzels, gummies, satsuma oranges. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
@@ -1149,7 +1145,7 @@ Consider who you are citing. Do you always reference the same five authors and c
 "It's made me more curious about not just the code in the project itself, but also the process. [...] All the technology that we built comes from a person or a bunch of people and they went on a journey to get there, and that journey is inherently very interesting."
 {: .quote }
 
-–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+-Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
 In the Resource Hub and in our projects, we emphasize open-source and open-access tools. We highlight shareable, accessible, adaptable, minimal tools that don't hide how they work. Such tools match the way we like to reflect critically on what we are creating and to understand the world around us. 
@@ -1214,7 +1210,7 @@ Building community spaces for coding that focus on care first will allow coding 
 "The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
 {: .quote }
 
--Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+-Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
 How can we be together in ways that don't feel protracted and forced? 
@@ -1244,7 +1240,7 @@ Look after each other, ask after one another.
 "I love the people in CCC more than anything else. While I am sure other creative coders can be cool people too, this group of people inspires and motivates me to put in the time necessary to make my best work."
 {: .quote }
 
-–Ada Toydemir, they/them, MS Computer Science, USC
+–Ada Toydemir, they/them, USC Computer Science
 {: .quote .attrib }
 
 ### Make to inquire
@@ -1314,13 +1310,13 @@ Still we want to find openings for others to enter, [...]
 
 "I'd love to see this outside of the university setting. I wish this existed for urban professionals. I feel like not all of my Silicon Valley friends would partake in something like this, because they're so burnt out on code. But I'm sure there's a lot of people that are still wanting to have this conversation."
 
-—Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
+—Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 "It's small and tight, and we have a bunch of regulars. but I also feel like maybe there are other people out there who were not reaching who might be interested or where we can like the community, would benefit from having them as well, we're even like not just individuals. like other organizations like, I think, the a student assembly for accessibility with having some discussions about technological accessibility."
 {: .quote }
 
-–Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
+-Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
 <div class="play-along box" markdown="1">

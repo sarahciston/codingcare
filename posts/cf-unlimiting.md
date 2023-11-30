@@ -1,14 +1,12 @@
 ---
-# layout: post
+layout: post
 # permalink: 
-title: "codes for un/limiting"
+title: codes for un/limiting
 nav_order: 4
 date: 02.11.2023
 tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 # bibliography: ['includes/bibliography.bib']
 ---
-
-{% include zine.md %}
 
 <!-- boundaries/limits as deflection points, where do they bounce off to? (ingold on walls and Flusser 29) (Sichong's sails-->
 
