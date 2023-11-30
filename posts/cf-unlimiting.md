@@ -1,7 +1,7 @@
 ---
 # layout: post
 # permalink: 
-title: codes for un-limiting
+title: codes for [un]limiting
 nav_order: 4
 date: 02.11.2023
 tags: ["interstitial", "broken machines", "queer use", "platforms" ]
@@ -12,7 +12,7 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 
 <!-- broken machines? queer use, platforms,  -->
 
-# Codes for Un/Limiting (Dis/Appearing)
+# Codes for [Un]Limiting (Dis/Appearing)
 
 ### Isolation, Perfection, Scratching at the Walls
 
