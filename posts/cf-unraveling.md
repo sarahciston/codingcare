@@ -5,6 +5,7 @@ nav_order: 5
 date: 02.11.2023
 ---
 
+{% include zine.md %}
 
 <!-- threads, lines, threaded systems. mourning, fraying-->
 <!-- threaded networks: embodied codes for weaving new worlds -->

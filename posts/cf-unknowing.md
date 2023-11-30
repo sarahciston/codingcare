@@ -5,6 +5,8 @@ nav_order: 11
 date: 02.11.2023
 ---
 
+{% include zine.md %}
+
 <!-- platforms, essaying, code obscura. saving protecting hiding helping hearing healing -->
 
 # Codes for (Un)Knowing

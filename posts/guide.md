@@ -7,14 +7,12 @@ date: 27.09.2023
 tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
-[//]: # "TK: JAVASCRIPT STARTER PACK *zettlekasten*"
+{% include zine.md %}
 
 # Coding Care: Field notes for making friends with code
 {:.no_toc}
 
-[//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities"
-
-[//]: # "guide book / field notes / pocket guide"
+[//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities // guide book / field notes / pocket guide"
 
 * toclist
 {:toc}
@@ -124,7 +122,7 @@ It is not one gesture or one moment, but their accumulation. Each thing we have 
 
 ### Man(ifest)ual (manualifesto) & what this pocket guide isn't
 
-This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says, "a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world"[@hedvaWhyItTaking] – yet here I document what we've actually put in the world, alongside what we hope to. Code Collective exists because I believe it is incredibly easy to have communities like this, and I am not the only one. Like code itself, and Code Collective, this guide strives to bring the "impossible" into the "real world" now – as a proposition toward how it can be entirely possible, present, liveable, and thriving. Anarchists call this "prefiguration" but we can just call it fun. And so the pocket guide exists somewhere between a manifesto and a manual. Make of it what you will; I hope you do!
+This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says, "a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world" [@hedvaWhyItTaking2022] – yet here I document what we've actually put in the world, alongside what we hope to. Code Collective exists because I believe it is incredibly easy to have communities like this, and I am not the only one. Like code itself, and Code Collective, this guide strives to bring the "impossible" into the "real world" now – as a proposition toward how it can be entirely possible, present, liveable, and thriving. Anarchists call this "prefiguration" but we can just call it fun. And so the pocket guide exists somewhere between a manifesto and a manual. Make of it what you will; I hope you do!
 
 [Back to top](#top)
 
@@ -346,11 +344,13 @@ How do we learn how to learn? We tinker and stretch a bit — whether in breadth
 
 ### Plan to unplan, plan to be awkward
 
+<p class="quote" markdown=1>
 "I do not expect students to take any risks that I would not take, to share in any way that I would not share."
-{: .quote }
+</p>
 
-–bell hooks [–@hooksTeachingTransgressEducation1994]
-{: .quote .attrib }
+<p class="quote attrib" markdown=1>
+–bell hooks [@hooksTeachingTransgressEducation1994]
+</p>
 
 Even, and especially, as leaders and teachers we must get vulnerable about our craft. Our bravery makes space for others to be brave. We can connect with each other around areas of concern, taking comfort that someone else has already worried the very same thing. Rather than showing a veneer of know-it-all authority (which is often quite thin), sets up both a one-directional hierarchy of exchange and an impossible standard for students other community members to meet. It shows them a person who "already knows" but it doesn't show them how to get there. 
 
@@ -377,6 +377,7 @@ So-called stupid questions help us all unpack what we consider assumed knowledge
 "Just talking through your problems with somebody else always helps you get a better understanding what you're trying to do. But then also, other people will have different perspectives. Also just having that space to work through it together, having the time to sit down and be like, 'Okay, step one step two. Let me write these lines of code.' And then getting to different steps and going on the journey together. I feel like that's a really rewarding process that we go through." 
 {: .quote }
 
+<p class="quote attrib" markdown=1>
 –Katherine Yang, she/her, BA Media Arts + Practice, Minor Linguistics, Minor Computer Science, USC
 {: .quote .attrib }
 
@@ -391,7 +392,8 @@ Sharing our struggles helps us solve them. In Code Collective, we do a lot of te
 "highlight mistakes just as much as successes, rather than hide them. it is important for people who are new to programming to see people making mistakes, if they think everything works first time they will think they are not good enough and give up." 
 {: .quote }
 
-–annatito, Critical Code Studies Working Group 2022@titoWeekP5Js2022
+<p class="quote attrib" markdown=1>
+–annatito, Critical Code Studies Working Group 2022 [@titoWeekP5Js2022]
 {: .quote .attrib }
 
 **Highlighting** mistakes is not about focusing on the negative; it brings our problems out of the shadows and removes the shame. Our mistakes connect us with each other. They show us we're not the first to encounter this issue,[^first] and they also show us we're not alone with the experience of facing coding challenges. Being vulnerable makes us stronger and brings us closer. 
@@ -405,16 +407,22 @@ When we are together and witness each other struggle, that commonality reveals l
 "I loved editing that Three.js[^threejs] scene with Ada. I love being able to have group input. Before I was trying to communicate Three.js knowledge, and I've been struggling to get it out of my head. But, for some reason, seeing it in the group setting, it was a really fulfilling experience — like a teaching moment where I could communicate a lot of knowledge in a short amount of time."
 {: .quote }
 
+<p class="quote attrib" markdown=1>
 —Samir Ghosh, they/them, PhD student, UC Santa Cruz; former assistant director, USC Ahmanson Lab
-{: .quote .attrib }
+</p>
+<!-- {: .quote .attrib } -->
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
 
+<p class="quote" markdown=1>
 "The constant state of exposure – and along with it, a sustained vulnerability – is enabled only through constant and meticulous practices of documentation. Far from covering up our bugs, we [hackers] openly acknowledge and even explain them. We don't hide problems. The virtue of transparency is that it makes actions accountable." 
-{: .quote }
+</p>
+<!-- {: .quote } -->
 
+<p class="quote attrib" markdown=1>
 –Anja Groten, Hacking & Designing: Paradoxes of Collaborative Practice" in [@bogersCriticalMakersReader2019]
-{: .quote .attrib }
+</p>
+<!-- {: .quote .attrib } -->
 
 [//]: # "[XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?]"
 
@@ -448,11 +456,15 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 Don't be afraid to get weird together. 
 
+<p class="quote" markdown=1>
 "Pranking an AI—giving it a task and watching it fail—is a great way to learn about it"[^shane] 
-{: .quote }
+</p>
+<!-- {: .quote } -->
 
+<p class="quote attrib" markdown=1>
 –Janelle Shane, *You Look Like a Thing and I love You*
-{: .quote .attrib }
+</p>
+<!-- {: .quote .attrib } -->
 
 My own personal artistic mantra is to "move toward the weird." In my practice, how I follow my interests and push my research forward is find the most strange, uncanny, uncomfortable aspects of whatever I'm working on. If something makes me cringe, that's a place to explore (within limits of course). Rather than research questions I can test and answer with hypotheses, I'm interested in the *research tensions* I know I won't solve but keep bugging me in a visceral way. In my case, it has included the discomfiting way technologies insinuate themselves into our intimate experiences (what I call "creepvenience"), through things like personal data tracking, or the way machine learning systems carry with them the residues of their training data language into their outputs. It has included filming myself and tracking myself, because I am super uncomfortable both of those and they feel weird but interesting. What would be your strange but fascinating thing? How do you like to get weird?
 
@@ -1347,13 +1359,13 @@ TBD
 
 [//]: # "[XXXadd source] mark's critical code studies & our fork book"
 
+[//]: # "TK: **JAVASCRIPT STARTER PACK** *zettlekasten*"
+
+
 <!-- [How to Fork a Book](https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c) by Sarah Ciston and Mark C. Marino , we talk about a "yes, and" ethos and add "Code Confessions" and "Code Commentaries." "Code Confessions reflect on our experiences starting to learn to program, while Code Commentaries do critical close-readings of source code, an approach that comes from the Critical Code Studies discipline. Code Confessions are opportunities to further humanize the process of writing code by talking about our embodied, emotional encounters with the process of programming: How it felt to work on this code or to encounter the same issues readers might during their practice. Meanwhile, Code Commentaries are opportunities to pursue the methods of Critical Code Studies by interpreting the meaning of the code on the page, line by line."   "we model how we as programmers feel about our own code. Extending the concept of comments in code, we take the opportunity to discuss the affective relationship to the journey that is programming, admitting to mistakes and acknowledging fears. These sections personalize the approach and dismantle the authoritarian hierarchy or boundary between knowledge “holder” and knowledge “seeker.” This aspect was essential to emphasize the ways we learn in community, revealing that the teacher programmer didn’t always know what they’re doing and may still find their way with a beginner’s mindset. The code confessions sections are expressions of humility in an effort to further welcome the newcomer. They stand opposed to encoded chauvinism, or the toxic brogrammer culture that can be so off-putting to new programmers, especially those who come from outside the dominant culture."-->
 
 
-<!-- "AI systems are built with the logics of capital, policing, and militarization—and this combination further widens the existing asymmetries of power. These ways of seeing depend on the twin moves of abstraction and extraction: abstracting away the material conditions of their making while extracting more information and resources from those least able to resist. But these logics can be challenged, just as systems that perpetuate oppression can be rejected."
-Kate Crawford, *The Atlas of AI*
-
-"have things as major steps then under each major step is all the sub steps and any gotcha’s or possible errors" annatito, Critical Code Studies Working Group 2022 -->
+<!--"have things as major steps then under each major step is all the sub steps and any gotcha’s or possible errors" annatito, Critical Code Studies Working Group 2022 -->
 
 
 <!-- # **The Coding Care Zine**

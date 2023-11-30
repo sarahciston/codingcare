@@ -43,42 +43,51 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Trans*formative TechnoCraft
 
-To build safer, more
-
 ## Creative–Critical–Care Entanglements
 
 Trans*formative TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
 
->"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." 
->>—Ursula M. Franklin ([@franklinRealWorldTechnology2004])
+<p class="quote" markdown=1>
+"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." 
+</p>
+<p class="quote attrib" markdown=1>
+—Ursula M. Franklin [-@franklinRealWorldTechnology2004]
+</p>
 
 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when <span class="purple">learning programming is so often intimidating and riddled with false starts,</span> which can further marginalize those whose perspectives are most necessary in order to face the challenges technoculture presents. 
 
 ### We Need Intersectional Critical AI 
 
->"I’m stuck here inputting and outputting the data of a story I can’t change." 
->>(Italo Calvino "The Burning of the Abominable House" 1976, trans. 1995)
+<p class="quote" markdown=1>
+"I’m stuck here inputting and outputting the data of a story I can’t change." 
+</p>
+<p class="quote attrib" markdown=1>
+–Italo Calvino "The Burning of the Abominable House," 1976
+</p>
 
 With every hype, the anti-hype: 
 
->"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'." 
->>(Frieder Nake 1971) 
+<p class="quote" markdown=1>
+"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
+</p>
+<p class="quote attrib" markdown=1>
+–Frieder Nake, "There Should Be No Computer Art," 1971
+</p>
 
 Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individual white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. 
 
+Automated decision-making systems disproportionately harm the marginalized majority. We are subject to it whenever we lend our data by clicking terms of service pop-ups to make them go away and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our vulnerability in these moments is exploited and profited on — from testing biometric facial technologies in refugee camps [@neddenBiometrieGetestetMillionen2017] to reinforcement learning reliant on AI chatbot user responses. Many amazing researchers have highlighted the increasing impacts of AI systems and surveillance capitalism [@benderDangersStochasticParrots2021; @benjaminRaceTechnologyAbolitionist2019; @buolamwiniGenderShadesIntersectional2018; @browneDarkMattersSurveillance2015; @gebruDrTimnitGebru2021; @nobleAlgorithmsOppressionHow2018]. 
+
 AI hype describes machine learning systems as impenetrable black boxes. It designs the interfaces with which we engage its tools, it claims the proprietary restrictions that hide its data (our data), and it influences the regulations that keep its power in the hands of a select few. We only break out of those boxes when we refuse to engage on those terms. 
 
-Kate Crawford argues that computational "ways of seeing depend on the twin moves of abstraction and extraction. But these logics can be challenged, just as systems that perpetuate oppression can be rejected."
+"Artificial intelligence uses classification to encode power," says critical AI researcher Kate Crawford. She argues that computational "ways of seeing depend on the twin moves of abstraction and extraction. But these logics can be challenged, just as systems that perpetuate oppression can be rejected" [-@crawfordAtlasAIPower2021].
 
->"We can easily forget that the classifications that are casually chosen to shape a technical system can play a dynamic role in shaping the social and material world. [Crawford-AtlasofAI128]
->"The tendency to focus on the issue of bias in artificial intelligence has drawn us away from assessing the core practices of classification in AI, along with their attendant politics." [Crawford-AtlasofAI128]
->"artificial intelligence uses classification to encode power" [Crawford-AtlasofAI]
-
-Automated decision-making systems disproportionately harm the marginalized majority. We are subject to it whenever we lend our data by clicking terms of service pop-ups to make them go away and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our vulnerability in these moments is exploited and profited on — from testing biometric facial technologies in refugee camps [@neddenBiometrieGetestetMillionen2017] to reinforcement learning reliant on AI chatbot user responses. Many amazing researchers have highlighted the increasing impacts of AI systems and surveillance capitalism [footnote cite Browne, Gebru, et al]. 
+<!-- >"We can easily forget that the classifications that are casually chosen to shape a technical system can play a dynamic role in shaping the social and material world. [@crawfordAtlasAIPower2021] -->
+<!-- >"The tendency to focus on the issue of bias in artificial intelligence has drawn us away from assessing the core practices of classification in AI, along with their attendant politics." [@crawfordAtlasAIPower2021] -->
 
 The task of Critical AI researchers and makers is to engage these systems as sociotechncial objects embedded in their historical, social, context. We must be "situated in proximity to the thing itself, cultivating some degree of participatory and embodied expertise, whether archival, ethnographic, or applied (Raley & Rhee, 2022 [@raleyCriticalAIField2023]). This requires interdisciplinary and intersectional perspectives. 
 
-Kimberlé Crenshaw's iconic analysis of power, called Intersectionality,[@crenshawDemarginalizingIntersectionRace1989] "critiques systems of power and how those systems structure themselves to impact groups and individuals unequally." [@cooperIntersectionality2016] 
+Kimberlé Crenshaw's iconic analysis of power, called Intersectionality[@crenshawDemarginalizingIntersectionRace1989], "critiques systems of power and how those systems structure themselves to impact groups and individuals unequally" [@cooperIntersectionality2016]. 
 
 Intersectionality can reveal the human costs of finding ourselves caught within these algorithmic systems – their proliferating data and supporting material infrastructures, as well as their consolidating power and supporting sociocultural infrastructures. Their power is differential by design. Conversations about AI fairness, transparency, explainability, ethics, public good, and the various hype cycles of each new technology are grossly incomplete without intersectional analyses of power and intersectional tactics of (and beyond) equity and inclusion. No change *about* us *without* us. 
 
@@ -90,9 +99,7 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions? 
 
-Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins, who are most capable of addressing the urgent issues facing technology. These concerns are not new, nor strictly digital. They have been addressed by a wide range of communities with different types of knowledge for centuries. Many are calling for that knowledge to be applied here. [cite][indigenous, queer, other applications of AI]
-
-Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations. [cite][Vee, Abbate, Hicks] 
+Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins, who are most capable of addressing the urgent issues facing technology. These concerns are not new, nor strictly digital. They have been addressed by a wide range of communities with different types of knowledge for centuries. Many are calling urgently for Indigenous [@CAREPrinciplesIndigenousa; @INDIGENOUSAI; @NewVisionArtificial; @escofferyAncestralIntelligenceAI2023], antiracist [], antiableist [], decolonialist [], neurodiverse [], queer [], intersectional [], and other knowledge systems to be applied to AI and emergent technologies. Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations [cite][Vee, Abbate, Hicks]. 
 
 How do we reunite? 
 
@@ -180,7 +187,7 @@ DH: not about diversity in tech directly, aim at broader social goals of [e.g. d
 <!-- Agentic Design & Generative Justice, Audrey Bennett, Ron Elgash-->
 
 Marino, code is collaborative:
->"Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally." @marinoCriticalCodeStudies2020a
+>"Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally." [@marinoCriticalCodeStudies2020a]
 
 ## What Is Trans\*formative TechnoCraft?
 

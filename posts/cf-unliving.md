@@ -5,6 +5,8 @@ nav_order: 12
 date: 02.11.2023
 ---
 
+{% include zine.md %}
+
 <!-- null, queer use, throbber, waiting for something to happen, platforms, queering, communing, desiring, ecstatic codes, -->
 <!-- knots instead of threads, threnodies -->
 <!-- data bodies, drone aesthetics, interpolated and interpellated states -->
