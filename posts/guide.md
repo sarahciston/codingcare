@@ -1277,34 +1277,27 @@ From my experience initiating Code Collective, when I was wishing for a communit
 
 ### Start with the essentials
 
-What are the building blocks or the core components of a community like this one? What are the minimum foundations needed to support the space, to let people grow their craft in their own way and to flexibly flourish? 
+What are the building blocks or the core components of a community like this one? What are the minimum foundations needed to support the space, to let people grow their craft in their own way, to let them flexibly flourish? 
 
-Some items we have considered, or intuitively incorporated:
+I have found an `adaptive learning mindset` to be more broadly essential than any other specific skill. Knowing how to (or rather, feeling permission to) pick up an unfamiliar tool, or find resources for a new project, or create a new tool if it does not exists, or pose questions critically and solve problems creatively — these are skills I can carry forward into absolutely any undertaking. 
 
-• `Steady cadence and rituals of gathering`
-• `Material care and physical resources`
-• `Inclusive, inquisitive, recursive approaches`
-• `Knowledge sharing hub and community identity`
+Maintaining that mindset can be supported by a few small, quick, and easy gestures that through repetition run deep and wide. Incorporate and adapt them intuitively or adopt your own:
 
-I have found this learning mindset to be more broadly essential than any other particular skill.
+* Steady cadence and rituals of gathering
+* Material care and basic physical resources
+* Inclusive, inquisitive, recursive approaches
+* Knowledge sharing hub and community identity
 
-//adaptive learning strategies—how to pick up an unfamiliar tool or find the right resources for a new project (or create one if it does not exist), how to pose questions critically and solve problems creatively. 
+Code Collective — as a community of people and as a practice of communing and coding — positions itself within an `ethics of coding care`. It is grounded by shared embodied knowledge, embedded co-creation, and programming with and for community. The essential material aspects that support this ethic, listed above, allow us to express those ethics through [the workings of the community and its outputs]. Here are some key components of an ethics of coding care as I see them.
 
-[This is what building communities through creative code has come to mean to me: /
-Those material aspects [support/embody] what I consider some of the key components of an `ethics of coding care`:/
- Here are some key components of an ethics of coding care as I see them:]
-
-// pluralism, participation, diversity and sustainability
+**Coding.Care values the...**
 
 * Scrappy: Imperfect, iterative, vulnerable. 
 * Collaborative: Co-teaching and co-learning, embedded and situated, accounting for hierarchy, with and for community.
-* Embodied: Meeting people where they are, with the material and experiences they have. 
+* Adaptive: Meeting people where they are, with the material and experiences they have. 
 * Entangled: Merging critical, theoretical, political stakes and vulnerable topics with material, technical chops and hands-on practices. Choosing and sharing tools that are ethically and conceptually grounded.
-* Adaptive: 
 
-
-// Code Collective positions itself within an ethics of coding care—grounded in shared embodied knowledge, embedded co-creation, and programming with and for community. 
-// As Annette Vee says, coding is now an essential literacy, even reshaping literacy itself [@veeCodingLiteracyHow2017]. This pocket guide calls for reaching beyond the limited literacy offered by a STEM paradigm that supposedly "anyone" can join. Rather, Coding.Care reimagines technoculture as TechnoCraft that truly anyone can understand, engage with, and intervene in. 
+This pocket guide has argued for technology communities that support pluralism, participation, and sustainability. As Annette Vee says, coding is now an essential literacy, even reshaping literacy itself [@veeCodingLiteracyHow2017]. I have seen how easy it is to reach beyond the limited literacies offered by existing tech cultures. *Coding Care* reimagines communities of TechnoCraft that truly anyone can engage and transform. 
 
 "Find out what the group wants to be, and give them opportunities to become that."
 {: .quote }
@@ -1312,13 +1305,21 @@ Those material aspects [support/embody] what I consider some of the key componen
 –adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
 {: .quote .attrib }
 
-### Let others help you grow 
+<div class="play-along box" markdown="1">
 
-[XXXtbd-samir]
+### PLAY ALONG: Write your values, imagine your community
 
-Our community is less about how it appears to outsiders than how it feels while inside it. , except in the sense of inviting folks in. 
+TBD
 
-Still we want to find openings for others to enter, [...]
+</div>
+
+## Code/a: Let others help you grow 
+
+[XXXtbd-samir-on-new-chapter-at-santa-cruz]
+
+Our community is less about how it appears to outsiders than how it feels while inside it. , except in the sense of inviting folks in. Still we want to find openings for others to enter, [...]
+
+New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 
 "I'd love to see this outside of the university setting. I wish this existed for urban professionals. I feel like not all of my Silicon Valley friends would partake in something like this, because they're so burnt out on code. But I'm sure there's a lot of people that are still wanting to have this conversation."
 
@@ -1331,13 +1332,6 @@ Still we want to find openings for others to enter, [...]
 -Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
-<div class="play-along box" markdown="1">
-
-### PLAY ALONG: Write your values, imagine your community
-
-TBD
-
-</div>
 
 ## [PROJECT SHOWCASE](https://creativecodecollective.com/showcase) 
 
