@@ -1,8 +1,8 @@
 ---
 layout: post
-title: codes for un/living
+title: codes for un-living
 nav_order: 12
-date: 02.11.2023
+date: 22.11.2023
 ---
 
 <!-- null, queer use, throbber, waiting for something to happen, platforms, queering, communing, desiring, ecstatic codes, -->
