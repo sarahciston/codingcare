@@ -124,7 +124,7 @@ h4 {
   border-style: dashed;
   border-color: mediumslateblue;
   padding: 10px;
-  // margin-bottom: 15px;
+  margin-bottom: 15px;
   font-size: 0.8em;
   // float: right;
   padding: 7px;
@@ -192,12 +192,10 @@ h4 {
     position: relative;
   }
 
-  [id^="fn:"] {
-    color: mediumslateblue;
-    float: right !important;
-    font-size: 2em;
-  }
-  
+  // [id^="fn:"] {
+  //   color: mediumslateblue;
+  //   // float: right !important;
+  // }
   // [id^="fnref:"]{}
 
   // .sidenote,
