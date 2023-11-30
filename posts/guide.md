@@ -112,7 +112,7 @@ It is not one gesture or one moment, but their accumulation. Each thing we have 
 
 This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says, "a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world" [@hedvaWhyItTaking2022] – yet here I document what we've actually put in the world, alongside what we hope to. Code Collective exists because I believe it is incredibly easy to have communities like this, and I am not the only one. Like code itself, and Code Collective, this guide strives to bring the "impossible" into the "real world" now – as a proposition toward how it can be entirely possible, present, liveable, and thriving. Anarchists call this "prefiguration" but we can just call it fun. And so the pocket guide exists somewhere between a manifesto and a manual. Make of it what you will; I hope you do!
 
-[Back to top](#top)
+[Table of Contents](#top)
 
 ## 1. We create who we are together
 
@@ -183,13 +183,37 @@ Through this process of communication and collaboration among the group members 
 –[@mcconnellCodeComplete2004]
 {: .quote .attrib }
 
+[Table of Contents](#top)
+
 <div class="play-along box" markdown="1">
 
-### PLAY ALONG: TBD
+### PLAY ALONG: Break this code
+
+One of the best ways to get started with learning a new aspect of programming is to take someone else's example code and learn how it's working by changing things — just little things to start. What happens if I make this a different color or run it at a different speed? How does it show up on screen? Then break big things — use it for different purposes, combine it with other code. 
+
+Find some example code for a website you like by right clicking on any part of it in your web browser and hitting `Inspect`. 
+
+You should see some windows appear that show the HTML and CSS source code for the site, where you can temporarily and without fear modify the site as you wish. Give yourself a fun mini challenge. The HTML puts items on the screen. The CSS styles those items in different shapes, colors, fonts. 
+
+For example: What if a national newspaper had a purple background? Or a different headline. 
+
+* Pick an aspect of the page you'd like to change, like the background and right click on it. 
+* Go to the CSS area that opened when you hit inspect. When you hover over the section with your mouse, checkboxes will appear next to terms like `margin` and `padding` and `font`, for example.  
+* Find `background` or `background-color:` and change what follows it to say `purple`. 
+
+How about a different headline?
+
+* Try right clicking on a headline you'd like to change and hitting inspect again. 
+* Find the HTML panel that opened when you hit inspect. Depending on your browser, it's usually on the left by default, maybe on top. You should see the specific line of HTML that created the headline you see in your browser.
+* If you change the text of the headline in the HTML, it will also change in your browser. Try it!
+
+What other experiments with CSS and HTML might you try? What can you learn using this method about how the site you chose was built? 
+
+This is a very aesthetic and web-based example, but you can imagine taking this approach to any tutorial or example you see. 
+
+Retype it, learn how it works, break it for fun or for your own purposes.
 
 </div>
-
-[Back to top](#top)
 
 ## 2. We get scrappy
 
@@ -228,36 +252,6 @@ Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't wo
 
 *See also [Critical tinkering](#Critical-tinkering)*
 
-<div class="play-along box" markdown="1">
-
-### PLAY ALONG: Break this code
-
-One of the best ways to get started with learning a new aspect of programming is to take someone else's example code and learn how it's working by changing things — just little things to start. What happens if I make this a different color or run it at a different speed? How does it show up on screen? Then break big things — use it for different purposes, combine it with other code. 
-
-Find some example code for a website you like by right clicking on any part of it in your web browser and hitting `Inspect`. 
-
-You should see some windows appear that show the HTML and CSS source code for the site, where you can temporarily and without fear modify the site as you wish. Give yourself a fun mini challenge. The HTML puts items on the screen. The CSS styles those items in different shapes, colors, fonts. 
-
-For example: What if a national newspaper had a purple background? Or a different headline. 
-
-* Pick an aspect of the page you'd like to change, like the background and right click on it. 
-* Go to the CSS area that opened when you hit inspect. When you hover over the section with your mouse, checkboxes will appear next to terms like `margin` and `padding` and `font`, for example.  
-* Find `background` or `background-color:` and change what follows it to say `purple`. 
-
-How about a different headline?
-
-* Try right clicking on a headline you'd like to change and hitting inspect again. 
-* Find the HTML panel that opened when you hit inspect. Depending on your browser, it's usually on the left by default, maybe on top. You should see the specific line of HTML that created the headline you see in your browser.
-* If you change the text of the headline in the HTML, it will also change in your browser. Try it!
-
-What other experiments with CSS and HTML might you try? What can you learn using this method about how the site you chose was built? 
-
-This is a very aesthetic and web-based example, but you can imagine taking this approach to any tutorial or example you see. 
-
-Retype it, learn how it works, break it for fun or for your own purposes.
-
-</div>
-
 ### Build stuff
 
 Breaking stuff beautifully leads to building new stuff. 
@@ -277,27 +271,6 @@ Find an example that looks enough like what you imagine to extrapolate. When you
 Try asking with new language, asking a friend with a different background, asking with hands in the dirt, asking while tinkering on another project in another medium, asking while doodling or napping. Take breaks, but keep asking until answers circle back. Write it out on paper, draw it, sing it, dance it out. 
 
 *Persistence is a rhythm not a slog.*
-
-<div class="box live-code" markdown="1">
-
-### LIVE CODE: Go slow, be of service
-
-I have learned from many communities building transfeminist infrastructures that slow and embodied and connected "art that surfaces the hitherto invisible labor of service, care, and maintenance" has a place in coding communities as both a practical tool and a critique of institutions.[^Kleesattel] By modeling slower, more communal practices around these essential services, community and transfeminist server networks and collectives like Constant, Lurk, Rosa, [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html)[XXXmakelinks], and others [XXX add Argentine servers] show how the maintenance of tools and materials (whether for internet services or any mutual aid) are essential forms of labor that can express power differently [XXXexplain/unpack?]. They can be careful and caring, or they can be consolidating and constrictive. They ask us to think about the precarious bodies (individual and connected) that rely on them. "A Wishlist for Trans\*feminist Servers" (continuously updated and retitled since 2014), lays out some of the objectives of this kind of caring codework. Trans\*feminist Servers...
-
->"... radically question the conditions for serving and service; they experiment with changing client-server, user-device and guest-host-ghost relations where they can. Who is serving whom? Who is serving what? What is serving whom? Are they being served?"
-
->"... do not serve every body; they continuously re-negotiate what counts as accessible. They respond to the fluctuating abilities, embodied knowledges and genealogies of their care-takers and users."
-
->"... reject generalized definitions of efficiency, efficacy, ease-of-use, transparency, scalability, accessibility, inclusion, optimization and immediacy because they are often traps."
-
->>– ["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) @WishlistTransFeminist
-
-[^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021
-{:.sidenote}
-
-Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
-
-</div>
 
 ### Get sticky, listen to materials
 
@@ -346,7 +319,28 @@ Who wrote the code? When and why? In what language was the code written? What pr
 
 Fundamentally, even if you're not looking for deeper meanings in the code, actually *for-real reading* the code you encounter can help you learn to code better than almost anything else. It may seem tedious, but: Type out the examples you use, rather than copying and pasting them. Follow along with your finger on the page as the functions return to different sections and the loops re-loop. This act of readind "runs the code" in your mind, so that you can truly understand what is happening on the screen when you write all those brackets and semi-colons. Once you understand that, you can begin to ask questions about the implications of each way of writing — knowing there's no one way, no "right" way, to write code.
 
-[Back to top](#top)
+[Table of Contents](#top)
+
+<div class="box live-code" markdown="1">
+
+### LIVE CODE: Go slow, be of service
+
+I have learned from many communities building transfeminist infrastructures that slow and embodied and connected "art that surfaces the hitherto invisible labor of service, care, and maintenance" has a place in coding communities as both a practical tool and a critique of institutions.[^Kleesattel] By modeling slower, more communal practices around these essential services, community and transfeminist server networks and collectives like Constant, Lurk, Rosa, [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html)[XXXmakelinks], and others [XXX add Argentine servers] show how the maintenance of tools and materials (whether for internet services or any mutual aid) are essential forms of labor that can express power differently [XXXexplain/unpack?]. They can be careful and caring, or they can be consolidating and constrictive. They ask us to think about the precarious bodies (individual and connected) that rely on them. "A Wishlist for Trans\*feminist Servers" (continuously updated and retitled since 2014), lays out some of the objectives of this kind of caring codework. Trans\*feminist Servers...
+
+>"... radically question the conditions for serving and service; they experiment with changing client-server, user-device and guest-host-ghost relations where they can. Who is serving whom? Who is serving what? What is serving whom? Are they being served?"
+
+>"... do not serve every body; they continuously re-negotiate what counts as accessible. They respond to the fluctuating abilities, embodied knowledges and genealogies of their care-takers and users."
+
+>"... reject generalized definitions of efficiency, efficacy, ease-of-use, transparency, scalability, accessibility, inclusion, optimization and immediacy because they are often traps."
+
+>>– ["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) @WishlistTransFeminist
+
+[^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021
+{:.sidenote}
+
+Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
+
+</div>
 
 ## 3. We get vulnerable
 
@@ -446,6 +440,8 @@ For example, I am writing this pocket guide in a git repo (short for repository,
 
 We need more spaces that embrace and reflect the many different kinds of learning and ongoing forms of creation.
 
+[Table of Contents](#top)
+
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: Hello, old friend
@@ -518,15 +514,15 @@ Okay maybe not *mandated* but we like the approach of conferences like [bang ban
 —Ada Toydemir, they/them, MS Computer Science, USC
 {: .quote .attrib }
 
-[//]: # "cute terminal elsewhere?"
+[Table of Contents](#top)
+
+[//]: # "TO DO!!"
 
 <div class="box live-code" markdown="1">
 
 ### LIVE CODE: 
 
 </div>
-
-[Back to top](#top)
 
 ## 5. We all have skills to teach each other
 
@@ -632,6 +628,8 @@ This requires a bit of humbleness and "wayfinding" (exploring, birdwalking, path
 –Ada Toydemir, they/them, MS Computer Science, USC
 {: .quote .attrib }
 
+[Table of Contents](#top)
+
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: Pair wayfinding
@@ -640,13 +638,13 @@ In programming companies there is a concept called "pair programming," in which 
 
 </div>
 
+[//]: # "TO DO!!"
+
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: Code swap
 
 </div>
-
-[Back to top](#top)
 
 ## 6. We stay gelatinous 
 
@@ -816,13 +814,15 @@ Our format continues to prove wildly transformable to hold what we need it to, t
 
 By meeting each other where we are and valuing what each person can contribute to others' knowledge, we move toward better and more diverse computational systems, and more generous, generative communities.
 
+[Table of Contents](#top)
+
+[//]: # "TO DO!!--AMB exercise or cookbook?"
+
 <div class="box live-code" markdown="1">
 
-### LIVE CODE: TBD
+### LIVE CODE: 
 
 </div>
-
-[Back to top](#top)
 
 ## 7. We dream big (and small)
 
@@ -903,6 +903,8 @@ A critical engagement means asking "why not" as well as "why." "Why not?" in cri
 
 We don’t assume we *should* code something just because we can. Asking "Why Not" — in all its gleeful and critical forms — is just as important as asking "Why."
 
+[Table of Contents](#top)
+
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: Dreaming Wild Tangents
@@ -915,8 +917,6 @@ We don’t assume we *should* code something just because we can. Asking "Why No
 Try this activity with a partner and talk through your answers together. You might be able to offer each other leads on your next endeavor.
 
 </div>
-
-[Back to top](#top)
 
 ## 8. We create rituals
 
@@ -1045,6 +1045,10 @@ When we were faced with formalizing into an organization with officers and insti
 
 I have learned that, `when I hold my pedagogy and my programming more loosely, they both become more pleasurable.`
 
+[Table of Contents](#top)
+
+[//]: # "TO DO!!"
+
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
@@ -1052,12 +1056,6 @@ I have learned that, `when I hold my pedagogy and my programming more loosely, t
 [XXX] "code of conduct exercise? exists as community imagining idea in part 10"
 
 </div>
-
-<!--- // #### (brave spaces w Sultan?) --->
-
-<!--- Since Zoom Doom, we've been looking for ways to recreate the unique environment we'd built in person using (or building) other a/synchronous tools.  --->
-
-[Back to top](#top)
 
 ## 9. We share resources
 
@@ -1177,13 +1175,15 @@ Some open source projects we love:
 
 * [XXXLIST]
 
+[Table of Contents](#top)
+
+[//]: # "TO DO!!"
+
 <div class="play-along box" markdown="1">
 
 ### PLAY ALONG: TBD
 
 </div>
-
-[Back to top](#top)
 
 ## 10. We encode values
 
@@ -1305,9 +1305,11 @@ This pocket guide has argued for technology communities that support pluralism, 
 –adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
 {: .quote .attrib }
 
+[Table of Contents](#top)
+
 <div class="play-along box" markdown="1">
 
-### PLAY ALONG: Write your values, imagine your community
+### LIVE CODE: Write your values, imagine your community
 
 TBD
 
@@ -1332,6 +1334,9 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 -Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
 {: .quote .attrib }
 
+[Table of Contents](#top)
+
+[//]: # "TO DO!!"
 
 ## [PROJECT SHOWCASE](https://creativecodecollective.com/showcase) 
 
@@ -1351,33 +1356,33 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 
 ### [Read more...](references)
 
-[//]: # "[XXXadd sketching?] [@ImportanceSketchingCode2023]"
+# "[XXXadd sketching?] [@ImportanceSketchingCode2023]"
 
-[//]: # "[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) [@shihCriticalCodingCookbook]"
+# "[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) [@shihCriticalCodingCookbook]"
 
-[//]: # "[XXXadd source] TEX: Teaching with Text Generation Technologies [@veeTextGenEdTeachingText2023] Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schnitzler, C. (Eds.) (2023). TextGenEd: Teaching with Text Generation Technologies. The WAC Clearinghouse. @veeTextGenEdTeachingText2023"
+# "[XXXadd source] TEX: Teaching with Text Generation Technologies [@veeTextGenEdTeachingText2023] Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schnitzler, C. (Eds.) (2023). TextGenEd: Teaching with Text Generation Technologies. The WAC Clearinghouse. @veeTextGenEdTeachingText2023"
 
-[//]: # "[XXXadd source] Levin & Brain [Code as Creative Medium]() [@CodeCreativeMedium]"
+# "[XXXadd source] Levin & Brain [Code as Creative Medium]() [@CodeCreativeMedium]"
 
-[//]: # "[XXXadd source] Critical Makers Reader [@bogersCriticalMakersReader2019]"
+# "[XXXadd source] Critical Makers Reader [@bogersCriticalMakersReader2019]"
 
-[//]: # "that conference on connected learning from ??2020??"
+# "that conference on connected learning from ??2020??"
 
-[//]: # "[XXXadd source] [Critically Conscious Computing: Methods for Secondary Education](https://criticallyconsciouscomputing.org/) "
+# "[XXXadd source] [Critically Conscious Computing: Methods for Secondary Education](https://criticallyconsciouscomputing.org/) "
 
-[//]: # "[XXXadd source] code complete by steve mcconnell"
+# "[XXXadd source] code complete by steve mcconnell"
 
-[//]: # "[XXXadd source] computational mama"
+# "[XXXadd source] computational mama"
 
-[//]: # "[XXXadd source] zines from genderfail"
+# "[XXXadd source] zines from genderfail"
 
-[//]: # "[XXXadd source] craeft alexander langlands, pye the workmanship of risk/certainty in the nature and art of workmanship"
+# "[XXXadd source] craeft alexander langlands, pye the workmanship of risk/certainty in the nature and art of workmanship"
 
-[//]: # "[XXXadd source] knitting for anarchists, zandy peters knit boldly"
+# "[XXXadd source] knitting for anarchists, zandy peters knit boldly"
 
-[//]: # "[XXXadd source] mark's/our fork book"
+# "[XXXadd source] mark's/our fork book"
 
-[//]: # "TK: **JAVASCRIPT STARTER PACK** *zettlekasten*"
+# "TK: **JAVASCRIPT STARTER PACK** in my *zettlekasten*"
 
 
 <!-- [How to Fork a Book](https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c) by Sarah Ciston and Mark C. Marino , we talk about a "yes, and" ethos and add "Code Confessions" and "Code Commentaries." "Code Confessions reflect on our experiences starting to learn to program, while Code Commentaries do critical close-readings of source code, an approach that comes from the Critical Code Studies discipline. Code Confessions are opportunities to further humanize the process of writing code by talking about our embodied, emotional encounters with the process of programming: How it felt to work on this code or to encounter the same issues readers might during their practice. Meanwhile, Code Commentaries are opportunities to pursue the methods of Critical Code Studies by interpreting the meaning of the code on the page, line by line."   "we model how we as programmers feel about our own code. Extending the concept of comments in code, we take the opportunity to discuss the affective relationship to the journey that is programming, admitting to mistakes and acknowledging fears. These sections personalize the approach and dismantle the authoritarian hierarchy or boundary between knowledge “holder” and knowledge “seeker.” This aspect was essential to emphasize the ways we learn in community, revealing that the teacher programmer didn’t always know what they’re doing and may still find their way with a beginner’s mindset. The code confessions sections are expressions of humility in an effort to further welcome the newcomer. They stand opposed to encoded chauvinism, or the toxic brogrammer culture that can be so off-putting to new programmers, especially those who come from outside the dominant culture."-->
