@@ -36,8 +36,16 @@ Consisting of new datasets, new models, and new technical and artistic practices
 ## *Giant machine learning tools grab data indiscriminately*
 ### Despite their totalizing approach, they still do a terrible job telling stories about people who don't fit their normalizing baselines.  
 
+<table markdown=1>
+<tr markdown=1>
+<td class="stat">74gb</td><td class="stat">590gb</td><td class="stat">825gb</td><td class="stat">4.9Tb</td><td class="stat"></td></tr>
+<tr>
+<td markdown=1>**Common Voice** {: .caption }</td><td markdown="1">**GPT-3** {: .caption }</td><td>**GPT-J/The Pile** {: .caption }</td><td>**WuDao 2.0** {: .caption }</td><td>
+</tr><tr>
+<td>85,825 voices publicly contributed open source {: .caption }</td><td>scraped social media sites: reddit, twitter, github, etc. {: .caption }</td><td>Colossal Clean Crawled Corpus, open-source web-scraping bot, other datasets {: .caption }</td><td>3 billion scraped Chinese websites, plus English academic & technical pages {: .caption }</td><td></tr>
+</table>
 
-| 74gb {: .stat-font } | 590gb {: .stat-font } | 825gb {: .stat-font } | 4.9Tb {: .stat-font } |
+| 74gb {: .stat } | 590gb {: .stat } | 825gb {: .stat } | 4.9Tb {: .stat } |
 | **Common Voice** {: .caption }| **GPT-3** {: .caption }| **GPT-J/The Pile** {: .caption }| **WuDao 2.0** {: .caption } |
 | 85,825 voices publicly contributed open source {: .caption } | scraped social media sites: reddit, twitter, github, etc. {: .caption } | Colossal Clean Crawled Corpus, open-source web-scraping bot, other datasets {: .caption } | 3 billion scraped Chinese websites, plus English academic & technical pages {: .caption } |
 

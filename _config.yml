@@ -28,6 +28,7 @@ links_new_tab: true
 markdown: kramdown
 kramdown:
   parse_block_html: true
+  parse_span_html: true
   toc_levels: "2"
 
 # how do i indicate other folders to include in jekyll conversion again

@@ -18,7 +18,7 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 "Any meeting or gathering is a place to practice the future together in the most tangible ways."
 {: .quote }
 
-– adrienne maree brown
+– adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
 {: .quote .attrib }
 
 ## 0. Welcome 
@@ -103,12 +103,6 @@ I am writing both as a representative of this community and also as an individua
 The heart of this book are ten principles that have emerged through gathering as Code Collective. They are simple tactics for anyone to employ in their own community practices — or adapt to suit them. Developing these tactics has been intuitive, iterative, and collaborative. They emerged out of desire and instinct. We have expanded and distilled these tactics influenced by other organizations, thinkers, makers, and more; and we have reshaped them continually as our group evolves. All recommendations in the book are intended to be descriptive, not prescriptive. Here's what has worked for us (and what hasn't). I invite you to embrace and adapt what works for you and leave the rest. And I am interested in how these tactics change in different circumstances, so if you find something that works better for you, I'd be excited to learn about it too! 
 
 Each of the guiding principles is paired with sections called `PLAY ALONG` – practical exercises you can try — and `LIVE CODE` — brief case studies from other communities of practice. Although Coding Care is a pocket guide, it also lives in large part online as a [`PROJECT SHOWCASE`](https://creativecodecollective.com/showcase) of active works by Code Collective Community members and as a vibrant [`RESOURCE HUB`](https://creativecodecollective.com/resource-hub), a database of tutorials, textbooks, projects, code libraries, zines, and all manner of things we have found useful.
-
-"Any meeting or gathering is a place to practice the future together in the most tangible ways" 
-{: .quote } 
-
-–adrienne maree brown [-@brownEmergentStrategy2017]
-{: .quote .attrib }
 
 Many of the things we do to sustain supportive communities seem too obvious to mention——or even worse, too obvious to notice — such that they aren't obvious *at all*. This guide is meant to remind me that these approaches matter, and to acknowledge how much they have supported me and others along the way. This guide celebrates those ephemeral things that make our caring coding community go. *It tries to describe our intuitive wayfinding about how to learn and teach and explore and be together, especially in and through the very things that both draw us in and also scare us, the things that feel both challenging and fun, frustrating and rewarding.*
 
@@ -218,8 +212,6 @@ I learned to use scrappy artistic strategies from my first computational arts te
 
 ### Critical breaking
 
-*See also [Critical tinkering](#Critical-tinkering)*
-
 If something exists, ask how it does. Ask if it should. Reverse engineer it. Run it backward. Learn from others' tutorials. Combine them. Modify them liberally. Pull from everywhere and remix wildly. Cite generously.
 
 This is part of what we mean by scrappy — thoughtfully or playfully experimenting with the properties and limits of your materials, whether those materials are strings of wool or strings of code. This kind of "breaking" things is an essential artistic practice, and it looks different in every situation. It can range from off-the-cuff experimentation – "What happens if I push this?" — to full-fledged tactical media artworks that operate by digital civil disobedience – like the collective Electronic Disturbance Theater, which created tools to shut down government websites by pinging them repeatedly (called "distributed denial of service").[cite] For my past projects, this has ranged from diving into technology spaces I dislike (Reddit forums), tinkering with combining wildly different APIs[^api], and putting poetry into machine learning systems meant for corporate use. 
@@ -233,6 +225,8 @@ Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't wo
 
 –Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
+
+*See also [Critical tinkering](#Critical-tinkering)*
 
 <div class="play-along box" markdown="1">
 
@@ -345,7 +339,7 @@ Researcher Mark Marino, who helped develop the field of Critical Code Studies, s
 <p class="quote" markdown=1>
 Who wrote the code? When and why? In what language was the code written? What programming paradigm was used? Was it written for a particular platform (hardware or software)? How did the code change over time? What material or social constraints impacted the creation of this code? How does this code respond to the context in which it was created? How was the code received by others? Although many of these questions address the technical aspects of the code, I do not want to limit context to the material condition of the code itself. [...] The critical in critical code studies encourages also exploring the social context through the entry point of code.
 </p>
-<p class="quote" markdown=1>
+<p class="quote attrib" markdown=1>
 –Mark Marino, *Critical Code Studies*
 [@marinoCriticalCodeStudies2020a]
 </p>
@@ -361,7 +355,6 @@ Fundamentally, even if you're not looking for deeper meanings in the code, actua
 <p class="quote" markdown=1>
 "I do not expect students to take any risks that I would not take, to share in any way that I would not share."
 </p>
-
 <p class="quote attrib" markdown=1>
 –bell hooks [@hooksTeachingTransgressEducation1994]
 </p>
@@ -390,8 +383,9 @@ So-called stupid questions help us all unpack what we consider assumed knowledge
 
 ### Troubleshoot together
 
+<p class="quote" markdown=1>
 "Just talking through your problems with somebody else always helps you get a better understanding what you're trying to do. But then also, other people will have different perspectives. Also just having that space to work through it together, having the time to sit down and be like, 'Okay, step one step two. Let me write these lines of code.' And then getting to different steps and going on the journey together. I feel like that's a really rewarding process that we go through." 
-{: .quote }
+</p>
 
 <p class="quote attrib" markdown=1>
 -Katherine Yang, she/her, USC Media Arts + Practice, Linguistics, Computer Science
@@ -442,7 +436,7 @@ When we are together and witness each other struggle, that commonality reveals l
 </p>
 <!-- {: .quote .attrib } -->
 
-[//]: # "[XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated?]"
+[//]: # "[XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated? i don't think they can...:(]"
 
 ### Work iteratively, feature progress
 
@@ -1227,7 +1221,7 @@ Building community spaces for coding that focus on care first will allow coding 
 
 How can we be together in ways that don't feel protracted and forced? 
 
-Community can sometimes feel like too easy a word, even a dirty word, for the way it gets lobbed about by not-always-well-meaning folks who might be making a lot of presumptions when they try to argue "we're all in this together." Sometimes we're not actually in this together. Sometimes we are not a "we" at all. In past experiences, you or those you know may have been put off or harmed by that kind of co-opted language, and so it makes sense to limit our trust to those who earn it. It makes sense to use terms like 'community' with a sense of caution. 
+Community can sometimes feel like too easy a word, even a dirty word, for the way it gets lobbed about by not-always-well-meaning folks who might be making a lot of presumptions when they try to argue "we're all in this together." Sometimes we're not actually in this together. Sometimes we are not a "we" at all. In past experiences, you or those you know may have been put off or harmed by that kind of co-opted language, and so it makes sense to limit our trust to those who earn it. It makes sense to use terms like 'community' with a sense of caution.  
 
 "Just because we are in the room together does not mean that we belong to the room or each other: belonging is a speciﬁc genre of affect, history, and political mediation that cannot be presumed and is, indeed, a relation whose evidence and terms are always being contested. Belonging is a proposition, a theory, a forensic fact, and a name for a kind of attachment."
 {: .quote }
@@ -1235,7 +1229,7 @@ Community can sometimes feel like too easy a word, even a dirty word, for the wa
 –Lauren Berlant [-@berlantCommonsInfrastructuresTroubling2016]
 {: .quote .attrib }
 
-Belonging is hard. Community is hard work. Real community comes from solidarity across difference, not the simple request to assimilate. It is about mutual interrelation and inter-reliance, not extraction. In Code Collective, we learn from each other and our skills improve because of each other, but we continually realize this is not the only — or even the primary — reason we gather. We have grown excited to know each other and to care for one another as people, not as a means to an end. The joy that comes from seeing each other regularly begins to match, or even exceed, the joy we experience from coding together. 
+Belonging is hard. Community is hard work. "Real relationships make it harder to waste each other's time," says adrienne maree brown. This is because we return to them again and again. Real community comes from solidarity across difference, not the simple request to assimilate. It is about mutual interrelation and inter-reliance, not extraction. In Code Collective, we learn from each other and our skills improve because of each other, but we continually realize this is not the only — or even the primary — reason we gather. We have grown excited to know each other and to care for one another as people, not as a means to an end. The joy that comes from seeing each other regularly begins to match, or even exceed, the joy we experience from coding together. 
 
 "We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other."
 {: .quote }
@@ -1311,6 +1305,12 @@ Those material aspects [support/embody] what I consider some of the key componen
 
 // Code Collective positions itself within an ethics of coding care—grounded in shared embodied knowledge, embedded co-creation, and programming with and for community. 
 // As Annette Vee says, coding is now an essential literacy, even reshaping literacy itself [@veeCodingLiteracyHow2017]. This pocket guide calls for reaching beyond the limited literacy offered by a STEM paradigm that supposedly "anyone" can join. Rather, Coding.Care reimagines technoculture as TechnoCraft that truly anyone can understand, engage with, and intervene in. 
+
+"Find out what the group wants to be, and give them opportunities to become that."
+{: .quote }
+
+–adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
+{: .quote .attrib }
 
 ### Let others help you grow 
 
