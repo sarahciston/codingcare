@@ -560,18 +560,10 @@ Everyone has a perspective, and no one knows everything. We may know about the s
 
 ### Take comfort in this Programmer's Paradox
 
-`You may never feel like a "real programmer." You already are a programmer.`[^amy]
+"You may never feel like a "real programmer." You already are a programmer."
 
-[^amy]: With thanks to [Amy Rae Fox](https://madebyafox.github.io/)
-{:.sidenote}
-
-"Computer-centric terms such as ‘novice’ obscure the possibilities for creating appropriate end user systems and are prejudicial in assigning prominence to the computer." 
-{: .quote }
-
-— Bonnie Nardi @nardiSmallMatterProgramming1993
+–[Amy Rae Fox](https://madebyafox.github.io/)
 {: .quote .attrib }
-
-Take heart if you don't feel like you're really a coder. Many of my favorite computer scientists and professional programmers have told me they don't either! There may never be a time when you reach the feeling of proper expertise or authority in your field, but the secret is that this is not the secret to competency. Those people walking around like they know what they're doing? Adulting? Ha! They probably don't know either. 
 
 "it was time to get into coding. And by that I mean – hours of getting things wrong and few moments of figuring out something right."
 {: .quote }
@@ -579,23 +571,33 @@ Take heart if you don't feel like you're really a coder. Many of my favorite com
 –Tia Kemp, she/her, USC Media Arts + Practice
 {: .quote .attrib }
 
-And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced.@AlwaysalreadyprogrammingMd We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
+Take heart if you don't feel like you're really a coder. Many of my favorite computer scientists and professional programmers have told me they don't either! There may never be a time when you reach the feeling of proper expertise or authority in your field, but the secret is that this is not the secret to competency. Those people walking around like they know what they're doing? Adulting? Ha! They probably don't know either. 
 
-"When we all build up and cultivate one another’s agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing." "It's buttons all the way down." 
+And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced [@AlwaysalreadyprogrammingMd]. We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
+
+"It's buttons all the way down. [...] When we all build up and cultivate one another's agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing." 
 {: .quote }
 
 –Melanie Hoff
 {: .quote .attrib }
 
-Bonnie Nardi's concept of "end-user programming" helps dismantle the hierarchy of software maker/user and emphasizes the work a user does is another kind of programming. Every day we customize settings and change parameters, we put formulas in spreadsheets and create automatic workflows in photo editors. She argues these "end-users" are not naive but make intensive use of computers. She includes such tasks on a continuum with programming that addresses the machine at various levels, whether "close to the metal" like assembly languages or abstracted high-level languages like object-oriented programming.@nardiSmallMatterProgramming1993 We see this continuum continuing to blur now with "prompt programming," which involves writing plain-text commands for generative AI systems. 
+Bonnie Nardi's concept of "end-user programming" helps dismantle the hierarchy of software maker/user and emphasizes the work a user does is another kind of programming. Every day we customize settings and change parameters, we put formulas in spreadsheets and create automatic workflows in photo editors. She argues these "end-users" are not naive but make intensive use of computers. She includes such tasks on a continuum with programming that addresses the machine at various levels, whether "close to the metal" like assembly languages or abstracted high-level languages like object-oriented programming [-@nardiSmallMatterProgramming1993]. We see this continuum continuing to blur now with "prompt programming," which involves writing plain-text commands for generative AI systems. 
 
-Code Collective member [ender](https://www.enderverse.org/) expands on these ideas in a zine called, "[you are a coder](https://enderversing.itch.io/uracoder)." It discusses how users might be more empowered through customization tools to engage like programmers (and how many already do!), and how programmers are rely on languages as interfaces, just like other kinds of users do. It also includes more readings on this topic if you're interested, from David Chisnall, Olia Lialiana, Joanne McNeil, and Melanie Hoff of course! @enderYouAreCoder 
+"Computer-centric terms such as 'novice' obscure the possibilities for creating appropriate end user systems and are prejudicial in assigning prominence to the computer." 
+{: .quote }
 
-"The development of gooey [GUI] was a project to create an accessible computer, lessening the burden of knowledge required to complete a task. But this also created the 'user' as we know it by creating a user/programmer dichotomy. The desire for a black screen is that of removing the dichotomy in favor of an interface without subjection, without users and/or programmers alike. [...] black gooey being antithetical to the values of the white screen. Black gooey might then be a platform of slowness ('dragged time', 'colored time') [...], refusal, thought, complexity, critique, softness, loudness, transparency, uselessness, and brokenness. A planar body that longs for the solitude and vastness of the commandline, yet nuanced and sharp, to usurp and destroy a contemporary hegemonic interface." 
+—Bonnie Nardi [@nardiSmallMatterProgramming1993]
+{: .quote .attrib }
+
+How might we reject such ideas about our relationships with computers that are baked into the systems as we see them today? A return to other ways of knowing offers one approach:
+
+"The development of gooey [GUI] was a project to create an accessible computer, lessening the burden of knowledge required to complete a task. But this also created the 'user' as we know it by creating a user/programmer dichotomy. The desire for a black screen is that of removing the dichotomy in favor of an interface without subjection, without users and/or programmers alike. [...] Black gooey might then be a platform of slowness ('dragged time', 'colored time') [...], refusal, thought, complexity, critique, softness, loudness, transparency, uselessness, and brokenness. A planar body that longs for the solitude and vastness of the commandline, yet nuanced and sharp, to usurp and destroy a contemporary hegemonic interface." 
 {: .quote }
 
 –@artistBlackGooeyUniverse
 {: .quote .attrib }
+
+Code Collective member [ender](https://www.enderverse.org/) expands on such ideas in a zine called, "[you are a coder](https://enderversing.itch.io/uracoder)." It discusses how users might be more empowered through customization tools to engage like programmers (and how many already do!), and how programmers are rely on languages as interfaces, just like other kinds of users do. It also includes more readings on this topic if you're interested, from David Chisnall, Olia Lialiana, Joanne McNeil, and Melanie Hoff [@enderYouAreCoder]. 
 
 ### Remember you know how to learn
 
