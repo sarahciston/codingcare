@@ -1,12 +1,12 @@
 ---
 # layout: post
-title: codes for [un]living
+title: codes for (un)living
 nav_order: 12
 date: 22.11.2023
 ---
 
 
-# Codes for [Un]Living
+# Codes for (Un)Living
 <!-- null, queer use, throbber, waiting for something to happen, platforms, queering, communing, desiring, ecstatic codes, -->
 <!-- knots instead of threads, threnodies -->
 <!-- data bodies, drone aesthetics, interpolated and interpellated states -->

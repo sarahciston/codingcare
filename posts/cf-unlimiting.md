@@ -12,7 +12,9 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 
 <!-- broken machines? queer use, platforms,  -->
 
-# Codes for [Un]Limiting (Dis/Appearing)
+<!-- (Dis/Appearing) -->
+
+# Codes for (Un)Limiting 
 
 ### Isolation, Perfection, Scratching at the Walls
 

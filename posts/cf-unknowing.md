@@ -1,6 +1,6 @@
 ---
 layout: post
-title: codes for un-knowing
+title: codes for (un)knowing
 nav_order: 11
 date: 02.11.2023
 ---
@@ -8,7 +8,7 @@ date: 02.11.2023
 <!-- platforms, essaying, code obscura. saving protecting hiding helping hearing healing -->
 <!-- pye craft of risk of certainty -->
 
-# Codes for [Un]Knowing
+# Codes for (Un)Knowing
 #### Codes for Essaying, Codes for Risking, Codes for Losing
 
 Inside, the black box bursts with color. It’s a whole tiny world in there, a homunculus of meaning. A giant moon crashes into the bedroom and continues its orbit. Pipi screams silently, reaching up from the floor, where she sinks within her tiny television. The flames behind her never quite engulf her, as if to say, memelike: *This Is Fine.* 

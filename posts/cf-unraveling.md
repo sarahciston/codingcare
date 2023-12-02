@@ -1,6 +1,6 @@
 ---
 # layout: post
-title: codes for [un]raveling
+title: codes for (un)raveling
 nav_order: 5
 date: 02.11.2023
 ---
@@ -9,7 +9,7 @@ date: 02.11.2023
 <!-- threaded networks: embodied codes for weaving new worlds -->
 <!-- what are the patterns and codes we don't have but need -->
 
-# Codes for [Un]Raveling
+# Codes for (Un)Raveling
 
 (No Knots Only Loops)
 (Adrian Piper, Sonya Rapoport)
