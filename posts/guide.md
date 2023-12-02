@@ -790,6 +790,12 @@ At various points, Code Collective has also morphed into Zine Club, which also h
 
 These forms, while seeminly far flung from coding, have taught us about how to code and how to be in community, too. Our conversations about all of the topics found commonalities. 
 
+![Kolam coding example](../assets/img/kolam_suressh-6.png)
+Lavannya Suressh's lesson in programming digital variations of Kolam patterns, using p5.js, shows the many designs that can be created with a few limited combinations. It appears as an interactive lesson and a printed zine. Credit: Lavannya Suressh, Critical Code Cookbook.
+{: .caption }
+
+Design and technology MFA [Lavannya Suressh](https://www.lavannyadesigns.com/kolam-generator) drew inspiration from her grandmother's daily practice of creating geometric patterns on the ground in rice flour, in a traditional South Indian art form called Pulli Kolam, to create complex graphic imagery with math and code. She adapted this work into a beautiful zine (and an lesson in the [Critical Code Cookbook](https://criticalcode.recipes/contributions/kolam-in-code)) about the project that clearly explains her process. 
+
 The p5zine library is a beautiful example of coding and zine-making combining in a fun, community practice. Created by Munis [XXX]
 
 [zines][cite][munisp5zine]
@@ -862,7 +868,7 @@ We love to dream wildly. We'll figure out the impractical later and the impossib
 
 Those gargantuan ideas, the ones you'd have no idea where to start? Go ahead and sketch the whole thing out — on paper, in plain language or pseudo code, in stick figures and scribbles. Make a map of your wild idea. For the areas where you have absolutely no clue what belongs there, you can write "Here be dragons" and fill it in later with the help of others. The map will help them, and you, understand what you don't yet understand. It will also help you see how you might break this big idea into smaller parts that could be doable — or at least a bit more comprehensible, and maybe one of the parts of those parts you know how to start. Start anywhere, and go from there!
 
-![map of ladymouth](../assets/img/ladymouthappchart.png)
+![map of ladymouth](../assets/img/ladymouthchart-marked.png)
 
 For example, here's a map I made of my first Python project, called *ladymouth*. When I made the map, it did not yet include all these parts (almost none, in fact). As I learned what I would need to make it operate the way I imagined, I was able to start coding each part. I ended up building only portions of the work, but this map helped me understand where I *could* go if I wanted to. It also helped me understand that I didn't have to try to do everything at once (which is a tendency of mine). 
 {: .caption }
@@ -975,9 +981,10 @@ Try this activity with a partner and talk through your answers together. You mig
 
 <p class="quote">
 "It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
-<p class="attrib">–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
-</p></p>
-
+</p>
+<p class="quote attrib">
+–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+</p>
 
 Whatever rituals and habits you create, create them *together*. This is essential. Ideally you develop these over time, through feedback and informal habits and through formal work on community agreements and mission. How you choose to move as a group should be collaborations, ways of building trust with one another. As in dance, and all forms of attunement, we respond to each others movements in space, from the way we hold our bodies to the way we open ourselves up (or don't). And we learn what to trust and to expect by what is repeated and what is dynamic. 
 
@@ -1207,11 +1214,14 @@ In the Resource Hub and in our projects, we emphasize open-source and open-acces
 
 Just as you might consider which texts and tutorials you select to cite, consider which tools you select to work with, too. It may seem abstract to think about the business model of a tool like ChatGPT while you're asking it for code solutions, but consider how any software or service will be shaped by its creators' perspectives. From interface to source code to datasets, choices are made by designers of each tool that will determine how those tools are used and for what goals — making some tasks easier, and some harder. 
 
-[CUTTHIS?] I learned, when I tried to buy a Japanese teapot for a left-handed friend, that many teapots in Japan are made for pouring with the right hand only – for a long time it was near impossible to find a teapot made for left-handed people. The statewide policy had been to make left-handed people learn to be right-handed in school, so if there were "no left-handed people" why design a left-handed teapot? This unweildy metaphor shows how the values of a country, or a company, end up embedded in the tools we use, in almost invisible but ubiquitous ways. 
 
-Open-source and open-access tools, in theory, allow more opportunity for us to view, understand, and potentially alter or adapt the tools to new purposes. 
+![right-handed teapot, shown from above](../assets/img/kyusu.jpg)
+Did you know that many teapots in Japan are made for pouring with only the right hand? I found this out when I tried to buy a side-handled kyūsu teapot for a left-handed friend. Because for decades the statewide policy had been to make left-handed people learn to be right-handed in school, there "were no" left-handed people, so why design a left-handed teapot? This unweildy metaphor shows how the values of a country, or a company, end up embedded in the tools we use, in almost invisible but ubiquitous ways. 
+{: .caption }
 
-Some open-source projects end up being 'open' in name only, using the [moniker/culture/trappings] of open-source to draw [good will] while not enacting the open-source values of transparency, community, and share alike [XXXX]. 
+Open-source and open-access tools, in theory, allow more opportunity for us to view, understand, and potentially alter or adapt the tools to new purposes. [XXXexpand]
+
+Some open-source projects end up being 'open' in name only, using the [moniker/culture/trappings] of open-source to draw [good will] while not enacting the open-source values of transparency, community, and share alike [XXXXexpand]. 
 
 When considering a tool to use, you might ask: 
 
@@ -1263,7 +1273,7 @@ Care makes us curious about what each person needs in order to thrive, whether t
 
 Building community spaces for coding that focus on care first will allow coding and everything else to happen more generously and more fruitfully next. I have learned that `when I foreground care and connection, the rest happens.`
 
-### Make community / Look/Ask after one another
+### Look after each other
 
 "The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
 {: .quote }

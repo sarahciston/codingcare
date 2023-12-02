@@ -44,6 +44,19 @@ Thank you to the individuals and organizations who developed these principles an
 [^W3C]:
 [^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
 
+
+## 5 beloved books for coding & caring
+
+* brown, adrienne marie. 2021. *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
+* Cox, Geoff and Soon, Winnie 2020. *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. https://aesthetic-programming.net
+* Marino, Mark C. 2020. *Critical code studies.* MIT Press.
+* Shih, Xin Xin, & Moriwaki, Katherine (Eds.). 2022. *Critical Coding Cookbook.* https://criticalcode.recipes
+* Wilson, Shawn. 2008. *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing. 
+
+* 
+
+Find many more in the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub)
+
 ## Workshops and artist talks
 
 #### past

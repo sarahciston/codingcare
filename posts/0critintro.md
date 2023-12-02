@@ -511,6 +511,8 @@ craft points to a lifecycle of care that starts with "a tended landscape, the su
 
 **LEGACIES:** 
 
+>"perceives history as a messy entanglement rather than a linear graph" [Critical Coding Cookbook] [@shihCriticalCodingCookbook2022]
+
 TechnoCraft attends to the counterhistories still alive in our present and potentially reemerging in many futures. It includes Hilda G. Carpenter, a Black lab technican who "advanced the methods that would ultimately be used to land Apollo missions on the moon" using threading techniques called "core rope memory." Zainab Aliyu compares these physical memory-weaving processes to the Yoruban oracle system called Ifá: 
 
 >"This apparatus for divination through collective memory has a binary implementation not unlike the computer byte: a single unit of machine memory that contains eight bits and can store 256 different values (0-255). While computer memory has a finite capacity, the divination chain has boundless potential."
@@ -522,6 +524,7 @@ TechnoCraft attends to the counterhistories still alive in our present and poten
 
 American Artist proposes the Black Gooey as an alternative to the development of the GUI, which they mark as a turning point in the history of computing at which point screens changes from black to white and the "user" was defined for the purpose of easing use but also limiting use. 
 >"Blackness has, so to say, formed the ground for white, with black gooey being antithetical to the values of the white screen. Black gooey might then be a platform of slowness ('dragged time', 'colored time'), refusal, thought, complexity, critique, softness, loudness, transparency, uselessness, and brokenness. A planar body that longs for the solitude and vastness of the commandline, yet nuanced and sharp, to usurp and destroy a contemporary hegemonic interface." [@artistBlackGooeyUniverse]
+
 
 
 >Core rope memory [From the Sasha](https://logicmag.io/supa-dupa-skies/from-the-sasha-into-the-zamani-death-as-a-moment-of-radical-continuity/) "During the pioneering of the Apollo spacecraft mission, women workers manually wove memory into computer systems, translating software programmed by MIT engineers into physical binaries. The first woman to do this was Hilda G. Carpenter, a Black lab technician who advanced the methods that would ultimately be used to land Apollo missions on the moon. These threading techniques, referred to as 'core rope memory' and 'magnetic core memory,' were laborious processes of physically coding information into machines using ferrite rings and copper wire to control the flow of electricity"
@@ -862,7 +865,7 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Chun, W.H.K. 2008. "On 'Sourcery', or Code as Fetish"
 - Calvino, I. 1976. "The Burning of the Abominable House." *Numbers in the Dark*. Trans 1995. 
 - Calvino, I., & Parks, T. (1995). Numbers in the dark: And other stories (1st American ed). Pantheon Books.
-- Cox, G. and Soon, W. (2020). *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press.
+- Cox, G. and Soon, W. (2020). *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. [gitVersion](https://gitlab.com/aesthetic-programming/book/-/tree/master/source]
 - Crawford, K., & Joler, V. (2018). Anatomy of an AI System. http://www.anatomyof.ai
 - Crawford, K. (2021). *Atlas of AI: power, politics, and the planetary costs of artificial intelligence.* Yale UP. 
 - Fournier, L. (2021). *Autotheory as Feminist Practice in Art, Writing, and Criticism.* MIT P. 
@@ -901,8 +904,7 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Sedgwick, E. K. (2012). "Making things, practicing emptiness." *The weather in Proust*. Duke UP.
 - Schwarz, C. (2010). *The Anarchist’s Tool Chest*. Lost Art Press.
 - Shanahan, Murray. (2022). "Talking about Large Language Models." 
-- Soon, Winnie, and Geoff Cox. 2020. *Aesthetic Programming.* 
-    [gitVersion](https://gitlab.com/aesthetic-programming/book/-/tree/master/source]
+- Shih, X. X., & Moriwaki, K. (Eds.). (2022). Critical Coding Cookbook. https://criticalcode.recipes
 - Soulellis, P. (2019). "URGENTCRAFT." https://soulellis.com/work/urgentcraft/index.html
 - Stark, L., & Crawford, K. (2019). The Work of Art in the Age of Artificial Intelligence: What Artists Can Teach Us About the Ethics of Data Practice. Surveillance & Society, 17(3/4), 442–455. https://doi.org/10.24908/ss.v17i3/4.10821
 - Sunder, A. (2022). "Performing Spectres: Deliberate Images, Intended Metaphors." *Platforms: Around, In Between, and Through.* Ed. Sunder, A. *Natasha,* Singapore Biennale.
