@@ -147,11 +147,12 @@ Upon gathering, I ask myself: What does this particular cluster of beings need a
 * "have an accountability space and a brain trust with shared expertise"
 * "conquer my trouble starting and finishing. bounce ideas off of others. build something I'm proud of"
 
+<p class='quote'>
 "For me, I could figure out how to code but I didn't really know what to use for what, for the specific things I like. Also part of the issues here is there's so many things you could do, right? [For the things I do, three.js is perfect. Once I figured that out, I didn't need to find other things. For someone who doesn't know how to code, give them a tool where they can learn to do a lot so they can figure out what tools they need — like p5.js.]"
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Ada Toydemir, they/them, USC BA/MS Computer Science
-{: .quote .attrib }
+</p>
 
 To explore how we might best create community, I asked each person to share what they were currently working on, some topics they knew about, some topics they wanted to know about. The goal here is to look for overlaps: Where do what you know about and what I want to know about intersect? Here lies magic!
 
@@ -240,7 +241,7 @@ If something exists, ask how it does. Ask if it should. Reverse engineer it. Run
 
 This is part of what we mean by scrappy — thoughtfully or playfully experimenting with the properties and limits of your materials, whether those materials are strings of wool or strings of code. This kind of "breaking" things is an essential artistic practice, and it looks different in every situation. It can range from off-the-cuff experimentation – "What happens if I push this?" — to full-fledged tactical media artworks that operate by digital civil disobedience – like the collective Electronic Disturbance Theater, which created tools to shut down government websites by pinging them repeatedly (called "distributed denial of service").[cite] For my past projects, this has ranged from diving into technology spaces I dislike (Reddit forums), tinkering with combining wildly different APIs[^api], and putting poetry into machine learning systems meant for corporate use. 
 
-Critically breaking things helps us understand how they work (or don't work) from inside. It lets us understand some of the why behind their operations, the decisions that went into making them. Who are they made for? And with what goals? Who are they not made for and who do they not serve? It helps us think about how we might make them differently. I break stuff to see if its not-working can create some poetry, some community, some other way to engage with value than its original (likely capitalist) purpose. [^htmlEnergy][XXX]
+Critically breaking things helps us understand how they work (or don't work) from inside. It lets us understand some of the why behind their operations, the decisions that went into making them. Who are they made for? And with what goals? Who are they not made for and who do they not serve? It helps us think about how we might make them differently. I break stuff to see if its not-working can create some poetry, some community, some other way to engage with value than its original (likely capitalist) purpose. [CITEhtmlEnergy][XXX]
 
 Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't worry about that yet. Tinkering is a transferrable, lifelong skill:
 
@@ -250,7 +251,7 @@ Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't wo
 –Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
-*See also [Critical tinkering](#Critical-tinkering)*
+*For more on this, see [Critical tinkering](#Critical-tinkering)*
 
 ### Build stuff
 
@@ -283,11 +284,12 @@ To think about how to combine ingredients to produce new flavors, connect dots, 
 
 One way to combine wildly is to work wildly with metaphors, as Ren Loren Britton and Helen V. Pritchard do when they unpack the acronym CS to expand the field of "computer science" to include "Chance and Scandal," "Crying Sabotage," "Careful Slugs," and more. They suggest this "promiscuous metaphorical practice" can open up different plans, questions, and techniques in the field – including considerations of crip-technoscience and of more-than-human world:  
 
+<p class='quote'>
 "We follow CS (Careful Slugs) in how it might reroute, chomp away, do nothing about, slime up, slow down, or ripple towards attachments as a way of accounting for, unsettling, taking responsibility for, and remaking dominant universalisms of CS (Computer Science). We propose that when computation is approached through the speculation of CS (Careful Slugs), the computational operations of sorting become slowed down, separating becomes impossible as sticky bodies stick to surfaces, categorizing becomes softened."
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Ren Loren Britton and Helen V. Pritchard (2022) [@brittonCarefulSlugsCaring2022a]
-{: .quote .attrib }
+</p>
 
 It matters what materials you use and what metaphors you think with, whether your projects are held together with spitballs or slug trails.
 
@@ -527,6 +529,36 @@ Okay maybe not *mandated* but we like the approach of conferences like [bang ban
 
 —Ada Toydemir, they/them, MS Computer Science, USC
 {: .quote .attrib }
+
+### Do it your own way
+
+[XXXmore]
+
+<p class="quote">
+"This may be the best way for some. If you try, you’ll likely find something different that will work best for you."
+</p>
+<p class='quote attrib' markdown='1'>
+–Anna Zilboorg, *Knitting for Anarchists* [@zilboorgKnittingAnarchistsWhat2015]
+</p>
+
+I was taught knitting and was convinced I could not do it, just as I was taught crochet before that, and was again convinced I could not, until — (eventually) willing to stumble through my own inept moments and make my own weird way — I could. 
+
+There are two ways to teach knitting. It turns out I was taught the way that did not make sense to me, and once I found the *other way* it clicked. In fact, there are so many *more* ways to knit than "English" or "Continental" (gosh, don't those sound like colonizers' terms), because people have been doing this craft all over the world for probably millennia. 
+
+Point is, there's almost always more than one way to knit a loop or code a loop! If you try doing it the way you're first taught, and it doesn't work? Allow for the possibility that another way might work for how your body and mind work. Invent a 'weird' way that works for you instead. 
+
+And if you came to coding, or crafting or anything else, by an alternate path — such that your way of thinking or doing doesn't match the ways of those around you? Congratulate yourself for bringing your outlook into their world, and embrace what you can learn from theirs, rather than fearing it means you didn't really learn the 'right' way.
+
+<!-- "At first doing it is extremely awkward. Then it gets easier. Hands learn things far more slowly than minds do. You tell your fingers what to do and expect instant obedience, but it takes a while for fingers to figure out just how to obey."
+
+"We do not need to be fearful of trying out ideas, of making mistakes and thereby learning, of creating something new and wonderful, or of just pleasing our own selves and nobody else." -->
+
+<p class="quote">
+"Many people, trying to get their hands to do what directions tell them, give up in frustration saying they 'don't have the patience' or are 'too clumsy to do that.' I'm always sorry when I hear that. I know hands are endlessly capable of wonderful feats, but they need patience and encouragement."
+</p>
+<p class='quote attrib' markdown='1'>
+–Anna Zilboorg, *Knitting for Anarchists* [@zilboorgKnittingAnarchistsWhat2015]
+</p>
 
 [Back to Table of Contents](#top)
 
@@ -1360,9 +1392,6 @@ This pocket guide has argued for technology communities that support pluralism, 
 </p>
 
 
-
-
-
 <p class="quote">
 "I was able to get early feedback about my projects and learn little tidbits about the [Javascript] language (e.g. ES6,  nullish coalescing, etc.) that I otherwise wouldn't have enough. 
 
@@ -1400,7 +1429,16 @@ TBD
 
 </div>
 
+
+## [APPENDICES](appendices)
+
+## [PROJECT SHOWCASE](https://creativecodecollective.com/showcase) 
+
+## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
+
 ## Cod(e)a: Let others help you grow 
+
+Pssst... Want more? Check out the miscellaney in [Appendices, addenda, etc](appendices), where I've shoved all the things that wouldn't fit in this "pocket" guide — including some of the books I relied on most while writing, essentials like our community agreement, plus some of the bits and pieces that got us started from lesson plans to the first proposal for Code Collective. For lots more tutorials, readings, and inspiration, you can also head over to the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub) which continues to grow as you add what you've found helpful. And for astounding work by Code Collective members, we made a [Project Showcase](https://creativecodecollective.com/showcase), because we hope it sparks some inspiration for you too.
 
 [XXXtbd-samir-on-new-chapter-at-santa-cruz]
 
@@ -1426,10 +1464,6 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 
 [//]: # "TO DO!!"
 
-## [PROJECT SHOWCASE](https://creativecodecollective.com/showcase) 
-
-## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
-
 ## ACKNOWLEDGMENTS
 
 [TK] Membership list and more information about CCC... [Creative Code Collective](https://creativecodecollective.com)
@@ -1440,13 +1474,9 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 - MAP
 - etc etc etc tk
 
-## [APPENDICES](appendices)
-
 ### [Read more...](references)
 
 [XXXadd sketching?] [@ImportanceSketchingCode2023]"
-
-[XXXadd source] [Critical Coding Cookbook](https://criticalcode.recipes/about) [@shihCriticalCodingCookbook]"
 
 [XXXadd source] TEX: Teaching with Text Generation Technologies [@veeTextGenEdTeachingText2023] Examples of teaching with text-generating tools: Vee, A., Laquintano, T., & Schnitzler, C. (Eds.) (2023). TextGenEd: Teaching with Text Generation Technologies. The WAC Clearinghouse. @veeTextGenEdTeachingText2023"
 
@@ -1460,12 +1490,10 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 
 [XXXadd source] code complete by steve mcconnell"
 
-[XXXadd source] computational mama"
+**[XXXadd source] computational mama"**
 
 [XXXadd source] zines from genderfail"
 
 [XXXadd source] craeft alexander langlands, pye the workmanship of risk/certainty in the nature and art of workmanship"
 
-[XXXadd source] knitting for anarchists, zandy peters knit boldly"
-
-TK: **JAVASCRIPT STARTER PACK** in my *zettlekasten*"
+[XXXadd source] knitting for anarchists
