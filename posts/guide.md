@@ -112,7 +112,7 @@ It is not one gesture or one moment, but their accumulation. Each thing we have 
 
 This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says, "a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world" [@hedvaWhyItTaking2022] – yet here I document what we've actually put in the world, alongside what we hope to. Code Collective exists because I believe it is incredibly easy to have communities like this, and I am not the only one. Like code itself, and Code Collective, this guide strives to bring the "impossible" into the "real world" now – as a proposition toward how it can be entirely possible, present, liveable, and thriving. Anarchists call this "prefiguration" but we can just call it fun. And so the pocket guide exists somewhere between a manifesto and a manual. Make of it what you will; I hope you do!
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 ## 1. We create who we are together
 
@@ -183,7 +183,7 @@ Through this process of communication and collaboration among the group members 
 –[@mcconnellCodeComplete2004]
 {: .quote .attrib }
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 <div class="box play-along" markdown="1">
 
@@ -319,7 +319,7 @@ Who wrote the code? When and why? In what language was the code written? What pr
 
 Fundamentally, even if you're not looking for deeper meanings in the code, actually *for-real reading* the code you encounter can help you learn to code better than almost anything else. It may seem tedious, but: Type out the examples you use, rather than copying and pasting them. Follow along with your finger on the page as the functions return to different sections and the loops re-loop. This act of readind "runs the code" in your mind, so that you can truly understand what is happening on the screen when you write all those brackets and semi-colons. Once you understand that, you can begin to ask questions about the implications of each way of writing — knowing there's no one way, no "right" way, to write code.
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 <div class="box live-code" markdown="1">
 
@@ -440,7 +440,7 @@ For example, I am writing this pocket guide in a git repo (short for repository,
 
 We need more spaces that embrace and reflect the many different kinds of learning and ongoing forms of creation.
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 <div class="box play-along" markdown="1">
 
@@ -514,7 +514,7 @@ Okay maybe not *mandated* but we like the approach of conferences like [bang ban
 —Ada Toydemir, they/them, MS Computer Science, USC
 {: .quote .attrib }
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 [//]: # "TO DO!!"
 
@@ -640,7 +640,7 @@ This requires a bit of humbleness and "wayfinding" (exploring, birdwalking, path
 –Ada Toydemir, they/them, USC BA/MS Computer Science
 </p>
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 <div class="box play-along" markdown="1">
 
@@ -833,7 +833,7 @@ Our format continues to prove wildly transformable to hold what we need it to, t
 
 By meeting each other where we are and valuing what each person can contribute to others' knowledge, we move toward better and more diverse computational systems, and more generous, generative communities.
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 [//]: # "TO DO!!--AMB exercise or cookbook?"
 
@@ -960,7 +960,7 @@ There may be no 'bad' ideas, but all ideas have real-world stakes, so choose wis
 
 We don’t assume we *should* code something just because we can. Asking "Why Not" — in all its gleeful and critical forms — is just as important as asking "Why."
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 <div class="box play-along" markdown="1">
 
@@ -1103,7 +1103,7 @@ When we were faced with formalizing into an organization with officers and insti
 
 I have learned that, `when I hold my pedagogy and my programming more loosely, they both become more pleasurable.`
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 [//]: # "TO DO!!"
 
@@ -1232,12 +1232,7 @@ When considering a tool to use, you might ask:
 * What is the license? Does it allow me to use it for share-alike or commercial purposes? 
 * What other tools are like it, and how do they compare? 
 
-Some open source projects we love:
-
-* [XXXLIST]
-
-[Table of Contents](#top)
-
+[Back to Table of Contents](#top)
 
 [//]: # "TO DO!!"
 
@@ -1381,7 +1376,7 @@ We "Enjoy code together"
 
 
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 <div class="box live-code" markdown="1">
 
@@ -1413,7 +1408,7 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 -Katherine Yang, she/her, USC BA Media Arts + Practice, Linguistics, Computer Science
 </p>
 
-[Table of Contents](#top)
+[Back to Table of Contents](#top)
 
 [//]: # "TO DO!!"
 
