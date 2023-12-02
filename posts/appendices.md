@@ -49,8 +49,10 @@ Thank you to the individuals and organizations who developed these principles an
 
 * brown, adrienne marie. 2021. *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
 * Cox, Geoff and Soon, Winnie 2020. *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. https://aesthetic-programming.net
+* hooks,  bell. (1994). *Teaching to transgress: Education as the practice of freedom.* Routledge.
 * Marino, Mark C. 2020. *Critical code studies.* MIT Press.
 * Shih, Xin Xin, & Moriwaki, Katherine (Eds.). 2022. *Critical Coding Cookbook.* https://criticalcode.recipes
+  * As we wrote when Mark Marino and I forked this open-source text, "The book approaches programming artistically/aesthetically but also with criticality, not only what learners might make with code (besides the rote examples found in CS textbooks) but why it matters and how their choices are informed by the tools they use." [@cistonHowForkBook2021]
 * Wilson, Shawn. 2008. *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing. 
 
 * 

@@ -845,26 +845,26 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 
 # Bibliography
 
-- Amaro, R. *The Black Technical Object: On Machine Learning and the Aspiration of Black Being.* Sternberg.
+- Amaro, R. (2022). *The Black Technical Object: On Machine Learning and the Aspiration of Black Being.* Sternberg.
 - Ahmed, S. (2017). *Living a Feminist Life.*
 - Ahmed, S. (2018). "Queer Use." feministkilljoys blog. https://feministkilljoys.com/2018/11/08/queer-use/
 - Amoore, L. (2020). *Cloud Ethics*.
 - Asimov Institute. (2016). Neural Network Zoo. https://www.asimovinstitute.org/neural-network-zoo/
 - Berlant, L. (2016). The commons: Infrastructures for troubling times*. Environment and Planning D: Society and Space, 34(3), 393–419. https://doi.org/10.1177/0263775816645989
-- Braybrooke, K. (2020). “Together, we dance alone”: Building a collective toolkit for creatives in a pandemic. Interactions, 27(4), 68–71. https://doi.org/10.1145/3406027
-- Brunton, F., & Nissenbaum, H. F. (2015). Obfuscation: A user’s guide for privacy and protest. MIT Press.
+- Braybrooke, K. (2020). "Together, we dance alone": Building a collective toolkit for creatives in a pandemic. Interactions, 27(4), 68–71. https://doi.org/10.1145/3406027
+- Brunton, F., & Nissenbaum, H. F. (2015). *Obfuscation: A user's guide for privacy and protest.* MIT Press.
 - Birdsong, Mia. 2020. *How We Show Up*
-- brown, adrienne marie. 2021. *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
-- Browne, Simone. 
-- 
+- brown, adrienne marie. (2021). *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
+- Browne, Simone. (2015). *Dark Matters: on the surveillance of blackness.* Duke UP.
 - Cerankowski, K. J. (2021). *Suture: Trauma and trans becoming.* Punctum Books.
   - >"we cannot and must not contain ourselves as we spill into the world and onto and into each other. This spillage is about intersubjectivity — how we touch as we are being touched, how we leave marks on one another, how we leak onto and into one another, how we are always moving through each other, how we haunt one another, and how no story is ever just ours even as we have our own stories to tell."
-- Chun, W.H.K. 2022. *Discriminating Data*
-- Chun, W.H.K. 2015. *Updating to Remain the Same.*
-- Chun, W.H.K. 2009. "Race and/as Technology; or How to Do Things to Race." *Camera Obscura* 24:1
-- Chun, W.H.K. 2008. "On 'Sourcery', or Code as Fetish"
-- Calvino, I. 1976. "The Burning of the Abominable House." *Numbers in the Dark*. Trans 1995. 
+- Chun, W.H.K. (2022). *Discriminating Data*
+- Chun, W.H.K. (2015). *Updating to Remain the Same.*
+- Chun, W.H.K. (2009). "Race and/as Technology; or How to Do Things to Race." *Camera Obscura* 24:1
+- Chun, W.H.K. (2008). "On 'Sourcery', or Code as Fetish." *Configurations.* 16:3
+- Calvino, I. (1976). "The Burning of the Abominable House." *Numbers in the Dark*. Trans 1995. 
 - Calvino, I., & Parks, T. (1995). Numbers in the dark: And other stories (1st American ed). Pantheon Books.
+- Ciston, S., & Marino, M. C. (2021, August 19). How to Fork a Book: The Radical Transformation of Publishing. Medium. https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c
 - Cox, G. and Soon, W. (2020). *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. [gitVersion](https://gitlab.com/aesthetic-programming/book/-/tree/master/source]
 - Crawford, K., & Joler, V. (2018). Anatomy of an AI System. http://www.anatomyof.ai
 - Crawford, K. (2021). *Atlas of AI: power, politics, and the planetary costs of artificial intelligence.* Yale UP. 
@@ -879,7 +879,7 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Hedva, J. (2018). "Belonging in the Mess." Processing Foundation. 14 November 2018. https://medium.com/processing-foundation/belonging-in-the-mess-3d3ad0577499
 - Hedva, J. Hedva, J. (2022). "Why It’s Taking So Long." *Topical Cream*. https://www.topicalcream.org/features/why-its-taking-so-long/
 - Hedva, J. (n.d.). "Care in end times." CARE SYLLABUS. https://www.caresyllabus.org/care-in-end-times
-- hooks, bell [Teaching to Transgress]
+- hooks,  bell. (1994). *Teaching to transgress: Education as the practice of freedom.* Routledge.
 - Ingold, T. (2015). *The Life of Lines*. Routledge.
   - >"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)
 - Ingold, T. (2011). *Being Alive.*

@@ -380,7 +380,6 @@ So-called stupid questions help us all unpack what we consider assumed knowledge
 <p class="quote" markdown=1>
 "Just talking through your problems with somebody else always helps you get a better understanding what you're trying to do. But then also, other people will have different perspectives. Also just having that space to work through it together, having the time to sit down and be like, 'Okay, step one step two. Let me write these lines of code.' And then getting to different steps and going on the journey together. I feel like that's a really rewarding process that we go through." 
 </p>
-
 <p class="quote attrib" markdown=1>
 -Katherine Yang, she/her, USC BA Media Arts + Practice, Linguistics, Computer Science
 </p>
@@ -393,12 +392,14 @@ Sharing our struggles helps us solve them. In Code Collective, we do a lot of te
 
 ### Make mistakes in public / ~~Accept~~ Highlight your mistakes
 
+<p class="quote">
 "highlight mistakes just as much as successes, rather than hide them. it is important for people who are new to programming to see people making mistakes, if they think everything works first time they will think they are not good enough and give up." 
-{: .quote }
-
-<p class="quote attrib" markdown=1>
+</p>
+<p class="quote attrib">
 –annatito, Critical Code Studies Working Group 2022 [@titoWeekP5Js2022]
 </p>
+
+<!--"have things as major steps then under each major step is all the sub steps and any gotcha’s or possible errors" annatito, Critical Code Studies Working Group 2022 -->
 
 **Highlighting** mistakes is not about focusing on the negative; it brings our problems out of the shadows and removes the shame. Our mistakes connect us with each other. They show us we're not the first to encounter this issue,[^first] and they also show us we're not alone with the experience of facing coding challenges. Being vulnerable makes us stronger and brings us closer. 
 
@@ -423,8 +424,6 @@ When we are together and witness each other struggle, that commonality reveals l
 <p class="quote" markdown=1>
 "The constant state of exposure – and along with it, a sustained vulnerability – is enabled only through constant and meticulous practices of documentation. Far from covering up our bugs, we [hackers] openly acknowledge and even explain them. We don't hide problems. The virtue of transparency is that it makes actions accountable." 
 </p>
-<!-- {: .quote } -->
-
 <p class="quote attrib" markdown=1>
 –Anja Groten, Hacking & Designing: Paradoxes of Collaborative Practice" in [@bogersCriticalMakersReader2019]
 </p>
@@ -432,13 +431,28 @@ When we are together and witness each other struggle, that commonality reveals l
 
 [//]: # "[XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated? i don't think they can...:(]"
 
-### Work iteratively, feature progress
+### Work iteratively, celebrate progress
 
 When we don't share our struggles with learning, it's incredibly easy to feel alone. It's easy to compare our efforts to other people's polished, finished products — of course, in that case, we find our half-complete creations wanting. This is true for all kinds of learning, including just learning to be in the world. There is no final state; there is continuous learning. 
 
-For example, I am writing this pocket guide in a git repo (short for repository, meaning in this case a type of archive used in programming to keep track of versions and allow multiple users to make edits). I continually update it and save it on a public Github Pages website, which means both that you are reading a work in progress and also that anyone can see any prior version of it any time ([here](https://github.com/sarahciston/codingcare/commits/Jekyll/posts/guide.md)). I started this practice in 2020 when I wanted to show the process and performance of academic work that was ongoing labor rather than the invisible production of perfect, authoritative, publishable static documents. I see this approach in publications like zines, which aren't afraid to show their rough, handmade edges. And I am inspired by books like Winnie Soon and Geoff Cox's 2021 book [Aesthetic Programming](https://aesthetic-programming.net/), which was also written using git and exists in open, hybrid, print and digital forms. Soon and Cox posed the git format as an invitation to others to "fork the book" and adapt it to their own needs, in order to expand the book's community of practice.
+For example, I am writing this pocket guide in a git repo (short for repository, meaning in this case a type of archive used in programming to keep track of versions and allow multiple users to make edits). I continually update it and save it on a public Github Pages website, which means both that you are reading a work in progress and also that anyone can see any prior version of it any time ([here](https://github.com/sarahciston/codingcare/commits/Jekyll/posts/guide.md)). I started this practice in 2020 when I wanted to show the process and performance of academic work that was ongoing labor rather than the invisible production of perfect, authoritative, publishable static documents. 
+
+I see this approach as an echo of publications like zines, which aren't afraid to show their rough, handmade edges. And I am inspired by books like Winnie Soon and Geoff Cox's 2021 book [Aesthetic Programming](https://aesthetic-programming.net/), which was also written using git and exists in open, hybrid, print and digital forms. Soon and Cox posed the git format as an invitation to others to "fork the book" and adapt it to their own needs, in order to expand the book's community of practice.
 
 We need more spaces that embrace and reflect the many different kinds of learning and ongoing forms of creation.
+
+### Rely on others
+
+Mark C. Marino and I took up Cox and Soon's creation-as-invitation and 'forked' their text, adding our own "Chapter 8.5" to their book. We were incredibly moved by the vulnerability that Cox and Soon showed by offering their work for others to adapt, and that gesture made us want to get more vulnerable too. We added what we called "Code Confessions" that emphasized "the ways we learn in community, revealing that the teacher programmer didn't always know what they're doing and may still find their way with a beginner's mindset." Through these asides, we tried expand the idea of comments to show our own lived experience with code, to admit our fears and acknowledge mistakes:
+
+<p class="quote">
+These sections personalize the approach and dismantle the authoritarian hierarchy or boundary between knowledge 'holder' and knowledge 'seeker'. [...] They stand opposed to encoded chauvinism, or the toxic brogrammer culture that can be so off-putting to new programmers, especially those who come from outside the dominant culture."
+</p>
+<p class='quote attrib'>
+–Mark C. Marino, "How to Fork a Book" [@cistonHowForkBook2021]
+</p>
+
+It's okay to build on the work of others (citing it, of course)(see ["Cite with love"](#cite-with-love)). We are always doing so, in subtle and substantial ways. We are always relying on others. I think it is worth showing off how interconnected we are. 
 
 [Back to Table of Contents](#top)
 
@@ -1109,7 +1123,7 @@ I have learned that, `when I hold my pedagogy and my programming more loosely, t
 
 <div class="live-code box" markdown="1">
 
-### LIVE CODE: ccc berlin / varia?
+### LIVE CODE: ccc berlin / varia? /// computational mama
 
 [XXX] "code of conduct exercise? exists as community imagining idea in part 10"
 
@@ -1216,7 +1230,7 @@ Just as you might consider which texts and tutorials you select to cite, conside
 
 
 ![right-handed teapot, shown from above](../assets/img/kyusu.jpg)
-Did you know that many teapots in Japan are made for pouring with only the right hand? I found this out when I tried to buy a side-handled kyūsu teapot for a left-handed friend. Because for decades the statewide policy had been to make left-handed people learn to be right-handed in school, there "were no" left-handed people, so why design a left-handed teapot? This unweildy metaphor shows how the values of a country, or a company, end up embedded in the tools we use, in almost invisible but ubiquitous ways. 
+Did you know that many teapots in Japan are made for pouring with only the right hand? I found this out when I tried to buy a side-handled kyūsu teapot for a left-handed friend. Because for decades the statewide policy had been to make left-handed people learn to be right-handed in school, there "were no" left-handed people, so why design a left-handed teapot? This unweildy metaphor shows how the values of a country, or a company, end up embedded in the tools we use, in almost invisible but ubiquitous ways. Credit: D-Kuru, wikicommons
 {: .caption }
 
 Open-source and open-access tools, in theory, allow more opportunity for us to view, understand, and potentially alter or adapt the tools to new purposes. [XXXexpand]
@@ -1454,101 +1468,4 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 
 [XXXadd source] knitting for anarchists, zandy peters knit boldly"
 
-[XXXadd source] mark's/our fork book"
-
 TK: **JAVASCRIPT STARTER PACK** in my *zettlekasten*"
-
-
-<!-- [How to Fork a Book](https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c) by Sarah Ciston and Mark C. Marino , we talk about a "yes, and" ethos and add "Code Confessions" and "Code Commentaries." "Code Confessions reflect on our experiences starting to learn to program, while Code Commentaries do critical close-readings of source code, an approach that comes from the Critical Code Studies discipline. Code Confessions are opportunities to further humanize the process of writing code by talking about our embodied, emotional encounters with the process of programming: How it felt to work on this code or to encounter the same issues readers might during their practice. Meanwhile, Code Commentaries are opportunities to pursue the methods of Critical Code Studies by interpreting the meaning of the code on the page, line by line."   "we model how we as programmers feel about our own code. Extending the concept of comments in code, we take the opportunity to discuss the affective relationship to the journey that is programming, admitting to mistakes and acknowledging fears. These sections personalize the approach and dismantle the authoritarian hierarchy or boundary between knowledge “holder” and knowledge “seeker.” This aspect was essential to emphasize the ways we learn in community, revealing that the teacher programmer didn’t always know what they’re doing and may still find their way with a beginner’s mindset. The code confessions sections are expressions of humility in an effort to further welcome the newcomer. They stand opposed to encoded chauvinism, or the toxic brogrammer culture that can be so off-putting to new programmers, especially those who come from outside the dominant culture."-->
-
-
-<!--"have things as major steps then under each major step is all the sub steps and any gotcha’s or possible errors" annatito, Critical Code Studies Working Group 2022 -->
-
-
-<!-- # **The Coding Care Zine**
-
-[Original Zine Draft](assets/img/CodingCareZine.pdf)
-
->"Any meeting or gathering is a place to practice the future together in the most tangible ways." 
->>–adrienne maree brown
-
-*Coding Care* 
-
-## we come from anywhere
-
-We don't always fit in. Artists, activists, first-gen students, never-ever coders, CS majors, never-ever-coders, writers, dancers. linguists, neuroscientists, trans kids, queer folks, staff and teachers, we all find different ways into code and community.
-
-## we are always works in progress
-
-Many of the routes that got us here have been struggles. Learning to code is filled with false starts for so many people, and when we don't talk about it, it's easy to feel alone. So is learning to be in the world. There is no final state; there is ongoing learning. We need spaces that support all kinds of learning. 
-
-## we create who we are together
-
-What does this particular cluster of beings need and desire from this gathering? What do we stand for? We define it and redefine it for ourselves. 
-
-## we find our way together
-
-Scrappy artistic strategies, not perfect code. Growth not perfection. Collaboration not competition. 
-
-When it doesn't exist, we build it! We make it from other tools we scrap for parts. We break it to learn how it works, and why. 
-
-We meet folks where they are, no code snobs, no stupid questions. 
-
-## we ~~embrace~~ highlight our mistakes
-
-Sharing our struggles both helps us solve them by team troubleshooting *and* shows us and others that we are not alone with coding challenges. Being vulnerable makes us stronger and brings us closer. 
-
-## we all have skills to teach each other
-
-Tell us something you know about! Tell us something you'd like to learn!
-
-co-teach | co-learn | co-work | co-create
-
-Everyone has a perspective, and no one knows everything.
-
-## we're excited for the impossibly large possibilities, and the tiny charming tasks, too
-
-Set aside your doubts and questions——what would you make if you could make anything, and why? Scaling down can come later. Dream big!
-
-Small seeds of ideas you can start right away can grow into the coolest things. Follow that rabbit down the hole!
-
-## we ask WHY, WHO, HOW, not only WHAT to make
-
-And we acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals; our choices have histories, they come with politics attached.
-
-## we make room for each other
-
-We're conscious of taking up space.
-
-## we ask after one another
-
-## we make our own rituals
-
-Start with a round of check-ins: What are you making? What are you into right now? How are you doing, really?
-
-Snacks and music and movement. Seriously, snacks are essential. 
-
-Aim for consistency and flexibility through a steady mix of in-person meetings and online connection. 
-
-These literally *make* the space we have together.
-
-## we think open source
-
-We share resources, honor emotional labor and the labor of documentation as essential parts of coding, and don't take for granted what feels intuitive or close to our hearts. 
-
-We cite and celebrate those who inspire what we do.
-
-We highlight shareable, accessible, adaptable, minimal tools that don't hide how they work.
-
-We use what we make as an opportunity to share what we've learned along the way——archives, resource hubs, salons, works in progress, *zines*——thinking and making always happen in community. 
-
-## we start with care 💜
-
-We are building community. We are encoding values. We don't say, "That's not what code is for." We imagine how things could be otherwise. 
-
-All making is a research question. What question do you want to explore? 
-
->"We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other." 
->>–Sara Ahmed
-
-<hr/> --->
