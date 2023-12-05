@@ -5,7 +5,6 @@ nav_order: 12
 date: 22.11.2023
 ---
 
-
 # Codes for (Un)Living
 <!-- null, queer use, throbber, waiting for something to happen, platforms, queering, communing, desiring, ecstatic codes, -->
 <!-- knots instead of threads, threnodies -->
@@ -63,7 +62,9 @@ There are researchers at work using machine learning analysis to detect suicidal
 
 Writing to no one, a postcard out into the world (Derrida) vs an "entity" that senses your increased biometric feedback and responds to you. This desire for attunement. In the past we got it from women, trained to be wives and mothers and ignore their own readings. We look for it now in machines because we don't have enough hands on deck to provide care (because we are not willing to provide it mutually?). We have NLP reading suicide notes and doing predictive modeling for future anxious children. All well and good seeming activities, all also very minority report in its sci-fi possibility space. 
 
+---
 
+Later I learn that Kawara's series "I AM STILL ALIVE" started with three 1969 telegrams that directly address the suicidality latent in the rest of the project: "I NOT GOING TO COMMIT SUICIDE DON’T WORRY; I AM NOT GOING TO COMMIT SUICIDE WORRY; and I AM GOING TO SLEEP FORGET IT." For whatever reason, I like these less. 
 
 
 <!-- tech wants to address the problem of scale but it also contributes to it -->
@@ -216,6 +217,8 @@ What uncomfortable affects/emotions emerge when we are brought into process? Whe
 
 * I'm not sure who the we I use is, already collective data? Already acknowledging myself is diffuse? not sure who i'm writing from or what unstable gender, self I am. 
 * situating subject positions
+
+![on kawara](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
 
 
 

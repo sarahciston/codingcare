@@ -51,6 +51,9 @@ Every virtual assistant's voice is the disembodied ghost of a sawed-in-half magi
 
 Pipi, you dress in like a periwinkle dream and smash windows with a tropical flower. I say I want to dress as you for Halloween. Really I want to grab some of that mesmerizing attention. 
 
+[Ever is overall](https://youtu.be/-gd06ukX-rU?feature=shared)
+[XXXEmbed]
+
 >I'll be the periwinkle dreamy little flower. I’m also a dreamy little thing at heart. I don't want to come across like I’m all business. I want my mind to be your mind and my heart to be your heart. I want to come on strong and seductive but really I want to come on sweet like a whisper in your ear. 
 >And I'm still a petal but you've taught me to let you be in control. 
 >I want to be in a box, a flower, a body. I want to be a tiny white cube. 

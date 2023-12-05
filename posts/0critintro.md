@@ -7,7 +7,7 @@ date: 15.11.2023
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
-<!-- # Trans*formative TechnoCraft -->
+# Trans*formative TechnoCraft
 
 1. TOC
 {:toc}
@@ -47,7 +47,14 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Connecting Critical AI & Creative Coding
 
-Trans*formative TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
+Trans\*formative TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
+
+I invoke craft here as an expression of the theories, ethics, and tactics of intersectionality and sustainability, in order to ground these ideas in tangible practices which grow out of [lived] communities. Re-binding craft to technology brings slow, circular, cooperative, inclusive, caring [offerings] in order to transform [xxx]
+
+<!-- How do we encourage this entanglement further? Through approaches that emphasize -->
+The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as [xxx expand and exploit/exclude from]. A handful of powerful companies warn of the coming dangers, in order to distract from the current dangers they perpetuate. Already toothless policy recommendations are quickly watered down and ignored, while [more and more data represent less and less diversity][more and more compute, more and more natural resources,][harmless fun on one side of the globe is life and death on another.]
+
+[What does Trans\*formative Technocraft look like? How could it operate? Where does it already? What is it exactly?]
 
 <p class="quote" markdown=1>
 "Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." 
@@ -202,12 +209,12 @@ This is a practice of artistic research, research-creation, and/or arts-based re
 ### These approaches are entangled
 
 Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors out of balance. She argues this calls for
->"a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" @dunbar-hesterHackingDiversityPolitics2019
+>"a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" [@dunbar-hesterHackingDiversityPolitics2019]
 >"Voluntaristic technology communities are important sites because they are utopian spaces where people play and tinker not only with technical artifacts but with social reality, imagining social relations through participation"
 
 DH: not about diversity in tech directly, aim at broader social goals of [e.g. decolonization, ecological sustainability, distribution of wealth] which would necessitate changes in tech sector. 
 
->"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley "Dataveillance and Countervailance" in @gitelmanRawDataOxymoron2013)
+>"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley "Dataveillance and Countervailance" in [@gitelmanRawDataOxymoron2013])
 
 
 <!-- Agentic Design & Generative Justice, Audrey Bennett, Ron Elgash-->
@@ -225,7 +232,7 @@ Trans\*formative here means emergent, embodied, embedded practices. It means pro
 
 'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair beyond punishment, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care and reorienting the values embedded within technical objects and practices.[cite][^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
 
->"From the design to the production to the deployment to the outcome, there is constantly bias built in. It's not just the biases of the people themselves; it’s the inherent bias within the system. There's so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don't believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled." (Hamid Khan interviewed in @ryan-mosleyActivistDismantlingRacist2020) 
+>"From the design to the production to the deployment to the outcome, there is constantly bias built in. It's not just the biases of the people themselves; it’s the inherent bias within the system. There's so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don't believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled." (Hamid Khan interviewed in [@ryan-mosleyActivistDismantlingRacist2020]) 
 
 [^reparative]: Reparative and restorative processing are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBTQIA+ histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions]. 
 
@@ -288,7 +295,9 @@ Like the apostrophe at the start of `'pataphysics`, which gestures to the absurd
 
 It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not a redaction which the asterisk marks, but the possibilities of unknown language underneath. Or the tension of knowing and not saying, as in the marking of `sw*@r` words. [Again, queer as a politics, "queer as in fuck you."] 
 
-The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. In mathematics the asterisk is duality, mirrors mirroring each other, points connecting to make lines and lines crossing to make points, weak-star topologies and infinite vector space. This returns us to the word vectors and latent spaces of transformers.[CITEMiller] 
+The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. In mathematics the asterisk is duality, mirrors mirroring each other, points connecting to make lines and lines crossing to make points, weak-star topologies and infinite vector space. This returns us to the word vectors and latent spaces of transformers.[^Q][CITEMiller] 
+
+[^Q]: [XXXNEWneedsexplaner/isfootnote?] As of this writing, we have the newly announced Q*, Open AI's latest project, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023], at the same time as "The Gospel" AI system is used in Isreal to select and increase its bombing targets [hand over fist] [@daviesGospelHowIsrael2023]. [The snake eats itself, the war tech that was being developed at the same time as the beginning of AI, now AI being used for war.] (Warning of the future dangers of AI is a marketing strategy (GPT-2 was a 'too big and too dangerous to release technology and GPT-4 is pay-to-play) and worse it is a distraction from the current dangers they impose, like The Gospel and in more subtle forms.)[XXX]
 
 And all this comes back to nearness and distance, how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values could rule instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? 
 ~~What about activation functions that put these on XY axes and tamper with the expectations/intuitions?~~
@@ -311,27 +320,35 @@ We have created so many algorithms for pathfinding. We are constantly optimizing
 
 ### Nearbyness
 
-I want to write a theory of nearbyness (near-bi-ness) that is not a theory of nearness. Not nearness as measures and scores, not proximity and similarity, not K-means and K-nearest-neighbors. This is `nearbyness` as a practice for `attending-to`, not `nearness` as a study for `assumption-making`. Nearbyness enacts — through what it places side-by-side, in conversation, in contact, in texture, in tension — that, and how, and why its elements require each other. Nearbyness prefigures the more-than which this closeness creates. This is a trans\*disciplinary practice, as more than the sum of its combined fields or niches, and it is a trans\*formative practice too. 
+>"not to speak about but rather to speak nearby"
+>>–Trinh T. Minh Ha [@chenSpeakingNearbyConversation1992]
 
-This nearbyness responds to computational values of compartmentalizing, modularity, and encapsulation, which silo off data from the code that operates on it. They separate disciplinary discources from politics and from each other. They separate for efficiency and understanding, security and containment. As Tara McPherson argues, computation's modular values emerged simultaneously with and in response to the civil rights movement in the US: "the very structures of digital computation correspond to larger cultural shifts that seek to cordon off race and to contain it" [-@mcphersonFeministSoftwareLab2018]. McPherson's metaphor of "lenticular" postcards, which show two separate images when viewed from different angles, demonstrate how modularity allows for invisibility, despite proximity. She argues that lenticular perspectives position 
+I want to write a theory of nearbyness (near-bi-ness) that is not a theory of nearness. Not nearness as measures and scores, not proximity and similarity, not K-means and K-nearest-neighbors. Filmmaker Trinh T. Minh Ha describes 'speaking nearby' as "a speaking that does not objectify, does not point to an object as if it is distant from the speaking subject or absent from the speaking place. A speaking that reflects on itself and can come very close to a subject without, however, seizing or claiming it" [@chenSpeakingNearbyConversation1992]. This is `nearbyness` as a practice of attending-to, not `nearness` as the foundation for assumption-making. Nearbyness enacts via poetic logics and "forms of indirectness" — through what it places in conversation, in contact, in texture, in tension — that, and how, and why its elements require each other. Nearbyness prefigures the more-than which this closeness creates. This is a trans\*disciplinary practice, as more than the sum of its combined fields or niches, and it is a trans\*formative practice too. 
 
->"our understandings of race in very narrow registers, fixating on sameness or difference while forestalling connection and interrelation. [...] A lenticular logic is a logic of the fragment or the chunk, a way of seeing the world as discrete modules or levels, a mode that suppresses relation and context." 
+I want to take up Trinh's argument that the nearby "is an attitude in life, a way of positioning oneself in relation to the world. Thus, the challenge is to materialize it" [@chenSpeakingNearbyConversation1992], in order to argue that this nearbyness can respond to computational values of compartmentalizing, modularity, and encapsulation, which silo off data from the code that operates on it. They separate disciplinary discources from politics and from each other. They separate for efficiency and understanding, security and containment. As Tara McPherson says, computation's modular values emerged simultaneously with and in response to the civil rights movement in the US: "the very structures of digital computation correspond to larger cultural shifts that seek to cordon off race and to contain it" [-@mcphersonFeministSoftwareLab2018]. McPherson's metaphor of "lenticular" postcards, which show two separate images when viewed from different angles, demonstrate how modularity allows for invisibility, despite proximity. She argues that lenticular perspectives position "our understandings of race in very narrow registers, fixating on sameness or difference while forestalling connection and interrelation. [...] A lenticular logic is a logic of the fragment or the chunk, a way of seeing the world as discrete modules or levels, a mode that suppresses relation and context." 
 
 >[XXX add Chun's promiscuous/leaky/slutty data]
 
-From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, these projects deny their entanglements. They reduce these entanglements to magnitudes of distance in vector dimensions. 
+From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, such projects deny their entanglements. They reduce these entanglements to magnitudes of distance in vector dimensions. 
 
-Even "meaning" in language is increasingly defined by these numerical representations of proximity. Through natural language processing, nearness becomes co-occurance becomes word vector becomes fact and prediction. The [modus operandi/battle cry] of the predictive systems underlying tools like AdSense and GhatGPT is a 1957 quip: "the meaning of a word can be inferred by the company it keeps" [@firthApplicationsGeneralLinguistics1957]. 
+Even "meaning" in language is increasingly defined by these numerical representations of proximity. Through natural language processing, nearness becomes co-occurance becomes word vector becomes fact and prediction. The [modus operandi/battle cry] of the predictive systems underlying tools like AdSense and GhatGPT is a 1957 quip from linguist JR Firth: "the meaning of a word can be inferred by the company it keeps" [@firthApplicationsGeneralLinguistics1957]. 
 
-`Nearbyness` resists this denial of complex entanglements than through reuniting them in conversation, bringing close without collapsing distinctions. It is a different way of placing side by side, making note of more than frequency and sameness, and with the aim for another kind of knowing than to conquer.  
+`Nearbyness` resists this denial of complex entanglements by reuniting them in conversation, bringing close without collapsing distinctions. It is a different way of placing side by side, making note of more than frequency and sameness, with the aim to replace knowing-as-conquering with other kinds of understanding. [[XXX](frisson, disparity, spark, heterogeny, more?)] Romi Morrison's work on flesh and unknowability describes this alternative way of knowing:
+
+>"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." [@morrisonFlesh2021, 253]
+
 
 >"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other's ﬂesh for one's own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It's the experience of affect, of being receptive, in real time." [@berlantCommonsInfrastructuresTroubling2016]
 
-These operations of nearbyness bring us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. [This project enacts the process through intuitive and counter-intuitive feeling [CITETinaCampt][weirdpivothere?].] For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream. I believe it is both, collecting fragments when you cannot yet see a form, when you cannot do anything else; then cutting away at them until what has already formed becomes clearer. 
+These operations of nearbyness bring us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. [This project enacts the process through intuitive and counter-intuitive feeling [CITETinaCampt][weirdpivothere?].] For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream. I believe it is both, collecting fragments when you cannot yet see a form, when you cannot do anything else; then cutting away at them until what has already formed becomes clearer. Anuradha Reddy describes the process of working with varied materials similarly as a process of "adjacency":
 
 <!-- accumulation and cutting away, pattern finding in collections of data, as the reverse proxies for making and testing theories, contraposed knowledge generating systems [Joque, Revolutionary Mathematics] -->
 
 [^Flusser]: "[Writing] has nothing to do with constructing. It is, on the contrary, a taking away, a de-structing. It is, both structurally and historically, closer to sculpture than to architecture. It is a gesture of making holes, of digging, of perforating. A penetrating gesture. To write is to in-scribe, to penetrate a surface," 
+
+>"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one's expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." [@reddyArtificialEverydayCreativity2022]
+
+This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. [XXX]
 
 <!-- write with the machine of me and the machines i have learned along the way.  --> 
 
@@ -451,72 +468,80 @@ Texture, for Eve Kosofsky Sedgwick, is a way of talking about the space between 
 
 >"the sense of touch makes nonsense out of any dualistic understanding of agency and passivity; to touch is always already to reach out, to fondle, to heft, to tap or enfold, and always also to understand other people or natural forces as having effectually done so before oneself, if only in the making of the textured object." [@sedgwickWeatherProust2012]
 
-Here Sedgwick connects the experience of making craftwork with experiencing the made craft, with touching and being touched by, and with multidimensional sense and scale. I also see this as a way of understanding machine learning modeling through new, non-hierarchical metaphors of technocraft. What is the scale and dimensionality of machine learning? Does it "dramatize its dimensional betweenness," as Sedgwick describes the way a folded dyed fabric or a paper snowflake, once unfold, retains the memory of past shapes? [@sedgwickWeatherProust2012]. Similarly, Ingold describes how once knotted ropes retain their bends: "But the knot remembers everything, and has everything to forget" [@ingoldLifeLines2015]. These material memories, as marks of their current and past states simultaneously, could be tangible metaphors for understanding machine learning, or even quantum computing (folding was a fascination of quantum physicist David Bohm). They show that in any working with material, the material works back.
+Here Sedgwick connects the experience of making craftwork with experiencing the made craft, with touching and being touched by, and with multidimensional sense and scale. I also see this as a way of understanding machine learning modeling through new, non-hierarchical metaphors of technocraft. What is the scale and dimensionality of machine learning? Does it "dramatize its dimensional betweenness," as Sedgwick describes the way a folded dyed fabric or a paper snowflake, once unfold, retains the memory of past shapes? [@sedgwickWeatherProust2012]. Similarly, Ingold describes how once knotted ropes retain their bends: "But the knot remembers everything, and has everything to forget" [@ingoldLifeLines2015][, and Laura Marks says "electrons remember" [@marksTouchSensuousTheory2002]]. These material memories, as marks of their current and past states simultaneously, could be tangible metaphors for understanding machine learning, or even quantum computing (folding was a fascination of quantum physicist David Bohm). They show that in any working with material, the material works back.
 
 Thinking through technology with a TechnoCraft lens opens more points of reference for addressing complexity and complex systems that prexist the emergent techonlogies we are encountering now. 
 
 <!-- In the fractal nature of these shapes: "a structure that's very complex, repetitive, or disorienting in the lower-dimensional, explicate order could also emerge as very simple in the higher-dimension implicate or vice versa."
 [@sedgwickWeatherProust2012].  -->
  
-
-#### Access, labor, relation
+#### Sustain(ability)
 
 >"the pre-Industrial craftsman didn’t seem to have secret tricks as much as he had lots of opportunities to practice and become swift."[@schwarzAnarchistToolChest2010]
-<!-- >"artisans didn’t require as many tools because the basic skill level was higher."[@schwarzAnarchistToolChest2010] -->
 
-Craft suggests more time spent with one's objects and materials — allowing for repair, error, and air. It is about simple tools known well [@schwarzAnarchistToolChest2010]. It is about simple gestures repeated until they become habit: muscle memory and implicit knowledge. Repeated until they become complex patterns: quilts, rice kolams, [xxx]. Repeated until they make space for other things to happen in their presence: sewing circles, hacker spaces.
-<!-- 
-#### Relation
+Craft suggests more time spent with one's objects and materials — allowing for repair, error, and air. It regards simple tools known well [@schwarzAnarchistToolChest2010]. It accumulates through simple gestures repeated until they become habit (muscle memory, durational practices, implicit knowledge), repeated until they become complex patterns (quilts, quines rice kolams), repeated until they make space for other things to happen in their presence (sewing circles, hacker spaces, political action).
 
-#### [Labor relations] -->
+Alexander Langland returns to the older definition of 'craeft' as a lifesustaining skill built over generations. He sees craftwork as holistic interrelation rather than individual objects or skills. He says, "Crafts have always been determined by the immediate environment, and indexed to the resources of the natural world." Imagine if we saw technology's global supply chains as the integrated lifecycle of care that Langland describes, which starts with: 
 
-Approaching technology through the lens of craft also organizes labor and relations differently. 
+>"tended landscape > sustainable production of raw materials > intelligently processed > beautifully made > fit for purpose > fondly used > ingeniously reused > considerately discarded > given back to the earth" [@langlandsCraeft2019]
 
+#### Infrastructures of care 
+
+<!-- Community // Access, labor, relation // crafting infrastructure -->
+
+Approaching technology through the lens of craft slows it down and asks it to sustain. It also [organizes [people,] labor and relations] differently. Consider the feminist server: 
+
+>"rosa [travelling server] is not only constituted in hardware or sotware, but also the multitude of relations that are created around the making, maintaining and passing on of this infrastructure: the processes that are performed, the affective charge of their actioning, the community around them." [@TraversalNetworkFeminista]
+
+Feminist servers run slowly. Sustaining them takes "years of intense collective learning," replete with uncomfortable tensions and messy differences. It's these very ambivalances which Ines Kleesattel argues are crucial for Feminist Server Art, because they point to the fact that "All kinds of infrastructures involve service, maintenance, and care labor" (Kleesattel in [@sollfrankAestheticsCommons2021]).
+
+By choosing "low-effort publishing tools" like like [varia etherdump](https://etherdump.vvvvvvaria.org/), by providing strategic services like analog infrastructure for mutual aid, as well as digital infrastructure like hosting archives and zombie sites of ongoing work, feminist servers like [Anarchaserver](https://anarchaserver.org/) create and codify solidarity networks. They are forms of "feminist convergence" that embody their values through their choice of methods and material offerings:
+
+>"For us feminist infrastructure enables the systematization, the maintenance and the circulation of good ideas, practice and care. For us, solidarity networks are an example of feminist infrastructure. And we think it represents one of our earliest feminist technologies, perhaps the oldest and the most widespread." [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
+
+To consider technology as entangled with its affective and labor relations, as many have argued [CITE?], resituates tech into a variety of communities of practice and reframes its relationship to caretaking. Although many have looked to technological solutions like bots to address issues of labor and caretaking, more often technology itself requires caretakers and creates more care labor. To upend this, feminist infrastructures show how care is generated through human networks. It places technology within this circuit of human relations rather than as a replacement for it.
+
+>"The point is not only to expose or reveal invisible labours of care, but also to generate care. [... G]enerating care means counting in participants and issues who have not managed or are not likely to succeed in articulating their concerns, or whose modes of articulation indicate a politics that is 'imperceptible' within prevalent ways of understanding." [@delabellacasaMattersCareTechnoscience2011]
+
+<!-- >"Communities exist and they are everywhere. unceasingly creating and recreating themselves [...]. all technologies [are] developed in community, these communities can be more or less autonomous or more or less controlled by cooperation, the struggle for sovereignty is about these communities, nobody invents, builds, or codes alone, quite simply because the task is such that it would be impossible." [@padillaPrefaceTechnologicalSovereignty] [XXXcut?] -->
+
+* communities of practice
+Gabriella Coleman aligns hackers with craft guilds, focusing on the "intellectual guile" required for both (outside the box thinking)
 >"The alignment of craft and craftiness is perhaps the best location to find a unifying thread that runs throughout the diverse technical and ethical worlds of hacking. [...] all hackers fit the bill as quintessential 'craftspeople,' [...] Even if craftspeople tend to work in solitude, crafting is by definition a collectivist pursuit based on shared rules of engagement and standards for quality." 
->"Intellectual guile" (outside the box)
 >"Craftiness, then, can be seen as thinking outside the box, or circumvention of inherent technological limitations in pursuit of craft. But we can also understand craftiness as exceeding mere instrumentality."
-Coleman aligns hackers with crafts guilds. Requires "intellectual guile"
 >[@colemanHackers2016]
 
->"Resistance to the Current: The Dialectics of Hacking"  [@soderbergResistanceCurrentDialectics2022]
+*communities of practice*
+* thin description, humble un-/knowing, kaleidoscopic subjectivity
+* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
 
-in the muscle memory
-* handmade, craft, iterative, durational practices
-* communities of practice
-* deep interdisciplinarity
-
-
->"rosa [travelling server] is not only constituted in hardware or sotware, but also the multitude of relations that are created around the making, maintaining and passing on of this infrastructure: the processes that are performed, the afective charge of their actioning, the community around them." [@TraversalNetworkFeminista]
 
 #### Entangled theory and practice
 
 >"[Garments] process and store data. Because there is no difference between the process of weaving and the woven design, cloths persist as records of the processes which fed into their production: how many women worked on them, the techniques they used, the skills they employed. The visible pattern is integral to the process which produced it; the program and the pattern are continuous. [@plantZerosOnes1998, p. 66]
 
-
 These are not metaphors but material, infrastructures undergirding systems that uphold power — woven into the warp and weft.
-
-* role of embodied knowledge on form, plat/form, landscape, who/how access
-
->"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one’s expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." [@reddyArtificialEverydayCreativity2022]
->"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity"
-
-<!-- tech = lab approach Bell Labs, The Lab Book: "anything is a lab" "creativity as basic to research. >research-creation [@wershlerLabBook2022] -->
-
-*Process oriented approaches*
-
-[sadiebenningitwasn'tlove]
-
-*communities of practice*
-* thin description, humble un-/knowing, kaleidoscopic subjectivity
-* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
 
 >"craft in terms of a set of materials and practices—that is, fiber art—it hopes to advocate that craft might more usefully be viewed as a process, as in crafting an identity, or crafting a community"
 >>[@fountainSurvivalKnittestCraft2021]
 
 >"craft, or more broadly the notion of crafting, is an essential strategy for living and loving ‘otherwise.’ [@fountainSurvivalKnittestCraft2021]
 
+* role of embodied knowledge on form, plat/form, landscape, who/how access
 
-#### Context, contingency / history and 
+*Process oriented approaches*
+* queer (trans)feminist infrastructures & queer use
+
+>"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity"[@reddyArtificialEverydayCreativity2022]
+
+[sadiebenningitwasn'tlove]
+
+<!-- tech = lab approach Bell Labs, The Lab Book: "anything is a lab" "creativity as basic to research. >research-creation [@wershlerLabBook2022] -->
+
+
+#### **LEGACIES:** 
+
+*Context, contingency / history and*
 
 Tech via craft is always contingent and contextual. 
 
@@ -524,17 +549,6 @@ Tech via craft is always contingent and contextual.
 >"When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display."
 >"data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place."
 >>[@loukissasAllDataAre2019]
-
-// [alex langland] craft moved from artisan skill building over a lifetime, an integral part of life sustaining to a hobby practiced on the side. technocraft can hold both meanings. 
-craft points to a lifecycle of care that starts with "a tended landscape, the sustainable production of raw materials, intelligently processed, beautifully made, fit for purpose, fondly used, ingeniously reused, considerately discarded, and then given back to the earth" [craeft via podcast] [@langlandsCraeft2019]
-
-
-Craft moved from lifesustaining skills built slowly over decades, to hobbies practiced on the side,  to 
-Langland sees craft, or his older definition of 'craeft', as a holistic interrelation rather than individual objects or skills. He says, "Crafts have always been determined by the immediate environment, and indexed to the resources of the natural world." Imagine if we saw technology's global supply chains as the integrated lifecycle of care that Langland describes, which starts with: 
-
->"tended landscape > sustainable production of raw materials > intelligently processed > beautifully made > fit for purpose > fondly used > ingeniously reused > considerately discarded > given back to the earth" [@langlandsCraeft2019]
-
-#### **LEGACIES:** 
 
 >"perceives history as a messy entanglement rather than a linear graph" [Critical Coding Cookbook] [@shihCriticalCodingCookbook2022]
 
@@ -555,7 +569,7 @@ American Artist proposes the Black Gooey as an alternative to the development of
 
 
 
-<!-- codebending (2015) repurposing languages and interfaces @CodeBendingNew -->
+<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
 
 >"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, my proposal of the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. This places the stitch in the repertoire of strategies including the methodology of the oppressed, as described by Chela Sandoval, and the science of the oppressed, as proposed by Monique Wittig and elaborated by the art collectives *particle group* and the Electronic Disturbance Theater (with which I collaborate). The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence" [@cardenasTransColorPoetics2016]
 
@@ -564,8 +578,7 @@ American Artist proposes the Black Gooey as an alternative to the development of
 
 **TechnoCraft** honors historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — and aligns them with the aspects of technology which get overlooked: namely, the contributions to the materiality of tech from Women of Color in the global majority. 
 
-move slow and fix things, capacities for repair and air and error and poesis in the techne. 
-
+<!-- skip risk? -->
 #### **RISK**
 
 <!-- David Pye calls craft "the workmanship of risk" because "the quality of the result is continually at risk during the process of making" in contrast to "quantity production" which he calls the "the "workmanship of certainty." In the workmanship of risk, "the quality of the result is not predetermined, but depends on the judgment, dexterity and care which the maker exercises" [@pyeNatureArtWorkmanship2010]. -->
@@ -573,6 +586,8 @@ move slow and fix things, capacities for repair and air and error and poesis in 
 Machine learning, as a mass production, produces certainty from uncertainty – from millions of uncertainties, argues Louise Amoore [@amooreCloudEthicsAlgorithms2020].
 
 Richard Sennett: "we might think that a good craftsman, be she a cook or a programmer, cares only about solving problems, about solutions that end a task, about closure. In this, we would not credit the work actually involved. In the Linux network, when people squash one 'bug,' they frequently see new possibilities open up for the use of the code. The code is constantly evolving, not a ﬁnished and ﬁxed object. There is in Linux a nearly instant relation between problem solving and problem ﬁnding." [@sennettCraftsman2008]
+
+* deep interdisciplinarity
 
 
 ### TechNO 
@@ -685,29 +700,6 @@ Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.htm
 >"lesbian-feminist information infrastructures are built and sustained through networks that facilitate collaboration and resource-sharing amid precarious conditions."
 [@mckinneyInformationActivismQueer2020]
 
-- Feminist server art
-
->"The point is not only to expose or reveal invisible labours of care, but also to generate care. [...] In the perspective proposed here, generating care means counting in participants and issues who have not managed or are not likely to succeed in articulating their concerns, or whose modes of articulation indicate a politics that is ‘imperceptible’ within prevalent ways of understanding."
->>[@delabellacasaMattersCareTechnoscience2011]
-
->"All kinds of infrastructures involve service, maintenance, and care labor, [...and] their study can more precisely be understood as a concern of *feminist* aesthetics in particular." —Ines Kleesattel, Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art in [@sollfrankAestheticsCommons2021]
-
-Sustaining feminst servers takes "years of intense collective learning" (Kleesattel [@sollfrankAestheticsCommons2021]). "Tensions, ambivalences and immanent differences are uncomfortable and messy—and precisely therefore crucial for [...] Feminist Server Art," says Kleesattel. It holds "interrelated dimensions of actual hardware and software, common infrastructures, limited resources, care- and service labors, more-than-human poetics and speculative fabulations."
-
-* queer (trans)feminist infrastructures & queer use
-   * feminist servers: Spideralex [anarchaserver](https://anarchaserver.org/) (3 containers: data server, services hosting, zombie sites). feminist infrastructures (analog and digital), feminist servers galaxy, solidarity networks, earliest oldest widespread: apply transact feminist convergence. [transcript](https://pad.vvvvvvaria.org/ATNOFS-radio-broadcast-spideralex-danae-tapia):
-
-   >"the tyranny of structurelessness, for instance. The difference between the people that developed the code, and the people that create the links and the interface with the inhabitants, the users of those networks, we didn't call them users, but inhabitants, because we wanted them to be involved in the management of that infrastructure." (Spideralex)
-
-   >>from an Introduction to Technological Sovereignty by [Margarita Padilla(https://sobtec.gitbooks.io/sobtec2/content/en/content/01preface.html)]:
-   >>"So as with all other sovereignty, technological sovereignty is made in communities. Communities exist and they are everywhere. unceasingly creating and recreating themselves, shared flats, neighborhoods, friends, workmates, professional networks, extended families, communities are everywhere. As with any symbolic construction communities are not something you can see with your eyes. They are something you see with your mind and feel the bonds with your heart. For those of us fighting for technological sovereignty, communities are a tangible reality. They're there. We see them and we feel them and though technologies theories are, typically related to consumer, luxury goods and insulated individualism. This is only the vision presented by the industry and the market, a market that seeks to isolate and be Wilder consumer, all technologies developed in community, these communities can be more or less autonomous or more or less controlled by cooperation, the struggle for sovereignty is about these communities, nobody invents, builds, or codes alone, quite simply because the task is such that it would be impossible."
-
-   >"any infrastructure you need to set up from scratch, it's slow, and then it becomes like, it goes faster, it accelerates at one stage, I don't know why, I guess that you need to build the structure, the infrastructure that is going to be sustaining everything. And when you are figuring how to build it, or what is the better ways when things are slower. [...] And when you build a project that is based on informal and volunteer work, to maintain an infrastructure, things are gonna be slow, because yeah, we are all feminists. So we are very busy. We are struggling in different fights that are sometimes death and life important. And of course, like being able to learn to administrate services or host contents, maybe is not always the first thing in our list."
-
-   >"Of course, all the feminist hack labs, fab labs, bio labs, feminist radios, servers, and artificial intelligence, internet bots and protocols that are developed or think or theorize from a feminist perspective. All the work around restorative justice process, feminist science fiction and futurotopis, building feminist libraries and fanzines, developing documentation and memory tools. Contributing to the herstory, producing and maintaining self defense resource about digital, connected space but also physical security. Permacultural gardens. Other gardens. Lands. Spells. Rituals. These tools, techniques for lives, land defending, all these are important and is part of the feminist infrastructure we are interested in."
-
-   how the feminist digital infrastructure approaches are zine like in their community building and slowness and choices of kinds of offerings and what and how they support, distribution methods of both content and tools, 
-   "low-effort publishing tools" like [varia etherdump](https://etherdump.vvvvvvaria.org/)
 
 
 <!-- participation is not a design fix @sloaneParticipationNotDesign2022 -->
@@ -727,6 +719,7 @@ In deep interdisciplinary practice in classrooms, necessarily, "the topic of inq
 **These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
 TERM: *Deep Interdisciplinarity* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
 
+* deep interdisciplinarity
 
 
 
@@ -1034,7 +1027,7 @@ deep interdisciplinarity
   - “Database design, in that way, is 'an exercise in worldbuilding,' a normative process in which programmers are in a position to project their world views—a process that all too often reproduces the technology of race.” [@benjaminRaceTechnologyAbolitionist2019]
 - Uncertainty reduced to certainty 
   - "[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
-  - >>"If uncertainty is the ability for the unknown to be accounted for by comporting to containment under the logics of algorithmic models, then what can unknowability offer instead? [...]["BLACKNESS as space of ethical absence," "the unknown as a subject"] Unknowability born from the figure of the flesh opens the space for ways of understanding the world that are otherwise discounted because of their inability to be neatly measured and accounted for. It is the place in which irresolution is allowed to reside." (Morrison 2021, 255) >>"flesh becomes an essential outlier from which to assess the limitations of sociotechnical fixes. Flesh is the poignant, unavoidable signifier and text upon which to read the history and reality of total expropriation of value from bodies and land." (255) >>"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." (253) *relational knowing* [@morrisonFlesh2021]
+  - >>"If uncertainty is the ability for the unknown to be accounted for by comporting to containment under the logics of algorithmic models, then what can unknowability offer instead? [...]["BLACKNESS as space of ethical absence," "the unknown as a subject"] Unknowability born from the figure of the flesh opens the space for ways of understanding the world that are otherwise discounted because of their inability to be neatly measured and accounted for. It is the place in which irresolution is allowed to reside." (Morrison 2021, 255) >>"flesh becomes an essential outlier from which to assess the limitations of sociotechnical fixes. Flesh is the poignant, unavoidable signifier and text upon which to read the history and reality of total expropriation of value from bodies and land." (255) [@morrisonFlesh2021]
 Morrison, Romi Ron. (2021). "Flesh." In Thylstrup, N. B., Agostinho, D., Ring, A., D’Ignazio, C., & Veel, K. (Eds.) Uncertain Archives: Critical Keywords for Big Data. (pp. 240-257). The MIT Press.  https://doi.org/10.7551/mitpress/12236.003.0027
 - Displaced agency, diffused responsibility
 - Bias transfer:

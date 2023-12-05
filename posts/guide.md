@@ -239,7 +239,7 @@ I learned to use scrappy artistic strategies from my first computational arts te
 
 If something exists, ask how it does. Ask if it should. Reverse engineer it. Run it backward. Learn from others' tutorials. Combine them. Modify them liberally. Pull from everywhere and remix wildly. Cite generously.
 
-This is part of what we mean by scrappy — thoughtfully or playfully experimenting with the properties and limits of your materials, whether those materials are strings of wool or strings of code. This kind of "breaking" things is an essential artistic practice, and it looks different in every situation. It can range from off-the-cuff experimentation – "What happens if I push this?" — to full-fledged tactical media artworks that operate by digital civil disobedience – like the collective Electronic Disturbance Theater, which created tools to shut down government websites by pinging them repeatedly (called "distributed denial of service").[cite] For my past projects, this has ranged from diving into technology spaces I dislike (Reddit forums), tinkering with combining wildly different APIs[^api], and putting poetry into machine learning systems meant for corporate use. 
+This is part of what we mean by scrappy — thoughtfully or playfully experimenting with the properties and limits of your materials, whether those materials are strings of wool or strings of code. This kind of "breaking" things is an essential artistic practice, and it looks different in every situation. It can range from off-the-cuff experimentation – "What happens if I push this?" — to full-fledged tactical media artworks that operate by digital civil disobedience – like the collective Electronic Disturbance Theater, which created tools to shut down government websites by pinging them repeatedly (called "distributed denial of service")[CITE]. For my past projects, this has ranged from diving into technology spaces I dislike (Reddit forums), tinkering with combining wildly different APIs[^api], and putting poetry into machine learning systems meant for corporate use. 
 
 Critically breaking things helps us understand how they work (or don't work) from inside. It lets us understand some of the why behind their operations, the decisions that went into making them. Who are they made for? And with what goals? Who are they not made for and who do they not serve? It helps us think about how we might make them differently. I break stuff to see if its not-working can create some poetry, some community, some other way to engage with value than its original (likely capitalist) purpose. [CITEhtmlEnergy][XXX]
 
@@ -341,6 +341,10 @@ I have learned from many communities building transfeminist infrastructures that
 {:.sidenote}
 
 Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
+
+>"any infrastructure you need to set up from scratch, it's slow, and then it becomes like, it goes faster, it accelerates at one stage, I don't know why, I guess that you need to build the structure, the infrastructure that is going to be sustaining everything. And when you are figuring how to build it, or what is the better ways when things are slower. [...] And when you build a project that is based on informal and volunteer work, to maintain an infrastructure, things are gonna be slow, because yeah, we are all feminists. So we are very busy. We are struggling in different fights that are sometimes death and life important. And of course, like being able to learn to administrate services or host contents, maybe is not always the first thing in our list." [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
+
+
 
 </div>
 
@@ -637,6 +641,13 @@ How might we reject such ideas about our relationships with computers that are b
 {: .quote .attrib }
 
 Code Collective member [ender](https://www.enderverse.org/) expands on such ideas in a zine called, "[you are a coder](https://enderversing.itch.io/uracoder)." It discusses how users might be more empowered through customization tools to engage like programmers (and how many already do!), and how programmers are rely on languages as interfaces, just like other kinds of users do. It also includes more readings on this topic if you're interested, from David Chisnall, Olia Lialiana, Joanne McNeil, and Melanie Hoff [@enderYouAreCoder]. 
+
+<p class='quote'>
+"The difference between the people that developed the code, and the people that create the links and the interface with the inhabitants, the users of those networks, we didn't call them users, but inhabitants, because we wanted them to be involved in the management of that infrastructure."
+</p>
+<p class='quote attrib'>
+–Spideralex [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
+</p>
 
 ### Remember you know how to learn
 
