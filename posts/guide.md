@@ -857,6 +857,8 @@ The p5zine library is a beautiful example of coding and zine-making combining in
 
 [zines][cite][munisp5zine]
 
+Zine-making and open source coding ethoses overlap in the [Open Source Kitchen](http://osp.kitchen/), including tools that inspired this project. 
+
 <p class="quote">
 "I care about the process of making the zine, but I care even more about what the zine does." 
 </p>

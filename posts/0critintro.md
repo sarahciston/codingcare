@@ -499,6 +499,15 @@ By choosing "low-effort publishing tools" like like [varia etherdump](https://et
 
 >"For us feminist infrastructure enables the systematization, the maintenance and the circulation of good ideas, practice and care. For us, solidarity networks are an example of feminist infrastructure. And we think it represents one of our earliest feminist technologies, perhaps the oldest and the most widespread." [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
 
+>"How can the labour behind hosting be made inclusive, convivial, shared, visible not only in moments when things go wrong? In what ways does the language embedded in server administration influence the practices and interactions around it? How can servers be pedagogical spaces for experimentation for those with different knowledges?" [varia email list 28.11.2023]
+>"feminist servers, experimental publishing, convivial server administration, alternative social media, secure modes of sharing digital knowledge"
+
+[Transfeminist Digital Care Network]
+
+[Constant](https://constantvzw.org/site/)
+
+[Open Source Kitchen](http://osp.kitchen/)
+
 To consider technology as entangled with its affective and labor relations, as many have argued [CITE?], resituates tech into a variety of communities of practice and reframes its relationship to caretaking. Although many have looked to technological solutions like bots to address issues of labor and caretaking, more often technology itself requires caretakers and creates more care labor. To upend this, feminist infrastructures show how care is generated through human networks. It places technology within this circuit of human relations rather than as a replacement for it.
 
 >"The point is not only to expose or reveal invisible labours of care, but also to generate care. [... G]enerating care means counting in participants and issues who have not managed or are not likely to succeed in articulating their concerns, or whose modes of articulation indicate a politics that is 'imperceptible' within prevalent ways of understanding." [@delabellacasaMattersCareTechnoscience2011]
