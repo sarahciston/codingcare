@@ -8,23 +8,25 @@
 // @import url("https://use.typekit.net/yno1izp.css");
 // @import url('https://fonts.googleapis.com/css2?family=Jura:wght@200;500&family=Major+Mono+Display&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@200;500&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Jura:wght@400;700&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,300;0,600;1,200;1,500&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Jura:wght@400;700&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,300;0,600;1,200;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@200;500&family=Jura:wght@400;700&family=Major+Mono+Display&display=swap');
 
 
 
 body {
   // font-family: 'Ubuntu Mono', Courier, monospace; 
   // font-weight: 300;
-  font-family: 'Open Sans', sans-serif;
+  // font-family: 'Open Sans', sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
   font-weight: 300;
   font-style: normal;
-  font-size: 0.9em;
+  font-size: 0.8em;
   // background-color: lavender;
   background-color: whitesmoke;
 }
 
 a, a:visited {
-  font-family: 'Jura', 'Ubuntu Mono', monospace;
+  font-family: 'Jura', monospace;
   color: mediumslateblue;
   text-decoration-line: none;
   font-weight: 400;
@@ -37,7 +39,7 @@ a:hover, a:active {
 }
 
 b, strong, li, i, em {
-  font-family: 'Jura', 'Ubuntu Mono', monospace;
+  font-family: 'Jura', monospace;
   font-weight: 300;
   color: mediumslateblue;
 }
@@ -54,7 +56,7 @@ code {
 
 h1, h2, h3, h4 {
   // font-family: 'IBM Plex Mono', 'Ubuntu Mono', Courier, monospace;
-  font-family: 'Jura', 'Ubuntu Mono', monospace;
+  font-family: 'Jura', monospace;
   font-weight: 400;
   font-style: normal;
   color: mediumslateblue;
@@ -95,7 +97,7 @@ h4 {
 
 .purple {
   color: mediumslateblue;
-  font-family: 'Jura', 'Ubuntu Mono', monospace;
+  font-family: 'Jura', monospace;
 }
 
 .box {
@@ -151,7 +153,7 @@ h4 {
 
 .quote {
   color: mediumslateblue;
-  font-family: 'Jura', 'Ubuntu Mono', monospace;
+  font-family: 'Jura', monospace;
   // font-size: 0.9em;
   margin: 10px;
   // text-align: center;
