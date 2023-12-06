@@ -30,6 +30,7 @@ a, a:visited {
   color: mediumslateblue;
   text-decoration-line: none;
   font-weight: 400;
+  font-size: 1em;
 }
 
 a:hover, a:active {
@@ -38,11 +39,12 @@ a:hover, a:active {
   font-weight: normal;
 }
 
-b, strong, li, i, em {
-  font-family: 'Jura', monospace;
-  font-weight: 300;
+b, strong, li, i, em, code {
+  // font-family: 'Jura', monospace;
+  // font-weight: 300;
   color: mediumslateblue;
-  font-size: 1em;
+  // font-size: 1em;
+  // font-style: normal;
 }
 
 // i, em {
@@ -50,10 +52,10 @@ b, strong, li, i, em {
 //   font-style: italic;
 // }
 
-code {
-  color: mediumslateblue;
-  font-family: monospace;
-}
+// code {
+//   color: mediumslateblue;
+//   // font-family: monospace;
+// }
 
 h1, h2, h3, h4 {
   // font-family: 'IBM Plex Mono', 'Ubuntu Mono', Courier, monospace;
@@ -155,7 +157,7 @@ h4 {
 .quote {
   color: mediumslateblue;
   font-family: 'Jura', monospace;
-  // font-size: 0.9em;
+  font-size: 1em;
   margin: 10px;
   // text-align: center;
 }
