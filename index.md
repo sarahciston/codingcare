@@ -12,7 +12,7 @@ This work offers respect and gratitude to the Tongva and Chumash peoples, who ar
 
 <!-- !['tonight'](assets/img/goingonline.jpg){: .thumb } -->
 
-Here's where I'll be tinkering for a few years with a dissertation...
+<!-- Here's where I'll be tinkering for a few years with a dissertation... -->
 
 # Trans*formative TechnoCraft
 

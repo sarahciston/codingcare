@@ -350,6 +350,19 @@ These operations of nearbyness bring us to form and formative. The assembling lo
 
 This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. [XXX]
 
+[XXX][ADD BRIDLE SOMEWHERE]
+
+>"radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]
+
+James Bridle suggests that more ecological machines must be "non-binary, decentralized, and unknowing" [@bridleWaysBeingHuman2022] – pointing to where this already occurs in the more-than-human world in which we are immersed. He offers up slime moulds and liquid state machines as analogue computers that show how complex, non-binary operations: 
+
+>"have always existed in the natural world, but we had to recreate them in our labs and workshops before we were capable of recognizing them elsewhere. [...] We needed the mental models provided by our technology, the words we make up for its concepts and metaphors, in order to describe and proerly undeerstand that analogous processes are already at play in the more-than human world." 
+
+He also complicates digital decentralization through the reminder that "The project of decentralization also encompasses the process of decentering ourselves [and] additionally insists that actual power, rather than mere connectivity, is shared out." 
+[Bridle furthers these][Bridle offers] 
+
+"unknowing[, means acknowledging the limitations of what we can know at all, ][...] demands a kind of trust in ourselves and in the world to be able to function in a complex, ever-shifting landscape over which we do not, and cannot, have control."
+
 <!-- write with the machine of me and the machines i have learned along the way.  --> 
 
 [//]: # "the magnitude of the distance between them (close/far) of each dimension of the vector"
@@ -430,6 +443,10 @@ I dream of a form that can hold everything. A form that can reveal how each part
 Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-foldable traces of its making — a flattened, temporarily static version of its coming-into-shape, marking the places it once touched against itself as it held different forms [@sedgwickWeatherProust2012] — trans\*formative technocraft aims to "decipher the history of the making" and the future shapes it might take. 
 
 [^platformdream]: I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read and connect. [In my dream notes, I have written "semantic web layer cake?" and "Gollum platform?" I rarely imagine I am the only one imagining such things, until I try to explain them to others. I expect it to be easy, that these hybrid forms already exist — becaue they seem so small and obvious to me, how complicated could they be? But when I try to find some preexisting version, I come up empty, frustrated, confused. And I am left without tools or language to begin building such a connected and connecting form on my own.] 
+
+[xxxADD]
+>"True randomness is a slippery thing; it is a property not of things in themselves, like individual numbers, but of their relationship to one another. [...] Randomness is relational. [...] You can't programme a computer to produce true randomness, " 
+The problem of pseudorandomness, computation's inability to produce truly random numbers, happens because "Randomness is relational" 
 
 ## TechnoCraft
 
@@ -851,6 +868,10 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 {: .no_toc }
 
 What it calls for in the future...
+
+[future feminist machine musueum]
+[unsupervised pleasures][conscientious data for queer/diverse/intersectional futures]
+
 
 #### not classifying, a radical queer computing not based on classification but woven from the unknowing of genderless expression, of story
 >>"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)

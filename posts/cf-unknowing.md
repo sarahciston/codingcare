@@ -15,7 +15,9 @@ Inside, the black box bursts with color. It’s a whole tiny world in there, a h
 
 >The tiny world of Pipi’s TV is not the only space inside the box. On the second floor, there is a small, empty room, where the light bulb hangs from the ceiling. A door leads to a closet, where the box's handle is hidden. The closet has two large, empty drawers. These are the places where the box's content lives. It contains: Music. 
 
-This is about what is inside the black box. By definition, a "black box" is a thought experiment short hand for unknown space — space that doesn't need knowing or is presumed unknowable.
+This is about what is inside the black box. By definition, a "black box" is a thought experiment short hand for unknown space — space that doesn't need knowing or is presumed unknowable. 
+
+[XXX][nora on black box and limits of explainability]
 
 >>Pipi's music is the soundtrack to her life. It is a collection of songs that her parents played on the way to the park. It is a collection of songs that her friends made for her. It is a collection of songs that she downloaded on her phone, to listen to when she is alone. It is a collection of songs that her parents listened to in the car. It is a collection of songs that her dog listened to. 
 
