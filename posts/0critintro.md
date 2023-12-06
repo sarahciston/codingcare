@@ -3,7 +3,7 @@ layout: post
 permalink: intro
 title: critical introduction
 nav_order: 2
-date: 15.11.2023
+date: 05.12.2023
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
@@ -867,13 +867,13 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 [//]: # "TK: All Writing Is Code *tetherednetwork*"
 
 
-### Methodologies
+<!-- #### Methodologies
 * intersectional feminisms
 * queer & feminist media praxis, making/crafting, URGENTCRAFT
 * critical code studies & software studies
 * queer theories of futurity, failure, obfuscation, passing, flagging, survival
 * digital humanities & scholarly publishing
-* countercultural print publishing, avant-garde art & poetry, fluxus, oulipo
+* countercultural print publishing, avant-garde art & poetry, fluxus, oulipo -->
 
 # Bibliography
 
