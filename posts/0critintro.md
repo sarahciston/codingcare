@@ -757,6 +757,7 @@ Each section of Trans\*formative TechnoCraft offers an enactment of this thinkin
 The research foundational to this artistic practice is a critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. 
 
 ### CRAFT: *Coding.Care*
+{: .no_toc }
 
 * **care**: inter-relational, mutual aid, healing-centered, dyke ethics of community & nontraditional family, moving away from shame toward vulnerability, bell hooks' communities of care, embodied
 * **coding**: language-based, institutional and social, performative, speech acts
@@ -782,6 +783,7 @@ In sum, Creative Code Collective positions itself within an <span class="purple"
 LEARNING GOALS: Through Coding Care, understand how to  
 
 ### FORMATIVE: *A Critical Field Guide for Working with Machine Learning Datasets* and *Inclusive Datasets Research Guide*
+{: .no_toc }
 
 >*A Critical Field Guide for Working with Machine Learning Datasets* is a practical in-depth guide for navigating giant datasets and the implications of their use. It distills the complex aspects of working with datasets into easily graspable terms.
 
@@ -789,6 +791,7 @@ LEARNING GOALS: Through the Critical Field Guide, understand the training datase
 
 
 ### * : *Interstitial Portals*
+{: .no_toc }
 
 These essays are meant to be portals to other times and places where "the past is not lost, however, but rather a space of potential." [@chunDiscriminatingDataCorrelation2021] "Past-present-future" are spaces to know our relationships with systems differently and intimately. [@olufemiExperimentsImaginingOtherwise2021 ]
 
@@ -825,6 +828,7 @@ We have always-already been living in, talking about, performing with the questi
 
 
 ### TECH: *The Intersectional AI Toolkit*
+{: .no_toc }
 
 >The Toolkit gathers and synthesizes aspects of queer theory, Black feminism, transfeminisms, and decolonial perspectives that can contribute valuable lenses for machine learning’s most pressing problems. It celebrates work done by other intersectional researchers and artists working to address these issues in many fields. And it is one of the few resources to clarify, without math or jargon, the inner workings of AI and how they always operate as sociotechnical systems. As a digital platform, it creates a forum for others to expand upon the work; and through in-person and hybrid-online workshops, it invites a variety of communities to participate directly in the systems that impact them.
 
@@ -838,11 +842,13 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 
 
 ### NO: *Tactical Refusals & Reverse Portals*
+{: .no_toc }
 
 - InnerVoiceOver // On Kawara
 - Ladymouth // Pipilotti Rist
 
 ### TRANS: CONCLUSION/WHAT'S NEXT *Unsupervised Pleasures: Conscientious Datasets for Queer Futures*
+{: .no_toc }
 
 What it calls for in the future...
 
