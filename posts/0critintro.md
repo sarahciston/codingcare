@@ -49,7 +49,9 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 Trans\*formative TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
 
-I invoke craft here as an expression of the theories, ethics, and tactics of intersectionality and sustainability, in order to ground these ideas in tangible practices which grow out of [lived] communities. Re-binding craft to technology brings slow, circular, cooperative, inclusive, caring [offerings] in order to transform [xxx]
+[...]
+
+I invoke craft here as an expression of the theories, ethics, and tactics of intersectionality and sustainability, in order to ground these ideas in tangible practices which grow out of [lived] communities. Re-binding craft to technology brings slow, circular, cooperative, inclusive, caring [offerings] in order to transform [xxx][xxx].
 
 <!-- How do we encourage this entanglement further? Through approaches that emphasize -->
 The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as [xxx expand and exploit/exclude from]. A handful of powerful companies warn of the coming dangers, in order to distract from the current dangers they perpetuate. Already toothless policy recommendations are quickly watered down and ignored, while [more and more data represent less and less diversity][more and more compute, more and more natural resources,][harmless fun on one side of the globe is life and death on another.]
@@ -314,11 +316,17 @@ But I always mix up the terms `interpolate` and `interpellate`. To `interpellate
 
 Interpolation divides up distance, quantifies it, makes it possible to cross (it leaps Zeno's paradox with stepping stones). Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual, through generalization. It pins one down to classificatory schemas (created from collections of other interpellated individuals). [These are weak-star topologies?.] Computationally, proximity helps us jump to conclusions about each other. 
 
-How many kinds of measurements of distance are there? How many dimensions and ways to fold them?
+>"[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
 
-We have created so many algorithms for pathfinding. We are constantly optimizing our ways across these spaces. We've created everything about space and time, and how to make more and less of it.
+And yet, how many kinds of measurements of distance are there? How many dimensions and ways to fold them?
+
+What if instead of proximity as a shortcut to sameness, we looked to nature's own "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022] and other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and shape [xxx]
+
+[xxx][We have created so many algorithms for pathfinding. We are constantly optimizing our ways across these spaces. We've created everything about space and time, and how to make more and less of it.]
 
 ### Nearbyness
+
+[xxx][**is this out of place here and/or is the conclusion, opening out to what's next?**]
 
 >"not to speak about but rather to speak nearby"
 >>–Trinh T. Minh Ha [@chenSpeakingNearbyConversation1992]
@@ -352,7 +360,6 @@ This ability to work with machine learning, or any technology, as a concrete mat
 
 [XXX][ADD BRIDLE SOMEWHERE]
 
->"radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]
 
 James Bridle suggests that more ecological machines must be "non-binary, decentralized, and unknowing" [@bridleWaysBeingHuman2022] – pointing to where this already occurs in the more-than-human world in which we are immersed. He offers up slime moulds and liquid state machines as analogue computers that show how complex, non-binary operations: 
 
@@ -472,7 +479,7 @@ TechnoCraft places the seemingly contrasting terms 'tech' and 'craft' together t
 
 Many have paired code with craft, or talked about the similarities of knitting or weaving with programming. Yes, TechnoCraft celebrates these similarities and wants to decontextualize the linear histories of computer programming, but also wants to push this argument further. It argues that we not only bring craft's materials into coding spaces, but also the ethos and ethics of crafting. It's not enough to weave electronics into our fiber arts as a way to build technical literacy, we need to weave intersectional methods and mindsets into technical arts — and craft carries many of these. 
 
-Focusing on craft means noticing the material, handworked, skilled, tinkered, iterative, process-oriented, embodied practices of knowledge and production that technologies emerge from. It means noticing how such practices can intervene in existing technologies and reshape emerging ones. It acknowledges human choices; built skills, tacit knowledge, and material needs; networks and communities of practice.  
+Focusing on craft means noticing the material, handworked, skilled, tinkered, iterative, process-oriented, embodied practices of knowledge and production that technologies emerge from. It means noticing how such practices can intervene in existing technologies and reshape emerging ones. It acknowledges human choices; built skills, tacit knowledge, and material needs; networks and communities of practice. 
 
 #### Scale
 
@@ -489,8 +496,7 @@ Here Sedgwick connects the experience of making craftwork with experiencing the 
 
 Thinking through technology with a TechnoCraft lens opens more points of reference for addressing complexity and complex systems that prexist the emergent techonlogies we are encountering now. 
 
-<!-- In the fractal nature of these shapes: "a structure that's very complex, repetitive, or disorienting in the lower-dimensional, explicate order could also emerge as very simple in the higher-dimension implicate or vice versa."
-[@sedgwickWeatherProust2012].  -->
+<!-- In the fractal nature of these shapes: "a structure that's very complex, repetitive, or disorienting in the lower-dimensional, explicate order could also emerge as very simple in the higher-dimension implicate or vice versa." [@sedgwickWeatherProust2012].  -->
  
 #### Sustain(ability)
 
@@ -504,45 +510,51 @@ Alexander Langland returns to the older definition of 'craeft' as a lifesustaini
 
 #### Infrastructures of care 
 
-<!-- Community // Access, labor, relation // crafting infrastructure -->
-
-Approaching technology through the lens of craft slows it down and asks it to sustain. It also [organizes [people,] labor and relations] differently. Consider the feminist server: 
+Approaching technology through the lens of craft slows it down and asks it to sustain. It also [organizes people, labor, and relations] differently. Gabriella Coleman aligns hacking with crafting, focusing on the "intellectual guile" required for both and the guild-like communities that form. "[A]ll hackers fit the bill as quintessential 'craftspeople,' [...] Even if craftspeople tend to work in solitude, crafting is by definition a collectivist pursuit based on shared rules of engagement and standards for quality" [@colemanHackers2016]. Consider the transfeminist server, which approaches its technology as a crafted, social, interrelational object: 
 
 >"rosa [travelling server] is not only constituted in hardware or sotware, but also the multitude of relations that are created around the making, maintaining and passing on of this infrastructure: the processes that are performed, the affective charge of their actioning, the community around them." [@TraversalNetworkFeminista]
 
-Feminist servers run slowly. Sustaining them takes "years of intense collective learning," replete with uncomfortable tensions and messy differences. It's these very ambivalances which Ines Kleesattel argues are crucial for Feminist Server Art, because they point to the fact that "All kinds of infrastructures involve service, maintenance, and care labor" (Kleesattel in [@sollfrankAestheticsCommons2021]).
+Feminist servers run slowly. Sustaining them takes "years of intense collective learning," replete with uncomfortable tensions and messy differences. These very ambivalances, argues Ines Kleesattle, are crucial for Feminist Server Art, because they demonstrate the relational labor going unseen in other approaches to technology. "All kinds of infrastructures involve service, maintenance, and care labor" (Kleesattel in [@sollfrankAestheticsCommons2021]). When giant data centers run in a far-flung artic landscapes, and large language models siphon water and energy and human effort for their training, these "cloud" technologies are not ephemeral or immaterial – and feminist projects move slowly to enact the material, relational stakes in all digital interactions, to show how they might be organized with more awareness and care. 
 
-By choosing "low-effort publishing tools" like like [varia etherdump](https://etherdump.vvvvvvaria.org/), by providing strategic services like analog infrastructure for mutual aid, as well as digital infrastructure like hosting archives and zombie sites of ongoing work, feminist servers like [Anarchaserver](https://anarchaserver.org/) create and codify solidarity networks. They are forms of "feminist convergence" that embody their values through their choice of methods and material offerings:
+In ["A Traversal Network of Feminist Servers,"](https://atnofs.constantvzw.org/) six communities[^ATNOFS] connected to discuss their feminist infrastructure projects, which ask questions such as: 
 
->"For us feminist infrastructure enables the systematization, the maintenance and the circulation of good ideas, practice and care. For us, solidarity networks are an example of feminist infrastructure. And we think it represents one of our earliest feminist technologies, perhaps the oldest and the most widespread." [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
+[^ATNOFS]: [Constant](https://constantvzw.org/site/), [varia](https://vvvvvvaria.org/en/), [Hypha](https://hypha.ro/ATNOFS), [Lurk](https://lurk.org/), [Esc Mkl](https://esc.mur.at/en/), [Feminist Hack Meetings](https://www.centrefeministmedia.arch.uth.gr/). Additional projects in the spirit of or related: [Open Source Kitchen](http://osp.kitchen/), [Anarchaserver](https://anarchaserver.org/).
 
 >"How can the labour behind hosting be made inclusive, convivial, shared, visible not only in moments when things go wrong? In what ways does the language embedded in server administration influence the practices and interactions around it? How can servers be pedagogical spaces for experimentation for those with different knowledges?" [varia email list 28.11.2023]
->"feminist servers, experimental publishing, convivial server administration, alternative social media, secure modes of sharing digital knowledge"
 
-[Transfeminist Digital Care Network]
-
-[Constant](https://constantvzw.org/site/)
-
-[Open Source Kitchen](http://osp.kitchen/)
-
-To consider technology as entangled with its affective and labor relations, as many have argued [CITE?], resituates tech into a variety of communities of practice and reframes its relationship to caretaking. Although many have looked to technological solutions like bots to address issues of labor and caretaking, more often technology itself requires caretakers and creates more care labor. To upend this, feminist infrastructures show how care is generated through human networks. It places technology within this circuit of human relations rather than as a replacement for it.
+Transfeminist infrastructure work shows how the logics and ethics of craft – especially its domestic and feminized aspects – emerge out of intersectional feminist approaches and apply to technological questions. To consider technology as entangled with its affective and labor relations, as feminist infrastructures do, resituates tech back into a variety of communities of practice and reframes its relationship to caretaking. Although many have looked to technological solutions like bots to address issues of labor and caretaking, more often technology itself requires caretakers and creates more care labor. To respond to this, feminist infrastructures show how care is generated through human networks and how care might also be generated in, rather than depleted by, digital ones. They place technology within a circuit of human relations rather than as a replacement for it.
 
 >"The point is not only to expose or reveal invisible labours of care, but also to generate care. [... G]enerating care means counting in participants and issues who have not managed or are not likely to succeed in articulating their concerns, or whose modes of articulation indicate a politics that is 'imperceptible' within prevalent ways of understanding." [@delabellacasaMattersCareTechnoscience2011]
 
-<!-- >"Communities exist and they are everywhere. unceasingly creating and recreating themselves [...]. all technologies [are] developed in community, these communities can be more or less autonomous or more or less controlled by cooperation, the struggle for sovereignty is about these communities, nobody invents, builds, or codes alone, quite simply because the task is such that it would be impossible." [@padillaPrefaceTechnologicalSovereignty] [XXXcut?] -->
+Along with the traveling Raspberry Pi server "rosa" that acted as their working hub, the Traversal Network project culminated in a print and digital publication that reflected on the different groups' shared and diverse approaches. By choosing "low-effort publishing tools" like [varia etherdump](https://etherdump.vvvvvvaria.org/), by providing strategic services like analog infrastructure for mutual aid, as well as digital infrastructure like hosting archives and zombie sites of ongoing work, feminist servers like [Anarchaserver](https://anarchaserver.org/) create and codify solidarity networks using multiple mediums and tactics. These are forms of "feminist convergence" that embody their values through their choice of methods and material offerings:
 
-* communities of practice
-Gabriella Coleman aligns hackers with craft guilds, focusing on the "intellectual guile" required for both (outside the box thinking)
->"The alignment of craft and craftiness is perhaps the best location to find a unifying thread that runs throughout the diverse technical and ethical worlds of hacking. [...] all hackers fit the bill as quintessential 'craftspeople,' [...] Even if craftspeople tend to work in solitude, crafting is by definition a collectivist pursuit based on shared rules of engagement and standards for quality." 
->"Craftiness, then, can be seen as thinking outside the box, or circumvention of inherent technological limitations in pursuit of craft. But we can also understand craftiness as exceeding mere instrumentality."
->[@colemanHackers2016]
+>"For us feminist infrastructure enables the systematization, the maintenance and the circulation of good ideas, practice and care. For us, solidarity networks are an example of feminist infrastructure. And we think it represents one of our earliest feminist technologies, perhaps the oldest and the most widespread." [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
 
-*communities of practice*
-* thin description, humble un-/knowing, kaleidoscopic subjectivity
-* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
+For infrastructures of care, communities themselves are the essential networks; the servers, databases, workshops, services, both digital and analog are all tools toward building and means of expressing those community networks. 
+
+#### Legacies & contexts
+
+>"Written out of an official history which draws them in as its minor footnotes to itself, cloths, weavers, and their skills turn out to be far in advance of the art forms digitization supersedes." [@plantZerosOnes1998, p. 190]
+
+Technology, as reframed through intersectional and craft lenses, is is always contingent and contextual. *TechnoCraft* honors historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — and aligns them with the aspects of technology which frequently get overlooked: namely, the contributions to the materiality of tech from the global majority and Women of Color. 
+
+>"Our bodies are archives and sites of memory that cannot and will not be overwritten, despite technological attempts to render them as such." [@aliyuSashaZamaniDeath2023]
+
+TechnoCraft attends to the counterhistories still alive in our present technologies and potentially reemerging in many futures. These include Hilda G. Carpenter, a Black lab technican whose "core rope memory" techniques advanced computing and supported the Apollo moon landings, by physically encoding information using copper wire and rings. Author Zainab Aliyu compares Carpenter's physical memory-weaving processes to the Yoruban oracle system called Ifá, which also uses binary encoding and draws on "collective memory" for divination[@aliyuSashaZamaniDeath2023]. American Artist details the history of the graphical user interface (GUI) as a turning point in the history of computing, at which point screens changed from black to white. This was when the "user" was defined for the stated purpose of easing use, but this also narrowed and limited use, enacting white supremacist values: "Blackness has, so to say, formed the ground for white, with black gooey being antithetical to the values of the white screen" [@artistBlackGooeyUniverse]. From Navajo weavers recruited to make circuit boards to the quipu . Those with more power have frequently appropriated knowledge or extracted labor and resources to develop technologies. Such examples open the unacknowledged archives of technology that connect to craft, to ritual, to community and — as Xin Xin and Katherine Moriwaki say — perceive "history as a messy entanglement rather than a linear graph" [@shihCriticalCodingCookbook2022].
+
+*Technocraft* expands the definition of what "counts" as creating or participating in technology, what labor is included and valued in the accounting of it. It destabilizes static ideas of technologies and their outputs as infallable and handed-down, by reminding us they are in fact crafted by people and contingent on contexts. The invisible labor of data creation and data maintenance is no different from the invisible labor of infrastructure in this way. Yanni Loukissas argues for the inherently "local" nature of data, saying that "data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place. [...] When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display" [@loukissasAllDataAre2019]. Loukissas suggests the term "data settings" instead of "data sets" to emphasize the ways data are always shaped by both their creation and their use.
 
 
-#### Entangled theory and practice
+
+>"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, my proposal of the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. This places the stitch in the repertoire of strategies including the methodology of the oppressed, as described by Chela Sandoval, and the science of the oppressed, as proposed by Monique Wittig and elaborated by the art collectives *particle group* and the Electronic Disturbance Theater (with which I collaborate). The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence" [@cardenasTransColorPoetics2016]
+
+
+<!-- ahree lee weaving work -->
+
+<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
+
+
+#### Rematerializing, re-entangling: theory and practice
 
 >"[Garments] process and store data. Because there is no difference between the process of weaving and the woven design, cloths persist as records of the processes which fed into their production: how many women worked on them, the techniques they used, the skills they employed. The visible pattern is integral to the process which produced it; the program and the pattern are continuous. [@plantZerosOnes1998, p. 66]
 
@@ -553,10 +565,12 @@ These are not metaphors but material, infrastructures undergirding systems that 
 
 >"craft, or more broadly the notion of crafting, is an essential strategy for living and loving ‘otherwise.’ [@fountainSurvivalKnittestCraft2021]
 
-* role of embodied knowledge on form, plat/form, landscape, who/how access
-
 *Process oriented approaches*
 * queer (trans)feminist infrastructures & queer use
+* role of embodied knowledge on form, plat/form, landscape, who/how access
+* thin description, humble un-/knowing, kaleidoscopic subjectivity
+* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
+* deep interdisciplinarity
 
 >"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity"[@reddyArtificialEverydayCreativity2022]
 
@@ -565,56 +579,16 @@ These are not metaphors but material, infrastructures undergirding systems that 
 <!-- tech = lab approach Bell Labs, The Lab Book: "anything is a lab" "creativity as basic to research. >research-creation [@wershlerLabBook2022] -->
 
 
-#### **LEGACIES:** 
 
-*Context, contingency / history and*
-
-Tech via craft is always contingent and contextual. 
-
-- Loukissas' "all data are local" (the relativity of the network, the position, scale). data settings not data sets (place setting, "thinking locally is thinking critically")
->"When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display."
->"data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place."
->>[@loukissasAllDataAre2019]
-
->"perceives history as a messy entanglement rather than a linear graph" [Critical Coding Cookbook] [@shihCriticalCodingCookbook2022]
-
-TechnoCraft attends to the counterhistories still alive in our present and potentially reemerging in many futures. It includes Hilda G. Carpenter, a Black lab technican whose "core rope memory" techniques advanced computing and supported the Apollo moon landings. Author Zainab Aliyu compares these physical memory-weaving processes to the Yoruban oracle system called Ifá: "This apparatus for divination through collective memory has a binary implementation not unlike the computer byte: a single unit of machine memory that contains eight bits and can store 256 different values (0-255). While computer memory has a finite capacity, the divination chain has boundless potential" [@aliyuSashaZamaniDeath2023].
-
->"Our bodies are archives and sites of memory that cannot and will not be overwritten, despite technological attempts to render them as such." [@aliyuSashaZamaniDeath2023]
-
->"Written out of an official history which draws them in as its minor footnotes to itself, cloths, weavers, and their skills turn out to be far in advance of the art forms digitization supersedes." [@plantZerosOnes1998, p. 190]
-
-American Artist proposes the Black Gooey as an alternative to the development of the GUI, which they mark as a turning point in the history of computing at which point screens changes from black to white and the "user" was defined for the purpose of easing use but also limiting use. 
->"Blackness has, so to say, formed the ground for white, with black gooey being antithetical to the values of the white screen. Black gooey might then be a platform of slowness ('dragged time', 'colored time'), refusal, thought, complexity, critique, softness, loudness, transparency, uselessness, and brokenness. A planar body that longs for the solitude and vastness of the commandline, yet nuanced and sharp, to usurp and destroy a contemporary hegemonic interface." [@artistBlackGooeyUniverse]
-
-
-
->Core rope memory [From the Sasha](https://logicmag.io/supa-dupa-skies/from-the-sasha-into-the-zamani-death-as-a-moment-of-radical-continuity/) "During the pioneering of the Apollo spacecraft mission, women workers manually wove memory into computer systems, translating software programmed by MIT engineers into physical binaries. The first woman to do this was Hilda G. Carpenter, a Black lab technician who advanced the methods that would ultimately be used to land Apollo missions on the moon. These threading techniques, referred to as 'core rope memory' and 'magnetic core memory,' were laborious processes of physically coding information into machines using ferrite rings and copper wire to control the flow of electricity"
-
->"weaving wends its way through even the media which supplant it. While paper has lost its associations with the woven fabrics with which it began, there are remnants of weaving in all writing: yarns continue to be spun, texts are still abbreviated textiles, and even grammar, glamor, and spelling retain an occult connectivity. Silkscreens, printing presses, stencils, photographic processes, and typewriters: by the end of the nineteenth century images, texts, and patterns of all kinds were being processed by machines which still used matrices as means to their ends," [@plantZerosOnes1998, 69]
-
-
-
-<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
-
->"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, my proposal of the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. This places the stitch in the repertoire of strategies including the methodology of the oppressed, as described by Chela Sandoval, and the science of the oppressed, as proposed by Monique Wittig and elaborated by the art collectives *particle group* and the Electronic Disturbance Theater (with which I collaborate). The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence" [@cardenasTransColorPoetics2016]
-
-
-<!-- ahree lee weaving work -->
-
-**TechnoCraft** honors historically dismissed and feminized practices of craft — which emphasize process, duration, ongoingness, community — and aligns them with the aspects of technology which get overlooked: namely, the contributions to the materiality of tech from Women of Color in the global majority. 
 
 <!-- skip risk? -->
-#### **RISK**
+<!-- #### **RISK** -->
 
 <!-- David Pye calls craft "the workmanship of risk" because "the quality of the result is continually at risk during the process of making" in contrast to "quantity production" which he calls the "the "workmanship of certainty." In the workmanship of risk, "the quality of the result is not predetermined, but depends on the judgment, dexterity and care which the maker exercises" [@pyeNatureArtWorkmanship2010]. -->
 
 Machine learning, as a mass production, produces certainty from uncertainty – from millions of uncertainties, argues Louise Amoore [@amooreCloudEthicsAlgorithms2020].
 
 Richard Sennett: "we might think that a good craftsman, be she a cook or a programmer, cares only about solving problems, about solutions that end a task, about closure. In this, we would not credit the work actually involved. In the Linux network, when people squash one 'bug,' they frequently see new possibilities open up for the use of the code. The code is constantly evolving, not a ﬁnished and ﬁxed object. There is in Linux a nearly instant relation between problem solving and problem ﬁnding." [@sennettCraftsman2008]
-
-* deep interdisciplinarity
-
 
 ### TechNO 
 
@@ -701,10 +675,6 @@ Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.htm
 
 
 
-
-
-
-
 #### Counterpublishing
   * Zines to clarify information [@VisualIntroductionAI]
   * Zines to make counterpublics
@@ -732,12 +702,11 @@ Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.htm
 
 ### Queer feminist infrastructures, technocraft, and handmade media praxis 
 
-(body performance art histories, queer toy cameras)
-
 >"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) 
 
-queer use (see interstitial)
+(body performance art histories, queer toy cameras)
 
+queer use (see interstitial)
 
 
 In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
@@ -876,7 +845,7 @@ What it calls for in the future...
 #### not classifying, a radical queer computing not based on classification but woven from the unknowing of genderless expression, of story
 >>"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)
 
-Soap bubble computers, mushroom computers, non-binary voltage readings. What are the nonclassificatory logics that might run other forms of calculation? 
+Soap bubble computers, mushroom computers, non-binary voltage readings. What are the nonclassificatory logics that might run other forms of calculation?  [Bridle's call here & how this meets it]
 
 >>Artist Stephanie Dinkins notes, “Widely deployed AI can support bottom-up decision making and provide the public means to directly inform the systems that govern us while also empowering the governed.” She asks, “Who is working to use it as such?” ^[6] If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell)
     >> ^[6]: Dinkins, Stephanie. “Towards an Equitable Ecosystem of Artificial Intelligence.” Software for Artists Book: Building Better Realities, edited by Willa Köerner and Tommy Martinez, Pioneer Works Press in collaboration with The Creative Independent and Are.na, 2020, 49–57.
@@ -1062,9 +1031,7 @@ deep interdisciplinarity
 - Worldbuilding with data: 
   - “Database design, in that way, is 'an exercise in worldbuilding,' a normative process in which programmers are in a position to project their world views—a process that all too often reproduces the technology of race.” [@benjaminRaceTechnologyAbolitionist2019]
 - Uncertainty reduced to certainty 
-  - "[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
   - >>"If uncertainty is the ability for the unknown to be accounted for by comporting to containment under the logics of algorithmic models, then what can unknowability offer instead? [...]["BLACKNESS as space of ethical absence," "the unknown as a subject"] Unknowability born from the figure of the flesh opens the space for ways of understanding the world that are otherwise discounted because of their inability to be neatly measured and accounted for. It is the place in which irresolution is allowed to reside." (Morrison 2021, 255) >>"flesh becomes an essential outlier from which to assess the limitations of sociotechnical fixes. Flesh is the poignant, unavoidable signifier and text upon which to read the history and reality of total expropriation of value from bodies and land." (255) [@morrisonFlesh2021]
-Morrison, Romi Ron. (2021). "Flesh." In Thylstrup, N. B., Agostinho, D., Ring, A., D’Ignazio, C., & Veel, K. (Eds.) Uncertain Archives: Critical Keywords for Big Data. (pp. 240-257). The MIT Press.  https://doi.org/10.7551/mitpress/12236.003.0027
 - Displaced agency, diffused responsibility
 - Bias transfer:
   - "bias transfer both (a) arises in realistic settings (such as when pre-training on ImageNet or other standard datasets) and (b) can occur even when the target dataset is explicitly de-biased" @salmanWhenDoesBias2022
