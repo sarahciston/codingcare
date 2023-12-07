@@ -542,17 +542,13 @@ Technology, as reframed through intersectional and craft lenses, is is always co
 
 TechnoCraft attends to the counterhistories still alive in our present technologies and potentially reemerging in many futures. These include Hilda G. Carpenter, a Black lab technican whose "core rope memory" techniques advanced computing and supported the Apollo moon landings, by physically encoding information using copper wire and rings. Author Zainab Aliyu compares Carpenter's physical memory-weaving processes to the Yoruban oracle system called Ifá, which also uses binary encoding and draws on "collective memory" for divination[@aliyuSashaZamaniDeath2023]. American Artist details the history of the graphical user interface (GUI) as a turning point in the history of computing, at which point screens changed from black to white. This was when the "user" was defined for the stated purpose of easing use, but this also narrowed and limited use, enacting white supremacist values: "Blackness has, so to say, formed the ground for white, with black gooey being antithetical to the values of the white screen" [@artistBlackGooeyUniverse]. From Navajo weavers recruited to make circuit boards to the quipu . Those with more power have frequently appropriated knowledge or extracted labor and resources to develop technologies. Such examples open the unacknowledged archives of technology that connect to craft, to ritual, to community and — as Xin Xin and Katherine Moriwaki say — perceive "history as a messy entanglement rather than a linear graph" [@shihCriticalCodingCookbook2022].
 
-*Technocraft* expands the definition of what "counts" as creating or participating in technology, what labor is included and valued in the accounting of it. It destabilizes static ideas of technologies and their outputs as infallable and handed-down, by reminding us they are in fact crafted by people and contingent on contexts. The invisible labor of data creation and data maintenance is no different from the invisible labor of infrastructure in this way. Yanni Loukissas argues for the inherently "local" nature of data, saying that "data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place. [...] When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display" [@loukissasAllDataAre2019]. Loukissas suggests the term "data settings" instead of "data sets" to emphasize the ways data are always shaped by both their creation and their use.
+*Technocraft* expands the definition of what "counts" as creating or participating in technology, what labor is included and valued in the accounting of it. It destabilizes static ideas of technologies and their outputs as infallable and handed-down, by reminding us they are in fact crafted by people and contingent on contexts. The invisible labor of data creation and data maintenance is no different from the invisible labor of infrastructure in this way. Yanni Loukissas argues for the inherently "local" nature of data, saying that "data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place. [...] When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display" [@loukissasAllDataAre2019]. Loukissas suggests the term "data settings" instead of "data sets" to emphasize the ways data are always shaped by both their creation and their use. He argues for remembering how data always index something else and are themselves always incomplete.
 
+How does craft [XXX][transition]
 
+>"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, my proposal of the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. [...][~~~The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence~~~]" [@cardenasTransColorPoetics2016]
 
->"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, my proposal of the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. This places the stitch in the repertoire of strategies including the methodology of the oppressed, as described by Chela Sandoval, and the science of the oppressed, as proposed by Monique Wittig and elaborated by the art collectives *particle group* and the Electronic Disturbance Theater (with which I collaborate). The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence" [@cardenasTransColorPoetics2016]
-
-
-<!-- ahree lee weaving work -->
-
-<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
-
+The stitch as theorized by cárdenas (and all practices of craft) are important lived practices of embodied intersectional feminist work that move it actively beyond theory. When applied materially and conceptually in technological spheres, [XXXXX]
 
 #### Rematerializing, re-entangling: theory and practice
 
@@ -565,21 +561,17 @@ These are not metaphors but material, infrastructures undergirding systems that 
 
 >"craft, or more broadly the notion of crafting, is an essential strategy for living and loving ‘otherwise.’ [@fountainSurvivalKnittestCraft2021]
 
-*Process oriented approaches*
-* queer (trans)feminist infrastructures & queer use
-* role of embodied knowledge on form, plat/form, landscape, who/how access
-* thin description, humble un-/knowing, kaleidoscopic subjectivity
-* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
-* deep interdisciplinarity
 
 >"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity"[@reddyArtificialEverydayCreativity2022]
 
 [sadiebenningitwasn'tlove]
 
-<!-- tech = lab approach Bell Labs, The Lab Book: "anything is a lab" "creativity as basic to research. >research-creation [@wershlerLabBook2022] -->
+tech = lab approach Bell Labs, **The Lab Book: "anything is a lab"** "creativity as basic to research. >research-creation [@wershlerLabBook2022]
 
 
+<!-- ahree lee weaving work -->
 
+<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
 
 <!-- skip risk? -->
 <!-- #### **RISK** -->
@@ -589,6 +581,15 @@ These are not metaphors but material, infrastructures undergirding systems that 
 Machine learning, as a mass production, produces certainty from uncertainty – from millions of uncertainties, argues Louise Amoore [@amooreCloudEthicsAlgorithms2020].
 
 Richard Sennett: "we might think that a good craftsman, be she a cook or a programmer, cares only about solving problems, about solutions that end a task, about closure. In this, we would not credit the work actually involved. In the Linux network, when people squash one 'bug,' they frequently see new possibilities open up for the use of the code. The code is constantly evolving, not a ﬁnished and ﬁxed object. There is in Linux a nearly instant relation between problem solving and problem ﬁnding." [@sennettCraftsman2008]
+
+
+*Process oriented approaches*
+* queer (trans)feminist infrastructures & queer use
+* role of embodied knowledge on form, plat/form, landscape, who/how access
+* thin description, humble un-/knowing, kaleidoscopic subjectivity
+* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
+* deep interdisciplinarity
+
 
 ### TechNO 
 
@@ -702,7 +703,7 @@ Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.htm
 
 ### Queer feminist infrastructures, technocraft, and handmade media praxis 
 
->"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) 
+>"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) (Sennett?)
 
 (body performance art histories, queer toy cameras)
 
