@@ -45,21 +45,23 @@ Thank you to the individuals and organizations who developed these principles an
 [^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
 
 
-## 5 beloved books for coding & caring
+## beloved books for coding & caring
 
 * brown, adrienne marie. 2021. *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
 * Cox, Geoff and Soon, Winnie 2020. *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. https://aesthetic-programming.net
-* hooks,  bell. (1994). *Teaching to transgress: Education as the practice of freedom.* Routledge.
-* Shih, Xin Xin, & Moriwaki, Katherine (Eds.). 2022. *Critical Coding Cookbook.* https://criticalcode.recipes/about 
   * As we wrote when Mark Marino and I forked this open-source text, "The book approaches programming artistically/aesthetically but also with criticality, not only what learners might make with code (besides the rote examples found in CS textbooks) but why it matters and how their choices are informed by the tools they use." [@cistonHowForkBook2021]
+* hooks,  bell. (1994). *Teaching to transgress: Education as the practice of freedom.* Routledge.
+* Marino, Mark C. 2020. *Critical code studies.* MIT Press.
+* Shaw, Martin. *Courting the Wild Twin*
+* Shih, Xin Xin, & Moriwaki, Katherine (Eds.). 2022. *Critical Coding Cookbook.* https://criticalcode.recipes/about 
 * Wilson, Shawn. 2008. *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing. 
 
 
-##
 
-* Marino, Mark C. 2020. *Critical code studies.* MIT Press.
 
-* Zilboorg, A. (2015). *Knitting for anarchists: The what, why and how of knitting.* Dover Publications, Inc.
+
+
+<!-- * Zilboorg, A. (2015). *Knitting for anarchists: The what, why and how of knitting.* Dover Publications, Inc. -->
 
 
 

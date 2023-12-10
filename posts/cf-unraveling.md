@@ -185,6 +185,10 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 [^Wittig]: Wittig, Monique. *We.*
 
 
+ingold's knot vs brick
+
+
+
 I spent a summer making labyrinths on whatever large surface I could find. A labyrinth is only one path; it is not a maze, but it is a puzzle. A labyrinth is a way of traveling somewhere, folding and winding a flat surface into more than itself, into an interiority, an exploration and a risk, into an essay, an endeavor, into a question and an answer wound together tightly. But it is not a knot. It has its directions written plain, an algorithm. But it can be walked right over. You are not trapped. You do not have to follow.
 
 

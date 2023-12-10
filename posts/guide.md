@@ -1168,9 +1168,7 @@ I have learned that, `when I hold my pedagogy and my programming more loosely, t
 
 <div class="live-code box" markdown="1">
 
-### LIVE CODE: ccc berlin / varia? /// computational mama
-
-[XXX] "code of conduct exercise? exists as community imagining idea in part 10"
+### LIVE CODE: ccc berlin / varia? /// computational mama // ars workshop "human reinforcement learning with machine feedback" + summer lab intensive, moz and other adapted workshops?
 
 </div>
 
@@ -1438,7 +1436,7 @@ We "Enjoy code together"
 
 ### LIVE CODE: Write your values, imagine your community
 
-TBD
+[XXX] "code of conduct exercise? exists as community imagining"
 
 </div>
 

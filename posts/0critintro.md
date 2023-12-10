@@ -106,6 +106,8 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 >"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution." [@sharmaManifestoBrokenMachine2020]
 
+>"In each act of training, someone is making a claim about what we should know, how we should know what we know, and how that knowledge should be deployed. Each exposure to a dataset occurs because someone concluded that the information in that dataset should be used to determine a possible future." [@hakopianInstituteOtherIntelligences2022]
+
 
 [XXXMOVEDHERE?]
 
@@ -208,6 +210,9 @@ This is a practice of artistic research, research-creation, and/or arts-based re
 >"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
 >"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 45 [@starkWorkArtAge2019]
 
+>"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
+
+
 ### These approaches are entangled
 
 Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors out of balance. She argues this calls for
@@ -226,7 +231,7 @@ Marino, code is collaborative:
 
 # What Is Trans\*formative TechnoCraft?
 
-These are instructions for myself(ves), past-present-future, gathering tactics from many traditions, making connections, strategies and wayfinding for the kinds of worlds and systems I want to be part of. From intersectional transfeminist infrastructures, self-hosting servers and [XXX].
+These are instructions for myself(ves), past-present-future, gathering tactics from many traditions, making connections, strategies and wayfinding for the kinds of worlds and systems I want to be part of. From intersectional transfeminist infrastructures, self-hosting servers and [XXX]...
 
 ## Trans\*formative
 
@@ -550,19 +555,23 @@ How does craft [XXX][transition]
 
 The stitch as theorized by cárdenas (and all practices of craft) are important lived practices of embodied intersectional feminist work that move it actively beyond theory. When applied materially and conceptually in technological spheres, [XXXXX]
 
-#### Rematerializing, re-entangling: theory and practice
+#### Rematerializing theory and practice
 
->"[Garments] process and store data. Because there is no difference between the process of weaving and the woven design, cloths persist as records of the processes which fed into their production: how many women worked on them, the techniques they used, the skills they employed. The visible pattern is integral to the process which produced it; the program and the pattern are continuous. [@plantZerosOnes1998, p. 66]
+Practice and theory are tangibly intertwined in craft as TechnoCraft. While craft is not the only domain where theory and practice merge, it is useful to draw on craft metaphorically and literally [because it is accessible across domains]. 
 
-These are not metaphors but material, infrastructures undergirding systems that uphold power — woven into the warp and weft.
+Craft shows — through maker processes — how doing becomes being and being becomes doing. It sounds overly simplistic, but as actions of making yield creations, craft reemphasizes the actions of making alongside the creations as objects and shows how the theories of making emerge from and are embedded in the actions and objects of craft. By attending to craft as process — and to technology as its processes, its people, its protocols — it also expands beyond the crafting of objects to include communities of practice, or sociotechnical systems: 
 
->"craft in terms of a set of materials and practices—that is, fiber art—it hopes to advocate that craft might more usefully be viewed as a process, as in crafting an identity, or crafting a community"
->>[@fountainSurvivalKnittestCraft2021]
+>"craft in terms of a set of materials and practices—that is, fiber art—it hopes to advocate that craft might more usefully be viewed as a process, as in crafting an identity, or crafting a community" [@fountainSurvivalKnittestCraft2021]
+
+These are not metaphors but material, infrastructures undergirding systems that uphold power — woven into the warp and weft of all processes. With fiber art this is literal, and it demonstrates concretely the ways these processes operate in other mediums too:
+
+>"[Garments] process and store data. Because there is no difference between the process of weaving and the woven design, cloths persist as records of the processes which fed into their production: how many women worked on them, the techniques they used, the skills they employed. The visible pattern is integral to the process which produced it; the program and the pattern are continuous. [@plantZerosOnes1998]
+
+
+
 
 >"craft, or more broadly the notion of crafting, is an essential strategy for living and loving ‘otherwise.’ [@fountainSurvivalKnittestCraft2021]
 
-
->"hybridizing or taking apart AI systems through material translations and free associations [...] these artefacts do not carry out the work of reconstructing or stitching back together what has been taken apart or hybridized by artificial everyday creativity"[@reddyArtificialEverydayCreativity2022]
 
 [sadiebenningitwasn'tlove]
 
@@ -739,9 +748,9 @@ My workshops at Ars, Moz, USC
 
 # def main(): What's Included
 
-Each section of Trans\*formative TechnoCraft offers an enactment of this thinking from a different angle, combining to enact the ethics and tactics described above. Together these public-facing resources attempt to provide plainspoken translations of technical, aesthetic, and ethical concepts in approachable zine formats, in order to support both AI insiders and marginalized outsiders in understanding the urgency of the issues facing automated technologies and the necessity of each other’s skill sets in facing those issue. 
+Each section of Trans\*formative TechnoCraft offers an enactment of this thinking from a different angle, combining to enact the ethics and tactics described above. Together these public-facing resources attempt to provide plainspoken translations of technical,critical, aesthetic, and ethical concepts in approachable [zine] formats, in order to support both AI insiders and marginalized outsiders in understanding the urgency of the issues facing automated technologies and the necessity of each other’s skill sets in facing those issue. 
 
-The research foundational to this artistic practice is a critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. 
+The research foundational to this artistic practice is a critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. [XXXmore][methodologies]
 
 ### CRAFT: *Coding.Care*
 {: .no_toc }
@@ -834,13 +843,21 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 - InnerVoiceOver // On Kawara
 - Ladymouth // Pipilotti Rist
 
-### TRANS: CONCLUSION/WHAT'S NEXT *Unsupervised Pleasures: Conscientious Datasets for Queer Futures*
+### TRANS: CONCLUSION/WHAT'S NEXT 
 {: .no_toc }
 
 What it calls for in the future...
 
-[future feminist machine musueum]
-[unsupervised pleasures][conscientious data for queer/diverse/intersectional futures]
+Because generative AI models have become so large, and training processes so slow and expensive, they frequently rely on foundation models — previous models, often designed for other tasks, used as the building block or sourdough starter for new models. Foundation models 
+
+**To move from foundation models, which have been built on narrow data and stereotyped classificatory logics, to transformative models which might unravel them...**
+
+>"Part of the construction of dominator privilege is you don't have to think about what are those other people thinking, feeling, hoping, dreaming. I think part of transformation is when you open yourself to wanting to know what those people who are not like you are doing, thinking, being." [@hooksbellWhyFamedFeminist2018] 
+
+
+- [future feminist machine musueum]
+- [unsupervised pleasures][conscientious data for queer/diverse/intersectional futures]
+
 
 
 #### not classifying, a radical queer computing not based on classification but woven from the unknowing of genderless expression, of story
@@ -873,7 +890,7 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Ahmed, S. (2018). "Queer Use." feministkilljoys blog. https://feministkilljoys.com/2018/11/08/queer-use/
 - Amoore, L. (2020). *Cloud Ethics*.
 - Asimov Institute. (2016). Neural Network Zoo. https://www.asimovinstitute.org/neural-network-zoo/
-- Berlant, L. (2016). The commons: Infrastructures for troubling times*. Environment and Planning D: Society and Space, 34(3), 393–419. https://doi.org/10.1177/0263775816645989
+- Berlant, L. (2016). The commons: Infrastructures for troubling times*. Environment and Planning D: Society and Space, 34(3).
 - Braybrooke, K. (2020). "Together, we dance alone": Building a collective toolkit for creatives in a pandemic. Interactions, 27(4), 68–71. https://doi.org/10.1145/3406027
 - Brunton, F., & Nissenbaum, H. F. (2015). *Obfuscation: A user's guide for privacy and protest.* MIT Press.
 - Birdsong, Mia. 2020. *How We Show Up*
@@ -886,9 +903,8 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Chun, W.H.K. (2009). "Race and/as Technology; or How to Do Things to Race." *Camera Obscura* 24:1
 - Chun, W.H.K. (2008). "On 'Sourcery', or Code as Fetish." *Configurations.* 16:3
 - Calvino, I. (1976). "The Burning of the Abominable House." *Numbers in the Dark*. Trans 1995. 
-- Calvino, I., & Parks, T. (1995). Numbers in the dark: And other stories (1st American ed). Pantheon Books.
 - Ciston, S., & Marino, M. C. (2021, August 19). How to Fork a Book: The Radical Transformation of Publishing. Medium. https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c
-- Cox, G. and Soon, W. (2020). *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. [gitVersion](https://gitlab.com/aesthetic-programming/book/-/tree/master/source]
+- Cox, G. and Soon, W. (2020). *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. [gitVersion](https://gitlab.com/aesthetic-programming/book/-/tree/master/source)
 - Crawford, K., & Joler, V. (2018). Anatomy of an AI System. http://www.anatomyof.ai
 - Crawford, K. (2021). *Atlas of AI: power, politics, and the planetary costs of artificial intelligence.* Yale UP. 
 - Fournier, L. (2021). *Autotheory as Feminist Practice in Art, Writing, and Criticism.* MIT P. 
@@ -930,8 +946,10 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - Shih, X. X., & Moriwaki, K. (Eds.). (2022). Critical Coding Cookbook. https://criticalcode.recipes
 - Soulellis, P. (2019). "URGENTCRAFT." https://soulellis.com/work/urgentcraft/index.html
 - Stark, L., & Crawford, K. (2019). The Work of Art in the Age of Artificial Intelligence: What Artists Can Teach Us About the Ethics of Data Practice. Surveillance & Society, 17(3/4), 442–455. https://doi.org/10.24908/ss.v17i3/4.10821
-- Sunder, A. (2022). "Performing Spectres: Deliberate Images, Intended Metaphors." *Platforms: Around, In Between, and Through.* Ed. Sunder, A. *Natasha,* Singapore Biennale.
+- Sunder, A. (2022). "Performing Spectres: Deliberate Images, Intended Metaphors." *Platforms: Around, In Between, and Through.* Ed. Sunder, A. Natasha, Singapore Biennale.
   - >"the regulation of non-presence is not only the bedrock on which certain kinds of technologies are built and function, but how they also affect the ways in which we out to look at images arising from them"  
+  - >"this is precisely the success of the platform: [to even ask the question means that] the figure of the human worker is so abstracted that it is hard to determine anything about them, even whether they are breathing or not."
+  - >"These hidden substrates of global production flows are especially important when making and gathering datasets used for machine-learning applications."
 - Thorp, J. (2021). *Living with Data.*
 - Vee, Annette. 2017. *Coding Literacy.*
 - Willis, H. (2016) *Fast Forward: The Future(s) of the Cinematic Arts.* Wallflower Press.
