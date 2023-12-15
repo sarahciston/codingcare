@@ -28,6 +28,17 @@ You chose a a few basic rituals and stuck with them. All you needed [to say][ wa
 
 I got up at 9:50am. I woke up several times before that. In your 'I got up at' postcard series, the times range wildly. This makes me like you more. I resent [shows of dedication that seem to claim the moral high ground as the secret to success. Like if I really wanted to 'be an artist' I would have gotten up at 4am — as if this is the formula for everyone, as if we share the same capacities.]
 
+[XXX][2pm section?]
+
+On Kawara, how were you feeling on APR 3 1969? I triangulate a mood from two separate pieces you made that day - contributions to your datasets. [Along with 'I am still alive' and 'I got up at', you often made 'I went' and 'I met', which index your daily travels (on a map) and interpersonal encounters (in a list of names).] On APR 3 1969 you got up at 2:56 PM and made a very tight path around your neighborhood in Manhattan. Just 4 blocks by 4 blocks. Maybe you only went out to mail the postcard that said 'I GOT UP AT' and to have or prepare a meal. I assume you met with no one and sent no telegrams. Although you were still alive, I could not find evidence of the statement. 
+
+I recognize such knotted neighborhood walks in the patterns of my own movements on the slowest days. I don't mark these down with red pen (except for one photography project in college), but I have always been viewing my 'self' from this disconnected angle — small, on a map, in relation to abstract concepts like 'north'. In my movements, I notice how little they cover the earth. I like places where I can get up high or see way far until the horizon seems to curve and the smallness I already feel is more palpable. On other days, when I am more in this body, I [notice/am always uncomfortable] how much space it takes up — how it barely fits where it's prescribed, how it aches and moves like my mother's body now, how much ecological impact it contributes. I [make art about tracing technologies because I already] get the sense of being traced by satellites, rather than my own pen. Despite all my privacy settings, I know the phone maps know where I am, not-so-benevolent gods. I know my mom can pull up her phone and find me, a tiny dot, still a 'live' representation. [I leave this on because she likes it more than it bothers me.]
+
+How did the world 'live' come to mean present, current, active, instead of a-live? The most common example of 'a-life' or 'artificial life' is Conway's Game of Life algorithm, in which a small set of rules play out into infinite complexity over thousands of cycles, creating shapes that can be followed like an unnatural ant farm of "spaceships, gliders, and [XXX]". In A*search, or 'A star' 
+
+
+[XXXendadd]
+
 A few years ago I also made an artwork that tracked all my daily habits. I felt young and girlish when I made art with my data. (Would I have felt that way if it was someone else's data, someone less young- ang girlish-seeming themselves?) I got constructive criticism like, "You sure do sleep a lot. Are you depressed?" But On Kawara, I think I slept about the same as you, and I'm sure we are both read into, and I suppose that is some part of the point, but I still didn't like the feeling. Your context was the daily paper, a postcard of a skyscraper, a telegram. My context was shared ipad screens, reading critical media theory, a looming breakup. ~~[Although who knows what might have been going on between you and your correspondees.]~~  
 
 Later I made artworks that asked people to bring their data with them. I asked for compassion, in small portable phrases — ones that could be turned from sound into writing into data packets into sound again. At first I had to learn to like compassion at all. The art-making was a way to make it weird, to figure out how to learn to like it. To get comfortable with the sound of my voice, I had to make an artificial one that sounded like an uncanny version of me, being kinder than I was capable at the time. If it could be nicer, maybe I could be, and if I could be, maybe anyone could be. Some people seemed upset I was asking, said I was being too polite. This felt ironic, for how hard it felt to ask. This felt a lot about gender, although less and less do I want to have one. 
@@ -85,10 +96,11 @@ return to the anxiety of too many too much asked of me, no one asked, i asked th
 code palimpsests from Annette Vee, looking at Bakhtin's speech genres, each utterance a refraction of prior.
 
 
+After I started writing to you, I learned that your "I AM STILL ALIVE" series started with three telegrams that directly address the suicidality latent in the rest of the project. In DEC 1969 over three days you sent: "I NOT GOING TO COMMIT SUICIDE DON’T WORRY; I AM NOT GOING TO COMMIT SUICIDE WORRY; and I AM GOING TO SLEEP FORGET IT." For whatever reason, I like these less. But don't worry, I still like you, On Kawara. I expect you're not concerned with this at all. You are not still alive. I write to you as though you are, because to write to the living who do not want to live, to write to them about living seems harder than to write to the dead about living. I expect you'd have more to say about living, having written "I am still alive" so many times. I think you would report back that living was not fun. Maybe you could explain to my friend, who does not want to, why you went on and did it anyway. [Did you? Checks to make sure you did. Whew.] [A remarkable] 29,771 days. I'm happy if everyone I know sticks around that long.]
 
-Later I learn that Kawara's series "I AM STILL ALIVE" started with three 1969 telegrams that directly address the suicidality latent in the rest of the project: "I NOT GOING TO COMMIT SUICIDE DON’T WORRY; I AM NOT GOING TO COMMIT SUICIDE WORRY; and I AM GOING TO SLEEP FORGET IT." For whatever reason, I like these less. But don't worry, I still like you, On Kawara. I expect you're not concerned with this at all. You are not still alive. I write to you as though you are, because to write to the living who do not want to live, to write to them about living seems harder than to write to the dead about living. I expect you'd have more to say about living, having written "I am still alive" so many times. 
+Each of your almost 3000 'Today' paintings was plain san serif, white against monochrome ground. You tediously completed each date during the day it depicted. The days "index only themselves" [@kawaraKawaraSilenceOccasion2015].
 
-I think you would report back that living was not fun. Maybe you could explain to my friend, who does not want to, why you went on and did it anyway. [Did you? Checks to make sure. Whew 29,771 days. I'm happy if everyone I know sticks around that long.]
+
 
 
 
@@ -96,6 +108,8 @@ I think you would report back that living was not fun. Maybe you could explain t
 
 ![on kawara "I got up at"](../assets/img/Kawara_IGotUp1036.jpg)
 
+
+Sometimes sent unprompted, sometimes as a Bartleby-esque act of refusal in reply to requests and inquiries, these telegrams state his [persistence/ongoingness] which may not have continued in the time between sending and delivering. 
 
 
 

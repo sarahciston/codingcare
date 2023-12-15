@@ -130,6 +130,7 @@ sundén-on trans-, glitch, and gender as the machinery of failure
 >"Broken Machines do not flee the scene nor do they opt to be repaired in order to be plugged back into patriarchy's technological conditions of possibility. The Broken Machine refuses to use the batteries they're selling us;
 >"Broken Machines have capacity for others when others are drained because they seek and find communal care rather than return to those original power sources that are simultaneously draining."
 >"there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use." (Ahmed)
+>"a blockage can be how the system is working. The system is working by stopping those are trying to transform the system. This means that: to transform a system we have to stop the system from working. When you stop the machine from working, you damage the machine." (Ahmed")
 
 ruja benjamin 
 >"glitches are not spurious, but rather a kind of signal of how the system operates" (Benjamin)

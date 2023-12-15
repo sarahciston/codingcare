@@ -11,8 +11,8 @@ date: 02.11.2023
 
 # Codes for (Un)Raveling
 
-(No Knots Only Loops)
-(Adrian Piper, Sonya Rapoport)
+
+I am unraveling, unmouthing, raveling, mouthing, how to knot and unnot holds everything, within, writhing, writing. To twist, twirl, expose, untether. 
 
 ## THREAD
 taut, tangled, tethered. tentacles, the tails of jellyfish. 
@@ -33,9 +33,6 @@ If we hold everything loosely, no knots, only loops, f we only loop, not knot, w
 
 
 # Codes for Un/Raveling, Un/Mouthing
-
-(No Knots Only Loops)
-(Adrian Piper, Sonya Rapoport)
 
 >"It seems necessary and impossible to rewrite the default grammar of agency." —Jane Bennett
 
@@ -124,21 +121,42 @@ Threads like chart lines, activation functions, loss functions, divisions & conn
 
 disambiguation: screw thread, spirals around the shaft, the spiral as the simplist labyrinth; thread a fiber or filament; conversation threading on forums, grouping like with like; obviously weaving warp and weft;  
 
+The spiral is the simplist labyrinth. The simplest knot, mathematically is
+
 Ariadne's thread, in computing, exhaustive application to all routes (but her thread was 1 route?), mark each choice, follow one available as far as possible [wiki](https://en.wikipedia.org/wiki/Ariadne%27s_thread_(logic))
 
 death ritual, unwind a ball of thread among people mourning around a body, tie it to each wrist as they pass it, snip the thread between them, wait for the thread to fall off. bahia wish ribbons. (shape of a dissertation, is it the thread, the loops where each accrues, the body between, each body of a mourner going out into the world)
 
 threads as **ligatures**, *links between letters, also threads to sew up arteries, a cord to tie up tightly*
 
-Threads are ligatures, they sew up the spaces between, tie up meaning tightly, linking letters. Threads to sew up arteries. Threads as instruments of mourning and memory. Threads as marks of accrual and disintegration. 
+Threads are ligatures, they sew up the spaces between, tie up meaning tightly, linking letters. Threads as sutures, to sew up arteries. Threads as instruments of mourning and memory. Threads as marks of accrual and disintegration. 
 
-With too much friction, you strip the threads off a screw that spiral around its core. The spiral is the simplest labyrinth. To venture to all possible points and exhaust all paths is called Ariadne's thread in computational logic. It follows as far as it can go on one route then marks the end and returns until it finds the next route.  
+Threads wind a screw. With too much friction, you strip the threads off a screw that spiral around its core. The spiral is the simplest labyrinth. To venture to all possible points and exhaust all paths is called Ariadne's thread in computational logic. It follows as far as it can go on one route then marks the end and returns until it finds the next route.  
 
-Conversational threading.
+Conversational threading connects [inter]braided conversations together. 
+
+Wikipedia says a knot is 'an intentional complication'. 
 
 repair, riparian
 
+>"the unknot, not knot, or trivial knot, is the least knotted of all knots" It is a closed loop. 
+
+Many knots are but complications of the unknot. 
+>"many useful practical knots are actually the unknot"
+
+There are algorithms for mathematically deducing the composition of knots, and detecting the trivial knot is called the 'unknotting problem'. 
+
+The Conway knot, created by the same mathematician known for the Game of Life algorithm, has 11 crossings but shares the same [properties/polynomial] as the unknot. 
+
+[The wound-up muscle of the heart can be unrolled just like a double-helix]
+The wound-up muscle of the heart is not a knot, although there is a knot called a heart knot. The muscle of the heart is a spiraled double-helix, and the heart can be unwound into a flat slab of muscle just like any other muscle. 
+The hagfish ties herself into a knot. She moves the knot of her body over her body to scrape slime from her skin. 
+
+>"Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point." (Ahmed queer use)
+
 ***
+
+Claude Shannon's toy mouse Theseus in its metal labyrinth
 
 Used to be, you'd knot a string around your finger if you had something to remember. You'd tie a ribbon round a tree to remember the dead. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
 
@@ -186,6 +204,9 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 
 
 ingold's knot vs brick
+
+(No Knots Only Loops)
+(Adrian Piper, Sonya Rapoport)
 
 
 
