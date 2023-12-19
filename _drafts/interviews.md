@@ -9,6 +9,7 @@ nav_order: 95
 
 # transcripts
 
+* [ender](interviews#ender)
 * [Garrett](interviews#garrett-flynn)
 * [Katherine](interviews#katherine-yang)
 * [Samir](interviews#samir-ghosh)
@@ -20,6 +21,1311 @@ nav_order: 95
 [Even [another member] who was confronted with opportunities to profit immensely off NFTs, but decided not to because of Code Collective, because when she was thinking about these ideas, she could see other people who are also using code in the creative manner.][No one said, 'What you're doing is wrong.' We said, 'Oh, like it sounds like you're having mixed feelings about this. Let's talk about it.' Or she was very vocal, but we were all interested in it and had dynamic conversations around it.] 
 
 <section class="interview" markdown="1">
+
+
+## ender
+
+a disconnect between what people say they do and what they actually do, 
+reality is nuanced. being able to look at technology. focused on creative coding in a nuanced way that isn't overly optimistic or pessimistic but realistic. may not sound inspiring but is quite refresshing when no one wants to talk about the reality of what software is like
+
+used to go to homebrew groups. struggle in every group that sometimes everyone is gathered around a certain purpose but a lack of comaradery, good at comraradery even if people have just met. good facilitator informaly way. make sure people are just enjoying themselves. 
+
+disagreeable stereotype
+to bring a gorup of programmers together and have a fun conversation is actually an achievement.
+
+feel safe saying i have political opinions. Politics is just saying I have opinions about what happens to me and other human beings. I'ts all part of my humanness. 
+you're pretending there's no politics but you're just maintaining the status quotes. 
+
+social mode of learning. a lot of spaces i feel scared to ask questions. 
+judgment free. could ask what is a variable. none of the pretensions. less of the genderedness. 
+
+pluralism, intersectionality. idea you should not be telling ppl their experiences. good/expected to interact w ppl who have experiences you haven't had. 
+something i've learned from CCC is you can have fun coding anything. coding should be done for fun and not to intimidate others or show how smart you are. a respect for other people in the space.
+
+the biggest shift was probably when i was getting into weaving and knitting as an idea as a precursor to computer hardware. social. coding is not an act done by an individual but a build up of hundreds of years of human traditions. you are also a part of a generation that will affect future generations. helped me place it within a historical landscape and a social act. 
+
+ethnomathematics, west africa, math carried out by the community not individual. 
+healthy social ways to do comp sci
+timnit gebru ai to positively change the world have to be made by diff people
+
+come back for the comeraderie. not combative or trying to prove how much we know or one-upping each other. hard to formally make sure these things happen. 
+
+ccc in ev major city. 
+
+ccc the only space where i can express what coding means to me or why i care about it. 
+
+ender's game
+
+zine kate compton. make a zine of your academic papers. 
+ted nelson programmers bad personalities computer lib dream machine. 
+zactronic's zines in video games. exopunks. 
+
+ender, BS Columbia University Applied Math 
+
+WEBVTT
+
+Sarah Ciston: how did you find out about code collective. And what were your first impressions like? What drew you to it? How did you get involved?
+
+ender 🐢 no pronouns: Yeah. So I think you remember that it took like a year between me finding out about code, collective and joining code. Collective. I used to which I kind of missed about myself. Actually, I used to just love browsing Github. I wasn't Github fanatic to the point where I would tell my friends about Github drama that I found like I was get issues. And as people are arguing about the
+ender 🐢 no pronouns: programming language personal issues there and like, I used to just love Github. So I found your intersectional, AI Github Repo. And then I think that there's somewhere in there where it says, if you like having these types of conversations
+ender 🐢 no pronouns: like you should join creative code collective. And I was like, Oh, that's so cool. And that's basically why I wanted to join. And then eventually, you did receive my email. And then I was able to start Taking part.
+
+Sarah Ciston: Amazing!
+Sarah Ciston: I had. II either don't remember or didn't hear that story initially. That's really cool. That's that. That was your route into it. That's amazing to me. That makes me feel really good.
+
+Sarah Ciston: Yay, how would you describe code collective to somebody who had never heard of it, like, what is it that we do here?
+
+13
+00:01:50.170 --> 00:02:07.060
+ender 🐢 no pronouns: Hmm! II know that this is like supposed to be academics. So that's why I was. I can't find an academic way to describe it. Okay, thank you. Cause I was like I can't. It takes me a long time to go from, you know, like
+
+14
+00:02:07.490 --> 00:02:30.410
+ender 🐢 no pronouns: what I would say to my friend, to what I would say in my resume that takes like a team of people, and like, you know, some like hard, you know. I what I would say to like my friend, for example, is that it's like there's sort of oh, you know what it's. It's something that I already said in my submission. But I'll I'll I'll try not to repeat myself.
+
+15
+00:02:30.450 --> 00:02:34.160
+ender 🐢 no pronouns: No, I don't wanna repeat myself. I wanna repeat myself. But
+
+16
+00:02:34.300 --> 00:03:04.090
+ender 🐢 no pronouns: it's like you just look around, and there's sort of like a disconnect between like what like the people who make apps say about what they do and what their apps actually do. There's a disconnect between what academics say the world is going to be like and how they're making all this progress and the world that we see around us. That is the result of all those decades of quote and quote progress. And
+
+17
+00:03:04.090 --> 00:03:33.890
+ender 🐢 no pronouns: it's like, when you want to actually address these contradictions, you sort of run into people who are very stubborn and don't actually want to take your argument to good faith. And they're just like very stubborn techno optimists, which is what I was trying not to go into. So like just the difference between technical optimism, technical pack of pessimism and sort of just realism, like, what is the world that actually exist?
+
+18
+00:03:33.990 --> 00:03:40.759
+ender 🐢 no pronouns: Like? It's easy to be a pessimist and say, Oh, yes, well.
+
+19
+00:03:40.760 --> 00:04:03.760
+ender 🐢 no pronouns: you know, tinder ruined dating. And now I'm I'm sorry for bringing that up. Obviously some personal experiences, but it's easy to say, tinder ruin dating. And you know, Facebook ruin social interactions. And like the but that also ignores how there's a technology that can make.
+
+20
+00:04:03.760 --> 00:04:17.890
+ender 🐢 no pronouns: you know. Let's say, like, Zoom can have technology that automates closed captioning. It's not always all negative, which is not. It's always all positive, either. It's just reality is nuanced
+
+21
+00:04:17.890 --> 00:04:32.890
+ender 🐢 no pronouns: And so II think that what I like about creative code collective is just like being able to look at technology. And I would say that creative code collective is really, you know, focused on creative coding in particular
+
+22
+00:04:32.950 --> 00:04:55.349
+ender 🐢 no pronouns: from that umbrella of technology and that **creative code collective looks at creative coding in a nuanced way that isn't overly optimistic or pessimistic, pessimistic, but just realistic, which may not sound like so beautiful and inspiring. But it it is actually quite refreshing when you know basically, no one wants to talk about the reality of what software is like.**
+
+24
+00:05:05.130 --> 00:05:19.340
+Sarah Ciston: That's great. Thank you. I. And also, I would just say, I'm very much trying to make this book, not academics, adult and and approachable, like, if you're telling your friend about this group, or how how to make this practical, to to create a chapter or a similar, a chapter of the group, or a similar format somewhere else. So it's very much not meant to be in elev. It can be an elevated language, and I can unpack that. But it's not. It doesn't have to be academic language at all.
+
+ender 🐢 no pronouns: Okay, that's great. 
+
+But I'm trying to make it like a more like a Zine or a chat book vibe than a academic paper.
+
+ender 🐢 no pronouns: That's great. I'm always here for Zain, as I'm sure you know. Yeah.
+
+Sarah Ciston: so what to you would be some of the like essential components of code collective as a group like Wh. Technically, socially, emotionally, collaboratively, artistically, politically, like, what are the things that make it go?
+
+33
+00:06:17.610 --> 00:06:20.819
+ender 🐢 no pronouns: Yeah. So I actually used to go to home brew groups. And I think that something that I struggle with, and **almost every group that I'm part of is just that sometimes everyone is gathered around a certain purpose or a certain topic. But there's a lack of camaraderie, and I think that you're really good at bringing that camaraderie, even if it's just a group of people who have met for the first time.**
+
+35
+00:06:46.300 --> 00:07:02.510
+ender 🐢 no pronouns: And I'm not sure how you would, you know. Turn that into a formula. Maybe you have an idea of how to do that, but I think that it's really good to just be a good facilitator, even if it's in literally the most informal way, where you never see the word facilitator.  and **make sure that, like people, are literally just enjoying themselves.** That sounds really simple. But I would try to go to other tech meetups because I like to talk about technology.  And there would just be like, I mean, there's obviously a change in demographics like, you know, like the obvious, like, oh, they're all men and that type of thing. And then also just like a lack of camaraderie. It's like and like. You know how the stereotype of the programmer personality is. And so **the stereotype of the programmer personality is actually a disagreeable person, and so bring a group of programmers or people interested in programming together and have a fun conversation is actually quite an achievement, I would say,** and if you have to like, cite their programmer personality like Ted Nelson did write about it, and I thought that was so funny.
+
+ender 🐢 no pronouns: He was writing about like programmers as like gods and wizards, and how they think they're wizards and all this stuff. But you don't even need citations. I don't know why I'm trying to write your paper for you. But yeah, I just feel that **it is really important to actually focus on making sure that people are enjoying themselves and feeling camaraderie, because that can sort of be the secret sauce that makes it work** and then, politically, I'd say that **I feel like safe saying, I even have political opinions** and creative code collective
+
+ender 🐢 no pronouns: like II have really, ever since I mean, oh, again, I'm like, I don't know how much you're gonna put in of this. So I'll just try to say things that you can filter them out.
+
+Sarah Ciston: Yeah.
+
+ender 🐢 no pronouns: so ever since October seventh, I actually kind of stepped back from pretty much. Most groups I'm in, except creative code, collective and the school for poetic computation because of PE, it's like, How can you just pretend that you don't know what's going on, or you don't have an opinion or something.
+
+46
+00:09:15.610 --> 00:09:24.519
+ender 🐢 no pronouns: There's certain times where I understand we're trying to be professional, I mean, II honestly don't understand. But other people are trying to be professional.
+
+47
+00:09:24.660 --> 00:09:50.389
+ender 🐢 no pronouns: But I just can't like pretend that I'm not human. I'm a human being, and **for me politics is just saying I have opinions about what happens to me and other human beings. It's not like some abstract thing that does not affect my daily life. I'm not able to separate it from technology, which is also a part of my daily life that I something that I take part in because I'm a human being. It's all part of my humanness. I can't just pick apart different things and bring them with me at different times, so it's very difficult to be part of tech spaces which want to be apolitical, because that in itself is not a neutral political stance, and it will alienate people.**
+
+49
+00:10:10.170 --> 00:10:12.410
+Sarah Ciston: Oh, yeah,
+
+50
+00:10:13.160 --> 00:10:23.110
+Sarah Ciston: that is so well said. And I think this idea of like professionalism is sort of like
+
+51
+00:10:24.240 --> 00:10:36.549
+Sarah Ciston: beau politeness, balm, or whatever that just it's like. I don't. I don't know the purpose of it. It it like maintains the status quo and maintains power right? But like
+
+52
+00:10:36.810 --> 00:10:46.499
+Sarah Ciston: th. This idea that we're not supposed to talk about these things because we're being professional, or we're supposed to leave. I think you said it so well that we're supposed to leave parts of our
+
+53
+00:10:46.830 --> 00:10:51.980
+Sarah Ciston: ourselves outside of the space
+
+54
+00:10:52.410 --> 00:10:54.360
+Sarah Ciston: is so
+
+55
+00:10:55.080 --> 00:10:56.670
+hard to
+
+56
+00:10:57.220 --> 00:11:06.079
+Sarah Ciston: to grapple with. So I'm really glad to hear that you felt like this was a space you could continue on in.
+
+57
+00:11:08.390 --> 00:11:33.060
+ender 🐢 no pronouns: Yeah, for sure. And the thing you know. And now I'm just like, don't turn this into a ran. Okay, so there's one space where what I will say is that **some of these spaces that pretend to be apolitical again, it it is a political stance**, right? I think, as you said, it does maintain the status quo, because I think that I may have said this before, that I was in a machine
+ender 🐢 no pronouns: learning a discord, and I they would have presentations. And I think that I actually did give a presentation this discord before. Yes, I did, and I was like pretty involved there. Right? I would go to meetings and all this stuff. But there was an ethical AI server or channel within the Server, and people hated this channel like people who weren't part of this channel, would just come into this channel to just
+ender 🐢 no pronouns: talk negatively about everyone there, and how it shouldn't exist, and all of this stuff. But it's an apolitical space. So **you're pretending that there's no politics. But in reality your political leaning is just maintaining the status quo.** So wow. III think that II think it is true what you said, that apolitical spaces really just maintain the status quo.
+
+61
+00:12:30.460 --> 00:12:52.570
+Sarah Ciston:  I'm just taking a few notes, too, so that I can find stuff in the Transcript, because all of this is so good. And it's nice. It's also like echoing things that I've been writing about as well. So it's nice to be affirmed that I'm just not like
+
+62
+00:12:52.780 --> 00:12:57.079
+Sarah Ciston: completely off the mark with what I'm saying in the book.
+
+63
+00:12:58.230 --> 00:13:01.070
+ender 🐢 no pronouns: Of course not. Of course not.
+
+64
+00:13:01.220 --> 00:13:08.679
+Sarah Ciston:  Let's see, how do you feel like there's a an approach to
+
+65
+00:13:08.820 --> 00:13:19.140
+Sarah Ciston: coding that is shared among code collective members, or that is like encouraged by code collective, is there? Do we have a specific
+
+66
+00:13:19.260 --> 00:13:22.499
+Sarah Ciston: technical or creative approach that you would describe.
+
+67
+00:13:28.220 --> 00:13:35.300
+ender 🐢 no pronouns: I think that the approach would be like a sort of a
+
+68
+00:13:35.730 --> 00:13:44.370
+ender 🐢 no pronouns: like social mode of learning, which I think is really great, because **there are a lot of spaces in which I feel scared to ask questions**
+
+ender 🐢 no pronouns: like, I don't think that there's one approach to coding like object, oriented or functional, that is encouraged in the space. But I think that it's more like how you approach coding. Is it a social activity or an individual activity? That is discussed in the space.
+
+70
+00:14:04.030 --> 00:14:07.439
+Sarah Ciston: Okay. that makes sense.
+
+71
+00:14:07.810 --> 00:14:14.320
+Sarah Ciston: Yeah. So it's more about the the like working style that the teaching and learning style that feels different.
+
+73
+00:14:16.480 --> 00:14:18.550
+ender 🐢 no pronouns: Yes, okay.
+
+74
+00:14:18.680 --> 00:14:25.730
+Sarah Ciston: And the aspect of that that feels different is that it's more social. Is there anything else that feels different about it?
+
+75
+00:14:26.060 --> 00:14:39.360
+ender 🐢 no pronouns: Well, of course, there's like no judgment which I really appreciate. Like. **I do feel that I could ask anything like I could ask like, what is a variable? Or I could ask, like.**
+
+76
+00:14:39.400 --> 00:14:50.860
+ender 🐢 no pronouns: what is like, what is a little Indian number, and like no one, cares like **nobody cares whether I'm talking about bitwise operations or just learning what Javascript is.**
+
+ender 🐢 no pronouns: I think that's really important. It's just like none of the pretension that really comes with the typical programmer space. And honestly, it's it's very hard to put my finger on. But it it's like less of that, like genderedness of programming where it's like, yeah, it's like hard to say, cause I'm like, well.
+
+79
+00:15:16.220 --> 00:15:28.469
+ender 🐢 no pronouns: it's not like official, or I don't know, but like there is like something very bro-y about like programming spaces where you're not allowed to ask a stupid question, but I don't know how else I would say that.
+
+80
+00:15:29.130 --> 00:15:31.270
+Sarah Ciston: Yeah. yeah.
+
+81
+00:15:32.020 --> 00:15:44.459
+Sarah Ciston: it's wild to me that we already have these ideas baked in about what would be a stupid question like it. It feels like it imposes it from the top down that
+Sarah Ciston: I could go into a space where I don't know what a variable is. But I know that I'm not supposed to ask.
+
+83
+00:15:53.940 --> 00:15:57.169
+ender 🐢 no pronouns: That's very interesting. Yeah, yeah.
+
+84
+00:15:57.400 --> 00:16:07.930
+Sarah Ciston: and that that we can be so clearly communicating the social norms, but not willing to communicate, like the information that makes people that helps people feel
+
+85
+00:16:08.490 --> 00:16:13.580
+Sarah Ciston: welcome or to move toward understanding, feels like
+
+86
+00:16:14.170 --> 00:16:33.510
+ender 🐢 no pronouns: I don't know it. It upsets me. No, it's definitely energy spent on the wrong things. I totally agree. I mean, there's **so much energy that's spent just like maintaining like hegemony like**. So that's probably why the energy is spent there.
+
+87
+00:16:33.820 --> 00:16:35.500
+Sarah Ciston: Yeah. Ugh!
+
+88
+00:16:35.530 --> 00:16:38.190
+Sarah Ciston: Depressing.
+
+89
+00:16:38.210 --> 00:16:40.880
+Sarah Ciston:  let's see.
+
+90
+00:16:41.120 --> 00:16:57.020
+Sarah Ciston: what would. Okay? I? How did I phrase this question? What is the spirit of code collective? What are our values? For example, what would you include in our manifesto? And how do we demonstrate or embody those values?
+
+
+Oh, my, gosh, okay, okay, I'm I'm struggling because I'm trying to think about things. I've read that you've written. But I'm also like this is also my opinion. Yeah. And it shouldn't just be my values. It should be like yours and ours like, yeah.
+ender 🐢 no pronouns: Oh, I would say that definitely. A
+
+94
+00:17:27.839 --> 00:17:31.809
+ender 🐢 no pronouns: a perspective I'm trying to put into words is
+
+95
+00:17:31.830 --> 00:17:41.540
+ender 🐢 no pronouns: something along the lines of like pluralism or intersectionality. There's multiple words or different ways of looking at this idea. But just like
+
+96
+00:17:41.860 --> 00:17:48.270
+Sarah Ciston: those are different ideas as well intersectionality and pluralism. But in my mind. They are related
+
+97
+00:17:48.450 --> 00:17:56.080
+ender 🐢 no pronouns: and just like the idea that you should not be telling people what their experiences are, and that
+
+98
+00:17:56.180 --> 00:18:02.179
+ender 🐢 no pronouns: it's good to learn from other people. Hmm! Sounds cliche
+
+99
+00:18:02.780 --> 00:18:05.349
+ender 🐢 no pronouns: like the idea that
+
+100
+00:18:05.980 --> 00:18:22.100
+ender 🐢 no pronouns: **it is good and expected to interact with people who have experiences that you haven't had, and you will want to learn from them. Maybe. I also feel that something I've learned from**
+
+101
+00:18:22.100 --> 00:18:36.269
+ender 🐢 no pronouns: code collective is just that. You can really have fun coding anything like. I thought it was really interesting that Samir had so much fun with shaders when those are typically again seen as like a very like
+
+102
+00:18:36.540 --> 00:18:59.599
+ender 🐢 no pronouns: masculine coded, like C programming language, which is like, Oh, this is my fun thing. This is not my my, you know. Sort of angry, programmer thing. This is my fun thing. It's like **coding is fun, and should be done for fun, and not to like intimidate others or show how smart you are.**
+
+103
+00:18:59.960 --> 00:19:06.249
+ender 🐢 no pronouns: and **definitely, just like a respect for others and respect for people in the space.
+**
+104
+00:19:06.640 --> 00:19:07.620
+Sarah Ciston: Umhm.
+
+105
+00:19:12.780 --> 00:19:13.610
+Sarah Ciston: Great?
+
+106
+00:19:15.070 --> 00:19:19.340
+Sarah Ciston: Thank you. That's that's really nice.
+
+107
+00:19:21.240 --> 00:19:42.390
+Sarah Ciston: has code collective, affected, how you engage with coding as a creative critical practice? Has anything shifted for you about like making and thinking, or engineering and art in your own work and like, how how did those shifts happen? If they did.
+
+108
+00:19:45.060 --> 00:20:03.910
+ender 🐢 no pronouns: I would say that the biggest shift was probably when I was really getting into like weaving and knitting, not even physically, but as an idea of like something that was a precursor to computer hardware.
+
+109
+00:20:03.950 --> 00:20:06.240
+ender 🐢 no pronouns: And
+
+110
+00:20:06.420 --> 00:20:12.280
+ender 🐢 no pronouns: I think that you were the one who recommended that I should read Sadie plan, and I did
+
+111
+00:20:12.330 --> 00:20:15.709
+ender 🐢 no pronouns: and I feel that
+
+112
+00:20:16.180 --> 00:20:34.709
+ender 🐢 no pronouns: **the way that I approach coding now is almost just like again, just like it's like a social act, like everything is social, like coding is not an act that's done by the individual. It's like this is like the build up of like hundreds of years of history, of traditions. Human traditions like this is not just something that you do on your computer like you are also part of a generation that will affect future generations. and you are taking part in trends
+ender 🐢 no pronouns: like, I guess that **it just helped me place coding within a sort of historical landscape. And to understand that coding is a social act.**
+
+Sarah Ciston: Wow!
+
+117
+00:21:06.300 --> 00:21:11.670
+Sarah Ciston: That's fantastic. I feel like that's something that I maybe
+
+118
+00:21:12.560 --> 00:21:14.549
+Sarah Ciston: feel in.
+
+119
+00:21:14.580 --> 00:21:25.430
+Sarah Ciston: or, you know, have learned and kind of come to in to it through how I work, but have never articulated as well as you just did. That's really fantastic.
+
+120
+00:21:26.550 --> 00:21:41.729
+Sarah Ciston:  And then, I guess also, as a pair like as a pairing to that question, has co-collective affected how you engage with code as a political intersectional practice
+
+121
+00:21:41.870 --> 00:21:44.949
+or shifted anything about how?
+
+122
+00:21:45.150 --> 00:21:49.490
+Sarah Ciston: You know, I identity. Diversity community
+
+123
+00:21:50.120 --> 00:21:57.969
+Sarah Ciston: appears in your work or impacts your work, I mean, I guess we've been talking so much about it being a social practice already. But
+
+124
+00:22:00.610 --> 00:22:06.490
+ender 🐢 no pronouns: yeah, I actually even wrote about Sadie plant
+
+125
+00:22:06.880 --> 00:22:09.200
+ender 🐢 no pronouns: in my
+
+126
+00:22:09.210 --> 00:22:21.030
+ender 🐢 no pronouns: my personal statement for my graduate school applications, because that was really good for me. Understand?
+
+127
+00:22:21.140 --> 00:22:30.810
+ender 🐢 no pronouns:  I do think that it has affected my worldview. What I learned here, and
+
+128
+00:22:31.150 --> 00:22:33.029
+ender 🐢 no pronouns: I feel that
+
+129
+00:22:35.070 --> 00:22:36.070
+ender 🐢 no pronouns: like
+
+130
+00:22:36.260 --> 00:22:46.250
+ender 🐢 no pronouns: I'm really interested. In ethnomathematics, which is a field of study where they study how
+
+131
+00:22:48.380 --> 00:23:17.759
+ender 🐢 no pronouns: like in cultures that are not Western or European. There's this idea that like oh, like West Africans, for example, I'm West African, so like, oh, West Africans, or, like Nigerians, have never contributed anything to mathematical history. That's not true. But **what you can see from Ethnomathematics is that in non European or non-western like pre colonial societies. Mathematics was carried out again by the community and not by the individual.**
+
+132
+00:23:17.760 --> 00:23:28.969
+ender 🐢 no pronouns: Like. There wouldn't be like one person writing down 3 plus 3 on paper. It would be like tracing out 3 plus 3 in the sand as a family.
+
+133
+00:23:28.990 --> 00:23:52.420
+ender 🐢 no pronouns: and I kind of feel like I've started to see computer science more in that way, except that the community which is carrying a computer science is really toxic, which is why I'm more inspired by knitting and weaving, and sort of like what these people were doing because they were actually able to provide like, you know, let's say, like a a hat in the winter for their family by using binary operations that precede Boolean algebra and binary logic and computer hardware. And I kind of see that as like my sort of goal for something to reproduce in the future as like a healthy social way to do computer science.
+
+137
+00:24:25.850 --> 00:24:26.950
+ender 🐢 no pronouns: I do you think that it is possible for algorithms to transform suffering. But Timnit Gebru did talk about how, in order for algorithms like AI algorithms to actually, positively change the world. They will have to be made by different people. And that's something I think about.
+
+
+ender 🐢 no pronouns: But trying to stay focused. I think that a I feel that computer science as a social activity can positively affect like human destiny when done considerately. And that's something that this group helps me think about.
+
+143
+00:25:18.100 --> 00:25:28.980
+Sarah Ciston: Wow, yeah, I mean, I think we could say more about the the comment from Timnit Gebru. Also, because I think in order
+Sarah Ciston: in order to have AI or any technology made by different people, we have to have spaces that allow different people to feel.
+Sarah Ciston: But to learn how to
+Sarah Ciston: do these skills or develop these skills. And we also have to have.
+Sarah Ciston: you know. So we need spaces. I hope, like code collective that feel like you can ask stupid questions. And you can build communities of practice. And then we also need to reshape the values in the existing tech Bro-y communities that can see the value in these other forms of knowledge. So I'm sort of like in an overarching sense, trying to build on that argument that like, in order to change technology, which is absolutely necessary, we we do need to have it made by different people, but we don't just have it made by different people by hiring them and putting them in the same context. That's toxic. We change the context and actually like, allow them to like make. We have. It has to be made the way that we different people would want it to be made right?
+
+ender 🐢 no pronouns: Yeah, for sure.
+ender 🐢 no pronouns: I totally agree with that. Oh, that makes me really sad, because that makes me feel that. I wish that there were more people in code, collective or into cryptography, because I feel like that's sort of thought I've been having about cryptography recently. But,
+ender 🐢 no pronouns: I actually even met a friend who was a math major, and I'm trying to get him to so funny. I wouldn't say I'm string at my own Ccc. But I'm like Bro, like we've got to like make like good crypto or something, do it, or bring him to ours, or start your own like. I'm totally down. That's what this is for is like. Here's how to. Here's how to start.
+
+Sarah Ciston: but like I would, I would love that for you and for all of us, because I feel like you've brought so many interesting questions into our space that I feel bad. I don't have the answers to, and I would love like I learned so much from you from what you do know. And from what you're asking about that, you're trying to figure out. And
+Sarah Ciston: II would love to have more of that energy, like all of that stuff totally fascinates me, even though it's not
+Sarah Ciston: my wheelhouse yet like I would love to have more of that. Topic. And that energy in our space
+
+ender 🐢 no pronouns: that sounds so awesome. Yeah, I wasn't really sure what to do, because, I wanted to be like a group of mathematicians who work on crypto. And I was thinking of like
+ender 🐢 no pronouns: I don't know, but I literally I don't know mathematicians who are like, Yeah, I care about social justice like I've met one, so I don't really know what else I would do. But that was just an idea I had.
+
+Sarah Ciston: I bet you can find them. I'm sure there are other people
+
+163
+00:29:04.350 --> 00:29:28.420
+ender 🐢 no pronouns: I have to. I have to warn warning your ex in my mind that we're not talking cyber security. I mean, number theory, like, we're going deep. But okay, okay, okay, your ex number theory. That's great. I should talk. I don't know. But like, I'm just just to say that there's like a proliferation of I'm sure there are other people like, if there's one, there's others right like
+
+ender 🐢 no pronouns: yeah, that's also happy to put you in touch. But like, Oh, no, I just this is just just just riffing but yeah, it's just thing I thought about recently. II didn't really have any idea for what I would do, because I even saw like no tech for apartheid. And I was inspired by that. But like I mean, I feel so conding. But I'm like, literally like, I'm not talking software engineer like you need a math degree. I'm so sorry
+
+ender 🐢 no pronouns: I'm so sorry, but, like II don't know. Maybe I'm being rude, or maybe at least an interest in the subject. You don't need formal qualifications, but it's not the the knowledge that you need for software engineering. And so
+
+Sarah Ciston: I don't know. And then I also don't want to bring back the tech bro toxic energy. So I think that's a good approach. If you're like, this is this is our topic area, not? This is the expertise you need to get in the door. But our topic is.
+
+169
+00:30:35.780 --> 00:30:43.760
+Sarah Ciston: yeah. Theoretical math. Not applied or not.  not
+
+170
+00:30:44.230 --> 00:30:46.340
+Sarah Ciston: programming, not software.
+
+171
+00:30:47.000 --> 00:30:49.449
+ender 🐢 no pronouns: Yes. So it'd be like a critical math, collective, not like a
+
+174
+00:30:56.370 --> 00:31:16.140
+ender 🐢 no pronouns: code collective. Right? That sounds so fun. You know, what's so funny. I actually really enjoy teaching math like this is getting more unstructured. But I was even thinking of just volunteering to tutor. People like to drew people's kids in math because I really enjoy teaching math. I wish I could do it more, but like
+
+ender 🐢 no pronouns: I mean, there are ways for me to like. Get a job in that. But I hate II. I've been offered jobs and middle schools, but I hate that. But read a lot about critical pedagogy, and it's like more so than going to a school where there are all these standardized tests for which kids are set up to fail. I'm interested in like applying critical pedagogy to mathematics. Teaching
+
+176
+00:31:40.980 --> 00:31:48.880
+ender 🐢 no pronouns: like that would be so interesting to me to the point where I would almost like want to just like teach math for free in some capacity.
+
+177
+00:31:48.880 --> 00:32:01.909
+Sarah Ciston: But that's just a tangent. Yeah, that sounds amazing. I mean, that's similar to how I feel about teaching in general and about code like any pedagogy around. Code is like the idea of running
+
+178
+00:32:02.040 --> 00:32:08.720
+Sarah Ciston: lectures in a classroom like gives me heart palpitations. But
+
+179
+00:32:09.450 --> 00:32:13.029
+Sarah Ciston: the this is sort of like a
+
+180
+00:32:13.980 --> 00:32:15.090
+Sarah Ciston: a
+
+181
+00:32:15.570 --> 00:32:20.609
+Sarah Ciston: pedagogy that it, like critical pedagogy that is like
+
+182
+00:32:20.850 --> 00:32:21.970
+Sarah Ciston: toward
+
+183
+00:32:22.550 --> 00:32:33.339
+Sarah Ciston: you know. Again, you know, like like the sort of tech against apartheid, or like all of these other sort of like radical approaches to teaching, I think.
+
+184
+00:32:33.530 --> 00:32:36.239
+Sarah Ciston: like whatever the topic. But
+
+185
+00:32:36.770 --> 00:32:42.670
+Sarah Ciston: in particular, yeah, something that is like, I would be fascinated to see what you would do with
+
+186
+00:32:42.720 --> 00:32:52.670
+Sarah Ciston: like number theory and radical pedagogy. And I kind of felt what we're doing with with code collective is, it's like, partly about
+
+187
+00:32:52.950 --> 00:33:00.140
+Sarah Ciston: the topic. But it's also so much about. how do you apply a critical pedagogy
+
+188
+00:33:00.530 --> 00:33:14.219
+ender 🐢 no pronouns: well, that's very encouraging, II don't know, II don't know honestly, I might take you up on this because I like, don't. Okay, this is like a very unstructured talk right now. I was trying to say to your questions.
+
+189
+00:33:14.670 --> 00:33:23.090
+ender 🐢 no pronouns: I like, finish all of my grad school applications, and I literally have just been trying to crochet and weave so that I don't just like
+
+190
+00:33:24.280 --> 00:33:30.669
+ender 🐢 no pronouns: just just do nothing. Congrats. On finishing I was gonna ask how they were going.
+
+191
+00:33:30.950 --> 00:33:38.279
+ender 🐢 no pronouns: I think they went decently. Who knows? I think that I have a really strong
+
+192
+00:33:38.700 --> 00:33:54.610
+ender 🐢 no pronouns: NYU. Application. I have a weaker Duke application, but I talked. I mean, I think, that those are my strongest applications, and then the other ones. I have no idea which probably isn't very good, but I think I'll get into either Nyu or Duke for sure.
+
+193
+00:33:54.910 --> 00:33:55.800
+Sarah Ciston: Nice.
+
+194
+00:33:56.910 --> 00:34:03.639
+Sarah Ciston: Well, yeah, keep me posted. I'll be very interested. I'm also in the throes of doing applications at the moment.
+
+195
+00:34:03.780 --> 00:34:08.370
+Sarah Ciston: It seems never ending for jobs and postdocs.
+
+196
+00:34:08.750 --> 00:34:12.460
+ender 🐢 no pronouns: See? That's very intimidating. That's why I like, don't
+
+197
+00:34:12.500 --> 00:34:38.069
+ender 🐢 no pronouns: I? I'm so happy to be in an earlier era, because I feel like I just kind of want to be in Academia for as long as possible, which is very problematic, because I literally don't want to get to the point where it's like, okay, so what are your qualifications. It's like, look, I read books. Is that not enough? That's what you wanted. I like.
+
+198
+00:34:38.170 --> 00:34:50.859
+Sarah Ciston: I totally agree. I'm like career. Phd, this is working pretty well, can I just keep doing this? I feel that exactly. Oh, apparently I can't. But
+
+199
+00:34:50.880 --> 00:35:03.400
+Sarah Ciston: I'm like, that's what the post, Doc. Visiting researcher. Yeah, any of those things. Well, I also hope that those those go well, I'm sure they will. So thank you. Thank you.
+
+200
+00:35:03.930 --> 00:35:15.289
+Sarah Ciston:  I only have like 3 more like structured questions if you want to go through those. But I'm also happy to continue on tangents.
+
+201
+00:35:15.340 --> 00:35:30.570
+Sarah Ciston: Oh, you can go through your structured questions. Okay, there was. What do you like about code collective, for example? How is it useful to you? Why do you come back? What's been your favorite memory or moment.
+
+202
+00:35:32.270 --> 00:35:37.639
+ender 🐢 no pronouns: Oh, I'm not sure I have a favorite moment. Honestly.
+
+203
+00:35:37.720 --> 00:35:43.210
+ender 🐢 no pronouns: But it's like why I come back would definitely be the camaraderie, because.
+
+204
+00:35:43.380 --> 00:35:56.980
+ender 🐢 no pronouns: like, even if it's like, Oh, we don't talk that much, or it's like 1 h every 2 weeks, or something. I've already said that there's just none of that tech bro energy that makes me feel so upset.
+
+205
+00:35:57.450 --> 00:36:16.090
+ender 🐢 no pronouns: And it's just like, Oh, like **we're talking in a way that is not combative, or it's not trying to prove how much we know to each other. It's not about one upping each other like it's, I think, that it's actually very hard to like program.** Or
+
+206
+00:36:16.630 --> 00:36:28.320
+ender 🐢 no pronouns: or I'm like trying **to say formally, make sure that these things happen. So I'm impressed that it does happen right. There is this sort of friendly community to talk about**
+
+207
+00:36:28.330 --> 00:36:34.840
+ender 🐢 no pronouns: coding. So yeah, up to the like. **The friendliness of the community is why I come back.**
+
+208
+00:36:35.080 --> 00:36:37.219
+Sarah Ciston: Oh, thank you.
+
+209
+00:36:37.350 --> 00:36:55.889
+Sarah Ciston: And along with that. What would you change about code collective? So no budget limits, you can be totally unrealistic or you can be, you know, constructively critical, or whatever. Yeah, what would you? What would help make it better for you?
+
+210
+00:36:56.400 --> 00:37:18.199
+ender 🐢 no pronouns: **I wanted to be a Co collective in every major city**, and I want them to be in those like Y 2 k buildings where, like the Nintendo buildings, were, and I want them to be like all glass, and like asymmetrical, and their lopsided and about to fall down. But they're not cause. The building is just made so artistically, and
+
+211
+00:37:18.350 --> 00:37:31.789
+ender 🐢 no pronouns: they should definitely have like. I literally am thinking of like that blog like Y, 2 K. Aesthetic Institute. I actually have personal connections to people who run that vlog like, I'm like a mob boss or something.
+
+212
+00:37:32.630 --> 00:37:49.959
+ender 🐢 no pronouns: Yeah, I know a guy who's a new Y 2 k, but yeah, I think it should be white. They should take place in y 2 K. Them buildings I buildings these days are so boring, but that's another tangent and not a fun one.
+
+213
+00:37:50.110 --> 00:37:51.510
+ender 🐢 no pronouns: And
+
+214
+00:37:51.830 --> 00:38:02.399
+ender 🐢 no pronouns: II do think there should be more of code collective. I really enjoy it whenever it happens, as soon as I miss it, and I'm like, why, I can't believe I missed it. That would have been so fun.
+
+215
+00:38:02.830 --> 00:38:04.920
+ender 🐢 no pronouns: And
+
+216
+00:38:05.290 --> 00:38:29.029
+ender 🐢 no pronouns: I think that it's really great. I don't think there's any reason to not have more of it like, I don't even have any criticism, really, because like my only criticism, could possibly be a lack of intersectionality. And that's not like actually based on anything you've done. That's me saying hypothetically, for most tech spaces there is not any focus on intersectionality.
+
+217
+00:38:29.030 --> 00:38:36.459
+ender 🐢 no pronouns: and I mean there, like **I love your intersectional AI piece which is how I actually found out about code collective.**
+
+218
+00:38:36.460 --> 00:38:45.430
+ender 🐢 no pronouns: So II don't know. I don't really think I have any criticism, except that I would like there to be like some fancy headquarters in New York City.
+
+219
+00:38:45.650 --> 00:38:50.919
+Sarah Ciston: Yeah, that sounds great. I would love to make it like a lab or an institute and have
+
+220
+00:38:50.940 --> 00:38:54.059
+Sarah Ciston: connections across everywhere. And like.
+
+221
+00:38:54.690 --> 00:39:04.809
+Sarah Ciston: I mean, I'm there's a part of me, too, that loves how like under the radar it is, and that allows for us to be scrappy and not have to have like.
+
+222
+00:39:05.240 --> 00:39:17.390
+Sarah Ciston: I don't know, to always be like writing grants to get bigger or whatever. But I know that, like, if we were more formalized, we could also have more people, and
+
+223
+00:39:17.910 --> 00:39:33.469
+Sarah Ciston: it would be, you know, the ways that it would be more work could also mean we could reach more people. So it's always a trade off, I mean, I always admire somewhere like the school for poetic computation, and how they're able to do as much as they do.
+
+225
+00:39:36.250 --> 00:39:52.300
+ender 🐢 no pronouns: Yes, there's a balance. Oh, my gosh! I have one gripe with them, which is that I said in the discord, can someone help me with this application? And they deleted my message? I don't know why
+
+226
+00:39:53.290 --> 00:40:03.990
+ender 🐢 no pronouns: I think it's cause, like the discord is supposed to be for like posting applications and not asking for help with them. But I'm like just DM to me and been like.
+
+227
+00:40:04.800 --> 00:40:16.479
+Sarah Ciston: I don't know. That's my one pettiness. But I'm never gonna express it. Yeah, yeah, it's like a a confusion that would have been nice to just have it be like, Hey, we're moderating you. And here's why, like.
+
+228
+00:40:16.510 --> 00:40:22.530
+ender 🐢 no pronouns: yeah, I didn't say anything weird. I was trying to apply to a fellowship, and I just like I was like.
+
+229
+00:40:22.640 --> 00:40:28.779
+ender 🐢 no pronouns: I have no idea what to even say, because I don't do this stuff. So yeah.
+
+230
+00:40:30.540 --> 00:40:32.540
+Sarah Ciston: what was the fellowship for?
+
+231
+00:40:32.700 --> 00:40:36.710
+ender 🐢 no pronouns: It was the Ssrc just tech fellowship.
+
+232
+00:40:36.750 --> 00:41:00.659
+ender 🐢 no pronouns: And I did. I did want to write about cryptography, but I'm honestly not sure I should, because they might be like you are actually like out of your mind. They're actually going to be like, this is so cool. So I kind of did want someone to like validate what I was writing or guide me, or something. Yeah, I also applied for that one last year, and I want to apply for it again.
+
+233
+00:41:00.930 --> 00:41:12.599
+Sarah Ciston:  so if you want to workshop your. If you are, gonna apply for it again, let me know, and we can put our heads together if you're interested.
+
+234
+00:41:12.620 --> 00:41:23.309
+ender 🐢 no pronouns: Honestly, that makes me feel less confident. I feel like, you're very good at writing this stuff make you feel more confident, because, like, we can help each other.
+
+235
+00:41:24.020 --> 00:41:29.109
+ender 🐢 no pronouns: Okay, that's very nice. Okay, that's very nice. That's not what I meant. I meant like.
+
+236
+00:41:30.230 --> 00:41:38.119
+ender 🐢 no pronouns: what I was trying to say was that you said that you applied last year. But did you get it? Because if you didn't, then I would be like, Oh, there's no way I'll get it.
+
+237
+00:41:38.350 --> 00:41:43.160
+Sarah Ciston: No, I didn't get it. I did get a nice letter from them that said, I got close.
+
+238
+00:41:43.580 --> 00:41:52.079
+ender 🐢 no pronouns: Okay? Well, I don't know. I'm like, if if anyone could get it, it's you. That's why, I don't feel very good.
+
+239
+00:41:52.170 --> 00:41:55.460
+Sarah Ciston: I think you know, with those things it's like
+
+240
+00:41:55.520 --> 00:42:15.650
+Sarah Ciston: with all applications. It's like there's a certain amount of the group that are just completely off base. Like, if they say, Okay, we got 500 applications like 300, maybe 450 of them are just going to be like this is completely off topic. And this person doesn't know what they're doing. And then, like
+
+241
+00:42:15.660 --> 00:42:28.609
+Sarah Ciston: some, you know, maybe 20% of any group is going to be like. Oh, these are solid! And then within that there's going to be the standouts. But, like what? Once you're in the solid, the standouts are going to be about like what that
+
+242
+00:42:28.920 --> 00:42:30.790
+Sarah Ciston: specific organization
+
+243
+00:42:30.990 --> 00:42:35.790
+Sarah Ciston: wants and needs and is not going to be about you as much, you know.
+
+246
+00:42:56.270 --> 00:43:06.660
+Sarah Ciston: that this was exactly what had happened, and it was like there were 50, but like only 17 of them were like on the mark. All.
+
+247
+00:43:08.520 --> 00:43:21.359
+ender 🐢 no pronouns: Hmm, so it's like, basically just submit an application that like is related to the prompt. And then you're like in the top 20.
+
+248
+00:43:22.910 --> 00:43:40.809
+Sarah Ciston: And then the rest is about. It's about what the you know it's like, how does the group on the jury agree or disagree? How does the organ? What did the organization do last year? Who's on the board that has a a you know, a particular penchant for this topic, like.
+
+249
+00:43:41.090 --> 00:43:46.870
+Sarah Ciston: what are the politics going on behind the scenes that you have no way of knowing about, so you can't take it. Personally.
+
+250
+00:43:47.180 --> 00:44:00.769
+ender 🐢 no pronouns: I mean you can. I still do and feel sad? But it's not. Really. I don't want you to feel sad, I hope, personally, but I don't follow the advice. I definitely take it personally.
+
+251
+00:44:01.500 --> 00:44:06.289
+Sarah Ciston: Okay, so last, but not least. What
+
+252
+00:44:06.830 --> 00:44:19.879
+Sarah Ciston: will you take with you from your experiences with code collective? I guess we've talked a little bit like, for example. How is it change what you make or do, or what have you learned? But yeah, what will you remember? Took with you?
+
+253
+00:44:21.930 --> 00:44:38.660
+ender 🐢 no pronouns: Yeah, I mean, I feel that code, collective or creative code collective is like really the only space where I can really express, even like what coding it really means to me. And like, why even care about it? Because I feel that in other spaces it's
+
+254
+00:44:38.810 --> 00:44:48.629
+ender 🐢 no pronouns: very difficult to explain, like, oh, well, I think that weaving is very interesting, and it's present in so many cultures. And I it doesn't have that sort of like
+
+255
+00:44:48.630 --> 00:45:13.529
+ender 🐢 no pronouns: straightforward logic that you might expect. And again, if we have to say a tech Bro space. I really, genuinely just do think that like because I care so much about how weaving and knitting our presence so many cultures, and like cyber feminist writing about the relationship between, like the binary operations of warp and weft, and like the zeros and ones of logic gates, like that's so fascinating to me like, how are these things connected? And how did they they like proceed from one another? And there's no way for me to really talk about that, except like in my own writing on, like my ipad that nobody sees or like, maybe creative code collective. So I would definitely see that 
+
+**I would just like take with me like the sort of like warm, fuzzy feeling of being in like a safe space to talk about that.**
+
+258
+00:45:43.760 --> 00:45:52.349
+Sarah Ciston: Yeah, that's great. Me, too. I feel like if there's like a shared enthusiasm, and it almost doesn't matter for what
+
+259
+00:45:52.380 --> 00:45:54.090
+Sarah Ciston: topic within
+
+260
+00:45:54.400 --> 00:46:03.769
+Sarah Ciston: coding or related subjects like knitting and weaving and everything else to arts and sciences. It's just that that
+
+261
+00:46:04.360 --> 00:46:07.590
+Sarah Ciston: **appreciation of each other's enthusiasm.**
+
+262
+00:46:09.370 --> 00:46:10.370
+ender 🐢 no pronouns: Yes.
+
+263
+00:46:10.640 --> 00:46:18.020
+Sarah Ciston: yeah. I was thinking, too. When you were talking about the cyber feminist and about Sadie Plant like
+
+264
+00:46:18.120 --> 00:46:29.030
+Sarah Ciston: I was rereading parts of legacy. Russell's glitch feminism where she's talking about. She's, you know, got the the critique of
+
+265
+00:46:29.050 --> 00:46:30.120
+Sarah Ciston: the
+
+266
+00:46:30.500 --> 00:46:41.789
+Sarah Ciston: cyber like 90 cyber feminists in part that were sort of like. Oh, this was very much like white women's, like claiming of
+
+267
+00:46:42.190 --> 00:46:53.760
+Sarah Ciston: bigger histories that were not just white Western  histories, and that that it like plays into this
+
+268
+00:46:54.480 --> 00:46:59.100
+Sarah Ciston: idea of white feminism. So
+
+269
+00:46:59.330 --> 00:47:06.049
+Sarah Ciston: yeah, I mean. I still love Sadie Plant and all the cyber feminists, but I do like I'm always
+
+270
+00:47:07.030 --> 00:47:17.150
+Sarah Ciston: on the one hand, like I love the way she writes in the language, and all of that, and then I'm also like, I sure wish you would mention, like some of the other things like you said about
+
+271
+00:47:18.350 --> 00:47:24.600
+Sarah Ciston:  other legacies that play into the history of computing.
+
+272
+00:47:25.560 --> 00:47:36.059
+ender 🐢 no pronouns: My mouth dropped open because I have not read that book. That's a good reason for me to read that book, because I mean, I'll be honest in order for me to read a book. There has to be something very catchy about it, like.
+
+273
+00:47:36.060 --> 00:48:00.170
+ender 🐢 no pronouns: I know that's like not great. I should just read a book, because, like, Oh, it's feminism. Just read it like I, in order for me to read a book the other needs to be like, Oh, did you hear that in this book? Da da da da da, or the back of the book is like very like gripping, or something that makes me want to read the book, so I should read it. It's at my library, so I've seen it before. It's an easy read, too, because she writes it in these sort of
+
+274
+00:48:00.170 --> 00:48:05.119
+Sarah Ciston:  they're not quite vignettes, but they're these like very
+
+275
+00:48:05.580 --> 00:48:11.859
+Sarah Ciston: They're like short chapters that, and there's like. I don't know. I like her writing so.
+
+276
+00:48:12.110 --> 00:48:20.620
+ender 🐢 no pronouns: Oh, it's great! I love to hear. Oh, writing style is so important to me. So yeah,
+
+277
+00:48:20.860 --> 00:48:30.120
+ender 🐢 no pronouns: And then you were also saying something about like including. Oh, yes, that's the other thing I wanted to say is that I'm trying to remember which book it was
+ender 🐢 no pronouns: whereabouts was talking about. How and this is my thing about all the time, like, even if there's like a piece of media or literature, or that is critique like there's still something valuable there like it's very rare that like oh, like, there's absolutely nothing redeemable about this book, you know. I mean, there are some books there are, but most of the time, especially with like city plan. For example.
+ender 🐢 no pronouns: it's like I wouldn't. I wouldn't feel guilty about liking it or anything it's like, oh, well, you're attracted to the good quality of this book, and so you're still allowed to like it, like my favorite book enters game like, if someone like was like this because problematic, I'd have been literally yes, like, I do think that it has flaws, and it's like a book about all these guys and like, Oh, God, but
+
+280
+00:49:19.430 --> 00:49:33.410
+ender 🐢 no pronouns: like, I also know that there's so much in this book that I find redeemable and like worthy of saving, so to speak. So it's always okay to just be like, well, I like this part and other parts.
+
+281
+00:49:34.180 --> 00:49:40.919
+Sarah Ciston: Yeah, that's so true, I mean gosh! Bell hooks is so fantastic, and everything like
+
+282
+00:49:41.590 --> 00:49:46.590
+ender 🐢 no pronouns: I literally had a dream about her last night. I had to say that.
+
+283
+00:49:46.840 --> 00:49:48.490
+Sarah Ciston: No, I love it.
+
+284
+00:49:48.520 --> 00:49:53.309
+Oh, so good! I love her so much.
+
+285
+00:49:53.820 --> 00:50:00.549
+Sarah Ciston: yeah, I mean this. It's like the same with our our personal relationships and our friends like. Of course we
+Sarah Ciston: we don't do them any service by being like they can do no wrong. We are like
+Sarah Ciston: like, see them for what they are, and love them anyway.
+
+288
+00:50:11.720 --> 00:50:15.030
+ender 🐢 no pronouns: Exactly. Exactly. Yeah.
+
+289
+00:50:15.840 --> 00:50:38.910
+ender 🐢 no pronouns: Really excited to read it. Because I I'm excited to read the final product. I'm intimidated by the idea of starting my own Ccc. But I honestly might, if I cause I'm on the wait list for an Sfpc. Class. So if I don't get in, I might have to just figure out how to spend my time. Oh, well, I think I am. Gonna take a class regardless. It depends.
+
+290
+00:50:40.070 --> 00:51:00.039
+Sarah Ciston: What's the the Sfs the what's the class that you're on? The wait list for instruments of the black gooey universe? Oh, cool! I've been writing a little bit about that in another chapter of the dissertation is, is it? Who's teaching it, is it?
+
+291
+00:51:00.840 --> 00:51:06.519
+ender 🐢 no pronouns: It's all American artist and Zainab. I've never said their name out loud.
+
+292
+00:51:06.910 --> 00:51:09.399
+Sarah Ciston: Cool. That sounds amazing.
+
+293
+00:51:11.180 --> 00:51:14.069
+ender 🐢 no pronouns: Yeah. But I honestly, I'm like
+
+294
+00:51:14.090 --> 00:51:21.679
+ender 🐢 no pronouns: I was on the wait list for the class I got into. I'm like, so we're gonna do this again. But it's okay.
+
+Sarah Ciston: Yeah. And I mean, as far as starting your own like
+Sarah Ciston: I, it could happen, you know, down the line, or once you're in, like a community of mathematicians again, or whatever like. It, could also be something that happens very casually where it's just you and your other cryptography friend like it doesn't like. When I started this it did not
+Sarah Ciston: feel like I was creating an institution, you know. It was just like
+Sarah Ciston: I put a post up that was like, Hey, is anyone else interested in like hanging out and thinking about creative coding together? Because I struggle with this, and I feel like there might be other people who do too, like it did not have any of the sort of
+Sarah Ciston: I mean, maybe implicitly. And I didn't realize it, but it did. It did not explicitly or formally have any of the the
+Sarah Ciston: like all of the aspects that it does now. So
+Sarah Ciston: it could be something that you just start before you've even realized you started it.
+
+ender 🐢 no pronouns: Very, very true
+
+Sarah Ciston: sometimes. That's the best.
+Sarah Ciston: So are you going to sell your Zines at the the event tomorrow. Yes, I am. I'm very excited, so maybe I'll buy a new crochet hook. Oh, no! Oh, no!
+Sarah Ciston: I've been knitting while we've been talking, too.
+Sarah Ciston: Oh, really trying to. Oh, keep going! Oh, I'm I'm supposed to be knitting this wrap for my friend's wedding, which is at the end of the year, and I'm so I'm trying to go as fast as possible just to get it done
+
+307
+00:53:05.330 --> 00:53:30.380
+ender 🐢 no pronouns: end of the year. And I was like, Oh, and I was oh, end of the year. Oh, yes, yes, yes, yes, yes, that's very soon. I have like 2 things I wanted to make by tomorrow, and I'm definitely going to finish one of them, so probably not the other one. So I'm really into hand knitting. But as for like knitting knitting, I actually had someone from Sfpc. I'll say an acquaintance
+
+308
+00:53:30.380 --> 00:53:52.539
+ender 🐢 no pronouns: who took me into this huge warehouse called Materials for the arts, and if you are part of a nonprofit or a teacher in New York City. I don't know if you're familiar with this. They let you take anything from this huge warehouse for free. So much stuff in there. I got all this yarn. I got 2 pairs of knitting needles.
+
+309
+00:53:52.540 --> 00:54:22.310
+ender 🐢 no pronouns: I got like like fabric for doing cross stitch. I took paper from making zines. I literally was just like, let me just not be greedy. Oh, my gosh, that sounds amazing. Yes, I'm like one reason to consider becoming a middle school math teacher. Oh, no, never mind, but that's the only reason I would do it, which is a very good reason. So I should definitely not do it. Yeah, I don't know. What's your what's your current job?
+
+310
+00:54:23.270 --> 00:54:26.870
+ender 🐢 no pronouns: Currently, I just live off of my savings, which is great.
+
+311
+00:54:26.980 --> 00:54:32.989
+Sarah Ciston: nice. And then hopefully, in the fall some kind of academia again.
+
+312
+00:54:33.200 --> 00:54:45.500
+ender 🐢 no pronouns: Yeah. And then also, I was thinking of maybe getting like a research assistant job in the spring. I don't really have anything lined up for the spring, so I don't know it's very empty.
+
+313
+00:54:46.550 --> 00:54:51.120
+Sarah Ciston: Nice! Would would that be also in like a mathematics
+
+314
+00:54:51.270 --> 00:54:54.079
+ender 🐢 no pronouns: department? Or yes, it was
+
+315
+00:54:54.680 --> 00:55:06.920
+ender 🐢 no pronouns: I really should. I don't know. It's interesting, because I feel like I could try to plan for this stuff now, but I also feel like everyone is closed for the holidays, so I can't
+
+316
+00:55:06.930 --> 00:55:11.040
+ender 🐢 no pronouns: so that's why I feel like I don't have anything to do.
+
+317
+00:55:14.510 --> 00:55:15.640
+Sarah Ciston: Yeah.
+
+318
+00:55:16.200 --> 00:55:22.309
+ender 🐢 no pronouns: do you go? You go stir crazy, being inside and not having anything to do. Yes, I do.
+
+319
+00:55:23.270 --> 00:55:24.560
+Sarah Ciston: Yeah.
+
+320
+00:55:24.770 --> 00:55:34.200
+Sarah Ciston: I'm feeling a bit that way, too. I'm supposed to have a draft of all of this done by the end of the year also? And
+
+321
+00:55:34.200 --> 00:55:59.090
+ender 🐢 no pronouns: so I do technically have a lot to do, but also just like being alone all day and writing definitely makes me insane. So I know that's why I actually literally made a pinterest board for my outfit for tomorrow like this is gonna be the best outfit. I'm gonna have best crochet earmuffs, like, literally, when I go outside such an event at this point, like, Oh, it's gonna be amazing. Like.
+
+322
+00:55:59.860 --> 00:56:01.610
+Sarah Ciston: yeah, absolutely.
+
+323
+00:56:02.250 --> 00:56:06.319
+ender 🐢 no pronouns: That's where I am right now, in my very adult life.
+
+324
+00:56:06.750 --> 00:56:17.280
+Sarah Ciston: Nice. Will you post a picture of your your muffs or crochet creations to our knitting thread.
+
+325
+00:56:17.390 --> 00:56:27.489
+ender 🐢 no pronouns: Okay, I will make a reminder to myself, too. I can. I mean, they're like, not gonna be like the best, like, I'm like, messy. But okay, that's okay.
+
+326
+00:56:28.110 --> 00:56:40.450
+Sarah Ciston: When has that ever stopped us with code sharing, or any other form of sharing? I know. Right? So why am I being a perfectionist. Now, why, I mean, I get it. But also, yeah.
+
+327
+00:56:43.330 --> 00:56:44.760
+I get it.
+
+328
+00:56:45.020 --> 00:56:54.330
+Sarah Ciston: Thank you so much for sharing all of your thoughts with me. And this is really nice to just also just to hang out one on one.
+
+329
+00:56:54.870 --> 00:56:59.040
+ender 🐢 no pronouns: Yay, thank you so much. Yay.
+
+330
+00:56:59.400 --> 00:57:08.840
+Sarah Ciston: I I'm so excited to include your voice in this. And you said so many great things. And I'm gonna go back through it all, and I will absolutely share
+
+331
+00:57:09.070 --> 00:57:15.860
+Sarah Ciston: the draft version or a later version, my goal eventually would be to actually have a printed like
+
+332
+00:57:15.930 --> 00:57:27.809
+Sarah Ciston: Seen or Rizzo printed like publication for real so I will send you one in the event that that happens one day.
+
+333
+00:57:27.820 --> 00:57:40.989
+ender 🐢 no pronouns: That's so amazing. And the I don't know if you like, Kate Compton, but she has this. Oh, you do so! Did you read Zine like looks like you should make a Z out of all your academic papers.
+
+334
+00:57:41.830 --> 00:57:45.400
+I vaguely remember that I don't think I read the Zine, but
+
+335
+00:57:46.460 --> 00:57:47.939
+Sarah Ciston: I should look that up.
+
+336
+00:57:48.230 --> 00:57:54.270
+ender 🐢 no pronouns: You definitely don't have to. But yeah, she would support you in your endeavors
+
+337
+00:57:55.210 --> 00:58:07.030
+Sarah Ciston: also, if you, you said. Oh, I'm not trying to give you references for your writing, but absolutely, if anything comes to mind in terms of what we've talked about, like
+
+338
+00:58:07.450 --> 00:58:20.399
+Sarah Ciston: other readings or references that you think might be helpful. I'm totally open to that. I'm still like shoving things into all the corners of this text as I go along. So it's not too late.
+
+339
+00:58:20.480 --> 00:58:45.129
+ender 🐢 no pronouns: The only real reference I had was just a reference to Ted Nelson talking about how programmers have bad personalities which I think was in it was in computer lib dream machine, which was like, it's itself a Zine, which itself was a zoo but yeah, that's the only the only reference I had. If if someone argues with you and says, I know that programmers are very nice, and
+
+340
+00:58:45.210 --> 00:58:50.369
+ender 🐢 no pronouns: they like social interaction. And I'll say, no. Ted, Nelson said, otherwise.
+
+341
+00:58:50.660 --> 00:59:00.010
+Sarah Ciston: yeah, exactly. Yeah. I want to do a whole section in the other part of the book. That's not the code collective part about
+
+342
+00:59:00.310 --> 00:59:05.350
+Sarah Ciston: Zines as a like. You know historically.
+
+343
+00:59:05.380 --> 00:59:26.099
+Sarah Ciston: there's this this great book about like Lesbian Zine practices from the eighties and nineties. And then there's several like coding zines, including that one from like early computer era. So I wanna like hit. All these zoom touch points some point along the way to
+
+344
+00:59:26.150 --> 00:59:28.710
+Sarah Ciston: because that's pretty much informed. Yeah.
+
+345
+00:59:28.880 --> 00:59:38.660
+ender 🐢 no pronouns: Well, now, as someone who just took a Zine cloud, I have to say you should also look up. Do you care about zachtronic zines which are coding zines.
+
+346
+00:59:38.930 --> 00:59:49.559
+ender 🐢 no pronouns: or or coding scenes and video games about coding? So those might be of interest to you. I was trying to say, this is very important.
+
+347
+00:59:50.460 --> 00:59:53.830
+Sarah Ciston: Yeah. Do you have particular ones that you like?
+
+348
+00:59:54.410 --> 00:59:59.370
+ender 🐢 no pronouns: The Zines, that I think
+
+349
+00:59:59.550 --> 01:00:02.110
+ender 🐢 no pronouns: are good?
+
+350
+01:00:10.440 --> 01:00:18.430
+ender 🐢 no pronouns: Oh, my God! I actually found it on Github. I might have to share it later then, but II sent it in the discord
+
+351
+01:00:18.480 --> 01:00:22.919
+ender 🐢 no pronouns: for and like a Zine discord, so I'll find it.
+
+352
+01:00:24.240 --> 01:00:29.759
+ender 🐢 no pronouns: We have the zoom channel and our discord now, too. I think so.
+
+353
+01:00:30.860 --> 01:00:46.750
+ender 🐢 no pronouns: But I think that could be interesting to you, because it is like, I mean, I had like this era of being individual games that last like a month and a half. It was very short. But yeah, yeah. But during that time.
+
+354
+01:00:46.960 --> 01:00:52.610
+ender 🐢 no pronouns: I really love zachronics, video games about programming, because I do feel like.
+
+355
+01:00:52.620 --> 01:01:17.979
+ender 🐢 no pronouns: the future of programming is going to be way more playful. And so if you literally make programming into a video game that's so, genius and Zack tronics, or like Zack for his last name, but Zack of Zackronics has done it like 5 times. So I try to study like every interview of his. Read his books like, how did you do this? How did you make programming into a video game?
+
+356
+01:01:18.000 --> 01:01:21.199
+ender 🐢 no pronouns: And so I think that's like, so like, mind blowing to me
+
+357
+01:01:22.240 --> 01:01:33.900
+Sarah Ciston: nice. Yeah, I'm thinking of the one. I only know the one that's like it teaches you how to program. And then you unlock zines through the process. And it's like it's got like
+
+358
+01:01:33.940 --> 01:01:37.079
+Sarah Ciston: like a cryptography angle, too, doesn't it?
+
+359
+01:01:37.540 --> 01:01:39.019
+ender 🐢 no pronouns: For zechronics.
+
+360
+01:01:39.300 --> 01:01:41.190
+Sarah Ciston: I think.
+
+361
+01:01:42.320 --> 01:01:50.809
+Sarah Ciston: Oh, I forget what it's called. We did talk about it at 1 point in Code Collective. Maybe I'll pull it up on it, or maybe I put it in the discord. I don't know.
+
+362
+01:01:53.850 --> 01:01:58.039
+ender 🐢 no pronouns: I don't remember the cryptography component. That's what threw me.
+
+363
+01:01:58.160 --> 01:02:02.680
+Sarah Ciston:  it's
+
+364
+01:02:22.960 --> 01:02:24.910
+Sarah Ciston: it'll come to me at some point.
+
+365
+01:02:25.010 --> 01:02:30.879
+ender 🐢 no pronouns: Okay. But yeah, I think it was exapunks that had or like.
+
+366
+01:02:30.920 --> 01:02:43.099
+Sarah Ciston: oh, really, yeah. Oh, maybe I'm I'm completing 2 things that yeah. But exoplanets was the the one that is all I haven't played it, but it's the one that I've heard of
+
+367
+01:02:43.710 --> 01:02:55.299
+ender 🐢 no pronouns: literally my knowledge of zachronics. Video games comes from Youtube videos of people playing the video games. So I'm I'm an impostor. But that's okay. This is a no judgment zone.
+
+368
+01:02:55.790 --> 01:03:06.209
+Sarah Ciston: Absolutely. Yeah. Me, too. I'm not. You would think because I'm like, but you know, I come from storytelling and writing. And like.
+
+369
+01:03:06.250 --> 01:03:15.959
+Sarah Ciston: I'm really interested in branching narratives. And all these nonlinear storytelling techniques that you would think I would love video games. And I just can't get into it. I don't know.
+
+370
+01:03:16.740 --> 01:03:43.980
+ender 🐢 no pronouns: I feel that I actually would like video games. But II think that in an ideal world I would play video games. But honestly, there's a part of me that really wants to keep myself from having too many hobbies, which is like not a good thing. But there's a part of me that constantly is like, do not take up another hobby. You need to like, focus on like work, which is like, not good. That's like, not the best. Yeah. But video games would be a very absorbing activity. That sounds wise.
+
+371
+01:03:44.550 --> 01:03:57.590
+ender 🐢 no pronouns: it it would take a lot of time, whereas I crochet, you can just sort of like, well, let me not say it's productive, but at least I don't feel that it's addicting at some. Well, it is, you produce things? It is literally productive.
+
+372
+01:03:57.770 --> 01:04:10.770
+ender 🐢 no pronouns: Yes, yes, I never get like video games, or it's like a cooking video game. Or like, you know, Nintendo, we cooking or whatever. And then you like, okay, but you don't have a meal at the end. You still have to
+
+373
+01:04:11.000 --> 01:04:12.630
+Sarah Ciston: make yourself dinner.
+
+374
+01:04:12.760 --> 01:04:30.979
+ender 🐢 no pronouns: Okay? Yeah. I think that you don't have the mentality, the video game mentality. Finally get that? I understand why, that would be fun. It's more like, I just like, I don't play it because I'm like, Oh, like, I'm worried that like I would get too into it, basically.
+
+375
+01:04:32.090 --> 01:04:38.630
+Sarah Ciston: Oh, before I forget to. How do you want me to refer to you when I quote you in the
+
+376
+01:04:39.300 --> 01:04:52.540
+Sarah Ciston: book. You can just call me under okay. And it's I know it's no pronouns for everybody else. I've been putting pronouns. You want me to just leave that off or put no pronouns.
+
+377
+01:04:52.640 --> 01:04:56.949
+ender 🐢 no pronouns: You can. I mean, I'm in different, actually.
+
+378
+01:04:58.190 --> 01:05:00.629
+Sarah Ciston: Any other information about
+
+379
+01:05:00.920 --> 01:05:08.009
+Sarah Ciston: for other folks. I've been putting like their university and major, because we'd been
+
+380
+01:05:08.100 --> 01:05:16.369
+Sarah Ciston:  you know, like some people are coming from computer science. Some people are coming from media arts and things like that. Do you want me to put anything
+
+381
+01:05:16.600 --> 01:05:19.849
+Sarah Ciston: else around that like that you're coming from? It was
+
+382
+01:05:20.690 --> 01:05:23.580
+ender 🐢 no pronouns: Columbia and Math. Right? Yes.
+
+383
+01:05:23.860 --> 01:05:35.579
+ender 🐢 no pronouns: because it's like over. No, it's okay. Some of the other people have graduated also. Oh, really, okay, you could just say, Columbia University applied mathematics.
+
+384
+01:05:39.480 --> 01:05:43.629
+ender 🐢 no pronouns: And is it a BS or a BA, or a different?
+
+385
+01:05:43.640 --> 01:05:44.940
+Sarah Ciston: Yes. Okay.
+
+386
+01:05:45.230 --> 01:05:46.720
+Sarah Ciston: okay. Great.
+
+387
+01:05:48.480 --> 01:05:50.860
+Sarah Ciston: Yeah.
+
+388
+01:05:52.120 --> 01:05:54.700
+Sarah Ciston: Okay. If you think of anything else.
+
+389
+01:05:55.120 --> 01:05:58.889
+Sarah Ciston: Please feel free to ping me.
+
+390
+01:05:59.320 --> 01:06:01.619
+Sarah Ciston: I'll be excited to see your ear muffs.
+
+ender 🐢 no pronouns: Okay, yes, I shall. I shall do that, especially because the sun goes down so early. I have to just crochet earlier in the day.
+
+Sarah Ciston: and I want to do a few like hopefully do at least a couple of code collective meetings early in the year. Next year, maybe doing even some hybrid ones, because some of the folks will be here in la! Are there going to be days of the week that
+
+Sarah Ciston: don't work for you, or are you flexible?
+
+ender 🐢 no pronouns: I'm still flexible. I still, I still have a very boring early next year.
+
+
+Sarah Ciston: Okay. cool. Well, I will send out
+
+Sarah Ciston: preliminary attempts at scheduling probably at the start of the year. Once I turn in my book draft.
+
+397
+01:06:53.710 --> 01:06:57.989
+ender 🐢 no pronouns: That's so fun. And if it's Rizzo, that would be very fun.
+
+398
+01:06:58.170 --> 01:07:01.390
+Sarah Ciston: I would be so excited. I hope that does happen.
+
+399
+01:07:01.440 --> 01:07:10.909
+Sarah Ciston: Yeah. Well, have a good day. Thank you. You, too. Enjoy the rest of your E afternoon evening, and the I hope the zein sales go. Well.
+
+ender 🐢 no pronouns: yes, okay. Talk to you soon.
+
+
 
 ## Garrett Flynn
 "neurodata without borders"

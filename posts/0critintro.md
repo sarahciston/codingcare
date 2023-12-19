@@ -3,7 +3,7 @@ layout: post
 permalink: intro
 title: critical introduction
 nav_order: 2
-date: 05.12.2023
+date: 15.12.2023
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
@@ -51,12 +51,21 @@ Trans\*formative TechnoCraft argues for the essential entanglement of critical A
 
 [...]
 
-I invoke craft here as an expression of the theories, ethics, and tactics of intersectionality and sustainability, in order to ground these ideas in tangible practices which grow out of [lived] communities. Re-binding craft to technology brings slow, circular, cooperative, inclusive, caring [offerings] in order to transform [xxx][xxx].
 
 <!-- How do we encourage this entanglement further? Through approaches that emphasize -->
 The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as [xxx expand and exploit/exclude from]. A handful of powerful companies warn of the coming dangers, in order to distract from the current dangers they perpetuate. Already toothless policy recommendations are quickly watered down and ignored, while [more and more data represent less and less diversity][more and more compute, more and more natural resources,][harmless fun on one side of the globe is life and death on another.]
 
 [What does Trans\*formative Technocraft look like? How could it operate? Where does it already? What is it exactly?]
+
+
+I invoke craft here as an expression of the theories, ethics, and tactics of intersectionality and sustainability, in order to ground these ideas in tangible practices which grow out of [lived] communities. Re-binding craft to technology brings slow, circular, cooperative, inclusive, caring [offerings] in order to transform [xxx][xxx].
+
+Though "TechnoCraft" reads like an oxymoron, it is not a stretch to view technology through the lens of craftsmanship. Lucy Suchman and Randall Trigg have called artificial intelligence craftwork, studying the ways a practice designed to represent social and behavioral human systems is itself socially organized. 
+>"socially organized craftsmanship - the crafting together of a complex machinery made of heterogeneous materials, mobilized in the service of developing a theory of mind. 
+>"the work of designing intelligent machines as a specific form of social practice - a form made the more interesting by APs own concern with the delegation of social practice to machines" [@suchmanArtificialIntelligenceCraftwork1993]
+However this nod to craft is the opening for a critique even as early as this 1996 research. Suchman and Trigg note the distance between the formalist constraints on AI problem design and its real-world applications. 
+
+
 
 <p class="quote" markdown=1>
 "Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." 
@@ -104,7 +113,7 @@ Intersectionality can reveal the human costs of finding ourselves caught within 
 
 As industry implementations of so-called intersectional tech reduce these complex concepts into flattened ideas of fairness and representation [@ovalleFactoringMatrixDomination2023a], we need multimodal, polyvocal, experimental approaches that cut through the technological solutionism. [@cistonIntersectionalAIEssential2019] 
 
->"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution." [@sharmaManifestoBrokenMachine2020]
+>"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. [The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution.]" [@sharmaManifestoBrokenMachine2020]
 
 >"In each act of training, someone is making a claim about what we should know, how we should know what we know, and how that knowledge should be deployed. Each exposure to a dataset occurs because someone concluded that the information in that dataset should be used to determine a possible future." [@hakopianInstituteOtherIntelligences2022]
 
@@ -464,7 +473,7 @@ The problem of pseudorandomness, computation's inability to produce truly random
 
 Technosolutionist... Technoutopian... Technodystopian... Technocrat... Like 'cyber' before it, the prefix 'techno' teems with possibilities and portends varieties of doom. Bubbling experiments and launching spacecrafts, self-driving vehicles and buzzwords like 'big data' dominate the imaginary while signaling in-groups and out-groups, zones of mystification and fear as well as economic opportunism and exploitation.
 
-Yet, tech begins with techne, begins with texture and fiber, begins with the meshy matrix that sustains us [@plantZerosOnes1998]. Tech means any tool. It means not only clay tablets but language becoming discrete — the change from a chorus of cycling breath to individuated letters written on divided pages with simple handtools. [@carsonErosBittersweetEssay2014] It includes the histories of technology erased and rewritten by narratives of conquest and power (Crawford and Joler 2023 "Calculating Empires"). It includes unseen technologies of passing, of obfuscation, of survival [@browneDarkMattersSurveillance2015; @feministkilljoysQueerUse2018a; @gabouryBecomingNULLQueer2018; @bruntonObfuscationUserGuide2015; @keelingQueerOS2014]. Tech includes craft and crafters. Tech includes us. It comes from us.
+Yet, tech begins with techne, begins with texture and fiber, begins with the meshy matrix that sustains us [@plantZerosOnes1998]. Tech means any tool. It means not only clay tablets but language becoming discrete — the change from a chorus of cycling breath to individuated letters written on divided pages with simple handtools [@carsonErosBittersweetEssay2014]. It includes the histories of technology erased and rewritten by narratives of conquest and power (Crawford and Joler 2023 "Calculating Empires"). It includes unseen technologies of passing, of obfuscation, of survival [@browneDarkMattersSurveillance2015; @feministkilljoysQueerUse2018a; @gabouryBecomingNULLQueer2018; @bruntonObfuscationUserGuide2015; @keelingQueerOS2014]. Tech includes craft and crafters. Tech includes us. It comes from us.
 
 Reframing tech as craft moves the focus of technologies like programming and machine learning back onto their practitioners. Physicist and activist Ursula M. Franklin compares "holistic technologies" like artisan crafts which center on the practitioner, to "prescriptive technologes," which are focused on production, scale, effectiveness and management. She says that under the effects of prescriptive technologies, "we live in a culture of compliance, that we are ever more conditioned to accept orthodoxy as normal, and to accept that there is only one way of doing 'it.'" Meanwhile holistic technologies require muscle memory and instinct; they allow the practitioner to "draw on their own experience, each time applying it to a unique situation" [@franklinRealWorldTechnology2004]. 
 
@@ -486,7 +495,7 @@ Many have paired code with craft, or talked about the similarities of knitting o
 
 Focusing on craft means noticing the material, handworked, skilled, tinkered, iterative, process-oriented, embodied practices of knowledge and production that technologies emerge from. It means noticing how such practices can intervene in existing technologies and reshape emerging ones. It acknowledges human choices; built skills, tacit knowledge, and material needs; networks and communities of practice. 
 
-#### A note on what craft is not
+#### (First, a note on what craft is not)
 
 While this text aruges for craft as a materialization of intersectional theories, ethics, and tactics, which can help apply them to emerging technologies — craft is not the only way to do intersectional practice, and not all craft is intersectional practice. 
 
@@ -498,8 +507,7 @@ Tbakhi speaks of the craft of institutional [measuring, monitoring, regarding, a
 
 But he agrees that craft does not have to be a politeness bandaid. "Anticolonial writers in the U.S. and across the globe have long modeled alternative crafts which reject these priorities, and continue to do so in this present moment. Yet Craft still haunts our writing" [@magazineNotesCraftWriting2023] Despite this haunting, other engagements with craft — craft as [XXX] — can also help us to resist, to extract the institutional and infrastructural claims to our voices. 
 
-Reclaiming craft does not mean becoming so small that we cannot be effective or so obsessive about aesthetics that we lose the cause. It does not mean a return to luddite nostalgia: Everything was *not* simpler in the past, except for the few people who held more power over others (same as now). Reclaiming craft from its feminized, domesticized, racialized pejoratives and applying [it/xxxcraft] as a lens for technology practices [...]
-
+Reclaiming craft does not mean [becoming/focusing] so small that we cannot be effective nor so precious [about aesthetics] that we lose the cause. It does not mean a return to luddite nostalgia: Everything was *not* simpler in the past, except for the few people who held more power over others (same as now). Reclaiming craft from its feminized, domesticized, racialized pejoratives and applying [it/xxxcraft] as a lens for technology practices means embracing its scrappy imperfections and [revolutionary] potentials. [xxxmorehere?]
 
 #### Scale
 
@@ -531,6 +539,8 @@ Builder Alexander Langland returns to the older definition of 'craeft' as a life
 
 >"tended landscape > sustainable production of raw materials > intelligently processed > beautifully made > fit for purpose > fondly used > ingeniously reused > considerately discarded > given back to the earth" [@langlandsCraeft2019]
 
+>"Casualized labor begets commodity toolsets, frictionless and uncritical engagement with content, and shallow practices of use." []
+
 #### Infrastructures of care 
 
 Approaching technology through the lens of craft slows it down and asks it to sustain. It also [organizes people, labor, and relations] differently. Anthropolgist Gabriella (Biella) Coleman aligns hacking with crafting, focusing on the "intellectual guile" required for both and the guild-like communities that form. "[A]ll hackers fit the bill as quintessential 'craftspeople,' [...] Even if craftspeople tend to work in solitude, crafting is by definition a collectivist pursuit based on shared rules of engagement and standards for quality" [@colemanHackers2016]. Consider the transfeminist server, which approaches its technology as a crafted, social, interrelational object: 
@@ -555,7 +565,38 @@ Along with the traveling Raspberry Pi server "rosa" that acted as their working 
 
 For infrastructures of care, communities themselves are the essential networks; the servers, databases, workshops, services, both digital and analog are all tools toward building and means of expressing those community networks. 
 
-#### Access [add kinship systems here?]
+#### Access & boundaries
+
+Craft requires taking care and caretaking, as does technology. 
+
+Data structured through kinship systems,
+
+Analog infrastructures 
+
+![zine page from ONE Archives](../assets/img/ONE-queer-imaginemore.jpg)
+
+Credit: USC Libraries ONE Archives 
+{: .caption }
+
+Zines and their distribution networks precede digital networks and serve many purposes. This publishing craft is a counterinfrastructure used to build counterpublics and underground communities, create counterarchives or be living texts, and clarify information to new audiences. Cait McKinney's research into underground lesbian networks, both analog and digital, shows that "lesbian-feminist information infrastructures are built and sustained through networks that facilitate collaboration and resource-sharing amid precarious conditions"
+[@mckinneyInformationActivismQueer2020]. Marginalized, precarious conditions called for interventions by alternative means. [XXXexpand?likenow?] Paul Soulellis, who maintains the Queer Archive Work project, suggests that zines are archives of crisis: "evidence of queer life persists in the urgent artifacts that emerge in crisis — artifacts that arise expediently as part of efforts to advocate for slowness, care, mutuality, queer joy, pleasure, refusal, and community" [@soulellisBadArchives2023]. The precarity of the communities required more care and more flexible materials, and it also facilitated innovation. McKinney argues that "ways of thinking digitally about information were embedded in lesbian-feminist work with paper, in the ways lesbian feminists learned computing and imagined and built networks and databases for storing and sharing information" [@mckinneyInformationActivismQueer2020]. 
+
+Zine publisher, activist, and artist Be Oakley says that the zine form allows more access. [lends itself to more egalitarian cross-class acess] "Class is built into its format. A zine communicates a level of accessibility through its materials and its form. [...] A zine evokes a legacy of authorship that is not exclusively written by straight, cis, white men. [...]" [@oakleyImperfectArchivingArchiving2023]. 
+
+  * Zines to clarify information [@VisualIntroductionAI]
+    * 90s aesthetics and politics of distribution and value, how they influence digital spaces ethics/affordances/presentation (skeuomorph). print qualities (material and practices distrib/printing)
+    * >> "A zine is made to be disseminated to publics otherwise forgotten by hardcover books." "[...] The softcover book is ripe for the wear and tear of heavy use." [@oakleyImperfectArchivingArchiving2023]. 
+
+  * [@festivalEyeo2019Paul2019]
+  * Zines as living texts: "Living Books: Experiments in the Posthumanities by Janneke Adema"  [@pressLivingBooksMIT]
+  * zines as training tools, exopunks video game for learning to code, with zines, from zachtronics
+  * Coding zines, early computing
+
+
+
+<!-- participation is not a design fix [@sloaneParticipationNotDesign2022] -->
+
+### Queer feminist infrastructures and handmade media praxis 
 
 #### Legacies & contexts
 
@@ -570,6 +611,8 @@ TechnoCraft attends to the counterhistories still alive in our present technolog
 *Technocraft* expands the definition of what "counts" as creating or participating in technology, what labor is included and valued in the accounting of it. It destabilizes static ideas of technologies and their outputs as infallable and handed-down, by reminding us they are in fact crafted by people and contingent on contexts. The invisible labor of data creation and data maintenance is no different from the invisible labor of infrastructure in this way. Yanni Loukissas argues for the inherently "local" nature of data, saying that "data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place. [...] When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display" [@loukissasAllDataAre2019]. Loukissas suggests the term "data settings" instead of "data sets" to emphasize the ways data are always shaped by both their creation and their use. He argues for remembering how data always index something else and are themselves always incomplete.
 
 How does craft [XXX][transition]
+
+[Textile designer Nithikul Nimkulrat ]
 
 >"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, my proposal of the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. [...][~~~The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence~~~]" [@cardenasTransColorPoetics2016]
 
@@ -600,32 +643,6 @@ Queer use, fit
 Sara Ahmed says, "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you." In the machine learning parlance we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others [@ahmedQueerUse2018]. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
 
 >"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." (TechNo)
-
-
-
-
-<!-- ahree lee weaving work -->
-
-<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
-
-<!-- skip risk? -->
-<!-- #### **RISK** -->
-
-<!-- David Pye calls craft "the workmanship of risk" because "the quality of the result is continually at risk during the process of making" in contrast to "quantity production" which he calls the "the "workmanship of certainty." In the workmanship of risk, "the quality of the result is not predetermined, but depends on the judgment, dexterity and care which the maker exercises" [@pyeNatureArtWorkmanship2010]. -->
-
-Machine learning, as a mass production, produces certainty from uncertainty – from millions of uncertainties, argues Louise Amoore [@amooreCloudEthicsAlgorithms2020].
-
-Richard Sennett: "we might think that a good craftsman, be she a cook or a programmer, cares only about solving problems, about solutions that end a task, about closure. In this, we would not credit the work actually involved. In the Linux network, when people squash one 'bug,' they frequently see new possibilities open up for the use of the code. The code is constantly evolving, not a ﬁnished and ﬁxed object. There is in Linux a nearly instant relation between problem solving and problem ﬁnding." [@sennettCraftsman2008]
-
-
-*Process oriented approaches*
-* role of embodied knowledge on form, plat/form, landscape, who/how access
-* thin description, humble un-/knowing, kaleidoscopic subjectivity
-* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
-* deep interdisciplinarity
-
-
-
 
 ### TechNO 
 
@@ -677,7 +694,7 @@ In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *
 
 >"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves." [@sharmaManifestoBrokenMachine2020]
 
->"being challenged by the machine world is one of patriarchy’s deepest fears. [...] We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution."[@sharmaManifestoBrokenMachine2020]
+>"being challenged by the machine world is one of patriarchy's deepest fears. [...] The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution."[@sharmaManifestoBrokenMachine2020]
 
 
 Refusing how technologies have been posited as serving capitalist goals can mean reorienting toward technologies of sharing. 
@@ -688,7 +705,7 @@ TechNO is also open-access, open-source — in their refusal to capitulate to ca
 
 Imagine a [xxx] as handy as a hammer or a saw, a custom machine-learning model as easy to pick up and use as a garden trowel. 
 
->"The mere act of owning real tools and having the power to use them is a radical and rare idea that can help change the world around us" [@schwarzAnarchistToolChest2010]
+>"The mere act of owning real tools and having the power to use them is a radical and rare idea that can help change the world around us" [@schwarzAnarchistToolChest2010] [XXXusedabovealready]
 >"Everything extraneous has been taken away. Everything necessary is right where you need it and is easy to manipulate."[@schwarzAnarchistToolChest2010]
 Contrast this with CPU power, GPUs, NPUs, cloud compute, millions of hours and millions of dollars spent programming the resource-hungry systems we see today. 
 Fewer tools, more skill-building. Minimalism. Smaller toolboxes, more familiarization.  
@@ -714,44 +731,36 @@ Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.htm
 
 
 
-
-#### Counterpublishing
-  * Zines to clarify information [@VisualIntroductionAI]
-  * Zines to make counterpublics
-    * >"ways of thinking digitally about information were embedded in lesbian-feminist work with paper, in the ways lesbian feminists learned computing and imagined and built networks and databases for storing and sharing information"
-    >>—Cait McKinney (2020) Information Activism (Image from ONE Archives queer zine collections) [@mckinneyInformationActivismQueer2020]
-    * 90s aesthetics and politics of distribution and value, how they influence digital spaces ethics/affordances/presentation (skeuomorph). print qualities (material and practices distrib/printing)
-  * zines in relation to archival praxis
-  * zines in relation to form and class
-    * >>"Class is built into its format. A zine communicates a level of accessibility through its materials and its form. [...] A zine evokes a legacy of authorship that is not exclusively written by straight, cis, white men. [...]"
-    * >>@oakleyImperfectArchivingArchiving2023 "A zine is made to be disseminated to publics otherwise forgotten by hardcover books." "[...] The softcover book is ripe for the wear and tear of heavy use."
-  * Zines as archives of crisis & queer archives
-    * >>"evidence of queer life persists in the urgent artifacts that emerge in crisis—artifacts that arise expediently as part of efforts to advocate for slowness, care, mutuality, queer joy, pleasure, refusal, and community." Bad Archives, Paul Soulellis, Queer Archive Work @soulellisBadArchives2023 
-    * @festivalEyeo2019Paul2019
-  * Zines as living texts: "Living Books: Experiments in the Posthumanities by Janneke Adema"  @pressLivingBooksMIT
-
-### Craft means taking care and care-taking
-
-- Queer zine and newsletter networks
->"lesbian-feminist information infrastructures are built and sustained through networks that facilitate collaboration and resource-sharing amid precarious conditions."
-[@mckinneyInformationActivismQueer2020]
-
-
-
-<!-- participation is not a design fix @sloaneParticipationNotDesign2022 -->
-
-### Queer feminist infrastructures, technocraft, and handmade media praxis 
-
->"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) (Sennett?)
+<!-- >"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) (Sennett?) -->
 
 (body performance art histories, queer toy cameras)
 
 In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
-
 **These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
 TERM: *Deep Interdisciplinarity* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
-
 * deep interdisciplinarity
+
+
+<!-- ahree lee weaving work -->
+
+<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
+
+<!-- skip risk? -->
+<!-- #### **RISK** -->
+
+<!-- David Pye calls craft "the workmanship of risk" because "the quality of the result is continually at risk during the process of making" in contrast to "quantity production" which he calls the "the "workmanship of certainty." In the workmanship of risk, "the quality of the result is not predetermined, but depends on the judgment, dexterity and care which the maker exercises" [@pyeNatureArtWorkmanship2010]. -->
+
+Machine learning, as a mass production, produces certainty from uncertainty – from millions of uncertainties, argues Louise Amoore [@amooreCloudEthicsAlgorithms2020].
+
+Richard Sennett: "we might think that a good craftsman, be she a cook or a programmer, cares only about solving problems, about solutions that end a task, about closure. In this, we would not credit the work actually involved. In the Linux network, when people squash one 'bug,' they frequently see new possibilities open up for the use of the code. The code is constantly evolving, not a ﬁnished and ﬁxed object. There is in Linux a nearly instant relation between problem solving and problem ﬁnding." [@sennettCraftsman2008]
+
+
+*Process oriented approaches*
+* role of embodied knowledge on form, plat/form, landscape, who/how access
+* thin description, humble un-/knowing, kaleidoscopic subjectivity
+* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
+* deep interdisciplinarity
+
 
 
 
@@ -766,7 +775,7 @@ TERM: *Deep Interdisciplinarity* is able to view these fundamental states as hyb
 
 
 ### Reinforcement Learning with Human Feedback
-
+(in conclusion?)
 Reversed: (Human) Reinforcement Learning with Machine Feedback
 My workshops at Ars, Moz, USC
 

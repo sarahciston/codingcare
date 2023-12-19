@@ -129,6 +129,9 @@ sundén-on trans-, glitch, and gender as the machinery of failure
 >"Broken Machines do not see themselves extended in these new machine assistants. […] Broken Machines will not insist on better representation alone, recognizing that taking that argument to its logical end would mean that this sorority (Alexa, Cortana, Siri, and Erica) is met by a frat house of assistive technologies (Chads, Brads, and Alexander Mackenzie II's). […] 
 >"Broken Machines do not flee the scene nor do they opt to be repaired in order to be plugged back into patriarchy's technological conditions of possibility. The Broken Machine refuses to use the batteries they're selling us;
 >"Broken Machines have capacity for others when others are drained because they seek and find communal care rather than return to those original power sources that are simultaneously draining."
+>"being challenged by the machine world is one of patriarchy's deepest fears. [...] The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution."[@sharmaManifestoBrokenMachine2020]
+
+
 >"there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use." (Ahmed)
 >"a blockage can be how the system is working. The system is working by stopping those are trying to transform the system. This means that: to transform a system we have to stop the system from working. When you stop the machine from working, you damage the machine." (Ahmed")
 
@@ -154,3 +157,7 @@ And I feel like the cameras on my front and back like VALIE [hiking/tromping] th
 >And no "me" and just fine. And the yous and this we don't have names but we don't need them, the we is an endless, ever-expanding, and always-unresolved collection of queering blobs. I'm a we. "Me and you have been together for quite some time, we've seen some things together and we've been through some things. Maybe it was for a minute, maybe it's been the entirety of your life that we’ve been together, me."
 
 
+>"“This white cyberfeminist landscape marginalized queer people, trans people, and people of color aiming to decolonize digital space by their production via similar channels and networks. Exceptions such as the Old Boys’ Network, SubROSA, or the VNX Matrix were impactful in offering up alternative discourse that recognized peripherally racism alongside sexism, but the hypervisibility of white faces and voices across feminist cyberculture demonstrated ongoing exclusion, even within this new, “utopic” setting.” (Glitch Feminism: A Manifesto Legacy Russell)
+
+>"“Glitch feminism urges us to consider the in-between as a core component of survival—neither masculine nor feminine, neither male nor female, but a spectrum across which we may be empowered to choose and define ourselves for ourselves.”
+>“glitch is celebrated as a vehicle of refusal, a strategy of nonperformance. This glitch aims to make abstract again that which has been forced into an uncomfortable and ill-defined material: the body.”

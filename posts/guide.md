@@ -77,7 +77,7 @@ This guidebook wants to enrich the rituals of programming to include the joy, co
 "No way, code is magic." 
 {: .quote }
 
-–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, this so-called 'magic' does not come from men behind the curtains of big tech, hiding the keys while offering the hype of AI which says, "trust us, this this tech is too complicated for you" [or "if you only learned how to play the game our way."] Automated systems have always been deeply intertwined with humans in every way, from mechanical Turks to crowd labor outsourced to the Global South. No magic about it, just us. 
@@ -151,7 +151,7 @@ Upon gathering, I ask myself: What does this particular cluster of beings need a
 "For me, I could figure out how to code but I didn't really know what to use for what, for the specific things I like. Also part of the issues here is there's so many things you could do, right? [For the things I do, three.js is perfect. Once I figured that out, I didn't need to find other things. For someone who doesn't know how to code, give them a tool where they can learn to do a lot so they can figure out what tools they need — like p5.js.]"
 </p>
 <p class='quote attrib'>
-–Ada Toydemir, they/them, USC BA/MS Computer Science
+–Ada Toydemir, they/them, USC Computer Science
 </p>
 
 To explore how we might best create community, I asked each person to share what they were currently working on, some topics they knew about, some topics they wanted to know about. The goal here is to look for overlaps: Where do what you know about and what I want to know about intersect? Here lies magic!
@@ -248,7 +248,7 @@ Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't wo
 "If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
 {: .quote }
 
-–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 *For more on this, see [Critical tinkering](#Critical-tinkering)*
@@ -375,9 +375,17 @@ Your milage may vary, as mine has! I want to acknowledge that some folks are giv
 
 ### Ask "stupid" questions (psst.. there are no stupid questions)
 
-Try voicing your "stupid" questions, nagging suspicions, and fears.
+"There's no judgment which I really appreciate. I do feel that I could ask anything. I could ask like, what is a variable? [...] Nobody cares whether I'm talking about bitwise operations or just learning what Javascript is. It's just none of the pretension that really comes with the typical programmer space. [...] There is something very bro-y about programming spaces where you're not allowed to ask a stupid question."
+{: .quote }
 
-Without fail, when someone bravely asks what they call a "stupid" question, it is a question others have too. Or it's a question they've been taking for granted and haven't considered before. Usually it requires even those who think they already know the answer to think more deeply about the question in order to answer it in plain language. 
+–ender, Columbia Applied Mathematics
+{: .quote .attrib}
+
+It is wild to me that the idea of stupid questions feels so predetermined that I might enter a space where I don't know what a variable is, but I know I am not supposed to ask. Why do we communicate so much more clearly about social norms than about the information we are there to share and understand? Or the information that will help people feel welcome and at ease? 
+
+If you can, be brave. Try voicing your "stupid" questions, nagging suspicions, and fears.
+
+Without fail, when someone asks what they'd call a "stupid" question, it is a question others have too. Or it's a question they've been taking for granted and haven't considered before. Usually it requires even those who think they already know the answer to think more deeply about the question in order to answer it in plain language. 
 
 So-called stupid questions help us all unpack what we consider assumed knowledge. Frequently, assumed knowledge points to the foundations of a field of study and how its histories are told through lenses of white supremacy, misogyny, colonialism, and ableism. We should all be asking these questions to understand our work and our contexts through new lenses. In this way, the "beginner" in the room makes one of the largest contributions to everyone's co-learning experience. 
 
@@ -420,7 +428,7 @@ When we are together and witness each other struggle, that commonality reveals l
 {: .quote }
 
 <p class="quote attrib" markdown=1>
-–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 </p>
 <!-- {: .quote .attrib } -->
 
@@ -531,8 +539,14 @@ Okay maybe not *mandated* but we like the approach of conferences like [bang ban
 "The terminal is cute. It's important to have a good relationship with your terminal." 
 {: .quote }
 
-—Ada Toydemir, they/them, MS Computer Science, USC
+—Ada Toydemir, they/them, USC Computer Science
 {: .quote .attrib }
+
+"it is really important to actually focus on making sure that people are enjoying themselves and feeling camaraderie, because that can sort of be the secret sauce that makes it work. [...] the stereotype of the programmer personality is actually a disagreeable person, and so to bring a group of programmers or people interested in programming together and have a fun conversation is actually quite an achievement, I would say."
+{: .quote}
+
+–ender, Columbia Applied Mathematics
+{: .quote .attrib}
 
 ### Do it your own way
 
@@ -678,7 +692,7 @@ Teaching others helps us learn. In our practice at Code Collective, we co-work, 
 "There was beginner student who had trouble with code, and I think it was Katherine who helped. I remember seeing seeing that kind of troubleshooting, debugging. Being able to see the mentorship between between people was a really powerful thing for me to see."
 </p>
 <p class="quote attrib">
-–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 </p>
 
 This requires a bit of humbleness and "wayfinding" (exploring, birdwalking, pathfinding) together. This requires openness to collaboration and sharing, instead of competition or perfectionism. All this requires some mutual trust and is built over time, of course.
@@ -718,7 +732,7 @@ I include myself in this! Through conversations about what we're making and imag
 "A lot of the the values that I was trying to hold on to would be a lot harder for me to hold on to without Code Collective. It's almost like an opportunity cost, like if Code Collective wasn't there, I would be working for Palantine or something right now, I'd be using this mind towards — I wouldn't even call it destruction but I would have lost a lot. [...] A huge amount of empathy or a criticality has remained. That's that's what I'm taking with me and that's what I will keep, and I hope to replicate it in some form."
 {: .quote }
 
-–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 ### Adjust for what's needed
@@ -752,6 +766,14 @@ It helps to acknowledge many contexts that situate the tools and languages we ch
 {: .quote .attrib }
 
 Not only does acknowledging situated context help create better relationships among community members, it helps make interesting, engaging works of creative–critical code. 
+
+<p class='quote'>
+"I'm a human being, and for me politics is just saying I have opinions about what happens to me and other human beings. It's not like some abstract thing that does not affect my daily life. I'm not able to separate it from technology, which is also a part of my daily life that I take part in because I'm a human being. It's all part of my humanness. I can't just pick apart different things and bring them with me at different times, so it's very difficult to be part of tech spaces which want to be apolitical, because that in itself is not a neutral political stance. [...] you're pretending that there's no politics. But in reality your political leaning is just maintaining the status quo."
+</p>
+<p class='quote attrib'>
+–ender, Columbia Applied Mathematics
+</p>
+
 
 ### Address difference and power
 
@@ -809,7 +831,7 @@ And find a way, in the end, to break it up — with snacks, goofing off, small g
 "I can see Code Collective as a way to reinforce ethics — and without imposing them. It has actively shaped the ethics of individuals who have exceptional power with their work. It was never like, 'don't do that, what are you doing' but definitely a space to hold all the possibilities around it, which I really appreciate. I know you and I have gotten into some heated conversations which I really enjoy. But there's a lot of respect there to hold all of the opposing ideas. The dialectical is the value."
 {: .quote}
 
-–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 
@@ -833,7 +855,7 @@ What we can form also depends on the capabilities of the tools we use — the pr
 "Coding isn’t a competition, but a craft"
 </p>
 <p class="quote attrib">
-–Garrett Flynn, USC BS Computational Neuroscience, MA Media Arts, Games, and Health
+–Garrett Flynn, USC Computational Neuroscience & Media Arts, Games, and Health
 </p>
 
 <p class="quote">
@@ -1042,7 +1064,7 @@ Try this activity with a partner and talk through your answers together. You mig
 "It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
 </p>
 <p class="quote attrib">
-–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 </p>
 
 Whatever rituals and habits you create, create them *together*. This is essential. Ideally you develop these over time, through feedback and informal habits and through formal work on community agreements and mission. How you choose to move as a group should be collaborations, ways of building trust with one another. As in dance, and all forms of attunement, we respond to each others movements in space, from the way we hold our bodies to the way we open ourselves up (or don't). And we learn what to trust and to expect by what is repeated and what is dynamic. 
@@ -1120,7 +1142,7 @@ Seriously, snacks are essential. Without fail, when I asked what makes our commu
 "I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it levels the playing field, and it kind of brings a sense of equality. That's important."
 {: .quote }
 
-–Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 {: .quote .attrib }
 
 Look for snacks that are computer keyboard friendly – nothing too sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-than-healthful. Throw in a few apples, I guess? Single-serving items that avoid much plastic wrapping are ideal: popcorn, pretzels, gummies, satsuma oranges. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
@@ -1392,7 +1414,7 @@ This pocket guide has argued for technology communities that support pluralism, 
 "I decided to pursue my MA program because CCC opened me to the aesthetic and humanistic possibilities inherent in code that had nothing to do with instrumental goals that the usual CS student would attend to at their post-graduation gig. Now I’ve been working at the intersection of JavaScript and neuroscience for the last six years — sometimes as an independent developer, more recently as part of a larger institutional effort — and haven't once questioned the validity of this approach because the people at CCC would be proud to see it. So you could say CCC gave me the courage to pursue this alternative career path — and it's all pretty much worked out."
 </p>
 <p class="quote attrib">
-–Garrett Flynn, USC BS Computational Neuroscience, MA Media Arts, Games, and Health
+–Garrett Flynn, USC Computational Neuroscience & Media Arts, Games, and Health
 </p>
 
 <p class="quote">
@@ -1411,21 +1433,21 @@ This pocket guide has argued for technology communities that support pluralism, 
 We "Enjoy code together"
 </p>
 <p class="quote attrib">
-–Garrett Flynn, USC BS Computational Neuroscience, MA Media Arts, Games, and Health
+–Garrett Flynn, USC Computational Neuroscience & Media Arts, Games, and Health
 </p>
 
 <p class="quote">
 "An awareness of the social consequences of code and programming, a desire to help rather than compete, a drive to explore the limits of your craft"
 </p>
 <p class="quote attrib">
-–Garrett Flynn, USC BS Computational Neuroscience, MA Media Arts, Games, and Health
+–Garrett Flynn, USC Computational Neuroscience & Media Arts, Games, and Health
 </p>
 
 <p class="quote">
 "More critical of the consequences of our work on society, less concern whether you're doing 'better' than the person next to you and genuine curiosity about how they're doing it"
 </p>
 <p class="quote attrib">
-–Garrett Flynn, USC BS Computational Neuroscience, MA Media Arts, Games, and Health
+–Garrett Flynn, USC Computational Neuroscience & Media Arts, Games, and Health
 </p>
 
 
@@ -1461,7 +1483,7 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 "I'd love to see this outside of the university setting. I wish this existed for urban professionals. I feel like not all of my Silicon Valley friends would partake in something like this, because they're so burnt out on code. But I'm sure there's a lot of people that are still wanting to have this conversation."
 </p>
 <p class="quote attrib">
-—Samir Ghosh, they/them, UC Santa Cruz PhD Computer Science, USC Ahmanson Lab
+—Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 </p>
 
 <p class="quote">
@@ -1508,3 +1530,28 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 [XXXadd source] craeft alexander langlands, pye the workmanship of risk/certainty in the nature and art of workmanship"
 
 [XXXadd source] knitting for anarchists
+
+
+ender 🐢 no pronouns: 
+
+"There's a disconnect between what the people who make apps say about what they do and what their apps actually do. There's a disconnect between what academics say the world is going to be like and how they're making all this progress and the world that we see around us. That is the result of all those decades of quote unquote progress. And it's like, when you want to actually address these contradictions, you run into people who are very stubborn and don't actually want to take your argument in good faith. And they're just very stubborn techno-optimists, which is what I was trying not to go into. So like just the difference between techno-optimism, techno-pessimism and sort of just realism, like, what is the world that actually exists?"
+
+"creative code collective looks at creative coding in a nuanced way that isn't overly optimistic or pessimistic, but just realistic, which may not sound like so beautiful and inspiring. But it it is actually quite refreshing when you know basically, no one wants to talk about the reality of what software is like."
+
+"it is good and expected to interact with people who have experiences that you haven't had, and you will want to learn from them. 
+definitely, just like a respect for others and respect for people in the space.
+
+"I've learned from code collective that you can really have fun coding anything. [...] coding is fun, and should be done for fun, and not to like intimidate others or show how smart you are."
+
+"[Code Collective] helped me place coding within a sort of historical landscape and to understand that coding is a social act. It's the build up of hundreds of years of history, of traditions. This is not just something that you do on your computer, you are also part of a generation that will affect future generations."
+-ender, Columbia Applied Mathematics
+
+"we're talking in a way that is not combative, or it's not trying to prove how much we know to each other. It's not about one upping each other like it's, I think, that it's actually very hard to like program or to formally make sure that these things happen. So I'm impressed that it does happen right. There is this sort of friendly community to talk about coding. The friendliness of the community is why I come back."
+
+"I wanted to be a Co collective in every major city"
+
+"I love your intersectional AI piece which is how I actually found out about code collective."
+
+**"Creative code collective is like really the only space where I can really express, even like what coding really means to me. Like, why even care about it? Because I feel that in other spaces it's very difficult to explain [something like] cyberfeminist writing about the relationship between the binary operations of warp and weft, and the zeros and ones of logic gates — like that's so fascinating to me. How are these things connected? And how did they they like proceed from one another? I would take with me [from Code Collective] the sort of warm, fuzzy feeling of being in a safe space to talk about that."**
+
+**appreciation of each other's enthusiasm.**
