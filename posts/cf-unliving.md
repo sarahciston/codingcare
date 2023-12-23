@@ -6,13 +6,6 @@ date: 22.11.2023
 ---
 
 # Codes for (Un)Living
-<!-- null, queer use, throbber, waiting for something to happen, platforms, queering, communing, desiring, ecstatic codes, -->
-<!-- knots instead of threads, threnodies -->
-<!-- data bodies, drone aesthetics, interpolated and interpellated states -->
-<!-- A simple act of reporting. Distributing data, is always personal.  -->
-<!-- tech wants to address the problem of scale but it also contributes to it -->
-<!-- Make the text simple. Data accumulates days.  -->
-<!-- I want to fill a room with e-ink screens and  -->
 
 I am still alive, On Kawara.  It takes so much: To get up at a time. To make a painting. To make a life. To make a day. Day after day. You fit this feeling in a postcard, with a view. [You just report.] You make this dailiness remarkable.
 
@@ -61,11 +54,16 @@ I should have known your series "I AM STILL ALIVE" began with un-unaliving. In D
 
 You are not still alive. I write to you as though you are, because to write to the living who do not want to live, to write to them about living, seems harder than to write to the dead about living. I expect you'd have more to say about living, having written "I am still alive" so many times. I think you would report back that living was not fun. After remarking so often on the stillness of living, would you report back that living was hard? Maybe you could explain to my friend, who does not want to, why you went on and did it anyway. 
 
+Sometimes unprompted, sometimes in reply to requests and inquiries. Your telegrams enacted your persistence as a mode of refusal, as if to say, "I'd prefer not to," or as if to emphasize that your status might change in the widened gap between sending and receipt of signal. 
 
-Sometimes you sent them unprompted, sometimes you sent them in reply to requests and inquiries. Your telelgrams enacted your persistence as a mode of refusal, as if to say, "I'd prefer not to," or as if to emphasize that your status might change in the widened gap between sending and receipt of signal. 
+I get text messages almost every day. Some of the messages are reports of forgetting, frustrations about forgetting, and anticipated forgettings. There are banking details and backup strategies for if the order of who-dies-first goes wrong: [I am to take care/take charge/next of kin/executor] and this will be resisted. I feel like a throbber, a spinning rainbow beach ball of doom, three dots awaiting the arrival of a message being revised. I hold my breath and wait for something to be over which I don't want to happen at all. I ignore my heartbeat [though it rushes in my ears]. I am still alive. 
 
-I get SMS messages almost every day. Some of the messages are reports of things most recently forgotten, the frustrations, and the next expected forgettings [we await]. There are banking details and strategies for if the order of who-dies-first goes wrong: I am to take care, and this will be resisted. 
+[xxx]Machines read suicide notes and their predictive models find children who may soon become anxious. Are you or have you ever been an anxious child? 
 
+[xxx][For blood relations we talk [more than average/a lot] about smart ways to prevent and get away with death. [Hypothetically./If the occasion were to call for it.] Euthanasia. Murder-suicide pacts. Justifiable homicide. Hypothetically. It's brought up casually, like some families talk about [reunions], at a birthday dinner or on a video call.]
+
+[xxx]Attunement across a distance means a sensor telling me your vital signs or a telegram sent when you were still alive. These feel different. Alignment in machine learning is [xxx]
+ 
 
 ![on kawara "I am still alive"](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
 
@@ -73,34 +71,24 @@ I get SMS messages almost every day. Some of the messages are reports of things 
 
 
 
-I am getting reports of the many things he cannot remember anymore. 
-
-It feels different, attunement with a sensor that tells you of someone's vital signs, and across a distance, the way you receive a telegram and know that when it was sent the sender was still alive. 
-
-
-Who is providing attunement now? Machines do it because 
-
-Writing to no one, a postcard out into the world (Derrida) vs an "entity" that senses your increased biometric feedback and responds to you. This desire for attunement. In the past we got it from women, trained to be wives and mothers and ignore their own readings. We look for it now in machines because we don't have enough hands on deck to provide care (because we are not willing to provide it mutually?). We have NLP reading suicide notes and doing predictive modeling for future anxious children. All well and good seeming activities, all also very minority report in its sci-fi possibility space. 
 
 
 
-
-I watched the Hitchcock film *Rope* last time I had covid. This time I talk with my mother about smart ways [to prevent and to get away with death], if the occasion were to call for it (hypothetically). We may talk more than the average family about [murder–suicide pacts. Justifiable homicide. Euthanasia. (Hypothetically.)] 
 
 
 ---
+<!-- null, queer use, throbber, waiting for something to happen, platforms, queering, communing, desiring, ecstatic codes, -->
+<!-- data bodies, drone aesthetics, interpolated and interpellated states -->
+<!-- A simple act of reporting. Distributing data, is always personal.  -->
+<!-- tech wants to address the problem of scale but it also contributes to it -->
+In the past we got it from women, trained to be wives and mothers and ignore their own readings. We look for it now in machines because we don't have enough hands on deck to provide care (because we are not willing to provide it mutually?). 
 
 return to the anxiety of too many too much asked of me, no one asked, i asked this of myself, all the things i am excited for, imagine making and doing and joining
 code palimpsests from Annette Vee, looking at Bakhtin's speech genres, each utterance a refraction of prior.
 
-
 [It combines two pieces of flash art created by [Ren], who wanted to honor the life and work of musician, producer, and trans rights activist Sophie Xeon after she died unexpectedly in 2021. She slipped and fell while climbing up to look at the moon.] 
 
 29,771 days. I'm happy if everyone I know sticks around that long.]
-
-There is a new operator in ECMAScript 11 called Nullish, named appropriately and represented by my feelings exactly: ?? and it distinguishes undefined and null from false and not-a-number. Nullish, partially erased, hovering liminally. 
-avoid null "when there are multiple ways something can not exist"; use null "when something can optionally exist" (masso)
-
 
 > 
 >"needed a proxy for" "The algorithm’s designers needed a proxy for illness and settled on medical costs. (All things being equal, people who are sicker tend to use more health care.) Obermeyer found, however, that the algorithm dramatically underestimated how sick Black patients were, because the Black patients it examined had much lower health spending than the white patients, even when they were equally sick. Such algorithmic bias can occur not just by race, but by gender, age, rurality, income, and other factors of which we’re only dimly aware, making algorithms less accurate." 
@@ -109,3 +97,6 @@ avoid null "when there are multiple ways something can not exist"; use null "whe
 >"human raters focused on content, while the machine algorithms focused on structure." [@pestianSuicideNoteClassification2010]
 
 And with ES9, ... the ellipses copies or clones objects. Whereas Winnie Soon discussed the throbber, and we have the rainbow beachball of doom, and the three dots of death, awaiting arrival of a message being written, or revised, or deleted, one never knows. Here an abundance. A Dolly the Sheep Dot Dot Dot. 
+
+It feels different, attunement with a sensor that tells you of someone's vital signs, and across a distance, the way you receive a telegram and know that when it was sent the sender was still alive. 
+Writing to no one, a postcard out into the world (Derrida) vs an "entity" that senses your increased biometric feedback and responds to you. This desire for attunement. 
