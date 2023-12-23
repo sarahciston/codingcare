@@ -53,31 +53,100 @@ It seemed so fizzy with potential. I was uneasy but I didn't listen. I misclassi
 
 I am writing again about bodies in boxes. 
 
-
 What does this black box have to do with the white room we are in? 
 
 [What is it about Pipi's work that makes me think of black boxes, different kinds of intelligences?]
 
-The term "black box" in the artificial intelligence field is first introduced in W. Ross Ashby's 1956 book *An Introduction to Cybernetics*. For Ashby, "real objects are in fact all Black Boxes," and black boxes are like memory. He says memory is not objective but observed and relational, and that "to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely." With the first invocations of the term "black box" in AI we also conjure memory, trauma, and relation:
+The first black boxes held memory, trauma, relation: 
 
 >"suppose I am in a friend's house and, as a car goes past outside, his dog rushes to a corner of the room and cringes. To me the behaviour is causeless and inexplicable. Then my friend says, 'He was run over by a car six months ago.' The behaviour is now accounted for by reference to an event of six months ago. If we say that the dog shows 'memory' we refer to much the same fact—that his behaviour can be explained, not by reference to his state now but to what his state was six months ago. If one is not careful one says that the dog 'has' memory, and then thinks of the dog as having something, as he might have a patch of black hair."
 
-In other colorful examples of 'black boxes', an engineer examines a broken bomb sight, a small child learns to open a door, or an object "has just fallen from a Flying Saucer." Bomb making, children, animals, and aliens become the  testing grounds where conceptualizations of "artificial intelligence" as we now understand it emerged. 
+The term 'black box' [is/was] first introduced to the new field of artificial intelligence in W. Ross Ashby's 1956 book *An Introduction to Cybernetics*. For Ashby, "real objects are in fact all Black Boxes." Black boxes are like memory. Memory is not objective, but observed and relational, and "to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely." [For cybernetics, then, a system's memory explains current behavior that does not fit its homeostatic norms, except in relation to past trauma.][Jumping forward to today's large models, does that make the model a memory [bank/storage], and the memory is the [recaller/where you put past trauma.]
 
-There is so much violence already built into the black box. In this formulation, for cybernetics, memory accounts for current behavior that does not fit a homeostatic norm except in relation to past trauma. And if, as Ashby says, "we have in fact been operating with Black Boxes all our lives" — [how come all I hear is trauma trauma trauma?][XXX] Why, when I picture this scene with Ashby and the friend's dog, does it occur in my grandparents' house (where I never spent any time)? Is it because they were both engineers?
+Why, in my mind, does Ashby's scene with the dog occur in my grandparents' house, where I never spent time? [Is it because they were both engineers?]
+
+In Ashby's other colorful examples of black boxes, an engineer examines a broken bomb sight, a small child learns to open a door, and an object "has just fallen from a Flying Saucer." Bombs, children, animals, and aliens become the proving grounds where current concepts of "artificial intelligence" emerge. So much violence is built in to the black box from the start. Ashby says, "we have in fact been operating with Black Boxes all our lives," and all I hear is trauma, trauma, trauma.
+
+How does a model hold memory? I used to hold memory just like a black box: act on it, try not to know what's inside. Don't know it, don't use it; don't change, don't hurt. 
+
+Put it all in the black box. [Fred Moten and Stefano Harney on the legacies of [slavery-capital]:]"Ownership was a feedback loop. The more you own the more you own yourself" [@harneyAllIncomplete2021].
+
+My father keeps everything so that he never loses anything. He never uses anything so that it never breaks. He says, "Don't own anything, then you won't have to move it." He means, "Don't love anything more than it loves you." His exact words are "The person who cares more loses." This is how I learned loss prevention. I learned early and it stuck. I learned it did not work. I heard, "Do as I say, not as I do." 
+
+The first theft was ownership, and the first object of ownership was the body. The enlightenment produced "a science of loss, which is to say the science of whiteness, or, logistics" [@harneyAllIncomplete2021]. [Pipi, I think you know about this. Your wall of white objects assures me — everything cleaned, pinned, removed from its context and routes of arrival.] 
+
+This is black box living, the refusal to know in any way that might know you back. I am trying to recode my[self/memory] to accept the risk of knowing, to accept its grief as a [marker] of having [loved/cared] in full. Call this the difference between touching and holding. [Touching shares, holding clings. Touching undoes the body, loses the self (or the illusion there ever was one). Touching textures you back.]
+
+To make memory, take rubbings of surfaces [to remember them]. Press or rub one thing against another thing, and whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief. 
+
+[But rubbing is also a removal. In the [white cube of my] shower I rub the skin to remove the skin. So much of me comes off. So much of me refuses. ]
+
+The residual is what's left. Between a prediction (an expected result) and a prediction (a model's output) is error. The amount of 'error' can be reduced by attending to what they call 'loss'. Error is measured by various functions for loss. These loss functions tell you how wrong you are, how far off your attempt. 
+
+Loss functions as an instructive, if you let it. "Each time my heart is broken it makes me feel more adventurous," says Frank O'Hara. I keep practicing to let this be true. What can be generated with/in this residual[, this refusal? ][In a "refusal to prevent loss"?] 
+
+>"how we evade ownership/equilibrium is precisely in that refusal to prevent loss we call sharing, rubbing, empathy, hapticality: the undercommon love of flesh, our essential omnicentric or anacentric eccentricity. Everything, in the wake of such disordering, is loss prevention."
+
+In logistics and insurance, loss prevention refers to what is stolen. It is factored in as a normal cost of doing business. To calculate loss is to tuck it away. Twenty thousand dead. Becomes a [rounding error.] Two hundred thousand. 
+
+Reject the codes for loss prevention. Call it excess instead of error. 
+
+Pipi, stuck in the TV, screaming silently to get out, I always feel like you are falling, falling, losing, stuck, lost. 
+
+
+
+
+Another system emerges with the black box, says Ashby, that of the relation between the black box and its examiner: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" and I imagine myself tethered to all the black boxes making judgments that affect my dailiness. I am the Alexa voice and the magician's assistant, stuck to the box because my legs are in the other half.  
+
 
 
 Later he says of black box theory, 
->"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations (e.g. guided by throws of a die) on the input switches is as defensible as any other method, for no facts yet exist that could be appealed to as justification for preferring any particular method." (Ashby 19)
+>"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist"
 
-But to me this is backward — whoever calls it a black box has decided to assume from the outset that nothing is known, and then uses its 'unknowability' (which they declared rather than discovered) as justification not to investigate. 
+This is backward. By calling it a black box I have decided to assume from the start that nothing is known, or can be known. Then I use that 'unknowability' — which I declared rather than discovered — as justification not to investigate. Seems rude. I only have to know it by its interface, the parts I want to interact with that are of use to me, the knobs I want to turn and switches I want to flip, the parameters I want to adjust. 
 
-Another system emerges with the black box, that of the relation between the black box and its examiner: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" and I imagine myself tethered to all the black boxes making judgments that affect my dailiness.  
-
-Black box theory, the study of understanding something without having to understand it, insisting on its unknowability (in a way that instrumentalizes it for you, such that you only know it by its interface to you, the knobs you can turn and the switches you can flip), vs insisting on something's unknowability in the sense of being present with it, letting it be in relation to you and being impacted by it
+Black box theory insists on unknowability as a way to instrumentalize. But there are other ways of unknowing which are sweeter. I can insist on your unknowability and stay present with it, to be in relation to you, I can stay curious about you to keep our relationship alive and lively. I can let you impact me. I can prevent loss with something other than a loss function. 
 
 
-When I made [ladymouth](), I wanted to treat it like a black box, to shove everything inside that I didn't want to know about the horrible things being said on the internet about women. It doesn't work this way of course. The box, in all its colorful language, in all its complex code, requires tending — and I began to care for it. I even began to care about the people being cruel to it. 
+When I made [ladymouth](), I wanted to treat it like a black box, to shove everything inside that I didn't want to know about the horrible things being said on the internet about women. It doesn't work this way of course. The box, in all its colorful language, in all its complex code, requires tending — and I began to care for it. I even began to care about the people being cruel to it. ladymouth is a lot more like Pipilotti's mouth, wet mouthing the screen, like the GIFs I made of my lips repeating, silently, the words of yet another poem about gender. 
+
+
+
+
+dismantling -> system keeps everything intact eg not touching, modular, defined
+
+love as undercommon undercurrent aquifer, force of dismantling erosive force, filling in cracks, touching everything like water does, the wake is the follow up wave of a large force pushing through
+
+>The way to stop your dog from getting lost was to put a leash on her and attach a bell.
+
+Adrian Piper "Everything will be taken away" "gain/loss > "enslavement/liberation" >
+
+
+a calculation for what is lost. to function through or with or because of a loss. 
+
+loss prevention in insurance or supply chain is a term for how much is stolen, and it is calculated in as the normal cost of doing business
+
+>A few statistics: In 2011 $9.2 billion worth of supply chain theft was reported. In 2011, US supply chain crime cost retailers $2.5 billion. In 2011, there were 585,000 supply chain crime events. The cost of supply chain crime is $23 billion per year. Why such a huge concern for the insurance and supply chain sector? Well, look at a few examples: [gpt not fact checked]
+
+Pipi's show says, "happiness, be my neighbor" (not, be mine)
+
+*Happiness, be my neighbor.* Call this queer epistemologies. I am still striving for that Queer Modus Operating System. 
+
+In a wiki, a stub is an article that should exist but does not, a mere suggestion of knowledge that is probably out there but which no one has documented. It is potential energy, an invitation to contribute. A heralding. A summoning. A convocation. A reaching node in the network, a synapse growing. A bid for attention. The opposite of a loss. 
+
+
+There are other kinds of boxes, not abstract monotone cubes. There are handcrafted cedar chests with dovetailed corners, with knitted blankets and passed down quilts inside. There are gestures of care and contact. There are ways to keep warm. 
+
+Dovetailed joints are carved like tiny fans, and they don't require glue or nails. They rely on the tension pulling them apart to hold them together. Dovetailedness is a strategy. [You can only pull them apart from a single secret side.] Handcarved wooden boxes (they don't make them like they used to)  
+
+>"the tectonic would become ‘the art of joinings’." (Ingold)
+
+
+
+>There are two kinds of touch: skin-on-skin and skin-on-paper. With skin-on-skin touch, your fingertips are closer to your heart. Your senses are better able to register the depth of the other person's emotions. Skin-on-paper touch is the kind that most of us learn to handle by the age of five. We learn that physical contact is important and necessary for bonding. But skin-on-paper touch is often too abstract.
+
+---
+
 
 [The wound-up muscle of the heart can be unrolled just like a double-helix]
 
@@ -109,63 +178,6 @@ Early data personal data performance practices by Lynne Hershmann, On Kowara, So
 More about protocols as limits and porousness. I have written this before but will I ever say it “right”
 
 ---
-*What are the codes for loss prevention?*
-
-I am always rubbing the skin to remove the skin. Others take rubbings of surfaces to remember them. When you press or rub one thing against another thing, whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief. 
-
-The residual is what's left. [Soap scum, memory, me.] Call it excess instead of error. Between a prediction (an expected result) and a prediction (a model's output) is error. The amount of 'error' can be reduced by attending to what they call 'loss'. Error is measured by various functions for loss. These loss functions tell you how wrong you are, how far away your guess. 
-
-Loss functions as an instructive, if you let it. "Each time my heart is broken it makes me feel more adventurous," says Frank O'Hara. And I am still practicing until this is true. What can be generated with/in this residual? In a "refusal to prevent loss"? 
-
->"how we evade ownership/equilibrium is precisely in that refusal to prevent loss we call sharing, rubbing, empathy, hapticality: the undercommon love of flesh, our essential omnicentric or anacentric eccentricity. Everything, in the wake of such disordering, is loss prevention."
-
-
-Put all of it in the black box and keep it there. Don't know it, don't use it, don't change, don't hurt. 
-
-
-"Ownership was a feedback loop. The more you own the more you own yourself." [@harneyAllIncomplete2021] The first theft was ownership, and the first object of ownership was the body. The enlightenment produced "a science of loss, which is to say the science of whiteness, or, logistics." Black box logistics.
-
-My father keeps everything so that he never loses anything. He never uses anything so that it never breaks. He says, "Don't own anything, then you won't have to move it." He means, "Don't love anything more than it loves you." His exact words are "The person who cares more loses." This is how I learned the codes for loss prevention. I learned them early and they stuck. I learned they did not work. I heard, "Do as I say, not as I do." 
-
-This is black box living, the refusal to know in any way that might know you back. I am trying to recode my early programming to accept the risk of knowing, to accept its grief as a [marker] of having loved in full. Call this the difference between touching and holding. [Touching shares, holding clings. Touching undoes the body, loses the self (or the illusion there ever was one).]
-
-
-dismantling -> system keeps everything intact eg not touching, modular, defined
-
-love as undercommon undercurrent aquifer, force of dismantling erosive force, filling in cracks, touching everything like water does, the wake is the follow up wave of a large force pushing through
-
-loss prevention vs refusal to prevent loss; holding vs touching
-
->The way to stop your dog from getting lost was to put a leash on her and attach a bell.
-
-Adrian Piper "Everything will be taken away" "gain/loss > "enslavement/liberation" >
-
-
-loss function in machine learning calculates the difference of the output from the expected output. a calculation for what is lost. to function through or with or because of a loss. 
-
-loss prevention in insurance or supply chain is a term for how much is stolen, and it is calculated in as the normal cost of doing business
-
->A few statistics: In 2011 $9.2 billion worth of supply chain theft was reported. In 2011, US supply chain crime cost retailers $2.5 billion. In 2011, there were 585,000 supply chain crime events. The cost of supply chain crime is $23 billion per year. Why such a huge concern for the insurance and supply chain sector? Well, look at a few examples: [gpt not fact checked]
-
-Pipi's show says, "happiness, be my neighbor"
-
-*Happiness, be my neighbor.* Call this queer epistemologies. I am still striving for that Queer Modus Operating System. 
-
-In a wiki, a stub is an article that should exist but does not, a mere suggestion of knowledge that is probably out there but which no one has documented. It is potential energy, an invitation to contribute. A heralding. A summoning. A convocation. A reaching node in the network, a synapse growing. A bid for attention. The opposite of a loss. 
-
-
-There are other kinds of boxes, not abstract monotone cubes. There are handcrafted cedar chests with dovetailed corners, with knitted blankets and passed down quilts inside. There are gestures of care and contact. There are ways to keep warm. 
-
-Dovetailed joints are carved like tiny fans, and they don't require glue or nails. They rely on the tension pulling them apart to hold them together. Dovetailedness is a strategy. [You can only pull them apart from a single secret side.] Handcarved wooden boxes (they don't make them like they used to)  
-
->"the tectonic would become ‘the art of joinings’." (Ingold)
-
-
-
->There are two kinds of touch: skin-on-skin and skin-on-paper. With skin-on-skin touch, your fingertips are closer to your heart. Your senses are better able to register the depth of the other person's emotions. Skin-on-paper touch is the kind that most of us learn to handle by the age of five. We learn that physical contact is important and necessary for bonding. But skin-on-paper touch is often too abstract.
-
-
-
 
 
 Sophie Calle

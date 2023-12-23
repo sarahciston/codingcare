@@ -47,23 +47,26 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Connecting Critical AI & Creative Coding
 
-Trans\*formative TechnoCraft argues for the essential entanglement of critical AI and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
+Trans\*formative TechnoCraft argues for the essential entanglement of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
 
 [...]
 
 
 <!-- How do we encourage this entanglement further? Through approaches that emphasize -->
-The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as [xxx expand and exploit/exclude from]. A handful of powerful companies warn of the coming dangers, in order to distract from the current dangers they perpetuate. Already toothless policy recommendations are quickly watered down and ignored, while [more and more data represent less and less diversity][more and more compute, more and more natural resources,][harmless fun on one side of the globe is life and death on another.]
+The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as [XXX][expand and exploit/exclude from]. A handful of powerful companies warn of the coming dangers, in order to distract from the current dangers they perpetuate. Already toothless policy recommendations are quickly watered down and ignored, while [more and more data represent less and less diversity][more and more compute, more and more natural resources,][harmless fun on one side of the globe is life and death on another.]
 
-[What does Trans\*formative Technocraft look like? How could it operate? Where does it already? What is it exactly?]
+>"computerization can take whatever form we wish it to; therefore we must learn about computers in order to wish better." [Ted Nelson, creator of hypertext, in @SoftwareInformationTechnology1970] 
 
+What does Trans\*formative Technocraft look like? How could it operate? Where does it already? What is it exactly?
+
+takes neither a technosolutionist/technooptimist, nor a doom
 
 I invoke craft here as an expression of the theories, ethics, and tactics of intersectionality and sustainability, in order to ground these ideas in tangible practices which grow out of [lived] communities. Re-binding craft to technology brings slow, circular, cooperative, inclusive, caring [offerings] in order to transform [xxx][xxx].
 
-Though "TechnoCraft" reads like an oxymoron, it is not a stretch to view technology through the lens of craftsmanship. Lucy Suchman and Randall Trigg have called artificial intelligence craftwork, studying the ways a practice designed to represent social and behavioral human systems is itself socially organized. 
+Though "TechnoCraft" reads like an oxymoron, it is not a stretch to view technology through the lens of craftsmanship. As early as 1993, Lucy Suchman and Randall Trigg called artificial intelligence craftwork, studying the ways a practice designed to represent social and behavioral human systems is itself socially organized. 
 >"socially organized craftsmanship - the crafting together of a complex machinery made of heterogeneous materials, mobilized in the service of developing a theory of mind. 
 >"the work of designing intelligent machines as a specific form of social practice - a form made the more interesting by APs own concern with the delegation of social practice to machines" [@suchmanArtificialIntelligenceCraftwork1993]
-However this nod to craft is the opening for a critique even as early as this 1996 research. Suchman and Trigg note the distance between the formalist constraints on AI problem design and its real-world applications. 
+However, for their research, as for this text, the invocation of craft is the opening for a critique. Suchman and Trigg note the distance between the formalist constraints on AI problem design and its real-world applications. 
 
 
 
@@ -75,6 +78,8 @@ However this nod to craft is the opening for a critique even as early as this 19
 </p>
 
 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when <span class="purple">learning programming is so often intimidating and riddled with false starts,</span> which can further marginalize those whose perspectives are most necessary in order to face the challenges technoculture presents. 
+
+[XXX][spatial arrangement, like latent representations but logic of nearbyness, discussed below, many fields, multimodal, polyvocal]
 
 ## We Need Intersectional Critical AI 
 
@@ -117,8 +122,27 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 >"In each act of training, someone is making a claim about what we should know, how we should know what we know, and how that knowledge should be deployed. Each exposure to a dataset occurs because someone concluded that the information in that dataset should be used to determine a possible future." [@hakopianInstituteOtherIntelligences2022]
 
+>"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014]
 
-[XXXMOVEDHERE?]
+
+>"I would like to employ the word cybercrud to mean, in gen eral, putting things over on people using computers. Cybercrud is one of the most important specialties, if not the economic backbone, of the computer field. The promotion of false or clumsy approaches to a problem as " scientific," the frequent claim that " the computer has to have it that way" - when a certain thing could be programmed very differently - are cybercrud." [nelson ]
+
+>"Any nitwit can understand computers, and many do. Unfortunately, due to ridiculous historical circumstances, computers have been made a mystery to most of the world. And this situation does not seem to be improving. You hear more and more about computers, but to most people it's just one big blur. The people who know about computers often seem unwilling to explain things or answer your questions. Stereotyped notions develop about computers operating in fixed ways — and so confusion increases. The chasm between laymen and computer people widens fast and dangerously." [@nelsonComputerLibDream1974]
+
+>We are a far cry from Ted Nelson's 1974 lament, "You can and must understand computers now."
+"Most of what is written about computers for the layman is either unreadable or silly."
+
+>gigantic enterprises that "know the short-range utility of computer systems but have no idea of their ultimate social cost." [@weizenbaumImpactComputerSociety1972]
+
+"participation washing"  identify participation as work, as consultation, and as justice. suggest long-term involvement instead of extractive forms of participation that remove context and scale for machine learning . "Participation workshops can become performative, where experts do not actually take the needs or recommendations of the different stakeholder groups into consideration."
+>"Whether acknowledged or not, a broad range of participants play an important role in producing the data that is used to train and evaluate ML models. For example, ImageNet, which laid the foundations for deep learning and most image recognition applications and is still used for ML benchmarking, is a dataset of millions of images, taken by hundreds of thousands of people, scraped from the open web and labeled by mTurk workers. Image classification tools are often built on top of models trained on the ImageNet dataset." [@sloaneParticipationNotDesign2022]
+
+>"make the tensions that characterize the goal of long term participation in ML visible, acknowledging that partnerships and justice do not scale in frictionless ways, but require constant maintenance and articulation" [@sloaneParticipationNotDesign2022]
+
+
+>"AI systems, in taking a traditionally gendered approach to knowledge which reflects the style of mainstream epistemology, incorporate a view of the world which tacitly reflects a norm of masculinity, both in terms of the knower and the known. This leaves out other types of knowing subject and knowledge, particularly that which relates to women's ways of knowing." [@adamArtificialKnowingGender1998]
+
+[XXX]
 
 <!-- ### Why TechnoCraft Now -->
 
@@ -172,7 +196,7 @@ Care means critical.
 
 All writing is a hybrid practice of creation (poetics), critique (politics), and code (platforms and programmatic systems). All code is writing and all writing is code. 
 
->"any theory that cannot be shared in everyday conversation cannot be used to educate the public."
+>"any theory that cannot be shared in everyday conversation cannot be used to educate the public." [@hooksTeachingTransgressEducation1994]
 
 >"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression.
 >>–bell hooks [-@hooksTeachingTransgressEducation1994]
@@ -186,7 +210,7 @@ It requires we find common language, common value/appreciation/respect that come
 
 **The technical means how (coding skills) and the critical/analytical means how (analytical, political, aesthetic, ethical contexts) and the material means how (data, energy, hardware) have to combine / are inseparable.**
 
-### Approachable, accessible // Care means access
+### Approachable, accessible // Care means access [xxxexistsbelow?]
 
 >carceral "system-impacted people"
 
@@ -240,7 +264,7 @@ Marino, code is collaborative:
 
 # What Is Trans\*formative TechnoCraft?
 
-These are instructions for myself(ves), past-present-future, gathering tactics from many traditions, making connections, strategies and wayfinding for the kinds of worlds and systems I want to be part of. From intersectional transfeminist infrastructures, self-hosting servers and [XXX]...
+These are instructions for myself(ves), past-present-future, gathering tactics from many traditions, making connections, strategies and wayfinding for the kinds of worlds and systems I want to be part of. From intersectional transfeminist infrastructures, self-hosting servers and [XXX]... to [xxx].
 
 ## Trans\*formative
 
@@ -471,27 +495,25 @@ The problem of pseudorandomness, computation's inability to produce truly random
 
 ## TechnoCraft
 
-Technosolutionist... Technoutopian... Technodystopian... Technocrat... Like 'cyber' before it, the prefix 'techno' teems with possibilities and portends varieties of doom. Bubbling experiments and launching spacecrafts, self-driving vehicles and buzzwords like 'big data' dominate the imaginary while signaling in-groups and out-groups, zones of mystification and fear as well as economic opportunism and exploitation.
+Technosolutionist... Techno-optimist... Technodystopian... Technocrat... Like 'cyber' before it, the prefix 'techno' teems with possibilities and portends varieties of doom. Bubbling experiments and launching spacecrafts, self-driving vehicles and buzzwords like 'big data' dominate the imaginary while signaling in-groups and out-groups, zones of mystification and fear, as well as economic opportunism and exploitation.
 
-Yet, tech begins with techne, begins with texture and fiber, begins with the meshy matrix that sustains us [@plantZerosOnes1998]. Tech means any tool. It means not only clay tablets but language becoming discrete — the change from a chorus of cycling breath to individuated letters written on divided pages with simple handtools [@carsonErosBittersweetEssay2014]. It includes the histories of technology erased and rewritten by narratives of conquest and power (Crawford and Joler 2023 "Calculating Empires"). It includes unseen technologies of passing, of obfuscation, of survival [@browneDarkMattersSurveillance2015; @feministkilljoysQueerUse2018a; @gabouryBecomingNULLQueer2018; @bruntonObfuscationUserGuide2015; @keelingQueerOS2014]. Tech includes craft and crafters. Tech includes us. It comes from us.
+Yet, tech begins with techne, begins with texture and fiber, begins with the meshy matrix that sustains us [@plantZerosOnes1998]. Tech means any tool. It means not only clay tablets but the tools of language becoming discrete objects: the change from a chorus of cycling breath to individuated letters written on divided pages with simple handtools [@carsonErosBittersweetEssay2014]. It includes the histories of technology erased and rewritten by narratives of conquest and power [@crawfordCalculatingEmpires2023]. It includes unseen technologies of passing, of obfuscation, of survival [@browneDarkMattersSurveillance2015; @feministkilljoysQueerUse2018a; @gabouryBecomingNULLQueer2018; @bruntonObfuscationUserGuide2015; @keelingQueerOS2014]. Tech includes craft and crafters. Tech includes us. It comes from us.
 
-Reframing tech as craft moves the focus of technologies like programming and machine learning back onto their practitioners. Physicist and activist Ursula M. Franklin compares "holistic technologies" like artisan crafts which center on the practitioner, to "prescriptive technologes," which are focused on production, scale, effectiveness and management. She says that under the effects of prescriptive technologies, "we live in a culture of compliance, that we are ever more conditioned to accept orthodoxy as normal, and to accept that there is only one way of doing 'it.'" Meanwhile holistic technologies require muscle memory and instinct; they allow the practitioner to "draw on their own experience, each time applying it to a unique situation" [@franklinRealWorldTechnology2004]. 
+Here, I invoke the phrase "TechnoCraft" to bring technology off its awe-inducing pedestal and put it back into our hands — recalling the human agency, access, and scale which emerging technologies [always-already] require. Reframing tech as craft moves the focus of technologies like programming and machine learning back onto their practitioners and their material relationships. Physicist and activist Ursula M. Franklin compares "holistic technologies" like artisan crafts which center on the practitioner, to "prescriptive technologes," which are focused on production, scale, effectiveness and management. She says that under the effects of prescriptive technologies, "we live in a culture of compliance, that we are ever more conditioned to accept orthodoxy as normal, and to accept that there is only one way of doing 'it.'" Meanwhile holistic technologies require muscle memory and instinct; they allow the practitioner to "draw on their own experience, each time applying it to a unique situation" [@franklinRealWorldTechnology2004]. Pairing 'tech' with 'craft' returns focus to the human-scale aspects of the technological imaginary, from the labor required to produce and maintain technological objects, to the impacts and harms it produces as part of human-driven sociotechnical systems, to the knowledge adapted (and co-opted) from unacknowledged domains and communities of practice.
 
-Pairing 'tech' with 'craft' returns focus to the human-scale aspects of the technological imaginary, from the labor required to produce and maintain technological objects, to the impacts and harms it produces as part of human-driven sociotechnical systems, to the knowledge adapted (and co-opted) from unacknowledged domains and communities of practice.
+TechnoCraft remembers that technology are procedures and protocols, as well as tools and materials. Franklin frames technology as a practice: It is the way things are done, not only the tools with which they are done — a system that includes "far more than its individual material components. Technology involves organization, procedures, symbols, new words, equations, and, most of all, a mindset." This shows technology's deep link with culture [@franklinRealWorldTechnology2004]. While the English language separates object from practice from person, in German, `die Technik` means both 'the technology' (object) and also 'the technique', 'the method', or 'the procedure'. In Spanish, `la técnica` means all of these, as well as the 'the engineer' or 'the repairwoman'. 
 
-TechnoCraft remembers that technology are procedures and protocols, as well as tools and materials. Franklin frames technology as a practice: It is the way things are done, not only the tools with which they are done — a system that includes "far more than its individual material components. Technology involves organization, procedures, symbols, new words, equations, and, most of all, a mindset" [@franklinRealWorldTechnology2004]. Franklin argues this shows technology's deep link with culture. While the English language separates object from practice from person, in German, `die Technik` means both 'the technology' (object) and also 'the technique', 'the method', or 'the procedure'. In Spanish, `la técnica` means all these as well as the 'the engineer' or 'the repairwoman'. 
-
-TechnoCraft remembers technology is made through practices, by people and for people, meant to care for people, and we can learn from people in its making and implementation. Holding these [components/ correspondences] in relation lets us examine and address the issues of technologies more comprehensively and holistically: 
+TechnoCraft remembers technology is made through practices, by people and for people, meant to care for people, and we can learn from people in its making and implementation. Holding these [components/correspondences] in relation lets us examine and address the issues of technologies more comprehensively and holistically: 
 
 >"It is in these mechanisms, logics, techniques, and practices, not merely in the machines, that we must locate our current predicament. And it is in these that we shall ﬁnd surprising connections that locate differently." [@dhaliwalAddressabilityWhatEven2022]
 
-Technocraft remembers how to operate by slow consideration in and for community, n contrast to ego-driven technocratic prostheletizing that believes technology can fix technology with a "move fast and break things" approach.
+Technocraft remembers how to operate by slow consideration in and for community, in contrast to ego-driven technocratic prostheletizing that believes technology can fix technology by moving faster and breaking more.
 
 TechnoCraft places the seemingly contrasting terms 'tech' and 'craft' together to show how they are not contradictory, after all. TechnoCraft can include analog or hybrid, systems-oriented, human- and more-than-human, process-oriented [and not damage-centered][CITE,evetuck]. Technology and Craft are two complementary approaches, two aspects of the same [work] that build on one another. 
 
 ### What craft allows
 
-Many have paired code with craft, or talked about the similarities of knitting or weaving with programming. Yes, TechnoCraft celebrates these similarities and wants to decontextualize the linear histories of computer programming, but also wants to push this argument further. It argues that we not only bring craft's materials into coding spaces, but also the ethos and ethics of crafting. It's not enough to weave electronics into our fiber arts as a way to build technical literacy, we need to weave intersectional methods and mindsets into technical arts — and craft carries many of these. 
+Many have paired code with craft, or talked about the similarities of knitting or weaving with programming. Yes, TechnoCraft celebrates these similarities and wants to decontextualize the linear histories of computer programming, but also wants to push this argument further. It argues that not only should we bring craft's materials into coding spaces, but also we should bring the ethos and ethics of crafting. It's not enough to weave electronics into our fiber arts as a way to build technical literacy, we need to weave intersectional methods and mindsets into technical arts. Craft carries many of these methods and mindsets in its material culture.
 
 Focusing on craft means noticing the material, handworked, skilled, tinkered, iterative, process-oriented, embodied practices of knowledge and production that technologies emerge from. It means noticing how such practices can intervene in existing technologies and reshape emerging ones. It acknowledges human choices; built skills, tacit knowledge, and material needs; networks and communities of practice. 
 
@@ -499,34 +521,40 @@ Focusing on craft means noticing the material, handworked, skilled, tinkered, it
 
 While this text aruges for craft as a materialization of intersectional theories, ethics, and tactics, which can help apply them to emerging technologies — craft is not the only way to do intersectional practice, and not all craft is intersectional practice. 
 
-Craft includes many forms, from fiber arts to woodworking to programming to writing — but craft here refers to practice and process, rather than study of a skill exclusively for the kinds of improvement acceptable to forms of status quo and power. Performance artist and poet Fargo Nissim Tbakhi says, literary craft "is a counterrevolutionary machine." Although it often refines work toward the polite and proper as cover for being political, craft need not do so. Tbakhi describes:
+Craft includes many forms, from fiber arts to woodworking to programming to writing — but craft here refers to practice, process, making, and learning, rather than mastery over a skill in order to gain status or maintain status quo. In contrast to process-oriented crafting, performance artist and poet Fargo Nissim Tbakhi says that literary craft "is a counterrevolutionary machine." High-art notions of craft use "aesthetics" to refine work toward the polite and proper, in order to rob them of political power. Tbakhi explains:
 
 >"The Craft which is taught in Western institutions, taken up and reproduced by Western publishers, literary institutions, and awards bodies, is a set of regulatory ideas which curtail forms of speech that might enact real danger to the constellation of economic and social values which are, as I write this, facilitating genocide in Palestine and elsewhere across the globe. [...] Craft is the process by which our own real liberatory tools are dulled, confiscated, and replaced. We believe our words sharper than they turn out to be. [...] what Craft does to our writing: pressures and pressures until what matters, what we need to say, gets pushed to the margins or disappeared entirely." [@magazineNotesCraftWriting2023]
 
-Tbakhi speaks of the craft of institutional [measuring, monitoring, regarding, and power]. This kind of craft is the craft of [euphemism, valuelessness, and nihilism]. It is the milquetoast technical fix to machine learning's 'fairness' problems that replaces offending text, like 'dyke' even when it need not be removed, because it cannot tell the difference between a slur and a community. It replaces offending text with boilerplate diversity speak that comes out both toothless and simultaneously 'too woke'. It replaces offending text but offers nothing intsead, and the chasm that remains is all some of us get to know of ourselves from generative AI systems. I agree with Tbakhi about this kind of craft, when he says, "Craft is what keeps us polite while the boot is on our neck or on somebody else's. And we cannot afford that, not now and not going forward." 
+Tbakhi speaks of craft that responds to (and enacts) institutional measuring, monitoring, regard, and power. This is the craft of euphemism and nihilism. Such craft is the milquetoast technical fix to machine learning's 'fairness' problems that replaces offending text like 'dyke', because it cannot tell the difference between a slur and a community. It replaces offending text with boilerplate diversity speak that comes out both toothless and simultaneously 'too woke'. It replaces offending text but offers nothing intsead, and the chasm that remains is all some of us get to know of ourselves from generative AI systems. I agree with Tbakhi about this kind of craft, when he says, 
 
-But he agrees that craft does not have to be a politeness bandaid. "Anticolonial writers in the U.S. and across the globe have long modeled alternative crafts which reject these priorities, and continue to do so in this present moment. Yet Craft still haunts our writing" [@magazineNotesCraftWriting2023] Despite this haunting, other engagements with craft — craft as [XXX] — can also help us to resist, to extract the institutional and infrastructural claims to our voices. 
+>"Craft is what keeps us polite while the boot is on our neck or on somebody else's. And we cannot afford that, not now and not going forward." [@magazineNotesCraftWriting2023]
 
-Reclaiming craft does not mean [becoming/focusing] so small that we cannot be effective nor so precious [about aesthetics] that we lose the cause. It does not mean a return to luddite nostalgia: Everything was *not* simpler in the past, except for the few people who held more power over others (same as now). Reclaiming craft from its feminized, domesticized, racialized pejoratives and applying [it/xxxcraft] as a lens for technology practices means embracing its scrappy imperfections and [revolutionary] potentials. [xxxmorehere?]
+But craft need not stay polite or straighten its rough edges. "Anticolonial writers in the U.S. and across the globe have long modeled alternative crafts which reject these priorities, and continue to do so in this present moment. Yet Craft still haunts our writing" [@magazineNotesCraftWriting2023] Despite this haunting, other engagements with craft — craft as community, craft as lineage, craft as experimentation, craft as resistance — can also help us to reject the institutional and infrastructural claims to our voices. 
+
+Reclaiming craft does not mean [becoming/focusing] so small that we cannot be effective nor so precious [about aesthetics] that we lose the cause. It does not mean a return to luddite nostalgia: Everything was *not* simpler in the past, except for the few people who held more power over others (same as now). Reclaiming craft from its feminized, domesticized, racialized pejoratives and applying craft as a lens for technology practices means embracing its scrappy imperfections and [revolutionary] potentials. [xxxmorehere?]
 
 #### Scale
 
-Craft scales much differently than a machine learning system, and these frictions can be used for aesthetic investigation and activist resistence. Using hand-scale labor is a critical tactic available to tackle the seemingly insurmountable scale of the increasingly giant datasets, obscured models, and complex infrastructures. For example, Everest Pipkin viewed every single video in a large dataset over the course of months and turned this labor into a series of artistic investigations [CITE]. And at the Knowing Machines research project (I discuss my work with them more in the "Formative" section), interdisciplinary researchers from journalists to programmers to lawyers work together to create tools to explore changes in foundational image datasets like ImageNet [CITE]. These practices apply human-scale attention to machine-scale systems in order to reveal their obscured innerworkings. Just because a system is larger than life does not make it impossible to apply human techniques to investigate it. While it makes it more tedious, this human-scale labor is still incredibly important for understanding and confronting algorithmic harms.
+Craft scales much differently than a machine learning system, and these frictions can be used for aesthetic investigation and activist resistence. Detailed hand labor is a critical tactic available to tackle the seemingly insurmountable scale of the increasingly giant datasets, obscured models, and complex infrastructures. For example, Everest Pipkin viewed every single video in a large dataset over the course of months and turned this labor into a series of artistic investigations [@pipkinLaceworkWatchingEntire2020]. At the Knowing Machines research project (I discuss my work with them more in the "Formative" section), interdisciplinary researchers from journalists to programmers to lawyers work together to create tools to explore changes in foundational image datasets like ImageNet [@crawfordWaysSeeDataset]. These practices apply human-scale attention to machine-scale systems in order to reveal their obscured innerworkings. Just because a system is larger than life does not make it impossible to apply human techniques to investigate it. While the gargantuan computational scale makes it more tedious, this human-scale labor is still an incredibly important response for understanding and confronting algorithmic harms.
 
-Texture, for Eve Kosofsky Sedgwick, is a way of talking about the space between dimensions or scales, or the transition between them. All kinds of warp and weft, describing many directions of touch and contact. For myself, I have found this metaphoric comparison useful:
+For Eve Kosofsky Sedgwick, texture is a way of talking about the space between dimensions or scales, or the transition between them. I have found her metaphoric comparison useful and have extended it to machine learning:
 * From point to line to cube to cube in space-time to multidimensional universes of vibrating strings. 
-* From scalar to vector to matrix to tensors in many dimensions. 
 * From ball to string to loop to fabric to garment. 
+* From scalar to vector to matrix to tensors in many dimensions. 
+
+Sedgwick describes the many directions of touch and contact across a surface and between dimensions, warp and weft of all kinds. She builds on this a theory of relationality, which understands the reciprocity of contact, the reciprocity of creating and being, and the fractal nature of scale: 
 
 >"the sense of touch makes nonsense out of any dualistic understanding of agency and passivity; to touch is always already to reach out, to fondle, to heft, to tap or enfold, and always also to understand other people or natural forces as having effectually done so before oneself, if only in the making of the textured object." [@sedgwickWeatherProust2012]
 
-Here Sedgwick connects the experience of making craftwork with experiencing the made craft, with touching and being touched by, and with multidimensional sense and scale. I also see this as a way of understanding machine learning modeling through new, non-hierarchical metaphors of technocraft. What is the scale and dimensionality of machine learning? Does it "dramatize its dimensional betweenness," as Sedgwick describes the way a folded dyed fabric or a paper snowflake, once unfold, retains the memory of past shapes? [@sedgwickWeatherProust2012]. Similarly, Ingold describes how once knotted ropes retain their bends: "But the knot remembers everything, and has everything to forget" [@ingoldLifeLines2015][, and Laura Marks says "electrons remember" [@marksTouchSensuousTheory2002]]. These material memories, as marks of their current and past states simultaneously, could be tangible metaphors for understanding machine learning, or even quantum computing (folding was a fascination of quantum physicist David Bohm). They show that in any working with material, the material works back.
+Here Sedgwick connects the experience of making craftwork with experiencing the made craft, with touching and being touched by, and with multidimensional sense and scale. I also see this as a way of understanding machine learning modeling through new, non-hierarchical metaphors of technocraft. What is the scale and dimensionality of machine learning? Does it "dramatize its dimensional betweenness," as Sedgwick describes the way a folded dyed fabric or a paper snowflake, once unfold, retains the memory of past shapes? [@sedgwickWeatherProust2012]. Or Ingold similarly describes the way once knotted ropes retain their bends: "But the knot remembers everything, and has everything to forget" [@ingoldLifeLines2015][, and Laura Marks says "electrons remember" [@marksTouchSensuousTheory2002]]? These material memories, as marks of their current and past states simultaneously, could be tangible metaphors for understanding machine learning, or even quantum computing (folding was a fascination of quantum physicist David Bohm). They show that, in any working with material, the material works back.
 
-Thinking through technology with a TechnoCraft lens opens more points of reference for addressing complexity and complex systems that prexist the emergent techonlogies we are encountering now. 
-
-<!-- In the fractal nature of these shapes: "a structure that's very complex, repetitive, or disorienting in the lower-dimensional, explicate order could also emerge as very simple in the higher-dimension implicate or vice versa." [@sedgwickWeatherProust2012].  -->
+Thinking through technology with a TechnoCraft lens opens more points of reference for addressing complexity and complex systems that prexist the emergent techonlogies we are encountering now. It reminds us that we can slip between scales to to find apt materials and metaphors for grappling with the complexity of systems more approachably and sustainably. 
 
 //[Scaling down also helps us grapple with the complexity of systems, sustainability, approachability, a toolbox we can actually utilize]
+
+>"human care can't scale up. Care happens in small-scale moments of human interaction; scale is achieved by tireless and impersonal machinery" [@seaverCareScaleDecorrelative2021a]
+
+>"As hand knitting inclined to the margins as a [large-scale] viable manufacturing process, it was its long history of connecting people with their environment that came to the fore—from material source to the makers' largely unwritten generational knowledge of patterns and techniques—in clearly locating the craft of knitting against distinct communities and indigenous practices."
  
 #### Sustain(ability)
 
@@ -565,11 +593,12 @@ Along with the traveling Raspberry Pi server "rosa" that acted as their working 
 
 For infrastructures of care, communities themselves are the essential networks; the servers, databases, workshops, services, both digital and analog are all tools toward building and means of expressing those community networks. 
 
+>"The internet can bring us very close, yes, but it is even better to meet *cuerpa*-to-*cuerpa*. The presence of the others gives us the feeling of ecstacy, makes us float. Meeting gives us power and energy, facilitates processes, and intensifies networks of trust and cooperation. Sometimes we converge in our disputed territories, the street the networks, and the servers, and other times in places where we can create spaces of security, confidence, and relaxation." [Spideralex in @sollfrankBeautifulWarriorsTechnofeminist2018]
+
+
 #### Access & boundaries
 
 Craft requires taking care and caretaking, as does technology. 
-
-Data structured through kinship systems,
 
 Analog infrastructures 
 
@@ -596,7 +625,13 @@ Zine publisher, activist, and artist Be Oakley says that the zine form allows mo
 
 <!-- participation is not a design fix [@sloaneParticipationNotDesign2022] -->
 
-### Queer feminist infrastructures and handmade media praxis 
+Queer feminist infrastructures and handmade media praxis 
+
+Data structured through kinship systems, 
+
+Providing more nuanced access also allows for setting boundaries. Take for example the work of Local Contexts, who help Indigenous communities protect their data rights by creating tools to inform researchers of their boundaries. They offer data labels that help researchers understand how data are meant to be used (and not used) according to more granular criteria. Rather than using a simple license agreement, which does not address their needs, Indigenous communities can reinforce their rights by applying "Traditional Knowledge" and "Biocultural" labels to data and collections, which provide context, provenance, metadata, protocols, and permissions for use. These include designating specific community members or times of year for access, or designating materials as sacred to the community or open for collaboration. Local Contexts also provides notices for researchers and institutions to contextualize their collections with labels like "Authorization," "Belonging," "Caring," "Gender Aware," "Leave Undisturbed," and others [@LocalContextsGrounding]. 
+
+
 
 #### Legacies & contexts
 
@@ -630,7 +665,13 @@ These are not metaphors only. They are material, infrastructural systems that un
 
 >"[Garments] process and store data. Because there is no difference between the process of weaving and the woven design, cloths persist as records of the processes which fed into their production: how many women worked on them, the techniques they used, the skills they employed. The visible pattern is integral to the process which produced it; the program and the pattern are continuous." [@plantZerosOnes1998]
 
+>"The protocols of knitting are thus situated *in-between* the looped thread, in the loops themselves. This interconnection protocol of the thread could be seen as a catalyst, as it produces a bigger whole from the single thread. [...] One could say that the protocol of the looped thread 'echoes' throughout the final knitted piece as the catalyst produces the conditions for emergent behavior (the inter-loops of the thread)." [@vonbuschZenAbstractMachine2013]
+
 Echoes of this concept can be seen in current research methods like Critical Code Studies, an approach to reading code that situates it within its material, cultural contexts rather than viewing it as a neutral static object [@marinoCriticalCodeStudies2020a]. Through such material reckonings, we can not only use different lenses to reflect on existing technologies but also gain the means to reimagine them for different purposes. As queer craft art historian Daniel Fountain says, "craft, or more broadly the notion of crafting, is an essential strategy for living and loving 'otherwise'" [@fountainSurvivalKnittestCraft2021]. What does this 'otherwise' look like and how does it come about? 
+
+[XXXCITE Melt members] Ren Loren Britton and Helen V. Pritchard call for "queer playfulness and promiscuous metaphorical practice" that can [expand beyond passive strategies for remaking technoscience, reusing its terms to imagine new forms. Their speculative practice turns CS (often an acronym for computer science) into a proliferating list of possibilities: 
+
+>""[to create] speculative fictions for CS––Careful Slugs stories that reconfigure relations and introduce scandals and chances into Computer Science, Design, and STS processes that might lead to other sorts of project plans, research questions, and technical inquiries." [@brittonCarefulSlugsCaring2022a]
 
 #### Refusal & material resistance
 
@@ -644,7 +685,6 @@ Sara Ahmed says, "I think of an institution as an old garment: it has acquired t
 
 >"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." (TechNo)
 
-### TechNO 
 
 >"Make technology ridiculous."
 >>–Nam June Paik, *We Are in Open Circuits*
@@ -688,6 +728,9 @@ Tactical media are works that resist, revise, reverse their materials to engage 
 
 [sadiebenningitwasn'tlove]
 
+begets innovation 
+>"As with chess, knitting starts with the same point of departure, and all games and knits start with the same set-up. But turing the process, even within the limits of rigit protocols, the moves diverge very rapidly [...]. new tactics in chess constantly evolve and every new master beats the previous, not because of superior intelligence, but through the development of new techniques and tactics, actualized within these vast possibilities. Innovation in chess does not happen through conservation, but through constant confrontation and risk-taking." [@vonbuschZenAbstractMachine2013]
+
 Extreme use: Such work can look to what is already broken in existing systems and plunge into those gulfs. Focusing on the errors, glitches, [XXX]
 In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *with* perceptions of [women and others as] outliers and errors, in order to work *against* the systems that frame them as such: 
 >>"the idea of our contemporary social-political-economic system as an already-broken machine full of the incompatibly queer, raced, classed, and sexed broken-down machines is politically exciting for feminism."[@sharmaManifestoBrokenMachine2020]
@@ -721,7 +764,7 @@ Not accepting models as the world we want to live in. This is a prefigurative ac
 
 
 
-Open source projects are often open in name only. Zhong argues that not only do they [large corporate entities proporting the term] often fail to offer substantive contributions to open-source communities, they misuse the term "open source" to get free labor. 
+Open source projects are often open in name only. Elea Zhong argues that not only do they [large corporate entities proporting the term] often fail to offer substantive contributions to open-source communities, they misuse the term "open source" to get free labor. 
 
 >"In the same way big oil brands itself with greenwashing for illusory environmental progressiveness, big tech extol their open source efforts to open-wash their capitalist, monopolistic, and destructive reality. Technological development is in dire need for a policy-first, documentation-first, ideology-first methodology, and AI must transform its focus on creating systems which understands and addresses the complexity of its environment, critically assesses its context, and produces meaning-rich results." (Elea Zhong 2023)
 
@@ -761,16 +804,6 @@ Richard Sennett: "we might think that a good craftsman, be she a cook or a progr
 * kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
 * deep interdisciplinarity
 
-
-
-
-### Re-mixed material metaphors
-
->"Careful slugs, crying sabotage"
->""CS (Careful Slugs) can be a form of failure less closely tied to action."
->""[to create] speculative fictions for CS––Careful Slugs stories that reconfigure relations and introduce scandals and chances into Computer Science, Design, and STS processes that might lead to other sorts of project plans, research questions, and technical inquiries." 
->"the use of metaphors in breaching that break through gaps in walls, barriers, and surfaces of the structurally violent world that we are in. Rather than only noticing the practices of technoscience and remaking it for better worlds, we call for queer playfulness and promiscuous metaphorical practice." 
->>—Ren Loren Britton and Helen V. Pritchard, 2022 @brittonCarefulSlugsCaring2022a
 
 
 
