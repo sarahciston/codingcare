@@ -3,7 +3,7 @@ layout: post
 title: coding care pocket guide
 permalink: codingcare
 nav_order: 3
-date: 20.12.2023
+date: 25.12.2023
 tags: [tips, guide, handy, coding, zine, computers, programming]
 ---
 
