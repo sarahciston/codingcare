@@ -2,7 +2,7 @@
 # layout: post
 title: codes for (un)living
 nav_order: 12
-date: 22.11.2023
+date: 22.12.2023
 ---
 
 # Codes for (Un)Living

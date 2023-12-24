@@ -2,7 +2,7 @@
 layout: post
 title: codes for (re)forming
 nav_order: 11
-date: 10.12.2023
+date: 23.12.2023
 ---
 
 # Codes for (Re)Forming
@@ -28,6 +28,7 @@ the computer is a classifying machine, if code is built on binary and the zeros 
 queer use as vandalism & broken machines 
 >“to transform a system we have to stop a system from working” (Ahmed)
 >“there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use.” (Ahmed)
+>"If not to be subjected to the will of the colonizer is to queer use or even to become queer through misuse (perversion as self-revelation), to queer use is to live in proximity to violence. To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about."
 
 **a classification/categorization system that instead points on a spectrum rather than putting a boundary around the category, a multi-dimensional spectrum?**
 <!-- [oblique strategies responses] -->
