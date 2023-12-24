@@ -1436,7 +1436,7 @@ Garrett Flynn: So it was just a really weird experience overall. But I mean so g
 
 20
 00:02:20.080 --> 00:02:34.740
-Garrett Flynn: other than that, didn't really pan out how any of us expected it to but at the end of the day it didn't really stay, destabilize me too much. I had been working since February with a group called Narrow Data without borders.
+Garrett Flynn: other than that, didn't really pan out how any of us expected it to but at the end of the day it didn't really stay, destabilize me too much. I had been working since February with a group called Neuro Data without Borders.
 
 21
 00:02:34.870 --> 00:02:41.929
@@ -1444,7 +1444,7 @@ Garrett Flynn: So they're building or maintaining a data standard for neurophysi
 
 22
 00:02:41.940 --> 00:02:56.910
-Garrett Flynn: like electrodes stuck in their brains. You're recording all of that data. You have to store it somewhere a lot of times that's in like a custom form out. So like just matlamp files, or some random Cse or things like that. A lot of acquisition systems have their own
+Garrett Flynn: like electrodes stuck in their brains. You're recording all of that data. You have to store it somewhere a lot of times that's in like a custom form out. So like just matlab files, or some random Cse or things like that. A lot of acquisition systems have their own
 
 23
 00:02:57.080 --> 00:03:10.719
@@ -1476,35 +1476,9 @@ Sarah Ciston: interesting.
 
 30
 00:04:15.970 --> 00:04:40.269
-Sarah Ciston: Yeah, it's particularly interesting to hear about the sort of like hitting up against the the ethical concerns in a tech community space like, you know, I'm sure, like Marantina is very conscious of all of those those concerns, and how you're, you know, working with vulnerable communities. And then you come to a project. And then you're suddenly like
+Sarah Ciston: Yeah, it's particularly interesting to hear about the sort of like hitting up against the the ethical concerns in a tech community space like, you know, I'm sure, like Marantina is very conscious of all of those those concerns, and how you're, you know, working with vulnerable communities. And then you come to a project. And then you're suddenly faced with like ethical conundrums. And how do you? How do you actually deal with that when when the rubber hits the road, and you have a concern. So it's like interesting to me. Because, you know, I'm writing a lot about like, well, how do we make changes in these cultures. And it's all well and good to for us to be talking about like. Well, here's how we'd like it to be. But like, how do we put that into practice? And what does that look like and feel like when we get into you know, designing with communities? Not just for communities. 
 
-31
-00:04:40.300 --> 00:04:41.600
-Sarah Ciston: faced with like
-
-32
-00:04:41.690 --> 00:04:45.700
-Sarah Ciston: ethical conundrums. And how do you?
-
-33
-00:04:46.390 --> 00:04:53.130
-Sarah Ciston: How do you actually deal with that when when the rubber hits the road, and you have a concern. So it's like
-
-34
-00:04:54.770 --> 00:05:01.300
-Sarah Ciston: interesting to me. Because, you know, I'm writing a lot about like, well, how do we make changes in these cultures. And
-
-35
-00:05:01.470 --> 00:05:02.420
-and
-
-36
-00:05:02.670 --> 00:05:12.750
-Sarah Ciston: it's all well and good to for us to be talking about like. Well, here's how we'd like it to be. But like, how do we put that into practice? And what does that look like and feel like when we get into.
-
-37
-00:05:12.990 --> 00:05:26.949
-Sarah Ciston: you know, designing with communities? Not just for communities. So yeah, totally, yeah. 1 one thing that's actually interesting that I've noticed is, II guess, working with my old business partner. We had like this weird
+So yeah, totally, yeah. 1 one thing that's actually interesting that I've noticed is, II guess, working with my old business partner. We had like this weird
 
 38
 00:05:27.090 --> 00:05:46.019
@@ -1600,27 +1574,7 @@ Sarah Ciston: maybe you always started out with that compass. And you're kind of
 
 61
 00:09:28.480 --> 00:09:45.169
-Garrett Flynn: yeah. Well, II think, something. I kind of tried to mention this, at least during my original responses, but I think Code Collective gave me some amount of anesthetic sense around like what is good code and not good in the sense of like, clean
-
-62
-00:09:45.230 --> 00:09:47.940
-Garrett Flynn: and like readable, but like good, is in like.
-
-63
-00:09:48.050 --> 00:09:52.150
-Garrett Flynn: effective for a community like, why, a wide range of communities.
-
-64
-00:09:52.260 --> 00:09:53.550
-Garrett Flynn: And so.
-
-65
-00:09:53.800 --> 00:10:02.000
-Garrett Flynn: yeah, I mean, like ever, I can very quickly tell you, if I want to work on a project or not, and it's largely guided by that sense, right? Which I think I otherwise
-
-66
-00:10:02.460 --> 00:10:15.800
-Garrett Flynn: probably wouldn't have developed so much without being part of a like critical community of people that I want to share my projects with, because otherwise it's like, Well, I'm getting paid, you know, like $10,000 for this contract, like, what does it matter? You know?
+Garrett Flynn: yeah. Well, II think, something. I kind of tried to mention this, at least during my original responses, but I think Code Collective gave me some amount of an esthetic sense around like what is good code and not good in the sense of like, clean and like readable, but like good, is in like effective for a community like, why, a wide range of communities. And so yeah, I mean, like ever, I can very quickly tell you, if I want to work on a project or not, and it's largely guided by that sense, right? Which I think I otherwise probably wouldn't have developed so much without being part of a like critical community of people that I want to share my projects with, because otherwise it's like, Well, I'm getting paid, you know, like $10,000 for this contract, like, what does it matter? You know?
 
 67
 00:10:16.110 --> 00:10:28.689
@@ -1668,11 +1622,7 @@ Garrett Flynn: working for a project like that and I couldn't articulate, why.
 
 78
 00:12:22.790 --> 00:12:29.189
-Garrett Flynn: that would be a problem. You know what I mean like, it's less of the specifics of the project itself and more related to the fact that
-
-79
-00:12:29.270 --> 00:12:37.720
-Garrett Flynn: I need to realize it's an active choice, and that there are other options, and that there may be externalities to that decision.
+Garrett Flynn: that would be a problem. You know what I mean like, it's less of the specifics of the project itself and more related to the fact that I need to realize it's an active choice, and that there are other options, and that there may be externalities to that decision.
 
 80
 00:12:37.850 --> 00:12:40.620
@@ -1688,11 +1638,7 @@ Garrett Flynn: cause when you walk in, you don't really know whether what's like
 
 83
 00:13:00.930 --> 00:13:19.099
-Garrett Flynn: right. But as you get involved, you kind of learn the boundaries you learn like new perspectives and a lot of times. II guess this is the sense that I got when I was involved is, people are just excited to share whatever they're involved in, and you get critical feedback back.
-
-84
-00:13:19.160 --> 00:13:21.290
-Garrett Flynn: but it's never. It's always warm.
+Garrett Flynn: right. But as you get involved, you kind of learn the boundaries you learn like new perspectives and a lot of times. II guess this is the sense that I got when I was involved is, **people are just excited to share whatever they're involved in, and you get critical feedback back. but it's never. It's always warm.**
 
 85
 00:13:21.440 --> 00:13:25.300
@@ -1704,7 +1650,7 @@ Garrett Flynn: we would talk about it, but it wouldn't be like immediately like,
 
 87
 00:13:39.860 --> 00:13:50.429
-Garrett Flynn: yeah, like. you can't walk into a community like this and be turned off by warmth. unless you already know that what you're doing is wrong.
+Garrett Flynn: yeah, like. **you can't walk into a community like this and be turned off by warmth. unless you already know that what you're doing is wrong.**
 
 88
 00:13:50.540 --> 00:14:05.509
@@ -1712,7 +1658,7 @@ Garrett Flynn: You know what I mean, and a lot like working with like for me, wo
 
 89
 00:14:05.590 --> 00:14:33.730
-Sarah Ciston: And I gave you answers, and I didn't know whether they were right or wrong, and so I wouldn't know that without actually talking. And and if I did know that it was bad, then I wouldn't want to do it, and then I would probably leave right right. And I mean, that's how we figure out, too, like I don't. I think with my own projects. I don't always know upfront, because who could possibly think of all of the repercussions or all of the factors in a situation that they're starting to explore, right?
+Sarah Ciston: **And I gave you answers, and I didn't know whether they were right or wrong, and so I wouldn't know that without actually talking.** And and if I did know that it was bad, then I wouldn't want to do it, and then I would probably leave right right. And I mean, that's how we figure out, too, like I don't. I think with my own projects. I don't always know upfront, because who could possibly think of all of the repercussions or all of the factors in a situation that they're starting to explore, right?
 
 90
 00:14:33.730 --> 00:14:36.440
@@ -1800,7 +1746,7 @@ Garrett Flynn: I mean.
 
 111
 00:16:56.930 --> 00:17:02.500
-Garrett Flynn: I would say, if it happens at all, it always happens after hours like it's not a billable activity.
+Garrett Flynn: I would say, **if it happens at all, it always happens after hours like it's not a billable activity.**
 
 112
 00:17:02.770 --> 00:17:07.319
@@ -1828,7 +1774,7 @@ Garrett Flynn: and you know I brought up some some ethical concerns, and like re
 
 118
 00:17:49.800 --> 00:18:07.459
-Garrett Flynn: and I think the investment was very low. but I cause I don't know if it was like the the Forum, or what, but like I didn't get a strong like immediate feedback that they were like going to follow up on this and do anything about it in a sense.
+Garrett Flynn: and **I think the investment was very low**. but I cause I don't know if it was like the the Forum, or what, but like I didn't get a strong like immediate feedback that they were like going to follow up on this and do anything about it in a sense.
 
 119
 00:18:07.480 --> 00:18:16.489
@@ -1896,11 +1842,7 @@ Sarah Ciston:  yeah, that's so interesting to that. I'm I'm like, really happy t
 
 135
 00:20:49.370 --> 00:20:56.910
-Sarah Ciston: I don't feel super welcome in or comfortable in the spaces, and I have this weird
-
-136
-00:20:57.470 --> 00:21:11.099
-Sarah Ciston: approach that mixes genres that edit. So I don't really feel like I fit. And so I just wanted a space where we could feel comfortable to do it, whichever way we wanted, like code, any which way.
+Sarah Ciston: I don't feel super welcome in or comfortable in the spaces, and I have this weird approach that mixes genres that edit. So I don't really feel like I fit. And so I just wanted a space where we could feel comfortable to do it, whichever way we wanted, like code, any which way.
 
 137
 00:21:11.390 --> 00:21:17.700
@@ -1944,11 +1886,7 @@ Garrett Flynn: I'm I'm intending to go to see what the kind of general vibes are
 
 147
 00:22:29.260 --> 00:22:55.160
-Garrett Flynn: but I don't anticipate that it'll have the same like high level, like scope that something like code collective does. And I think in general it's very hard to get people out of their, you know, once they graduate out of their professional communities and their like tool communities, it starts to become like in the same way that academia is. It tends to get very siloed very quickly. And and
-
-148
-00:22:55.360 --> 00:23:04.079
-Garrett Flynn: I haven't seen a good community to participate in. That is both specific enough to be useful and general enough to be interesting.
+Garrett Flynn: but I don't anticipate that it'll have the same like high level, like scope that something like code collective does. And I think **in general it's very hard to get people out of their, you know, once they graduate out of their professional communities and their like tool communities, it starts to become like in the same way that academia is. It tends to get very siloed very quickly. And I haven't seen a good community to participate in. That is both specific enough to be useful and general enough to be interesting.**
 
 149
 00:23:05.680 --> 00:23:07.659
@@ -1972,43 +1910,11 @@ Sarah Ciston: if we it was only Javascript, like I'm you know, there's plenty. T
 
 154
 00:23:45.170 --> 00:23:51.599
-Sarah Ciston: somebody who's doing like live instruments like it lets you
+Sarah Ciston: somebody who's doing like live instruments like it lets you jump around and like, teach each other in a different way, too? Totally. Yeah. 
 
 155
 00:23:51.720 --> 00:24:04.309
-Garrett Flynn: jump around and like, teach each other in a different way, too? Totally. Yeah. Well, it's also, I think, at that point about craft, and it's not about the craft of a website or a craft of like
-
-156
-00:24:04.470 --> 00:24:12.490
-Garrett Flynn: Python analytics system. It's about the craft of creating something with code that can span all of these boundaries.
-
-157
-00:24:12.590 --> 00:24:15.919
-Garrett Flynn: And and again, you don't really get
-
-158
-00:24:15.950 --> 00:24:34.009
-Garrett Flynn: a wide conversation about those sorts of things. I mean, I'm even thinking, like, you know, you were saying, there's always gonna be a new Javascript library right? But somebody from Python is like, Well, why are these frameworks so crazy like there's a new one every day. And are they really that much better like those sorts of questions? Don't
-
-159
-00:24:34.020 --> 00:24:45.600
-Garrett Flynn: really get asked unless you're looking outside of Javascript. I mean, people ask it, but they don't take it seriously, because it's just. It's the water you drink in the air you breathe when you're a web developer, right? So
-
-160
-00:24:45.640 --> 00:24:55.189
-Garrett Flynn:  like those sorts of things are interesting or like, you know, somebody's coming from a different language. And they say, like, Does this language have that tool? It would be really cool or like.
-
-161
-00:24:55.240 --> 00:24:58.519
-Garrett Flynn: You know what sort of capabilities you have, and you don't.
-
-162
-00:24:58.720 --> 00:25:04.510
-Garrett Flynn: You both don't reinvent the wheel because another language hasn't, and you can like, sort of pick and choose
-
-163
-00:25:04.860 --> 00:25:12.709
-Garrett Flynn: in a more informed way by by having this sort of like language agnostic discussion about code.
+Garrett Flynn: **Well, it's also, I think, at that point about craft, and it's not about the craft of a website or a craft of like Python analytics system. It's about the craft of creating something with code that can span all of these boundaries. And and again, you don't really get a wide conversation about those sorts of things. I mean, I'm even thinking, like, you know, you were saying, there's always gonna be a new Javascript library right? But somebody from Python is like, Well, why are these frameworks so crazy like there's a new one every day. And are they really that much better like those sorts of questions? Don't really get asked unless you're looking outside of Javascript. I mean, people ask it, but they don't take it seriously, because it's just. It's the water you drink in the air you breathe when you're a web developer, right? So those sorts of things are interesting or like, you know, somebody's coming from a different language. And they say, like, Does this language have that tool? It would be really cool or like. You know what sort of capabilities you have, and you don't You both don't reinvent the wheel because another language hasn't, and you can like, sort of pick and choose in a more informed way by by having this sort of like language agnostic discussion about code.**
 
 164
 00:25:14.030 --> 00:25:18.260
@@ -2028,15 +1934,7 @@ Garrett Flynn: Yeah, what would you? Yeah, I mean. well, II think just giving a 
 
 168
 00:26:17.490 --> 00:26:21.969
-Garrett Flynn: I ended up kind of questioning what I was doing in a neuroscience lab
-
-169
-00:26:22.020 --> 00:26:47.980
-Garrett Flynn: while in code collective. Not necessarily. II it's hard for me to say, as a consequence, because, like it all gets fuzzy in retrospect. But I mean, I was thinking about like, you know, is anybody actually get it was building a like a memory process for people with Alzheimer's and dementia like targeted brain stimulation kind of stuff. And I was like, is anybody gonna use this like, is it actually gonna get into clinics? And if it does, who's going to use it? Is there gonna be pushback? Because it's like
-
-170
-00:26:47.980 --> 00:27:08.869
-Garrett Flynn: literally stimulating the cognitive parts of your brain. There's a lot of ethical and just general, like philosophical questions around that that aren't really answered. And so you know, what can we do about that? Ended up running our organizing like an Ih administrative supplement to a actually ask people who are implanted with these devices what they thought.
+Garrett Flynn: I ended up kind of questioning what I was doing in a neuroscience lab while in code collective. Not necessarily. II it's hard for me to say, as a consequence, because, like it all gets fuzzy in retrospect. But I mean, I was thinking about like, you know, is anybody actually get it was building a like a memory process for people with Alzheimer's and dementia like targeted brain stimulation kind of stuff. And I was like, is anybody gonna use this like, is it actually gonna get into clinics? And if it does, who's going to use it? Is there gonna be pushback? Because it's like literally stimulating the cognitive parts of your brain. There's a lot of ethical and just general, like philosophical questions around that that aren't really answered. And so you know, what can we do about that? Ended up running our organizing like an administrative supplement to a actually ask people who are implanted with these devices what they thought.
 
 171
 00:27:09.060 --> 00:27:21.500
@@ -2060,19 +1958,11 @@ Garrett Flynn: I after that kind of shift away from the sort of technical like h
 
 176
 00:28:14.490 --> 00:28:18.409
-Garrett Flynn: And I ended up mentoring like several
-
-177
-00:28:18.500 --> 00:28:23.400
-Garrett Flynn: kids in high school who are part of this. It's called the Knowledge Society
+Garrett Flynn: And I ended up mentoring like several kids in high school who are part of this. It's called the Knowledge Society
 
 178
 00:28:23.480 --> 00:28:50.589
-Garrett Flynn: group. So it's like a group of really high powered high schoolers who get trained in entrepreneurship and development. And all these things, and they take on like projects, and one of them, like one of the bins that they organize their projects around was bring computer interfaces. So I got, I probably at least talked to like 10 to 15 students over like a year and a half, and like kind of hands on, mentored about 3 or 4.
-
-179
-00:28:50.670 --> 00:28:53.880
-Garrett Flynn: I thought that was really rewarding.
+Garrett Flynn: group. So it's like a group of really high powered high schoolers who get trained in entrepreneurship and development. And all these things, and they take on like projects, and one of them, like one of the bins that they organize their projects around was bring computer interfaces. So I got, I probably at least talked to like 10 to 15 students over like a year and a half, and like kind of hands on, mentored about 3 or 4. I thought that was really rewarding.
 
 180
 00:28:53.950 --> 00:29:05.640
@@ -2096,15 +1986,7 @@ Garrett Flynn: Aye, cool.
 
 185
 00:29:43.720 --> 00:29:56.519
-Garrett Flynn: So yeah, that that was really fun. So II would say II don't think my eyes would have really been turned to these sorts of like educational mentorship activities without having first
-
-186
-00:29:56.870 --> 00:30:03.000
-Garrett Flynn: gotten acquainted with that in code collective or really just like having my eyes open within
-
-187
-00:30:03.070 --> 00:30:13.049
-Garrett Flynn: the Polymathic Academy code collective, that kind of whole mill you at Usc. because I mean my media arts and practice thesis
+Garrett Flynn: So yeah, that that was really fun. So II would say II don't think my eyes would have really been turned to these sorts of like educational mentorship activities without having first gotten acquainted with that in code collective or really just like having my eyes open within the Polymathic Academy code collective, that kind of whole mill you at Usc. because I mean my media arts and practice thesis
 
 188
 00:30:13.240 --> 00:30:22.010
@@ -2140,15 +2022,11 @@ Garrett Flynn: And so I would say, there's kind of 2 levels to that. One is.
 
 196
 00:31:33.740 --> 00:31:52.410
-Garrett Flynn: I wanted to help other people with sort of things that I was familiar with, and give sort of this critical feedback to them in the early stages, so that they would be able to kind of adapt accordingly. That that's been kind of a through line for me is, I mean at first, in code collective. It was the people in John's
+Garrett Flynn: **I wanted to help other people with sort of things that I was familiar with, and give sort of this critical feedback to them in the early stages, so that they would be able to kind of adapt accordingly.** That that's been kind of a through line for me is, I mean at first, in code collective. It was the people in John's
 
 197
 00:31:52.550 --> 00:32:22.329
-Garrett Flynn: class where they would come in and be like, I'd have no idea what processing is. I'm like, here you go. And then. That's that's come all the way to like mentoring these students and saying, You know what? You probably shouldn't take this approach because it's too costly, or it like just doesn't make development sense. You should go this way and kind of like putting people on rails in some cases to kind of handle that the use case they want, and then the other side is, in addition to wanting to help people wanting to like
-
-198
-00:32:22.710 --> 00:32:31.890
-Garrett Flynn: go people cause II would say that I tend not to hold off showing or sharing until like the very end.
+Garrett Flynn: class where they would come in and be like, I'd have no idea what processing is. I'm like, here you go. And then. That's that's come all the way to like mentoring these students and saying, You know what? You probably shouldn't take this approach because it's too costly, or it like just doesn't make development sense. You should go this way and kind of like putting people on rails in some cases to kind of handle that the use case they want, and then the other side is, in addition to wanting to help people wanting to like go people cause II would say that I tend not to hold off showing or sharing until like the very end.
 
 199
 00:32:31.940 --> 00:32:42.759
@@ -2156,7 +2034,7 @@ Garrett Flynn: And that was a really hard part of map for me was like showing an
 
 200
 00:32:42.850 --> 00:32:59.319
-Garrett Flynn: was like peaked around like Covid map and code collective, and has kind of gone back down because they I just don't have that community anymore. But I think that that was like a really rewarding part of being in the community. It was just like
+Garrett Flynn: was like peaked around like Covid map and code collective, and has kind of gone back down because they I just don't have that community anymore. But I think that **that was like a really rewarding part of being in the community**. It was just like
 
 201
 00:33:00.700 --> 00:33:08.649
@@ -2248,11 +2126,11 @@ But like they were also already doing pretty creative. They they were already in
 
 223
 00:36:30.270 --> 00:36:54.030
-Garrett Flynn: like straight up, hung out with somebody who was like, I have the analytical part. I just don't have the creative part. I only been working with people who had the creative part but needed the technical skills like we had Robbie come in who was like, I've never touched any code before. But I wanna code. And I was like, Oh, great! But I never met anybody who had the opposite. And I was like, this is so. That was like
+Garrett Flynn: like straight up, hung out with somebody who was like, I have the analytical part. I just don't have the creative part. I only been working with people who had the creative part but needed the technical skills like we had Robbie come in who was like, I've never touched any code before. **But I wanna code. And I was like, Oh, great! But I never met anybody who had the opposite. And I was like, this is so. That was like**
 
 224
 00:36:54.790 --> 00:37:07.689
-Sarah Ciston: the moment for me that, like code, collective really clicked in this extra way where I thought. you know, I thought I was helping like one audience. which was great. But then I realized, there's actually
+Sarah Ciston: the moment for me that, like code, collective really cli**cked in this extra way where I thought. you know, I thought I was helping like one audience. which was great. But then I realized, there's actually**
 
 225
 00:37:07.730 --> 00:37:11.750
@@ -2288,23 +2166,7 @@ Garrett Flynn:  and II guess that's kind of led. It's it's a big driver, for whe
 
 233
 00:37:45.010 --> 00:37:52.949
-Garrett Flynn: now, in the sense that I feel very comfortable with that, like I whenever I come across really anybody learning the program.
-
-234
-00:37:52.990 --> 00:38:15.370
-Garrett Flynn: even if they're had like Cs heavy, or want to go see us heavy. I go make make some art stuff like, just go like make some cool art stuff cause like the graphics is like the graphics aspect was really compelling, more so than than like learning straight python. Like I really really loved working with, because it gave me this like
-
-235
-00:38:15.480 --> 00:38:17.260
-Garrett Flynn: familiarity with
-
-236
-00:38:17.270 --> 00:38:33.599
-Garrett Flynn: like a little bit of design. At least II was working with. I didn't even know that it was with Javascript at first. Took off. You learned one day, and then we're just like I've programmed this entire pro
-
-237
-00:38:33.610 --> 00:38:56.980
-Garrett Flynn: platform for doing presentations. And here we are. Yeah, yeah. But but again, I think even after that, I didn't. Really, it didn't click to me that was art or like that it like like I didn't know where it sat. And I was like, everybody else, is doing these like really cool, like things like, I'm just like trying to push like a square peg into a round hole. I don't get it, you know.
+Garrett Flynn: now, in the sense that I feel very comfortable with that, like I **whenever I come across really anybody learning the program even if they're had like Cs heavy, or want to go see us heavy. I go make make some art stuff like, just go like make some cool art stuff cause like the graphics is like the graphics aspect was really compelling, more so than than like learning straight python. Like I really really loved working with, because it gave me this like familiarity with like a little bit of design. At least II was working with. I didn't even know that it was with Javascript at first. but again, I think even after that, I didn't. Really, it didn't click to me that was art or like that it like like I didn't know where it sat. And I was like, everybody else, is doing these like really cool, like things like, I'm just like trying to push like a square peg into a round hole. I don't get it, you know.**
 
 238
 00:38:57.100 --> 00:39:05.930
@@ -2320,19 +2182,7 @@ Sarah Ciston: Yeah, that's great that this totally resonates with what I've been
 
 241
 00:39:30.060 --> 00:39:33.030
-Sarah Ciston: it's interesting that you felt like you didn't quite get
-
-242
-00:39:34.180 --> 00:39:41.830
-Sarah Ciston: it for a while that, like you were already making art. Because I think for many people coming to code from a
-
-243
-00:39:42.130 --> 00:39:52.850
-Sarah Ciston: a creative space, they often feeling like they're not yet coders, even if they're coding. That never goes away. But I think
-
-244
-00:39:53.250 --> 00:39:56.299
-Sarah Ciston: that's helpful to remember that people might not
+Sarah Ciston: it's interesting that you felt like you didn't quite get it for a while that, like you were already making art. Because I think for many people coming to code from a creative space, they often feeling like they're not yet coders, even if they're coding. That never goes away. But I think that's helpful to remember that people might not
 
 245
 00:39:56.590 --> 00:40:11.500
@@ -2444,23 +2294,7 @@ Garrett Flynn: So like, like, I was really invested in finishing
 
 272
 00:43:37.530 --> 00:43:43.219
-Garrett Flynn: when it's just never ending to begin with, yeah. And if you wait for it to be perfect and finished.
-
-273
-00:43:43.500 --> 00:43:48.950
-Sarah Ciston: yeah, until you get feedback, you're never gonna get the feedback you need for it to be finished.
-
-274
-00:43:48.970 --> 00:44:01.750
-Sarah Ciston: finished enough. And sometimes you just have to be like, Okay, I'm calling this phase of it done because the next project I'm going to deal with the same themes and the same questions through a different
-
-275
-00:44:01.920 --> 00:44:08.349
-Sarah Ciston: tool or a different lens. Because I'm always gonna care about the same things. And I'm gonna come back to that.
-
-276
-00:44:09.420 --> 00:44:16.169
-Sarah Ciston: Yeah. it's it's, you know. It's the trouble with having a life's work
+Garrett Flynn: when it's just never ending to begin with, yeah. And **if you wait for it to be perfect and finished until you get feedback, you're never gonna get the feedback you need for it to be finished enough. And sometimes you just have to be like, Okay, I'm calling this phase of it done because the next project I'm going to deal with the same themes and the same questions through a different tool or a different lens. Because I'm always gonna care about the same things. And I'm gonna come back to that. It's the trouble with having a life's work**
 
 277
 00:44:16.560 --> 00:44:17.750

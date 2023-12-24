@@ -25,6 +25,8 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 
 [//]: # "hello world"
 
+<!-- [XXX ADD 2 audiences][like straight up, hung out with somebody who was like, I have the analytical part. I just don't have the creative part. I only been working with people who had the creative part but needed the technical skills like we had Robbie come in who was like, I've never touched any code before. **But I wanna code. And I was like, Oh, great! But I never met anybody who had the opposite. And I was like, this is so. That was like the moment for me that, like code, collective really clicked in this extra way where I thought. you know, I thought I was helping like one audience. which was great. But then I realized, there's actually] -->
+
 ### Rough starts & disconnects
 
 Have you considered learning to code but felt too intimidated to try? Have you struggled to program? Or don't know how to apply what you've learned to things you care about? 
@@ -167,6 +169,8 @@ The group remains self-directed toward what its members want to make, and the pr
 When we "value process as much as, or more than, outcomes"[^amb], when we maintain a "beginner's mind" approach no matter what stage of that process, we can stay dynamic and we can acknowledge imperfection and ongoingness. I find this helps relinquish perceived requirements and impossible goals. 
 
 This guide is also a work in progress. The guide shows its rough edges before it is ready. It has been drafted from scratch on a public website, built using Github, which displays its code repository and version tracking. This means that every past version of the text is available to view. Readers can compare differences in the history ([for example](https://github.com/sarahciston/codingcare/commit/5e1ef814d661f43027e3d0f15b5ba87415194cfe?diff=unified)) line by line and comment on the text as it changes. This laid-bare writing process enacts the Code Collective value **growth, not perfection**, which is mostly a reminder for myself. Working this way is a practice of vulnerability and an invitation for conversation. 
+
+<!-- [XXX ADD THIS][Don't be afraid to show your work part way through (discussion with garrett, quote?)][if you wait for it to be perfect and finished until you get feedback, you're never gonna get the feedback you need for it to be finished enough. And sometimes you just have to be like, Okay, I'm calling this phase of it done because the next project I'm going to deal with the same themes and the same questions through a different tool or a different lens. Because I'm always gonna care about the same things. And I'm gonna come back to that. It's the trouble with having a life's work] -->
 
 ### Build it together, expand definitions
 
@@ -1427,6 +1431,23 @@ This pocket guide has argued for technology communities that support pluralism, 
 
 <p class="quote">
 "I was able to get early feedback about my projects and learn little tidbits about the [Javascript] language (e.g. ES6,  nullish coalescing, etc.) that I otherwise wouldn't have enough. 
+</p>
+
+"in general it's very hard to get people out of their, you know, once they graduate out of their professional communities and their like tool communities, it starts to become like in the same way that academia is. It tends to get very siloed very quickly. And I haven't seen a good community to participate in. That is both specific enough to be useful and general enough to be interesting."
+
+
+"it's not about the craft of a website or a craft of like Python analytics system. It's about the craft of creating something with code that can span all of these boundaries. And and again, you don't really get a wide conversation about those sorts of things. I mean, I'm even thinking, like, you know, you were saying, there's always gonna be a new Javascript library right? But somebody from Python is like, Well, why are these frameworks so crazy like there's a new one every day. And are they really that much better? Those sorts of questions don't really get asked unless you're looking outside of Javascript. I mean, people ask it, but they don't take it seriously, because it's just the water you drink in the air you breathe when you're a web developer, right? So those sorts of things are interesting or like, you know, somebody's coming from a different language. And they say, like, Does this language have that tool? It would be really cool or like You know what sort of capabilities you have, and [...] you can pick and choose in a more informed way by having this language-agnostic discussion about code."
+
+"Code Collective gave me an aesthetic sense around what is good code — and not 'good' in the sense of clean and readable, but 'good' as in  effective for a community or a wide range of communities. And so I can very quickly tell you if I want to work on a project or not, and it's largely guided by that sense, which I think I otherwise probably wouldn't have developed without being part of a critical community of people that I want to share my projects with."
+", because otherwise it's like, Well, I'm getting paid, you know, like $10,000 for this contract, like, what does it matter? You know?"
+
+"people are just excited to share whatever they're involved in, and you get critical feedback back. but it's always warm. [...] you can't walk into a community like this and be turned off by warmth. unless you already know that what you're doing is wrong." "for me, working with all the brain technologies and coming in, there was some good questions raised around, What are we doing with the data and things like that. And again, it was all kind of probing in a curious sense. And I gave you answers, and I didn't know whether they were right or wrong, and so I wouldn't know that without actually talking. "
+
+"if it happens at all, it always happens after hours like it's not a billable activity." [Critical ethical feedback and warmth]
+
+"I went to a tech meetup [...] I brought up some some ethical concerns, and like resources and things like that and I think the investment was very low. but I cause I don't know if it was like the the Forum, or what, but like I didn't get a strong like immediate feedback that they were like going to follow up on this and do anything about it in a sense.
+
+"whenever I come across really anybody learning the program even if they're had like Cs heavy, or want to go see us heavy. I go make make some art stuff like, just go like make some cool art stuff cause like the graphics is like the graphics aspect was really compelling, more so than than like learning straight python. Like I really really loved working with, because it gave me this like familiarity with like a little bit of design. At least II was working with. I didn't even know that it was with Javascript at first. but again, I think even after that, I didn't. Really, it didn't click to me that was art or like that it like like I didn't know where it sat. And I was like, everybody else, is doing these like really cool, like things like, I'm just like trying to push like a square peg into a round hole. I don't get it, you know."
 
 
 <p class="quote">
