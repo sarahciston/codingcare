@@ -1415,6 +1415,13 @@ Code Collective — as a community of people and as a practice of communing and 
 This pocket guide has argued for technology communities that support pluralism, participation, and sustainability. As Annette Vee says, coding is now an essential literacy, even reshaping literacy itself [@veeCodingLiteracyHow2017]. I have seen how easy it is to reach beyond the limited literacies offered by existing tech cultures. *Coding Care* reimagines communities of TechnoCraft that truly anyone can engage and transform. 
 
 <p class="quote">
+"Find out what the group wants to be, and give them opportunities to become that."
+</p>
+<p class="quote attrib">
+–adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
+</p>
+
+<p class="quote">
 "I decided to pursue my MA program because CCC opened me to the aesthetic and humanistic possibilities inherent in code that had nothing to do with instrumental goals that the usual CS student would attend to at their post-graduation gig. Now I’ve been working at the intersection of JavaScript and neuroscience for the last six years — sometimes as an independent developer, more recently as part of a larger institutional effort — and haven't once questioned the validity of this approach because the people at CCC would be proud to see it. So you could say CCC gave me the courage to pursue this alternative career path — and it's all pretty much worked out."
 </p>
 <p class="quote attrib">
@@ -1422,15 +1429,7 @@ This pocket guide has argued for technology communities that support pluralism, 
 </p>
 
 <p class="quote">
-"Find out what the group wants to be, and give them opportunities to become that."
-</p>
-<p class="quote attrib">
-–adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
-</p>
-
-
-<p class="quote">
-"I was able to get early feedback about my projects and learn little tidbits about the [Javascript] language (e.g. ES6,  nullish coalescing, etc.) that I otherwise wouldn't have enough. 
+"I was able to get early feedback about my projects and learn little tidbits about the [Javascript] language (e.g. ES6, nullish coalescing, etc.) that I otherwise wouldn't have enough. 
 </p>
 
 "in general it's very hard to get people out of their, you know, once they graduate out of their professional communities and their like tool communities, it starts to become like in the same way that academia is. It tends to get very siloed very quickly. And I haven't seen a good community to participate in. That is both specific enough to be useful and general enough to be interesting."
@@ -1553,7 +1552,7 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 [XXXadd source] knitting for anarchists
 
 
-ender 🐢 no pronouns: 
+ender no pronouns: 
 
 "There's a disconnect between what the people who make apps say about what they do and what their apps actually do. There's a disconnect between what academics say the world is going to be like and how they're making all this progress and the world that we see around us. That is the result of all those decades of quote unquote progress. And it's like, when you want to actually address these contradictions, you run into people who are very stubborn and don't actually want to take your argument in good faith. And they're just very stubborn techno-optimists, which is what I was trying not to go into. So like just the difference between techno-optimism, techno-pessimism and sort of just realism, like, what is the world that actually exists?"
 
