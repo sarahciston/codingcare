@@ -1,8 +1,8 @@
 ---
-layout: post
+# layout: post
 title: codes for (un)knowing
 nav_order: 10
-date: 21.23.2023
+date: 23.23.2023
 ---
 
 <!-- platforms, essaying, code obscura. saving protecting hiding helping hearing healing -->

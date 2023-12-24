@@ -1,9 +1,9 @@
 ---
-layout: post
+# layout: post
 permalink: intro
 title: critical introduction
 nav_order: 2
-date: 22.12.2023
+date: 23.12.2023
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
