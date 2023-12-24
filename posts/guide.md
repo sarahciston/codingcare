@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: coding care pocket guide
 permalink: codingcare
 nav_order: 3

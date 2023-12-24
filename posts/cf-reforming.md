@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: codes for (re)forming
 nav_order: 11
 date: 23.12.2023

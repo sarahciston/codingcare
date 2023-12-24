@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 permalink: intro
 title: critical introduction
 nav_order: 2
