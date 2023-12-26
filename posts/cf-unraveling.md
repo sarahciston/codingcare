@@ -215,7 +215,8 @@ see Ahmed queer use, the memory of knots, held in the material, no memory in bri
 >"But the knot remembers everything, and has everything to forget." 
 If we hold everything loosely, no knots, only loops, f we only loop, not knot, what do we remember
 
-
+>"Path-following is thus not so much intentional as attentional. It thrusts the follower into the presence of the real."
+>"The maze-walker, we could say, is a navigator; the labyrinthine pathfollower a wayfarer. 6 In the carrying on of the wayfarer, every destination is by the way; his path runs always in between. The movements of the navigator, by contrast, are point-to-point, and every point has been arrived at, by calculation, even before setting oﬀ towards it."
 
 ===
 

@@ -134,6 +134,11 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 >gigantic enterprises that "know the short-range utility of computer systems but have no idea of their ultimate social cost." [@weizenbaumImpactComputerSociety1972]
 
+
+>"there’s nothing new about the mechanization of interpretation as such, but only about the extent, speed and stealth of its advances over the past 10 years or so. [...] ~~today’s interpretation machines follow closely the pattern of older industrial machines [...]~~ Strictly speaking, they don’t duplicate skills. Instead, they identify, isolate, and activate facsimiles of particular fragments of human action, amplifying and reproducing them repetitively at high speeds in order to produce uniform outputs in bulk" [@lohmannInterpretationMachinesContradictions2020]
+
+
+
 "participation washing"  identify participation as work, as consultation, and as justice. suggest long-term involvement instead of extractive forms of participation that remove context and scale for machine learning . "Participation workshops can become performative, where experts do not actually take the needs or recommendations of the different stakeholder groups into consideration."
 >"Whether acknowledged or not, a broad range of participants play an important role in producing the data that is used to train and evaluate ML models. For example, ImageNet, which laid the foundations for deep learning and most image recognition applications and is still used for ML benchmarking, is a dataset of millions of images, taken by hundreds of thousands of people, scraped from the open web and labeled by mTurk workers. Image classification tools are often built on top of models trained on the ImageNet dataset." [@sloaneParticipationNotDesign2022]
 
@@ -218,6 +223,7 @@ It requires we find common language, common value/appreciation/respect that come
 
 To sit a bit longer with questions I know I cannot answer, questions that make me uneasy. To hold two contradictory ideas simultaneously and let their magnetic energy push-pull me. To forgive myself the imperative outcomes, the productivity, the proven hypothesis, the subject of research. To put myself into the trouble too, because I already embody these questions in lived experience.
 
+>"Only after having reached a certain spot can it feign to have found the way there." (ingold on wandering)
 
 ### Artistic experimentation
 
@@ -495,6 +501,8 @@ The problem of pseudorandomness, computation's inability to produce truly random
 
 ## TechnoCraft
 
+### Techno-?
+
 Technosolutionist... Techno-optimist... Technodystopian... Technocrat... Like 'cyber' before it, the prefix 'techno' teems with possibilities and portends varieties of doom. Bubbling experiments and launching spacecrafts, self-driving vehicles and buzzwords like 'big data' dominate the imaginary while signaling in-groups and out-groups, zones of mystification and fear, as well as economic opportunism and exploitation.
 
 Yet, tech begins with techne, begins with texture and fiber, begins with the meshy matrix that sustains us [@plantZerosOnes1998]. Tech means any tool. It means not only clay tablets but the tools of language becoming discrete objects: the change from a chorus of cycling breath to individuated letters written on divided pages with simple handtools [@carsonErosBittersweetEssay2014]. It includes the histories of technology erased and rewritten by narratives of conquest and power [@crawfordCalculatingEmpires2023]. It includes unseen technologies of passing, of obfuscation, of survival [@browneDarkMattersSurveillance2015; @feministkilljoysQueerUse2018a; @gabouryBecomingNULLQueer2018; @bruntonObfuscationUserGuide2015; @keelingQueerOS2014]. Tech includes craft and crafters. Tech includes us. It comes from us.
@@ -516,6 +524,15 @@ TechnoCraft places the seemingly contrasting terms 'tech' and 'craft' together t
 Many have paired code with craft, or talked about the similarities of knitting or weaving with programming. Yes, TechnoCraft celebrates these similarities and wants to decontextualize the linear histories of computer programming, but also wants to push this argument further. It argues that not only should we bring craft's materials into coding spaces, but also we should bring the ethos and ethics of crafting. It's not enough to weave electronics into our fiber arts as a way to build technical literacy, we need to weave intersectional methods and mindsets into technical arts. Craft carries many of these methods and mindsets in its material culture.
 
 Focusing on craft means noticing the material, handworked, skilled, tinkered, iterative, process-oriented, embodied practices of knowledge and production that technologies emerge from. It means noticing how such practices can intervene in existing technologies and reshape emerging ones. It acknowledges human choices; built skills, tacit knowledge, and material needs; networks and communities of practice. 
+
+[XXX][transition]
+
+>"If craft is understood as 'a way of thinking through practices of all kinds' and as 'a dynamic process of learning and understanding through material experience,'  handling digital tools [in a textile design process] can be considered craft, and learning through experience. The designer not only designs through making but also learns how making is a way of thinking innovatively" [@nimkulratCraftingTextilesDigital2016]
+
+Textile designer Nithikul Nimkulrat describes craft, "not only as a way of making things by hand, but also as a way of thinking through the hand manipulating a material." 
+She suggests that this way of thinking is  [...] "Knowledge of a creative practice thus lies in and can be acquired from within the practice itself. In other words, thinking and knowing are inseparable from making in any craft or designerly practices."
+
+[XXX][transition]
 
 #### (First, a note on what craft is not)
 
@@ -583,7 +600,7 @@ In ["A Traversal Network of Feminist Servers,"](https://atnofs.constantvzw.org/)
 
 >"How can the labour behind hosting be made inclusive, convivial, shared, visible not only in moments when things go wrong? In what ways does the language embedded in server administration influence the practices and interactions around it? How can servers be pedagogical spaces for experimentation for those with different knowledges?" [varia email list 28.11.2023]
 
-Transfeminist infrastructure work shows how the logics and ethics of craft – especially its domestic and feminized aspects – emerge out of intersectional feminist approaches and apply to technological questions. To consider technology as entangled with its affective and labor relations, as feminist infrastructures do, resituates tech back into a variety of communities of practice and reframes its relationship to caretaking. Although many have looked to technological solutions like bots to address issues of labor and caretaking, more often technology itself requires caretakers and creates more care labor. To respond to this, feminist infrastructures show how care is generated through human networks and how care might also be generated in, rather than depleted by, digital ones. They place technology within a circuit of human relations rather than as a replacement for it.
+Craft requires taking care and caretaking, as does technology. Transfeminist infrastructure work shows how the logics and ethics of craft – especially its domestic and feminized aspects – emerge out of intersectional feminist approaches and apply to technological questions. To consider technology as entangled with its affective and labor relations, as feminist infrastructures do, resituates tech back into a variety of communities of practice and reframes its relationship to caretaking. Although many have looked to technological solutions like bots to address issues of labor and caretaking, more often technology itself requires caretakers and creates more care labor. To respond to this, feminist infrastructures show how care is generated through human networks and how care might also be generated in, rather than depleted by, digital ones. They place technology within a circuit of human relations rather than as a replacement for it.
 
 >"The point is not only to expose or reveal invisible labours of care, but also to generate care. [... G]enerating care means counting in participants and issues who have not managed or are not likely to succeed in articulating their concerns, or whose modes of articulation indicate a politics that is 'imperceptible' within prevalent ways of understanding." [@delabellacasaMattersCareTechnoscience2011]
 
@@ -595,43 +612,23 @@ For infrastructures of care, communities themselves are the essential networks; 
 
 >"The internet can bring us very close, yes, but it is even better to meet *cuerpa*-to-*cuerpa*. The presence of the others gives us the feeling of ecstacy, makes us float. Meeting gives us power and energy, facilitates processes, and intensifies networks of trust and cooperation. Sometimes we converge in our disputed territories, the street the networks, and the servers, and other times in places where we can create spaces of security, confidence, and relaxation." [Spideralex in @sollfrankBeautifulWarriorsTechnofeminist2018]
 
-
 #### Access & boundaries
-
-Craft requires taking care and caretaking, as does technology. 
-
-Analog infrastructures 
 
 ![zine page from ONE Archives](../assets/img/ONE-queer-imaginemore.jpg)
 
 Credit: USC Libraries ONE Archives 
 {: .caption }
 
-Zines and their distribution networks precede digital networks and serve many purposes. This publishing craft is a counterinfrastructure used to build counterpublics and underground communities, create counterarchives or be living texts, and clarify information to new audiences. Cait McKinney's research into underground lesbian networks, both analog and digital, shows that "lesbian-feminist information infrastructures are built and sustained through networks that facilitate collaboration and resource-sharing amid precarious conditions"
-[@mckinneyInformationActivismQueer2020]. Marginalized, precarious conditions called for interventions by alternative means. [XXXexpand?likenow?] Paul Soulellis, who maintains the Queer Archive Work project, suggests that zines are archives of crisis: "evidence of queer life persists in the urgent artifacts that emerge in crisis — artifacts that arise expediently as part of efforts to advocate for slowness, care, mutuality, queer joy, pleasure, refusal, and community" [@soulellisBadArchives2023]. The precarity of the communities required more care and more flexible materials, and it also facilitated innovation. McKinney argues that "ways of thinking digitally about information were embedded in lesbian-feminist work with paper, in the ways lesbian feminists learned computing and imagined and built networks and databases for storing and sharing information" [@mckinneyInformationActivismQueer2020]. 
+A variety of forms and modalities allows for more kinds of access. Craft, and other means of creating forms, helps imagine what access is possible and who might be missing out. For example, zine-making and zine distribution networks precede digital networks, provide models for digital practices while subsisting alongside them. This publishing craft is a counterinfrastructure used to build counterpublics and underground communities, to create counterarchives or living texts [@ademaLivingBooks350], and to clarify information to new audiences. Feminist media historian Cait McKinney's research into underground lesbian networks, both analog and digital, shows that "lesbian-feminist information infrastructures are built and sustained through networks that facilitate collaboration and resource-sharing amid precarious conditions"
+[@mckinneyInformationActivismQueer2020]. Marginalized, precarious conditions of queer communities has called for interventions by alternative means. Graphic designer Paul Soulellis, who maintains the Queer Archive Work project, suggests that zines are archives of crisis: "evidence of queer life persists in the urgent artifacts that emerge in crisis — artifacts that arise expediently as part of efforts to advocate for slowness, care, mutuality, queer joy, pleasure, refusal, and community" [@soulellisBadArchives2023]. The precarity of these communities requires more care and more flexible materials, and it also facilitates innovation. McKinney argues that "ways of thinking digitally about information were embedded in lesbian-feminist work with paper, in the ways lesbian feminists learned computing and imagined and built networks and databases for storing and sharing information" [@mckinneyInformationActivismQueer2020]. Such innovation continues today in the alternative uses of digital networks seen during protests like Arab Spring, as well as in the continued use of analog zines to discuss technological objects like machine learning (in the Intersectional AI Toolkit or in Elvia Vasconcelos's "A Visual Introduction to AI" [@vasconcelosVisualIntroductionAI]). 
 
-Zine publisher, activist, and artist Be Oakley says that the zine form allows more access. [lends itself to more egalitarian cross-class acess] "Class is built into its format. A zine communicates a level of accessibility through its materials and its form. [...] A zine evokes a legacy of authorship that is not exclusively written by straight, cis, white men. [...]" [@oakleyImperfectArchivingArchiving2023]. 
+Zine publisher, activist, and artist Be Oakley says that part of the appeal of the zine is that the zine form allows for more egalitarian access across economic boundaries: "A zine is made to be disseminated to publics otherwise forgotten by hardcover books. [...] Class is built into its format. A zine communicates a level of accessibility through its materials and its form. [...] A zine evokes a legacy of authorship that is not exclusively written by straight, cis, white men. [...]" [@oakleyImperfectArchivingArchiving2023]. 
 
-  * Zines to clarify information [@VisualIntroductionAI]
-    * 90s aesthetics and politics of distribution and value, how they influence digital spaces ethics/affordances/presentation (skeuomorph). print qualities (material and practices distrib/printing)
-    * >> "A zine is made to be disseminated to publics otherwise forgotten by hardcover books." "[...] The softcover book is ripe for the wear and tear of heavy use." [@oakleyImperfectArchivingArchiving2023]. 
+Providing more access can also enable more nuanced access, by setting access boundaries. Take for example the work of Local Contexts, who help Indigenous communities protect their data rights by creating tools to inform researchers of their boundaries. They offer data labels that help researchers understand how data are meant to be used (and not used) according to more granular criteria. Rather than using a simple license agreement, which does not address their needs, Indigenous communities can reinforce their rights by applying "Traditional Knowledge" and "Biocultural" labels to data and collections, which provide context, provenance, metadata, protocols, and permissions for use. These include designating specific community members or times of year for access, or designating materials as sacred to the community or open for collaboration. Local Contexts also provides notices for researchers and institutions to contextualize their collections with labels like "Authorization," "Belonging," "Caring," "Gender Aware," "Leave Undisturbed," and others [@LocalContextsGrounding]. The expansiveness of the forms that a Craft lens can take means that more communities can participate, but more importantly more communities can participate by creating their own terms and contexts for participation. 
 
-  * [@festivalEyeo2019Paul2019]
-  * Zines as living texts: "Living Books: Experiments in the Posthumanities by Janneke Adema"  [@pressLivingBooksMIT]
-  * zines as training tools, exopunks video game for learning to code, with zines, from zachtronics
+<!-- * zines as training tools, exopunks video game for learning to code, with zines, from zachtronics
   * Coding zines, early computing
-
-
-
-<!-- participation is not a design fix [@sloaneParticipationNotDesign2022] -->
-
-Queer feminist infrastructures and handmade media praxis 
-
-Data structured through kinship systems, 
-
-Providing more nuanced access also allows for setting boundaries. Take for example the work of Local Contexts, who help Indigenous communities protect their data rights by creating tools to inform researchers of their boundaries. They offer data labels that help researchers understand how data are meant to be used (and not used) according to more granular criteria. Rather than using a simple license agreement, which does not address their needs, Indigenous communities can reinforce their rights by applying "Traditional Knowledge" and "Biocultural" labels to data and collections, which provide context, provenance, metadata, protocols, and permissions for use. These include designating specific community members or times of year for access, or designating materials as sacred to the community or open for collaboration. Local Contexts also provides notices for researchers and institutions to contextualize their collections with labels like "Authorization," "Belonging," "Caring," "Gender Aware," "Leave Undisturbed," and others [@LocalContextsGrounding]. 
-
-
+Queer feminist infrastructures and handmade media praxis  -->
 
 #### Legacies & contexts
 
@@ -641,17 +638,13 @@ Technology, as reframed through intersectional and craft lenses, is is always co
 
 >"Our bodies are archives and sites of memory that cannot and will not be overwritten, despite technological attempts to render them as such." [@aliyuSashaZamaniDeath2023]
 
-TechnoCraft attends to the counterhistories still alive in our present technologies and potentially reemerging in many futures. These include Hilda G. Carpenter, a Black lab technican whose "core rope memory" techniques advanced computing and supported the Apollo moon landings, by physically encoding information using copper wire and rings. Author Zainab Aliyu compares Carpenter's physical memory-weaving processes to the Yoruban oracle system called Ifá, which also uses binary encoding and draws on "collective memory" for divination[@aliyuSashaZamaniDeath2023]. American Artist details the history of the graphical user interface (GUI) as a turning point in the history of computing, at which point screens changed from black to white. This was when the "user" was defined for the stated purpose of easing use, but this also narrowed and limited use, enacting white supremacist values: "Blackness has, so to say, formed the ground for white, with black gooey being antithetical to the values of the white screen" [@artistBlackGooeyUniverse]. From Navajo weavers recruited to make circuit boards to the quipu . Those with more power have frequently appropriated knowledge or extracted labor and resources to develop technologies. Such examples open the unacknowledged archives of technology that connect to craft, to ritual, to community and — as Xin Xin and Katherine Moriwaki say — perceive "history as a messy entanglement rather than a linear graph" [@shihCriticalCodingCookbook2022].
+TechnoCraft attends to the counterhistories still alive in our present technologies and potentially reemerging in many futures. These include Hilda G. Carpenter, a Black lab technican whose "core rope memory" techniques advanced computing and supported the Apollo moon landings, by physically encoding information using copper wire and rings. Author Zainab Aliyu compares Carpenter's physical memory-weaving processes to the Yoruban oracle system called Ifá, which also uses binary encoding and draws on "collective memory" for divination[@aliyuSashaZamaniDeath2023]. American Artist details the history of the graphical user interface (GUI) as a turning point in the history of computing, at which point screens changed from black to white. This was when the "user" was defined for the stated purpose of easing use, but this also narrowed and limited use, enacting white supremacist values: "Blackness has, so to say, formed the ground for white, with black gooey being antithetical to the values of the white screen" [@artistBlackGooeyUniverse]. Those with more power have frequently appropriated knowledge or extracted labor and resources to develop technologies, such as the recruitment of Navajo women to 'weave' circuit boards for IBM [@nakamuraIndigenousCircuitsNavajo2014]. Such examples open the unacknowledged archives of technology that connect to craft, to ritual, to community in order to — as Xin Xin and Katherine Moriwaki say — perceive "history as a messy entanglement rather than a linear graph" [@shihCriticalCodingCookbook2022]. 
 
-*Technocraft* expands the definition of what "counts" as creating or participating in technology, what labor is included and valued in the accounting of it. It destabilizes static ideas of technologies and their outputs as infallable and handed-down, by reminding us they are in fact crafted by people and contingent on contexts. The invisible labor of data creation and data maintenance is no different from the invisible labor of infrastructure in this way. Yanni Loukissas argues for the inherently "local" nature of data, saying that "data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place. [...] When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display" [@loukissasAllDataAre2019]. Loukissas suggests the term "data settings" instead of "data sets" to emphasize the ways data are always shaped by both their creation and their use. He argues for remembering how data always index something else and are themselves always incomplete.
+These entanglements wind through material and conceptual spheres, which micha cárdenas demonstrates with her description of the stitch as emblematic of lived intersectional feminist work and of all practices of craft and technology: 
 
-How does craft [XXX][transition]
+>"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, [...] the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. [...][~~The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence~~]" [@cardenasTransColorPoetics2016]
 
-[Textile designer Nithikul Nimkulrat ]
-
->"As sewing is a technique of making that has been used primarily by women throughout history, and continues to be primarily the task of women in sweatshops in the global South, my proposal of the stitch as a material and conceptual operation can be seen as feminist, a way of generating new concepts by learning from people who have been subject to material inequalities because of their gender, their race, and their geographic location. The stitch can be thought of as the basis for a theory of feminist making, which values the forms of knowledge practiced daily by oppressed people as they make their lives in the face of violence. [...][~~~The operation of creating relations through the stitch, of finding means to connect groups of people who had been separated, can be seen as an abstraction of the work of women of color feminism, which sought to bring together women across racial lines. The stitch can be a way of imagining the community building necessary to create community-based responses to violence~~~]" [@cardenasTransColorPoetics2016]
-
-The stitch as theorized by cárdenas (and all practices of craft) are important lived practices of embodied intersectional feminist work that move it actively beyond theory. When applied materially and conceptually in technological spheres, [XXXXX]
+*Technocraft* expands the definition of what "counts" as creating or participating in technology, including what labor is valued in the accounting of it. It destabilizes static ideas of technologies and their outputs as infallable and handed-down, by reminding us they are in fact crafted by people and contingent on contexts. The invisible labor of data creation and data maintenance is no different from the invisible labor of infrastructure in this way. Yanni Loukissas argues for the inherently "local" nature of data, saying that "data-driven systems [...] are locally contingent and even fragile. Designs dependent on data must be maintained and repaired on a regular basis to ensure that they are in sync with changes in the data themselves or the encompassing infrastructure of the place. [...] When data do seem to confer transparency, it is because we are shielded from important details about the context of their creation or display" [@loukissasAllDataAre2019]. Loukissas suggests the term "data settings" instead of "data sets" to emphasize the ways data are always shaped by both their creation and their use. He argues for remembering how data always index something else and are themselves  incomplete. This destabilization of data helps to recall their human impacts, and it asks us to care for them responsibly within their shifting contexts as part of various communities and legacies.
 
 #### Rematerializing, reentangling theory and practice
 
@@ -669,7 +662,7 @@ These are not metaphors only. They are material, infrastructural systems that un
 
 Echoes of this concept can be seen in current research methods like Critical Code Studies, an approach to reading code that situates it within its material, cultural contexts rather than viewing it as a neutral static object [@marinoCriticalCodeStudies2020a]. Through such material reckonings, we can not only use different lenses to reflect on existing technologies but also gain the means to reimagine them for different purposes. As queer craft art historian Daniel Fountain says, "craft, or more broadly the notion of crafting, is an essential strategy for living and loving 'otherwise'" [@fountainSurvivalKnittestCraft2021]. What does this 'otherwise' look like and how does it come about? 
 
-[XXXCITE Melt members] Ren Loren Britton and Helen V. Pritchard call for "queer playfulness and promiscuous metaphorical practice" that can [expand beyond passive strategies for remaking technoscience, reusing its terms to imagine new forms. Their speculative practice turns CS (often an acronym for computer science) into a proliferating list of possibilities: 
+Artist-researchers Ren Loren Britton and Helen V. Pritchard call for "queer playfulness and promiscuous metaphorical practice" that can [expand beyond passive strategies for remaking technoscience, reusing its terms to imagine new forms. Their speculative practice turns CS (often an acronym for computer science) into a proliferating list of possibilities: 
 
 >""[to create] speculative fictions for CS––Careful Slugs stories that reconfigure relations and introduce scandals and chances into Computer Science, Design, and STS processes that might lead to other sorts of project plans, research questions, and technical inquiries." [@brittonCarefulSlugsCaring2022a]
 
@@ -854,6 +847,8 @@ LEARNING GOALS: Through Coding Care, understand how to
 
 LEARNING GOALS: Through the Critical Field Guide, understand the training datasets and how to work with them before they become models. 
 
+This format supports direct use by practitioners of all stripes — activists, artists, journalists, scholars, students — anyone who is interacting with datasets in the wild and wants to use them in their work, while being mindful of their impacts.  
+
 
 ### * : *Interstitial Portals*
 {: .no_toc }
@@ -915,7 +910,16 @@ LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, ar
 ### TRANS: CONCLUSION/WHAT'S NEXT 
 {: .no_toc }
 
+What [these/this XXX] calls for is 
+
 What it calls for in the future...
+
+
+- "A Critical Field Guide for Working with Generative AI Models and Systems"
+    as a follow up to "A Critical Field Guide for Working with Machine Learning Datasets"
+- [unsupervised pleasures][conscientious data for queer/diverse/intersectional futures]
+- [future feminist machine musueum]
+
 
 Because generative AI models have become so large, and training processes so slow and expensive, they frequently rely on foundation models — previous models, often designed for other tasks, used as the building block or sourdough starter for new models. Foundation models 
 
@@ -924,19 +928,19 @@ Because generative AI models have become so large, and training processes so slo
 >"Part of the construction of dominator privilege is you don't have to think about what are those other people thinking, feeling, hoping, dreaming. I think part of transformation is when you open yourself to wanting to know what those people who are not like you are doing, thinking, being." [@hooksbellWhyFamedFeminist2018] 
 
 
-- [future feminist machine musueum]
-- [unsupervised pleasures][conscientious data for queer/diverse/intersectional futures]
-
 
 
 #### not classifying, a radical queer computing not based on classification but woven from the unknowing of genderless expression, of story
 >>"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)
+>"Less a surveyor than a narrator, his aim is not – as Kant would have it – to ‘classify and arrange’, or ‘to place every experience in its class’, 8 but rather to situate each impression in relation to the occurrences that paved the way for it, presently concur with it, and follow along after. In this sense his knowledge is not classiﬁcatory but storied, not totalising and synoptic but open-ended and exploratory."
+Code relationally not classifying
 
 Soap bubble computers, mushroom computers, non-binary voltage readings. What are the nonclassificatory logics that might run other forms of calculation?  [Bridle's call here & how this meets it]
 
->>Artist Stephanie Dinkins notes, “Widely deployed AI can support bottom-up decision making and provide the public means to directly inform the systems that govern us while also empowering the governed.” She asks, “Who is working to use it as such?” ^[6] If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell)
-    >> ^[6]: Dinkins, Stephanie. “Towards an Equitable Ecosystem of Artificial Intelligence.” Software for Artists Book: Building Better Realities, edited by Willa Köerner and Tommy Martinez, Pioneer Works Press in collaboration with The Creative Independent and Are.na, 2020, 49–57.
+>>Artist Stephanie Dinkins notes, "Widely deployed AI can support bottom-up decision making and provide the public means to directly inform the systems that govern us while also empowering the governed." She asks, "Who is working to use it as such?" Dinkins, Stephanie. "Towards an Equitable Ecosystem of Artificial Intelligence." Software for Artists Book: Building Better Realities, edited by Willa Köerner and Tommy Martinez, Pioneer Works Press in collaboration with The Creative Independent and Are.na, 2020, 49–57.
 
+>If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell)
+    >> ^[6]: 
 
 
 [//]: # "TK: Critical Introductions to Each Collection or at end of intro"
