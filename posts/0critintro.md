@@ -268,6 +268,8 @@ DH: not about diversity in tech directly, aim at broader social goals of [e.g. d
 Marino, code is collaborative:
 >"Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally." [@marinoCriticalCodeStudies2020a]
 
+===
+
 # What Is Trans\*formative TechnoCraft?
 
 These are instructions for myself(ves), past-present-future, gathering tactics from many traditions, making connections, strategies and wayfinding for the kinds of worlds and systems I want to be part of. From intersectional transfeminist infrastructures, self-hosting servers and [XXX]... to [xxx].
@@ -661,58 +663,62 @@ Artist-researchers Ren Loren Britton and Helen V. Pritchard call for "queer play
 
 #### Refusal & material resistance
 
-TechNO: 
-
-In Sara Ahmed's concept of "queer use" 
-
-Queer use, fit
->"as if they are here because they happened to fit rather than they fit because of how the structure was built." [@ahmedQueerUse2018](overfit/underfit)
-Sara Ahmed says, "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you." In the machine learning parlance we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others [@ahmedQueerUse2018]. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
-
->"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." (TechNo)
-
-
 >"Make technology ridiculous."
 >>–Nam June Paik, *We Are in Open Circuits*
 
-TechnoCraft can emphasize the "NO" in technology as a resistance or refusal to operate by the terms and conditions of technology as it has been handed down: inaccessible, obtuse, large-scale, platformatized, proprietary, profit-seeking, and so on. Technological tools need not be the purview of only the narrow band of [xxx] with the most access. 
+TechnoCraft can emphasize the "NO" in technology as a resistance or refusal to operate by the terms and conditions of technology as it has been handed down: inaccessible, obtuse, large-scale, platformatized, proprietary, profit-seeking, and so on. Technological tools need not be the purview of only the narrow band of [users/creators/?] with the most access. 
 
-Many artists, activists, and others have taken up crafting with technology as methods of refusal of existing technologies, through various kinds of repurposing that include: adversarial use, extreme use, handcraft practices, and making their own esoteric systems. Many of these approaches are also used in different ways in [academic or corporate technologist] contexts, but in this mode of refusal they also become forms of "tactical media." 
+Many artists, activists, and others have taken up crafting with technology as methods of refusal of existing technologies, through various kinds of repurposing that include: adversarial use, extreme use, handcraft practices, and esoteric/DIY systems. Many of these approaches are also applied in other contexts, such as in academic institutions or in corporate technology, but as methods for refusal they also become forms of "tactical media." 
 
->"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it" [@shaneYouLookThing2021]
+>"Pranking an AI — giving it a task and watching it fail — is a great way to learn about it" [@shaneYouLookThing2021]
 
 ![Lace cards](../assets/img/IBM_lace_card.jpg)
 
 A "lace card" was used in early punch-card computers to jam the systems.
 {: .caption}
 
-Tactical media are works that resist, revise, reverse their materials to engage political [potentials]. As "an investment in a multiplicity of actions, practices, performances, and interventions," says Rita Raley, "tactical media activities provide models of opposition rather than revolution and aim to undermine a system that, as de Certeau reminds us, 'itself remains intact'" [@raleyTacticalMedia2009]. The technological gestures of tactical media artworks operate in the world as it is now, while reflecting upon, resisting, and offering alternatives to it. Raley includes a range of examples like "practices such as reverse engineering, hacktivism, [...] the digital hijack, [...] collaborative software, and open-access technology labs, 'tactical media' is a mutable category [...]. tactical media signifies the intervention and disruption ... disturbance."
+Tactical media are works that resist, revise, reverse, reimagine their materials to engage political potentials. As "an investment in a multiplicity of actions, practices, performances, and interventions," says Rita Raley, "tactical media activities provide models of opposition rather than revolution and aim to undermine a system that, as de Certeau reminds us, 'itself remains intact'." The technological gestures of tactical media artworks operate in the world as it is now, while reflecting upon, resisting, and offering alternatives to it. Raley says that tactica media is a "mutable category" that includes "practices such as reverse engineering, hacktivism, [...] the digital hijack, [...] collaborative software, and open-access technology labs [...]" [@raleyTacticalMedia2009]. In its many forms, tactical media (like craft) consists not only of its material objects, but also its communities, networks, protocols, and processes of disturbance and resistance. 
+
+Material resistance
+<!-- >"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) (Sennett?) -->
+
+Queer use can be a way of 'living otherwise' and be read in some cases as a form of tactical media. Sara Ahmed describes queer use as an entanglement of refusal and a taking-up of the unused: 
+
+>"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." [@ahmedQueerUse2018]
+
 
 [//][This feels like evidence for a whole separate chapter/paper]
 
-*Adversarial use, desire lines, salt circles* 
-  * ladymouth
-  * Adversarial.io
-  * Cat-versarial purturbation
-  * Salt Circle, self driving car, James Bridle
-    * Corey Doctorow's "Adversarial Interoperability
-  * "Baysean flooding" [@bruntonObfuscationUserGuide2015] overwhelming a platform or service with false data intermixed with true data, making it impossible for machine-reading systems to distinguish. 
-*Extreme use, aka breaking and other fun forms*
-  * innervoiceover 
-  * Google Maps Hack (Traffic Jam), Simon Weckert (2020)
-  * 
+
+Queer use, fit
+>"as if they are here because they happened to fit rather than they fit because of how the structure was built." [@ahmedQueerUse2018](overfit/underfit)
+Sara Ahmed says, "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you." In the machine learning parlance we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others [@ahmedQueerUse2018]. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
+
+
+
+
+*Adversarial use, desire lines, salt circles*
+  * [Autonomous Trap 001 (2017)](https://www.jamesbridle.com/works/autonomous-trap-001) James Bridle
+  * "Baysean flooding" [@bruntonObfuscationUserGuide2015] overwhelming a platform or service with false data intermixed with true data, making it impossible for machine-reading systems to distinguish
+  * [ladymouth (2015–2019) Sarah Ciston]((https://sarahciston.com/lm))
+
+*Extreme use, aka breaking and other fun*
+  * [Google Maps Hack (Traffic Jam) (2020)](https://simonweckert.com/googlemapshacks.html) Simon Weckert
+  * [Pixelvision filmmaking (e.g. "Girl Power") (1992)](https://youtu.be/tuZ4Bo9GYjk) Sadie Benning
+  * [innervoiceover (2019)](https://sarahciston.com/IVO)
+
 *Handcraft practices*
-  * labyrinth or ?
-  * Agacency & the Internet of Towels, Anuradha Reddy
-  * Leaking Subjects & Bounding Boxes: On Training AI, Elisa Giardina Papa (2022)
-  * Declassifier & Humans of AI, Phillip Schmitt (2019)
+  * [The Internet of Towels — Knotty Articulations (2021)](https://anuradhareddy.com/Internet-of-Towels-Knotty-Articulations), Anuradha Reddy
+  * [Leaking Subjects & Bounding Boxes: On Training AI (2022)](http://www.elisagiardinapapa.org/) Elisa Giardina Papa
+  <!-- * [Declassifier & Humans of AI (2019)](https://philippschmitt.com/work/humans-of-ai) Phillip Schmitt -->
+  * [No Knots, Only Loops (2023)](https://sarahciston.com/anarchies.html) Sarah Ciston
+
+*Esoteric systems, or DIY systems*
+  * [Coem (2022)](https://kayserifserif.place/work/coem/) Katherine Yang
+  * [ImageNet Roulette: Kate Crawford & Trevor Paglan]()
   * Sys server, feminist server manifesto, serve pub, "A Traversal Network of Feminist Servers"
-*Esoteric systems, or making your own systems*
-  * Coem, Katherine Yang (2022)
-  * [ImageNet Roulette: Kate Crawford & Trevor Paglan]
+  * [Unsupervised Pleasures (2022–)](https://unsupervisedpleasures) Sarah Ciston & Emily Martinez
 
-
-[sadiebenningitwasn'tlove]
 
 begets innovation 
 >"As with chess, knitting starts with the same point of departure, and all games and knits start with the same set-up. But turing the process, even within the limits of rigit protocols, the moves diverge very rapidly [...]. new tactics in chess constantly evolve and every new master beats the previous, not because of superior intelligence, but through the development of new techniques and tactics, actualized within these vast possibilities. Innovation in chess does not happen through conservation, but through constant confrontation and risk-taking." [@vonbuschZenAbstractMachine2013]
@@ -744,53 +750,25 @@ Fewer tools, more skill-building. Minimalism. Smaller toolboxes, more familiariz
 >"An anti-fascist approach to AI is a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we're already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good." [@mcquillanResistingAIAntifascist]
 
 
-
 Not accepting models as the world we want to live in. This is a prefigurative act. 
 >"Machine learning and predictive models as they currently exist can also resist reduction, but only if we treat the gaps between their results and our realties as spaces for political action, not errors to be fixed. We need to treat these models as we do global climate change models. GCC models offer us the most probable future, given past actions, not so that we accept that future, but so we work to change it. Only global climate change deniers seek to fix the model, rather than the world." [@chunDiscriminatingDataCorrelation2021]
 
 
+Open-source projects are often open in name only. OpenAI is the most prominent example of this, as a company that began creating machine learning models that offered research access but has increasingly become closed and proprietary. Elsewhere, I have written about the gaps in open-source works which do nothing more than place a single version of their source code online — in contrast to robust, responsive open-source projects that develop their work over multiple versions in consultation with their communities. Elea Zhong argues that not only do large corporate entities claiming to be open source often fail to offer substantive contributions to open-source communities, they misuse the term 'open source' to extort free labor. 
 
-Open source projects are often open in name only. Elea Zhong argues that not only do they [large corporate entities proporting the term] often fail to offer substantive contributions to open-source communities, they misuse the term "open source" to get free labor. 
+>"In the same way big oil brands itself with greenwashing for illusory environmental progressiveness, big tech extol their open source efforts to open-wash their capitalist, monopolistic, and destructive reality. Technological development is in dire need for a policy-first, documentation-first, ideology-first methodology, and AI must transform its focus on creating systems which understands and addresses the complexity of its environment, critically assesses its context, and produces meaning-rich results." (Zhong 2023)
 
->"In the same way big oil brands itself with greenwashing for illusory environmental progressiveness, big tech extol their open source efforts to open-wash their capitalist, monopolistic, and destructive reality. Technological development is in dire need for a policy-first, documentation-first, ideology-first methodology, and AI must transform its focus on creating systems which understands and addresses the complexity of its environment, critically assesses its context, and produces meaning-rich results." (Elea Zhong 2023)
-
-Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.html)) points out that new field of machine unlearning, which springs up due to the problem (created by machine learning's indiscrimine data scraping problem) assumes access to the models it wants to alter, assumes a powerful role with agency in big tech. Instead, ender combines questions of machine unlearning with adversarial data poisoning to ask how one can remove data from a model without access to the initial model. 
-
-
-
-
-
-<!-- >"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) (Sennett?) -->
-
-(body performance art histories, queer toy cameras)
-
-In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
-**These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
-TERM: *Deep Interdisciplinarity* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
-* deep interdisciplinarity
-
-
-<!-- ahree lee weaving work -->
-
-<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
-
-<!-- skip risk? -->
-<!-- #### **RISK** -->
-
-<!-- David Pye calls craft "the workmanship of risk" because "the quality of the result is continually at risk during the process of making" in contrast to "quantity production" which he calls the "the "workmanship of certainty." In the workmanship of risk, "the quality of the result is not predetermined, but depends on the judgment, dexterity and care which the maker exercises" [@pyeNatureArtWorkmanship2010]. -->
+Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.html)) points out that 
+The new task in machine learning called 'machine unlearning' has emerged due to large models' training costs and the practice of indiscrimine data scraping. As Code Collective member ender writes, machine unlearning assumes access to the models it wants to alter, which also assumes a powerful role with agency in big tech. Instead, ender combines questions of machine unlearning with adversarial data poisoning to ask how one can remove data from a model without access to the initial model. 
 
 Machine learning, as a mass production, produces certainty from uncertainty – from millions of uncertainties, argues Louise Amoore [@amooreCloudEthicsAlgorithms2020].
 
-Richard Sennett: "we might think that a good craftsman, be she a cook or a programmer, cares only about solving problems, about solutions that end a task, about closure. In this, we would not credit the work actually involved. In the Linux network, when people squash one 'bug,' they frequently see new possibilities open up for the use of the code. The code is constantly evolving, not a ﬁnished and ﬁxed object. There is in Linux a nearly instant relation between problem solving and problem ﬁnding." [@sennettCraftsman2008]
 
 
-*Process oriented approaches*
-* role of embodied knowledge on form, plat/form, landscape, who/how access
-* thin description, humble un-/knowing, kaleidoscopic subjectivity
-* kinship & levels of access (self, editor, family, ally, neighbor, comrade, citizen, stranger)
-* deep interdisciplinarity
+**These are always-already cooperative systems. Want to write/build/make/create in ways that reveal and allow these to flourish and expand as healthier, kinder systems that are supportive of everyone who is part of them.**
 
 
+>"Embracing the nuances of crafted art forms [...] exemplifies the non-linear, embodied, diffractive ways of reading, interpreting, and understanding the world while questioning what AI tools can do and the extent to which craftspeople have a say in what AI tools should be doing instead. I contend that AI does not produce newness but rather 'newly' suggests how craftspeople have always been creative agents for shaping the future of culturally and visually-informed algorithmic systems." [@reddyReadingAIFamily]
 
 
 ### Reinforcement Learning with Human Feedback
@@ -798,8 +776,10 @@ Richard Sennett: "we might think that a good craftsman, be she a cook or a progr
 Reversed: (Human) Reinforcement Learning with Machine Feedback
 My workshops at Ars, Moz, USC
 
+<!-- ahree lee weaving work -->
+<!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->
 
-
+===
 
 # def main(): What's Included
 
@@ -1071,22 +1051,10 @@ Address means you are locatable in space, means you are reachable:
 >"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries."  [@dhaliwalAddressabilityWhatEven2022]
 
 
-
-
-print/digital media or platforms
-text/code languages or expression or systems
-backend blackbox / frontend visible platforms 
-dev / user
-AI / human
-
 *could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked*
 
-**I am a writing machine**
 
-deep interdisciplinarity
-
-
-#### these may go in the Toolkit instead...
+these may go in the Toolkit instead...
 
 #### Key forms & foundational concepts of generative AI systems explained
 
@@ -1120,3 +1088,9 @@ deep interdisciplinarity
 
 
 >"computers were humans (mostly women), and digital computers were primarily used for complex calculations, especially in wartime military contexts. Amid the ballistic calculations, Turing speculated on a prompt from his teacher, philosopher Ludwig Wittgenstein: Can machines think? Both men thought it was a ridiculous question" [@veeTextGenEdTeachingText2023]
+
+
+In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
+
+TERM: *Deep Interdisciplinarity* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
+* deep interdisciplinarity
