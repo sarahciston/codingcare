@@ -347,8 +347,7 @@ The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII jo
 
 [^Q]: [XXXNEWneedsexplaner/isfootnote?] As of this writing, we have the newly announced Q*, Open AI's latest project, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023], at the same time as "The Gospel" AI system is used in Isreal to select and increase its bombing targets [hand over fist] [@daviesGospelHowIsrael2023]. [The snake eats itself, the war tech that was being developed at the same time as the beginning of AI, now AI being used for war.] (Warning of the future dangers of AI is a marketing strategy (GPT-2 was a 'too big and too dangerous to release technology and GPT-4 is pay-to-play) and worse it is a distraction from the current dangers they impose, like The Gospel and in more subtle forms.)[XXX]
 
-And all this comes back to nearness and distance, how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values could rule instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? 
-~~What about activation functions that put these on XY axes and tamper with the expectations/intuitions?~~
+And all this comes back to nearness and distance, how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values could rule instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? ~~What about activation functions that put these on XY axes and tamper with the expectations/intuitions?~~
 
 The \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. [Here's a brief interstitial...] In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) (short for 'linear interpolation' and much more fun to say) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`]()[^splines] or smoothing. These methods of interpolation are methods of creating or locating nearbyness. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate values at a position based on values from a nearby position. 
 
@@ -362,11 +361,13 @@ But I always mix up the terms `interpolate` and `interpellate`. To `interpellate
 
 Interpolation divides up distance, quantifies it, makes it possible to cross (it leaps Zeno's paradox with stepping stones). Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual, through generalization. It pins one down to classificatory schemas (created from collections of other interpellated individuals). [These are weak-star topologies?.] Computationally, proximity helps us jump to conclusions about each other. 
 
->"[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
-
 And yet, how many kinds of measurements of distance are there? How many dimensions and ways to fold them?
 
-What if instead of proximity as a shortcut to sameness, we looked to nature's own "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022] and other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and shape [xxx]
+>The technical conditions of various computational systems — analog, digital, or quantum — thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022]
+
+>"[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
+
+What if — instead of using proximity as a shortcut to sameness — we looked to nature's own "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]. What if we found other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and [what futures we shape][xxx]?
 
 [xxx][We have created so many algorithms for pathfinding. We are constantly optimizing our ways across these spaces. We've created everything about space and time, and how to make more and less of it.]
 
@@ -391,7 +392,6 @@ Even "meaning" in language is increasingly defined by these numerical representa
 
 >"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." [@morrisonFlesh2021, 253]
 
-
 >"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other's ﬂesh for one's own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It's the experience of affect, of being receptive, in real time." [@berlantCommonsInfrastructuresTroubling2016]
 
 These operations of nearbyness bring us to form and formative. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. [This project enacts the process through intuitive and counter-intuitive feeling [CITETinaCampt][weirdpivothere?].] For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream. I believe it is both, collecting fragments when you cannot yet see a form, when you cannot do anything else; then cutting away at them until what has already formed becomes clearer. Anuradha Reddy describes the process of working with varied materials similarly as a process of "adjacency":
@@ -404,15 +404,12 @@ These operations of nearbyness bring us to form and formative. The assembling lo
 
 This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. [XXX]
 
-[XXX][ADD BRIDLE SOMEWHERE]
-
-
 James Bridle suggests that more ecological machines must be "non-binary, decentralized, and unknowing" [@bridleWaysBeingHuman2022] – pointing to where this already occurs in the more-than-human world in which we are immersed. He offers up slime moulds and liquid state machines as analogue computers that show how complex, non-binary operations: 
 
 >"have always existed in the natural world, but we had to recreate them in our labs and workshops before we were capable of recognizing them elsewhere. [...] We needed the mental models provided by our technology, the words we make up for its concepts and metaphors, in order to describe and proerly undeerstand that analogous processes are already at play in the more-than human world." 
 
 He also complicates digital decentralization through the reminder that "The project of decentralization also encompasses the process of decentering ourselves [and] additionally insists that actual power, rather than mere connectivity, is shared out." 
-[Bridle furthers these][Bridle offers] 
+[Bridle furthers these][Bridle offers]:
 
 "unknowing[, means acknowledging the limitations of what we can know at all, ][...] demands a kind of trust in ourselves and in the world to be able to function in a complex, ever-shifting landscape over which we do not, and cannot, have control."
 
@@ -467,7 +464,7 @@ Thus, form is always forming from within complex systems of interrelation. Forma
 
 Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources. I keep returning to the realization that `Interdependence is indigenous knowledge.`
 
->"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008, 73]
+>"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008]
 
 Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). [As Erin Manning says of the spiral, it is "more duration than form" [@manningAlwaysMoreOne2013].] Like all verbs, then, the verb form implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented programs that want to encapsulate and abstract away objects' entanglements with the world.]
 
@@ -489,15 +486,13 @@ Our being-in-process is both the means to "be" (prefiguratively) and also the me
 
 I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections.[^platformdream] Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally—that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. The un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change.
 
-<aside markdown=1 id="glissant">
-"Relation is open totality; totality would be relation at rest. [...] Relation is movement." [@glissantPoeticsRelation2009a, 171]
-</aside>
+>"Relation is open totality; totality would be relation at rest. [...] Relation is movement." [@glissantPoeticsRelation2009a]
 
 Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-foldable traces of its making — a flattened, temporarily static version of its coming-into-shape, marking the places it once touched against itself as it held different forms [@sedgwickWeatherProust2012] — trans\*formative technocraft aims to "decipher the history of the making" and the future shapes it might take. 
 
 [^platformdream]: I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read and connect. [In my dream notes, I have written "semantic web layer cake?" and "Gollum platform?" I rarely imagine I am the only one imagining such things, until I try to explain them to others. I expect it to be easy, that these hybrid forms already exist — becaue they seem so small and obvious to me, how complicated could they be? But when I try to find some preexisting version, I come up empty, frustrated, confused. And I am left without tools or language to begin building such a connected and connecting form on my own.] 
 
-[xxxADD]
+[xxx][ADD]
 >"True randomness is a slippery thing; it is a property not of things in themselves, like individual numbers, but of their relationship to one another. [...] Randomness is relational. [...] You can't programme a computer to produce true randomness, " 
 The problem of pseudorandomness, computation's inability to produce truly random numbers, happens because "Randomness is relational" 
 
@@ -575,7 +570,7 @@ Thinking through technology with a TechnoCraft lens opens more points of referen
 >"the pre-Industrial craftsman didn’t seem to have secret tricks as much as he had lots of opportunities to practice and become swift." [@schwarzAnarchistToolChest2010]
 >"The mere act of owning real tools and having the power to use them is a radical and rare idea that can help change the world around us." [@schwarzAnarchistToolChest2010]
 
-Craft suggests more time spent with one's objects and materials — allowing for repair, error, and air. For woodworker Christopher Schwarz, it means simple tools known well, a toolbox that can be carried with you anywhere in order to complete your work, providing freedom and autonomy [@schwarzAnarchistToolChest2010]. It accumulates through simple gestures repeated until they become habit (muscle memory, durational practices, implicit knowledge), repeated until they become complex patterns (quilts, quines rice kolams), repeated until they make space for other things to happen in their presence (sewing circles, hacker spaces, political action). Imagine if machine learning systems were built from these operating principles instead of requiring massive financial resources, natural resource, and human resources to operate. 
+Craft suggests more time spent with one's objects and materials — allowing for repair, error, and air. For woodworker Christopher Schwarz, it means simple tools known well, a small collection of tools in a toolbox that can be carried with you anywhere in order to complete your work, providing freedom and autonomy [@schwarzAnarchistToolChest2010]. It accumulates through simple gestures repeated until they become habit (muscle memory, durational practices, implicit knowledge), repeated until they become complex patterns (quilts, quines rice kolams), repeated until they make space for other things to happen in their presence (sewing circles, hacker spaces, political action). Imagine if machine learning systems were built from these operating principles instead of requiring massive financial resources, natural resource, and human resources to operate. 
 
 Builder Alexander Langland returns to the older definition of 'craeft' as a lifesustaining skill built over generations. He sees craftwork as holistic interrelation rather than individual objects or skills. He says, "Crafts have always been determined by the immediate environment, and indexed to the resources of the natural world." Imagine if we saw technology's global supply chains as the integrated lifecycle of care that Langland describes, which starts with: 
 
@@ -666,70 +661,46 @@ Artist-researchers Ren Loren Britton and Helen V. Pritchard call for "queer play
 >"Make technology ridiculous."
 >>–Nam June Paik, *We Are in Open Circuits*
 
-TechnoCraft can emphasize the "NO" in technology as a resistance or refusal to operate by the terms and conditions of technology as it has been handed down: inaccessible, obtuse, large-scale, platformatized, proprietary, profit-seeking, and so on. Technological tools need not be the purview of only the narrow band of [users/creators/?] with the most access. 
+TechnoCraft can emphasize the "NO" in technology as a resistance or refusal to operate by the terms and conditions of technology as it has been handed down: inaccessible, obtuse, large-scale, platformatized, proprietary, profit-seeking, and so on. Technological tools need not be the purview of only the narrow band of [users/creators/?] with the most access, and 'craftiness' is both an intellectual and a material strategy in response. Although craft approaches are also applied in other contexts, when they are used as methods for refusal they also can become forms of "tactical media." 
 
-Many artists, activists, and others have taken up crafting with technology as methods of refusal of existing technologies, through various kinds of repurposing that include: adversarial use, extreme use, handcraft practices, and esoteric/DIY systems. Many of these approaches are also applied in other contexts, such as in academic institutions or in corporate technology, but as methods for refusal they also become forms of "tactical media." 
+Tactical media are works that resist, revise, reverse, reimagine their materials to engage political potentials. As "an investment in a multiplicity of actions, practices, performances, and interventions," says Rita Raley, "tactical media activities provide models of opposition rather than revolution and aim to undermine a system that, as de Certeau reminds us, 'itself remains intact'." The technological gestures of tactical media artworks operate in the world as it is now, while reflecting upon, resisting, and offering alternatives to it. Raley says that tactica media is a "mutable category" that includes "practices such as reverse engineering, hacktivism, [...] the digital hijack, [...] collaborative software, and open-access technology labs [...]" [@raleyTacticalMedia2009]. In its many forms, tactical media [(like craft)] consists not only of its material objects, but also its communities, networks, protocols, and processes of disturbance and resistance. 
 
->"Pranking an AI — giving it a task and watching it fail — is a great way to learn about it" [@shaneYouLookThing2021]
+Crafters and other artists know that resistance can emerge from the properties of the materials themselves, and that creation is a cooperative effort between maker and material. Digital humanities researcher Bethany Nowviskie argues that this resistance is a reminder of "the material nature of every generative or transformative textual process" most useful when makers have deep knowledge of their environment, including the time and access allows them to make and refine their own tools: "the material nature of every generative or transformative textual process" [@nowviskieResistanceMaterials2013].
+
+Queer use is a form of resistance, both material resistance and cultural resistance. It can be a way of 'living otherwise' and might be read in some cases as a form of tactical media. Sara Ahmed describes queer use as both a refusal of normative use and an embrace of the unused: 
+
+>"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." [@ahmedQueerUse2018]
+
+In Ahmed's reading, normative use and resistance has much to do with fit and form: "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you" [@ahmedQueerUse2018]. In a machine learning parlance, we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
 
 ![Lace cards](../assets/img/IBM_lace_card.jpg)
 
 A "lace card" was used in early punch-card computers to jam the systems.
 {: .caption}
 
-Tactical media are works that resist, revise, reverse, reimagine their materials to engage political potentials. As "an investment in a multiplicity of actions, practices, performances, and interventions," says Rita Raley, "tactical media activities provide models of opposition rather than revolution and aim to undermine a system that, as de Certeau reminds us, 'itself remains intact'." The technological gestures of tactical media artworks operate in the world as it is now, while reflecting upon, resisting, and offering alternatives to it. Raley says that tactica media is a "mutable category" that includes "practices such as reverse engineering, hacktivism, [...] the digital hijack, [...] collaborative software, and open-access technology labs [...]" [@raleyTacticalMedia2009]. In its many forms, tactical media (like craft) consists not only of its material objects, but also its communities, networks, protocols, and processes of disturbance and resistance. 
+>"Pranking an AI — giving it a task and watching it fail — is a great way to learn about it" [@shaneYouLookThing2021]
 
-Material resistance
-<!-- >"resistance in the materials" (positive, from tools we made, or lazy/negative a learning curve as an outsider) (Nowviskie, from methodologies class) (Sennett?) -->
+Let's briefly discuss some techniques employed in craftiness as refusal and resistance: adversarial use, extreme use, handcraft practices, and esoteric/DIY systems. These techniques often overlap, reflect one another, or are used in tandem. Of course they are not the only techniques, but a few I have spotted in the wild and have used myself. 
 
-Queer use can be a way of 'living otherwise' and be read in some cases as a form of tactical media. Sara Ahmed describes queer use as an entanglement of refusal and a taking-up of the unused: 
+**Adversarial use** uses technology against the grain or against the goals of its creators. In ["Autonomous Trap 001"](https://www.jamesbridle.com/works/autonomous-trap-001), James Bridle used a salt circle drawn in the pattern of highway lines to trap a self-driving car in one spot, nodding to ritual magic while showing the ease with which 'smart' systems could be fooled [@bridleAutonomousTrap001]. In an obfuscation technique called 'baysean flooding', machine-reading platforms are prevented from interpreting data by mixing in an overwhelming amount of false data which cannot be distinguished from 'true' data — such as posting a thousand nonsense social media posts with false locations for every accurate one [@bruntonObfuscationUserGuide2015]. In ["ladymouth"]((https://sarahciston.com/lm)), I created a bot to participate in misogynist online forums in order to post feminist texts, then collected the responses from forum participants and performed these responses at poetry readings. Both are examples of adversarial use [@cistonLadymouthAntiSocialMediaArt2019]. Other forms might also include desire lines, the non-designated paths in parks and natural spaces that are created by human or animal use. 
 
->"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." [@ahmedQueerUse2018]
+**Extreme use**, also known as breaking, looks to what is already broken, concerning, or confusing in existing systems and plunges into those gulfs. By highlighting (or causing) errors and glitches, these works step into the trouble. They hyperbolize aspects of a system in order to attend to the problems this exposes. In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *with* outliers and errors — and with perceptions of women and others as outliers and errors — in order to work *against* the systems that frame them as such: 
 
+>"the idea of our contemporary social-political-economic system as an already-broken machine full of the incompatibly queer, raced, classed, and sexed broken-down machines is politically exciting for feminism. [...] A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves." [@sharmaManifestoBrokenMachine2020]
 
-[//][This feels like evidence for a whole separate chapter/paper]
+In ["Google Maps Hack (Traffic Jam)"](https://simonweckert.com/googlemapshacks.html), Simon Weckert walked through the city pulling a handcart full of mobile phones running Google Maps in order to cause the app to display traffic jams where there were not any [@weckertGoogleMapsHacks]. Sadie Benning created their short films like ["Girl Power"]((https://youtu.be/tuZ4Bo9GYjk)) on a camera originally produced by Fisher Price as a toy, which made videos on an audio cassette. Benning's films pushed the limited form to the brink, documenting their experience as a 1990s teenage lesbian while sampling a wide range of music, other video, and text on its glitchy black and white surface, all from inside their bedroom [@benningsadieGirlPower19922023]. In ["innervoiceover"](https://sarahciston.com/IVO), I chained together speech-to-text and text-to-speech tools in a participatory gallery installation, with the understanding that this would amplify the errors, because I wanted to make visible these processes as well as to explore the potential for poetic effect [@cistonMISUNDERSTANDINGPOETICSCOLLABORATING2022].
 
+**Handcraft practices** may involve craft tools or may involve handcraft approaches taken up with high-tech materials, or both! In ["The Internet of Towels — Knotty Articulations"](https://anuradhareddy.com/Internet-of-Towels-Knotty-Articulations), Anuradha Reddy used the process of crocheting a towel to study lenticular images and the production of QR codes. The result was a 3D-textured towel which, only when viewed from an angle, can be read as a valid QR code by a QR reader or phone [@reddyInternetTowels2021]. Elisa Giardina Papa documented her work as a human trainer for AI systems in [*Leaking Subjects & Bounding Boxes: On Training AI*](http://www.elisagiardinapapa.org/), collecting images and instructions from some of the thousands of tasks she was assigned "which seemed to resist AI’s orderly impulse." By turning this labor-intensive work into an art object, the book asks its readers to reconsider the work of classification as a handcraft [@EGP]. In ["No Knots, Only Loops"](https://sarahciston.com/anarchies.html), I documented the months I took to produce a crochet sculpture. The work offers a tangible means to grappled with the uncanny scale of large language models, by comparing the number of stitches in a huge sculpture to the number of parameters in a model (finding them still insufficient to "model" the model). 
 
-Queer use, fit
->"as if they are here because they happened to fit rather than they fit because of how the structure was built." [@ahmedQueerUse2018](overfit/underfit)
-Sara Ahmed says, "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you." In the machine learning parlance we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others [@ahmedQueerUse2018]. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
-
+**Esoteric systems**, or DIY systems, are often a response from artists or communities when they cannot find the tools or resources they need in existing forms or formats. Creating their own alternatives in response to the lack they perceive, artists' esoteric systems can be inventive and generative, investigative and critical, or justice-seeking and recooperative, among other things. In ["Coem"](https://kayserifserif.place/work/coem/), Katherine Yang created an esoteric programming language that "imagines poetry as purposeful and code as emotional," working against general-purpose languages that prioritize efficiency over feeling. Developing a language with different core values demonstrates how value systems drive code design and inform the functions a language allows as well as what operations and outputs it can produce [@yangCoem]. In ["ImageNet Roulette"](https://paglen.studio/2020/04/29/imagenet-roulette/), Kate Crawford and Trevor Paglan created an interface for exploring a popular dataset used in many machine learning foundation models, in order to reveal the dataset's problematic taxonomies that classified people as, for example, "slattern, slut, slovenly woman, trollop" or "failure, loser, non-starter, unsuccessful person" [@crawfordExcavatingAIPolitics2019]. By building a system that let public audiences explore the dataset in an accessible way, they could bring personal understanding to the issues with how such datasets are created and used in many kinds of machine learning tasks. In my upcoming research project ["Unsupervised Pleasures"](https://unsupervisedpleasures), developed in collaboration with Emily Martinez, we are developing alternative approaches to conscientious dataset development based on intersectional principles and practices, in hopes that these shift the outputs when applied to language models (and as a provocation for imagining different model architectures as well).
 
 
 
-*Adversarial use, desire lines, salt circles*
-  * [Autonomous Trap 001 (2017)](https://www.jamesbridle.com/works/autonomous-trap-001) James Bridle
-  * "Baysean flooding" [@bruntonObfuscationUserGuide2015] overwhelming a platform or service with false data intermixed with true data, making it impossible for machine-reading systems to distinguish
-  * [ladymouth (2015–2019) Sarah Ciston]((https://sarahciston.com/lm))
-
-*Extreme use, aka breaking and other fun*
-  * [Google Maps Hack (Traffic Jam) (2020)](https://simonweckert.com/googlemapshacks.html) Simon Weckert
-  * [Pixelvision filmmaking (e.g. "Girl Power") (1992)](https://youtu.be/tuZ4Bo9GYjk) Sadie Benning
-  * [innervoiceover (2019)](https://sarahciston.com/IVO)
-
-*Handcraft practices*
-  * [The Internet of Towels — Knotty Articulations (2021)](https://anuradhareddy.com/Internet-of-Towels-Knotty-Articulations), Anuradha Reddy
-  * [Leaking Subjects & Bounding Boxes: On Training AI (2022)](http://www.elisagiardinapapa.org/) Elisa Giardina Papa
-  <!-- * [Declassifier & Humans of AI (2019)](https://philippschmitt.com/work/humans-of-ai) Phillip Schmitt -->
-  * [No Knots, Only Loops (2023)](https://sarahciston.com/anarchies.html) Sarah Ciston
-
-*Esoteric systems, or DIY systems*
-  * [Coem (2022)](https://kayserifserif.place/work/coem/) Katherine Yang
-  * [ImageNet Roulette: Kate Crawford & Trevor Paglan]()
-  * Sys server, feminist server manifesto, serve pub, "A Traversal Network of Feminist Servers"
-  * [Unsupervised Pleasures (2022–)](https://unsupervisedpleasures) Sarah Ciston & Emily Martinez
+Not accepting models as the world we want to live in. This is a prefigurative act. 
+>"Machine learning and predictive models as they currently exist can also resist reduction, but only if we treat the gaps between their results and our realties as spaces for political action, not errors to be fixed. We need to treat these models as we do global climate change models. GCC models offer us the most probable future, given past actions, not so that we accept that future, but so we work to change it. Only global climate change deniers seek to fix the model, rather than the world." [@chunDiscriminatingDataCorrelation2021]
 
 
-begets innovation 
->"As with chess, knitting starts with the same point of departure, and all games and knits start with the same set-up. But turing the process, even within the limits of rigit protocols, the moves diverge very rapidly [...]. new tactics in chess constantly evolve and every new master beats the previous, not because of superior intelligence, but through the development of new techniques and tactics, actualized within these vast possibilities. Innovation in chess does not happen through conservation, but through constant confrontation and risk-taking." [@vonbuschZenAbstractMachine2013]
-
-Extreme use: Such work can look to what is already broken in existing systems and plunge into those gulfs. Focusing on the errors, glitches, [XXX]
-In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *with* perceptions of [women and others as] outliers and errors, in order to work *against* the systems that frame them as such: 
->>"the idea of our contemporary social-political-economic system as an already-broken machine full of the incompatibly queer, raced, classed, and sexed broken-down machines is politically exciting for feminism."[@sharmaManifestoBrokenMachine2020]
-
->"A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves." [@sharmaManifestoBrokenMachine2020]
-
->"being challenged by the machine world is one of patriarchy's deepest fears. [...] The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution."[@sharmaManifestoBrokenMachine2020]
+>"An anti-fascist approach to AI is a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we're already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good." [@mcquillanResistingAIAntifascist]
 
 
 Refusing how technologies have been posited as serving capitalist goals can mean reorienting toward technologies of sharing. 
@@ -737,7 +708,7 @@ Refusing how technologies have been posited as serving capitalist goals can mean
 
 TechNO is also open-access, open-source — in their refusal to capitulate to capitalist regimes of encapsulation, privatization, knowledge-hoarding and gatekeeping. 
 
-
+@EGP
 Imagine a [xxx] as handy as a hammer or a saw, a custom machine-learning model as easy to pick up and use as a garden trowel. 
 
 >"The mere act of owning real tools and having the power to use them is a radical and rare idea that can help change the world around us" [@schwarzAnarchistToolChest2010] [XXXusedabovealready]
@@ -747,12 +718,8 @@ Fewer tools, more skill-building. Minimalism. Smaller toolboxes, more familiariz
 
 
 
->"An anti-fascist approach to AI is a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we're already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good." [@mcquillanResistingAIAntifascist]
 
-
-Not accepting models as the world we want to live in. This is a prefigurative act. 
->"Machine learning and predictive models as they currently exist can also resist reduction, but only if we treat the gaps between their results and our realties as spaces for political action, not errors to be fixed. We need to treat these models as we do global climate change models. GCC models offer us the most probable future, given past actions, not so that we accept that future, but so we work to change it. Only global climate change deniers seek to fix the model, rather than the world." [@chunDiscriminatingDataCorrelation2021]
-
+<!-- in IAIT? -->
 
 Open-source projects are often open in name only. OpenAI is the most prominent example of this, as a company that began creating machine learning models that offered research access but has increasingly become closed and proprietary. Elsewhere, I have written about the gaps in open-source works which do nothing more than place a single version of their source code online — in contrast to robust, responsive open-source projects that develop their work over multiple versions in consultation with their communities. Elea Zhong argues that not only do large corporate entities claiming to be open source often fail to offer substantive contributions to open-source communities, they misuse the term 'open source' to extort free labor. 
 
@@ -1046,15 +1013,15 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 Correspondence not assemblage: 
 >"This whole is a correspondence, not an assemblage, the elements of which are joined not 'up' but 'with'. Whereas the agglutinative accretions of the assemblage are 'and … and … and', the differential sympathies of the correspondence are 'with … with … with'." (Ingold 2015, 23) "sympathy is a 'living with' rather than a 'looking at', a form of feelingknowing that operates in the interstices of things, in their interiority. It is, Spuybroek writes, 'what things feel when they shape each other'. 3"
 
->"This possibility of creating directed, coordinated, and controlled sets of techniken [cultural techniques] that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022]
+<!-- >"This possibility of creating directed, coordinated, and controlled sets of techniken [cultural techniques] that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022] -->
 Address means you are locatable in space, means you are reachable:
 >"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries."  [@dhaliwalAddressabilityWhatEven2022]
 
 
-*could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked*
+<!-- *could produce the dissertation like Four Times Through the Labyrinth, a performance of a performance, --series but nonlinear,layered, aphoristic, multimediaed, networked* -->
 
 
-these may go in the Toolkit instead...
+<!-- these may go in the Toolkit instead...
 
 #### Key forms & foundational concepts of generative AI systems explained
 
@@ -1087,10 +1054,14 @@ these may go in the Toolkit instead...
   - "bias transfer both (a) arises in realistic settings (such as when pre-training on ImageNet or other standard datasets) and (b) can occur even when the target dataset is explicitly de-biased" @salmanWhenDoesBias2022
 
 
->"computers were humans (mostly women), and digital computers were primarily used for complex calculations, especially in wartime military contexts. Amid the ballistic calculations, Turing speculated on a prompt from his teacher, philosopher Ludwig Wittgenstein: Can machines think? Both men thought it was a ridiculous question" [@veeTextGenEdTeachingText2023]
+>"computers were humans (mostly women), and digital computers were primarily used for complex calculations, especially in wartime military contexts. Amid the ballistic calculations, Turing speculated on a prompt from his teacher, philosopher Ludwig Wittgenstein: Can machines think? Both men thought it was a ridiculous question" [@veeTextGenEdTeachingText2023] -->
 
 
-In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
+<!-- In deep interdisciplinary practice in classrooms, necessarily, "the topic of inquiry emerged as primary and our institutionally-created selves emerged as secondary" [@mcclellanDeepInterdisciplinarityCritical2014]
 
 TERM: *Deep Interdisciplinarity* is able to view these fundamental states as hybrid, not only different fields or concepts but the core ways of seeing/being/becoming. The approach of constantly shifting lenses and destabilizing and viewing as spectra. Ontologically interdisciplinary. (not ontology or being but becoming, process philosophy). Bakhtin’s heteroglossia ("another's speech in another's language, serving to express authorial intentions but in a refracted way" (1934)) and polyphony. But what are the larger interfaces & infrastructures that could enable hybrid language and switching across, that can facilitate expanded ways of thinking? 
-* deep interdisciplinarity
+* deep interdisciplinarity -->
+
+
+<!-- begets innovation 
+>"As with chess, knitting starts with the same point of departure, and all games and knits start with the same set-up. But turing the process, even within the limits of rigit protocols, the moves diverge very rapidly [...]. new tactics in chess constantly evolve and every new master beats the previous, not because of superior intelligence, but through the development of new techniques and tactics, actualized within these vast possibilities. Innovation in chess does not happen through conservation, but through constant confrontation and risk-taking." [@vonbuschZenAbstractMachine2013] -->
