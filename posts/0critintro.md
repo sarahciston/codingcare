@@ -725,11 +725,20 @@ LEARNING GOALS: Through *Coding.Care*, understand how to approach programming wi
 ### FORMATIVE: *A Critical Field Guide for Working with Machine Learning Datasets* and *Inclusive Datasets Research Guide*
 {: .no_toc }
 
->*A Critical Field Guide for Working with Machine Learning Datasets* is a practical in-depth guide for navigating giant datasets and the implications of their use. It distills the complex aspects of working with datasets into easily graspable terms.
+Datasets provide the foundation for all of the large-scale machine learning systems we encounter today, and they are increasingly part of many other research fields and daily life. Many technical guides exist for learning to work with datasets, and much scholarship has emerged to study datasets critically [@corryCriticalDatasetStudies, @gillespieCriticalAlgorithmStudies2015]. Yet no guides attempt to combine technical and critical approaches comprehensively. Every dataset is partial, imperfect, and historically and socially contingent — yet the abundance of [problematic datasets and models] shows how little attention is given to these critical concerns in typical use. 
 
-LEARNING GOALS: Through the Critical Field Guide, understand the training datasets and how to work with them before they become models. Take action to [XXX] 
+*A Critical Field Guide for Working with Machine Learning Datasets* helps navigate the complexity of working with giant datasets. Its accessible tone and zero assumed knowledge support direct use by practitioners of all stripes — activists, artists, journalists, scholars, students — anyone who is interacting with datasets in the wild and wants to use them in their work, while being mindful of their impacts. Developed with Kate Crawford and Mike Ananny, as part of their research team Knowing Machines, the field guide discusses parts and types of datasets, how they are transformed, why bias cannot be eliminated, and questions to ask at every stage of the dataset lifecycle. Importantly, it shares benefits of working critically with datasets when (on the surface) it may seem just as easy not to. 
 
-This format supports direct use by practitioners of all stripes — activists, artists, journalists, scholars, students — anyone who is interacting with datasets in the wild and wants to use them in their work, while being mindful of their impacts.  
+The *Inclusive Datasets Research Guide* is an interactive digital guide to [XXX] that supports academic researchers looking for resources and support in finding  
+Developed by a team at USC Libraries, with the support of a grant from the USC Office of Research, this research guide was part of an initiative to support the acquisition of more inclusive visual datasets for the arts, humanities, and machine learning. 
+appears on the library's website along with its research guides on many other topics. It offers . 
+
+Both projects reflect on [the stakes of data and the human choices it relies on.][XXX] [Offering it in two forms shows how the information can be tailored subtly for different audiences and contexts. Dependent on their attention spans and the depth of context they require, as well as the field they are coming from ][XXX]
+
+Both emerged from prior work on the *Intersectional AI Toolkit* (below) and are examples of how [ideas/concepts developed in] the Toolkit can be adapted to new institutional contexts. Adapting the Toolkit to new audiences in library science, data science, and the social sciences posed interesting challenges that both expanded and refined the work. 
+
+LEARNING GOALS: Through the *Critical Field Guide for Working with Machine Learning Datasets* and the *Inclusive Datasets Research Guide*, understand the importance of working critically with datasets as part of any machine learning practice. Identify the parts, types, and functions of datasets as you encounter them. Determine whether a particular dataset is a good fit for your project by asking understanding critical questions to ask at each phase of the dataset lifecycle. [Work with the communities impacted by your research to create strategies for addressing potential harms in the datasets you utilize.] 
+
 
 
 ### * : *Interstitial Portals*
