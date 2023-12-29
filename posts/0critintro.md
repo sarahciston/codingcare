@@ -705,50 +705,38 @@ These forms of refusal replace what they reject with alterative visions for [XXX
 
 # def main(): What's Included
 
-Each section of Trans\*formative TechnoCraft puts its thinking into action — tackling related aspects in different forms and for different audiences. The parts combine to enact the ethics and tactics described in this introduction. Together these public-facing resources provide plainspoken translations of technical, critical, aesthetic, and ethical concepts relevant to technology. They are written in approachable, non-academic formats like zines, and produced in contexts like workshops, in order to support discussions across communities of practice — including code creators, AI researchers, and marginalized outsiders — toward understanding the urgency of the issues facing automated technologies and the necessity of each other's skill sets in facing these issue. As a research practice, the work builds on a foundation of artistic experimentation, technical explorations, and critical analysis of natural language processing techniques and the datasets used for machine learning. 
+Each section of Trans\*formative TechnoCraft puts its thinking into action — tackling related aspects in different forms and for different audiences. The parts combine to enact the ethics and tactics described in this introduction. Together these public-facing resources provide plainspoken translations of technical, critical, aesthetic, and ethical concepts relevant to technology. They are written in approachable, non-academic formats like zines, and produced in contexts like workshops, in order to support discussions across communities of practice — including code creators, AI researchers, and marginalized outsiders — toward understanding the urgency of the issues facing automated technologies and the necessity of each other's skill sets in facing these issue. 
 
-The research foundational to this artistic research practice is a 
-
-critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. [XXXmore][methodologies]
-
-### CRAFT: *Coding.Care*
+### CRAFT: *Coding.Care: Field Notes for Making Friends with Code*
 {: .no_toc }
 
-* **care**: inter-relational, mutual aid, healing-centered, dyke ethics of community & nontraditional family, moving away from shame toward vulnerability, bell hooks' communities of care, embodied
-* **coding**: language-based, institutional and social, performative, speech acts
+*Coding.Care* is a pocket guide to sustaining friendly coding communities — why we need them, how to build them, how to let them thrive. It focuses on lessons I learned from Code Collective, the diverse hack lab that I started in 2019. I yearned for the adaptable, encouraging environment I had needed when I was first struggling to learn to program, a space where I wouldn't feel like an outsider for 'not knowing everything' about programming. I suspected others might feel the same. Reminded of the teachers who had showed me code could feel fun and creative instead of prescriptive and stressful, I wanted to share more of that experience. 
 
-In *Coding.Care* I detail five years of engaging [XXX]
+In Code Collective, a mix of media artists, activists, makers, scientists, scholars, and engineers gather to co-work and co-learn, thinking critically with code in an inclusive, interdisciplinary space that supports many kinds of learners. The Collective unites students who may have zero technical experience with those who may have lots of technical experience but perhaps lack a critical or creative lens; and we value their experiences equally, reinforcing the idea: **"We all have something to teach each other."** 
 
-**no cap, joseph beuys** humility, self conscious self deprecating, not warranted. 
+This guide looks at a variety of the strategies and tools we have explored and developed as we have grown. It discusses how we have adapted to meet the needs of our community — from hosted workshops to hybrid-format meetups, from pandemic support to alumni programming. Code Collective's approaches draw on many existing methodologies and methods from intersectional queer, feminist, anti-ableist, and anti-racist theories. The guide connects these approaches to cooperative organizations Varia and p5.js, and to Critical Code Studies and to TechnoCraft practices like working iteratively and breaking critically. 
 
+As a guide for making friends with code, *Coding.Care* discusses how practices such as process-oriented skillbuilding, co-teaching and co-learning, and snacks (always snacks) embody the Collective's guiding values, such as **"scrappy artistic strategies not perfect code."** The guide shares projects and feedback from members of the Collective, who report how these values and practices have shaped them as emerging makers and thinkers. Personally, I have found this community to be the strongest influence on my own research, above and beyond my role as facilitator. Code Collective has become a joyful space for creative risk-taking that nourishes my practice. The guide offers practical advice for getting comfortable with code, while situating these approaches and groups within an **ethics of coding care** — grounded in shared embodied knowledge, embedded co-creation, and programming with and for community — as an antidote to [current XXX] and as an enactment of Trans\*formative Technocraft. 
 
+Through *Coding.Care*'s intimidation-free, learner-led, process-oriented approaches, it both theorizes and models the creation of caring communities and innovative spaces that can transfer knowledge across social strata and intellectual disciplines in order to reshape technological systems. 
 
->Code Collective is a distinctive community of practice and pedagogical space that welcomes and supports many kinds of learners. For almost five years, this diverse hack lab has hosted workshops and hybrid-format meetings, while growing and shifting to meet the needs of our community—from pandemic support to alumni programming. The Collective unites students who may have zero technical experience with those who have lots—and values their experiences equally, with the mantra: "We all have something to teach each other." Through the Collective’s intimidation-free, learner-led, process-oriented approach, it theorizes and models caring community building and innovative university lab space, plus non-academic community workshops that can create knowledge transfer across disciplinary and social strata of all kinds. 
-*I have adapted this format to guest faculty roles and workshops at Ars Electronica, Transmediale, Mozilla Festival, Salzburg International Summer Academy of Fine Arts, and elsewhere.* 
-
-*Coding.Care* offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in early 2019 for emerging media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 
-
-Here, we see creative-critical code as a holistic community practice. This guidebook looks at a variety of the strategies, platforms, and tools we have explored and developed. It discusses how practices in the Collective—including project-oriented skillbuilding, co-teaching/co-learning, and snacks (always snacks)—embody its <span class="purple">guiding values, such as "scrappy artistic strategies not perfect code" and "collaboration not competition."</span> It also discusses some snags and lessons learned from our efforts building the now 3+ years-old community, like how our practices evolved through the shift to online platforms during the pandemic and the subsequent shift to hybrid collaborations. It draws on existing methods from Critical Code Studies and Intersectional queer, feminist, anti-ableist, and anti-racist theory; and it makes connections to similar organizations like Creative Code Berlin, Varia, and p5.js. 
-
-In terms of impact, the guide addresses the ways students report these values and practices have shaped them as emerging makers and thinkers. Personally, even beyond my experiences as facilitator, I have found this community to be the strongest influence on my work. <span class="purple">Creative Code Collective has become a joyful space for creative risk-taking that nourishes my own practice.</span>
-
-In sum, Creative Code Collective positions itself within an <span class="purple">ethics of coding care</span>—grounded in shared embodied knowledge, embedded co-creation, and programming with and for community. It tenderly proclaims: "We all have something to teach each other." Coding is now an essential literacy, but this guidebook calls for reaching beyond the limited literacy offered by the STEM–paradigm that supposedly "anyone can join." Rather, Coding.Care reimagines technoculture as truly being for anyone—to understand, impact, and intervene in. 
-
-
-LEARNING GOALS: Through Coding Care, understand how to  
+LEARNING GOALS: Through *Coding.Care*, understand how to approach programming with less fear and more fun, with less constraint and more community support. Think creatively and critically about the kinds of technologies you want to make and support. Learn to choose and use tools, languages, and platforms that match your goals and ethics. Create or join communities of practice that feel supportive and generative.
 
 ### FORMATIVE: *A Critical Field Guide for Working with Machine Learning Datasets* and *Inclusive Datasets Research Guide*
 {: .no_toc }
 
 >*A Critical Field Guide for Working with Machine Learning Datasets* is a practical in-depth guide for navigating giant datasets and the implications of their use. It distills the complex aspects of working with datasets into easily graspable terms.
 
-LEARNING GOALS: Through the Critical Field Guide, understand the training datasets and how to work with them before they become models. 
+LEARNING GOALS: Through the Critical Field Guide, understand the training datasets and how to work with them before they become models. Take action to [XXX] 
 
 This format supports direct use by practitioners of all stripes — activists, artists, journalists, scholars, students — anyone who is interacting with datasets in the wild and wants to use them in their work, while being mindful of their impacts.  
 
 
 ### * : *Interstitial Portals*
 {: .no_toc }
+
+* (Un)Limiting: ?? // Rebecca Horn
+* (Un)Raveling: No Knots // (Sonya Rapoport?)
 
 These essays are meant to be portals to other times and places where "the past is not lost, however, but rather a space of potential." [@chunDiscriminatingDataCorrelation2021] "Past-present-future" are spaces to know our relationships with systems differently and intimately. [@olufemiExperimentsImaginingOtherwise2021 ]
 
@@ -797,14 +785,15 @@ Why a toolkit, the pleasures and problems of toolkits, the anarchist's toolchest
 - Mattern: @matternUnboxingToolkit2021
 - Anarchist toolchest. @schwarzAnarchistToolChest2010
 
-LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, architectures, systems, hype. Understand the necessity of plural perspectives.
+LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, architectures, systems, hype. Understand the necessity of plural perspectives. Take action to [XXX]
 
 
 ### NO: *Tactical Refusals & Reverse Portals*
 {: .no_toc }
 
-- InnerVoiceOver // On Kawara
-- Ladymouth // Pipilotti Rist
+- (Un)Knowing: Ladymouth // Pipilotti Rist / Ashby's black box
+- (Un)Living: InnerVoiceOver // On Kawara 
+- (Un/Re)Forming: ?? // VALIE EXPORT / Glitch Feminism / Broken Machines
 
 ### TRANS: CONCLUSION/WHAT'S NEXT 
 {: .no_toc }
@@ -845,7 +834,6 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 [//]: # "TK: All Writing Is Code *tetherednetwork*"
 [//]: # "TK: NewReal Critical AI Essay"
 
-
 <!-- #### Methodologies
 * intersectional feminisms
 * queer & feminist media praxis, making/crafting, URGENTCRAFT
@@ -853,6 +841,12 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 * queer theories of futurity, failure, obfuscation, passing, flagging, survival
 * digital humanities & scholarly publishing
 * countercultural print publishing, avant-garde art & poetry, fluxus, oulipo -->
+
+<!-- This research practice builds on a foundation of artistic experimentation, technical explorations, and critical analysis of natural language processing techniques and the datasets used for machine learning. 
+
+The research foundational to this artistic research practice is a 
+
+critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. [XXXmore][methodologies] -->
 
 # Bibliography
 
@@ -903,7 +897,6 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 - McKinney, Cait. *Information Activism: A Queer History of Lesbian Media Technologies.*
 - McPherson, T. (2018). *Feminist in a Software Lab: Difference + Design.* Harvard UP.
 - McQuillan, D. (2022). *Resisting AI*. Bristol UP. 
-- Nake, F. (1971). "There Should Be No Computer Art." Bulletin of the Computer Arts Society.
 - Nardi, Bonnie. (1993). *A Small Matter of Programming.*
 - Nicholson, 
 - Olufemi, L. (2021). *Experiments in Imagining Otherwise.* Hajar Press.

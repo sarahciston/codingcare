@@ -9,6 +9,16 @@ date: 23.12.2023
 <!-- threaded networks: embodied codes for weaving new worlds -->
 <!-- what are the patterns and codes we don't have but need -->
 
+<!-- ![Rapoport self portrait](../assets/img/rapoport-autobio.png)
+
+Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.
+{: .caption } -->
+
+<!-- ![Rapoport Right On](../assets/img/rapoport-righton.jpg)
+
+Sonya Rapoport, Right On, 1976. Pencil, colored pencil, yarn, stamp, ink, and thread on found continuous feed paper, 55" x 45". Credit: Sonya Rapoport Legacy Trust.
+{: .caption } -->
+
 # Codes for (Un)Raveling
 
 <!-- Un/Mouthing -->
@@ -147,6 +157,13 @@ Used to be, you'd knot a string around your finger if you had something to remem
 >"But the knot remembers everything, and has everything to forget. [Untying the knot, therefore, is not a disarticulation. It does not break things into pieces. It is rather a casting off, whence lines that once were bound together go their different ways.]" (The lines connect to make a point, the points connect to make a line)
 
 === 
+
+Sonya's drawings are perfect computations in colored pencil. Computations of feeling and dailiness, the objects on her dresser plotted in six axes, the shoes she owns, and the rare earth elements that work beside her. Sonya works at the university and takes home the extra printouts to draw on. She stitches through dot matrix holes with thread and finds patterns in the existing prints.  
+
+>"My work is an aesthetic response triggered by scientific data," says Sonya. "The format is computer printout, a ritualistic symbol of our technological society. 
+
+
+===
 
 I am trying to weave into the gaps of this system, undermining as it mines me, as it doesn't mind me, powerless as I seem. Can I unravel its seams — still I, still implicated, "staying with the trouble"?
 
