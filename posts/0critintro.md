@@ -349,71 +349,7 @@ The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII jo
 
 [^Q]: As of this writing, we have the newly announced Q*, Open AI's latest project, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023], at the same time as "The Gospel" AI system is used in Isreal to select and increase its bombing targets [hand over fist] [@daviesGospelHowIsrael2023]. [The snake eats itself, the war tech that was being developed at the same time as the beginning of AI, now AI being used for war.] (Warning of the future dangers of AI is a marketing strategy (GPT-2 was a 'too big and too dangerous to release technology and GPT-4 is pay-to-play) and worse it is a distraction from the current dangers they impose, like The Gospel and in more subtle forms.)[XXX]
 
-[xxx][Are these two sections the conclusion, opening out to what's next?]
-
-### [Nearness, Similarity, Interstitial Vectors and Correspondences] 
-
-And all this comes back to nearness and distance, and more specifically how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values could rule instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? What of activation functions that activate these other intuitions outside of X and Y axes, that tamper with expectations?
-
-The \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. [Here's a brief interstitial...] In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) (short for 'linear interpolation' and much more fun to say) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`](https://www.youtube.com/watch?v=jvPPXbo87ds&ab)[^splines] or smoothing. These methods of interpolation are methods of creating or locating nearness and of smoothing the rough journey between. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate value at a position based on values from nearby positions. 
-
-But I always mix up the terms `interpolate` and `interpellate`. To `interpellate` is to interrupt or intercede (again like interstitial) or to summon, cite, call out. Shall I interpolate the distance between `interpolate` and `interpellate`? Political philosopher Frantz Fanon describes being called out as a racialized body and witnessing himself as another person's brutal interpretation [@fanonBlackSkinWhite1967]. Marxist philosopher Louis Althusser describes being hailed by a representative of the State apparatus and understanding it is himself who is meant [@althusserIdeologyIdeologicalState1970]. Both these interpellations are about being seen, about the necessity of submitting to this seeing, about shame. These interpellations are also crossing a distance, creating a nearness, pulling close under duress. This distance is a street or sidewalk, and it is also the conceptual distance between how someone else understands us and how we wish to be known. 
-
-[^splines]: Splines were originally the physical, flexible materials used to create curves between points, used for calculations involved in arches, domes, and ship building. The principle relies on the resistance in materials, on the energy required to bend. 
-
-Interpolation divides up distance, quantifies it, makes it possible to cross (it leaps Zeno's paradox with stepping stones). Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual, through generalization. It pins one down to classificatory schemas (created from collections of other interpellated individuals). [These are weak-star topologies?.] Computationally, proximity helps us jump to conclusions about each other. 
-
-And yet, how many kinds of measurements of distance are there? How many dimensions and ways to fold them?
-
->The technical conditions of various computational systems — analog, digital, or quantum — thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022]
-
->"[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
-
-[We have created so many algorithms for pathfinding. We use these constantly to optimize our ways across spaces and even to optimize our relations to each other. We've created everything about space and time, and how to make more and less of it.] What if — instead of using proximity as a shortcut to sameness — we looked to "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]. What if we found other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and [what futures we shape][xxx]? 
-
-### Nearbyness
-
->"not to speak about but rather to speak nearby"
->>–Trinh T. Minh Ha [@chenSpeakingNearbyConversation1992]
-
-I want to write a theory of nearbyness (near-bi-ness) that is not a theory of nearness. Not nearness as measures and scores, not proximity and similarity, not K-means and K-nearest-neighbors. Filmmaker Trinh T. Minh Ha describes 'speaking nearby' as "a speaking that does not objectify, does not point to an object as if it is distant from the speaking subject or absent from the speaking place. A speaking that reflects on itself and can come very close to a subject without, however, seizing or claiming it" [@chenSpeakingNearbyConversation1992]. This is `nearbyness` as a practice of attending-to, not `nearness` as the foundation for assumption-making. Through what it places in conversation, in contact, in texture, in tension, nearbyness enacts via poetic logics and "forms of indirectness" that, and how, and why its elements require each other. Nearbyness prefigures the more-than which this closeness creates. This is a trans\*disciplinary practice, as more than the sum of its combined fields or niches, and it is a trans\*formative practice too. 
-
-I want to take up Trinh's argument — that the nearby "is an attitude in life, a way of positioning oneself in relation to the world. Thus, the challenge is to materialize it" [@chenSpeakingNearbyConversation1992] — in order to suggest that this nearbyness can respond to computational values of compartmentalizing, modularity, and encapsulation, which silo off data from the code that operates on it. 
-
-These values separate disciplinary discourses from politics and from each other. They separate for efficiency and understanding, security and containment. As [XXX-ID] Tara McPherson says, computation's modular values emerged simultaneously with and in response to the civil rights movement in the US: "the very structures of digital computation correspond to larger cultural shifts that seek to cordon off race and to contain it" [-@mcphersonFeministSoftwareLab2018]. McPherson's metaphor of "lenticular" postcards, which show two separate images when viewed from different angles, demonstrate how modularity allows for invisibility, despite proximity. She argues that lenticular perspectives position "our understandings of race in very narrow registers, fixating on sameness or difference while forestalling connection and interrelation. [...] A lenticular logic is a logic of the fragment or the chunk, a way of seeing the world as discrete modules or levels, a mode that suppresses relation and context." From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, such projects deny their entanglements. They reduce these entanglements to magnitudes of distance in vector dimensions. 
-
-Even "meaning" in language has become increasingly defined by these numerical representations of proximity. Through natural language processing, nearness becomes co-occurance becomes word vector becomes fact and prediction. The [modus operandi/battle cry] of predictive language systems, underlying tools like AdSense and GhatGPT, is a 1957 quip from linguist JR Firth: "the meaning of a word can be inferred by the company it keeps" [@firthApplicationsGeneralLinguistics1957]. 
-
-`Nearbyness` resists this denial of complex entanglements by reuniting them in conversation, bringing close without collapsing distinctions. It is a different way of placing side by side, making note of more than frequency and sameness, with the aim to replace knowing-as-conquering with other kinds of understanding: frisson, spark, and activation; disparity, tension, and curiosity; cooperation and committment, for example. [XXX-ID] Romi Morrison's work on flesh and unknowability describes alternative ways of knowing:
-
->"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." [@morrisonFlesh2021]
-
-[XXX-ID] Lauren Berlant also details how such relations can maintain closeness, without capitulating to machine learning's reductionism, through the same "non-sovereign" knowing Trihn describes: 
-
->"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other's ﬂesh for one's own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It's the experience of affect, of being receptive, in real time." [@berlantCommonsInfrastructuresTroubling2016]
-
-These operations of nearbyness [bring us to form and formative]. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. [This project enacts the process through intuitive and counter-intuitive feeling [@camptListeningImages2017][weirdpivothere?].] For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream. I believe it is both, collecting fragments when you cannot yet see a form, when you cannot do anything else; then cutting away at them until what has already formed becomes clearer. Anuradha Reddy describes the process of working with varied materials similarly as a process of "adjacency":
-
-<!-- accumulation and cutting away, pattern finding in collections of data, as the reverse proxies for making and testing theories, contraposed knowledge generating systems [Joque, Revolutionary Mathematics] -->
-
-[^Flusser]: "[Writing] has nothing to do with constructing. It is, on the contrary, a taking away, a de-structing. It is, both structurally and historically, closer to sculpture than to architecture. It is a gesture of making holes, of digging, of perforating. A penetrating gesture. To write is to in-scribe, to penetrate a surface," [CITE]
-
->"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one's expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." [@reddyArtificialEverydayCreativity2022]
-
-This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. [XXX]
-
-James Bridle suggests that more ecological machines must be "non-binary, decentralized, and unknowing" [@bridleWaysBeingHuman2022] – pointing to where this already occurs in the more-than-human world in which we are immersed. He offers up slime moulds and liquid state machines as analogue computers that show how complex, non-binary operations: 
-
->"have always existed in the natural world, but we had to recreate them in our labs and workshops before we were capable of recognizing them elsewhere. [...] We needed the mental models provided by our technology, the words we make up for its concepts and metaphors, in order to describe and proerly undeerstand that analogous processes are already at play in the more-than human world." 
-
-He also complicates digital decentralization through the reminder that "The project of decentralization also encompasses the process of decentering ourselves [and] additionally insists that actual power, rather than mere connectivity, is shared out." 
-[Bridle furthers these][Bridle offers]:
-
-"unknowing[, means acknowledging the limitations of what we can know at all, ][...] demands a kind of trust in ourselves and in the world to be able to function in a complex, ever-shifting landscape over which we do not, and cannot, have control."
-
-<!-- write with the machine of me and the machines i have learned along the way.  --> 
-
-[//]: # "the magnitude of the distance between them (close/far) of each dimension of the vector"
+[xxx][Nearness sections moved to conclusion from here]
 
 ### Formative 
 
@@ -811,6 +747,70 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
 
 >If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell)
     >> ^[6]: 
+
+### [Nearness, Similarity, Interstitial Vectors and Correspondences] 
+
+And all this comes back to nearness and distance, and more specifically how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values could rule instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? What of activation functions that activate these other intuitions outside of X and Y axes, that tamper with expectations?
+
+The \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. [Here's a brief interstitial...] In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) (short for 'linear interpolation' and much more fun to say) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`](https://www.youtube.com/watch?v=jvPPXbo87ds&ab)[^splines] or smoothing. These methods of interpolation are methods of creating or locating nearness and of smoothing the rough journey between. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate value at a position based on values from nearby positions. 
+
+But I always mix up the terms `interpolate` and `interpellate`. To `interpellate` is to interrupt or intercede (again like interstitial) or to summon, cite, call out. Shall I interpolate the distance between `interpolate` and `interpellate`? Political philosopher Frantz Fanon describes being called out as a racialized body and witnessing himself as another person's brutal interpretation [@fanonBlackSkinWhite1967]. Marxist philosopher Louis Althusser describes being hailed by a representative of the State apparatus and understanding it is himself who is meant [@althusserIdeologyIdeologicalState1970]. Both these interpellations are about being seen, about the necessity of submitting to this seeing, about shame. These interpellations are also crossing a distance, creating a nearness, pulling close under duress. This distance is a street or sidewalk, and it is also the conceptual distance between how someone else understands us and how we wish to be known. 
+
+[^splines]: Splines were originally the physical, flexible materials used to create curves between points, used for calculations involved in arches, domes, and ship building. The principle relies on the resistance in materials, on the energy required to bend. 
+
+Interpolation divides up distance, quantifies it, makes it possible to cross (it leaps Zeno's paradox with stepping stones). Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual, through generalization. It pins one down to classificatory schemas (created from collections of other interpellated individuals). [These are weak-star topologies?.] Computationally, proximity helps us jump to conclusions about each other. 
+
+And yet, how many kinds of measurements of distance are there? How many dimensions and ways to fold them?
+
+>The technical conditions of various computational systems — analog, digital, or quantum — thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022]
+
+>"[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
+
+[We have created so many algorithms for pathfinding. We use these constantly to optimize our ways across spaces and even to optimize our relations to each other. We've created everything about space and time, and how to make more and less of it.] What if — instead of using proximity as a shortcut to sameness — we looked to "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]. What if we found other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and [what futures we shape][xxx]? 
+
+### Nearbyness
+
+>"not to speak about but rather to speak nearby"
+>>–Trinh T. Minh Ha [@chenSpeakingNearbyConversation1992]
+
+I want to write a theory of nearbyness (near-bi-ness) that is not a theory of nearness. Not nearness as measures and scores, not proximity and similarity, not K-means and K-nearest-neighbors. Filmmaker Trinh T. Minh Ha describes 'speaking nearby' as "a speaking that does not objectify, does not point to an object as if it is distant from the speaking subject or absent from the speaking place. A speaking that reflects on itself and can come very close to a subject without, however, seizing or claiming it" [@chenSpeakingNearbyConversation1992]. This is `nearbyness` as a practice of attending-to, not `nearness` as the foundation for assumption-making. Through what it places in conversation, in contact, in texture, in tension, nearbyness enacts via poetic logics and "forms of indirectness" that, and how, and why its elements require each other. Nearbyness prefigures the more-than which this closeness creates. This is a trans\*disciplinary practice, as more than the sum of its combined fields or niches, and it is a trans\*formative practice too. 
+
+I want to take up Trinh's argument — that the nearby "is an attitude in life, a way of positioning oneself in relation to the world. Thus, the challenge is to materialize it" [@chenSpeakingNearbyConversation1992] — in order to suggest that this nearbyness can respond to computational values of compartmentalizing, modularity, and encapsulation, which silo off data from the code that operates on it. 
+
+These values separate disciplinary discourses from politics and from each other. They separate for efficiency and understanding, security and containment. As [XXX-ID] Tara McPherson says, computation's modular values emerged simultaneously with and in response to the civil rights movement in the US: "the very structures of digital computation correspond to larger cultural shifts that seek to cordon off race and to contain it" [-@mcphersonFeministSoftwareLab2018]. McPherson's metaphor of "lenticular" postcards, which show two separate images when viewed from different angles, demonstrate how modularity allows for invisibility, despite proximity. She argues that lenticular perspectives position "our understandings of race in very narrow registers, fixating on sameness or difference while forestalling connection and interrelation. [...] A lenticular logic is a logic of the fragment or the chunk, a way of seeing the world as discrete modules or levels, a mode that suppresses relation and context." From object-oriented programming to object-oriented ontology, from global supply chains to machine learning architectures, such projects deny their entanglements. They reduce these entanglements to magnitudes of distance in vector dimensions. 
+
+Even "meaning" in language has become increasingly defined by these numerical representations of proximity. Through natural language processing, nearness becomes co-occurance becomes word vector becomes fact and prediction. The [modus operandi/battle cry] of predictive language systems, underlying tools like AdSense and GhatGPT, is a 1957 quip from linguist JR Firth: "the meaning of a word can be inferred by the company it keeps" [@firthApplicationsGeneralLinguistics1957]. 
+
+`Nearbyness` resists this denial of complex entanglements by reuniting them in conversation, bringing close without collapsing distinctions. It is a different way of placing side by side, making note of more than frequency and sameness, with the aim to replace knowing-as-conquering with other kinds of understanding: frisson, spark, and activation; disparity, tension, and curiosity; cooperation and committment, for example. [XXX-ID] Romi Morrison's work on flesh and unknowability describes alternative ways of knowing:
+
+>"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." [@morrisonFlesh2021]
+
+[XXX-ID] Lauren Berlant also details how such relations can maintain closeness, without capitulating to machine learning's reductionism, through the same "non-sovereign" knowing Trihn describes: 
+
+>"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other's ﬂesh for one's own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It's the experience of affect, of being receptive, in real time." [@berlantCommonsInfrastructuresTroubling2016]
+
+These operations of nearbyness [bring us to form and formative]. The assembling logic here is of accretion and coalition – an *Arcades Project* of wandering, filing, putting like with like, but also unlike and other aspects together, or at least nearby. It is a machine learning task, an `un-machine un-learning` task, to decide how information goes together or does not, to find patterns in a system. It is also a very human activity. [This project enacts the process through intuitive and counter-intuitive feeling [@camptListeningImages2017][weirdpivothere?].] For some, like Vilém Flusser,[^Flusser] writing is a sculptor's cutting away. For others, like Walter Benjamin, writing is a collector's fever dream. I believe it is both, collecting fragments when you cannot yet see a form, when you cannot do anything else; then cutting away at them until what has already formed becomes clearer. Anuradha Reddy describes the process of working with varied materials similarly as a process of "adjacency":
+
+<!-- accumulation and cutting away, pattern finding in collections of data, as the reverse proxies for making and testing theories, contraposed knowledge generating systems [Joque, Revolutionary Mathematics] -->
+
+[^Flusser]: "[Writing] has nothing to do with constructing. It is, on the contrary, a taking away, a de-structing. It is, both structurally and historically, closer to sculpture than to architecture. It is a gesture of making holes, of digging, of perforating. A penetrating gesture. To write is to in-scribe, to penetrate a surface," [CITE]
+
+>"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one's expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." [@reddyArtificialEverydayCreativity2022]
+
+This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. [XXX]
+
+James Bridle suggests that more ecological machines must be "non-binary, decentralized, and unknowing" [@bridleWaysBeingHuman2022] – pointing to where this already occurs in the more-than-human world in which we are immersed. He offers up slime moulds and liquid state machines as analogue computers that show how complex, non-binary operations: 
+
+>"have always existed in the natural world, but we had to recreate them in our labs and workshops before we were capable of recognizing them elsewhere. [...] We needed the mental models provided by our technology, the words we make up for its concepts and metaphors, in order to describe and proerly undeerstand that analogous processes are already at play in the more-than human world." 
+
+He also complicates digital decentralization through the reminder that "The project of decentralization also encompasses the process of decentering ourselves [and] additionally insists that actual power, rather than mere connectivity, is shared out." 
+[Bridle furthers these][Bridle offers]:
+
+"unknowing[, means acknowledging the limitations of what we can know at all, ][...] demands a kind of trust in ourselves and in the world to be able to function in a complex, ever-shifting landscape over which we do not, and cannot, have control."
+
+<!-- write with the machine of me and the machines i have learned along the way.  --> 
+
+[//]: # "the magnitude of the distance between them (close/far) of each dimension of the vector"
 
 
 [//]: # "TK: All Writing Is Code *tetherednetwork*"
