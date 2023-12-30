@@ -670,7 +670,7 @@ Tactical media are works that resist, revise, reverse, reimagine their materials
 
 Crafters and other artists know that resistance can emerge from the properties of the materials themselves, and that creation is a cooperative effort between maker and material. Digital humanities researcher Bethany Nowviskie argues that this resistance is a reminder of "the material nature of every generative or transformative textual process" most useful when makers have deep knowledge of their environment, including the time and access allows them to make and refine their own tools: "the material nature of every generative or transformative textual process" [@nowviskieResistanceMaterials2013].
 
-Queer use is a form of resistance, both material resistance and cultural resistance. It can be a way of 'living otherwise' and might be read in some cases as a form of tactical media. Sara Ahmed describes queer use as both a refusal of normative use and an embrace of the unused: 
+Queer use is a form of resistance, both material resistance and cultural resistance. It can be a way of 'living otherwise' and might be read in some cases as a form of tactical media. Feminist writer Sara Ahmed describes queer use as both a refusal of normative use and an embrace of the unused: 
 
 >"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." [@ahmedQueerUse2018]
 
@@ -720,7 +720,7 @@ As a guide for making friends with code, *Coding.Care* discusses how practices s
 
 Through *Coding.Care*'s intimidation-free, learner-led, process-oriented approaches, it both theorizes and models the creation of caring communities and innovative spaces that can transfer knowledge across social strata and intellectual disciplines in order to reshape technological systems. 
 
-LEARNING GOALS: Through *Coding.Care*, understand how to approach programming with less fear and more fun, with less constraint and more community support. Think creatively and critically about the kinds of technologies you want to make and support. Learn to choose and use tools, languages, and platforms that match your goals and ethics. Create or join communities of practice that feel supportive and generative.
+OBJECTIVES: Through *Coding.Care*, understand how to approach programming with less fear and more fun, with less constraint and more community support. Think creatively and critically about the kinds of technologies you want to make and support. Learn to choose and use tools, languages, and platforms that match your goals and ethics. Create or join communities of practice that feel supportive and generative.
 
 ### FORMATIVE: *A Critical Field Guide for Working with Machine Learning Datasets* and *Inclusive Datasets Research Guide*
 {: .no_toc }
@@ -735,72 +735,49 @@ Developed by a team at USC Libraries, with the support of a grant from the USC O
 
 Both the Critical Field Guide and the Inclusive Datasets Research Guide reflect on the stakes of datasets and the human choices they relies on. Reframing the information in two different forms shows that it can be more effective in different contexts, depending on the audiences and the rhetorical tone they require. Both works are examples of how concepts and processes researched in the *Intersectional AI Toolkit* (below) can be reworked for new institutional contexts. Adapting the Toolkit to new audiences in library science, data science, and the social sciences posed interesting challenges that both expanded and refined the work. It required the ideas be scaled up and applied, and sometimes renegotiated until their rewordings no longer felt like watering down. So much of [the work] I am still learning, is about [people where they are][which means remembering that I have as much or more to learn from others than the other way around.] In each project, I got to learn how another field has addressed the problems of knowledge organization and bias, historically and in the present. Library scientists, of course, have at least a century of practice considering questions of how to categorize, curate, and archive. Social scientists have been asking how and what to measure for just as long. None of this is perfect, either, but learning from each institution, and combining thse with what machine learning is trying to ask, helps me understand better how we got where we are today. Combining these with what other intersectional practices may already understand helps me understand better what each domain might learn from the other. 
 
-LEARNING GOALS: Through the *Critical Field Guide for Working with Machine Learning Datasets* and the *Inclusive Datasets Research Guide*, understand the importance of working critically with datasets as part of any machine learning practice. Identify the parts, types, and functions of datasets as you encounter them. Determine whether a particular dataset is a good fit for your project by asking understanding critical questions to ask at each phase of the dataset lifecycle. [Work with the communities impacted by your research to create strategies for addressing potential harms in the datasets you utilize.] 
+OBJECTIVES: Through the *Critical Field Guide for Working with Machine Learning Datasets* and the *Inclusive Datasets Research Guide*, understand the importance of working critically with datasets as part of any machine learning practice. Identify the parts, types, and functions of datasets as you encounter them. Determine whether a particular dataset is a good fit for your project by asking understanding critical questions to ask at each phase of the dataset lifecycle. [Work with the communities impacted by your research to create strategies for addressing potential harms in the datasets you utilize.] 
 
-
-
-### * : *Interstitial Portals*
+### \*: *Interstitial Portals*, NO: *Tactical Refusals*, \*: *Reverse Portals*
 {: .no_toc }
 
 * (Un)Limiting: ?? // Rebecca Horn
 * (Un)Raveling: No Knots // (Sonya Rapoport?)
+* (Un/Re)Forming: ?? // VALIE EXPORT / Glitch Feminism / Broken Machines
+* (Un)Knowing: Ladymouth // Pipilotti Rist / Ashby's black box
+* (Un)Living: InnerVoiceOver // On Kawara 
 
-These essays are meant to be portals to other times and places where "the past is not lost, however, but rather a space of potential." [@chunDiscriminatingDataCorrelation2021] "Past-present-future" are spaces to know our relationships with systems differently and intimately. [@olufemiExperimentsImaginingOtherwise2021 ]
+Michel de Montaigne called the essay form a 'trial' or 'attempt'. These interstitial essays are attempts to speak in the nearbyness of *Trans\*formative TechnoCraft*. They are trials, in the sense of struggles, to get closer to the core of the creature by sneaking between its ribs. An oblique strategy, they glance against logical modes of critical analysis or direct address, in order to become the [thing] and probe the [thing] and interrupt the [thing] [simultaneously]. 
+
+As an alternate take on "bias" (because bias cannot be "optimized" out of systems), these are bias cuts moving diagonally or diffractively across the warp and weft of the fabric of the other texts here. Cutting and sewing on the bias puts fabric in tension, making garments that take the shape of the bodies they surround. Bias cuts are ways of working with and against materials, acknowledging their limits and not resolving them to right angles. Thus, these essays sustain the research tensions of *Trans\*formative TechnoCraft*, unfurling the questions in the materials rather than folding them away. 
+
+Locating (and writing in) "a correspondence, not an assemblage," the essays join together by "living with" concepts [@ingoldLifeLines2015]. They are portals to a co-existing "past-present-future" [@olufemiExperimentsImaginingOtherwise2021] for exploring our relationships with systems differently and intimately, in which "the past is not lost, however, but rather a space of potential" [@chunDiscriminatingDataCorrelation2021]. [This is the threading together of nearbyness.]
 
 >"the future is not in front of us, it is everywhere simultaneously: multidirectional, variant, spontaneous. We only have to *turn around*. Relational solidarities, even in their failure, reveal the plurality of the future-present, help us to see through the impasse, help temporarily eschew what is stagnant, help build and then prepare to shatter the many windows of the here and now." [@olufemiExperimentsImaginingOtherwise2021] 
->"The imagination is central to the cultural production of revolutionary movements; its primary role is to signal *what could be. What could be* is a lingistic stand-in for a set of political, social and cultural demands, strategic aims, revolutionary longings. As such, it resists singular definition."[@olufemiExperimentsImaginingOtherwise2021]  
+<!-- >"The imagination is central to the cultural production of revolutionary movements; its primary role is to signal *what could be. What could be* is a lingistic stand-in for a set of political, social and cultural demands, strategic aims, revolutionary longings. As such, it resists singular definition."[@olufemiExperimentsImaginingOtherwise2021]   -->
 
-Michel de Montaigne called his essays 'trials' or 'attempts'. These interstitial essays are attempts (essay: to try). They are also trials in the sense of struggles, to get at the core of the thing by sneaking between its ribs. They glance against logical modes of academic critical analysis or direct writing [as the production of use or call to action [XXXword?]] to be the thing and interrogate the thing at once.  
+As part of locating correspondences, the essays also use correspondance as a form, relying on epistolary address to conjure up analogue antecedents to the digital media discussed in other sections of *Trans\*formative TechnoCraft*. I read the works of several 20th century media artists as pre-responses to automated systems. Their wide range of practices — from minimalist daily rituals to queer feminist body art and performance — show how we have always—already been living in, talking about, performing with the questions amplified by automated systems, classification, and datification. Their works offer a breadth of artistic possibilities for reconsidering our relationships with computational systems — and these responses were already being established in parallel to the development of those systems. They help me reimagine how I want to respond now now.
 
->"to let this book be the crisis rather than about the crisis or crises, rather, a plurality of traumas and pains felt collectively and individually." [@cerankowskiSutureTraumaTrans2021]
+Finally, the essay form is a kind of embodied processing that moves the [corpus through the corpus], a reckoning in throat and gut that pairs bodily processing with computational processing. These interstitial essays serve, as queer scholar KJ Cerankowski writes, "to let this book be the crisis rather than about the crisis or crises, rather, a plurality of traumas and pains felt collectively and individually" [@cerankowskiSutureTraumaTrans2021]. Long traditions of artistic and literary outliers have maintained the need for such forms, like autotheory and lyric essay, which bridge aesthetic, personal, and political concerns. From these traditions, I am interested both in the constitutive act of form-making (as prefiguration) and in the reconsitituion of critical forms into poetic, personalized, or approachable forms [@fournierAutotheoryFeministPractice2021].
 
->"constituting life through the act of writing—rather than as expressive (describing a life that exists prior to the act of writing about it)." [@fournierAutotheoryFeministPractice2021]
+<!-- >"In projects like Theory Boner, artists and writers and curators come together to configure critical theory as something that must be processed and transmuted through the body and is very physical and even sexual in its effects on us; like [Hazel] Meyer's No Theory No Cry, [these works] make space for a way of relating to theory that is embodied, affective, and more directly relevant to the lives of queer and gender-nonconforming feminist artists, activists, and students. [@fournierAutotheoryFeministPractice2021] >"constituting life through the act of writing—rather than as expressive (describing a life that exists prior to the act of writing about it)." [@fournierAutotheoryFeministPractice2021]
+-->
 
-Interest is about associative power, and connection
->"Isabelle Stengers argues that "interesting" in science involves a similar binding of subjects to subjects. Noting that "interest" derives from interesse, "to be situated between," [@ngaiOurAestheticCategories2015]
+<!-- My favorite pieces of writing all feel permissive. In the moment of reading, I feel more alive with the realizataion, "it's allowed to write this way?" And then, the crash: "But who is allowed to write this way? Maybe only after certain requirements are met." I am never sure I am allowed, which is why I always want to try when I am lucky enough to feel supported to try, in hope that my doing so edges open a little more space for others and for othered writing forms. -->
 
-#### Permissive processing
-
-My favorite pieces of writing all feel permissive. In the moment of reading, I feel alive with the thought, "it's allowed to write this way?" And then, "Who is allowed to write this way? Maybe only after certain requirements are met." I'm not sure I am, which is why I will try, in hope that my doing edges open a little more space for others and othered writing forms.
-
-It is a kind of processing — the same information moved through the gut, through the body, rather than computational processing. 
-
->"In projects like Theory Boner, artists and writers and curators come together to configure critical theory as something that must be processed and transmuted through the body and is very physical and even sexual in its effects on us; like [Hazel] Meyer's No Theory No Cry, [these works] make space for a way of relating to theory that is embodied, affective, and more directly relevant to the lives of queer and gender-nonconforming feminist artists, activists, and students. [@fournierAutotheoryFeministPractice2021]
-
-#### Bias cuts
-
-In another take on "bias" (because bias cannot be "optimized" out of systems), these are bias cuts striking diagonally or diffractively across the warp and weft of the fabric of the other texts here. Cutting and sewing on the bias puts fabric in tension, making garments that take the shape of the bodies they surround. Bias cuts are ways of working with and against materials, acknowledging their limits and not resolving them to right angles. 
-
-#### Analogue antecedents
-
-We have always-already been living in, talking about, performing with the questions amplified by automated systems, classifiation, and datafication. These essays engage in dialogue with 20th century media artists with a wide range of practices  — from daily ritual and minimalism to queer feminist body art and performance, from video made in isolation to public intervention — and they read their works as analogue pre-responses to AI systems. Their works show the breadth of artistic possibilities for reconsidering our relationships with computational systems was already establishing itself in parallel to the development of those systems. They also help me reimagine how I encounter data and AI systems now.
-
-
-
-
+[XXX][more?]
 
 ### TECH: *The Intersectional AI Toolkit*
 {: .no_toc }
 
->The Toolkit gathers and synthesizes aspects of queer theory, Black feminism, transfeminisms, and decolonial perspectives that can contribute valuable lenses for machine learning’s most pressing problems. It celebrates work done by other intersectional researchers and artists working to address these issues in many fields. And it is one of the few resources to clarify, without math or jargon, the inner workings of AI and how they always operate as sociotechnical systems. As a digital platform, it creates a forum for others to expand upon the work; and through in-person and hybrid-online workshops, it invites a variety of communities to participate directly in the systems that impact them.
+The *Intersectional AI Toolkit* argues that anyone should be able to understand AI and help shape its futures. Through collaborative sine-making workshops, it aims to find common vocabularies to connect diverse communities around AI's urgent questions. It clarifies, without math or jargon, the inner workings of AI systems and the ways in which they operate always as sociotechnical systems. The Toolkit celebrates intersectional work done by many other researchers and artists working to address these issues in interdisciplinary fields; and it gathers and synthesizes legacies of anti-racist, queer, transfeminist, neurodiverse, anti-ableist theories, ethics, and tactics that can contribute valuable perspective. Its three formats allow for multiple entry points: The digital wiki offers a forum for others to discuss and expand upon its topics. The collection of printed zines share AI topics at a concise, approachable scale. And the in-person and hybrid-online workshops invite multiple communities to participate directly in the systems that impact them.
 
-Why a toolkit, the pleasures and problems of toolkits, the anarchist's toolchest: 
-- >"space of 'instruction, contingency, action, and alternative engagement'" [@gabrysHowThingsSensors2019, 92]
-  - >"Tool kits provide instructions not just for assembly and use but also for attending to the social and political ramifications of digital devices." [@gabrysHowThingsSensors2019] "Tool kits offer up a particular way of concretizing maker-subjects, items for construction, modes of assembly, models of action, modes of becoming, desired outcomes, and ways of holding things together, or binning it all away. Tool kits are ways of organizing problems and relations for action, and even when the point is to crack open the black box of a sensor technology, the component parts that result from such crackery are configured in particular ways to allow for new modes of assembly."
-  - >"the manifesto has given way to the tool kit. The manifesto form of often dogmatic proclamations has yielded to a more open-ended organization of practices. Radical tool kits in particular gather instruments and resources that serve as practical philosophies and modes of organizing in difficult circumstances. [...] tool kits can be shape-shifting genres that variously provide guidance for rerouting, or reinforcing, sociopolitical practices" [@gabrysHowThingsSensors2019]. 
+As Trans\*formative TechnoCraft, the format of the toolkit was highly considered as part of the process of developing the *Intersectional AI Toolkit*. The toolkit form taken up here was first modeled after Ahmed's 'Killjoy Survival Kit' [@ahmedLivingFeministLife2017].[^killjoykit]. The term 'toolkit' was thoroughly contested — too instrumental and object-oriented — but settled upon after nothing else quite suited. Not compendium or catalogue or care package, not index or hub or gazetteer, not manifesto or knapsack or portal. The technologies used went through many iterations, from git repo to wiki to self-hosted hybrid back to repo again, in search of a platform that would facilitate guest user access without heavy onboarding, track edits, and adapt to multimedia zine forms. I am still remaking the work and searching for the perfect form, and I suspect I will have to create it. In its various iterations, the Toolkit includes [XXX][8][topic pages] and [XXX] — as well as offshoots into two datasets projects that reflected back to inform the Toolkit. The Toolkit has culimated into eleven zine-making workshops, compiled into eight printed zines. Citizen data researcher Jennifer Gabrys says toolkits "provide instructions not just for assembly and use but also for attending to the social and political ramifications of digital devices." She says they are spaces of "instructino, contingency, action, and alternative engagement" [@gabrysHowThingsSensors2019]. As such, the *Intersectional AI Toolkit* tries to 
 
-- Mattern: @matternUnboxingToolkit2021
-- Anarchist toolchest. @schwarzAnarchistToolChest2010
+[^killjoykit]: Ahmed says in *Living a Feminist Life* that the killjoy survival kit should contain books, things, tools, time, life, permission notes, other killjoys, humor, feelings, bodies, and your own survival kit.  
 
-LEARNING GOALS: Through the Intersectional AI Toolkit, understand the models, architectures, systems, hype. Understand the necessity of plural perspectives. Take action to [XXX]
+OBJECTIVES: Through the Intersectional AI Toolkit, the need for plural perspectives on AI systems. Understand key terminology related to machine learning and to intersectionality. Share perspectives on the impact of emerging technology as it relates to you. Choose critically which AI tools and resources you will engage and how.
 
-
-### NO: *Tactical Refusals & Reverse Portals*
-{: .no_toc }
-
-- (Un)Knowing: Ladymouth // Pipilotti Rist / Ashby's black box
-- (Un)Living: InnerVoiceOver // On Kawara 
-- (Un/Re)Forming: ?? // VALIE EXPORT / Glitch Feminism / Broken Machines
+<!--  Mattern: [@matternUnboxingToolkit2021] [Anthropologist Shannon Mattern details the many complex [lives] of 'kits', which can act as stop gaps for necessary infrastructure (bug out bags, refugee kits) or as "tools of engagement, as methods of inclusion, for broader communities" (rape kits)] --> 
 
 ### TRANS: CONCLUSION/WHAT'S NEXT 
 {: .no_toc }
@@ -970,9 +947,7 @@ critical reflection on the technical aspects of natural language processing and 
 
 
 
-<!-- 
-Correspondence not assemblage: 
->"This whole is a correspondence, not an assemblage, the elements of which are joined not 'up' but 'with'. Whereas the agglutinative accretions of the assemblage are 'and … and … and', the differential sympathies of the correspondence are 'with … with … with'." (Ingold 2015, 23) "sympathy is a 'living with' rather than a 'looking at', a form of feelingknowing that operates in the interstices of things, in their interiority. It is, Spuybroek writes, 'what things feel when they shape each other'. 3" -->
+
 
 <!-- >"This possibility of creating directed, coordinated, and controlled sets of techniken [cultural techniques] that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022] -->
 Address means you are locatable in space, means you are reachable:
