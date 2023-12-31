@@ -1212,15 +1212,17 @@ Finding a free and open way to share information with one another is essential. 
 
 ### Value documentation
 
-Documentation is hard work, care work, necessary work, code work. It is an integral part of the real work of programming. Both for your future self and your coding collegues, don't skimp on documentation. 
+Remember to try a few types of documentation from different creators (video, textbooks, example code) and a few different tools, too, before you give up in defeat. Different languages and tools work different ways and accomplish different goals. Plus, different creators will explain how they work... differently! 
 
-Documenting does not have to be a formal or stressful; make it an integrated part of your community processes. 
+Documentation is hard work, care work, necessary work, code work. It is an integral part of the real work of programming, despite being systematically devalued in open-source software production along with other important parts of coding like outreach and community management (according to extensive research by communications professor Christina Dunbar-Hester).
+
+If you're writing code, don't skimp on documentation — both for your future self and your coding collegues! Documenting does not have to be a formal or stressful; make it an integrated part of your community processes. 
 
 Your documentation can be friendly and fun to read. Imagine your documentation audience as a younger version of yourself, eager to know what you now know. How did you get here? What would be important for them to understand about what you've done in order to replicate it? What 'gotchas' and assumptions can you help them avoid? Don't take for granted what might feel intuitive to you. 
 
 Your documentation may be easiest to write if you compile it as a diary of your process along the way. Keep a `README.md` file open alongside your working code and make note each day of where you start and stop, what problems you encounter and solve, any libraries and tutorials you use, plus whether they work or not. Include links to resources and wild ideas. You can clean these notes up later for a general public or keep them for your own reference. [CITEAndy] 
 
-For examples of good documentation, I looked to models like the Processing and P5.js community that puts emphasis on access and connecting new coders with approachable information in multiple mediums. I also look to... [XXX]
+For examples of good documentation, I looked to models like the Processing and P5.js community that puts emphasis on access and connecting new coders with approachable information in multiple mediums. Check out the [P5.js wiki](https://github.com/processing/p5.js/wiki), which includes a guide for new contributors as well as tutorials for beginning and intermediate projects. Another great example of documentation is [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/), which walks you step-by-step through learning an entire coding language, with thoughtful explanations along the way. 
 
 [CITE] [CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america] [RUST][PureData]
 

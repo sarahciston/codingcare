@@ -47,13 +47,14 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Connecting Critical AI & Creative Coding
 
-Trans\*formative TechnoCraft argues for the essential entanglement of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. 
+Trans\*formative TechnoCraft argues for the essential entanglement of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows, through a collections of texts that act as [examples in practice], what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. 
+
 
 [...]
 
 
 <!-- How do we encourage this entanglement further? Through approaches that emphasize -->
-The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as [XXX][expand and exploit/exclude from]. A handful of powerful companies warn of the coming dangers, in order to distract from the current dangers they perpetuate. Already toothless policy recommendations are quickly watered down and ignored, while [more and more data represent less and less diversity][more and more compute, more and more natural resources,][harmless fun on one side of the globe is life and death on another.]
+The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers, in order to distract from the current dangers they perpetuate. Already toothless policy recommendations are quickly watered down and ignored, while [more and more data represent less and less diversity][more and more compute, more and more natural resources,][harmless fun on one side of the globe is life and death on another.]
 
 >"computerization can take whatever form we wish it to; therefore we must learn about computers in order to wish better." [Ted Nelson, creator of hypertext, in @SoftwareInformationTechnology1970] 
 
@@ -240,17 +241,26 @@ Art has been the space where I'm able to unpack complex ideas for myself, becaus
 
 It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
  
-This is a practice of artistic research, research-creation, and/or arts-based research (different lineages and regions call it by different names)[cite] [@lovelessHowMakeArt2019]. 
+This is a practice of artistic research, research-creation, and/or arts-based research (different lineages and regions call it by different names) [@lovelessHowMakeArt2019]. 
 
->"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016] "a robust research question may arise through practice as much as practice may be used to pursue a particular research question." "arts-based research is profoundly creative; it acknowledges the power of the imagination, tacit knowledge and embodied knowing. [...] rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change [...]"
-
->"Specifically the "valences" of research-creation [Chapman & Sawchuk] that are not "creative presentation of research" (reporting on research in creative ways), or "research for creation" that supports a stand-alone artwork, or "research from creation" (reporting about artworks after the fact), but rather "creation-as-research" [and I'd add research-as-creation], which Loveless says "Research-creation [...] produces hybrid forms, defamiliarizing and uncanny, that oscillate between more than one 'species' of production and that result in 'offspring' that are often unthinkable, illegible within the current institutional frameworks of academia. It creates a chimera. By bringing research and creation together in such a way that they unpredictably contaminate and remake each other,"
-
->"in failing to fully belong, and allowing that nonbelonging to denaturalize, emergently, its givens, research-creation tells other stories, uncanny stories, that (have the potential to) carry within them the other ethics [that King invites us to attend to]."
+"Specifically the "valences" of research-creation [Chapman & Sawchuk] that are not "creative presentation of research" (reporting on research in creative ways), or "research for creation" that supports a stand-alone artwork, or "research from creation" (reporting about artworks after the fact), but rather "creation-as-research" [and I'd add research-as-creation], which Loveless says 
 
 
->"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
->"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 45 [@starkWorkArtAge2019]
+Neither research that produces art, nor a scholarly presentation of art, nor a creative presentation of research, this hybrid practice of research-creation is what [XXX-ID] Natalie Loveless calls a 'chimera': 
+
+>"By bringing research and creation together in such a way that they unpredictably contaminate and remake each other, in such a way that they render each other uncanny, research-creation makes space in the university for research practices that are grounded in nonhegemonic literacies [...]" "in failing to fully belong, and allowing that nonbelonging to denaturalize, emergently, its givens, research-creation tells other stories, uncanny stories, that (have the potential to) carry within them [...] other ethics" [@lovelessHowMakeArt2019].
+<!-- >"arts-based research is profoundly creative; it acknowledges the power of the imagination, tacit knowledge and embodied knowing. [...]  -->
+>"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016] 
+>In this context, "arts-based research is rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change [...]" [@willisFastForwardFuture2016].
+
+
+>Willis locates in the postcinematic "the imbrication of selves and systems, of agency alongside generative processes" "Our understanding of space [and time] shifts as it is coded computationally" "our viewing is becoming a process of navigating and our stories are the ones that we tell of our own experiences of traversal and exploration." "toward time as presence, performance and exchange. This is an era of acceleration, but also of duration, of elastic time flows and of layering;" "Practice becomes participatory and collaborative, manoeuvring through new conceptions of the spatial and temporal. [@willisFastForwardFuture2016]
+
+
+
+
+<!-- >"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
+>"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 45 [@starkWorkArtAge2019] -->
 
 >"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
 
@@ -262,14 +272,16 @@ Dunbar-Hester and others call for interventions that go deeper than training mor
 >"Voluntaristic technology communities are important sites because they are utopian spaces where people play and tinker not only with technical artifacts but with social reality, imagining social relations through participation"
 
 DH: not about diversity in tech directly, aim at broader social goals of [e.g. decolonization, ecological sustainability, distribution of wealth] which would necessitate changes in tech sector. 
+requires seeing hacking as being about "reframing hacking itself as *primarily about social relations*
 
 >"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley "Dataveillance and Countervailance" in [@gitelmanRawDataOxymoron2013])
 
 
-<!-- Agentic Design & Generative Justice, Audrey Bennett, Ron Elgash-->
 
 Marino, code is collaborative:
 >"Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally." [@marinoCriticalCodeStudies2020a]
+
+<!-- Agentic Design & Generative Justice, Audrey Bennett, Ron Elgash-->
 
 ===
 
@@ -281,9 +293,11 @@ These are instructions for myself(ves), past-present-future, gathering tactics f
 
 Trans\*formative here means emergent, embodied, embedded practices. It means process-oriented, community-oriented practices. It means making space for and honoring what we figure out as we go along, [adjusting and tailoring to the needs and goals of our specific situations as we operate in community]. 
 
-'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair beyond punishment, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care and reorienting the values embedded within technical objects and practices.[cite][^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
+'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair beyond punishment, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care [^careinfrastructures] and reorienting the values embedded within technical objects and practices.[cite][^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
 
 >"From the design to the production to the deployment to the outcome, there is constantly bias built in. It's not just the biases of the people themselves; it’s the inherent bias within the system. There's so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don't believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled." (Hamid Khan interviewed in [@ryan-mosleyActivistDismantlingRacist2020]) 
+
+[^careinfrastructures]: The phrase "infrastructures of care" comes from Christina Dunbar-Hester's *Hacking Diversity*, in which she refers specifically to the work done in open-source and hacker communities to create "more inclusive spaces for women, trans, and gender non-conforming people." I use the term "infrastructures of care" in this work to discuss such communities below, but I also use the term more broadly to refer to mutual aid and other forms of community in practice.
 
 [^reparative]: Reparative and restorative processing are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBTQIA+ histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions]. 
 
