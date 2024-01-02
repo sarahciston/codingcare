@@ -3,7 +3,7 @@ layout: post
 permalink: intro
 title: critical introduction
 nav_order: 2
-date: 23.12.2023
+date: 02.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
@@ -12,77 +12,39 @@ tags: [introduction, theory, practice, hybrid, academic]
 1. TOC
 {:toc}
 
-<!-- <script>
-  let footnotes = document.getElementsByClassName('footnotes')
-  footnotes.setAttribute('role', 'doc-sidenotes')
-  console.log(footnotes.getAttributeNode('role').value)
-</script> -->
+# Connecting Critical AI & Creative–Critical Coding
 
-<!-- <script>
-  let fnId = ''
-  let fn
-  let section = document.createElement('section')
-  section.addClass('sidenotes')
+*Trans\*formative TechnoCraft* argues for the essential entanglement of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
-  let allfn = document.querySelectorAll('[id^="fn:"]')
+The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers in order to distract from the current dangers they perpetuate. Already-toothless policy recommendations are quickly watered down and ignored. Meanwhile more and more data represent less and less diversity, more and more processing power destroys more and more planet. [What is treated as glib fun on one side of the globe is pennies a day and life or death on the other.]
 
-  for (let f in allfn) {
-    fnId = allfn[f].id
-    fn = document.getElementById(fnId)
-    
+But why must it be this way? When Ted Nelson, creator of hypertext, said in 1970 that "computerization can take whatever form we wish it to; therefore we must learn about computers in order to wish better" [@SoftwareInformationTechnology1970], it was still the era of the early internet's false promises of free, democratic, anonymous spaces. Without critical engagement, techno-optimism replicates the [XXX]. We cannot expect technology to solve the problems of technology. But we can reclaim [technology as human craft.] [XXX] [We can work to return more access, investment, community ][XXX][get more people involved, look at it through different lenses, use tech to solve human problems, no not that. transform tech itself rather than tryingto use tech to solve tech created problems] [XXX][COME BACK TO THIS]
 
-    let sn = document.createElement('div')
-    sn.addClass('sn')
-    sn.innerHTML = fn.innerHTML
-    sn.appendChild(fn)
-    section.appendChild(sn)
-  }
-
-  document.body.appendChild(section)
-</script> -->
-
-<!-- <article markdown=1> -->
-
-
-
-# Connecting Critical AI & Creative Coding
-
-Trans\*formative TechnoCraft argues for the essential entanglement of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows, through a collections of texts that act as [examples in practice], what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. 
-
-
-[...]
-
-
-<!-- How do we encourage this entanglement further? Through approaches that emphasize -->
-The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers, in order to distract from the current dangers they perpetuate. Already toothless policy recommendations are quickly watered down and ignored, while [more and more data represent less and less diversity][more and more compute, more and more natural resources,][harmless fun on one side of the globe is life and death on another.]
-
->"computerization can take whatever form we wish it to; therefore we must learn about computers in order to wish better." [Ted Nelson, creator of hypertext, in @SoftwareInformationTechnology1970] 
-
-What does Trans\*formative Technocraft look like? How could it operate? Where does it already? What is it exactly?
-
-takes neither a technosolutionist/technooptimist, nor a doom
-
-I invoke craft here as an expression of the theories, ethics, and tactics of intersectionality and sustainability, in order to ground these ideas in tangible practices which grow out of [lived] communities. Re-binding craft to technology brings slow, circular, cooperative, inclusive, caring [offerings] in order to transform [xxx][xxx].
-
-Though "TechnoCraft" reads like an oxymoron, it is not a stretch to view technology through the lens of craftsmanship. As early as 1993, Lucy Suchman and Randall Trigg called artificial intelligence craftwork, studying the ways a practice designed to represent social and behavioral human systems is itself socially organized. 
->"socially organized craftsmanship - the crafting together of a complex machinery made of heterogeneous materials, mobilized in the service of developing a theory of mind. 
->"the work of designing intelligent machines as a specific form of social practice - a form made the more interesting by APs own concern with the delegation of social practice to machines" [@suchmanArtificialIntelligenceCraftwork1993]
-However, for their research, as for this text, the invocation of craft is the opening for a critique. Suchman and Trigg note the distance between the formalist constraints on AI problem design and its real-world applications. 
-
-
-
-<p class="quote" markdown=1>
+<p class="quote" markdown="1">
 "Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." 
 </p>
 <p class="quote attrib" markdown=1>
 —Ursula M. Franklin [-@franklinRealWorldTechnology2004]
 </p>
 
+What does Trans\*formative Technocraft look like? How could it operate? Where does happen it already? What is it exactly? 
+
+Though "TechnoCraft" reads like an oxymoron, technology-as-craftsmanship is nothing new. In an ethnography of AI developers, Lucy Suchman and Randall Trigg referred to artificial intelligence as 'craftwork'. In what they called "socially organized craftsmanship," they saw "the work of designing intelligent machines as a specific form of social practice - a form made the more interesting by AI's own concern with the delegation of social practice to machines" [@suchmanArtificialIntelligenceCraftwork1993]. Suchman and Trigg invoke craft as an opening for critique, noting the distance between the formalist constraints on AI problem design and the innumerable variables of its real-world applications. 
+
+Here, I apply craft lenses to tech concerns both as a critique and also as a return. Craft, here, is an expression of the theories, ethics, and tactics of intersectionality and sustainability, grounded in tangible practices which grow out of community. Re-binding craft to technology brings slow, circular, cooperative, inclusive, caring [offerings] in order to transform [xxx][xxx].
+
+takes neither a technosolutionist/technooptimist, nor a doom
+
+
+
 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when <span class="purple">learning programming is so often intimidating and riddled with false starts,</span> which can further marginalize those whose perspectives are most necessary in order to face the challenges technoculture presents. 
 
 [XXX][spatial arrangement, like latent representations but logic of nearbyness, discussed below, many fields, multimodal, polyvocal]
 
-## We Need Intersectional Critical AI 
+*Coding.Care: Field Notes for Making Friends with Code* gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. Its pocket-guide form discusses how to build a cooperative, interdisciplinary community for co-learning coding like the one I have facilitated since 2019. The *Intersectional AI Toolkit*'s co-authored zines are accessible guides to both AI and intersectionality, bringing together artists, activists, academics, makers, technologists, and anyone who wants to understand the automated systems that impact them. The work argues that established but marginalized tactics are necessary for reimagining more critical and ethical machine learning. Together these tools and resources ask: *Whose voices, visions, and stories are captured by automated systems? Whose are excluded, harmed, or undermined? How can AI systems be accessible for anyone to engage and intervene in?* And *A Critical Field Guide for Working with Machine Learning Datasets* translates critical AI theories and data science concepts into practical tips for dataset stewardship. Along with the *Inclusive Datasets Research Guide*, these works combine technical skillbuilding and critical thinking for scholars and practitioners beginning to work with datasets, because datasets remain the foundation of machine learning as it grows rapidly in impact. 
+
+
+## Critical AI Must Be Intersectional
 
 <p class="quote" markdown=1>
 "I’m stuck here inputting and outputting the data of a story I can’t change." 
@@ -91,7 +53,7 @@ Yet, how do we participate on our own terms, in order to change systems to suit 
 –Italo Calvino "The Burning of the Abominable House," 1976
 </p>
 
-With every hype, the anti-hype: 
+With every hype comes the anti-hype: 
 
 <p class="quote" markdown=1>
 "Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
@@ -102,9 +64,9 @@ With every hype, the anti-hype:
 
 Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individual white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. 
 
-Automated decision-making systems disproportionately harm the marginalized majority. We are subject to it whenever we lend our data by clicking terms of service pop-ups to make them go away and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our vulnerability in these moments is exploited and profited on — from testing biometric facial technologies in refugee camps [@neddenBiometrieGetestetMillionen2017] to reinforcement learning reliant on AI chatbot user responses. Many amazing researchers have highlighted the increasing impacts of AI systems and surveillance capitalism [@benderDangersStochasticParrots2021; @benjaminRaceTechnologyAbolitionist2019; @buolamwiniGenderShadesIntersectional2018; @browneDarkMattersSurveillance2015; @gebruDrTimnitGebru2021; @nobleAlgorithmsOppressionHow2018]. 
+Automated decision-making systems disproportionately harm the marginalized majority. We are subject to it whenever we lend our data by clicking terms of service pop-ups to make them go away and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our vulnerability in these moments is exploited and profited on — from testing biometric facial technologies in refugee camps [@neddenBiometrieGetestetMillionen2017] to reinforcement learning reliant on chatbot user responses. Many amazing researchers have highlighted the increasing impacts of AI systems and surveillance capitalism [@benderDangersStochasticParrots2021; @benjaminRaceTechnologyAbolitionist2019; @buolamwiniGenderShadesIntersectional2018; @browneDarkMattersSurveillance2015; @gebruDrTimnitGebru2021; @nobleAlgorithmsOppressionHow2018]. 
 
-AI hype describes machine learning systems as impenetrable black boxes. It designs the interfaces with which we engage its tools, it claims the proprietary restrictions that hide its data (our data), and it influences the regulations that keep its power in the hands of a select few. We only break out of those boxes when we refuse to engage on those terms. 
+AI hype describes machine learning systems as impenetrable black boxes. It designs the interfaces with which we engage its tools; it claims the proprietary restrictions that hide its data (our data); and it influences the regulations that keep its power in the hands of a select few. We only break out of those boxes when we refuse to engage on those terms. 
 
 "Artificial intelligence uses classification to encode power," says critical AI researcher Kate Crawford. She argues that computational "ways of seeing depend on the twin moves of abstraction and extraction. But these logics can be challenged, just as systems that perpetuate oppression can be rejected" [-@crawfordAtlasAIPower2021].
 
@@ -113,11 +75,23 @@ AI hype describes machine learning systems as impenetrable black boxes. It desig
 
 The task of Critical AI researchers and makers is to engage these systems as sociotechncial objects embedded in their historical, social, context. We must be "situated in proximity to the thing itself, cultivating some degree of participatory and embodied expertise, whether archival, ethnographic, or applied [@raleyCriticalAIField2023]. This requires interdisciplinary and intersectional perspectives. 
 
-Kimberlé Crenshaw's iconic analysis of power, called Intersectionality[@crenshawDemarginalizingIntersectionRace1989], "critiques systems of power and how those systems structure themselves to impact groups and individuals unequally" [@cooperIntersectionality2016]. 
+Intersectionality, Kimberlé Crenshaw's iconic analysis of power [@crenshawDemarginalizingIntersectionRace1989], "critiques systems of power and how those systems structure themselves to impact groups and individuals unequally" [@cooperIntersectionality2016]. Intersectionality can reveal the human costs of finding ourselves caught within these algorithmic systems – their proliferating data and supporting material infrastructures, as well as their consolidating power and supporting sociocultural infrastructures. Their power is differential by design. Conversations about AI fairness, transparency, explainability, ethics, public good, and the various hype cycles of each new technology are grossly incomplete without intersectional analyses of power and intersectional tactics of (and beyond) equity and inclusion. No change *about* us *without* us. 
 
-Intersectionality can reveal the human costs of finding ourselves caught within these algorithmic systems – their proliferating data and supporting material infrastructures, as well as their consolidating power and supporting sociocultural infrastructures. Their power is differential by design. Conversations about AI fairness, transparency, explainability, ethics, public good, and the various hype cycles of each new technology are grossly incomplete without intersectional analyses of power and intersectional tactics of (and beyond) equity and inclusion. No change *about* us *without* us. 
 
-As industry implementations of so-called intersectional tech reduce these complex concepts into flattened ideas of fairness and representation [@ovalleFactoringMatrixDomination2023a], we need multimodal, polyvocal, experimental approaches that cut through the technological solutionism. [@cistonIntersectionalAIEssential2019] 
+In *Race, Rhetoric, and Technology,* Adam Banks describes "transformative access":
+
+>"Black people have continually worked for a transformative access to all of the technologies that make up American life. By transformative access, I mean that African Americans have always argued for a genuine inclusion in technologies and the networks of power that help determine what they become, but never merely for the sake of inclusion. [...] [the racism in our society infects our technologies just as it infects our media, our schools, our economy, and] the technologies themselves must be transformed.
+
+
+>Transformative access is "always an attempt to *both* change the interfaces [where people use that system] and fundamentally change the codes that determine how that system works."
+
+>Ownership of computers and other digital technologies, knowledge of their uses, participation in their processes, and even critique of their failings are not enough either, however. THe way of looking at race and technologies, and of a meaningful technology access, goes further; to transformation. 
+
+>"Black people have hacked or jacked access to *and* transformed the technologies of American life to serve the needs of Black people and all of its citizens. [...] 
+
+
+
+As industry implementations of so-called intersectional tech reduce these complex concepts into flattened ideas of fairness and representation [@ovalleFactoringMatrixDomination2023a], I have argued elsewhere that we need multimodal, polyvocal, experimental approaches that cut through the technological solutionism [@cistonIntersectionalAIEssential2019]. 
 
 >"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with. [The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution.]" [@sharmaManifestoBrokenMachine2020]
 
@@ -125,16 +99,17 @@ As industry implementations of so-called intersectional tech reduce these comple
 
 Machine learning, as a mass production, produces certainty from uncertainty – from millions of uncertainties, argues Louise Amoore [@amooreCloudEthicsAlgorithms2020].
 
+**Intersectional AI calls for demystifying normative AI systems and learning from marginalized ethics and tactics, in order to fundamentally rethink AI.**
 
 >"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014]
 
 
->"I would like to employ the word cybercrud to mean, in gen eral, putting things over on people using computers. Cybercrud is one of the most important specialties, if not the economic backbone, of the computer field. The promotion of false or clumsy approaches to a problem as " scientific," the frequent claim that " the computer has to have it that way" - when a certain thing could be programmed very differently - are cybercrud." [nelson ]
+>"I would like to employ the word cybercrud to mean, in general, putting things over on people using computers. Cybercrud is one of the most important specialties, if not the economic backbone, of the computer field. The promotion of false or clumsy approaches to a problem as " scientific," the frequent claim that " the computer has to have it that way" - when a certain thing could be programmed very differently - are cybercrud." [nelson ]
 
 >"Any nitwit can understand computers, and many do. Unfortunately, due to ridiculous historical circumstances, computers have been made a mystery to most of the world. And this situation does not seem to be improving. You hear more and more about computers, but to most people it's just one big blur. The people who know about computers often seem unwilling to explain things or answer your questions. Stereotyped notions develop about computers operating in fixed ways — and so confusion increases. The chasm between laymen and computer people widens fast and dangerously." [@nelsonComputerLibDream1974]
 
->We are a far cry from Ted Nelson's 1974 lament, "You can and must understand computers now."
-"Most of what is written about computers for the layman is either unreadable or silly."
+>We are a far cry from Ted Nelson's 1974 lament, "You can and must understand computers now." [@nelsonComputerLibDream1974]
+>"Most of what is written about computers for the layman is either unreadable or silly." [@nelsonComputerLibDream1974]
 
 >gigantic enterprises that "know the short-range utility of computer systems but have no idea of their ultimate social cost." [@weizenbaumImpactComputerSociety1972]
 
@@ -173,8 +148,8 @@ The knowledge of imperfection (oh how it pains this hardcore perfectionist) requ
 [XXX need more concrete here about tech harms and/or explaining tech specifics?][xxx include Why "coding" and "artificial intelligence" and "machine learning" technologies? The specifics of which tech why?]
 
 
-
-## We Need Creative–Critical–Caring Approaches 
+## Critical, Intersectional Approaches Mean Creative, Caring Approaches
+<!-- ## We Need Creative–Critical–Caring Approaches  -->
 
 How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions? 
 
@@ -199,7 +174,10 @@ I may have knowledge and resources to share, but not be able to participate beca
 
 These works are written as jargon-free as possible to allow them to travel as broadly as possible. While [XXX]
 
-### Creative-critical-code: holistic approaches
+
+
+
+<!-- ### Creative-critical-code: holistic approaches -->
 
 Care means critical.
 
@@ -219,17 +197,17 @@ It requires we find common language, common value/appreciation/respect that come
 
 **The technical means how (coding skills) and the critical/analytical means how (analytical, political, aesthetic, ethical contexts) and the material means how (data, energy, hardware) have to combine / are inseparable.**
 
-### Approachable, accessible // Care means access [xxxexistsbelow?]
+<!-- ### Approachable, accessible // Care means access [xxxexistsbelow?] -->
 
 >carceral "system-impacted people"
 
-### Research tensions
+<!-- ### Research tensions -->
 
 To sit a bit longer with questions I know I cannot answer, questions that make me uneasy. To hold two contradictory ideas simultaneously and let their magnetic energy push-pull me. To forgive myself the imperative outcomes, the productivity, the proven hypothesis, the subject of research. To put myself into the trouble too, because I already embody these questions in lived experience.
 
 >"Only after having reached a certain spot can it feign to have found the way there." (ingold on wandering)
 
-### Artistic experimentation
+<!-- ### Artistic experimentation -->
 
 >"Bots can make arguments. [...] bots exist to shine a light on how things already work, but also to test the edge cases, and to propose alternatives. [...] bots are procedures against procedures." -Allison Parrish, "Procedure vs Procedure"
 
@@ -264,8 +242,9 @@ Neither research that produces art, nor a scholarly presentation of art, nor a c
 
 >"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
 
+<!-- ### [XXX] Who am I? What is this? -->
 
-### These approaches are entangled
+<!-- ### These approaches are entangled -->
 
 Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors out of balance. She argues this calls for
 >"a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" [@dunbar-hesterHackingDiversityPolitics2019]
@@ -293,7 +272,7 @@ These are instructions for myself(ves), past-present-future, gathering tactics f
 
 Trans\*formative here means emergent, embodied, embedded practices. It means process-oriented, community-oriented practices. It means making space for and honoring what we figure out as we go along, [adjusting and tailoring to the needs and goals of our specific situations as we operate in community]. 
 
-'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair beyond punishment, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care [^careinfrastructures] and reorienting the values embedded within technical objects and practices.[cite][^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
+'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair beyond punishment, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care [^careinfrastructures] and reorienting the values embedded within technical objects and practices so that harm can no longer be perpetuated [@WhatTransformativeJustice2020].[^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
 
 >"From the design to the production to the deployment to the outcome, there is constantly bias built in. It's not just the biases of the people themselves; it’s the inherent bias within the system. There's so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don't believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled." (Hamid Khan interviewed in [@ryan-mosleyActivistDismantlingRacist2020]) 
 
@@ -305,7 +284,7 @@ Trans\*formative is an active, prefigurative[^prefigurative] stance. It brings `
 
 [^prefigurative]: `Prefigurative` just means embodying our values, making it "a daily endeavor of creating the world we want." and "our actions create the world we want right now, we don’t have to wait for the revolution to start another, better world." [@bransonPracticalAnarchismGuide2022]. "Prefiguration provides a basis for collaborators to suggest the sort of world they might like to inhabit and, in contrast to such a world, identify those features of the prevailing world which differ from that which is desired." (Nicholson 2023)
 
->>"Revolutionary movements require a teleological pool from which to draw. The imagination is that teleological pool: it not only creates liberatory drives; it sustains, justifies and legitimises them. It undoes entire epistemes and clears a space for us to create something new. Though this 'newness', or the demand for something else, can never fully be realised in the realm of the discursive, it exists in other registers: it can be felt, heard, touched, tasted. The structural limits of this world restrict our ability to articulate all that the imagination is capable of conceiving. Do not forget this." [@olufemiExperimentsImaginingOtherwise2021]
+>"Revolutionary movements require a teleological pool from which to draw. The imagination is that teleological pool: it not only creates liberatory drives; it sustains, justifies and legitimises them. It undoes entire epistemes and clears a space for us to create something new. Though this 'newness', or the demand for something else, can never fully be realised in the realm of the discursive, it exists in other registers: it can be felt, heard, touched, tasted. The structural limits of this world restrict our ability to articulate all that the imagination is capable of conceiving. Do not forget this." [@olufemiExperimentsImaginingOtherwise2021]
 
 ### Transformers
 
@@ -658,15 +637,15 @@ Each section of Trans\*formative TechnoCraft puts its thinking into action — t
 ### CRAFT: *Coding.Care: Field Notes for Making Friends with Code*
 {: .no_toc }
 
-*Coding.Care* is a pocket guide to sustaining friendly coding communities — why we need them, how to build them, how to let them thrive. It focuses on lessons I learned from Code Collective, the diverse hack lab that I started in 2019. I yearned for the adaptable, encouraging environment I had needed when I was first struggling to learn to program, a space where I wouldn't feel like an outsider for 'not knowing everything' about programming. I suspected others might feel the same. Reminded of the teachers who had showed me code could feel fun and creative instead of prescriptive and stressful, I wanted to share more of that experience. 
+*Coding.Care* is a pocket guide to sustaining friendly coding communities — why we need them, how to build them, how to let them thrive. It focuses on lessons I learned from Code Collective, the diverse hack lab that I started in 2019 when I yearned for the adaptable, encouraging environment I had needed when I was first struggling to learn to program. In gratitude to teachers like Brett Stalbaum, at UC San Diego's Computing in the Arts program, who had showed me code could feel creative instead of prescriptive, I wanted to make a space where I wouldn't feel like an outsider for 'not knowing everything' about programming, and I suspected others might feel the same.I wondered how to recreate that experience. 
 
 In Code Collective, a mix of media artists, activists, makers, scientists, scholars, and engineers gather to co-work and co-learn, thinking critically with code in an inclusive, interdisciplinary space that supports many kinds of learners. The Collective unites students who may have zero technical experience with those who may have lots of technical experience but perhaps lack a critical or creative lens; and we value their experiences equally, reinforcing the idea: **"We all have something to teach each other."** 
 
 This guide looks at a variety of the strategies and tools we have explored and developed as we have grown. It discusses how we have adapted to meet the needs of our community — from hosted workshops to hybrid-format meetups, from pandemic support to alumni programming. Code Collective's approaches draw on many existing methodologies and methods from intersectional queer, feminist, anti-ableist, and anti-racist theories. The guide connects these approaches to cooperative organizations Varia and p5.js, and to Critical Code Studies and to TechnoCraft practices like working iteratively and breaking critically. 
 
-As a guide for making friends with code, *Coding.Care* discusses how practices such as process-oriented skillbuilding, co-teaching and co-learning, and snacks (always snacks) embody the Collective's guiding values, such as **"scrappy artistic strategies not perfect code."** The guide shares projects and feedback from members of the Collective, who report how these values and practices have shaped them as emerging makers and thinkers. Personally, I have found this community to be the strongest influence on my own research, above and beyond my role as facilitator. Code Collective has become a joyful space for creative risk-taking that nourishes my practice. The guide offers practical advice for getting comfortable with code, while situating these approaches and groups within an **ethics of coding care** — grounded in shared embodied knowledge, embedded co-creation, and programming with and for community — as an antidote to [current XXX] and as an enactment of Trans\*formative Technocraft. 
+As a guide for making friends with code, *Coding.Care* discusses how practices such as process-oriented skillbuilding, co-teaching and co-learning, and snacks (always snacks) embody the Collective's guiding values, such as **"scrappy artistic strategies not perfect code."** The guide shares projects and feedback from members of the Collective, who report how these values and practices have shaped them as emerging makers and thinkers. Personally, I have found this community to be the strongest influence on my own research, above and beyond my role as facilitator. Code Collective has become a joyful space for creative risk-taking that nourishes my practice. The guide offers practical advice for getting comfortable with code, while situating these approaches and groups within an **ethics of coding care** — grounded in shared embodied knowledge, embedded co-creation, and programming with and for community — as an antidote to technocratic values and as an enactment of Trans\*formative Technocraft. 
 
-Through *Coding.Care*'s intimidation-free, learner-led, process-oriented approaches, it both theorizes and models the creation of caring communities and innovative spaces that can transfer knowledge across social strata and intellectual disciplines in order to reshape technological systems. 
+In her book, *Coding Literacy*, Annette Vee argues that, "Changing 'how the system works' would move beyond material access to education and into a critical examination of the values and ideologies embedded in that education. [...] Programming is a literacy practice with many applications beyond a profession defined by a limited set of values" [@veeCodingLiteracyHow2017]. Vee calls this kind of programming access "transformative." Through *Coding.Care*'s intimidation-free, learner-led, process-oriented approaches, it both theorizes and models the creation of caring communities and innovative spaces that can transfer knowledge across social strata and intellectual disciplines in order to reshape technological systems. 
 
 OBJECTIVES: Through *Coding.Care*, understand how to approach programming with less fear and more fun, with less constraint and more community support. Think creatively and critically about the kinds of technologies you want to make and support. Learn to choose and use tools, languages, and platforms that match your goals and ethics. Create or join communities of practice that feel supportive and generative.
 
