@@ -52,15 +52,12 @@
 
 
 
-            {% assign pgs = site.pages | sort: "nav_order" %}
+          {% assign pgs = site.pages | sort: "nav_order" %}
+          {% for pg in pgs %}
+            <div class="breadcrumb-nav-list-item"><a href="{{ pg.url | absolute_url }}">{{ pg.title }}</a></div>
+          {% endfor %}
 
-            <!-- {% assign pgs = ordered | where: "nav_order", "<", "10" %} -->
-
-            {% for pg in pgs %}
-              <div class="breadcrumb-nav-list-item"><a href="{{ pg.url | absolute_url }}">{{ pg.title }}</a></div>
-            {% endfor %}
-
-          </div>
+        </div>
 
           <hr style="width:10%; text-align:left; margin-left:0" >
 

@@ -2,7 +2,7 @@
 layout: post
 permalink: intro
 title: critical introduction
-nav_order: 2
+nav_order: 1
 date: 02.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
 ---
