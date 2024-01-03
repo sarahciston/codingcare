@@ -379,11 +379,12 @@ Your milage may vary, as mine has! I want to acknowledge that some folks are giv
 
 ### Ask "stupid" questions (psst.. there are no stupid questions)
 
+<p style="quote">
 "There's no judgment which I really appreciate. I do feel that I could ask anything. I could ask like, what is a variable? [...] Nobody cares whether I'm talking about bitwise operations or just learning what Javascript is. It's just none of the pretension that really comes with the typical programmer space. [...] There is something very bro-y about programming spaces where you're not allowed to ask a stupid question."
-{: .quote }
-
+</p>
+<p style="quote attrib">
 –ender, Columbia Applied Mathematics
-{: .quote .attrib}
+</p>
 
 It is wild to me that the idea of stupid questions feels so predetermined that I might enter a space where I don't know what a variable is, but I know I am not supposed to ask. Why do we communicate so much more clearly about social norms than about the information we are there to share and understand? Or the information that will help people feel welcome and at ease? 
 
@@ -392,6 +393,13 @@ If you can, be brave. Try voicing your "stupid" questions, nagging suspicions, a
 Without fail, when someone asks what they'd call a "stupid" question, it is a question others have too. Or it's a question they've been taking for granted and haven't considered before. Usually it requires even those who think they already know the answer to think more deeply about the question in order to answer it in plain language. 
 
 So-called stupid questions help us all unpack what we consider assumed knowledge. Frequently, assumed knowledge points to the foundations of a field of study and how its histories are told through lenses of white supremacy, misogyny, colonialism, and ableism. We should all be asking these questions to understand our work and our contexts through new lenses. In this way, the "beginner" in the room makes one of the largest contributions to everyone's co-learning experience. 
+
+<p style="quote">
+"Any nitwit can understand computers, and many do. Unfortunately, due to ridiculous historical circumstances, computers have been made a mystery to most of the world. And this situation does not seem to be improving. You hear more and more about computers, but to most people it's just one big blur. The people who know about computers often seem unwilling to explain things or answer your questions. Stereotyped notions develop about computers operating in fixed ways — and so confusion increases. The chasm between laymen and computer people widens fast and dangerously. [...] Most of what is written about computers for the layman is either unreadable or silly." 
+</p>
+<p style='quote attrib'>
+—Ted Nelson, creator of hypertext, "Computer Lib/Dream Machine" (1974)
+</p>
 
 ### Troubleshoot together
 

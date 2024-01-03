@@ -52,14 +52,16 @@
           <!-- <ul class="nav-list"> -->
             {% for link in site.links %}
               <!-- <li class="list-item"> -->
-              <div class="outside-link"><small>
+              <div class="outside-link">
+                <!-- <small> -->
                 <a href="{{ link.last }}" class="site-button"
                   {% if site.links_new_tab %}
                   target="_blank" rel="noopener noreferrer"
                   {% endif %}
                 >
                   {{ link.first }}
-                </a></small>
+                </a>
+              <!-- </small> -->
               </div>
               <!-- </li> -->
             {% endfor %}

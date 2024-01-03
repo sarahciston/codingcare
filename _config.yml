@@ -21,6 +21,12 @@ links:
   #   - "https://queerlovezine.com/"
   # "Get yourself a shirt":
     # - "https://www.bonfire.com/store/coding-care/"
+  "intersectional ai toolkit":
+    - "https://intersectionalai.com"
+  "critical field guide for datasets":
+    - "https://knowingmachines.org/critical-field-guide"
+  # "inclusive datasets guide":
+  #   - "https://libguides.usc.edu/inclusive-datasets"
   "More projects": 
     - "https://sarahciston.com"
 links_new_tab: true

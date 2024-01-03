@@ -9,7 +9,7 @@ nav_order: 102
 
 ## zine club
 
-During Spring 2022, MA+P Zine Club meets weekly at USC in SCI 211, *Wednesdays 4-6 PM* 
+<!-- During Spring 2022, MA+P Zine Club meets weekly at USC in SCI 211, *Wednesdays 4-6 PM*  -->
 
 First rule of Zine Club is what happens in Zine Club gets shared widely and enjoyed! *Join Us!* (Pssst... We're also a knitting club.) 
 
@@ -19,9 +19,9 @@ The Coding Care Zine Lab & Lounge will be a cozy creative space to share thought
 
 <!-- Come hang out on *29 Apr 2022, 6PM Onward* 💜 -->
 
-## [code collective summer lab intensive](https://creativecodecollective.github.io/posts/summerlab)
+## [code collective project showcase & summer lab intensive](https://creativecodecollective.github.io/showcase)
 
-## [code collective fall meetups](https://creativecodecollective.com/) are first and third Tuesdays, 10a-12p Pacific
+## [code collective meetups](https://creativecodecollective.com/) are Wednesdays, 2p Pacific
 
 {{ include.var }}
 

@@ -1,5 +1,14 @@
-# Inclusive Datasets Research Guide
+---
+# layout: post
+title: codes for (re)forming
+nav_order: 11
+date: 23.12.2023
+---
+
+<!-- # Inclusive Datasets Research Guide
 https://libguides.usc.edu/inclusive-dataset
+
+This is a copy of the library guide which will go live soon.
 
 ## OVERVIEW
 ### Staying Data Conscientious
@@ -166,43 +175,43 @@ University of Helsinki, Minna Learn. (n.d.) "Ethics of AI." https://ethics-of-ai
 
 ### Books & Articles
 
-Algorithms of Oppression by Safiya Umoja Noble
+**Algorithms of Oppression by Safiya Umoja Noble**
 Call Number: ebook
 Publication Date: 2018
 A revealing look at how negative biases against women of color are embedded in search engine results and algorithms. In Algorithms of Oppression, Safiya Umoja Noble challenges the idea that search engines like Google offer an equal playing field for all forms of ideas, identities, and activities. 
 
-All Data Are Local by Yanni Alexander Loukissas
+**All Data Are Local by Yanni Alexander Loukissas**
 ISBN: 9780262039666
 Publication Date: 2019-04-30
 How to analyze data settings rather than data sets, acknowledging the meaning-making power of the local.In our data-driven society, it is too easy to assume the transparency of data. Instead, Yanni Loukissas argues in All Data Are Local, we should approach data sets with an awareness that data are created by humans and their dutiful machines, at a time, in a place, with the instruments at hand, for audiences that are conditioned to receive them. 
 
-Atlas of AI by Kate Crawford
+**Atlas of AI by Kate Crawford**
 ISBN: 9780300264630
 Publication Date: 2022-08-16
 The hidden costs of artificial intelligence--from natural resources and labor to privacy, equality, and freedom. Drawing on more than a decade of research, award‑winning scholar Kate Crawford reveals how AI is a technology of extraction: from the minerals drawn from the earth, to the labor pulled from low-wage information workers, to the data taken from every action and expression. 
 
-A Critical Field Guide for Working with Datasets
+**A Critical Field Guide for Working with Datasets**
 Written by Sarah Ciston, and edited by Kate Crawford and Mike Ananny, this guide offers questions, suggestions, strategies, and resources to help people work with existing machine learning datasets at every phase of their lifecycle. Equipped with this understanding, researchers and developers will be more capable of avoiding the problems unique to datasets.
 
-Hacking Diversity by Christina Dunbar-Hester
+**Hacking Diversity by Christina Dunbar-Hester**
 ISBN: 9780691192888
 Publication Date: 2019-12-10
 A firsthand look at efforts to improve diversity in software and hackerspace communities. Hacking Diversity investigates the activists engaged in free and open-source software to understand why, despite their efforts, they fail to achieve the diversity that their ideals support. Christina Dunbar-Hester shows that within this well-meaning volunteer world, beyond the sway of human resource departments and equal opportunity legislation, members of underrepresented groups face unique challenges. 
 
-The Point of Collection
+**The Point of Collection**
 By Mimi Onuoha, this article offers several important considerations that complicate our understanding of data
 
-Python for Data Analysis by William McKinney
+**Python for Data Analysis by William McKinney**
 ISBN: 9781491957660
 Publication Date: 2017-11-14
 Get complete instructions for manipulating, processing, cleaning, and crunching datasets in Python. 
 
-You Look Like a Thing and I Love You by Janelle Shane
+**You Look Like a Thing and I Love You by Janelle Shane**
 ISBN: 0316525243
 Publication Date: 2019-11-05
 Janelle Shane delivers the answers to every AI question you've ever asked, and some you definitely haven't. In this smart, often hilarious introduction to the most interesting science of our time, Shane shows how these programs learn, fail, and adapt--and how they reflect the best and worst of humanity.   You Look Like a Thing and I Love You is the perfect book for anyone curious about what the robots in our lives are thinking. 
 
-Responsible Data Handbook
+**Responsible Data Handbook**
 A guide to working responsibly with data, focused primarily on creating new datasets
 
 ### USC Libraries Research Guides								
@@ -218,76 +227,75 @@ Data Science in Computer Science Research Guide
 Data Reference Toolkit
 This research guide will walk you through the steps of finding, using, and managing data in a research project.
 
-Teaching with Data: Teaching Resources
+### Teaching with Data: Teaching Resources
 Resources and strategies for faculty teaching undergraduates
 
 ### Courses & Tutorials							
-Coding Train: Working with Data & APIs in Javascript
-This video series is a friendly introduction to coding with data from Daniel Shiffman, using Javascript and weather APIs.
-more...
-Data Analysis and Visualization with Python for Social Scientists
-This is an introduction to Python designed for participants with no programming experience.
-more...
-Elements of AI
-Two courses, Introduction to AI and Building AI, that aim to demystify AI, what it is, what can and cannot be done, and how to use it. The courses include practical exercises and are created by the University of Helsinki and MinnaLearn.
-Ethics of AI
-The Ethics of AI is a free online course created by the University of Helsinki. The course is for anyone who is interested in the ethical aspects of AI – we want to encourage people to learn what AI ethics means, what can and can’t be done to develop AI in an ethically sustainable way, and how to start thinking about AI from an ethical point of view.
-Fast.AI Practical Data Ethics
-This course from Fast.AI covers disinformation, bias and fairness, foundations of data ethics and practical tools, the field including venture capital and metrics, privacy and surveillance, and algorithmic colonialism. It is adapted from a course originally taught at the University of San Francisco Data Institute.
-more...
-The Illustrated VQGAN
-Background and technical details on how text-to-image generating AI are made
-Neural Networks
-3Blue1Brown's Grant Sanderson offers an approachable technical overview of neural networks with lots of examples.
-Manipulating Data for Machine Learning	
-Fast.AI Software
-"Fast.AI simplifies training fast and accurate neural nets using modern best practices"
-Keras
-"A deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation."
-Matplotlib: Visualization with Python
-"Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible."
-NumPy
-"A fundamental math package for scientific computing in Python"
-Pandas
-"Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language."
-PyCaret
-"PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool."
-SciKit-Learn
-"Simple and efficient tools for predictive data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable."
+* Coding Train: Working with Data & APIs in Javascript
+    This video series is a friendly introduction to coding with data from Daniel Shiffman, using Javascript and weather APIs.
+* Data Analysis and Visualization with Python for Social Scientists
+    This is an introduction to Python designed for participants with no programming experience.
+* Elements of AI
+    Two courses, Introduction to AI and Building AI, that aim to demystify AI, what it is, what can and cannot be done, and how to use it. The courses include practical exercises and are created by the University of Helsinki and MinnaLearn.
+* Ethics of AI
+    The Ethics of AI is a free online course created by the University of Helsinki. The course is for anyone who is interested in the ethical aspects of AI – we want to encourage people to learn what AI ethics means, what can and can’t be done to develop AI in an ethically sustainable way, and how to start thinking about AI from an ethical point of view.
+* Fast.AI Practical Data Ethics
+    This course from Fast.AI covers disinformation, bias and fairness, foundations of data ethics and practical tools, the field including venture capital and metrics, privacy and surveillance, and algorithmic colonialism. It is adapted from a course originally taught at the University of San Francisco Data Institute.
+
+* The Illustrated VQGAN
+    Background and technical details on how text-to-image generating AI are made
+* Neural Networks
+    3Blue1Brown's Grant Sanderson offers an approachable technical overview of neural networks with lots of examples.
+
+#### Manipulating Data for Machine Learning	
+* Fast.AI Software
+    "Fast.AI simplifies training fast and accurate neural nets using modern best practices"
+* Keras
+    "A deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation."
+* Matplotlib: Visualization with Python
+    "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible."
+* NumPy
+    "A fundamental math package for scientific computing in Python"
+* Pandas
+    "Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language."
+* PyCaret
+    "PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool."
+* SciKit-Learn
+    "Simple and efficient tools for predictive data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable."
 					
-Managing & Sharing Datasets
-CKAN
-A content management system (like Wordpress) for making data websites
-Data Version Control
-Open-source, Git-based data science
-Frictionless Data
-An open-source toolkit with standards and frameworks for working with data
-OpenRefine
-Open source tools for transforming and working with data
-Streamlit
-A code library for building data and machine learning websites easily using Python
-Tableau
-Visualization tools for data (some with costs) using desktop or web
-Tabula
-Tool for extracting data in tables within PDF files
+#### Managing & Sharing Datasets
+* CKAN
+    A content management system (like Wordpress) for making data websites
+* Data Version Control
+    Open-source, Git-based data science
+* Frictionless Data
+    An open-source toolkit with standards and frameworks for working with data
+* OpenRefine
+    Open source tools for transforming and working with data
+* Streamlit
+    A code library for building data and machine learning websites easily using Python
+* Tableau
+    Visualization tools for data (some with costs) using desktop or web
+* Tabula
+    Tool for extracting data in tables within PDF files
 					
-Working with Text Datasets							
-ChromaDB
-An open-source word embedding database
-Gensim
-Topic modeling tools for Python
-MALLET (Machine Learning for Language Toolkit)
-A collection of tools to document classification, sequence tagging, and topic modeling. There is also an add-on toolkit (Graphical Models in MALLET) for visualization.
-MOA: Massive Online Analysis
-MOA is an open-source framework for data stream mining and includes a collection of machine learning algorithms and tools for evaluation.
-Scrapy
-Python library for scraping to collect text from websites
-Spacy
-Easy Python library for loading, processing, and analyzing text
-Topic Modeling Tool
-A basic free tool that allows you to topic model texts using MALLET, but with an easy-to-use interface.
-Voyant
-An easy to use and free text analysis tool. Upload text and Voyant will automatically determine word frequencies and colocates and display them graphically
+#### Working with Text Datasets							
+* ChromaDB
+    An open-source word embedding database
+* Gensim
+    Topic modeling tools for Python
+* MALLET (Machine Learning for Language Toolkit)
+    A collection of tools to document classification, sequence tagging, and topic modeling. There is also an add-on toolkit (Graphical Models in MALLET) for visualization.
+* MOA: Massive Online Analysis
+    MOA is an open-source framework for data stream mining and includes a collection of machine learning algorithms and tools for evaluation.
+* Scrapy
+    Python library for scraping to collect text from websites
+* Spacy
+    Easy Python library for loading, processing, and analyzing text
+* Topic Modeling Tool
+    A basic free tool that allows you to topic model texts using MALLET, but with an easy-to-use interface.
+* Voyant
+    An easy to use and free text analysis tool. Upload text and Voyant will automatically determine word frequencies and colocates and display them graphically
 					
 #### Working with Visual Datasets
 * ML5.js
@@ -317,9 +325,6 @@ An easy to use and free text analysis tool. Upload text and Voyant will automati
 * Local Contexts
     Local Contexts uses data labels to help "Indigenous communities repatriate knowledge and gain control over how data is collected, managed, displayed, accessed, and used in the future."
 
-
-
-
 ## Bibliography	
 
 Ciston S. (2023). “A Critical Field Guide for Working with Machine Learning Datasets.” Crawford K and Ananny M, Eds., Knowing Machines project. https://knowingmachines.org/critical-field-guide
@@ -342,4 +347,4 @@ Training the Archive. (n.d.). "Glossary." Training the Archive. https://training
 University of Helsinki, Minna Learn. (n.d.) "Elements of AI." https://course.elementsofai.com/
 University of Helsinki, Minna Learn. (n.d.) "Ethics of AI." https://ethics-of-ai.mooc.fi/
 Younes, L. (n.d.). Data Acquisition for Beginners. Exposing the Invisible Kit - Tactical Tech. https://kit.exposingtheinvisible.org/en/how/data-acquisition.html
-
+ -->
