@@ -1,7 +1,7 @@
 ---
 layout: post
-# permalink: 
-title: codes for [un]limiting
+permalink: unlimiting 
+title: codes for (un)limiting
 nav_order: 4
 date: 23.12.2023
 tags: ["interstitial", "broken machines", "queer use", "platforms" ]

@@ -11,6 +11,18 @@ author: Sarah Ciston
 baseurl: /codingcare
 
 links: 
+  "critical introduction":
+    - "/intro"
+  "coding.care":
+    - "/guide"
+  "codes for (un)raveling":
+    - "/unraveling"
+  "intersectional ai toolkit":
+    - "https://sarahciston.gitlab.io/toolkit/"
+  "codes for (un)limiting":
+    -"/unlimiting"
+  "critical field guide for datasets":
+    - "https://knowingmachines.org/critical-field-guide"
   # "Get this dissertation in your Inbox (TK)":
     # - "mailgun-setup-TK"
   # "Intersectional AI Toolkit": 
@@ -21,10 +33,7 @@ links:
   #   - "https://queerlovezine.com/"
   # "Get yourself a shirt":
     # - "https://www.bonfire.com/store/coding-care/"
-  "intersectional ai toolkit":
-    - "https://sarahciston.gitlab.io/toolkit/"
-  "critical field guide for datasets":
-    - "https://knowingmachines.org/critical-field-guide"
+
   # "inclusive datasets guide":
   #   - "https://libguides.usc.edu/inclusive-datasets"
   # "more projects": 

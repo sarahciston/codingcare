@@ -1,7 +1,7 @@
 ---
 # layout: page
 title: home
-# nav_order: 0
+nav_order: 0
 ---
 
 This work offers respect and gratitude to the Tongva and Chumash peoples, who are the rightful and traditional caretakers of the land where large portions of this work have been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn about the history of where you live, why this matters, and how to contribute.
