@@ -6,29 +6,30 @@ nav_order: 101
 tags: [appendix]
 ---
 
-<!-- # {{ page.title }} -->
+# {{ page.title }}
+
+## Contents 
+
 * TOC
 {:toc}
 
+<hr/>
+
 ## Community values
 
-### all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality[^ccc]
+* all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality[^ccc]
+*  #blacklivesmatter #translivesmatter #indigenouslivesmatter we engage tension; don't indulge drama[^amb] 
+* focus on strategies rather than issues, solutions rather than problems[^AMC]
+* listen from the heart, speak from the heart, be spontaneous, be brief[^Council]
+* assume best intent and attend to impact[^amb]
 
-### #blacklivesmatter #translivesmatter #indigenouslivesmatter we engage tension; don't indulge drama[^amb] 
+* attempt collaboration before conflict[^superrr]
 
-### focus on strategies rather than issues, solutions rather than problems[^AMC]
+* we accept responsibility for our actions and take care to make amends when we are wrong[^p5] 
 
-### listen from the heart, speak from the heart, be spontaneous, be brief[^Council]
+* we take the lessons, leave the details (confidentiality)[^amb]
 
-### assume best intent and attend to impact[^amb]
-
-### attempt collaboration before conflict[^superrr]
-
-### we accept responsibility for our actions and take care to make amends when we are wrong[^p5] 
-
-### we take the lessons, leave the details (confidentiality)[^amb]
-
-### we center care[^AMC]—self care and community care[^amb] 
+* we center care[^AMC]—self care and community care[^amb] 
 
 
 These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve.
@@ -44,6 +45,7 @@ Thank you to the individuals and organizations who developed these principles an
 [^W3C]:
 [^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
 
+<hr/>
 
 ## beloved books for coding & caring
 
@@ -56,28 +58,23 @@ Thank you to the individuals and organizations who developed these principles an
 * Shih, Xin Xin, & Moriwaki, Katherine (Eds.). 2022. *Critical Coding Cookbook.* https://criticalcode.recipes/about 
 * Wilson, Shawn. 2008. *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing. 
 
-
-
-
-
-
 <!-- * Zilboorg, A. (2015). *Knitting for anarchists: The what, why and how of knitting.* Dover Publications, Inc. -->
 
-
-
 Find many more in the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub)
+
+<hr/>
 
 ## FIRST LOOK AT JAVASCRIPT 
 
 This was a lesson made for a beginner coding course. You can check out the interactive version [here](https://glitch.com/edit/#!/iml300javascript)
 
-# Not So Vanilla 🍦 "Just" Javascript
+### Not So Vanilla 🍦 "Just" Javascript
 
-## What Is Javascript?
+### What Is Javascript?
 
 > "The programming language of HTML and the Web. Interaction with the user, animation, etc, all done with JavaScript." (Q)
 
-## What's a Javascript Library
+### What's a Javascript Library
 
 > P5 is a Javascript **library**, which means it's an add-on set of Javascript that's been pre-written to make certain things easy. But there's a lot Javascript can already do.
 
@@ -89,7 +86,7 @@ This was a lesson made for a beginner coding course. You can check out the inter
 
 ---
 
-## Review: Setup
+##### Review: Setup
 
 - **Files** are structured same as here whether they are saved locally, on the Glitch or P5 web editor, or served by your web host. 
 
@@ -113,7 +110,7 @@ This was a lesson made for a beginner coding course. You can check out the inter
 
 ---
 
-## Review: P5.js DOM 
+### Review: P5.js DOM 
 > Besides adding functions to JS, the P5.js library "wraps" up some Javascript to simplify the syntax. 
 
 > P5's [DOM functions](https://p5js.org/reference/#group-DOM):
@@ -135,7 +132,7 @@ This was a lesson made for a beginner coding course. You can check out the inter
 
 ---
 
-## Essential Javascript for Web
+### Essential Javascript for Web
 
 - **Select** by id, class, element/tag, parent, child
 
@@ -177,7 +174,7 @@ This was a lesson made for a beginner coding course. You can check out the inter
 ![markdown-image](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594)
 
 
-## Review: Logics of Code** 
+### Review: Logics of Code** 
 
 > You already know (because you know JS) or may see around town:
 
@@ -230,35 +227,35 @@ This was a lesson made for a beginner coding course. You can check out the inter
 
 ---
 
-## BONUS: Libraries & Frameworks & Expansion Oh My!
+### BONUS: Libraries & Frameworks & Expansion Oh My!
 
 > Ways people have solved problems, tried to make life easier and made it more complicated, aka words you might see around town & more to think about later
 
-  ### Helpers
+  #### Helpers
   
   - [p5]
   - [JQuery]
   - What are some others you've heard of? Do you know what they do?
 
-  ### Design for web layout, look, & feel
+  #### Design for web layout, look, & feel
 
   - [Handlebars](https://handlebarsjs.com/) templating language, pre-built buttons and CSS for your sites, lots of others like it, such as...
   - Bootstrap, Semantic.io, Material.io (React)
   - [React] a whole superset of JS built by Facebook to make complex sites with many components. Other Frameworks like it are Vue and Angular. You only need to learn one of these, if any. 
 
-  ### Design tools for specific tasks
+  #### Design tools for specific tasks
 
   - [Tiny Tools Directory](https://tinytools.directory/) by Everest Pipkin
   - [ScrollMagic](https://scrollmagic.io/) scroll effects
   - [Paper.js] curves & swerves
   - [Three.js] 3D stuff
 
-  ### Servers & Offline
+  #### Servers & Offline
 
   - [Node.js] a superset of Javascript that lets you do servers and use JS without a browser, just in your local machine. A great place to start with Node is the Glitch template! Use Node for websites where you want a database or need to send info back and forth to a server.
   - [Express.js] makes it easy to make a server, part of the Node template in Glitch
 
-  ### Machine Learning
+  #### Machine Learning
 
   - [ML5](https://ml5js.org), part of the p5/Processing family, is a simpler version of (aka built on/wrapper of Tensorflow)
   - [Tensorflow.js] 
@@ -266,41 +263,43 @@ This was a lesson made for a beginner coding course. You can check out the inter
 
 ---
 
-## Examples made with (almost) "just" javascript
+#### Examples made with (almost) "just" javascript
 
 - [Cyberfeminism Index](https://cyberfeminismindex.com/) only uses a bit of JQuery but wouldn't need it. Also another type of site your project could be, gathering resources/examples for others.
 
 ---
 
-## Your Project
+### Your Project
 
-### ← index.html
+##### ← index.html
 
 Where you'll write the content of your website. This can start out barebones because you can add so much with Javascript. Good rule of thumb is to put in HTML anything that will stay static. Javascript is for interactivity!
 
-### ← style.css
+#### ← style.css
 
 CSS files add styling rules to your content. Remember you can change these with Javascript too.
 
-### ← script.js
+#### ← script.js
 
 Literally where the action happens. Add interactivity with JavaScript. Can also be inside your HTML file if you only have a little bit of script. Woo!
 
-### ← assets
+#### ← assets
 
 A folder. Drag in `assets`, like images or music, to add them to your project. Often for bigger projects you'll create separate folders for your styles and javascript files too.
 
-### ← README.md
+#### ← README.md
 
 That's this file. It doesn't show up to your end-user/reader. In this case I'm using it for a tutorial. You might use it for documentation about how you made your site or how others could implement your tool.
 
+<hr/>
+
 ## CODE COLLECTIVE SUMMER LAB 
 
-
+<hr/>
 
 ## CODE COLLECTIVE WORKSHOPS & TALKS
 
-#### past
+##### past
 
 * Help Me Code IAI zine making workshop [Sarah Ciston]
 * Feminist.AI [Christine Meinders](https://feminist.ai)
@@ -310,7 +309,7 @@ That's this file. It doesn't show up to your end-user/reader. In this case I'm u
 * 8-bit Game Design ([Todd Furmanski])
 * Coding for Live Performance ([Ben Nicholson])
 
-#### planned or dreamed
+##### planned or dreamed
 
 * Ethics of NFTs for Artists: If Such a Thing Is Possible
 * Bias in NLP Language & Ethical AI
@@ -328,6 +327,8 @@ That's this file. It doesn't show up to your end-user/reader. In this case I'm u
 * Webscraping with Python
 * Merging theory and content with code and practice. Choosing tools that are ethically and conceptually grounded. 
 
+<hr/>
+
 ## First sign up form
 
 *In January 2019 I sent out this Google form to USC students, staff, and faculty who I thought might be interested in a new code-friendly community. This was our first document, where you can see the shape it was beginning to take and its raw edges, as I was wayfinding for what I was interested in offering and what others might need.* 
@@ -341,12 +342,12 @@ First meeting FRIDAY JAN 18, 1pm-4pm, SCI L106. Sign up to learn more—let us k
 
 This weekly drop-in studio will focus on growth not perfection, scrappy artistic strategies not perfect code, collaboration not competition. We'll offer workshops, troubleshooting, support, and snacks—and keep our structure flexible to meet the collective's needs. All levels and languages welcome!
 
-### Schedule 
+#### Schedule 
 * I am available most Fridays, 1-4 pm (for at least part of that time)
 * I am not available then, but still want to hear about the group (List your preferred availability below)
 * Other:
 
-### What do you want Code Collective to offer? (Add your ideas!) 
+#### What do you want Code Collective to offer? (Add your ideas!) 
 * Co-working space
 * Online resource hub
 * PhD-led workshops
@@ -356,7 +357,7 @@ This weekly drop-in studio will focus on growth not perfection, scrappy artistic
 * Visits to hackathons or other outside events and organizations
 * Other:
 
-### What workshops interest you? (Add your ideas!) 
+#### What workshops interest you? (Add your ideas!) 
 * Activist Chatbots and Other Automated Agents
 * Environmental Data and Sensor Networks
 * Machine Learning Tactics for Artists
@@ -368,15 +369,16 @@ This weekly drop-in studio will focus on growth not perfection, scrappy artistic
 * Visualizing Your Personal Data
 * Other:
 
-### Bonus
+#### Bonus
 * What projects do you want to work on? What would keep you coming back? What skills can you share with the collective? Any fears / interests / context you want to mention? 
 
+<hr/>
 
 ## Departmental proposal
 
 15 Nov 2018
 
-### Proposal: Code Collective
+#### Proposal: Code Collective
 
 The Code Collective will be a space for MAP + iMAP students to develop their computational media practice in a flexible, collaborative setting that strengthens the Media Arts + Practice community. It supports gaining computer science skills in an engaging, non-intimidating, non-engineering environment—instead focusing on artistic strategies for learning and making with code, emphasizing criticality and experimentation. 
 
@@ -415,3 +417,4 @@ Would the club need to be offered as research units for students to attend?
 Thoughts on how to build in positive accountability to retain students?
 Resources for outside funding from university or industry?
 
+<hr/>

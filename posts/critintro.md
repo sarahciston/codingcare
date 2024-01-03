@@ -46,7 +46,6 @@ Yet, how do we participate on our own terms, in order to change systems to suit 
 
 *Coding.Care: Field Notes for Making Friends with Code* gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. Its pocket-guide form discusses how to build a cooperative, interdisciplinary community for co-learning coding like the one I have facilitated since 2019. The *Intersectional AI Toolkit*'s co-authored zines are accessible guides to both AI and intersectionality, bringing together artists, activists, academics, makers, technologists, and anyone who wants to understand the automated systems that impact them. The work argues that established but marginalized tactics are necessary for reimagining more critical and ethical machine learning. Together these tools and resources ask: *Whose voices, visions, and stories are captured by automated systems? Whose are excluded, harmed, or undermined? How can AI systems be accessible for anyone to engage and intervene in?* And *A Critical Field Guide for Working with Machine Learning Datasets* translates critical AI theories and data science concepts into practical tips for dataset stewardship. Along with the *Inclusive Datasets Research Guide*, these works combine technical skillbuilding and critical thinking for scholars and practitioners beginning to work with datasets, because datasets remain the foundation of machine learning as it grows rapidly in impact. 
 
-
 ## Critical AI Must Be Intersectional
 
 <p class="quote" markdown=1>
@@ -83,7 +82,12 @@ Yet industry implementations of so-called ethical tech reduce complex concepts i
 
 Yes, in many cases it would be nice to have more, better data. But the very valid criticism that algorithmic systems are biased because their data are biased — often summed up "garbage in, garbage out" — sets up a quest already doomed to fail. What would be better data? Or an optimized system? For what goal, and for whom exactly? There is no such thing as unbiased, there is only the right tool for the particular job, or a given slice of information from a particular perspective with just enough context for the purposes of a specific task. There is only "good enough" data — and only sometimes, for some tasks. When the stakes are too high, no data could be good enough to make life or death decisions. We need a different approach. We cannot rely on computational systems for infallibility and rationality, as we have been, nor can we look to these technologies uncritically as bandaids for the problems they exacerbate.
 
-While many [XXX] they could go further. Intersectional AI calls for demystifying normative AI systems and learning from marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through the technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investment in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022]. As a term, 'Trans\*formative' looks for root causes and radical alternatives to the computational logics that perpetuate  [XXX][XXX].
+While the need for AI oversight is clear, many like Joy Buolamwini have been calling for total overhaul and algorithmic justice [@buolamwiniAJLALGORITHMICJUSTICE]. [Still, practical applications of these valid critiques remain difficult to implement.] How do we get there? Intersectional AI calls for demystifying normative AI systems and learning from marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through the technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investments in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022]. As a term, 'Trans\*formative' looks for root causes and radical alternatives to the computational logics that perpetuate [harmful systemic inequities].
+
+## Critical, Intersectional Approaches Mean Creative, Caring Approaches
+<!-- ## We Need Creative–Critical–Caring Approaches  -->
+
+**How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions?**
 
 As code makes contact with the world with increasing complexity, code literacy becomes increasingly essential. Yet if we want to imagine different systems, code literacies should not be defined only on the narrow terms of those creating existing systems [@veeCodingLiteracyHow2017]. We know that bootcamps and hiring initiatives, though useful, do not support the goal of shifting a variety of voices into positions where can effectively make change [@abbateCodingNotEmpowerment2021, @hicksSexismFeatureNot2021, @dunbar-hesterHackingDiversityPolitics2019, @veeCodingLiteracyHow2017]. They do not acknowledge the many people already participating in the production of technologies in the global majority, from those harvesting of rare earth minerals and circuit board manufacturers [@ainowinstituteLaborThatMakes, @nakamuraIndigenousCircuitsNavajo2014] to the content moderators [@robertsCommercialContentModeration2016] to the crowd workers (Sunder 2022). [Joining an 'elite' tech field is a moving target, entangled with race, gender, and globalization politics.] As a term, 'TechnoCraft' looks more invitingly at how many more people are potentially already engaged with technology practices and implicated by them, as user-practitioners, data subjects and subjectees, skilled crafters and critics.
 
@@ -114,15 +118,12 @@ As code makes contact with the world with increasing complexity, code literacy b
 <!-- [XXX need more concrete here about tech harms and/or explaining tech specifics?][xxx include Why "coding" and "artificial intelligence" and "machine learning" technologies? The specifics of which tech why?] -->
 
 
-## Critical, Intersectional Approaches Mean Creative, Caring Approaches
-<!-- ## We Need Creative–Critical–Caring Approaches  -->
 
 
 Marino, code is collaborative:
 >"Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally." [@marinoCriticalCodeStudies2020a]
 
 
-How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions? 
 
 Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins, who are most capable of addressing the urgent issues facing technology. These concerns are not new, nor strictly digital. They have been addressed by a wide range of communities with different types of knowledge for centuries. Many are calling urgently for Indigenous [@CAREPrinciplesIndigenousa; @INDIGENOUSAI; @NewVisionArtificial; @escofferyAncestralIntelligenceAI2023], antiracist [], antiableist [], decolonialist [], neurodiverse [], queer [], intersectional [], and other knowledge systems to be applied to AI and emergent technologies. Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations [cite][Vee, Abbate, Hicks]. 
 
@@ -217,8 +218,7 @@ Neither research that produces art, nor a scholarly presentation of art, nor a c
 
 <!-- ### These approaches are entangled -->
 
-Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors out of balance. She argues this calls for
->"a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" [@dunbar-hesterHackingDiversityPolitics2019]
+Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors out of balance. She argues this calls for "a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" [@dunbar-hesterHackingDiversityPolitics2019]. 
 >"Voluntaristic technology communities are important sites because they are utopian spaces where people play and tinker not only with technical artifacts but with social reality, imagining social relations through participation"
 
 DH: not about diversity in tech directly, aim at broader social goals of [e.g. decolonization, ecological sustainability, distribution of wealth] which would necessitate changes in tech sector. 
