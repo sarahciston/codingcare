@@ -2,7 +2,7 @@
 # layout: post
 # author: sarahciston
 title: notes
-nav_order: 98
+nav_order: 102
 published: true
 # date: 21.03.2022 
 tags: [notes, progress, misc, journal]

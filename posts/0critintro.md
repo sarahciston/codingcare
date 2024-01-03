@@ -704,6 +704,7 @@ Soap bubble computers, mushroom computers, non-binary voltage readings. What are
     >> ^[6]: 
 
 ### [Nearness, Similarity, Interstitial Vectors and Correspondences] 
+{: .no_toc }
 
 And all this comes back to nearness and distance, and more specifically how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values could rule instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? What of activation functions that activate these other intuitions outside of X and Y axes, that tamper with expectations?
 
@@ -724,6 +725,7 @@ And yet, how many kinds of measurements of distance are there? How many dimensio
 [We have created so many algorithms for pathfinding. We use these constantly to optimize our ways across spaces and even to optimize our relations to each other. We've created everything about space and time, and how to make more and less of it.] What if — instead of using proximity as a shortcut to sameness — we looked to "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]. What if we found other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and [what futures we shape][xxx]? 
 
 ### Nearbyness
+{: .no_toc }
 
 >"not to speak about but rather to speak nearby"
 >>–Trinh T. Minh Ha [@chenSpeakingNearbyConversation1992]
@@ -786,6 +788,7 @@ The research foundational to this artistic research practice is a
 critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. [XXXmore][methodologies] -->
 
 # Bibliography
+{: .no_toc }
 
 - **Amaro**, R. (2022). *The Black Technical Object: On Machine Learning and the Aspiration of Black Being.* Sternberg.
 <!-- - Ahmed, S. (2017). *Living a Feminist Life.* -->
@@ -927,7 +930,7 @@ The new task in machine learning called 'machine unlearning' has emerged due to 
 
 
 
-### Reinforcement Learning with Human Feedback
+**Reinforcement Learning with Human Feedback**
 (in conclusion?)
 Reversed: (Human) Reinforcement Learning with Machine Feedback
 My workshops at Ars, Moz, USC
