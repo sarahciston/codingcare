@@ -1,6 +1,7 @@
 ---
 layout: post
 title: codes for (un)knowing
+permalink: unknowing
 nav_order: 11
 date: 23.12.2023
 ---

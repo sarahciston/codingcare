@@ -1,6 +1,7 @@
 ---
 layout: post
 title: codes for (un)living
+permalink: unliving
 nav_order: 12
 date: 23.12.2023
 ---

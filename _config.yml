@@ -12,17 +12,29 @@ baseurl: /codingcare
 
 links: 
   "critical introduction":
-    - "/intro"
-  "coding.care":
-    - "/guide"
+    - "/codingcare/intro"
   "codes for (un)raveling":
-    - "/unraveling"
-  "intersectional ai toolkit":
-    - "https://sarahciston.gitlab.io/toolkit/"
+    - "/codingcare/unraveling"
+  "coding.care":
+    - "/codingcare/guide"
   "codes for (un)limiting":
-    -"/unlimiting"
+    -"/codingcare/unlimiting"
   "critical field guide for datasets":
     - "https://knowingmachines.org/critical-field-guide"
+  # "codes for (un)forming":
+  #   - "/codingcare/unforming"
+  "inclusive datasets guide":
+    - "/codingcare/publications"
+  "codes for (un)knowing":
+    - "/codingcare/unknowing"
+  "intersectional ai toolkit":
+    - "https://sarahciston.gitlab.io/toolkit/"
+  "codes for (un)living":
+    - "/codingcare/unliving"
+  "appendices":
+    - "/codingcare/posts/appendices"
+  "process notes":
+    - "/codingcare/posts/notes"
   # "Get this dissertation in your Inbox (TK)":
     # - "mailgun-setup-TK"
   # "Intersectional AI Toolkit": 
