@@ -75,7 +75,7 @@
 
 
 
-            {% assign pgs = site.pages | sort: "nav_order" %}
+            {% assign pgs = site.pages | sort: "nav_order" | where: "nav_order", ">", 0 %}
               <!-- {% assign filtered_pg = pgs | where: "nav_order", "<", 11 %} -->
 
               <div class="breadcrumb-nav-list-item"><a href="{{ pg.url | absolute_url }}">{{ pg.title }}</a></div>
