@@ -75,6 +75,10 @@ This requires interdisciplinary and intersectional perspectives. It also require
 
 Intersectionality, Kimberlé Crenshaw's iconic analysis of institutional power [@crenshawDemarginalizingIntersectionRace1989], "critiques systems of power and how those systems structure themselves to impact groups and individuals unequally" [@cooperIntersectionality2016]. Intersectionality can reveal the tangible human and more-than-human costs entangled in these algorithmic systems – their proliferating data and its material infrastructures, as well as their consolidating power and its sociocultural infrastructures. Such power is differential by design. Conversations about AI fairness, transparency, explainability, ethics, public good, and the hype cycles of new technologies are grossly incomplete without intersectional analyses of power and intersectional tactics of (and beyond) equity and inclusion. No change *about* us *without* us.
 
+[xxx][add]
+>"Data, in this sense, are more than operative forms of value; they establish the values of difference as the subject and object of organization."[@amaroBlackTechnicalObject2022]
+>"Machine learning [...] is an expression of that which has already been categorized." [@amaroBlackTechnicalObject2022]
+
 Yet industry implementations of so-called ethical tech reduce complex concepts into flattened ideas of fairness and representation [@ovalleFactoringMatrixDomination2023a]. Machine learning, as a mass production, produces certainty from uncertainty. More precisely, argues [XXX-ID] Louise Amoore, it produces a false sense of certainty from millions or billions of small uncertainties, through its reductionist logics of probability as prediction [@amooreCloudEthicsAlgorithms2020]. These uncertainties are also claims about "what we should know, how we should know what we know, and how that knowledge should be deployed. Each exposure to a dataset occurs because someone concluded that the information in that dataset should be used to determine a possible future" [@hakopianInstituteOtherIntelligences2022]. Since an algorithm is at its most simple a set of instructions, of course it will contain the assumptions of those who wrote those instructions. It will follow their beliefs about how to implement that procedure. There are many ways to do any task, informed by minute choices at every step. As these choices scale exponentially with computation, the impact of these choices magnifies exponentially too. They are compounded by the computational speeds that allow thousands of operations to run per second. Yet, because they are processed through algorithmic systems (and a mythology of the black box), these choices get normalized, naturalized, and neutralized. 
 
 Yes, in many cases it would be nice to have more, better data. But the very valid criticism that algorithmic systems are biased because their data are biased — often summed up "garbage in, garbage out" — sets up a quest already doomed to fail. What would be better data? Or an optimized system? For what goal, and for whom exactly? There is no such thing as unbiased, there is only the right tool for the particular job, or a given slice of information from a particular perspective with just enough context for the purposes of a specific task. There is only "good enough" data — and only sometimes, for some tasks. When the stakes are too high, no data could be good enough to make life or death decisions. We need a different approach. We cannot rely on computational systems for infallibility and rationality, as we have been, nor can we look to these technologies uncritically as bandaids for the problems they exacerbate.
@@ -773,6 +777,35 @@ He also complicates digital decentralization through the reminder that "The proj
 [//]: # "TK: All Writing Is Code *tetherednetwork*"
 [//]: # "TK: NewReal Critical AI Essay"
 
+
+<!-- >"This possibility of creating directed, coordinated, and controlled sets of techniken [cultural techniques] that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022] -->
+Address means you are locatable in space, means you are reachable:
+>"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries."  [@dhaliwalAddressabilityWhatEven2022]
+
+
+Refusing how technologies have been posited as serving capitalist goals can mean reorienting toward technologies of sharing. 
+~~No to capital and Yes to sharing~~
+
+TechNO is also open-access, open-source — in their refusal to capitulate to capitalist regimes of encapsulation, privatization, knowledge-hoarding and gatekeeping. 
+
+<!-- in IAIT? -->
+
+Open-source projects are often open in name only. OpenAI is the most prominent example of this, as a company that began creating machine learning models that offered research access but has increasingly become closed and proprietary. Elsewhere, I have written about the gaps in open-source works which do nothing more than place a single version of their source code online — in contrast to robust, responsive open-source projects that develop their work over multiple versions in consultation with their communities. Elea Zhong argues that not only do large corporate entities claiming to be open source often fail to offer substantive contributions to open-source communities, they misuse the term 'open source' to extort free labor. 
+
+>"In the same way big oil brands itself with greenwashing for illusory environmental progressiveness, big tech extol their open source efforts to open-wash their capitalist, monopolistic, and destructive reality. Technological development is in dire need for a policy-first, documentation-first, ideology-first methodology, and AI must transform its focus on creating systems which understands and addresses the complexity of its environment, critically assesses its context, and produces meaning-rich results." (Zhong 2023)
+
+Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.html)) points out that 
+The new task in machine learning called 'machine unlearning' has emerged due to large models' training costs and the practice of indiscrimine data scraping. As Code Collective member ender writes, machine unlearning assumes access to the models it wants to alter, which also assumes a powerful role with agency in big tech. Instead, ender combines questions of machine unlearning with adversarial data poisoning to ask how one can remove data from a model without access to the initial model. 
+
+**Reinforcement Learning with Human Feedback**
+(in conclusion?)
+Reversed: (Human) Reinforcement Learning with Machine Feedback
+My workshops at Ars, Moz, USC
+
+
+## Bibliography
+<!-- {: .no_toc} -->
+
 <!-- #### Methodologies
 * intersectional feminisms
 * queer & feminist media praxis, making/crafting, URGENTCRAFT
@@ -787,31 +820,25 @@ The research foundational to this artistic research practice is a
 
 critical reflection on the technical aspects of natural language processing and dataset processing techniques that support the latest systems, while situating their cultural and material antecedents through lenses of power. [XXXmore][methodologies] -->
 
-# Bibliography
+<!-- # Bibliography
 {: .no_toc }
 
 - **Amaro**, R. (2022). *The Black Technical Object: On Machine Learning and the Aspiration of Black Being.* Sternberg.
-<!-- - Ahmed, S. (2017). *Living a Feminist Life.* -->
+- Ahmed, S. (2017). *Living a Feminist Life.*
 - Ahmed, S. (2018). "Queer Use." feministkilljoys blog. https://feministkilljoys.com/2018/11/08/queer-use/
 - Amoore, L. (2020). *Cloud Ethics*.
-<!-- - Asimov Institute. (2016). Neural Network Zoo. https://www.asimovinstitute.org/neural-network-zoo/ -->
 - Berlant, L. (2016). The commons: Infrastructures for troubling times*. Environment and Planning D: Society and Space, 34(3).
 - Branson
 - Braybrooke, K. (2020). "Together, we dance alone": Building a collective toolkit for creatives in a pandemic. Interactions, 27(4), 68–71. https://doi.org/10.1145/3406027
 - Brunton, F., & Nissenbaum, H. F. (2015). *Obfuscation: A user's guide for privacy and protest.* MIT Press.
-<!-- - Birdsong, Mia. 2020. *How We Show Up* -->
 - brown, adrienne marie. (2021). *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
 - Browne, Simone. (2015). *Dark Matters: on the surveillance of blackness.* Duke UP.
 - Cerankowski, K. J. (2021). *Suture: Trauma and trans becoming.* Punctum Books.
   - >"we cannot and must not contain ourselves as we spill into the world and onto and into each other. This spillage is about intersubjectivity — how we touch as we are being touched, how we leave marks on one another, how we leak onto and into one another, how we are always moving through each other, how we haunt one another, and how no story is ever just ours even as we have our own stories to tell."
 - Chun, W.H.K. (2022). *Discriminating Data*
-<!-- - Chun, W.H.K. (2015). *Updating to Remain the Same.* -->
-<!-- - Chun, W.H.K. (2009). "Race and/as Technology; or How to Do Things to Race." *Camera Obscura* 24:1 -->
-<!-- - Chun, W.H.K. (2008). "On 'Sourcery', or Code as Fetish." *Configurations.* 16:3 -->
 - Calvino, I. (1976). "The Burning of the Abominable House." *Numbers in the Dark*. Trans 1995. 
 - Ciston, S., & Marino, M. C. (2021, August 19). How to Fork a Book: The Radical Transformation of Publishing. Medium. https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c
 - Cox, G. and Soon, W. (2020). *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. [gitVersion](https://gitlab.com/aesthetic-programming/book/-/tree/master/source)
-<!-- - Crawford, K., & Joler, V. (2018). Anatomy of an AI System. http://www.anatomyof.ai -->
 - Crawford, K. (2021). *Atlas of AI: power, politics, and the planetary costs of artificial intelligence.* Yale UP. 
 - Fournier, L. (2021). *Autotheory as Feminist Practice in Art, Writing, and Criticism.* MIT P. 
 - Gabrys, J. 2019. *How to Do Things with Sensors.* U of Minnesota P.
@@ -824,11 +851,9 @@ critical reflection on the technical aspects of natural language processing and 
 - Dunbar-Hester, Christina. *Hacking Diversity.* Princeton UP.
 - Hedva, J. (2018). "Belonging in the Mess." Processing Foundation. 14 November 2018. https://medium.com/processing-foundation/belonging-in-the-mess-3d3ad0577499
 - Hedva, J. Hedva, J. (2022). "Why It’s Taking So Long." *Topical Cream*. https://www.topicalcream.org/features/why-its-taking-so-long/
-<!-- - Hedva, J. (n.d.). "Care in end times." CARE SYLLABUS. https://www.caresyllabus.org/care-in-end-times -->
 - hooks,  bell. (1994). *Teaching to transgress: Education as the practice of freedom.* Routledge.
 - Ingold, T. (2015). *The Life of Lines*. Routledge.
   - >"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)
-<!-- - Ingold, T. (2011). *Being Alive.* -->
 - **Jaton**, F. (2020). *The Constitution of Algorithms.* MIT P.
 - **Joque**, J. (2022). *Revolutionary Mathematics.* Verso.
 - Marino, M. C. (2020). *Critical code studies.* MIT P.
@@ -841,7 +866,6 @@ critical reflection on the technical aspects of natural language processing and 
 - Nicholson, 
 - Olufemi, L. (2021). *Experiments in Imagining Otherwise.* Hajar Press.
 - **Piepmeier**, A. (2009). *Girl Zines: Making Media, Doing Feminism.* NYU Press.
-<!-- - Raley, R. (2007). "Interferences: [Net.Writing] and the Practice of Codework." *Electronic Book Review.* http://electronicbookreview.com/essay/interferences-net-writing-and-the-practice-of-codework/ -->
 - Raley, R. (2009) *Tactical Media* U of Minnesota P.
 - Raley, R. & Rhee, J. (2023) "Critical AI: A Field in Formation." *American Literature*
 - Reddy, A. (2022). "Artificial everyday creativity: creative leaps with AI through critical making." *Digital Creativity.*
@@ -868,10 +892,10 @@ critical reflection on the technical aspects of natural language processing and 
   - Groten, A. "Hacking & Designing: Paradoxes of Collaborative Practice." 
   - Sinders, C. "Making Critical Ethical Software."
   - Van Ness, G. "Hacking the Hustle: Sex Work, Networks, & Social Reproduction Under FOSTA-SESTA."
-- [tracery as craftivism](https://electronicbookreview.com/essay/retraced-threads-generating-feminist-textile-art-with-tracery/)  
+- [tracery as craftivism](https://electronicbookreview.com/essay/retraced-threads-generating-feminist-textile-art-with-tracery/)   -->
 
->"What's unique about such IFH/MSs [intersectional feminist hacker/makerspaces] is that they are designed specifically to meet the needs and interests of the communities they are by and for, thereby allowing for a truly revolutionary *reimagining* of a 'different concatenation of social forms, knowledge, and technology'. In so doing, IFH/MS members articulate a strategy of hacking not only software and hardware, but their own social reproduction within the cybersphere." 
->>- Van Ness, G. "Hacking the Hustle: Sex Work, Networks, & Social Reproduction Under FOSTA-SESTA." in Critical Makers Reader
+<!-- >"What's unique about such IFH/MSs [intersectional feminist hacker/makerspaces] is that they are designed specifically to meet the needs and interests of the communities they are by and for, thereby allowing for a truly revolutionary *reimagining* of a 'different concatenation of social forms, knowledge, and technology'. In so doing, IFH/MS members articulate a strategy of hacking not only software and hardware, but their own social reproduction within the cybersphere." 
+>>- Van Ness, G. "Hacking the Hustle: Sex Work, Networks, & Social Reproduction Under FOSTA-SESTA." in Critical Makers Reader -->
 
 <!-- 
 
@@ -886,54 +910,18 @@ critical reflection on the technical aspects of natural language processing and 
 
 <!-- Broadly these have been called data subjects. For clarity, I distinguish between data subjects, whose information is captured in datasets that train machine learning models, and data subjectees, who are interpellated by and bear the impact of those models when implemented as part of AI systems. We are all the sovereign Data State's subjects, and we are all subject to its gaze as data subjectees.  -->
 
->"If race as we know it is an 'algorithm' inherited from the age of Enlightenment, reprogramming its function from inheritance (a form of destiny) to insurrection provides the possibility of new formulations." Coleman Race as a technology
+<!-- >"If race as we know it is an 'algorithm' inherited from the age of Enlightenment, reprogramming its function from inheritance (a form of destiny) to insurrection provides the possibility of new formulations." Coleman Race as a technology -->
 
 
-@berlantCommonsInfrastructuresTroubling2016
+<!-- @berlantCommonsInfrastructuresTroubling2016
   - >"holds in suspicion the prestige the commons concept has attained in the US and theory-cosmopolitan context, often signifying an ontology that merely needs the world to create infrastructures to catch up to it. Although the commons claim sounds like an uncontestably positive aim, the concept in this context threatens to cover over the very complexity of social jockeying and interdependence it responds to by delivering a conﬁrming aﬀective surplus in advance of the lifeworld it’s also seeking. [...] the attachment to this concept is too often a way of talking about politics as the resolution of ambivalence and the vanquishing of the very contingency of nonsovereign standing that is at the heart of true equality, [...] 
   - >**"the commons concept is a powerful vehicle for troubling troubled times. [...] The better power of the commons is to point to a way to view what’s broken in sociality, the diﬃculty of convening a world conjointly, although it is inconvenient and hard, and to offer incitements to imagining a livable provisional life."**
   - >[...] The commons is an action concept that acknowledges a broken world and the survival ethics of a transformational infrastructure. This involves using the spaces of alterity within ambivalence."
   - >"form is not only a wish for a refuge, a cushion: it is also social, an exposure, a mediation, and a launching pad in relation to which beings can ﬁnd each other to ﬁgure out how to live in a movement that takes energy from the term ‘‘movement’s’’ political resonance."
-  - >"taking each other on and in but never collapsing the distance that allows for attention. To take something in is to be nonsovereign in relation to it, but that’s not equal to being destroyed by it."
+  - >"taking each other on and in but never collapsing the distance that allows for attention. To take something in is to be nonsovereign in relation to it, but that’s not equal to being destroyed by it." -->
 
->"built on the systemic fragmentation of difference. That is to say, the recursive features of our Western imaginary are reliant on the reinstatement of logical 'truths' made actionable by systems of categorization."[@amaroBlackTechnicalObject2022]
->"Data, in this sense, are more than operative forms of value; they establish the values of difference as the subject and object of organization."[@amaroBlackTechnicalObject2022]
->"Machine learning [...] is an expression of that which has already been categorized." [@amaroBlackTechnicalObject2022]
+<!-- >"built on the systemic fragmentation of difference. That is to say, the recursive features of our Western imaginary are reliant on the reinstatement of logical 'truths' made actionable by systems of categorization."[@amaroBlackTechnicalObject2022] -->
 
-
-
-
-
-
-<!-- >"This possibility of creating directed, coordinated, and controlled sets of techniken [cultural techniques] that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022] -->
-Address means you are locatable in space, means you are reachable:
->"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries."  [@dhaliwalAddressabilityWhatEven2022]
-
-
-
-
-Refusing how technologies have been posited as serving capitalist goals can mean reorienting toward technologies of sharing. 
-~~No to capital and Yes to sharing~~
-
-TechNO is also open-access, open-source — in their refusal to capitulate to capitalist regimes of encapsulation, privatization, knowledge-hoarding and gatekeeping. 
-
-<!-- in IAIT? -->
-
-Open-source projects are often open in name only. OpenAI is the most prominent example of this, as a company that began creating machine learning models that offered research access but has increasingly become closed and proprietary. Elsewhere, I have written about the gaps in open-source works which do nothing more than place a single version of their source code online — in contrast to robust, responsive open-source projects that develop their work over multiple versions in consultation with their communities. Elea Zhong argues that not only do large corporate entities claiming to be open source often fail to offer substantive contributions to open-source communities, they misuse the term 'open source' to extort free labor. 
-
->"In the same way big oil brands itself with greenwashing for illusory environmental progressiveness, big tech extol their open source efforts to open-wash their capitalist, monopolistic, and destructive reality. Technological development is in dire need for a policy-first, documentation-first, ideology-first methodology, and AI must transform its focus on creating systems which understands and addresses the complexity of its environment, critically assesses its context, and produces meaning-rich results." (Zhong 2023)
-
-Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.html)) points out that 
-The new task in machine learning called 'machine unlearning' has emerged due to large models' training costs and the practice of indiscrimine data scraping. As Code Collective member ender writes, machine unlearning assumes access to the models it wants to alter, which also assumes a powerful role with agency in big tech. Instead, ender combines questions of machine unlearning with adversarial data poisoning to ask how one can remove data from a model without access to the initial model. 
-
-
-
-
-
-**Reinforcement Learning with Human Feedback**
-(in conclusion?)
-Reversed: (Human) Reinforcement Learning with Machine Feedback
-My workshops at Ars, Moz, USC
 
 <!-- ahree lee weaving work -->
 <!-- codebending (2015) repurposing languages and interfaces [@CodeBendingNew] -->

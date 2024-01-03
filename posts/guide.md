@@ -3,23 +3,25 @@ layout: post
 title: coding care pocket guide
 permalink: codingcare
 nav_order: 3
-date: 25.12.2023
+date: 03.01.2024
 tags: [tips, guide, handy, coding, zine, computers, programming]
+# link-citations: true
 ---
 
 # Coding Care: Field notes for making friends with code
 {:.no_toc}
 
-[//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities // guide book / field notes / pocket guide"
+<!-- [//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities // guide book / field notes / pocket guide" -->
 
 * toclist
 {:toc}
 
+<p class='quote'>
 "Any meeting or gathering is a place to practice the future together in the most tangible ways."
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 – adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
-{: .quote .attrib }
+</p>
 
 ## 0. Welcome 
 
@@ -33,19 +35,21 @@ Have you considered learning to code but felt too intimidated to try? Have you s
 
 Maybe you're decent with programming skills but you'd still never consider yourself a 'coder'. *Coding Care* is about bridging this disconnect — the wide gulf between trying to learn coding and feeling empowered to create with code. 
 
+<p class='quote'>
 "the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text"
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Jessica Loseby, "Code Scares Me"
-{: .quote .attrib }
+</p>
 
 So many people feel left out of coding communities and spaces for learning about computation — even though we likely interact with computation in some form every day! But I believe it is essential for people who come from all different perspectives to share access to the digital languages which are altering the world and what it becomes. *I* want to live in a world that is shaped by *your* point of view and many others' point of views — not a world shaped only by one narrow take on what computers can be and do. 
 
+<p class='quote'>
 "I was that convinced that I didn’t have the ability or technological talent to learn how to write code for something. I assumed that every person around me was miles ahead in their practice, and wondered how my passion for creative storytelling could really play into something so new and untouched." 
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Tia Kemp, she/her, BA USC Media Arts + Practice
-{: .quote .attrib }
+</p>
 
 ### Don't stop me now
 
@@ -76,11 +80,12 @@ This guidebook wants to enrich the rituals of programming to include the joy, co
 
 ### Code isn't magic, but we are
 
+<p class='quote'>
 "No way, code is magic." 
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
-{: .quote .attrib }
+</p>
 
 I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, this so-called 'magic' does not come from men behind the curtains of big tech, hiding the keys while offering the hype of AI which says, "trust us, this this tech is too complicated for you" [or "if you only learned how to play the game our way."] Automated systems have always been deeply intertwined with humans in every way, from mechanical Turks to crowd labor outsourced to the Global South. No magic about it, just us. 
 
@@ -182,11 +187,12 @@ Designing the online presence for Code Collective has been an ongoing collaborat
 
 Through this process of communication and collaboration among the group members about who we are and what we want to offer, the Code Collective website has expanded from a static landing page into a unique resource hub and project showcase – with a searchable, contributable database of tools, tutorials, research, and projects we have found useful. 
 
+<p class='quote'>
 "The most challenging part of programming is conceptualizing the problem, and many errors in programming are conceptual errors."
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –[@mcconnellCodeComplete2004]
-{: .quote .attrib }
+</p>
 
 [Back to Table of Contents](#top)
 
@@ -249,11 +255,13 @@ Critically breaking things helps us understand how they work (or don't work) fro
 
 Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't worry about that yet. Tinkering is a transferrable, lifelong skill:
 
-"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
-{: .quote }
 
+<p class='quote'>
+"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
+</p>
+<p class='quote attrib'>
 –Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
-{: .quote .attrib }
+</p>
 
 *For more on this, see [Critical tinkering](#Critical-tinkering)*
 
@@ -303,11 +311,12 @@ The goal is "growth not perfection." You will never get to "the end" where you h
 
 How do we learn how to learn? We tinker and stretch a bit — whether in breadth or depth or both. We work from the foundations of what we already know and use it as metaphors to help us understand what we don't yet know. We question the foundations of what we already know and use new information to reflect on it in new contexts. We collage and combine and experiment with what might go together unexpectedly, what we might have taken for granted right in front of us. How did you learn the things you most enjoy? Was it from a text book or from your own explorations? What kinds of exploratory approaches work best for you? 
 
+<p class='quote'>
 "For me, I could figure out how to code but I didn't really know what to use for what, and for the specific things I like. Also part of the issues here is there's so many things you could do, right?"
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Ada Toydemir, they/them, USC BA/MS Computer Science
-{: .quote .attrib }
+</p>
 
 ### Read code like a book
 
@@ -342,13 +351,12 @@ I have learned from many communities building transfeminist infrastructures that
 >>– ["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) @WishlistTransFeminist
 
 [^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021
-{:.sidenote}
 
 Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
 
->"any infrastructure you need to set up from scratch, it's slow, and then it becomes like, it goes faster, it accelerates at one stage, I don't know why, I guess that you need to build the structure, the infrastructure that is going to be sustaining everything. And when you are figuring how to build it, or what is the better ways when things are slower. [...] And when you build a project that is based on informal and volunteer work, to maintain an infrastructure, things are gonna be slow, because yeah, we are all feminists. So we are very busy. We are struggling in different fights that are sometimes death and life important. And of course, like being able to learn to administrate services or host contents, maybe is not always the first thing in our list." [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
-
-
+<p class='quote attrib'>
+"any infrastructure you need to set up from scratch, it's slow, and then it becomes like, it goes faster, it accelerates at one stage, I don't know why, I guess that you need to build the structure, the infrastructure that is going to be sustaining everything. And when you are figuring how to build it, or what is the better ways when things are slower. [...] And when you build a project that is based on informal and volunteer work, to maintain an infrastructure, things are gonna be slow, because yeah, we are all feminists. So we are very busy. We are struggling in different fights that are sometimes death and life important. And of course, like being able to learn to administrate services or host contents, maybe is not always the first thing in our list."  – [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
+</p>
 
 </div>
 
@@ -372,10 +380,8 @@ The socially awkward planner in me wants to know in advance what's going to happ
 Your milage may vary, as mine has! I want to acknowledge that some folks are given much more leeway to display uncertainty while retaining their authority and respect than others are. I understand that your vulnerability will have boundaries and capacity limits, as mine does.[^identity1][^identity2]
 
 [^identity1]: e.g. It looks very different for a white male professor with job security to engage "casually" or "flexibly" and still receive the benefit of the doubt when up for review. I want to use the privilege I have as a white person who has learned to "speak academic" (in the contexts where I must) to turn that voice off where I can and dismantle those structures as much as I can. I still worry about how I am perceived as "too feely" or "too feminine" or "too casual" in my non-binary queer femme graduate student instability. But however possible, I want to make it more comfortable for folks like me — and folks unlike me who may be even more precarious in academic or technologist spaces — to have a home here too. That doesn't happen without those of us who have the capacity to shut off the gatekeeping rhetoric doing so.
-{:.sidenote}
 
 [^identity2] Briana Bettin (Assistant Professor of Computer Science and Cognitive and Learning Sciences, Michigan Tech) echoes this sentiment: "I let students see me make mistakes; I thank them for identifying those mistakes and engaging with the lecture. I ask them why that was a mistake and create conversation because students need to see experts fail too. Failure is part of learning, part of life and part of moving forward. As a young female instructor, failing in front of students can easily backfire. There have certainly been indications that this confirmed to some that I have no idea what I’m doing and that I’m not qualified. Despite that, I will continue to fail in front of my students and call myself out on it, because it makes the classroom a place they know they can try, fail and grow. If I can have a code failure in front of 200 of them and I’m supposed to know what I’m doing, they can fail in front of their lab partner or their roommate while they’re taking their first class" [@whiteTeachingAwardWinner2022].
-{:.sidenote}
 
 ### Ask "stupid" questions (psst.. there are no stupid questions)
 
@@ -430,19 +436,18 @@ Sharing our struggles helps us solve them. In Code Collective, we do a lot of te
 **Highlighting** mistakes is not about focusing on the negative; it brings our problems out of the shadows and removes the shame. Our mistakes connect us with each other. They show us we're not the first to encounter this issue,[^first] and they also show us we're not alone with the experience of facing coding challenges. Being vulnerable makes us stronger and brings us closer. 
 
 [^first]: Occasionally, we *are* the first to encounter this issue because we're trying to do something entirely new and important. It is helpful to get encouragement from friends either way. 
-{:.sidenote}
 
 Live coding, though it might seem counterintuitive, sparks confidence. It helps to watch another coder, whether brilliant or beginner or both, struggle under the familiar burden of a problem — that feeling that they cannot solve it, that they're unfit to call themselves real coders, that they're imposters, and that the feeling will never ever go away. Then watching them collaborate with others to solve it. Remember that person the next time you feel the same way. You won't always feel that way. 
 
 When we are together and witness each other struggle, that commonality reveals lightness and joy through community support. (You're not going insane, because you're not the *only one* who's gone insane staring at their code before. Yes, you do need sleep. Yes, you'll figure it out, or you'll figure something out. And we're here to help.) 
 
+<p class='quote'>
 "I loved editing that Three.js[^threejs] scene with Ada. I love being able to have group input. Before I was trying to communicate Three.js knowledge, and I've been struggling to get it out of my head. But, for some reason, seeing it in the group setting, it was a really fulfilling experience — like a teaching moment where I could communicate a lot of knowledge in a short amount of time."
-{: .quote }
+</p>
 
 <p class="quote attrib" markdown=1>
 –Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
 </p>
-<!-- {: .quote .attrib } -->
 
 [^threejs]: Three.js is a code library (an add-on) in the Javascript language that helps create 3D graphics: [Three.js](https://threejs.org). For similar tools at a more introductory level, also check out the code library [P5.js](https://p5js.org), which is a great place to start learning widely applicable coding skills.
 {:.sidenote}
@@ -453,7 +458,6 @@ When we are together and witness each other struggle, that commonality reveals l
 <p class="quote attrib" markdown=1>
 –Anja Groten, Hacking & Designing: Paradoxes of Collaborative Practice" in [@bogersCriticalMakersReader2019]
 </p>
-<!-- {: .quote .attrib } -->
 
 [//]: # "[XXX should i be linking technical tools to the CCC Resource Hub items instead? And can those be linked if they're dynamically generated? i don't think they can...:(]"
 
@@ -507,12 +511,10 @@ Don't be afraid to get weird together.
 <p class="quote" markdown=1>
 "Pranking an AI—giving it a task and watching it fail—is a great way to learn about it"
 </p>
-<!-- {: .quote } -->
 
 <p class="quote attrib" markdown=1>
 –Janelle Shane, *You Look Like a Thing and I love You*
 </p>
-<!-- {: .quote .attrib } -->
 
 My own personal artistic mantra is to "move toward the weird." In my practice, how I follow my interests and push my research forward is find the most strange, uncanny, uncomfortable aspects of whatever I'm working on. If something makes me cringe, that's a place to explore (within limits of course). Rather than research questions I can test and answer with hypotheses, I'm interested in the *research tensions* I know I won't solve but keep bugging me in a visceral way. In my case, it has included the discomfiting way technologies insinuate themselves into our intimate experiences (what I call "creepvenience"), through things like personal data tracking, or the way machine learning systems carry with them the residues of their training data language into their outputs. It has included filming myself and tracking myself, because I am super uncomfortable both of those and they feel weird but interesting. What would be your strange but fascinating thing? How do you like to get weird?
 
@@ -548,17 +550,19 @@ What vocabulary do you use to describe its structure: Is it a secret society? A 
 
 Okay maybe not *mandated* but we like the approach of conferences like [bang bang con](https://bangbangcon.com/) that set a baseline of exclamations for everything, rather than needing to censor ourselves. They welcome joyful contributions, and it shows in the passion their presenters bring to their talks. So. Does my email have too many exclamation points, emoji, and gifs? Probably, but so what? Is my terminal absolutely adorable? Heck yeah. 
 
+<p class='quote'>
 "The terminal is cute. It's important to have a good relationship with your terminal." 
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 —Ada Toydemir, they/them, USC Computer Science
-{: .quote .attrib }
+</p>
 
+<p class='quote'>
 "it is really important to actually focus on making sure that people are enjoying themselves and feeling camaraderie, because that can sort of be the secret sauce that makes it work. [...] the stereotype of the programmer personality is actually a disagreeable person, and so to bring a group of programmers or people interested in programming together and have a fun conversation is actually quite an achievement, I would say."
-{: .quote}
-
+</p>
+<p class='quote'>
 –ender, Columbia Applied Mathematics
-{: .quote .attrib}
+</p>
 
 ### Do it your own way
 
@@ -604,11 +608,12 @@ Chaos Camp
 
 ## 5. We all have skills to teach each other
 
+<p class='quote'>
 "There must be an ongoing recognition that [...] everyone contributes. These contributions are resources." 
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –bell hooks, *Teaching to Transgress*
-{: .quote .attrib }
+</p>
 
 ### Remember what you already know
 
@@ -628,43 +633,49 @@ Everyone has a perspective, and no one knows everything. We may know about the s
 
 ### Take comfort in this Programmer's Paradox
 
+<p class='quote'>
 "You may never feel like a "real programmer." You already are a programmer."
-{: .quote }
-
+</p>
+<p class='quote'>
 –[Amy Rae Fox](https://madebyafox.github.io/)
-{: .quote .attrib }
+</p>
 
+<p class='quote'>
 "it was time to get into coding. And by that I mean – hours of getting things wrong and few moments of figuring out something right."
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Tia Kemp, she/her, USC Media Arts + Practice
-{: .quote .attrib }
+</p>
 
 Take heart if you don't feel like you're really a coder. Many of my favorite computer scientists and professional programmers have told me they don't either! There may never be a time when you reach the feeling of proper expertise or authority in your field, but the secret is that this is not the secret to competency. Those people walking around like they know what they're doing? Adulting? Ha! They probably don't know either. 
 
 And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced [@AlwaysalreadyprogrammingMd]. We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
 
+<p class='quote'>
 "It's buttons all the way down. [...] When we all build up and cultivate one another's agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing." 
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Melanie Hoff
-{: .quote .attrib }
+</p>
 
 Bonnie Nardi's concept of "end-user programming" helps dismantle the hierarchy of software maker/user and emphasizes the work a user does is another kind of programming. Every day we customize settings and change parameters, we put formulas in spreadsheets and create automatic workflows in photo editors. She argues these "end-users" are not naive but make intensive use of computers. She includes such tasks on a continuum with programming that addresses the machine at various levels, whether "close to the metal" like assembly languages or abstracted high-level languages like object-oriented programming [-@nardiSmallMatterProgramming1993]. We see this continuum continuing to blur now with "prompt programming," which involves writing plain-text commands for generative AI systems. 
 
-"Computer-centric terms such as 'novice' obscure the possibilities for creating appropriate end user systems and are prejudicial in assigning prominence to the computer." 
-{: .quote }
 
+<p class='quote'>
+"Computer-centric terms such as 'novice' obscure the possibilities for creating appropriate end user systems and are prejudicial in assigning prominence to the computer." 
+</p>
+<p class='quote attrib'>
 —Bonnie Nardi [@nardiSmallMatterProgramming1993]
-{: .quote .attrib }
+</p>
 
 How might we reject such ideas about our relationships with computers that are baked into the systems as we see them today? A return to other ways of knowing offers one approach:
 
+<p class='quote'>
 "The development of gooey [GUI] was a project to create an accessible computer, lessening the burden of knowledge required to complete a task. But this also created the 'user' as we know it by creating a user/programmer dichotomy. The desire for a black screen is that of removing the dichotomy in favor of an interface without subjection, without users and/or programmers alike. [...] Black gooey might then be a platform of slowness ('dragged time', 'colored time') [...], refusal, thought, complexity, critique, softness, loudness, transparency, uselessness, and brokenness. A planar body that longs for the solitude and vastness of the commandline, yet nuanced and sharp, to usurp and destroy a contemporary hegemonic interface." 
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –@artistBlackGooeyUniverse
-{: .quote .attrib }
+</p>
 
 Code Collective member [ender](https://www.enderverse.org/) expands on such ideas in a zine called, "[you are a coder](https://enderversing.itch.io/uracoder)." It discusses how users might be more empowered through customization tools to engage like programmers (and how many already do!), and how programmers are rely on languages as interfaces, just like other kinds of users do. It also includes more readings on this topic if you're interested, from David Chisnall, Olia Lialiana, Joanne McNeil, and Melanie Hoff [@enderYouAreCoder]. 
 
@@ -679,11 +690,12 @@ Code Collective member [ender](https://www.enderverse.org/) expands on such idea
 
 Nardi also reminds us we easily learn things like programming all the time, when we feel empowered to do so and are excited about them. Within knitting patterns, like baseball scoresheets, she points out:
 
+<p class='quote'>
 "a great deal of information is contained within a terse set of instructions; the instructions (while appearing incomprehensible to non-knitters) are accessible to any ordinary person who decides to learn to knit; and, just as the filled-out scoresheet records the way a game unfolded, the knitting instructions provide a permanent record of the way the task of knitting an afghan unfolds [...]"
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 [-@nardiSmallMatterProgramming1993]
-{: .quote .attrib }
+</p>
 
 Both these formal languages involve "the use of constructs familiar to programmers: modules of instructions, subroutines, global variables, means for specifying conditions, and iteration." Nardi says when people have an interest, they can quickly learn the notations, forms, and relations of that system. This may seem obvious, but "People are likely to be better at learning and using computer languages that closely match their interests and their domain knowledge."
 
@@ -741,11 +753,12 @@ We let ourselves be flexible and fluid, spongy and influenced. Or at least, we t
 
 I include myself in this! Through conversations about what we're making and imagining, I try to model my own artistic research practice that prioritizes comfort with uncertainty and multiple approaches. I focus on dialog exchange rather than prescriptive lectures, and fully integrate critical and creative approaches, until it does not feel like 'teaching' but sharing and connecting. There are many structures designed to keep us from learning from each other in these ways, including our own resistance. But it is worthwhile if you are willing. 
 
+<p class='quote'>
 "A lot of the the values that I was trying to hold on to would be a lot harder for me to hold on to without Code Collective. It's almost like an opportunity cost, like if Code Collective wasn't there, I would be working for Palantine or something right now, I'd be using this mind towards — I wouldn't even call it destruction but I would have lost a lot. [...] A huge amount of empathy or a criticality has remained. That's that's what I'm taking with me and that's what I will keep, and I hope to replicate it in some form."
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
-{: .quote .attrib }
+</p>
 
 ### Adjust for what's needed
 
@@ -771,11 +784,12 @@ We acknowledge the many different contexts that bring us to the same space, diff
 
 It helps to acknowledge many contexts that situate the tools and languages we choose. There are no defaults, no neutrals. Our choices have histories. They come with cultures and politics attached.
 
+<p class='quote'>
 "Situated Computation is an approach to computational design that grounds technologies in the social world by acknowledging the historical, cultural, and material contexts of designing and making. It acknowledges and responds to a setting's social and technological infrastructures, and refuses to remain ignorant of economic and political structures that shape it." 
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Dr. Vernelle A. A. Noel [@SitCoLab]
-{: .quote .attrib }
+</p>
 
 Not only does acknowledging situated context help create better relationships among community members, it helps make interesting, engaging works of creative–critical code. 
 
@@ -785,7 +799,6 @@ Not only does acknowledging situated context help create better relationships am
 <p class='quote attrib'>
 –ender, Columbia Applied Mathematics
 </p>
-
 
 ### Address difference and power
 
@@ -805,25 +818,26 @@ How do we acknowledge them?
 
 In tech communities, a myth of equal access to digital resources and DIY materials led many to propose that makerspaces and hacklabs could be egalitarian spaces. Communications professor and open-source community researcher Christina Dunbar-Hester has shown how promoting 'free speech and diversity' through no-holds-barred approaches actually ends up reinforcing existing power imbalances. In open-source coding communities and hackerspaces, this has led to women and people of color moving on from these spaces to create their own communities instead [@dunbar-hesterHackingDiversityPolitics2019].
 
-While these spaces may seem apart from "big tech" and thus have more opportunity to be free of its problems, Dunbar-Hester found [XXX]. Their informal structures, mostly run through volunteers, [were not optimized for focusing on bringing in/welcoming new members unlike them/not did naturally lend to/leave room for critical self-reflection] [XXX]
+While these spaces may seem apart from "big tech" and thus have more opportunity to be free of its problems, Dunbar-Hester found they still suffered the same pitfalls as larger institutions. Their informal structures, mostly run through volunteers, struggled to welcome new, dissimilar membership and viewpoints and critical self-reflection.
 
+<p class='quote'>
 "the potential for differences in how participants are located within the community—there are multiple 'classes' within the wider open-technology community—and holds that CoCs [Codes of Conduct] may do some work to raise awareness and empathy levels about these differing backgrounds and experiences." 
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –[Dunbar-HesterHackingDiversity]
-{: .quote .attrib }
+</p>
  
-[XXX][more about hackerspaces vs corporate spaces here and what they can/but don't/do?][or does this go in intro]
+<!-- [XXX][more about hackerspaces vs corporate spaces here and what they can/but don't/do?][or does this go in intro] -->
 
 ### See differences as potentials
 
-Aligned in our interest in coding, we see our many differences as strengths and opportunities to learn from one another. I am committed to interdisciplinary, intersectional, iterative making. I make sure this is embedded in my artistic practice and my own work; and I hope it extends into our gatherings by how we show up. We including workshops and research discusses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally. We focus on how to "read" tools and technologies we use and make from different perspectives. We [XXX]
+Aligned in our interest in coding, we see our many differences as strengths and opportunities to learn from one another. I am committed to interdisciplinary, intersectional, iterative making. I make sure this is embedded in my artistic practice and my own work; and I hope it extends into our gatherings by how we show up. We including workshops and research discusses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally. We focus on how to "read" tools and technologies we use and make from different perspectives. 
 
 Sometimes these values are explicitly stated. At other times, such language can be off-putting to audiences who might otherwise want to participate and would gain from the ideas that language describes. It's not always necessary to use the terms "intersectionality" or "anti-racism" or "queer theory" — we can continue enacting these ideas through our selection of tools, programming languages, social gestures, and more. 
 
 ### Meet folks where they are
 
-[//]: # "A practice for revolutions: *'Wherever you are standing, come one step closer.'*[^@morehshin]"
+<!-- [//]: # "A practice for revolutions: *'Wherever you are standing, come one step closer.'*[^@morehshin]" -->
 
 Just as it's not always necessary to explain complex digital systems in highly technical terms, or critical theory in highly academic terms, we can use plain language to include as many interdisciplinary communities in the topics of our conversation as possible. 
 
@@ -831,8 +845,7 @@ This is not only about meeting people at their skill level (which we absolutely 
 
 I may not care for their approach or their aesthetic — or their politics! But I still *try* to start by understanding what they want to make and why.[^baseline] I do ask questions intended to challenge those approaches and aesthetics (and sometimes politics), but my goal is not to change their mind or make them do it 'my' way. My goal is to make space for them to see options they might not have considered, and to help them explore the options they choose in mindful ways. 
 
-[^baseline]: Understanding what someone wants to express is not the same as tolerating inhumane treatment of myself or others in our space, which we don't abide. These are hard lines, established by our community agreements (see [XXXsection XX on how to create these]). If an issue arises, folks are welcome back when they can reframe ideas without questioning the fundamental humanity and right to exist of others.
-{:.sidenote}
+[^baseline]: Understanding what someone wants to express is not the same as tolerating inhumane treatment of myself or others in our space, which we don't abide. These are hard lines, established by our community agreements (see Appendix for examples). If an issue arises, folks are welcome back when they can reframe ideas without questioning the fundamental humanity and right to exist of others.
 
 This approach helps more people feel welcome in our meetups. Often it also shifts their stance and their practice in the direction of making more critical and compassionate work, because it models for others the questions they can ask themselves about their own practice. 
 
@@ -840,18 +853,19 @@ If someone comes in with an opposing idea, let's talk about it. Tell us what's i
 
 And find a way, in the end, to break it up — with snacks, goofing off, small glimmers of joy — so that discussion fatigue does not set in. This makes it a comfortable space to have hard, but generative conversations.
 
+<p class='quote'>
 "I can see Code Collective as a way to reinforce ethics — and without imposing them. It has actively shaped the ethics of individuals who have exceptional power with their work. It was never like, 'don't do that, what are you doing' but definitely a space to hold all the possibilities around it, which I really appreciate. I know you and I have gotten into some heated conversations which I really enjoy. But there's a lot of respect there to hold all of the opposing ideas. The dialectical is the value."
-{: .quote}
-
+</p>
+<p class='quote attrib'>
 –Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
-{: .quote .attrib }
+</p>
 
-
+<p class='quote'>
 "the practice and reward from creative coding showed me first-hand that I shouldn’t be scared of new territory. It might seem simple, but the work I was able to achieve did more than shake my fear of code; it gave me a natural curiosity on the future of social media, the hands behind updated features, and how a new generation of thinkers and media-movers could reshape our understanding of it."
-{: .quote }
-
+</p>
+<p class='quote attrib'>
 –Tia Kemp, she/her, USC Media Arts + Practice
-{: .quote .attrib }
+</p>
 
 ### Choose the right tool for the job
 
@@ -887,11 +901,11 @@ Lavannya Suressh's lesson in programming digital variations of Kolam patterns, u
 
 Design and technology MFA [Lavannya Suressh](https://www.lavannyadesigns.com/kolam-generator) drew inspiration from her grandmother's daily practice of creating geometric patterns on the ground in rice flour, in a traditional South Indian art form called Pulli Kolam, to create complex graphic imagery with math and code. She adapted this work into a beautiful zine (and an lesson in the [Critical Code Cookbook](https://criticalcode.recipes/contributions/kolam-in-code)) about the project that clearly explains her process. 
 
-The p5zine library is a beautiful example of coding and zine-making combining in a fun, community practice. Created by Munis [XXX]
+The p5zine library is a beautiful example of coding and zine-making combining in a fun, community practice. Created by Munis [XXX][ADD]
 
 [zines][cite][munisp5zine]
 
-Zine-making and open source coding ethoses overlap in the [Open Source Kitchen](http://osp.kitchen/), including tools that inspired this project. 
+<!-- Zine-making and open source coding ethoses overlap in the [Open Source Kitchen](http://osp.kitchen/), including tools that inspired this project. [XXX][ADD] -->
 
 <p class="quote">
 "I care about the process of making the zine, but I care even more about what the zine does." 
@@ -900,13 +914,14 @@ Zine-making and open source coding ethoses overlap in the [Open Source Kitchen](
 –ender, Code Collective member
 </p>
 
+<p class="quote">
 "Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions (35) [...] "a lesbian-feminist mode of networking animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s,"
-{: .quote }
-
+</p>
+<p class="quote attrib">
 –[@mckinneyInformationActivismQueer2020]
-{: .quote .attrib }
+</p>
 
-[craft] 
+[craft][XXX][add]
 
 Zandy Peters' `Knit Boldly` philosophy focuses on expression and growth. He emphasizes three ideas that also apply to coding: 
 
@@ -917,7 +932,6 @@ Zandy Peters' `Knit Boldly` philosophy focuses on expression and growth. He emph
 [XXX][queer feminist handmade praxis]
 
 Daniel Fountain says, "the practice of *crafting,* is an essential part of queer-feminist survival." He calls it a way of doing and being, instead of fixed objects or skillsets, and shows how handcraft has been used for queer worldmaking and community building [-@fountainSurvivalKnittestCraft2021]. 
-
 
 [XXX]
 [XXX]
@@ -1091,7 +1105,7 @@ The examples I offer here are often in flux as the temperaments and conditions o
 
 [appendix:CCCcommunityvalues]
 
-[//]: # "does this go in section 6 above?"
+<!-- [//]: # "does this go in section 6 above?" -->
 
 ### Meet regularly
 
@@ -1129,33 +1143,36 @@ In Olivia Jack and Bruno Gola's Berlin-based hack night, Show Us Your Screens, e
 
 The time we offer each other matters. Sharing it with our active and equal attention is one of the most generous things we can offer to one another.
 
+<p class="quote">
 "It's really reassuring to always come back to this environment of, "Okay, [...] you can go on your own journey at your own pace. And you can explore your own things and there's no one right way to code.”
-{: .quote }
-
+</p>
+<p class="quote attrib">
 -Katherine Yang, she/her, USC BA Media Arts + Practice, Linguistics, Computer Science
-{: .quote .attrib }
+</p>
 
 ### Believe in snacks
 
 Seriously, snacks are essential. Without fail, when I asked what makes our community thrive, everyone said: SNACKS! Support snacks at all costs. Snacks are magic. How do snacks do it? I don't know, ask snacks. Make sure you budget for snacks.
 
 "While this is a cliche food has always brought people together. Snacking together in the basement brought out some of the best discussions and ideas I have entertained in college." 
-{: .quote }
-
+</p>
+<p class="quote attrib">
 —Ada Toydemir, they/them, USC Computer Science
-{: .quote .attrib }
+</p>
 
+<p class="quote">
 "I think the snacks were definitely a big draw in the beginning. They would still be now, except for COVID."
-{: .quote }
-
+</p>
+<p class="quote attrib">
 -Katherine Yang, she/her, USC BA Media Arts + Practice, Linguistics, Computer Science
-{: .quote .attrib }
+</p>
 
+<p class="quote">
 "I think I think food was a huge component. It brings people together, it puts people on the same level. Whenever people dine together, it levels the playing field, and it kind of brings a sense of equality. That's important."
-{: .quote }
-
+</p>
+<p class="quote attrib">
 –Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab
-{: .quote .attrib }
+</p>
 
 Look for snacks that are computer keyboard friendly – nothing too sticky, no tipsy liquids. A mix of salty and sweet is good, a mix of healthful and less-than-healthful. Throw in a few apples, I guess? Single-serving items that avoid much plastic wrapping are ideal: popcorn, pretzels, gummies, satsuma oranges. If you have a Trader Joes in your area, we recommend the Sour Scandanavian Swimmers. 
 
@@ -1184,13 +1201,12 @@ Of course, this does not work. That nervous strategy is riddled with stilted eff
 
 The space is a loose net — some structure is in fact necessary, though I was loathe to be the instigator of that structure at first. But tangents are warmly encouraged: 
 
+<p class="quote">
 Elea: "Can I go on a tangent?" 
-{: .quote }
-
 Sarah: "Always."
-{: .quote }
+</p>
 
-Keep it loose, but keep it. Strive for the loosest container possible to hold the thing together. This supports the lowest possible barrier to participation [CITEAdriaan&Karla]. 
+Keep it loose, but keep it. Strive for the loosest container possible to hold the thing together. This supports the lowest possible barrier to participation [CITE][Adriaan&Karla][XXX-add/discuss]. 
 
 When we were faced with formalizing into an organization with officers and institutionalization in order to access funding, for us in that moment it was right to turn that down. You'll have to decide what's right for your group at the time, but our members said they liked being able to stay low-stakes, without obligation. We were able to maintain this way because of individual members like myself having institutional support. In other contexts, this may change as our structure and membership continues to change. 
 
@@ -1232,7 +1248,7 @@ Your documentation may be easiest to write if you compile it as a diary of your 
 
 For examples of good documentation, I looked to models like the Processing and P5.js community that puts emphasis on access and connecting new coders with approachable information in multiple mediums. Check out the [P5.js wiki](https://github.com/processing/p5.js/wiki), which includes a guide for new contributors as well as tutorials for beginning and intermediate projects. Another great example of documentation is [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/), which walks you step-by-step through learning an entire coding language, with thoughtful explanations along the way. 
 
-[CITE] [CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america] [RUST][PureData]
+<!-- [CITE] [CreativeCodeBerlin] [OSCA] [catalyst/vvvvaria/superrr/spideralex/so.america] [RUST][PureData] -->
 
 ### Document the obvious
 
@@ -1254,20 +1270,20 @@ This worked at first because we could start instantly and informally, and everyo
 
 Kit Braybrooke landed on a similar approach when building out the COVID Creatives Toolkit:
 
-"we wanted to offer an open resource focused on free offerings with a global reach that could be maintained by creatives themselves. Starting from an open call and a tweet asking for help, the kit’s contents were compiled by 30 curators and countless unnamed contributors worldwide, who came to it from across the arts, technology, community, academia, and gig work."
-{: .quote }
-
-"It is a reflection of the mutual-aid networks built around it, and the challenges they face. In the words of the Zapatistas, it is a 'world where many worlds fit.'" 
-{: .quote }
-
+<p class="quote">
+"we wanted to offer an open resource focused on free offerings with a global reach that could be maintained by creatives themselves. Starting from an open call and a tweet asking for help, the kit's contents were compiled by 30 curators and countless unnamed contributors worldwide, who came to it from across the arts, technology, community, academia, and gig work."
+</p>
+<p class="quote attrib">
+<!-- "It is a reflection of the mutual-aid networks built around it, and the challenges they face. In the words of the Zapatistas, it is a 'world where many worlds fit.'" 
+{: .quote } -->
 –[@braybrookeTogetherWeDance2020]
-{: .quote .attrib }
+</p>
 
-Baybrooke chose to work in a shared doc because of "the difficulties of trying to engage with any kind of new or more interesting platform as the internet is increasingly enclosed" [CITEBaybrook]. While an etherpad on a self-hosted server may be preferred (we love the setup by [Varia](https://etherdump.vvvvvvaria.org/)), don't worry if a google doc is the right choice for a particular project, audience, or prototype. The important thing is to get started. 
+Baybrooke chose to work in a shared doc because of "the difficulties of trying to engage with any kind of new or more interesting platform as the internet is increasingly enclosed" [@baybrookeTogetherWeDance2020]. While an etherpad on a self-hosted server may be preferred (we love the setup by [Varia](https://etherdump.vvvvvvaria.org/)), don't worry if a google doc is the right choice for a particular project, audience, or prototype. The important thing is to get started. 
 
 Minimal choices support different purposes. They sometimes offer more access, or keep the information more legible and adaptable for friends who might want to interact with it later, or for us if we build or rebuild it one day. 
 
-#### FOOTNOTE? Minimum viable learning & minimal computing
+#### [XXX][Add or FOOTNOTE?] Minimum viable learning & minimal computing
 
 Minimal computing [cite] as an accessible and aesthetic and political value. 
 
@@ -1291,17 +1307,18 @@ Thinking and making always happen in community, and our creations reflect these 
 
 Citation is a means of [announcing/putting forward] the people you are thinking with and responding to. It is placing yourself in conversation and in community with them. As such, citation has a politics. I cite to celebrate the work of those who inspire what I do.  
 
-Citation is about much more than including references at the top of your code or the bottom of your essay, of course. We can use the whole of what we make (not only the citations) as a way to share what we've learned along the way. This may be in the work itself, or through archives, resource hubs, salons, works in progress, zines, or other documentation. Whether you're sharing about another person's practice or [XXXX], all of this counts as citation. 
+Citation is about much more than including references at the top of your code or the bottom of your essay, of course. We can use the whole of what we make (not only the citations) as a way to share what we've learned along the way. This may be in the work itself, or through archives, resource hubs, salons, works in progress, zines, or other documentation. Whether you're sharing about another person's practice or consciously curating or remixing, all of this counts as citation. 
 
 Consider who you are citing. Do you always reference the same five authors and creators, from the same part of the world? Are they all just citing each other? How might you expand your readings and reference points to include broader communities of practice? 
 
 ### Choose open-source, freely available, easily adaptable tools when possible
 
+<p class="quote">
 "It's made me more curious about not just the code in the project itself, but also the process. [...] All the technology that we built comes from a person or a bunch of people and they went on a journey to get there, and that journey is inherently very interesting."
-{: .quote }
-
+</p>
+<p class="quote attrib">
 -Katherine Yang, she/her, USC BA Media Arts + Practice, Linguistics, Computer Science
-{: .quote .attrib }
+</p>
 
 In the Resource Hub and in our projects, we emphasize open-source and open-access tools. We highlight shareable, accessible, adaptable, minimal tools that don't hide how they work. Such tools match the way we like to reflect critically on what we are creating and to understand the world around us. 
 
@@ -1312,9 +1329,9 @@ Just as you might consider which texts and tutorials you select to cite, conside
 Did you know that many teapots in Japan are made for pouring with only the right hand? I found this out when I tried to buy a side-handled kyūsu teapot for a left-handed friend. Because for decades the statewide policy had been to make left-handed people learn to be right-handed in school, there "were no" left-handed people, so why design a left-handed teapot? This unweildy metaphor shows how the values of a country, or a company, end up embedded in the tools we use, in almost invisible but ubiquitous ways. Credit: D-Kuru, wikicommons
 {: .caption }
 
-Open-source and open-access tools, in theory, allow more opportunity for us to view, understand, and potentially alter or adapt the tools to new purposes. [XXXexpand]
+Open-source and open-access tools, in theory, allow more opportunity for us to view, understand, and potentially alter or adapt the tools to new purposes. [XXX][expand]
 
-Some open-source projects end up being 'open' in name only, using the [moniker/culture/trappings] of open-source to draw [good will] while not enacting the open-source values of transparency, community, and share alike [XXXXexpand]. 
+Some open-source projects end up being 'open' in name only, using the [moniker/culture/trappings] of open-source to draw [good will] while not enacting the open-source values of transparency, community, and share alike [XXX][expand]. 
 
 When considering a tool to use, you might ask: 
 
@@ -1339,17 +1356,19 @@ When considering a tool to use, you might ask:
 
 ### Put care before code
 
+<p class="quote">
 "Care is the practice of savouring how subtle differences can make all the difference." 
-{: .quote }
-
+</p>
+<p class="quote attrib">
 –[@goldingDataLoam2020]
-{: .quote .attrib }
+</p>
+</p>
 
+<p class="quote">
 "What happens when we integrate rather than refuse the pain, toil, and doom of surviving? How do we put our interconnectedness into practice?"
-{: .quote }
-
-–[@hedvaJohannaHedvaCare]
-{: .quote .attrib }
+</p>
+<p class="quote attrib">–[@hedvaJohannaHedvaCare]
+</p>
 
 [//]: # "see Chapter 510's "care over careful" meaning care-ful with each other but not with worry about getting it "right" in a perfectionist sense. Perfectionism is white supremacy. [XXXcite]" 
 
@@ -1363,29 +1382,32 @@ Building community spaces for coding that focus on care first will allow coding 
 
 ### Look after each other
 
+<p class="quote">
 "The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
-{: .quote }
-
+</p>
+<p class="quote attrib">
 -Katherine Yang, she/her, USC BA Media Arts + Practice, Linguistics, Computer Science
-{: .quote .attrib }
+</p>
 
 How can we be together in ways that don't feel protracted and forced? 
 
 Community can sometimes feel like too easy a word, even a dirty word, for the way it gets lobbed about by not-always-well-meaning folks who might be making a lot of presumptions when they try to argue "we're all in this together." Sometimes we're not actually in this together. Sometimes we are not a "we" at all. In past experiences, you or those you know may have been put off or harmed by that kind of co-opted language, and so it makes sense to limit our trust to those who earn it. It makes sense to use terms like 'community' with a sense of caution.  
 
+<p class="quote">
 "Just because we are in the room together does not mean that we belong to the room or each other: belonging is a speciﬁc genre of affect, history, and political mediation that cannot be presumed and is, indeed, a relation whose evidence and terms are always being contested. Belonging is a proposition, a theory, a forensic fact, and a name for a kind of attachment."
-{: .quote }
-
+</p>
+<p class="quote attrib">
 –Lauren Berlant [-@berlantCommonsInfrastructuresTroubling2016]
-{: .quote .attrib }
+</p>
 
 Belonging is hard. Community is hard work. "Real relationships make it harder to waste each other's time," says adrienne maree brown. This is because we return to them again and again. Real community comes from solidarity across difference, not the simple request to assimilate. It is about mutual interrelation and inter-reliance, not extraction. In Code Collective, we learn from each other and our skills improve because of each other, but we continually realize this is not the only — or even the primary — reason we gather. We have grown excited to know each other and to care for one another as people, not as a means to an end. The joy that comes from seeing each other regularly begins to match, or even exceed, the joy we experience from coding together. 
 
+<p class="quote">
 "We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other."
-{: .quote }
-
+</p>
+<p class="quote attrib">
 -Sarah Ahmed, *Living a Feminist Life*
-{: .quote .attrib }
+</p>
 
 I admit I didn't expect things to get so personal when I launched the Code Collective call in January 2019, but I am glad. This personal aspect is what makes Code Collective a joyful space for creative risk-taking that nourishes my own practice. 
 
@@ -1394,10 +1416,10 @@ Now that we have met up for several years now, we have come to trust each other 
 Look after each other, ask after one another. 
 
 "I love the people in CCC more than anything else. While I am sure other creative coders can be cool people too, this group of people inspires and motivates me to put in the time necessary to make my best work."
-{: .quote }
-
+</p>
+<p class="quote attrib">
 –Ada Toydemir, they/them, USC Computer Science
-{: .quote .attrib }
+</p>
 
 [XXXRENAME]
 ### Stick with the essentials
@@ -1430,6 +1452,10 @@ This pocket guide has argued for technology communities that support pluralism, 
 <p class="quote attrib">
 –adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
 </p>
+
+<hr/>
+<hr/>
+<hr/>
 
 <p class="quote">
 "I decided to pursue my MA program because CCC opened me to the aesthetic and humanistic possibilities inherent in code that had nothing to do with instrumental goals that the usual CS student would attend to at their post-graduation gig. Now I’ve been working at the intersection of JavaScript and neuroscience for the last six years — sometimes as an independent developer, more recently as part of a larger institutional effort — and haven't once questioned the validity of this approach because the people at CCC would be proud to see it. So you could say CCC gave me the courage to pursue this alternative career path — and it's all pretty much worked out."
