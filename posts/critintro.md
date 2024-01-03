@@ -87,119 +87,69 @@ While the need for AI oversight is clear, many like Joy Buolamwini have been cal
 ## Critical, Intersectional Approaches Mean Creative, Caring Approaches
 <!-- ## We Need Creative–Critical–Caring Approaches  -->
 
-**How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions?**
+*How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions?*
 
-As code makes contact with the world with increasing complexity, code literacy becomes increasingly essential. Yet if we want to imagine different systems, code literacies should not be defined only on the narrow terms of those creating existing systems [@veeCodingLiteracyHow2017]. We know that bootcamps and hiring initiatives, though useful, do not support the goal of shifting a variety of voices into positions where can effectively make change [@abbateCodingNotEmpowerment2021, @hicksSexismFeatureNot2021, @dunbar-hesterHackingDiversityPolitics2019, @veeCodingLiteracyHow2017]. They do not acknowledge the many people already participating in the production of technologies in the global majority, from those harvesting of rare earth minerals and circuit board manufacturers [@ainowinstituteLaborThatMakes, @nakamuraIndigenousCircuitsNavajo2014] to the content moderators [@robertsCommercialContentModeration2016] to the crowd workers (Sunder 2022). [Joining an 'elite' tech field is a moving target, entangled with race, gender, and globalization politics.] As a term, 'TechnoCraft' looks more invitingly at how many more people are potentially already engaged with technology practices and implicated by them, as user-practitioners, data subjects and subjectees, skilled crafters and critics.
+Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those pushed to the margins, who are most capable of addressing the urgent issues facing technology. These concerns are not new, nor strictly digital. They have been addressed by a wide range of communities with different types of knowledge for centuries. Many are calling urgently for Indigenous [@CAREPrinciplesIndigenousa; @INDIGENOUSAI; @NewVisionArtificial; @escofferyAncestralIntelligenceAI2023], antiracist [@AntiRacistHCINotes], antiableist [@hamraieCripTechnoscienceManifesto2019a], decolonialist [@chakravarttyVirtualRoundtableDecolonial2018; @ravalAgendaDecolonizingData2019; @rightsDecolonisingAITransfeminist2020a], neurodiverse [@goodmanSecretLifeAlgorithms], queer [@keelingQueerOS2014; @klipphahn-kargeQueereKIComingout], intersectional [@cistonIntersectionalAIEssential2019; @klumbyteCriticalToolsMachine2022a], and other knowledge systems to be applied to AI and emergent technologies. Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations. 
 
+As code makes contact with the world with increasing complexity, code literacy becomes increasingly essential. Yet if we want to imagine different systems, code literacies should not be defined only on the narrow terms of those creating existing systems [@veeCodingLiteracyHow2017]. We know that bootcamps and hiring initiatives, though useful, do not support the goal of shifting a variety of voices into positions where can effectively make change [@abbateCodingNotEmpowerment2021, @hicksSexismFeatureNot2021, @dunbar-hesterHackingDiversityPolitics2019, @veeCodingLiteracyHow2017]. They do not acknowledge the many people already participating in the production of technologies in the global majority, from those harvesting of rare earth minerals and circuit board manufacturers [@ainowinstituteLaborThatMakes, @nakamuraIndigenousCircuitsNavajo2014] to the content moderators [@robertsCommercialContentModeration2016] to the crowd workers (Sunder 2022). [Joining an 'elite' tech field is a moving target, entangled with race, gender, and globalization politics.] Communications scholar Christina Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors. She argues this calls for "a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" [@dunbar-hesterHackingDiversityPolitics2019]. As a term, 'TechnoCraft' looks more invitingly at how many more people are potentially already engaged with sociotechnical practices and implicated by them, as user-practitioners, data subjects and subjectees, skilled crafters and critics.
 
-
-
-
->"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014]
-
-<!-- >"I would like to employ the word cybercrud to mean, in general, putting things over on people using computers. Cybercrud is one of the most important specialties, if not the economic backbone, of the computer field. The promotion of false or clumsy approaches to a problem as " scientific," the frequent claim that " the computer has to have it that way" - when a certain thing could be programmed very differently - are cybercrud." [nelson ] -->
-
-<!-- >We are a far cry from Ted Nelson's 1974 lament, "You can and must understand computers now." [@nelsonComputerLibDream1974] -->
-
->gigantic enterprises that "know the short-range utility of computer systems but have no idea of their ultimate social cost." [@weizenbaumImpactComputerSociety1972]
-
-
-
->"there’s nothing new about the mechanization of interpretation as such, but only about the extent, speed and stealth of its advances over the past 10 years or so. [...] ~~today’s interpretation machines follow closely the pattern of older industrial machines [...]~~ Strictly speaking, they don’t duplicate skills. Instead, they identify, isolate, and activate facsimiles of particular fragments of human action, amplifying and reproducing them repetitively at high speeds in order to produce uniform outputs in bulk" [@lohmannInterpretationMachinesContradictions2020]
-
-
-
->"AI systems, in taking a traditionally gendered approach to knowledge which reflects the style of mainstream epistemology, incorporate a view of the world which tacitly reflects a norm of masculinity, both in terms of the knower and the known. This leaves out other types of knowing subject and knowledge, particularly that which relates to women's ways of knowing." [@adamArtificialKnowingGender1998]
-
-[XXX]
-
-<!-- ### Why TechnoCraft Now -->
-
-<!-- [XXX need more concrete here about tech harms and/or explaining tech specifics?][xxx include Why "coding" and "artificial intelligence" and "machine learning" technologies? The specifics of which tech why?] -->
-
-
-
-
-Marino, code is collaborative:
->"Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally." [@marinoCriticalCodeStudies2020a]
-
-
-
-Caring, creative, and critical approaches must be combined in order to adapt the spaces where technologies are discussed, designed, and implemented. Those spaces are missing the essential perspective of those most at the margins, who are most capable of addressing the urgent issues facing technology. These concerns are not new, nor strictly digital. They have been addressed by a wide range of communities with different types of knowledge for centuries. Many are calling urgently for Indigenous [@CAREPrinciplesIndigenousa; @INDIGENOUSAI; @NewVisionArtificial; @escofferyAncestralIntelligenceAI2023], antiracist [], antiableist [], decolonialist [], neurodiverse [], queer [], intersectional [], and other knowledge systems to be applied to AI and emergent technologies. Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations [cite][Vee, Abbate, Hicks]. 
-
-How do we reunite? 
-
-We need access. We need our contributions to be valued, for the effort toward understanding to be mutual because all participants know we all have important contributions to make. 
-
-Access includes many aspects. It requires connecting an individual's current understanding and circumstances to the [item in question]. It considers like material, financial, intellectual, social resources that allow entry points. 
-
-I may be capable of understanding how a machine learning system works, but not have the prerequisite vocabulary to enter a conversation in order to learn about it. 
-
-I may understand how to operate a machine learning system, but not have the financial resources needed to run a resource-intensive devices in order to use one.
-
-I may have knowledge and resources to share, but not be able to participate because barrier-free access, transcription, gender-inclusive language, or other inclusive aspects were not prioritized by the organizers. 
-
-
-
->"any theory that cannot be shared in everyday conversation cannot be used to educate the public." 
->>–bell hooks [-@hooksTeachingTransgressEducation1994]
-
-These works are written as jargon-free as possible to allow them to travel as broadly as possible. While [XXX]
-
-
-
-
-<!-- ### Creative-critical-code: holistic approaches -->
-
-Care means critical.
-
-All writing is a hybrid practice of creation (poetics), critique (politics), and code (platforms and programmatic systems). All code is writing and all writing is code. 
-
->"any theory that cannot be shared in everyday conversation cannot be used to educate the public." [@hooksTeachingTransgressEducation1994]
+This requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start [@AlwaysalreadyprogrammingMda; @artistBlackGooeyUniverse; @nardiSmallMatterProgramming1993]. It requires un-siloing domains and disciplines, the artificial boundaries that divide technologists from activists and critics from creators. It requires we find common language and common [value/appreciation/respect] that comes with working knowledge of the whole system. *The technical how-to means (coding skills) and the critical/analytical how-to means (analytical, political, aesthetic, ethical contexts) and the material how-to means (data, energy, hardware) have to combine and are inseparable.*
 
 >"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression.
 >>–bell hooks [-@hooksTeachingTransgressEducation1994]
 
->"Theory is not inherently healing, liberatory, or revolutionary. lt fulfills this function only when we ask that it do so and direct our theorizing towards this end." >>–bell hooks [-@hooksTeachingTransgressEducation1994]
+All making, all writing, all coding is a hybrid practice of creation (poetics), critique (politics), and code (platforms and programmatic systems). 
+
+<!-- All code is writing and all writing is code.  -->
+
+How do we reunite these? We need access. We need everyone's contributions to be valued, for the effort toward understanding to be mutual because all participants know that we each have important contributions to make. Access includes many aspects. It requires connecting an individual's current understanding and circumstances to the new knowledge step by step. It considers material, financial, intellectual, social resources that allow for a variety of entry points. I may be capable of understanding how a machine learning system works, but not have the prerequisite vocabulary to enter a conversation in order to learn about it. I may understand how to operate a machine learning system, but not have the financial resources needed to run a resource-intensive devices in order to use one. I may have knowledge and resources to share, but not be able to participate because barrier-free access, transcription, gender-inclusive language, or other inclusive aspects were not prioritized by the organizers. 
+
+>"any theory that cannot be shared in everyday conversation cannot be used to educate the public." [@hooksTeachingTransgressEducation1994]
+
+Prioritizing access here means prioritizing common language. These works are written as jargon-free as possible to allow them to travel as broadly as possible. They also range in audience and format, experimenting with form in order to [xxx] 
 
 
-It requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start. [XXXexplain] [^hoff] [^nardi] [^americanartist] It requires un-siloing of domains and disciplines, the artificial boundaries that divide technologists from activists. 
 
-It requires we find common language, common value/appreciation/respect that comes with working knowledge of the whole working system. 
 
-**The technical means how (coding skills) and the critical/analytical means how (analytical, political, aesthetic, ethical contexts) and the material means how (data, energy, hardware) have to combine / are inseparable.**
+
+We know code means more, if we let it. Code is collaborative, says Mark C. Marino, who helped develop the practice of Critical Code Studies. Code can be an inviting, interpretive practice: "Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally" [@marinoCriticalCodeStudies2020a]. Such approaches invite hybrid [XXX] With this approach, 
+
+
+
+>"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
+
+
+Care means critical. Creativity and caring are not antonyms to critical theory or technical savvy; they are complements and strengtheners. 
+
+
+
+
 
 <!-- ### Approachable, accessible // Care means access [xxxexistsbelow?] -->
 
 >carceral "system-impacted people"
+and people impacted by carceral and social systems
 
-<!-- ### Research tensions -->
-
-To sit a bit longer with questions I know I cannot answer, questions that make me uneasy. To hold two contradictory ideas simultaneously and let their magnetic energy push-pull me. To forgive myself the imperative outcomes, the productivity, the proven hypothesis, the subject of research. To put myself into the trouble too, because I already embody these questions in lived experience.
-
->"Only after having reached a certain spot can it feign to have found the way there." (ingold on wandering)
-
-<!-- ### Artistic experimentation -->
+#### Artistic experimentation & research tensions
 
 >"Bots can make arguments. [...] bots exist to shine a light on how things already work, but also to test the edge cases, and to propose alternatives. [...] bots are procedures against procedures." -Allison Parrish, "Procedure vs Procedure"
 
-The case for combining creative and critical practices is already strong, and has been made elsewhere by many [XXXexpand][cite]. I am interested in how this work shows up as experimentation and particularly in how artistic experiments can challenge paradigms in machine learning, data science, and technology more broadly. 
-
-I have found artistic research practices can interrogate systems and imagine new ones. For me, it combines rigorous scholarly investigation, deep community building and activism, and creative play in ways that can connect to broader non-academic audiences. 
-
-Art has been the space where I'm able to unpack complex ideas for myself, because I can treat them more freely as artistic materials. It’s where I’m able to follow instinct and feel into how my tools, platforms, and forms shape their outputs and outcomes. 
-
-It’s also the space where I feel able to imagine wildly, creating digital objects that should exist but don’t, or couldn’t exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
- 
-This is a practice of artistic research, research-creation, and/or arts-based research (different lineages and regions call it by different names) [@lovelessHowMakeArt2019]. 
-
-"Specifically the "valences" of research-creation [Chapman & Sawchuk] that are not "creative presentation of research" (reporting on research in creative ways), or "research for creation" that supports a stand-alone artwork, or "research from creation" (reporting about artworks after the fact), but rather "creation-as-research" [and I'd add research-as-creation], which Loveless says 
-
-
-Neither research that produces art, nor a scholarly presentation of art, nor a creative presentation of research, this hybrid practice of research-creation is what [XXX-ID] Natalie Loveless calls a 'chimera': 
+These works emerge from my artistic research (also called research-creation or arts-based research in different lineages and regions). Neither research that produces art, nor a scholarly presentation of art, nor a creative presentation of research, this hybrid practice of artistic research ("creation-as-research" and reearch-as-creation) is what [XXX-ID] Natalie Loveless calls a 'chimera': 
 
 >"By bringing research and creation together in such a way that they unpredictably contaminate and remake each other, in such a way that they render each other uncanny, research-creation makes space in the university for research practices that are grounded in nonhegemonic literacies [...]" "in failing to fully belong, and allowing that nonbelonging to denaturalize, emergently, its givens, research-creation tells other stories, uncanny stories, that (have the potential to) carry within them [...] other ethics" [@lovelessHowMakeArt2019].
-<!-- >"arts-based research is profoundly creative; it acknowledges the power of the imagination, tacit knowledge and embodied knowing. [...]  -->
+
+The case for combining creative and critical practices is already strong, and has been made elsewhere by many [XXXexpand][cite]. 
+
+In my artistic research, I am particularly interested in process-oriented experimentation and in how artistic experiments can challenge paradigms in machine learning, data science, and technology communities. 
+
+I have found artistic research practices can interrogate systems and imagine new ones. For me, artistic research combines rigorous scholarly investigation, deep community building and activism, and creative play in ways that facilitate connections to broader non-academic audiences. 
+
+Art has been the space where I am able to unpack complex ideas for myself, because I can treat them more freely as artistic materials. It is where I am able to follow instinct and feel into how my tools, platforms, and forms shape their outputs and outcomes. 
+
+It is also the space where I feel able to imagine wildly, creating digital objects that should exist but don't, or couldn't exist but might. In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine.
+
+
+
 >"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016] 
 >In this context, "arts-based research is rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change [...]" [@willisFastForwardFuture2016].
 
@@ -208,25 +158,12 @@ Neither research that produces art, nor a scholarly presentation of art, nor a c
 
 
 
+**Research tensions:** To sit a bit longer with questions I know I cannot answer, questions that make me uneasy. To hold two contradictory ideas simultaneously and let their magnetic energy push-pull me. To forgive myself the imperative outcomes, the productivity, the proven hypothesis, the subject of research. To put myself into the trouble too, because I already embody these questions in lived experience.
 
-<!-- >"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
->"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 45 [@starkWorkArtAge2019] -->
+>"Only after having reached a certain spot can it feign to have found the way there." (ingold on wandering)
 
->"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
 
 <!-- ### [XXX] Who am I? What is this? -->
-
-<!-- ### These approaches are entangled -->
-
-Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors out of balance. She argues this calls for "a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" [@dunbar-hesterHackingDiversityPolitics2019]. 
->"Voluntaristic technology communities are important sites because they are utopian spaces where people play and tinker not only with technical artifacts but with social reality, imagining social relations through participation"
-
-DH: not about diversity in tech directly, aim at broader social goals of [e.g. decolonization, ecological sustainability, distribution of wealth] which would necessitate changes in tech sector. 
-requires seeing hacking as being about "reframing hacking itself as *primarily about social relations*
-
->"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley "Dataveillance and Countervailance" in [@gitelmanRawDataOxymoron2013])
-
-
 
 ===
 
@@ -976,3 +913,45 @@ TERM: *Deep Interdisciplinarity* is able to view these fundamental states as hyb
 >"As with chess, knitting starts with the same point of departure, and all games and knits start with the same set-up. But turing the process, even within the limits of rigit protocols, the moves diverge very rapidly [...]. new tactics in chess constantly evolve and every new master beats the previous, not because of superior intelligence, but through the development of new techniques and tactics, actualized within these vast possibilities. Innovation in chess does not happen through conservation, but through constant confrontation and risk-taking." [@vonbuschZenAbstractMachine2013] -->
 
 <!-- >"We can easily forget that the classifications that are casually chosen to shape a technical system can play a dynamic role in shaping the social and material world. [@crawfordAtlasAIPower2021] -->
+
+
+
+<!-- >"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014] -->
+
+<!-- >"I would like to employ the word cybercrud to mean, in general, putting things over on people using computers. Cybercrud is one of the most important specialties, if not the economic backbone, of the computer field. The promotion of false or clumsy approaches to a problem as " scientific," the frequent claim that " the computer has to have it that way" - when a certain thing could be programmed very differently - are cybercrud." [nelson ] -->
+
+<!-- >We are a far cry from Ted Nelson's 1974 lament, "You can and must understand computers now." [@nelsonComputerLibDream1974] -->
+
+<!-- >gigantic enterprises "know the short-range utility of computer systems but have no idea of their ultimate social cost." [@weizenbaumImpactComputerSociety1972] -->
+
+
+
+<!-- >"there’s nothing new about the mechanization of interpretation as such, but only about the extent, speed and stealth of its advances over the past 10 years or so. [...] ~~today’s interpretation machines follow closely the pattern of older industrial machines [...]~~ Strictly speaking, they don’t duplicate skills. Instead, they identify, isolate, and activate facsimiles of particular fragments of human action, amplifying and reproducing them repetitively at high speeds in order to produce uniform outputs in bulk" [@lohmannInterpretationMachinesContradictions2020] -->
+
+
+
+<!-- >"AI systems, in taking a traditionally gendered approach to knowledge which reflects the style of mainstream epistemology, incorporate a view of the world which tacitly reflects a norm of masculinity, both in terms of the knower and the known. This leaves out other types of knowing subject and knowledge, particularly that which relates to women's ways of knowing." [@adamArtificialKnowingGender1998] -->
+
+[XXX]
+
+<!-- ### Why TechnoCraft Now -->
+
+<!--[xxx include Why "coding" and "artificial intelligence" and "machine learning" technologies? The specifics of which tech why?] -->
+
+
+<!-- >"Voluntaristic technology communities are important sites because they are utopian spaces where people play and tinker not only with technical artifacts but with social reality, imagining social relations through participation" -->
+
+<!-- DH: not about diversity in tech directly, aim at broader social goals of [e.g. decolonization, ecological sustainability, distribution of wealth] which would necessitate changes in tech sector. 
+requires seeing hacking as being about "reframing hacking itself as *primarily about social relations* -->
+
+<!-- >"the lesson I think we need to learn from tactical media practitioners more broadly is that critique and critical reflection are at their most powerful when they do not adopt a spectatorial position on the (putatively neutral) outside, when they do not merely sketch a surface, but rather penetrate the core of the system itself, intensifying identification so as to produce structural change." (Raley "Dataveillance and Countervailance" in [@gitelmanRawDataOxymoron2013]) -->
+
+<!-- >"Theory is not inherently healing, liberatory, or revolutionary. lt fulfills this function only when we ask that it do so and direct our theorizing towards this end." >>–bell hooks [-@hooksTeachingTransgressEducation1994] -->
+
+
+<!-- >"The experience of artists reinforces a point we have each separately argued elsewhere: that abstract ethics conversations are a necessary but not sufficient condition for progressive politics around digital technologies and that everyday digital practice is the terrain around which broader ethical and political ends must be staked out." (Stark & Crawford 2019, 452)
+>"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 45 [@starkWorkArtAge2019] -->
+
+<!-- ### [XXX] Who am I? What is this? -->
+
+<!-- ### These approaches are entangled -->
