@@ -25,29 +25,6 @@
         <nav class="nav">
           <div class="nav-list">
 
-             <!-- adding links from link list here instead of footer -->
-
-             {% if site.links %}
-             <!-- <ul class="nav-list"> -->
-               {% for link in site.links %}
-                 <!-- <li class="list-item"> -->
-                 <div class="outside-link">
-                   <!-- <small> -->
-                   <a href="{{ link.last }}" class="site-button"
-                     {% if site.links_new_tab %}
-                     target="_blank" rel="noopener noreferrer"
-                     {% endif %}
-                   >
-                     {{ link.first }}
-                   </a>
-                 <!-- </small> -->
-                 </div>
-                 <!-- </li> -->
-               {% endfor %}
-             <!-- </ul> -->
-           {% endif %}
- 
-           <!-- end add -->
 
             <!-- adding links from link list here instead of footer -->
 
@@ -75,17 +52,12 @@
 
 
 
-            {% assign pgs = site.pages | sort: "nav_order" | where: "nav_order", ">", "0" %}
-              <!-- {% assign filtered_pg = pgs | where: "nav_order", "<", 11 %} -->
+            {% assign ordered = site.pages | sort: "nav_order" %}
 
+            {% assign pgs = ordered | where: "nav_order", "<", "10" %}
+
+            {% for pg in pgs %}
               <div class="breadcrumb-nav-list-item"><a href="{{ pg.url | absolute_url }}">{{ pg.title }}</a></div>
-              <!-- {% endfor %}
-
-              {% assign filtered_pg = pgs | where: "nav_order", ">", 10 %}
-
-              <div class="breadcrumb-nav-list-item"><a href="{{ filtered_pg.url | absolute_url }}">{{ filtered_pg.title }}</a></div>
-              {% endfor %} -->
-
             {% endfor %}
 
           </div>
