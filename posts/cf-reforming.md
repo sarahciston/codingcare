@@ -1,9 +1,9 @@
 ---
 # layout: post
-title: codes for (re)forming
+title: codes for (un)forming
 permalink: unforming
 nav_order: 10
-date: 23.12.2023
+date: 01.01.2024
 ---
 
 # Codes for (Un)(Re)Forming

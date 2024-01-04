@@ -3,7 +3,7 @@
 title: codes for (un)knowing
 permalink: unknowing
 nav_order: 11
-date: 23.12.2023
+date: 01.01.2024
 ---
 
 <!-- platforms, essaying, code obscura. saving protecting hiding helping hearing healing -->
