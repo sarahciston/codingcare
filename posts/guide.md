@@ -1525,7 +1525,9 @@ We "Enjoy code together"
 
 ## [RESOURCE HUB](https://creativecodecollective.com/resource-hub)
 
-## Cod(e)a: Let others help you grow 
+## COD(E)A 
+
+### Let others help you grow 
 
 Pssst... Want more? Check out the miscellaney in [Appendices, addenda, etc](appendices), where I've shoved all the things that wouldn't fit in this "pocket" guide — including some of the books I relied on most while writing, essentials like our community agreement, plus some of the bits and pieces that got us started from lesson plans to the first proposal for Code Collective. For lots more tutorials, readings, and inspiration, you can also head over to the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub) which continues to grow as you add what you've found helpful. And for astounding work by Code Collective members, we made a [Project Showcase](https://creativecodecollective.com/showcase), because we hope it sparks some inspiration for you too.
 

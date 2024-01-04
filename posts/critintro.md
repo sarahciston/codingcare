@@ -8,8 +8,9 @@ tags: [introduction, theory, practice, hybrid, academic]
 ---
 
 # Trans*formative TechnoCraft
+{:.no_toc}
 
-1. TOC
+* TOC
 {:toc}
 
 ## Critical AI & Creative–Critical Coding Need Each Other
@@ -46,7 +47,7 @@ Yet, how do we participate on our own terms, in order to change systems to suit 
 –Frieder Nake, "There Should Be No Computer Art," 1971 [-@nakeThereShouldBe1971]
 </p>
 
-Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro[-@amaroBlackTechnicalObject2022]. Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
+Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro [-@amaroBlackTechnicalObject2022]. Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
 
 Automated decision-making systems disproportionately harm the marginalized majority. We are subject to these systems whenever we lend our data by clicking terms of service pop-ups to make them go away; and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our varying degrees of vulnerability in these moments are exploited and profited on — from testing biometric facial technologies in refugee camps [@neddenBiometrieGetestetMillionen2017] to reinforcement learning reliant on chatbot user responses and content moderation. Much amazing research has highlighted the increasing impacts of AI systems and surveillance capitalism [@benderDangersStochasticParrots2021; @benjaminRaceTechnologyAbolitionist2019; @buolamwiniGenderShadesIntersectional2018; @browneDarkMattersSurveillance2015; @gebruDrTimnitGebru2021; @nobleAlgorithmsOppressionHow2018]. 
 
@@ -56,7 +57,9 @@ This requires interdisciplinary and intersectional perspectives. It also require
 
 Intersectionality, Kimberlé Crenshaw's iconic analysis of institutional power [@crenshawDemarginalizingIntersectionRace1989], "critiques systems of power and how those systems structure themselves to impact groups and individuals unequally" [@cooperIntersectionality2016]. Intersectionality can reveal the tangible human and more-than-human costs entangled in these algorithmic systems – their proliferating data and its material infrastructures, as well as their consolidating power and its sociocultural infrastructures. Such power is differential by design. Conversations about AI fairness, transparency, explainability, ethics, public good, and the hype cycles of new technologies are grossly incomplete without intersectional analyses of power and intersectional tactics of (and beyond) equity and inclusion. No change *about* us *without* us.
 
-Yet industry implementations of so-called ethical tech reduce complex concepts into flattened ideas of fairness and representation [@ovalleFactoringMatrixDomination2023a]. Machine learning, as a mass production, produces certainty from uncertainty. More precisely, argues political geographer Louise Amoore, it produces a false sense of certainty from millions or billions of small uncertainties, through its reductionist logics of probability as prediction [@amooreCloudEthicsAlgorithms2020]. These uncertainties are also claims about "what we should know, how we should know what we know, and how that knowledge should be deployed. Each exposure to a dataset occurs because someone concluded that the information in that dataset should be used to determine a possible future" [@hakopianInstituteOtherIntelligences2022]. Since an algorithm is at its most simple a set of instructions, of course it will contain the assumptions of those who wrote those instructions. It will follow their beliefs about how to implement that procedure. There are many ways to do any task, informed by minute choices at every step. As these choices scale exponentially with computation, the impact of these choices magnifies exponentially too. They are compounded by the computational speeds that allow thousands of operations to run per second. Yet, because they are processed through algorithmic systems (and a mythology of the black box), these choices get normalized, naturalized, and neutralized. 
+Yet industry implementations of so-called ethical tech reduce complex concepts into flattened ideas of fairness and representation [@ovalleFactoringMatrixDomination2023a]. Machine learning, as a mass production, produces certainty from uncertainty. More precisely, argues political geographer Louise Amoore, it produces a false sense of certainty from millions or billions of small uncertainties, through its reductionist logics of probability as prediction [@amooreCloudEthicsAlgorithms2020]. These uncertainties are also claims about "what we should know, how we should know what we know, and how that knowledge should be deployed. Each exposure to a dataset occurs because someone concluded that the information in that dataset should be used to determine a possible future" [@hakopianInstituteOtherIntelligences2022]. Since an algorithm is at its most simple a set of instructions, of course it will contain the assumptions of those who wrote those instructions. It will follow their beliefs about how to implement that procedure. There are many ways to do any task, informed by minute choices at every step. As these choices scale exponentially with computation, the impact of these choices magnifies exponentially too.[^foundation] They are compounded by the computational speeds that allow thousands of operations to run per second. Yet, because they are processed through algorithmic systems (and a mythology of the black box), these choices get normalized, naturalized, and neutralized. 
+
+[^foundation]: Because generative AI models have become so large, and training processes so slow and expensive, they frequently rely on foundation models — previous models, often designed for other tasks, used as the building block or sourdough starter for new models. Foundation models carry with them the histories of how their datasets were designed and for what purpose, whose data was included or excluded, and the choices their creators made when preprocessing them. These are often decades-old "benchmarks" leaving debunked or erroneous information in cutting-edge models' outputs.
 
 Yes, in many cases it would be nice to have more, better data. But the very valid criticism that algorithmic systems are biased because their data are biased — often summed up "garbage in, garbage out" — sets up a quest already doomed to fail. What would be better data? Or an optimized system? For what goal, and for whom exactly? There is no such thing as unbiased, there is only the right tool for the particular job, or a given slice of information from a particular perspective with just enough context for the purposes of a specific task. There is only "good enough" data — and only sometimes, for some tasks. When the stakes are too high, no data could be good enough to make life or death decisions. We need a different approach. We cannot rely on computational systems for infallibility and rationality, as we have been, nor can we look to these technologies uncritically as bandaids for the problems they exacerbate.
 
@@ -479,7 +482,7 @@ These forms of refusal replace what they reject with alterative visions for more
 Each section of Trans\*formative TechnoCraft puts its thinking into action — tackling related aspects in different forms and for different audiences. The parts combine to enact the ethics and tactics described in this introduction. Together these public-facing resources provide plainspoken translations of technical, critical, aesthetic, and ethical concepts relevant to technology. They are written in approachable, non-academic formats like zines, and produced in contexts like workshops, in order to support discussions across communities of practice — including code creators, AI researchers, and marginalized outsiders — toward understanding the urgency of the issues facing automated technologies and the necessity of each other's skill sets in facing these issue. 
 
 ### CRAFT: *Coding.Care: Field Notes for Making Friends with Code*
-{: .no_toc }
+<!-- {: .no_toc } -->
 
 *Coding.Care* is a pocket guide to sustaining friendly coding communities — why we need them, how to build them, how to let them thrive. It focuses on lessons I learned from Code Collective, the diverse hack lab that I started in 2019 when I yearned for the adaptable, encouraging environment I had needed when I was first struggling to learn to program. In gratitude to teachers like Brett Stalbaum, at UC San Diego's Computing in the Arts program, who had showed me code could feel creative instead of prescriptive, I wanted to make a space where I wouldn't feel like an outsider for 'not knowing everything' about programming, and I suspected others might feel the same.I wondered how to recreate that experience. 
 
@@ -494,7 +497,7 @@ In her book, *Coding Literacy*, Annette Vee argues that, "Changing 'how the syst
 OBJECTIVES: Through *Coding.Care*, understand how to approach programming with less fear and more fun, with less constraint and more community support. Think creatively and critically about the kinds of technologies you want to make and support. Learn to choose and use tools, languages, and platforms that match your goals and ethics. Create or join communities of practice that feel supportive and generative.
 
 ### FORMATIVE: *A Critical Field Guide for Working with Machine Learning Datasets* and *Inclusive Datasets Research Guide*
-{: .no_toc }
+<!-- {: .no_toc } -->
 
 Datasets provide the foundation for all of the large-scale machine learning systems we encounter today, and they are increasingly part of many other research fields and daily life. Many technical guides exist for learning to work with datasets, and much scholarship has emerged to study datasets critically [@corryCriticalDatasetStudies; @gillespieCriticalAlgorithmStudies2015]. Yet no guides attempt to combine technical and critical approaches comprehensively. Every dataset is partial, imperfect, and historically and socially contingent — yet the abundance of [problematic datasets and models] shows how little attention is given to these critical concerns in typical use. 
 
@@ -509,7 +512,7 @@ Both the Critical Field Guide and the Inclusive Datasets Research Guide reflect 
 OBJECTIVES: Through the *Critical Field Guide for Working with Machine Learning Datasets* and the *Inclusive Datasets Research Guide*, understand the importance of working critically with datasets as part of any machine learning practice. Identify the parts, types, and functions of datasets as you encounter them. Determine whether a particular dataset is a good fit for your project by asking understanding critical questions to ask at each phase of the dataset lifecycle. [Work with the communities impacted by your research to create strategies for addressing potential harms in the datasets you utilize.] 
 
 ### \*: *Interstitial Portals*, NO: *Tactical Refusals*, \*: *Reverse Portals*
-{: .no_toc }
+<!-- {: .no_toc } -->
 
 * (Un)Limiting: ?? // Rebecca Horn
 * (Un)Raveling: No Knots // (Sonya Rapoport?)
@@ -541,7 +544,7 @@ The essay form is a kind of embodied processing that moves the [corpus through t
 
 
 ### TECH: *The Intersectional AI Toolkit*
-{: .no_toc }
+<!-- {: .no_toc } -->
 
 The *Intersectional AI Toolkit* argues that anyone should be able to understand AI and help shape its futures. Through collaborative sine-making workshops, it aims to find common vocabularies to connect diverse communities around AI's urgent questions. It clarifies, without math or jargon, the inner workings of AI systems and the ways in which they operate always as sociotechnical systems. The Toolkit celebrates intersectional work done by many other researchers and artists working to address these issues in interdisciplinary fields; and it gathers and synthesizes legacies of anti-racist, queer, transfeminist, neurodiverse, anti-ableist theories, ethics, and tactics that can contribute valuable perspective. Its three formats allow for multiple entry points: The digital wiki offers a forum for others to discuss and expand upon its topics. The collection of printed zines share AI topics at a concise, approachable scale. And the in-person and hybrid-online workshops invite multiple communities to participate directly in the systems that impact them.
 
@@ -553,67 +556,31 @@ OBJECTIVES: Through the Intersectional AI Toolkit, the need for plural perspecti
 
 <!--  Mattern: [@matternUnboxingToolkit2021] [Anthropologist Shannon Mattern details the many complex [lives] of 'kits', which can act as stop gaps for necessary infrastructure (bug out bags, refugee kits) or as "tools of engagement, as methods of inclusion, for broader communities" (rape kits)] --> 
 
-### TRANS: CONCLUSION/WHAT'S NEXT 
-<!-- {: .no_toc } -->
+### TRANS: Conclusion & After
 
-What [these/this XXX] calls for is 
+### Splines, Similarity, and Nearness Vectors
 
-What it calls for in the future...
-
-
-- "A Critical Field Guide for Working with Generative AI Models and Systems"
-    as a follow up to "A Critical Field Guide for Working with Machine Learning Datasets"
-- [unsupervised pleasures][conscientious data for queer/diverse/intersectional futures]
-- [future feminist machine musueum]
-
-
-Because generative AI models have become so large, and training processes so slow and expensive, they frequently rely on foundation models — previous models, often designed for other tasks, used as the building block or sourdough starter for new models. Foundation models 
-
-**To move from foundation models, which have been built on narrow data and stereotyped classificatory logics, to transformative models which might unravel them...**
-
->"Part of the construction of dominator privilege is you don't have to think about what are those other people thinking, feeling, hoping, dreaming. I think part of transformation is when you open yourself to wanting to know what those people who are not like you are doing, thinking, being." [@hooksbellWhyFamedFeminist2018] 
-
-
-
-
-#### not classifying, a radical queer computing not based on classification but woven from the unknowing of genderless expression, of story
->>"his knowledge is not classificatory but storied, not totalising and synoptic but open-ended and exploratory." (Ingold 2015, 48)
->"Less a surveyor than a narrator, his aim is not – as Kant would have it – to ‘classify and arrange’, or ‘to place every experience in its class’, 8 but rather to situate each impression in relation to the occurrences that paved the way for it, presently concur with it, and follow along after. In this sense his knowledge is not classiﬁcatory but storied, not totalising and synoptic but open-ended and exploratory."
-Code relationally not classifying
-
-Soap bubble computers, mushroom computers, non-binary voltage readings. What are the nonclassificatory logics that might run other forms of calculation?  [Bridle's call here & how this meets it]
-
->>Artist Stephanie Dinkins notes, "Widely deployed AI can support bottom-up decision making and provide the public means to directly inform the systems that govern us while also empowering the governed." She asks, "Who is working to use it as such?" Dinkins, Stephanie. "Towards an Equitable Ecosystem of Artificial Intelligence." Software for Artists Book: Building Better Realities, edited by Willa Köerner and Tommy Martinez, Pioneer Works Press in collaboration with The Creative Independent and Are.na, 2020, 49–57.
-
->If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell)
-    >> ^[6]: 
-
-### [Nearness, Similarity, Interstitial Vectors and Correspondences] 
-{: .no_toc }
-
-And all this comes back to nearness and distance, and more specifically how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values could rule instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? What of activation functions that activate these other intuitions outside of X and Y axes, that tamper with expectations?
-
-The \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. [Here's a brief interstitial...] In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) (short for 'linear interpolation' and much more fun to say) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`](https://www.youtube.com/watch?v=jvPPXbo87ds&ab)[^splines] or smoothing. These methods of interpolation are methods of creating or locating nearness and of smoothing the rough journey between. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate value at a position based on values from nearby positions. 
+The \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) (short for 'linear interpolation' and much more fun to say) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`](https://www.youtube.com/watch?v=jvPPXbo87ds&ab)[^splines] or smoothing. These methods of interpolation are methods of creating or locating nearness and of smoothing the rough journey between. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate value at a position based on values from nearby positions. 
 
 But I always mix up the terms `interpolate` and `interpellate`. To `interpellate` is to interrupt or intercede (again like interstitial) or to summon, cite, call out. Shall I interpolate the distance between `interpolate` and `interpellate`? Political philosopher Frantz Fanon describes being called out as a racialized body and witnessing himself as another person's brutal interpretation [@fanonBlackSkinWhite1967]. Marxist philosopher Louis Althusser describes being hailed by a representative of the State apparatus and understanding it is himself who is meant [@althusserIdeologyIdeologicalState1970]. Both these interpellations are about being seen, about the necessity of submitting to this seeing, about shame. These interpellations are also crossing a distance, creating a nearness, pulling close under duress. This distance is a street or sidewalk, and it is also the conceptual distance between how someone else understands us and how we wish to be known. 
 
 [^splines]: Splines were originally the physical, flexible materials used to create curves between points, used for calculations involved in arches, domes, and ship building. The principle relies on the resistance in materials, on the energy required to bend. 
 
-Interpolation divides up distance, quantifies it, makes it possible to cross (it leaps Zeno's paradox with stepping stones). Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual, through generalization. It pins one down to classificatory schemas (created from collections of other interpellated individuals). [These are weak-star topologies?.] Computationally, proximity helps us jump to conclusions about each other. 
+Interpolation divides up distance, quantifies it, makes it possible to cross (it leaps Zeno's paradox with stepping stones). Interpolation makes interpellation possible in computational regimes, because it helps map (define) an individual, through generalization. It pins one down to classificatory schemas (created from collections of other interpellated individuals). [These are weak-star topologies.] Computationally, proximity helps us jump to conclusions about each other: 
 
-And yet, how many kinds of measurements of distance are there? How many dimensions and ways to fold them?
-
->The technical conditions of various computational systems — analog, digital, or quantum — thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022]
+>"a reliable link between the addressor and the addressee is the precondition of not only computing but also [...] of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022]
 
 >"[The algorithm] presents something as a singular optimal output, when it is actually generated through multiple and contingent relations. [...] I understand the spatial logic of algorithms to be an arrangement of propositions that significantly generates what matters in the world." [@amooreCloudEthicsAlgorithms2020]
 
 >"Data, in this sense, are more than operative forms of value; they establish the values of difference as the subject and object of organization."[@amaroBlackTechnicalObject2022]
 
+All this reduces to nearness and distance. how similarity and difference are mapped onto nearness and distance. What if the polarities were reversed — nearness and difference, similarity and distance? What if different values took priority instead of only matching like with like? How about all other intuitions that bring us together, including but not only what make us the same? What activation functions might activate other intuitions, or tamper with expectations, beyond or between the X and Y axes?
 
-[We have created so many algorithms for pathfinding. We use these constantly to optimize our ways across spaces and even to optimize our relations to each other. We've created everything about space and time, and how to make more and less of it.] What if — instead of using proximity as a shortcut to sameness — we looked to "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]. What if we found other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and [what futures we shape][xxx]? 
+How many kinds of measurements of distance are there? How many dimensions and ways to fold them?
+
+[We have created so many algorithms for pathfinding. We use these constantly to optimize our ways across spaces and even to optimize our relations to each other. We've created everything about space and time, and how to make more and less of it.] What if — instead of using proximity as a shortcut to sameness — we looked to "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]. What if we found other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and [what futures we shape]? 
 
 ### Nearbyness
-{: .no_toc }
 
 >"not to speak about but rather to speak nearby"
 >>–Trinh T. Minh Ha [@chenSpeakingNearbyConversation1992]
@@ -630,7 +597,7 @@ Even "meaning" in language has become increasingly defined by these numerical re
 
 >"leaving open the unresolved space of coming to know something that is relational: taking into consideration the specific context of the speaker, the place from which they speak, the closeness they share, and the mode through which that speaking happens. To know in this context is not a territorial claim to be made, enclosed, and defended but an endured practice of proximity. To speak nearby is a gesture of knowing that requires engagement, perforating the hermetic encapsulation of totality." [@morrisonFlesh2021]
 
-[XXX-ID] Lauren Berlant also details how such relations can maintain closeness, without capitulating to machine learning's reductionism, through the same "non-sovereign" knowing Trihn describes: 
+Critical theorist Lauren Berlant also details how such relations can maintain closeness, without capitulating to machine learning's reductionism, through the same "non-sovereign" knowing Trihn describes: 
 
 >"The space between and the spaces among involve distances created by the disturbance of being close without being joined, and without mistaking the other's ﬂesh for one's own or any object world as identical to oneself. Nonsovereignty is not here the dissolution of a boundary. It's the experience of affect, of being receptive, in real time." [@berlantCommonsInfrastructuresTroubling2016]
 
@@ -642,53 +609,53 @@ These operations of nearbyness [bring us to form and formative]. The assembling 
 
 >"The materiality of yarn and AI are vastly different, despite making them work adjacent to each other. Adjacency may offer lessons for understanding the possibilities and limitations of AI systems, especially when the outcomes deviate from one's expectations of what the system can or will do. [...] Rather than aiming for generalization, adjacency is better understood as a mode of creativity for seeking unfamiliar and unexpected insights into AI systems and to enhance confidence in the maker/crafter in reformatting the AI system in ways that widen and deepen their collaborative capabilities. In other words, adjacent practices with AI signifies the potential to transform AI from a mere tool to a hybrid material for artificial everyday creativity practices." [@reddyArtificialEverydayCreativity2022]
 
-This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. [XXX]
+This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. 
 
-James Bridle suggests that more ecological machines must be "non-binary, decentralized, and unknowing" [@bridleWaysBeingHuman2022] – pointing to where this already occurs in the more-than-human world in which we are immersed. He offers up slime moulds and liquid state machines as analogue computers that show how complex, non-binary operations: 
+### Computing New Computations
 
->"have always existed in the natural world, but we had to recreate them in our labs and workshops before we were capable of recognizing them elsewhere. [...] We needed the mental models provided by our technology, the words we make up for its concepts and metaphors, in order to describe and proerly undeerstand that analogous processes are already at play in the more-than human world." 
+From the works in this collection, I have begun to get an inkling of a 'compu-poetics' of Nearbyness. What would nearbyness ask of TechnoCraft in order to transform technologies — for example, to move from foundation models that have been built on narrow slices of data and classificatory logics, to transformative models that might unravel them? What does Nearbyness and Trans\*formative TechnoCraft ask of me? 
 
-He also complicates digital decentralization through the reminder that "The project of decentralization also encompasses the process of decentering ourselves [and] additionally insists that actual power, rather than mere connectivity, is shared out." 
-[Bridle furthers these][Bridle offers]:
+At least, at first, to ask better questions, to get my hands dirty, to get closer. Transformation pulls us up from the roots. What does trans\*formative computing look like? Probably many things, with many different goals, created specifically by the communities who will use it. For example, based on knowledge and intelligence that is "not classificatory but storied," not totalizing but exploratory [@ingoldLifeLines2015], can we imagine a phenomenological model of language, instead of a stochastic one [@benderDangersStochasticParrots2021]? What does it look like to code nearby, to code relationally?
 
-"unknowing[, means acknowledging the limitations of what we can know at all, ][...] demands a kind of trust in ourselves and in the world to be able to function in a complex, ever-shifting landscape over which we do not, and cannot, have control."
+Through lenses of Trans\*formative TechnoCraft we have discussed, I hope this sounds less far-fetched than before. We know that computation did not start out binary and does not have to stay that way. Voltage begins as an analogue signal. Nature's nonclassificatory logics offer many other forms of calculation: Soap film computers [@SoapFilmAnalogue2017], mushroom computers [@maddukuriWhatIfWe2021], slime moulds and liquid state machines [@bridleWaysBeingHuman2022] all produce complex, non-binary operations. Artist Stephanie Dinkins says, "Widely deployed AI can support bottom-up decision making and provide the public means to directly inform the systems that govern us while also empowering the governed" [@koernerSoftwareArtistsBook2020]. By rethinking AI and all emergent technologies as TechnoCraft — available for our intervention and imagination — we have the opportunity to [[reconfigure/transform] our relationships to these technologies and each other]. 
 
-<!-- write with the machine of me and the machines i have learned along the way.  --> 
-
-[//]: # "the magnitude of the distance between them (close/far) of each dimension of the vector"
+>"Part of the construction of dominator privilege is you don't have to think about what are those other people thinking, feeling, hoping, dreaming. I think part of transformation is when you open yourself to wanting to know what those people who are not like you are doing, thinking, being." [@hooksbellWhyFamedFeminist2018] 
 
 
-[//]: # "TK: All Writing Is Code *tetherednetwork*"
-[//]: # "TK: NewReal Critical AI Essay"
+### What's After?
+
+New projects are growing from the seeds of these works. [XXX][this list won't stay in the diss but i'd like to talk about them in relation to the diss]
+
+**- "A Critical Field Guide for Working with Generative AI Models and Systems":** Follow-up to "A Critical Field Guide for Working with Machine Learning Datasets"
+**- Unsupervised Pleasures:** Conscientious datasets and intersectional methodologies for queer and diverse futures
+**- "How Words Became Vectors":** Research mapping the sociotechnical histories of computational language representation 
+**- Future Feminist Machine Musueum:** Institution for realizing critical–creative community projects on machine learning through intersectional lenses
 
 
-<!-- >"This possibility of creating directed, coordinated, and controlled sets of techniken [cultural techniques] that ensure a reliable link between the addressor and the addressee is the precondition of not only computing but also Althusserian interpellation. The technical conditions of various computational systems—analog, digital, or quantum thus turn out to be coterminous with the development of modern disciplinary states and their sociotechnicalities, and addressability emerges as a key shared operational logic." [@dhaliwalAddressabilityWhatEven2022] -->
-Address means you are locatable in space, means you are reachable:
->"This widespread technik of addressing underpins the whole landscape of computing and its imaginaries."  [@dhaliwalAddressabilityWhatEven2022]
+<!-- >If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell) -->
 
-
-Refusing how technologies have been posited as serving capitalist goals can mean reorienting toward technologies of sharing. 
-~~No to capital and Yes to sharing~~
+<!-- Refusing how technologies have been posited as serving capitalist goals can mean reorienting toward technologies of sharing. 
+~~No to capital and Yes to sharing~~ -->
 
 TechNO is also open-access, open-source — in their refusal to capitulate to capitalist regimes of encapsulation, privatization, knowledge-hoarding and gatekeeping. 
 
 <!-- in IAIT? -->
-
 Open-source projects are often open in name only. OpenAI is the most prominent example of this, as a company that began creating machine learning models that offered research access but has increasingly become closed and proprietary. Elsewhere, I have written about the gaps in open-source works which do nothing more than place a single version of their source code online — in contrast to robust, responsive open-source projects that develop their work over multiple versions in consultation with their communities. Elea Zhong argues that not only do large corporate entities claiming to be open source often fail to offer substantive contributions to open-source communities, they misuse the term 'open source' to extort free labor. 
 
->"In the same way big oil brands itself with greenwashing for illusory environmental progressiveness, big tech extol their open source efforts to open-wash their capitalist, monopolistic, and destructive reality. Technological development is in dire need for a policy-first, documentation-first, ideology-first methodology, and AI must transform its focus on creating systems which understands and addresses the complexity of its environment, critically assesses its context, and produces meaning-rich results." (Zhong 2023)
+>"In the same way big oil brands itself with greenwashing for illusory environmental progressiveness, big tech extol their open source efforts to open-wash their capitalist, monopolistic, and destructive reality. Technological development is in dire need for a policy-first, documentation-first, ideology-first methodology, and AI must transform its focus on creating systems which understands and addresses the complexity of its environment, critically assesses its context, and produces meaning-rich results." (Elea Zhong 2023)
 
 Machine unlearning ([ender 2023](https://www.enderverse.org/notes/unlearning.html)) points out that 
 The new task in machine learning called 'machine unlearning' has emerged due to large models' training costs and the practice of indiscrimine data scraping. As Code Collective member ender writes, machine unlearning assumes access to the models it wants to alter, which also assumes a powerful role with agency in big tech. Instead, ender combines questions of machine unlearning with adversarial data poisoning to ask how one can remove data from a model without access to the initial model. 
 
-**Reinforcement Learning with Human Feedback**
-(in conclusion?)
-Reversed: (Human) Reinforcement Learning with Machine Feedback
-My workshops at Ars, Moz, USC
+<!-- **Reinforcement Learning with Human Feedback** -->
+<!-- Reversed: (Human) Reinforcement Learning with Machine Feedback -->
+<!-- My workshops at Ars, Moz, USC -->
 
 
-## Bibliography
-<!-- {: .no_toc} -->
+### Bibliography
+
+<!-- [//]: # "TK: All Writing Is Code *tetherednetwork*"
+[//]: # "TK: NewReal Critical AI Essay" -->
 
 <!-- #### Methodologies
 * intersectional feminisms
@@ -906,3 +873,17 @@ requires seeing hacking as being about "reframing hacking itself as *primarily a
 and people impacted by carceral and social systems -->
 
 <!-- >"Arts-based research recognises the diversity of methods appropriate to research; the plurality of objects of study; and the array of values associated with these diverse research methods and objects." [@willisFastForwardFuture2016]  -->
+
+
+
+<!-- >"have always existed in the natural world, but we had to recreate them in our labs and workshops before we were capable of recognizing them elsewhere. [...] We needed the mental models provided by our technology, the words we make up for its concepts and metaphors, in order to describe and proerly undeerstand that analogous processes are already at play in the more-than human world."  -->
+
+<!-- He also complicates digital decentralization through the reminder that "The project of decentralization also encompasses the process of decentering ourselves [and] additionally insists that actual power, rather than mere connectivity, is shared out."  -->
+<!-- [Bridle furthers these][Bridle offers]: -->
+
+<!-- "unknowing[, means acknowledging the limitations of what we can know at all, ][...] demands a kind of trust in ourselves and in the world to be able to function in a complex, ever-shifting landscape over which we do not, and cannot, have control." -->
+
+<!-- write with the machine of me and the machines i have learned along the way.  --> 
+
+<!-- [//]: # "the magnitude of the distance between them (close/far) of each dimension of the vector" -->
+
