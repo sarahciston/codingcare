@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: codes for (re)forming
 permalink: unforming
 nav_order: 10

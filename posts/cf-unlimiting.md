@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 permalink: unlimiting 
 title: codes for (un)limiting
 nav_order: 4

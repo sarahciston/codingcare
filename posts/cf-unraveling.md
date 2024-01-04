@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 permalink: unraveling
 title: codes for (un)raveling
 nav_order: 5

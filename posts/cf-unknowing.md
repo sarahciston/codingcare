@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: codes for (un)knowing
 permalink: unknowing
 nav_order: 11

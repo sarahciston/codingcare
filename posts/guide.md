@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Coding.Care
 permalink: codingcare
 nav_order: 3
