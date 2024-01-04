@@ -22,7 +22,8 @@ It seems merely rote to sort what will be important and what will not be. This i
 
 Pipi, your rooms are joyful violations, written in slow motion, calling for tiny complete attention. You dress in like a periwinkle dream and smash windows with a tropical flower. You say color is a feminist statement. 
 
-[Ever is overall](https://youtu.be/-gd06ukX-rU?feature=shared) [XXXEmbed]
+[Ever is overall](https://youtu.be/-gd06ukX-rU?feature=shared) 
+<!-- [XXXEmbed] -->
 
 Perhaps that explains our obsession with the black box. People just love the idea there is 'no way to know' what's inside. Like a uterus. Like a black hole. But a black box is not a black hole. A black box should not be where you put something you want to go away. A thing whose insides you want to ignore. These viscera make systems. They are hungry for data. 
 
@@ -96,7 +97,6 @@ Pipi, stuck in the TV, screaming silently to get out, I always feel like you are
 
 
 
-
 Another system emerges with the black box, says Ashby, that of the relation between the black box and its examiner: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" and I imagine myself tethered to all the black boxes making judgments that affect my dailiness. I am the Alexa voice and the magician's assistant, stuck to the box because my legs are in the other half.  
 
 
@@ -149,7 +149,6 @@ Dovetailed joints are carved like tiny fans, and they don't require glue or nail
 ---
 
 
-[The wound-up muscle of the heart can be unrolled just like a double-helix]
 
 Wild twin, the part denied returns to bite. Shame makes a person or a system act shamefully. Shamelessly too. Harmfully. Hopelessly. Hungrily. 
 

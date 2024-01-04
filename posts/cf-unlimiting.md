@@ -19,13 +19,17 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 ### Isolation, Perfection, Scratching at the Walls
 
 <!-- (What piece goes with this one?) -->
+<p class='caption'>
 Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min) 
-{: .caption }
+</p>
 
 ![horn-hands](../assets/img/horn-hands.jpg)
 
+<p class='caption'>
+
 [1. "Two hands scratching both walls"](https://youtu.be/O0uNnmAudmk)
-{: .caption}
+
+</p>
 
 <!-- [(Vimeo)](https://vimeo.com/562736859) (link broke) -->
 
@@ -78,7 +82,7 @@ What is the relationship between isolation and perfection? Am I trying to narrow
  
 So I guess this is about insecurity, too, and where the mind goes when left alone. And if it's about limits, of course it's also about boundaries. About codes. About sensitivities, calibrations, and machines.
 
-[XXX][Flusser says walls are not only barricades but redirect the wind. Screens instead of walls (ingold) ]
+<!-- [XXX][Flusser says walls are not only barricades but redirect the wind. Screens instead of walls (ingold) ] -->
 [XXX][no project here because covid?]
 
 <!-- When we tell stories, we use everything we know about everyone we've ever met to imagine new characters. From those generalizations, we draw out some specific features and apply them to an imagined new person. Hopefully we flesh those out enough, combining them in unique ways and adding situations and motivations that make the new person feel full and fleshy too.  -->
@@ -97,7 +101,7 @@ Each of these nine parts is an exercise in intimacy — through sounds that sign
 
 I am sequestering again, awaiting sequelae — the unseeable secondary consequences I cannot see but know to expect. I am always impending. Re-emerging. Re-emergent. Re-emergency.
 
-![horn-hair](../assets/img/horn-cuttinghair.png)
+<!-- ![horn-hair](../assets/img/horn-cuttinghair.png) -->
 
 [8. "Cutting Hair" / 9. "O A S I S"](https://youtu.be/Kcy45wBZSoo)
 
@@ -112,9 +116,10 @@ I am sequestering again, awaiting sequelae — the unseeable secondary consequen
 8. "cutting hair" / *Cutting one's hair with two pairs of scissors simultaneously*
 9. "When a woman and her lover lying down - face to face - and she coils(wraps) her legs around the legs of the man - with the window opened wide - that is the O A S I S ." / *When a woman and her lover lie on one side looking at each other; and she twines her legs around the man's legs with the window wide open, it is the oasis.*
 
+<!-- ![horn-legs](../assets/img/horn-legs.png) -->
 
-
-![horn-legs](../assets/img/horn-legs.png)
+<p class='caption'>
 
 [4. "keeping those legs from fucking-around"](http://www.medienkunstnetz.de/works/berlin-uebungen-beine/video/1/)
-{: .caption }
+
+</p>
