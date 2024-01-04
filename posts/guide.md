@@ -1490,9 +1490,7 @@ This pocket guide has argued for technology communities that support pluralism, 
 
 </div>
 
-<hr/>
-
-## [Appendices](appendices)
+<!-- ## [Appendices](appendices) -->
 
 ## [Project Showcase](https://creativecodecollective.com/showcase) 
 
@@ -1500,13 +1498,13 @@ This pocket guide has argued for technology communities that support pluralism, 
 
 ## Cod(e)a 
 
-### Let others help you grow 
+<!-- ### Let others help you grow  -->
 
 Pssst... Want more? Check out the miscellaney in [Appendices, addenda, etc](appendices), where I've shoved all the things that wouldn't fit in this "pocket" guide — including some of the books I relied on most while writing, essentials like our community agreement, plus some of the bits and pieces that got us started from lesson plans to the first proposal for Code Collective. For lots more tutorials, readings, and inspiration, you can also head over to the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub) which continues to grow as you add what you've found helpful. And for astounding work by Code Collective members, we made a [Project Showcase](https://creativecodecollective.com/showcase), because we hope it sparks some inspiration for you too.
 
-[XXX][tbd-samir-on-new-group-chapter-at-santa-cruz]
+<!-- [XXX][tbd-samir-on-new-group-chapter-at-santa-cruz] -->
 
-Our community is less about how it appears to outsiders than how it feels while inside it. , except in the sense of inviting folks in. Still we want to find openings for others to enter, [...]
+<!-- Our community is less about how it appears to outsiders than how it feels while inside it. , except in the sense of inviting folks in. Still we want to find openings for others to enter. A new chapter has been started this fall at UC Santa Cruz, helmed by Samir Ghosh. 
 
 New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 
@@ -1522,13 +1520,11 @@ New chapter at UC Santa Cruz, how it has emerged, what a guide can help
 </p>
 <p class="quote attrib">
 -Katherine Yang, she/her, USC BA Media Arts + Practice, Linguistics, Computer Science
-</p>
+</p> -->
 
 [Back to Table of Contents](#top)
 
 <!-- [//]: # "TO DO!!" -->
-
-<hr/>
 
 <!-- ## ACKNOWLEDGMENTS
 

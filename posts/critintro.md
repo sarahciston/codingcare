@@ -385,7 +385,7 @@ For infrastructures of care, communities themselves are the essential networks; 
 
 ![zine page from ONE Archives](../assets/img/ONE-queer-imaginemore.jpg)
 
-<p style='caption'>
+<p class='caption'>
 Credit: USC Libraries ONE Archives 
 </p>
 
@@ -453,7 +453,7 @@ In Ahmed's reading, normative use and resistance has much to do with fit and for
 
 ![Lace cards](../assets/img/IBM_lace_card.jpg)
 
-<p style='caption'>
+<p class='caption'>
 A "lace card" was used in early punch-card computers to jam the systems.
 </p>
 
@@ -626,10 +626,10 @@ Through lenses of Trans\*formative TechnoCraft we have discussed, I hope this so
 
 New projects are growing from the seeds of these works. [XXX][this list won't stay in the diss but i'd like to talk about them in relation to the diss]
 
-**- "A Critical Field Guide for Working with Generative AI Models and Systems":** Follow-up to "A Critical Field Guide for Working with Machine Learning Datasets"
-**- Unsupervised Pleasures:** Conscientious datasets and intersectional methodologies for queer and diverse futures
-**- "How Words Became Vectors":** Research mapping the sociotechnical histories of computational language representation 
-**- Future Feminist Machine Musueum:** Institution for realizing critical–creative community projects on machine learning through intersectional lenses
+- **"A Critical Field Guide for Working with Generative AI Models and Systems":** Follow-up to "A Critical Field Guide for Working with Machine Learning Datasets"
+- **Unsupervised Pleasures:** Conscientious datasets and intersectional methodologies for queer and diverse futures
+- **"How Words Became Vectors":** Research mapping the sociotechnical histories of computational language representation 
+- **Future Feminist Machine Musueum:** Institution for realizing critical–creative community projects on machine learning through intersectional lenses
 
 
 <!-- >If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell) -->
@@ -846,7 +846,7 @@ TERM: *Deep Interdisciplinarity* is able to view these fundamental states as hyb
 
 <!-- >"AI systems, in taking a traditionally gendered approach to knowledge which reflects the style of mainstream epistemology, incorporate a view of the world which tacitly reflects a norm of masculinity, both in terms of the knower and the known. This leaves out other types of knowing subject and knowledge, particularly that which relates to women's ways of knowing." [@adamArtificialKnowingGender1998] -->
 
-[XXX]
+<!-- [XXX] -->
 
 <!-- ### Why TechnoCraft Now -->
 
