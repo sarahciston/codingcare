@@ -3,7 +3,7 @@ layout: post
 permalink: intro
 title: critical introduction
 nav_order: 1
-date: 03.01.2024
+date: 01.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
@@ -582,8 +582,7 @@ How many kinds of measurements of distance are there? How many dimensions and wa
 
 ### Nearbyness
 
->"not to speak about but rather to speak nearby"
->>–Trinh T. Minh Ha [@chenSpeakingNearbyConversation1992]
+>"not to speak about but rather to speak nearby" [@chenSpeakingNearbyConversation1992]
 
 I want to write a theory of nearbyness (near-bi-ness) that is not a theory of nearness. Not nearness as measures and scores, not proximity and similarity, not K-means and K-nearest-neighbors. Filmmaker Trinh T. Minh Ha describes 'speaking nearby' as "a speaking that does not objectify, does not point to an object as if it is distant from the speaking subject or absent from the speaking place. A speaking that reflects on itself and can come very close to a subject without, however, seizing or claiming it" [@chenSpeakingNearbyConversation1992]. This is `nearbyness` as a practice of attending-to, not `nearness` as the foundation for assumption-making. Through what it places in conversation, in contact, in texture, in tension, nearbyness enacts via poetic logics and "forms of indirectness" that, and how, and why its elements require each other. Nearbyness prefigures the more-than which this closeness creates. This is a trans\*disciplinary practice, as more than the sum of its combined fields or niches, and it is a trans\*formative practice too. 
 

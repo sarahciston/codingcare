@@ -3,7 +3,7 @@ layout: post
 permalink: unlimiting 
 title: codes for (un)limiting
 nav_order: 4
-date: 23.12.2023
+date: 01.01.2024
 tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 # bibliography: ['includes/bibliography.bib']
 ---

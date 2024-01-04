@@ -1,14 +1,14 @@
 ---
 layout: post
-title: coding care pocket guide
+title: Coding.Care
 permalink: codingcare
 nav_order: 3
-date: 03.01.2024
+date: 01.01.2024
 tags: [tips, guide, handy, coding, zine, computers, programming]
 # link-citations: true
 ---
 
-# Coding Care: Field notes for making friends with code
+# Coding.Care: Field notes for making friends with code
 {:.no_toc}
 
 <!-- [//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities // guide book / field notes / pocket guide" -->
@@ -913,8 +913,10 @@ Our format continues to prove wildly transformable to hold what we need it to, t
 At various points, Code Collective has also morphed into Zine Club. Unbeknownst to me, Zine Club has had a secret ongoing life as Knitting and Crochet Club. Even though my personal interest in each of these topics emerged independly of the group, the Code Collective format has adapted shape to embrace them all, as members found common interests and as conversations overlapped and found enriching commonalities. These forms, while seeminly far flung from coding, have taught us about how to code and how to be in community, too. 
 
 ![Kolam coding example](../assets/img/kolam_suressh-6.png)
+
+<p class='caption'>
 Lavannya Suressh's lesson in programming digital variations of Kolam patterns, using p5.js, shows the many designs that can be created with a few limited combinations. It appears as an interactive lesson and a printed zine. Credit: Lavannya Suressh, Critical Code Cookbook.
-{: .caption }
+</p>
 
 Design and technology MFA [Lavannya Suressh](https://www.lavannyadesigns.com/kolam-generator) drew inspiration from her grandmother's daily practice of creating geometric patterns on the ground in rice flour, in a traditional South Indian art form called Pulli Kolam, to create complex graphic imagery with math and code. She adapted this work into a beautiful zine (and an lesson in the [Critical Code Cookbook](https://criticalcode.recipes/contributions/kolam-in-code)) about the project that clearly explains her process. 
 
@@ -983,11 +985,13 @@ Those gargantuan ideas, the ones you'd have no idea where to start? Go ahead and
 
 ![map of ladymouth](../assets/img/ladymouthchart-marked.png)
 
+<p class='caption'>
 For example, here's a map I made of my first Python project, called *ladymouth*. When I made the map, it did not yet include all these parts (almost none, in fact). As I learned what I would need to make it operate the way I imagined, I was able to start coding each part. I ended up building only portions of the work, but this map helped me understand where I *could* go if I wanted to. It also helped me understand that I didn't have to try to do everything at once (which is a tendency of mine). 
-{: .caption }
+</p>
 
+<p class='caption'>
 Also, note that map was made after I had built maybe a quarter of what I hoped the project would include. If I had made the map at the very start of the project, it would have had a lot more "?!?!" and "Here be dragons" on it — so don't worry if you don't know what terms or shapes your map should have, or what tools you'll come to use. Describe as best you can, just to get something down. When mapping an exhibition I would go on to create, I didn't know what would go in the center of the room and drew a large swirling spiral, saying "something amazing should happen here, but what?" because I had no idea! A few months later, surprise!, I ended up placing a very spiral-like labyrinth in the middle of the room.  
-{: .caption } 
+</p
 
 How do you practice dreaming *critically*? 
 
@@ -1134,8 +1138,9 @@ Still, it's possible to incorporate some of these approaches in a required class
 
 ![Guestbook loom at Stanford Textile Makerspace](../assets/img/guestbookloom.png)
 
+<p class='caption'>
 This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings. 
-{: .caption }
+</p>
 
 [^textiledata]: Here are a few more examples of [textile data visualization](https://textilemakerspace.stanford.edu/dataviz/). Also check out this amazing talk by [Laura Devendorf](https://www.youtube.com/watch?v=kKQs0bVuN-8), creator of AdaCAD!
 
@@ -1196,10 +1201,11 @@ The snack breaks have been where the best thinking and connections get made. The
 
 Snacks are rivaled only by music and movement in the essentials for our meetups. At our first gathering, we began a collaborative playlist that always kicks off with Queen's "Don't Stop Me Now." This track became our theme song at our very first meetup, when I asked if folks would like background music while we worked, and an otherwise very quiet student piped up out of the blue with this amazing suggestion. Perhaps it seems out of character as a rallying cry for a room full of people typing on computers, but I argue that "Don't Stop Me Now" speaks to a Code Collective mindset finds joy in doing the impossible:
 
+<p class='caption'>
 "Tonight I'm gonna have myself a real good time / I feel alive / And the world, I'll turn it inside out, yeah / I'm floating around in ecstasy / So (Don't stop me now) (Don't stop me) / 'Cause I'm having a good time / Having a good time / I'm a shooting star, leaping through the sky like a tiger / Defying the laws of gravity / I'm a racing car, passing by like Lady Godiva / I'm gonna go, go, go, there's no stopping me"
-{: .caption }
+</p>
 
-![Freddie](../assets/img/freddie.gif)
+<!-- ![Freddie](../assets/img/freddie.gif) -->
 
 A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g6F9RM0Osbhw7ONwxSJhy?si=Cr0nEeExQiKPUQI-l7-HCA) on your streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another way to come together around something *other* than code. Anything that makes broader connections among participants can help support the community, in general and when coding. It's all connected! 
 
