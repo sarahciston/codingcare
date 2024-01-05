@@ -25,12 +25,12 @@ links:
   #   - "/codingcare/unforming"
   "inclusive datasets guide":
     - "/codingcare/publications"
-  "codes for (un)knowing":
-    - "/codingcare/unknowing"
-  "intersectional ai toolkit":
-    - "https://sarahciston.gitlab.io/toolkit/"
   "codes for (un)living":
     - "/codingcare/unliving"
+  "intersectional ai toolkit":
+    - "https://sarahciston.gitlab.io/toolkit/"
+  "codes for (un)knowing":
+    - "/codingcare/unknowing"
   "appendices":
     - "/codingcare/posts/appendices"
   "process notes":

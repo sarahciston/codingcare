@@ -91,7 +91,7 @@ So I guess this is about insecurity, too, and where the mind goes when left alon
 
 <!-- What does this black box have to do with the white room we are in? -->
 
-Rebecca, why are you stuck inside? It’s winter when you are, and I don't know which side of Berlin you're on. 
+Rebecca, why are you stuck inside? It's winter when you are, and I don't know which side of Berlin you're on. 
 
 Are you sequestering for political reasons, or meteorological or creative ones? People don't just come up with the idea to cut their own hair with two pairs of scissors at once, or to paint themselves green and squiggle around behind their houseplants on camera, or to make tiny fish on wires swim inside someone else's billowing fan-blown chest hair, if they haven't been stuck inside for a bit. 
 
@@ -123,3 +123,7 @@ I am sequestering again, awaiting sequelae — the unseeable secondary consequen
 [4. "keeping those legs from fucking-around"](http://www.medienkunstnetz.de/works/berlin-uebungen-beine/video/1/)
 
 </p>
+
+<!-- More about protocols as limits and porousness. I have written this before but will I ever say it “right” -->
+
+<!-- Face mask protruding with pencils, inscribe with recognition (technology).  -->

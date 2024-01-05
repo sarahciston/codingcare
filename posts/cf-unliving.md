@@ -54,7 +54,9 @@ Researchers are now using machine learning to detect potential suicidality, part
 
 Someone reminds me it is not my responsibility to keep other people alive, no matter how much I care for them. But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing at dramatic speed. Unaliving at accelerating pace. 
 
-'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography. We must spell out new stuttering formulations like `s3x` and `~~death~~` and `les`&#x1F41D;`an` and `$uicid3`, to con these 'sophisticated'[^nips] systems by hovering in the redacted [neither-and]. 
+'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography. We must spell out new stuttering formulations like `s3x` and `~~death~~` and `les`:bumblebee:`an` and `$uicid3`, to con these 'sophisticated'[^nips] systems by hovering in the redacted [neither-and]. 
+
+<!-- &#x1F41D; -->
 
 [^nips]: They do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real.
 
