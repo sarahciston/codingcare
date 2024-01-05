@@ -10,11 +10,13 @@ date: 01.01.2024
 
 # Codes for (Un)Living
 
+>"Find something to adore and keep talking to it." –Martin Shaw [-@shawCourtingWildTwin2020]
+
 I am still alive, On Kawara.  It takes so much: To get up, at a time. To make a painting. To make a day. Day after day. You fit this feeling in a postcard. You report the dailiness and so it is remarkable.
 
 What I like about you is you don't offer any context. Just 'I got up'. Just 'I am alive'. 'Still', like it's a chore. What more do you want from me, you seem to say. 
 
-You wrote to Sol LeWitt. Wrote to friends in New York, France, Sweden, Yugoslavia. You wrote every day for days and days and days and days until you weren't alive. But I am still alive. It doesn't feel remarkable, but it is, and [I mark it,/lets] remark it. 
+You wrote to Sol LeWitt. Wrote to friends in New York, France, Sweden, Yugoslavia. You wrote every day for days and days and days and days until you weren't alive. But I am still alive. It doesn't feel remarkable, but it is. 
 
 Some people I know are also alive but don't want to be. It's hard to know how to live, especially right now. And it always has been hard to know how to live. It always has been 'especially right now'. But we make our problems our own. We evade oneness with simple words like 'I'. We do it on the reg. 
 
@@ -30,7 +32,7 @@ On Kawara, how were you feeling on APR 3 1969? I triangulate a mood from two sep
 
 I recognize such knotted neighborhood walks in my slowest days. I don't mark these patterns down with red pen (except for one photography project in college in which I traced everywhere I drove in Los Angeles on a map before Google Maps did this for me), but I have always seen my 'self' from this angle — small, [on a map,] abstract in relation to concepts like 'north'. I notice how little my movements cover the earth. I like places where I can get up high or see far, until the horizon seems to curve. I think, 'I am on a planet', and the smallness I already feel is more palpable. 
 
-On other days, when I am more in a body, I notice how much space it takes up — how it barely fits where it's told and it aches and it moves like my mother's body now. I worry how much ecological impact it contributes. I let in all these tracing technologies to admit to the uncanny feeling I already have. But the sense of being traced by satellites, is not your telegram path or paintbrush. This is something different from presence and displacement. [Attunement is not technical alignment.] Despite all my settings, I know the maps know where I am. I know my mom can pull up her phone and find me: a tiny dot pulsing, still a 'live' representation.[^a-life] [I leave this on because she likes it more than it bothers me. If a drone can find me, my mom might as well be able to, also.] 
+On other days, when I am more in a body, I notice how much space it takes up — how it barely fits where it's told and it aches and it moves like my mother's body now. I worry how much ecological impact it contributes. I let in all these tracing technologies to admit to the uncanny feeling I already have. But the sense of being traced by satellites, is not your telegram path or paintbrush. This is something different from presence and displacement. [Attunement is not technical alignment.] Despite all my settings, I know the maps know where I am. I know my mom can pull up her phone and find me: a tiny dot pulsing, still a 'live' representation.[^a-life] I leave this on because she likes it more than it bothers me. If a drone can find me, my mom might as well, too. 
 
 [^a-life]: How did 'live' come to mean 'current' instead of 'to live' or 'alive'? Conway's Game of Life is the best known example of 'a-life', or what's called artificial life, a basic algorithm in which a small set of rules play out into infinite complexity over thousands of cycles. Its shapes can be followed like an unnatural ant farm: 'gliders', 'guns', 'crawlers', and 'eaters'. Nothing about this feels 'lively' to me, so I must think of life as something. Its patterns look to me instead like knitting patterns for lacework. 
 
@@ -48,66 +50,69 @@ So instead I made artworks that asked other people to share. I asked for compass
 
 Researchers are now using machine learning to detect potential suicidality, particularly in children and veterans. Machine analyses of video, writing, and medical records found a wide range of correlations: "people experiencing suicidal thoughts sighed more and laughed less than others. When speaking, they tended to pause longer and to shorten their vowels, making words less intelligible; their voices sounded breathier, and they expressed more anger and less hope" and "having arthritis, lupus, or head-and-neck cancer; taking statins or Ambien; or living in the Western U.S. can also add to a veteran's risk" [@khullarCanTreatMental2023]. Their predictive models pinpoint high-risk adults; they find children who may soon become anxious. 
 
-[It feels ironic that this worries me.] Looking for patterns, we find patterns. But what do we do with the patterns we find? How far would I go to limit someone's life to prevent their death? 
+This worries me. Maybe it shouldn't, but my mother always labeled me a worrier. I worry that machine criteria makes almost all of us suicidal. Do you pause longer than others? Do you live in the Western US?
 
-<!-- I worry that, with machine criteria, almost anyone could be suicidal.  -->
+Looking for patterns, we find patterns. But what do we do with the patterns we find? How far would I go to limit someone's life to prevent their death? 
 
 ===
 
-Someone reminds me it is not my responsibility to keep other people alive, no matter how much I care for them. But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing at dramatic speed. Unaliving at accelerating pace. 
+Someone reminds me it is not my responsibility to keep other people alive, no matter how much I care for them. 
+
+But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing at dramatic speed. Unaliving at accelerating pace. 
 
 'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography. We must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`:bee:`an` and `$uicid3`, to con these 'sophisticated'[^nips] systems by hovering in the redacted [neither-and]. 
 
-<!-- &#x1F41D; -->
-
 [^nips]: They do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real.
 
-Recently they added a Boolean operator to Javascript called Nullish, written `??`. [^Nullish] 
+And speaking of the void, recently [they] added a Boolean operator to Javascript called Nullish, written `??`. [^Nullish] 
 
 [^Nullish]: I know, right? My feelings exactly.
 
-Nullish distinguishes `null` and `undefined` from other `False` and `NaN` (Not a Number), although all of these are "Falsy." Nullish hovers liminially in the never-was or maybe-erased. Use plain ol' `null` "when something can optionally exist." Nullish is meant for "when there are multiple ways something can not exist"[@massoHandlingNull]. Oh to be a Nullable coalescing, there or/and nothing. 
+Nullish distinguishes `null` and `undefined` from `False` and `NaN` (Not a Number), although all of these are considered "Falsy." Nullish hovers liminially in the never-was or maybe-erased. Use plain ol' `null` "when something can optionally exist." Nullish is meant for "when there are multiple ways something can not exist"[@massoHandlingNull]. 
+
+Oh, to be Nullable coalescing, there or/and nothing. 
 
 >"the fractal dimension of compassion is that of not self, not other, not both self and other, and not neither self nor other" [@sedgwickWeatherProust2012]. 
 
 ===
 
-Each of your almost 3000 'Today' paintings was san serif, white against monochrome ground. You tediously completed each date during the day it depicted. The days "index only themselves" [@kawaraKawaraSilenceOccasion2015]. 
+I should have known your series "I AM STILL ALIVE" began with un-unaliving. In DEC 1969 over three days you sent: "I NOT GOING TO COMMIT SUICIDE DON’T WORRY"; "I AM NOT GOING TO COMMIT SUICIDE WORRY"; and "I AM GOING TO SLEEP FORGET IT." For whatever reason, I like these telegrams less than the nearly 900 telegrams you went on to write that simply said, "I AM STILL ALIVE ON KAWARA."
+
+You are not still alive. I write to you as though you are, because to write to the living who do not want to live, to write to them about living, seems harder than to write to the dead about living. I expect you'd have more to say about living, having written "I am still alive" so many times. After remarking so often on the stillness of living, I think you would you report back that living was hard. Maybe you could explain to my friend, who does not want to, why you went on and did it anyway. 
+
+Sometimes unprompted, sometimes in reply to requests and inquiries. Your telegrams enacted your persistence as a refusal, as if to say, "I'd prefer not to," or as if to emphasize that your status might change in the widened gap between sending and receipt of signal. 
+
+I get text messages almost every day. Some of the messages are reports of forgetting, frustrations about forgetting, and anticipated forgettings. I feel like a throbber, a spinning rainbow beach ball of doom, three dots awaiting the arrival of a message being revised. I hold my breath and wait for something to be over, which I don't want to happen at all. I ignore my heartbeat, though it wooshes in my ears, though my devices capture it as data all the time. *Are you, or have you ever been, an anxious child?* 
+
+I don't get many text messages from my friend, On Kawara, the one to whom I'd like you to explain the stillness. There are no telegrams, no tiny pulsing dot on a map. Every few months I get a meme, or a bulk message of twenty memes. I am learning these must suffice [for friendship]. These mean 'I am still alive'. It's futile to telegram back each day, "Are you?" "Still? "And now?" 
+
+On Kawara, you tediously completed each date during the day it depicted. Each of your almost 3000 'Today' paintings was white text against monochrome ground. The days "index only themselves" [@kawaraKawaraSilenceOccasion2015]. 
 
 Now, how do we index the days?
 
 The too-smooth silence of drone footage over destruction. Calm voiceover gliding above a bombed-out city. 
 
-For Audre Lorde, just to live is an act of revolution, to survive in spite of powerful forces striving to extinguish you. So many of us live on the backs of others. And so many of us live as acts of devotion. 
+For Audre Lorde, just to live is an act of revolution: to survive in spite of powerful forces striving to extinguish you. So many of us live on the backs of others. And so many of us live as acts of devotion to others.
+
+I am still alive. Most days it doesn't feel remarkable or enough. I don't know how to explain the stillness, the going on. It's okay if you stay in the Nullish. Just mark the days. Let something mark them for you. 
 
 ===
 
-I should have known your series "I AM STILL ALIVE" began with un-unaliving. In DEC 1969 over three days you sent: "I NOT GOING TO COMMIT SUICIDE DON’T WORRY"; "I AM NOT GOING TO COMMIT SUICIDE WORRY"; and "I AM GOING TO SLEEP FORGET IT." For whatever reason, I like these telegrams less than the nearly 900 telegrams you went on to write that simply said, "I AM STILL ALIVE ON KAWARA."
-
-You are not still alive. I write to you as though you are, because to write to the living who do not want to live, to write to them about living, seems harder than to write to the dead about living. I expect you'd have more to say about living, having written "I am still alive" so many times. [I think you would report back that living was not fun.] After remarking so often on the stillness of living, would you report back that living was hard? Maybe you could explain to my friend, who does not want to, why you went on and did it anyway. 
-
-Sometimes unprompted, sometimes in reply to requests and inquiries. Your telegrams enacted your persistence as a refusal, as if to say, "I'd prefer not to," or as if to emphasize that your status might change in the widened gap between sending and receipt of signal. 
-
-I get text messages almost every day. Some of the messages are reports of forgetting, frustrations about forgetting, and anticipated forgettings. There are banking details and backup plans. <!--[for if the order of who-dies-first goes wrong]. [I am the next next-of-kin, and this may be resisted.]--> I feel like a throbber, a spinning rainbow beach ball of doom, three dots awaiting the arrival of a message being revised. I hold my breath and wait for something to be over which I don't want to happen at all. I ignore my heartbeat [though it rushes in my ears, though my devices capture it as data all the time]. *Are you, or have you ever been, an anxious child?* 
-
-<!-- [For blood relations we talk a lot about ways to prevent, and to get away with, death. Farming. Hunting. Euthanasia. Murder-suicide pacts. Justifiable homicide. Hypothetically, of course. If the occasion called for it. Death is brought up casually, at a birthday dinner or on a video call[, like some folks talk about [reunions]]. -->
-
-I don't get many text messages from my friend, the one I'd like you to explain [the still aliving] to, On Kawara. There are no telegrams, no tiny pulsing dot on a map. Every few months I get a meme, or a bulk message of twenty memes, and I am learning this must suffice. These are my 'I am still alive' messages. It doesn't help to telegram back each day, "Are you?" "Still? "And now?"
-
-<!-- On Kawara, you kept it up for 29,771 days, which seems like plenty. [There are as many people dying right now.][I am happy if everyone I know sticks around that long.] -->
-
-I am still alive. [And it isn't enough. And it doesn't feel remarkable. [Lose the 'I' nullish, make it remarkable, live as devotion/make it something, nondatifying. And it must be.]
-
-===
 
 ![on kawara "I got up at"](../assets/img/Kawara_IGotUp1036.jpg)
 
 
+<!-- [^Shaw]: Shaw, M. (2020). *Courting the Wild Twin*. Chelsea Green. -->
 
+<!-- [Lose the 'I' nullish, make it remarkable, live as devotion/make it something, nondatifying. And it must be.] -->
 
+<!--There are backup plans with banking details. [for if the order of who-dies-first goes wrong]. [I am the next next-of-kin, and this may be resisted.]--> 
 
+<!-- You find your own reason.  -->
 
+<!-- On Kawara, you kept it up for 29,771 days, which seems like plenty. [There are as many people dying right now.][I am happy if everyone I know sticks around that long.] -->
 
+<!-- [For blood relations we talk a lot about ways to prevent, and to get away with, death. Farming. Hunting. Euthanasia. Murder-suicide pacts. Justifiable homicide. Hypothetically, of course. If the occasion called for it. Death is brought up casually, at a birthday dinner or on a video call[, like some folks talk about [reunions]]. -->
 
 ---
 <!-- null, queer use, throbber, waiting for something to happen, platforms, queering, communing, desiring, ecstatic codes, -->
