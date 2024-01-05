@@ -9,6 +9,8 @@ date: 01.01.2024
 <!-- platforms, essaying, code obscura. saving protecting hiding helping hearing healing -->
 <!-- pye craft of risk of certainty -->
 
+![](../assets/img/pipi-room.jpg)
+
 # Codes for (Un)Knowing
 <!-- #### Codes for Essaying, Codes for Risking, Codes for Losing -->
 
@@ -20,7 +22,11 @@ I am writing again about trapped white women and problems of scale.
 
 Pipi has arranged all the white things on the wall. All the white things are sorted and inert, aesthetically unnerving but pleasingly so. It is living as an algorithm to find and sort and display this way. I do it too. 
 
-It seems merely rote to sort what will be important and what will not be. But this is power. Here, on Pipi's wall of white things, the criteria may seem obvious: white, or white-enough. But [consider/think of/remember] the discarded. Their not-quite-whiteness holds up this wall with their exclusion. 
+It seems merely rote to sort what will be important and what will not be. But this is power. Here, on Pipi's wall of white things, the criteria may seem obvious: white, or white-enough. 
+
+But the not-quite-whiteness of what's not here holds up this wall with its exclusion. 
+
+![](../assets/img/pipi-white.jpg)
 
 This is about what is inside the black box, or about what shores up its walls. "Black box" is a thought-experiment and a shorthand for the unknown. No. It is presumed unknowable or [doesn't need knowing]. 
 
@@ -145,6 +151,8 @@ I wanted to treat it like a black box, to shove everything inside that I didn't 
 
 Ashby says that another system emerges along with the black box: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback."[^Ashby] Thanks a lot, Ashby. I am tethered to all the black boxes making judgments that affect my dailiness. I am the Alexa voice and the magician's assistant, stuck to the box because my legs are in its other half. *This Is Fine.*
 
+![](../assets/img/pipi-scream.jpg)
+
 Later, Ashby sounds like an infomercial advertiser (you know the guy who slaps duct tape on a  sawed-in-half boat?) when he says:
 
 >"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist"[^Ashby]
@@ -161,6 +169,10 @@ Besides, there are far sweeter ways of unknowing. There is fizz and curiosity [a
 Pipi, your show is called, "Big heartedness, be my neighbor." I like that you don't place claims. When you could have asked 'be mine', you ask only to be nearby.[^Rist-show]
 
 I can insist on another's unknowability and stay near it. I can let it texture me. I cannot prevent loss, but we can write other functions.
+
+===
+
+![](../assets/img/pipi-under.jpg)
 
 <!-- === -->
 

@@ -6,6 +6,8 @@ nav_order: 20
 date: 01.01.2024
 ---
 
+![on kawara "I am still alive"](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
+
 # Codes for (Un)Living
 
 I am still alive, On Kawara.  It takes so much: To get up, at a time. To make a painting. To make a day. Day after day. You fit this feeling in a postcard. You report the dailiness and so it is remarkable.
@@ -54,13 +56,15 @@ Researchers are now using machine learning to detect potential suicidality, part
 
 Someone reminds me it is not my responsibility to keep other people alive, no matter how much I care for them. But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing at dramatic speed. Unaliving at accelerating pace. 
 
-'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography. We must spell out new stuttering formulations like `s3x` and `~~death~~` and `les`:bumblebee:`an` and `$uicid3`, to con these 'sophisticated'[^nips] systems by hovering in the redacted [neither-and]. 
+'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography. We must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`:bee:`an` and `$uicid3`, to con these 'sophisticated'[^nips] systems by hovering in the redacted [neither-and]. 
 
 <!-- &#x1F41D; -->
 
 [^nips]: They do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real.
 
-Recently they added a Boolean operator to Javascript called Nullish, written `??`. *I know, right? My feelings exactly.* 
+Recently they added a Boolean operator to Javascript called Nullish, written `??`. [^Nullish] 
+
+[^Nullish]: I know, right? My feelings exactly.
 
 Nullish distinguishes `null` and `undefined` from other `False` and `NaN` (Not a Number), although all of these are "Falsy." Nullish hovers liminially in the never-was or maybe-erased. Use plain ol' `null` "when something can optionally exist." Nullish is meant for "when there are multiple ways something can not exist"[@massoHandlingNull]. Oh to be a Nullable coalescing, there or/and nothing. 
 
@@ -94,10 +98,7 @@ I don't get many text messages from my friend, the one I'd like you to explain [
 
 I am still alive. [And it isn't enough. And it doesn't feel remarkable. [Lose the 'I' nullish, make it remarkable, live as devotion/make it something, nondatifying. And it must be.]
 
-
- 
-
-![on kawara "I am still alive"](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
+===
 
 ![on kawara "I got up at"](../assets/img/Kawara_IGotUp1036.jpg)
 
