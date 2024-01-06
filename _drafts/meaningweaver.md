@@ -223,3 +223,31 @@ Linguistics
 Language parsing tools
 Statistics
 Cybernetics
+
+Louise Amoore:
+
+>"The indeterminate combinations of weights, parameters, and layers in the algorithm are the traces of rejected pathways and alternative correlations." [me: poetic space]
+
+>"When Digital Reasoning claims that their algorithms determine what is important in war or in finance, this is because their machine learning apparatus is generating what matters in a series of probable events. As Karen Barad writes on the nature of scientific apparatuses, they are boundary-making practices that decide “what matters and what is excluded from mattering,” as they “enact agential cuts [...] Cognitive computing renders perceptible to the analyst “what matters” in the political scene, using the volume of cloud-based digital data precisely to reduce and flatten the field of vision. The relation between volume and flatness thus becomes one in which the tracks of association and correlation enact the horizon of possibility for the analyst. The volume is radically condensed down to the target data elements, like beaded drops on ionizing particles through which future trajectories of motion can be inferred."
+
+
+*Louise Amoore*
+
+>"presents something as a singular optimal output, when it is actually generated through multiple and contingent relations."
+
+>"Where politics expresses the fallibility of the world and the irresolvability of all claims, the algorithm expresses optimized outcomes and the resolvability of the claim in the reduction to a single output."
+
+>"as a calculative device, it is a composite creature."
+
+>"The representation of algorithms as a logical series, however, seriously overlooks the extent to which algorithms modify themselves in and through their nonlinear iterative relations to input data."
+
+>"the output of the algorithm is never simply either true or false but is more precisely an effect of the partial relations among entities."
+
+against explainability: "Let us begin not from a search for secure grounds for accountability, then, but from the very ungroundedness of all forms of giving an account." (this goes in the lyric essays - unknowing)
+>"To be responsible for something — an errant output, a fatal decision, a wrong judgment is less a matter of securing the grounds for the action than a matter of responding even when knowledge is uncertain and the path is unclear."
+
+>"the algorithm promises to complete everything, to condense to a single optimized output and action, and yet [...] opens on to an indeterminate future."
+
+>"they are geared to profit from uncertainty, or to output something that had not been spoken or anticipated"
+>"Though at the point of optimized output, the algorithm places action beyond doubt, there are multiple branching points, weights, and parameters in the arrangements of decision trees and random forest algorithms, branching points at which doubt flourishes and proliferates."
+>"they recognize, misrecognize, and target through their relations with other algorithms, data, and humans, I have also foregrounded the fallibility of the algorithm, its incompleteness and contingency."

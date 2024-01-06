@@ -6,7 +6,7 @@ nav_order: 20
 date: 01.01.2024
 ---
 
-![on kawara "I am still alive"](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
+![](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
 
 # Codes for (Un)Living
 

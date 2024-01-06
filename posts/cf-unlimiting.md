@@ -16,7 +16,7 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 
 # Codes for (Un)Limiting 
 
-### Isolation, Perfection, Scratching at the Walls
+<!-- ### Isolation, Perfection, Scratching at the Walls -->
 
 <!-- (What piece goes with this one?) -->
 <p class='caption'>
