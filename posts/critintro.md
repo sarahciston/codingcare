@@ -10,10 +10,12 @@ tags: [introduction, theory, practice, hybrid, academic]
 # Trans*formative TechnoCraft
 {:.no_toc}
 
+#### Contents
+
 * TOC
 {:toc}
 
-## Critical AI & Creative–Critical Coding Need Each Other
+# Critical AI & Creative–Critical Coding Need Each Other
 
 <p class="quote" markdown=1>
 "I’m stuck here inputting and outputting the data of a story I can't change." 
@@ -38,7 +40,7 @@ We cannot expect technology to solve the problems of technology. But we can recl
 
 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when learning programming and engaging with tech is often so intimidating? How do we keep from further marginalizing those whose perspectives are most necessary in order to face the challenges of emerging technologies and to change them? 
 
-### Critical AI Must Be Intersectional
+## Critical AI Must Be Intersectional
 
 <p class="quote" markdown=1>
 "Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
@@ -65,7 +67,7 @@ Yes, in many cases it would be nice to have more, better data. But the very vali
 
 While the need for AI oversight is clear, many have been calling for total overhaul and algorithmic justice, like computer scientist Joy Buolamwini [@buolamwiniAJLALGORITHMICJUSTICE]. [Still, practical applications of these valid critiques remain difficult to implement.] How do we get there? Intersectional AI calls for demystifying normative AI systems and learning from marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through the technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investments in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022]. As a term, 'Trans\*formative' looks for root causes and radical alternatives to the computational logics that perpetuate [harmful systemic inequities].
 
-### Critical, Intersectional Approaches Mean Creative, Caring Approaches
+## Critical, Intersectional Approaches Mean Creative, Caring Approaches
 <!-- ## We Need Creative–Critical–Caring Approaches  -->
 
 *How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions?*
