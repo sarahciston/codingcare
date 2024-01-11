@@ -66,7 +66,7 @@ To venture to all possible points and exhaust all paths is called Ariadne's thre
 
 ===
 
-Some things I cannot fathom. There are 36,672 stitches in the crocheted labyrinth I made. It took me three months.
+Some things I cannot fathom. There are 36,672 stitches in the crocheted labyrinth I made. It took three months.
 
 The GPT-3 model has 175 billion connections in its neural network. That is almost 5 million labyrinths like mine, taking almost a million years to crochet. GPT-4 may have up to 10 Trillion parameters, but they won't tell us. That would take 57 million years of crocheting. I'd have needed to start shortly after the Cretaceous period to be done by now.
 
@@ -141,15 +141,15 @@ The hagfish ties herself into a knot. She moves the knot of her body over her bo
 
 Wikipedia says a knot is 'an intentional complication'. 
 
-The simplest knot, mathematically, is the unknot. *"The unknot is the least knotted of all knots." "Many knots are but complications of the unknot.* Detecting this trivial knot can be done computationally and is called the "unknotting" problem.
+The simplest knot, mathematically, is the unknot. *"The unknot is the least knotted of all knots." "Many knots are but complications of the unknot."* Detecting this trivial knot can be done computationally and is called the "unknotting" problem.
 
-The Conway knot, created by the same mathematician known for the Game of Life algorithm, has 11 crossings but shares properties/polynomial with the unknot. 
+The Conway knot has 11 crossings but shares properties with the unknot. 
 
 ![Sarah Ciston, "No Knots, Only Loops" installation view, June 2023](../assets/img/anarchies5.jpg)
 
-The spiral is the simplest labyrinth — a duration more than a form. 
-
 The wound-up muscle of the heart is not a knot, although there is a knot called a heart knot. The muscle of the heart is a spiraled double-helix, looped into itself. The heart can be unwound into a flat surface, a slab of meat just like any other muscle. 
+
+The spiral is the simplest labyrinth — a duration more than a form. 
 
 <!-- *"But the knot remembers everything, and has everything to forget. ~~[Untying the knot, therefore, is not a disarticulation. It does not break things into pieces. It is rather a casting off, whence lines that once were bound together go their different ways.]~~"* [^Ingold] (Duality/perpexity. The lines connect to make a point, the points connect to make a line) -->
 
@@ -189,7 +189,7 @@ Threads help to wind a screw. But with too much friction, the threads strip off 
 
 A thread through crochet, a path through a labyrinth — these are means of going through it, getting through it, making it through and transforming, again and again and again. Relation, duration, persistence. 
 
-The labyrinth asks you to cross each point in the possibility space, instead of optimizing for the most efficient route. Walking this labyrinth, you will traverse all 64 square feet twice. 
+The labyrinth asks you to cross each point in the possibility space, instead of optimizing for the most efficient route. Walking a labyrinth, you will traverse its entire surface twice. 
 
 A labyrinth says go slow, get lost, stay in one place. Wind and unwind. 
 
