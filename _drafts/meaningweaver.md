@@ -7,6 +7,16 @@ nav_order: 95
 
 >"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014]
 
+[When/how] did language become mathematical(ized), probabilistic, and spatial(ized)? 
+
+This project is interested in where the acceleration we see requires reductions, in meaning and modes of representation: How did words become vectors—not just numbers but spatialized probabilities—reducing meaning to arrows in latent space? 
+ 
+How do the technical choices that create numerical representations of word fragments (tokens) come to inform large generative text outputs? How do historical developments come to inform those technical choices?
+
+Bernard Geoghegan, Adrian MacKenzie, Louise Amoore, Eve Sedgwick, 
+
+Tokenization produces 'nearness' and 'similarity' (and thereby distance and difference) through statistical processes that claim to reflect real-world conditions. Even when they manage to depict shades of reality, rather than merely their own apparatus, much is lost. What is lost is nearbyness. Layered poetics of meaning. 
+
 
 TOKENIZATION PROCESSES **CREATE/PRODUCE** NEARNESS THROUGH STATISTICAL PROCESSES THAT DO NOT NECESSARILY REFLECT REAL-WORLD CONDITIONS. EVEN WHEN THEY DO, MUCH IS LOST. WHAT IS LOST IS NEARBYNESS, LAYERS AND POETICS OF MEANING. LINGUISTIC CAPITALISM MAY NOT CARE ABOUT THIS, BUT I DO. 
 They literally sort for the most frequent bytes, then pair them and sort for the most frequent of those, then pair those, then sort again and so on. Producing and grouping together, producing nearness. 
@@ -38,11 +48,18 @@ Hydra Transformers.
 >"instead of talking about conflicts among values, Huron spoke of c relations among value vectors."
 >"Even in technical use, vectorization is a tool for abstraction, for t forming ordinary tabular data into malleable orientations in multidimensional space (cf. Mackenzie 2017). Vector spaces are the symbolic terrain on which much of the labor of machine learning works, and they provide a widespread metaphorical language across the software industry. Startup founders describe their employees as vectors; venture capitalists describe the companies they fund as vectors; in ordinary conversation, engineers will describe unrelated things as “orthogonal” to each other."
 
-Computational processing is mechanized reduction, converting only the kinds of information that can be ‘captured’ in numerical representation. Its knowing is not human knowing, though it answers to names like ‘learning’ and ‘understanding’ [1]. Its logics of classification (taxonomies, decision trees, probability) often evoke the same biases as the colonial, racializing logics from which they spring. 
+
+
+Computational processing is mechanized reduction, converting only the kinds of information that can be ‘captured’ in numerical representation. Its knowing is not human knowing, though it answers to names like ‘learning’ and ‘understanding’ [1]. Its logics of classification (taxonomies, decision trees, probability) often evoke the same biases as the colonial, racializing logics from which they spring—and its reduction is what enables its accelerationist project.  
+
+Here I use material 
 
 As a question of scale, the project investigates the sociotechnical processes of machine learning models to understand, for example, how the technical choices that create numerical representations of word fragments will come to inform large-scale generative text outputs, as well as how historical developments came to inform those technical choices. How did language become probabilistic? How did words become vectors, reducing meaning to an arrow in latent space? 
 
-This project has two trajectories: It looks historically, tracing the origins of the language model back to a 1947 memo from Warren Weaver, a cyberneticist bureaucrat. Statistical conceptions of language emerge alongside wartime aerial firing and weapons development, as well as eugenicists' racist beliefs about categorization. The idea takes hold in the cybernetics boom following WWII and connects to developments in cryptography, translation, linguistics, phonology, statistics and probability, cybernetics, taxonomy.
+This project has multiple trajectories: It looks historically, tracing the origins of the language model back to a 1947 memo from Warren Weaver, a cyberneticist bureaucrat. Statistical conceptions of language emerge alongside wartime aerial firing and weapons development, as well as eugenicists' racist beliefs about categorization. The idea takes hold in the cybernetics boom following WWII and connects to developments in cryptography, translation, linguistics, phonology, statistics and probability, cybernetics, taxonomy.
+
+**It also arcs into transformative futures, mapping how these histories project into the present to shape computational conceptions of language and meaning. It imagines other possibilities for these conceptions through alternative metaphors and methods for language models.**
+
 
 ~~How did language become mathematical and probabilistic? That is, how did words become ‘word vectors,’ recasting meaning as an arrow in multidimensional latent space?~~
 

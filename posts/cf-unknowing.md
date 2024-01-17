@@ -172,6 +172,8 @@ I can insist on another's unknowability and stay near it. I can let it texture m
 
 ===
 
+>"A representation that admits uncertainty as part of its structure can improvise knowledge."[^Robertson]
+
 ![](../assets/img/pipi-under.jpg)
 
 <!-- === -->
@@ -189,6 +191,9 @@ I can insist on another's unknowability and stay near it. I can let it texture m
 [^Ashby]: Ashby, W. R. (1956). *An introduction to cybernetics*. Chapman & Hall.
 
 [^Moten]: Harney, S., & Moten, F. (2021). *All Incomplete*. Minor Compositions.
+
+[^Robertson]: Robertson, L. (2012). *Nilling: Prose essays on noise, pornography, the codex, melancholy, lucretius, folds, cities and related aporias* (Second edition). BookThug.
+
 
 
 

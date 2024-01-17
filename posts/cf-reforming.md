@@ -8,9 +8,37 @@ date: 01.01.2024
 
 # Codes for (Un)(Re)Forming
 
+<!-- what is this a review of, two voices. of being femme-presenting. -->
+
 VALIE EXPORT & GLITCH FEMINISM (un)___ing (un)femmeing [future feminist machine museum]
 
 The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's been violated, when I don't have enough space or when I'm taking [up] too much. Otherwise just "the body, body, vessel, hungry thing, tired and aching thing." A tool only aware of when broken. My name sounds strange in anyone's mouth, the time it takes for me to realize you mean me. I read on a tiktok this is called Depersonalization. I read on a tiktok that I watched on an instagram reel that this is called Depersonalization, and this is how removed from the real I feel and you wonder why. Baudrillard called this hyperreal and Timothy Morton talked about hyperobjects and now the machine learning types want to make hyper models that train other models and what would be enough? How far from myself can you get? 
+
+I like a ponytail if it's impossibly high. Or eyeliner as armor. In a room full of femme, we found we all had some kind of aesthetic-as-armor, mine was ridiculous lipstick, most of them had eyeliner or mascara they wouldn't go to work without. We all had a need for the armor too. 
+
+The symbols for mathematical notation, crochet notation, electrical notation, and alchemical notation have much in common.
+
+<!-- ⌁⌁⌁ techno &#x2301;
+⌇⌇⌇craft &#x2307;
+⏦⏦⏦ trans &#x23E6;
+꩜꩜꩜ formative &#xAA5C;
+\* asterisk 
+⏝⏜
+⏛ fuse
+⌑ square lozenge
+∤ does not divide
+⊀ does not precede
+∄ unicode "There Does Not Exist" -->
+<!-- 
+ˇ opt shift t
+‡ opt shift 7
+° opt shift 8
+¨ opt shift u
+” opt shift open bracket
+˘ opt shift period
+->
+
+
 
 <!-- >"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014] -->
 
@@ -57,10 +85,10 @@ we cobble together collaborations from "i'll meet you on zoom and slack and this
 The public transit company that runs the trains in Berlin wrote and produced a musical and people paid to go see it and it sold out in minutes and they live streamed it into our homes — now that's cross-platform branding (literally). 
 <!-- One of the train lines has been running off schedule for months because of something that translates from German as "cable theft" but I think actually means cable ice?  -->
 
-![time lapse photo of train running on train station with people beside during daytime](https://images.unsplash.com/photo-1466338323166-f93e7299d3dd?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxOTA3MDh8MHwxfHNlYXJjaHwzfHxwbGF0Zm9ybXxlbnwwfHx8&ixlib=rb-1.2.1&q=85)
+<!-- ![time lapse photo of train running on train station with people beside during daytime](https://images.unsplash.com/photo-1466338323166-f93e7299d3dd?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxOTA3MDh8MHwxfHNlYXJjaHwzfHxwbGF0Zm9ybXxlbnwwfHx8&ixlib=rb-1.2.1&q=85)
 *Photo by [Reginar](https://unsplash.com/@reginar?utm_source=jotterpad&utm_medium=referral&utm_campaign=api-credit)
 ![white metal tower](https://images.unsplash.com/uploads/1411156081190e9e751d9/c81ee291?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxOTA3MDh8MHwxfHNlYXJjaHwyMXx8cGxhdGZvcm18ZW58MHx8fA&ixlib=rb-1.2.1&q=85)
-*Photo by [Kaleb Nimz](https://unsplash.com/@kalebnimz?utm_source=jotterpad&utm_medium=referral&utm_campaign=api-credit)
+*Photo by [Kaleb Nimz](https://unsplash.com/@kalebnimz?utm_source=jotterpad&utm_medium=referral&utm_campaign=api-credit) -->
 
 <!-- Elsewhere I have written "an app could include everything I've been researching? strawflower/i'm still alive? what would i do with it as a performance?" "A creative writing code-creative-critical lyric essay hybrid digital work imbued with data xr ar read over zoom experienced through plexiglass something about how we are together not together keeping it barely together" -->
 
@@ -92,9 +120,9 @@ I bend my body to the plugins, wondering if language grows inside the bones the 
 
 I look for free stock image of this but the options are all too pleasant. 
 
-![](https://unsplash.com/photos/UY1AaiAu67E)
+<!-- ![](https://unsplash.com/photos/UY1AaiAu67E)
 ![](https://unsplash.com/photos/JwsBVBcF-JQ)
-![](https://unsplash.com/photos/B0XmOAjZgvc)
+![](https://unsplash.com/photos/B0XmOAjZgvc) -->
 
 # Glitch Femme, Broken Machine // Codes for (re)forming
 hunger makes me a modern girl
@@ -121,8 +149,8 @@ sundén-on trans-, glitch, and gender as the machinery of failure
 >"Gender glitch art is the kind of gender performances that consciously break the ﬂow of gender, that proudly stage the many ways in which gender is broken, and can be broken. It celebrates contrasts, inconsistencies, irregularities and imperfections." (Sundén)
 >"high fidelity gender strives toward impossibly seamless perfection along the lines of equally impossibly pure femininity and masculinity. Gender as high fidelity is a transparent gender experience that transcends mediation, which performs an act of forgetting about the technologies of gender (which make such an erasure possible in the ﬁrst place)." (Sundén)
 >"Glitch is that which betrays …, it is the beauty and simultaneously the sadness and pain of crashing and skipping, which ultimately emphasizes the fragility…" (Sundén)
->"The promise of glitch gender is precisely that it can never be fully known, never fully controlled […]. The promise of glitch is the fact that there is something unruly - or agential - at the very core of how gender works technologically." (Sundén)
->"Gender glitch holds a similar potential - to infiltrate, make dirty, and ultimately put pressure on the norms of pure gender high ﬁdelity." (Sundén)
+>"The promise of glitch gender is precisely that it can never be fully known, never fully controlled […]. The promise of glitch is the fact that there is something unruly—or agential—at the very core of how gender works technologically." (Sundén)
+>"Gender glitch holds a similar potential—to infiltrate, make dirty, and ultimately put pressure on the norms of pure gender high ﬁdelity." (Sundén)
 "vulnerability / technological anticipation / materiality and fragility" (Heidegger's at hand vs) 
 >"continue this work of not working well. Broken Machines are powerful purveyors of mayhem and confusion." (Sharma)
 >"Feminists are rendered an always already obsolete technology that isn't working properly. Feminists are the faulty aberration in a long line of otherwise efficient technologies that have been designed for caretaking and reciprocating love in a male- dominated world. Feminists are as useful as a vacuum that has lost suction. They are as disappointing as a light that won't turn on. If women don't want to fulfill their positions within a patriarchal society, there are other toys and technologies that will do this work."
@@ -145,7 +173,7 @@ ruja benjamin 
 >"glitches are not spurious, but rather a kind of signal of how the system operates" (Benjamin)
 [[notesTowardPlatforms]]
 Queer codes and platforms. Make a note how these are related.
-The physical therapist today says when I work on muscle strength I will no longer have to contort to strange shapes to hold my body up. I think, "That's just how queer folks sit in chairs, haven't you seen the memes? It was one of the first moments my curling in on myself - that invisibility - felt okay. If I find the muscles in my body will I no longer be queer, will I straighten, be seen?" This glitch of me, how I am a broken girl.
+The physical therapist today says when I work on muscle strength I will no longer have to contort to strange shapes to hold my body up. I think, "That's just how queer folks sit in chairs, haven't you seen the memes? It was one of the first moments my curling in on myself—that invisibility—felt okay. If I find the muscles in my body will I no longer be queer, will I straighten, be seen?" This glitch of me, how I am a broken girl.
 
 
 What uncomfortable affects/emotions emerge when we are brought into process? When the veil falls away that divided the maker from the audience? What do process-oriented modes reveal that we don't want to see? Neoliberal disgust with imperfection. The labor being asked of us, the labor we place upon ourselves. 
@@ -157,7 +185,7 @@ What uncomfortable affects/emotions emerge when we are brought into process? Whe
 "Everything will be taken away" said Adrian Piper
 
 The glitch pronoun not only she/they/he/ze but I/we/you the pronoun glitches whenever I try to write. I am a broken pronoun machine because I know there is no self inside this I. And when anyone calls my name I am confused, there is a short glitch before I realize they mean me, this corporeal assemblage. 
-And I feel like the cameras on my front and back like VALIE [hiking/tromping] through fields, tipping side to side and crawling through the air to make strange pictures in stereo vision, an animal with wild eyes. This was 19XX and now we all have the front-back camera you embodied. 
+And I feel like the cameras on my front and back like VALIE tromping through fields, tipping side to side and crawling through the air to make strange pictures in stereo vision, an animal with wild eyes. This was 19XX and now we all have the front-back camera you embodied. 
 
 [XXXCUT?][I know I say we too much and am constantly asked who is the we and I bristle at the the, the I. We cannot be pinned down. Will not be canny. I am a we and it was fine (in a “this is fine” way) when Whitman contained multitudes so queerly well it wasn’t fine we couldn’t get married for a long while, were getting dragged behind F350s, and marriage isn’t the goal, it’s ah ah ah ah staying alive and I still don't know what I need, it isn’t marriage, it’s immortality, immutability, for everything trans and nothing to ever change. The we is a queering, if I and if we, and I like/don’t-like how it bristles you, it destabilizes what was never really stable in the first place. I say we because there is no I, I will not do. I only need I to do the every day of being alive. I know I'm not the only one. I am influenced and small. I am an incoherent indiscrete blob and I refuse definition's edges. What I mean is, if there were enough me to have agency I would refuse it. This micro biome and I, we do the refusing. This tool I leverage (twist, lever, wedge, only on the scale of mechanical physics does this work) to get through today, this I that feels this 'this is fine' this 'this' just is.]
 >And no "me" and just fine. And the yous and this we don't have names but we don't need them, the we is an endless, ever-expanding, and always-unresolved collection of queering blobs. I'm a we. "Me and you have been together for quite some time, we've seen some things together and we've been through some things. Maybe it was for a minute, maybe it's been the entirety of your life that we’ve been together, me."
@@ -167,3 +195,34 @@ And I feel like the cameras on my front and back like VALIE [hiking/tromping] th
 
 >"“Glitch feminism urges us to consider the in-between as a core component of survival—neither masculine nor feminine, neither male nor female, but a spectrum across which we may be empowered to choose and define ourselves for ourselves.”
 >“glitch is celebrated as a vehicle of refusal, a strategy of nonperformance. This glitch aims to make abstract again that which has been forced into an uncomfortable and ill-defined material: the body.”
+
+
+Describe a profound encounter with art. Specifics, the emotion, movement, epistolary. 
+
+valie export, sadie benning sucking her thumb, [who] tits against plate glass
+
+sadie, valie, I wanna be real cool. I wanna set my works to rock and roll. 
+
+There's the works you know, touch cinema, tits in a box, what happens in darkness, inverting the darkness of [what kind of theaters where you hide to get a handjob?] to show the person doing feeling up, the peepshows where the woman is in a box where you cannot touch, new york smut theatres to open streets, nothing to see here, Ono's cut piece, What are you willing to do in public to another person if given permission, if not given permission? This is the broken machine 
+
+I want your tattoo of a garter pinned to my leg and call it praxis. 
+
+Pin your garter tattoo to my leg and call it praxis. 
+
+Twenty four sewing machines causing a din, puncturing, puncturing, puncturing, puncturing. 
+
+I saw a slo-mo clip of a sewing machine working its needle into fabric everso [softly, no slowly] the sound cachunking and it was the most erotic fuck I have seen not be censored by an algorithm, I watched it over and over. 
+
+But sped up, multiplied, this is about scale here, slowed it becomes uncanny, sped it becomes industrial, militaristic. Both are charged with the heat of something other than themselves, which they always contained, those women in their sewing rooms knew it, those broken needles and [backwards stitches] knew it all along
+
+This is a one-star review of the femme. And a five-star review at the same time. Blending a one-star and a five star review. 
+
+Your pants with the cut-away crotch, motorcycle attitude, murder chic, fuck-you chic, dare-you-to look. 
+
+VALIE using your bodie this way as an instrument, they don't like it, this is the broken machine, because it works too well, it says, here I'll sell it right too you. It makes the facimilie of the performance of the pretend thing a little too clear, while making it rugged, showing its edges, showing me looking. 
+
+Sadie does this too, queers and blurs it with the music, the thumb sucking, the slow dancing, making me want to. 
+
+"“She said, 'Go ahead, fall in love with me. What else do you have to do?'"
+
+This making me want to look and linger is the glitch and the smooth edge at the same time? It is the cut in the fabric and the stitch repairing it. [no]

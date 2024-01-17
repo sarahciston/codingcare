@@ -3,14 +3,14 @@
 title: codes for (un)living
 permalink: unliving
 nav_order: 20
-date: 01.01.2024
+date: 01.16.2024
 ---
 
 ![](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
 
 # Codes for (Un)Living
 
->"Find something to adore and keep talking to it." –Martin Shaw [-@shawCourtingWildTwin2020]
+>"Find something to adore and keep talking to it." –Martin Shaw -[@shawCourtingWildTwin2020]
 
 I am still alive, On Kawara.  It takes so much: To get up, at a time. To make a painting. To make a day. Day after day. You fit this feeling in a postcard. You report the dailiness and so it is remarkable.
 
@@ -30,11 +30,11 @@ I got up at 9:50am. I woke up several times before that, but I didn't get up. In
 
 On Kawara, how were you feeling on APR 3 1969? I triangulate a mood from two separate pieces you made that day. Some days you made contributions to many datasets. Along with 'I am still alive' and 'I got up at', you often made 'I went' and 'I met', which indexed your daily travels (on a map) and interpersonal encounters (in a list of names). On APR 3 1969 you got up at 2:56 PM and made a very tight path around your neighborhood in Manhattan. Just four blocks by four blocks. Maybe you only went out to mail the postcard that said 'I GOT UP AT' and to eat or to shop for a meal. Maybe you didn't eat. I assume you met with no one, because I could not find the data. Although you were still alive, you sent no telegram to confirm. 
 
-I recognize such knotted neighborhood walks in my slowest days. I don't mark these patterns down with red pen (except for one photography project in college in which I traced everywhere I drove in Los Angeles on a map before Google Maps did this for me), but I have always seen my 'self' from this angle — small, [on a map,] abstract in relation to concepts like 'north'. I notice how little my movements cover the earth. I like places where I can get up high or see far, until the horizon seems to curve. I think, 'I am on a planet', and the smallness I already feel is more palpable. 
+I recognize such knotted neighborhood walks in my slowest days. I don't mark these patterns down in red pen (except for one photography project in college in which I traced everywhere I drove in Los Angeles on a map before an app did this for me), but I have always seen my 'self' from this angle — small, [on a map,] abstract in relation to concepts like 'north'. I notice how little my movements cover the earth. I like places where I can get up high or see far, until the horizon seems to curve. I think, 'I am on a planet', and the smallness I already feel is more palpable. 
 
-On other days, when I am more in a body, I notice how much space it takes up — how it barely fits where it's told and it aches and it moves like my mother's body now. I worry how much ecological impact it contributes. I let in all these tracing technologies to admit to the uncanny feeling I already have. But the sense of being traced by satellites, is not your telegram path or paintbrush. This is something different from presence and displacement. [Attunement is not technical alignment.] Despite all my settings, I know the maps know where I am. I know my mom can pull up her phone and find me: a tiny dot pulsing, still a 'live' representation.[^a-life] I leave this on because she likes it more than it bothers me. If a drone can find me, my mom might as well, too. 
+On other days, when I am more in a body, I notice how much space it takes up — how it barely fits where it's told and it aches and it moves like my mother's body now. I worry how much ecological impact it contributes. I let in all these tracing technologies to admit to the uncanny feeling I already have. But the sense of being traced by satellites is not your telegram path or paintbrush. This is something different from presence and displacement. [Attunement is not technical alignment.] "Melancholy is a latent or paused anticipation of something necessarily unknowable" [@robertsonNillingProseEssays2012]. Despite all my settings, I know the maps know where I am. I know my mom can pull up her phone and find me: a tiny dot pulsing, still a 'live' representation.[^a-life] I leave this on because she likes it more than it bothers me. If a drone can find me, my mom might too. 
 
-[^a-life]: How did 'live' come to mean 'current' instead of 'to live' or 'alive'? Conway's Game of Life is the best known example of 'a-life', or what's called artificial life, a basic algorithm in which a small set of rules play out into infinite complexity over thousands of cycles. Its shapes can be followed like an unnatural ant farm: 'gliders', 'guns', 'crawlers', and 'eaters'. Nothing about this feels 'lively' to me, so I must think of life as something. Its patterns look to me instead like knitting patterns for lacework. 
+[^a-life]: How did 'live' come to mean 'current' instead of 'to live' or 'alive'? Conway's Game of Life is the best known example of 'a-life', or what's called artificial life, a basic algorithm in which a small set of rules play out into infinite complexity over thousands of cycles. Its shapes can be followed like an unnatural ant farm: 'gliders', 'guns', 'crawlers', and 'eaters'. Nothing about this feels 'lively' to me, so life must be something else. Its patterns look to me instead like knitting patterns for lacework. 
 
 ===
 
@@ -101,7 +101,7 @@ I am still alive. Most days it doesn't feel remarkable or enough. I don't know h
 ===
 
 
-![on kawara "I got up at"](../assets/img/Kawara_IGotUp1036.jpg)
+![](../assets/img/Kawara_IGotUp1036.jpg)
 
 
 <!-- [^Shaw]: Shaw, M. (2020). *Courting the Wild Twin*. Chelsea Green. -->
