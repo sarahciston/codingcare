@@ -62,13 +62,9 @@ Someone reminds me it is not my responsibility to keep other people alive, no ma
 
 But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing at dramatic speed. Unaliving at accelerating pace. 
 
-'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography. We must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`:bee:`an` and `$uicid3`, to con these 'sophisticated'[^nips] systems by hovering in the redacted [neither-and]. 
+'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography, although they do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real. Still we must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`:bee:`an` and `$uicid3`, to con these 'sophisticated' systems by hovering in the redacted [neither-and]. 
 
-[^nips]: They do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real.
-
-And speaking of the void, recently [they] added a Boolean operator to Javascript called Nullish, written `??`. [^Nullish] 
-
-[^Nullish]: I know, right? My feelings exactly.
+And speaking of the void, recently [they] added a Boolean operator to Javascript called Nullish, written `??`. (I know, right? My feelings exactly.)
 
 Nullish distinguishes `null` and `undefined` from `False` and `NaN` (Not a Number), although all of these are considered "Falsy." Nullish hovers liminially in the never-was or maybe-erased. Use plain ol' `null` "when something can optionally exist." Nullish is meant for "when there are multiple ways something can not exist"[@massoHandlingNull]. 
 
@@ -88,7 +84,7 @@ I get text messages almost every day. Some of the messages are reports of forget
 
 I don't get many text messages from my friend, On Kawara, the one to whom I'd like you to explain the stillness. There are no telegrams, no tiny pulsing dot on a map. Every few months I get a meme, or a bulk message of twenty memes. I am learning these must suffice [for friendship]. These mean 'I am still alive'. It's futile to telegram back each day, "Are you?" "Still?" "And now?" 
 
-On Kawara, you tediously completed each date during the day it depicted. Each of your almost 3000 'Today's  was white on monochrome ground. The days "index only themselves" [@kawaraKawaraSilenceOccasion2015]. 
+On Kawara, you tediously completed each date during the day it depicted. Each of your almost 3000 Today's  was white on monochrome ground. The days "index only themselves" [@kawaraKawaraSilenceOccasion2015]. 
 
 Now, how do we index the days?
 
@@ -102,6 +98,45 @@ I am still alive. Most days it doesn't feel remarkable or enough. I don't know h
 
 
 ![](../assets/img/Kawara_IGotUp1036.jpg)
+
+### reading comments
+
+footnotes get skipped over. reading aloud works
+
+unfamiliar, uncanny atmosphere, two novels: David M wittgensteins mistress, christine __meyers Landscape. references. role of tech, dead/living/ communication with past. contemp nonfiction taking tone of postapocalypse. lean into  . hearing it from an AI voice 1000 years from now alone on a loop. 
+
+slashes, word choices, tangible references. data and coding, feels tactile. seeing all together pleasurable even if scared of code it's okay. 
+
+a cumulative effect of on kawara. how the text replicates this, effective. 
+
+six sections distinct chapters, all loops together, progression intros us to code, section four is heavy, movement between i and address, beautifully with larger project. 
+
+approach OK with distance of time diff moment with digital devices, his quiotidian dates/postcards/labor in context of auto tracking/collection, mother's experience of me. expand: 1) anecdotes of people kowara wrote to, commercial, vs friend, analog/epistolary; 2) couldn't see my data art practice, describe more detail, put picture in. 
+
+agree see artwork. sincere, close to writing, caught off guard. strong observation of how we approach mental health with machine learning. medicine and AI used together long time. how far patterns go to describe us or categorize us, where to find a balance. 
+
+technical writing, new categorization of nothingness, does increasing categorization of nothingness make it go away or create another type of order, reads funny next to falsy.
+
+putting my art in conversation with OK's in question with aliveness and what data collection has to do with this. pulled in to what could recognize more easily, the relations, tracking the people: mother, friend. wanted to see the art. the task felt like making those connections between writer's art and their relations' potential aliveness or writers' anxiety, question of care and mothering, triangulation of mother's caring through technology and writer's same care for friend through technology. anchors/structure. 
+
+reminded of hugh lemine, hildegard unknown language, bahnu kapil. reforges new definitions of familial intimacy, when we're asked to reevaluate ourselves as data points. want to hear more about figure of/spectre of the drone: if a drone/mother, appears again at end, harbinger of violence, unexpected, different scale of the other violences, curious about it and difficult to reconcile. 
+
+word choices [/] adds personal encoding, add to the personal on OK's side to parallel own experience. most compelling the language we're using with the personal vs computational "unaliving" stronger connections to the change in our own understanding. more?
+
+grounded in presentness, heartbeat, rhythm, didn't need to see artwork in but as companion, 
+
+Lisa: drawn to granular way addressing pro/con allures and scary aspects of crimes/self body. interesting way in. spectrum. the commercial aspect of the art i discuss, my dissertation part of a larger economic system that expects from me. *the personal being so closely tied to economic interests.* time creates something not tied to a moment because of how pitch things tied to me and not tied to me, the violences opens a way to think about time in a way, what's being recorded, not pinpointing but describing. 
+
+Ashley: tactile, images. font. coding. reflected what text is doing moving through time w different types of technologies. pointing to ideas that as tech advances comm becomes easier but less personal. telegraph/postcards a physical thing vs receiving emojis in months. echo but reflect change in effort and personalization, reflects the distance between people. Syntax: blunt and fragmented, contrast w the research integrated. truncated abruptness reflects the postcards. epistolary to write to someone who is dead, addressing the format, as a way to explicitly address the act of living. 
+
+very visual, presentation as reading in a circle. OK 1000 days 1 million years, performance of reading the numbers 1-100000. writing about displacement and mapping as a dot perspective, way to concider care and safety and embodiment and transencoding. postcard/male documentation. care and how you view someone as family. sleeping section, curious to know more, as a way of dreaming, coretical sleeping. 
+
+not needing to see the artwork, pulsing dot visually present throughout. the dates and time connected w personal experience felt like i was mapping something. transform something cold robotic, distant to personal and breathing. 
+
+
+how someone sends a telegram. the technical stuff. how he made the postcards. 
+
+
 
 
 <!-- [^Shaw]: Shaw, M. (2020). *Courting the Wild Twin*. Chelsea Green. -->

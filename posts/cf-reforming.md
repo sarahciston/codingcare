@@ -219,10 +219,11 @@ This is a one-star review of the femme. And a five-star review at the same time.
 
 Your pants with the cut-away crotch, motorcycle attitude, murder chic, fuck-you chic, dare-you-to look. 
 
-VALIE using your bodie this way as an instrument, they don't like it, this is the broken machine, because it works too well, it says, here I'll sell it right too you. It makes the facimilie of the performance of the pretend thing a little too clear, while making it rugged, showing its edges, showing me looking. 
+VALIE using your 'bodie' this way as an instrument, they don't like it, this is the broken machine, because it works too well, it says, here I'll sell it right to you. It makes the facimilie of the performance of the pretend thing a little too clear, while making it rugged, showing its edges, showing me looking. 
 
 Sadie does this too, queers and blurs it with the music, the thumb sucking, the slow dancing, making me want to. 
 
-"“She said, 'Go ahead, fall in love with me. What else do you have to do?'"
+"“She said, 'Go ahead, fall in love with me. What else do you have to do?'" // "We were going to hollywood"
 
 This making me want to look and linger is the glitch and the smooth edge at the same time? It is the cut in the fabric and the stitch repairing it. [no]
+
