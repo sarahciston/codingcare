@@ -3,7 +3,7 @@
 title: codes for (un)living
 permalink: unliving
 nav_order: 20
-date: 01.16.2024
+date: 17.01.2024
 ---
 
 ![](../assets/img/kawara-telegram-lewitt-still-alive.jpg)

@@ -15,16 +15,21 @@ tags: [introduction, theory, practice, hybrid, academic]
 * TOC
 {:toc}
 
+<article markdown=1>
+<section markdown=1>
+
 # Critical AI & Creative–Critical Coding Need Each Other
 
-<p class="quote" markdown=1>
+<div class='epigraph'>
+<blockquote class="quote" markdown=1>
 "I’m stuck here inputting and outputting the data of a story I can't change." 
 </p>
-<p class="quote attrib" markdown=1>
+<footer class="quote attrib" markdown=1>
 –Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther1995]
-</p>
+</footer>
+</div>
 
-*Trans\*formative TechnoCraft* argues for the essential entanglement of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
+<span class='newthought' markdown='1'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
 The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers in order to distract from the current dangers they perpetuate. Already-toothless policy recommendations are quickly watered down and ignored. Meanwhile more and more data represent less and less diversity, more and more processing power destroys more and more planet. [What is treated as glib fun on one side of the globe is pennies a day and life or death on the other.] But why must it be this way? 
 
@@ -39,6 +44,9 @@ We cannot expect technology to solve the problems of technology. But we can recl
 >"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." [@franklinRealWorldTechnology2004]
 
 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when learning programming and engaging with tech is often so intimidating? How do we keep from further marginalizing those whose perspectives are most necessary in order to face the challenges of emerging technologies and to change them? 
+
+</section>
+<section markdown=1>
 
 ## Critical AI Must Be Intersectional
 
@@ -66,6 +74,9 @@ Yet industry implementations of so-called ethical tech reduce complex concepts i
 Yes, in many cases it would be nice to have more, better data. But the very valid criticism that algorithmic systems are biased because their data are biased — often summed up "garbage in, garbage out" — sets up a quest already doomed to fail. What would be better data? Or an optimized system? For what goal, and for whom exactly? There is no such thing as unbiased, there is only the right tool for the particular job, or a given slice of information from a particular perspective with just enough context for the purposes of a specific task. There is only "good enough" data — and only sometimes, for some tasks. When the stakes are too high, no data could be good enough to make life or death decisions. We need a different approach. We cannot rely on computational systems for infallibility and rationality, as we have been, nor can we look to these technologies uncritically as bandaids for the problems they exacerbate.
 
 While the need for AI oversight is clear, many have been calling for total overhaul and algorithmic justice, like computer scientist Joy Buolamwini [@buolamwiniAJLALGORITHMICJUSTICE]. [Still, practical applications of these valid critiques remain difficult to implement.] How do we get there? Intersectional AI calls for demystifying normative AI systems and learning from marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through the technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investments in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022]. As a term, 'Trans\*formative' looks for root causes and radical alternatives to the computational logics that perpetuate [harmful systemic inequities].
+
+</section>
+<section markdown=1>
 
 ## Critical, Intersectional Approaches Mean Creative, Caring Approaches
 <!-- ## We Need Creative–Critical–Caring Approaches  -->
@@ -110,6 +121,9 @@ In my experience, this imaginative work is central to supporting very practical 
 >"Bots can make arguments. [...] bots exist to shine a light on how things already work, but also to test the edge cases, and to propose alternatives. [...] bots are procedures against procedures." -Allison Parrish, "Procedure vs Procedure"
 
 >"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
+
+</section>
+<section markdown=1>
 
 # What Is Trans\*formative TechnoCraft?
 
@@ -636,6 +650,7 @@ New projects are growing from the seeds of these works. [XXX][this list won't st
 - **"How Words Became Vectors":** Research mapping the sociotechnical histories of computational language representation 
 - **Future Feminist Machine Musueum:** Institution for realizing critical–creative community projects on machine learning through intersectional lenses
 
+</article>
 
 <!-- >If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell) -->
 
