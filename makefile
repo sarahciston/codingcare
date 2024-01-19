@@ -5,11 +5,11 @@
 
 FLAGS = \
 		-s -f markdown+rebase_relative_paths+yaml_metadata_block \
-		-t pdf posts/cf-reforming.md metadata.yml \
+		-t pdf posts/critintro.md metadata.yml \
 		--pdf-engine=xelatex \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
-		-o "/Users/sarahciston/Desktop/06-forming.pdf"
+		-o "/Users/sarahciston/Desktop/critintro.pdf"
 
 # %.pdf: %.md 
 # 	   pandoc -o $(OUTPUT)/$@ $(FLAGS) $(INPUT) $(METADATA) $<

@@ -10,14 +10,14 @@ tags: [introduction, theory, practice, hybrid, academic]
 <!-- # Trans*formative TechnoCraft -->
 <!-- {:.no_toc} -->
 
-#### Contents
+<!-- #### Contents -->
 
 * TOC
 {:toc}
 
-<article markdown=1>
+<article markdown='1'>
 
-<section markdown=1>
+<section markdown='1'>
 
 # Critical AI & creative–critical coding need each other
 
@@ -44,7 +44,7 @@ Yet, how do we participate on our own terms, in order to change systems to suit 
 
 </section>
 
-<section markdown=1>
+<section markdown="1">
 
 ## Critical AI must be intersectional
 
@@ -71,7 +71,7 @@ Yes, in many cases it would be nice to have more, better data. But the very vali
 While the need for AI oversight is clear, many have been calling for total overhaul and algorithmic justice, like computer scientist Joy Buolamwini [@buolamwiniAJLALGORITHMICJUSTICE]. [Still, practical applications of these valid critiques remain difficult to implement.] How do we get there? Intersectional AI calls for demystifying normative AI systems and learning from marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through the technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investments in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022]. As a term, 'Trans\*formative' looks for root causes and radical alternatives to the computational logics that perpetuate [harmful systemic inequities].
 
 </section>
-<section markdown=1>
+<section markdown="1">
 
 ## Critical, intersectional approaches mean creative, caring approaches
 <!-- ## We Need Creative–Critical–Caring Approaches  -->
@@ -118,7 +118,7 @@ In my experience, this imaginative work is central to supporting very practical 
 >"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
 
 </section>
-<section markdown=1>
+<section markdown="1">
 
 # What is Trans\*formative TechnoCraft?
 
@@ -378,7 +378,7 @@ Approaching technology through the lens of craft slows it down and asks it to su
 
 Feminist servers run slowly. Sustaining them takes "years of intense collective learning," replete with uncomfortable tensions and messy differences. These very ambivalances, argues Ines Kleesattle, are crucial for Feminist Server Art, because they demonstrate the relational labor going unseen in other approaches to technology. "All kinds of infrastructures involve service, maintenance, and care labor" (Kleesattel in [@sollfrankAestheticsCommons2021]). When giant data centers run in a far-flung artic landscapes, and large language models siphon water and energy and human effort for their training, these "cloud" technologies are not ephemeral or immaterial – and feminist projects move slowly to enact the material, relational stakes in all digital interactions, to show how they might be organized with more awareness and care. 
 
-In ["A Traversal Network of Feminist Servers,"](https://atnofs.constantvzw.org/) six communities <label markdown=1 for='sn-traversal' class='margin-toggle sidenote-number'></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class='sidenote' markdown=1>[Constant](https://constantvzw.org/site/), [varia](https://vvvvvvaria.org/en/), [Hypha](https://hypha.ro/ATNOFS), [Lurk](https://lurk.org/), [Esc Mkl](https://esc.mur.at/en/), [Feminist Hack Meetings](https://www.centrefeministmedia.arch.uth.gr/). Additional projects in the spirit of or related: [Open Source Kitchen](http://osp.kitchen/), [Anarchaserver](https://anarchaserver.org/).</span> connected to discuss their feminist infrastructure projects, which ask questions such as: 
+In ["A Traversal Network of Feminist Servers,"](https://atnofs.constantvzw.org/) six communities <label for='sn-traversal' class='margin-toggle sidenote-number'></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class='sidenote' markdown="1">[Constant](https://constantvzw.org/site/), [varia](https://vvvvvvaria.org/en/), [Hypha](https://hypha.ro/ATNOFS), [Lurk](https://lurk.org/), [Esc Mkl](https://esc.mur.at/en/), [Feminist Hack Meetings](https://www.centrefeministmedia.arch.uth.gr/). Additional projects in the spirit of or related: [Open Source Kitchen](http://osp.kitchen/), [Anarchaserver](https://anarchaserver.org/).</span> connected to discuss their feminist infrastructure projects, which ask questions such as: 
 
 >"How can the labour behind hosting be made inclusive, convivial, shared, visible not only in moments when things go wrong? In what ways does the language embedded in server administration influence the practices and interactions around it? How can servers be pedagogical spaces for experimentation for those with different knowledges?" [varia email list 28.11.2023]
 

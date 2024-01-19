@@ -62,11 +62,12 @@ body {
     }
 } */
 
+
 h1 {
     font-weight: 400;
     margin-top: 4rem;
     margin-bottom: 1.5rem;
-    font-size: 3.2rem;
+    font-size: 3rem;
     line-height: 1;
 }
 
@@ -128,8 +129,8 @@ p,
 dl,
 ol,
 ul {
-    font-size: 1rem;
-    line-height: 1.4rem;
+    font-size: 1.2rem;
+    line-height: 1.7rem;
 }
 
 p {
@@ -164,7 +165,7 @@ div.epigraph > blockquote > footer > cite {
 /* end chapter epigraphs styles */
 
 blockquote {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 blockquote p {
@@ -215,7 +216,7 @@ figcaption {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 0.8rem;
-    line-height: 1.1rem;
+    line-height: 1.7rem;
     vertical-align: baseline;
     position: relative;
     max-width: 40%;
@@ -276,7 +277,8 @@ img {
 /* sup id="fnref:demo" ; a href="#fn:demo" */
 
 
-
+.nav,
+.nav-list,
 .sidenote,
 .marginnote,
 [id^="fn:"] {
@@ -287,7 +289,7 @@ img {
     margin-top: 0.3rem;
     margin-bottom: 0;
     font-size: 0.8rem;
-    line-height: 1.1;
+    line-height: 1.1rem;
     vertical-align: baseline;
     position: relative;
 }
