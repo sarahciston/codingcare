@@ -12,21 +12,20 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 #### Contents
 
-<!-- * TOC
-{:toc} -->
+* TOC
+{:toc}
 
 <article markdown=1>
 
 <section markdown=1>
 
-# Critical AI & Creative–Critical Coding Need Each Other
+# Critical AI & creative–critical coding need each other
 
 <div class='epigraph'>
-
+<blockquote>
 <p class="quote" markdown=1>"I’m stuck here inputting and outputting the data of a story I can't change."</p>
-
 <footer class="quote attrib" markdown=1>–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther1995]</footer>
-
+</blockquote>
 </div>
 
 <span class='newthought' markdown='1'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
@@ -49,11 +48,14 @@ Yet, how do we participate on our own terms, in order to change systems to suit 
 
 <section markdown=1>
 
-## Critical AI Must Be Intersectional
+## Critical AI must be intersectional
 
-<blockquote class='epigraph'>
+<div class='epigraph'>
+<blockquote>
 <p class="quote" markdown=1>"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."</p>
-<footer class="quote attrib" markdown=1>–Frieder Nake, "There Should Be No Computer Art," 1971 [-@nakeThereShouldBe1971]</p>
+<footer class="quote attrib" markdown=1>–Frieder Nake, "There Should Be No Computer Art," 1971 [-@nakeThereShouldBe1971]</footer>
+</blockquote>
+</div>
 
 Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro.<label for="sn-amaro" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-amaro" class="margin-toggle"/><span class="sidenote">[-@amaroBlackTechnicalObject2022]</span> Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
 
@@ -76,7 +78,7 @@ While the need for AI oversight is clear, many have been calling for total overh
 </section>
 <section markdown=1>
 
-## Critical, Intersectional Approaches Mean Creative, Caring Approaches
+## Critical, intersectional approaches mean creative, caring approaches
 <!-- ## We Need Creative–Critical–Caring Approaches  -->
 
 *How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions?*
@@ -123,7 +125,7 @@ In my experience, this imaginative work is central to supporting very practical 
 </section>
 <section markdown=1>
 
-# What Is Trans\*formative TechnoCraft?
+# What is Trans\*formative TechnoCraft?
 
 <!-- Who am I? I'm a poet-programmer based who loves building community through creative-critical code. I am white, queer, nonbinary, and from the Ozarks, which is the ancestral home of the Osage and Kickapoo Nations. Currently, I'm a PhD Candidate at [USC's Media Arts and Practice division](https://map.usc.edu/phds/) and an Associated Researcher at the [Humboldt Institute for Internet and Society](https://www.hiig.de/) in Berlin. I lead [Code Collective](https://creativecodecollective.com/), which since 2019 has been an open community for co-learning programming using approachable, interdisciplinary strategies.  -->
 
@@ -207,7 +209,7 @@ The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII jo
 
 [^sn-Q]: As of this writing, the newly announced Q*, Open AI's latest project, promises again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023], at the same time as "The Gospel" AI system is used in Isreal to select and increase its bombing targets [hand over fist] [@daviesGospelHowIsrael2023]. [The snake eats itself, the war tech that was being developed at the same time as the beginning of AI, now AI being used for war.] (Warning of the future dangers of AI is a marketing strategy (GPT-2 was a 'too big and too dangerous to release technology and GPT-4 is pay-to-play) and worse it is a distraction from the current dangers they impose, like The Gospel and in more subtle forms.)[XXX]
 
-[xxx][Nearness sections moved to conclusion from here]
+<!-- [xxx][Nearness sections moved to conclusion from here] -->
 
 ### Formative 
 
@@ -493,7 +495,7 @@ These forms of refusal replace what they reject with alterative visions for more
 
 >"Embracing the nuances of crafted art forms [...] exemplifies the non-linear, embodied, diffractive ways of reading, interpreting, and understanding the world while questioning what AI tools can do and the extent to which craftspeople have a say in what AI tools should be doing instead. I contend that AI does not produce newness but rather 'newly' suggests how craftspeople have always been creative agents for shaping the future of culturally and visually-informed algorithmic systems." [@reddyReadingAIFamily]
 
-# def main(): What's Included
+# What's included
 
 Each section of Trans\*formative TechnoCraft puts its thinking into action — tackling related aspects in different forms and for different audiences. The parts combine to enact the ethics and tactics described in this introduction. Together these public-facing resources provide plainspoken translations of technical, critical, aesthetic, and ethical concepts relevant to technology. They are written in approachable, non-academic formats like zines, and produced in contexts like workshops, in order to support discussions across communities of practice — including code creators, AI researchers, and marginalized outsiders — toward understanding the urgency of the issues facing automated technologies and the necessity of each other's skill sets in facing these issue. 
 
@@ -572,9 +574,9 @@ OBJECTIVES: Through the Intersectional AI Toolkit, the need for plural perspecti
 
 <!--  Mattern: [@matternUnboxingToolkit2021] [Anthropologist Shannon Mattern details the many complex [lives] of 'kits', which can act as stop gaps for necessary infrastructure (bug out bags, refugee kits) or as "tools of engagement, as methods of inclusion, for broader communities" (rape kits)] --> 
 
-### TRANS: Conclusion & After
+### TRANS: Conclusions by way of trajectories
 
-### Splines, Similarity, and Nearness Vectors
+### Similarity & nearness
 
 The \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) (short for 'linear interpolation' and much more fun to say) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`](https://www.youtube.com/watch?v=jvPPXbo87ds&ab)[^sn-splines] or smoothing. These methods of interpolation are methods of creating or locating nearness and of smoothing the rough journey between. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate value at a position based on values from nearby positions. 
 
@@ -626,7 +628,7 @@ These operations of nearbyness [bring us to form and formative]. The assembling 
 
 This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. 
 
-### Computing New Computations
+### Computing new computations
 
 From the works in this collection, I have begun to get an inkling of a 'compu-poetics' of Nearbyness. What would nearbyness ask of TechnoCraft in order to transform technologies — for example, to move from foundation models that have been built on narrow slices of data and classificatory logics, to transformative models that might unravel them? What does Nearbyness and Trans\*formative TechnoCraft ask of me? 
 
@@ -637,7 +639,7 @@ Through lenses of Trans\*formative TechnoCraft we have discussed, I hope this so
 >"Part of the construction of dominator privilege is you don't have to think about what are those other people thinking, feeling, hoping, dreaming. I think part of transformation is when you open yourself to wanting to know what those people who are not like you are doing, thinking, being." [@hooksbellWhyFamedFeminist2018] 
 
 
-### What's After?
+### What's after?
 
 New projects are growing from the seeds of these works. [XXX][this list won't stay in the diss but i'd like to talk about them in relation to the diss]
 
