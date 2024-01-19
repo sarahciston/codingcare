@@ -7,13 +7,13 @@ date: 01.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
-# Trans*formative TechnoCraft
-{:.no_toc}
+<!-- # Trans*formative TechnoCraft -->
+<!-- {:.no_toc} -->
 
 #### Contents
 
-* TOC
-{:toc}
+<!-- * TOC
+{:toc} -->
 
 <article markdown=1>
 
@@ -24,14 +24,13 @@ tags: [introduction, theory, practice, hybrid, academic]
 <blockquote class='epigraph'>
 <p class="quote" markdown=1>"I’m stuck here inputting and outputting the data of a story I can't change."</p>
 <footer class="quote attrib" markdown=1>–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther1995]</footer>
-</div>
+</blockquote>
 
 <span class='newthought' markdown='1'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
 The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers in order to distract from the current dangers they perpetuate. Already-toothless policy recommendations are quickly watered down and ignored. Meanwhile more and more data represent less and less diversity, more and more processing power destroys more and more planet. [What is treated as glib fun on one side of the globe is pennies a day and life or death on the other.] But why must it be this way? 
 
 >"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with."<label for="sn-sharma" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-sharma" class="margin-toggle"/><span class="sidenote">[@sharmaManifestoBrokenMachine2020]</span>
-</blockquote>
 
 <!-- When Ted Nelson, creator of hypertext, said in 1970 that "computerization can take whatever form we wish it to; therefore we must learn about computers in order to wish better" [@SoftwareInformationTechnology1970], it was still the era of the early internet's false promises of free, democratic, anonymous spaces.  -->
 
@@ -379,7 +378,7 @@ Approaching technology through the lens of craft slows it down and asks it to su
 
 Feminist servers run slowly. Sustaining them takes "years of intense collective learning," replete with uncomfortable tensions and messy differences. These very ambivalances, argues Ines Kleesattle, are crucial for Feminist Server Art, because they demonstrate the relational labor going unseen in other approaches to technology. "All kinds of infrastructures involve service, maintenance, and care labor" (Kleesattel in [@sollfrankAestheticsCommons2021]). When giant data centers run in a far-flung artic landscapes, and large language models siphon water and energy and human effort for their training, these "cloud" technologies are not ephemeral or immaterial – and feminist projects move slowly to enact the material, relational stakes in all digital interactions, to show how they might be organized with more awareness and care. 
 
-In ["A Traversal Network of Feminist Servers,"](https://atnofs.constantvzw.org/) six communities <label markdown=1 for='sn-traversal' class='margin-toggle sidenote-number'></><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class='sidenote' markdown=1>[Constant](https://constantvzw.org/site/), [varia](https://vvvvvvaria.org/en/), [Hypha](https://hypha.ro/ATNOFS), [Lurk](https://lurk.org/), [Esc Mkl](https://esc.mur.at/en/), [Feminist Hack Meetings](https://www.centrefeministmedia.arch.uth.gr/). Additional projects in the spirit of or related: [Open Source Kitchen](http://osp.kitchen/), [Anarchaserver](https://anarchaserver.org/).</span> connected to discuss their feminist infrastructure projects, which ask questions such as: 
+In ["A Traversal Network of Feminist Servers,"](https://atnofs.constantvzw.org/) six communities <label markdown=1 for='sn-traversal' class='margin-toggle sidenote-number'></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class='sidenote' markdown=1>[Constant](https://constantvzw.org/site/), [varia](https://vvvvvvaria.org/en/), [Hypha](https://hypha.ro/ATNOFS), [Lurk](https://lurk.org/), [Esc Mkl](https://esc.mur.at/en/), [Feminist Hack Meetings](https://www.centrefeministmedia.arch.uth.gr/). Additional projects in the spirit of or related: [Open Source Kitchen](http://osp.kitchen/), [Anarchaserver](https://anarchaserver.org/).</span> connected to discuss their feminist infrastructure projects, which ask questions such as: 
 
 >"How can the labour behind hosting be made inclusive, convivial, shared, visible not only in moments when things go wrong? In what ways does the language embedded in server administration influence the practices and interactions around it? How can servers be pedagogical spaces for experimentation for those with different knowledges?" [varia email list 28.11.2023]
 
