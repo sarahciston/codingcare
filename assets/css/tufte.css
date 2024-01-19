@@ -47,7 +47,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-left: 12.5%;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     /* font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; */
     background-color: whitesmoke;
     color: darkslateblue;
@@ -346,7 +346,7 @@ div.table-wrapper {
 }
 
 .sans {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", sans-serif;
     letter-spacing: .03em;
 }
 
