@@ -1,7 +1,7 @@
 ---
 ## Vars
 template: 'mytemplate.tex'
-# documentclass: book
+documentclass: tufte-book
 
 ## Frontmatter
 author: Sarah Ciston

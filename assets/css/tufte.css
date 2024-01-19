@@ -5,7 +5,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;600&family=Jura:wght@400;700&family=Major+Mono+Display&display=swap');
 
-@font-face {
+/* @font-face {
     font-family: "et-book";
     src: url("assets/fonts/et-book-roman-line-figures.woff") format("woff"), url("assets/fonts/et-book-roman-line-figures.ttf") format("truetype");
     font-weight: normal;
@@ -35,7 +35,7 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
+} */
 
 /* Tufte CSS styles */
 html {
@@ -47,7 +47,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-left: 12.5%;
-    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family: 'IBM Plex Mono', monospace;
     /* font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; */
     background-color: whitesmoke;
     color: darkslateblue;
@@ -67,6 +67,7 @@ body {
 
 
 h1 {
+    font-family: 'Jura', monospace;
     font-weight: 400;
     margin-top: 4rem;
     margin-bottom: 1.5rem;
@@ -75,7 +76,8 @@ h1 {
 }
 
 h2 {
-    font-style: italic;
+    font-family: 'Jura', monospace;
+    /* font-style: italic; */
     font-weight: 400;
     margin-top: 2.1rem;
     margin-bottom: 1.4rem;
@@ -84,12 +86,18 @@ h2 {
 }
 
 h3 {
+    font-family: 'Jura', monospace;
     font-style: italic;
     font-weight: 400;
     font-size: 1.7rem;
     margin-top: 2rem;
     margin-bottom: 1.4rem;
     line-height: 1;
+}
+
+h4 {
+    /* font-family: 'Jura', monospace; */
+    font-variant-caps: all-small-caps;
 }
 
 hr {
@@ -112,7 +120,8 @@ p.subtitle {
 }
 
 .numeral {
-    font-family: et-book-roman-old-style;
+    /* font-family: et-book-roman-old-style; */
+    font-family: 'Jura', monospace;
 }
 
 .danger {
@@ -282,9 +291,10 @@ img {
 
 nav {
     float: right;
-    /* position: relative; */
-    /* margin-right: -60%;
-    width: 50%;
+    position: relative;
+    margin-top: 3rem;
+    margin-right: 3rem;
+    /* width: 50%;
     font-size: 0.8rem;
     line-height: 1.1rem; */
 }
