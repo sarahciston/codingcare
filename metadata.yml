@@ -1,0 +1,24 @@
+---
+## Frontmatter
+author: Sarah Ciston
+  # - name: Sarah Ciston
+    # affiliation: University of Southern California
+    # email: ciston@usc.edu
+title: Trans\*formative TechnoCraft
+# abstract: |
+#   This is the abstract.
+date: 18 Jan 2024
+# keywords:
+# thanks:
+
+## Formatting
+fontsize: 10pt
+mainfont: "Palatino"
+# sansfont: "Open Sans"
+# monofont: "Noto Mono"
+margin: 0.5in
+#   margin-right: 0.5in
+#   margin-bottom: 0.5in
+#   margin-left: 0.5in
+# header-includes:
+...

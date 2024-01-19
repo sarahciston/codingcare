@@ -44,7 +44,6 @@ The symbols for mathematical notation, crochet notation, electrical notation, an
 
 <!-- VALIE, you probably didn't mean for me to yell it, but all-caps takes on a different valence now, and so I must. I must yell it across a green green valley like I'm Maria Von Trapp in the Alps I suppose, and I went to Vienna to see your retrospective VALIE and when I was there I was surprised by all the Nazi monuments I accidentally encountered. It's not like Germany, or at least Berlin, where the vibe is very `mea culpa` (to a fault) (what does that even mean), it's more like `oh brass placard by the way here's the gestapo headquarters` This feels like a glitch in google maps when you're walking along in a picturesque city, but no, this is how facism works, picture perfect.  -->
 
-
 russell-glitch feminism
 >"With physical movement often restricted, female-identifying people, queer people, Black people invent ways to create space through rupture" (Russell 7). 
 >"Glitch manifests with such variance, generating ruptures between the recognized and recognizable, and amplifying within such ruptures, extending them to become fantastic landscapes of possibility" (Russell 28).
