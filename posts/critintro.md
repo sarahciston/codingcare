@@ -21,10 +21,13 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Critical AI & Creative–Critical Coding Need Each Other
 
-<blockquote class='epigraph'>
+<div class='epigraph'>
+
 <p class="quote" markdown=1>"I’m stuck here inputting and outputting the data of a story I can't change."</p>
+
 <footer class="quote attrib" markdown=1>–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther1995]</footer>
-</blockquote>
+
+</div>
 
 <span class='newthought' markdown='1'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
