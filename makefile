@@ -5,11 +5,11 @@
 
 FLAGS = \
 		-s -f markdown+rebase_relative_paths+yaml_metadata_block \
-		-t pdf posts/critintro.md metadata.yml \
+		-t pdf posts/cf-reforming.md metadata.yml \
 		--pdf-engine=xelatex \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
-		-o "/Users/sarahciston/Desktop/critintro.pdf"
+		-o "/Users/sarahciston/Desktop/reform.pdf"
 
 # %.pdf: %.md 
 # 	   pandoc -o $(OUTPUT)/$@ $(FLAGS) $(INPUT) $(METADATA) $<
@@ -23,13 +23,11 @@ FLAGS = \
 # output/%.pdf: $(INPUT)/%.md Makefile | output
 # 		pandoc $< -o $@ $(FLAGS)
 
+pdf:
+		pandoc $(FLAGS) 
 
 output: 
 		mkdir ./output
-
-pdf:
-		pandoc $(FLAGS) $<
-
 
 .PHONY: clean
 
@@ -38,6 +36,8 @@ clean:
 
 # open: phony output/book.pdf
 # 		open output/book.pdf
+
+# $<
 
 # mkdir: 
 # 		@if [ ! -e build ]; then mkdir build; fi

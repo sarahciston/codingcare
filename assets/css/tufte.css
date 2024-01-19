@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700&family=Noto+Sans:ital,wght@0,300;0,700;1,300;1,700&display=swap');
 /* Import ET Book styles
    adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;600&family=Jura:wght@400;700&family=Major+Mono+Display&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;600&family=Jura:wght@400;700&family=Major+Mono+Display&display=swap'); */
 
 /* @font-face {
     font-family: "et-book";
@@ -47,7 +48,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-left: 12.5%;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: "Noto Sans", sans-serif;
+    /* font-family: 'IBM Plex Mono', monospace; */
     /* font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; */
     background-color: whitesmoke;
     color: darkslateblue;
@@ -67,7 +69,8 @@ body {
 
 
 h1 {
-    font-family: 'Jura', monospace;
+    /* font-family: 'Jura', monospace; */
+    font-family: 'Noto Sans Mono', monospace;
     font-weight: 400;
     margin-top: 4rem;
     margin-bottom: 1.5rem;
@@ -76,8 +79,9 @@ h1 {
 }
 
 h2 {
-    font-family: 'Jura', monospace;
+    /* font-family: 'Jura', monospace; */
     /* font-style: italic; */
+    font-family: 'Noto Sans Mono', monospace;
     font-weight: 400;
     margin-top: 2.1rem;
     margin-bottom: 1.4rem;
@@ -86,8 +90,9 @@ h2 {
 }
 
 h3 {
-    font-family: 'Jura', monospace;
-    font-style: italic;
+    font-family: 'Noto Sans Mono', monospace;
+    /* font-family: 'Jura', monospace; */
+    /* font-style: italic; */
     font-weight: 400;
     font-size: 1.7rem;
     margin-top: 2rem;
@@ -97,6 +102,7 @@ h3 {
 
 h4 {
     /* font-family: 'Jura', monospace; */
+    font-family: 'Noto Sans Mono', monospace;
     font-variant-caps: all-small-caps;
 }
 
@@ -120,8 +126,9 @@ p.subtitle {
 }
 
 .numeral {
+    font-family: 'Noto Sans Mono', monospace;
     /* font-family: et-book-roman-old-style; */
-    font-family: 'Jura', monospace;
+    /* font-family: 'Jura', monospace; */
 }
 
 .danger {
