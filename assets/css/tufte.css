@@ -253,7 +253,7 @@ a:link, .tufte-underline, .hover-tufte-underline:hover {
 }
 
 /* Adds dark mode */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     a:link, .tufte-underline, .hover-tufte-underline:hover {
         text-shadow: 0.03em 0 #151515, -0.03em 0 #151515, 0 0.03em #151515, 0 -0.03em #151515, 0.06em 0 #151515, -0.06em 0 #151515, 0.09em 0 #151515, -0.09em 0 #151515, 0.12em 0 #151515, -0.12em 0 #151515, 0.15em 0 #151515, -0.15em 0 #151515;
     }
@@ -263,15 +263,21 @@ a:link::selection,
 a:link::-moz-selection {
     text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
     background: #b4d5fe;
-}
+} */
 
 /* Sidenotes, margin notes, figures, captions */
 img {
     max-width: 100%;
 }
 
+/* li id="fn:demo" */
+/* sup id="fnref:demo" ; a href="#fn:demo" */
+
+
+
 .sidenote,
-.marginnote {
+.marginnote,
+li[id^="fn:"] {
     float: right;
     clear: right;
     margin-right: -60%;
@@ -480,3 +486,4 @@ label.margin-toggle:not(.sidenote-number) {
         width: 100%;
     }
 }
+
