@@ -1,7 +1,7 @@
 ---
 ## Vars
-template: 'mytemplate.tex'
-documentclass: tufte-book
+# template: 'mytemplate.tex'
+# documentclass: tufte-book
 
 ## Frontmatter
 author: Sarah Ciston
@@ -9,8 +9,8 @@ author: Sarah Ciston
     # affiliation: University of Southern California
     # email: ciston@usc.edu
 title: Trans\*formative TechnoCraft
-toc-title: Table of Contents
-toc-depth: 3
+# toc-title: Table of Contents
+# toc-depth: 3
 # abstract: |
 #   This is the abstract.
 date: 18 Jan 2024
@@ -29,10 +29,12 @@ margin: 0.5in
 #   margin-right: 0.5in
 #   margin-bottom: 0.5in
 #   margin-left: 0.5in
-# header-includes: |
-    # usepackage{booktabs}
+header-includes: |
+    \raggedright
+    
 # include-before: |
     # ```{=latex}
+    # usepackage{booktabs}
     # \
     # ```
 ...
