@@ -21,20 +21,17 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Critical AI & Creative–Critical Coding Need Each Other
 
-<div class='epigraph'>
-<blockquote class="quote" markdown=1>
-"I’m stuck here inputting and outputting the data of a story I can't change." 
-</blockquote>
-<footer class="quote attrib" markdown=1>
-–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther1995]
-</footer>
+<blockquote class='epigraph'>
+<p class="quote" markdown=1>"I’m stuck here inputting and outputting the data of a story I can't change."</p>
+<footer class="quote attrib" markdown=1>–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther1995]</footer>
 </div>
 
 <span class='newthought' markdown='1'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
 The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers in order to distract from the current dangers they perpetuate. Already-toothless policy recommendations are quickly watered down and ignored. Meanwhile more and more data represent less and less diversity, more and more processing power destroys more and more planet. [What is treated as glib fun on one side of the globe is pennies a day and life or death on the other.] But why must it be this way? 
 
->"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with." [@sharmaManifestoBrokenMachine2020]
+>"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with."<label for="sn-sharma" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-sharma" class="margin-toggle"/><span class="sidenote">[@sharmaManifestoBrokenMachine2020]</span>
+</blockquote>
 
 <!-- When Ted Nelson, creator of hypertext, said in 1970 that "computerization can take whatever form we wish it to; therefore we must learn about computers in order to wish better" [@SoftwareInformationTechnology1970], it was still the era of the early internet's false promises of free, democratic, anonymous spaces.  -->
 
@@ -42,7 +39,7 @@ The stakes are high: technologies like machine learning urgently require transfo
 
 We cannot expect technology to solve the problems of technology. But we can reclaim [technology as a human craft.] With critical engagement, we can work to return more access, investment, and community agency to technology by viewing it through different lenses. We can transform technologies themselves rather than accepting their current shapes.
 
->"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." [@franklinRealWorldTechnology2004]
+>"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." <label for="sn-franklin" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-franklin" class="margin-toggle"/><span class="sidenote">[@franklinRealWorldTechnology2004]</span>
 
 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when learning programming and engaging with tech is often so intimidating? How do we keep from further marginalizing those whose perspectives are most necessary in order to face the challenges of emerging technologies and to change them? 
 
@@ -52,14 +49,11 @@ Yet, how do we participate on our own terms, in order to change systems to suit 
 
 ## Critical AI Must Be Intersectional
 
-<p class="quote" markdown=1>
-"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
-</p>
-<p class="quote attrib" markdown=1>
-–Frieder Nake, "There Should Be No Computer Art," 1971 [-@nakeThereShouldBe1971]
-</p>
+<blockquote class='epigraph'>
+<p class="quote" markdown=1>"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."</p>
+<footer class="quote attrib" markdown=1>–Frieder Nake, "There Should Be No Computer Art," 1971 [-@nakeThereShouldBe1971]</p>
 
-Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro [-@amaroBlackTechnicalObject2022]. Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
+Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro.<label for="sn-amaro" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-amaro" class="margin-toggle"/><span class="sidenote">[-@amaroBlackTechnicalObject2022]</span> Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
 
 Automated decision-making systems disproportionately harm the marginalized majority. We are subject to these systems whenever we lend our data by clicking terms of service pop-ups to make them go away; and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our varying degrees of vulnerability in these moments are exploited and profited on — from testing biometric facial technologies in refugee camps [@neddenBiometrieGetestetMillionen2017] to reinforcement learning reliant on chatbot user responses and content moderation. Much amazing research has highlighted the increasing impacts of AI systems and surveillance capitalism [@benderDangersStochasticParrots2021; @benjaminRaceTechnologyAbolitionist2019; @buolamwiniGenderShadesIntersectional2018; @browneDarkMattersSurveillance2015; @gebruDrTimnitGebru2021; @nobleAlgorithmsOppressionHow2018]. 
 

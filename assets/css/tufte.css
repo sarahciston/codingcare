@@ -47,7 +47,7 @@ body {
     padding-left: 12.5%;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
     background-color: whitesmoke;
-    color: darkslategray;
+    color: darkslateblue;
     max-width: 1400px;
     counter-reset: sidenote-counter;
 }
@@ -277,7 +277,7 @@ img {
 
 .sidenote,
 .marginnote,
-li[id^="fn:"] {
+[id^="fn:"] {
     float: right;
     clear: right;
     margin-right: -60%;
