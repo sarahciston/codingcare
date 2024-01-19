@@ -277,8 +277,15 @@ img {
 /* sup id="fnref:demo" ; a href="#fn:demo" */
 
 
-.nav,
-.nav-list,
+.nav {
+    float: right;
+    position: relative;
+    margin-right: -60%;
+    width: 50%;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+}
+
 .sidenote,
 .marginnote,
 [id^="fn:"] {

@@ -22,7 +22,7 @@ tags: [introduction, theory, practice, hybrid, academic]
 # Critical AI & creative–critical coding need each other
 
 <div class='epigraph'>
-  <blockquote class="quote">"I’m stuck here inputting and outputting the data of a story I can't change."<footer class="quote attrib">–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther1995]</footer>
+  <blockquote class="quote">"I’m stuck here inputting and outputting the data of a story I can't change."<footer class="quote attrib">–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther]</footer>
   </blockquote>
 </div>
 
@@ -49,7 +49,10 @@ Yet, how do we participate on our own terms, in order to change systems to suit 
 ## Critical AI must be intersectional
 
 <div class='epigraph'>
-  <blockquote class="quote">"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'." <footer class="quote attrib">–Frieder Nake, "There Should Be No Computer Art," 1971 [-@nakeThereShouldBe1971]</footer></blockquote>
+  <blockquote>
+    <p class="quote">"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'." </p>
+    <footer class="quote attrib">–Frieder Nake, "There Should Be No Computer Art," 1971 [-@nakeThereShouldBe1971]</footer>
+  </blockquote>
 </div>
 
 Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro.<label for="sn-amaro" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-amaro" class="margin-toggle"/><span class="sidenote">[-@amaroBlackTechnicalObject2022]</span> Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
