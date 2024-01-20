@@ -1,0 +1,49 @@
+\documentclass[9pt]{scrartcl}
+\usepackage{hyperref}
+
+%% inserted to fix a CSL error
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newenvironment{CSLReferences}%
+{\setlength{\parindent}{0pt}%
+\everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces}%
+{\par}
+\def\tightlist{}
+
+\usepackage{geometry}
+\geometry{letterpaper, tmargin=1in, bmargin=1in, lmargin=1in, rmargin=1in }
+
+\raggedright
+\linespread{2}
+
+\usepackage{noto}
+\renewcommand{\familydefault}{\ttdefault}
+% \allsectionsfont{\ttfamily}
+% \usepackage{koma-script}
+
+% \usepackage{scrlayer-scrpage}
+% \addtokomafont{}{\ttfamily}
+% \addtokomafont{chapter}{\ttfamily}
+
+\usepackage{graphicx}
+
+\usepackage[hybrid]{markdown}
+
+%%%
+
+\title{"Trans\*formative TechnoCraft"}
+\author{Sarah Ciston}
+\date{19 Jan 2024}
+\renewcommand{\contentsname}{Table of Contents}
+\setcounter{tocdepth}{3} 
+
+%%%
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+$body$
+
+\end{document}

@@ -1,39 +1,54 @@
 ---
 ## Vars
-# template: 'latex/mytemplate.tex'
-# documentclass: kaobook
+# template: main.tex
+# documentclass: book
 
 ## Frontmatter
 author: Sarah Ciston
 title: Trans\*formative TechnoCraft
-# toc-title: Table of Contents
-# toc-depth: 3
+toc-title: Table of Contents
+toc-depth: 3
 # abstract: |
 #   This is the abstract.
-date: 18 Jan 2024
-bibliography: 'includes/bibliography.json'
+# date: 19 Jan 2024
+# bibliography: 'includes/bibliography.json'
 # keywords:
 # thanks:
 
 
 ## Formatting
-paper: letterpaper
-fontsize: 10pt
+papersize: letterpaper
+linestretch: 1.3
+fontsize: 16pt
+links-as-notes: true
+fontfamily: noto
+# output:
+#     pdf_document:
+#         latex_engine: pdflatex
+# fontsize: 16pt
 # twoside: false
 # open: any
 # chapterentrydots: true
 # numbers: noenddots
-# mainfont: "Palatino"
-# sansfont: "Noto Sans"
+# mainfont: "Noto Sans"
+# sansfont: "Noto Mono"
 # monofont: "Noto Mono"
 # margin: 0.5in
 #   margin-right: 0.5in
 #   margin-bottom: 0.5in
 #   margin-left: 0.5in
-header-includes: |
-    \raggedright
-    \usepackage{noto}
-    \renewcommand{\familydefault}{\sfdefault}
+# header-includes: |
+#     \raggedright
+
+
+# \usepackage{noto}
+
+# \renewcommand{\familydefault}{\sfdefault}
+    
+
+# \linespread{1.3}
+
+# \usepackage[hybrid]{markdown}
 
 
 # \usepackage{fontspec}

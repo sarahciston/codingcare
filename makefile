@@ -4,12 +4,17 @@
 # METADATA = metadata.yml 
 
 FLAGS = \
-		-s -f markdown+rebase_relative_paths+yaml_metadata_block \
-		-t pdf posts/cf-reforming.md metadata.yml \
-		--pdf-engine=xelatex \
+		-s -f markdown+rebase_relative_paths \
+		-t pdf posts/critintro.md \
+	 	--pdf-engine=pdflatex \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
-		-o "/Users/sarahciston/Desktop/reform.pdf"
+		--template=latex/zine.tex \
+		-o "/Users/sarahciston/Desktop/introtest.pdf"
+
+
+# -s -f markdown+rebase_relative_paths+yaml_metadata_block \
+# metadata.yml \
 
 # %.pdf: %.md 
 # 	   pandoc -o $(OUTPUT)/$@ $(FLAGS) $(INPUT) $(METADATA) $<
