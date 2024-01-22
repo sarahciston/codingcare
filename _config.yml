@@ -1,6 +1,9 @@
 # theme: jekyll-theme-minimal
 theme: tufte-pandoc-jekyll
 
+gems:
+  - jekyll-pandoc
+
 title: Trans*formative TechnoCraft
 description: Critical AI needs affirming communities  
 author: Sarah Ciston
