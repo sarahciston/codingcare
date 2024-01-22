@@ -867,7 +867,7 @@ This is not only about meeting people at their skill level (which we absolutely 
 
 I may not care for their approach or their aesthetic — or their politics! But I still *try* to start by understanding what they want to make and why.[^baseline] I do ask questions intended to challenge those approaches and aesthetics (and sometimes politics), but my goal is not to change their mind or make them do it 'my' way. My goal is to make space for them to see options they might not have considered, and to help them explore the options they choose in mindful ways. 
 
-[^baseline]: Understanding what someone wants to express is not the same as tolerating inhumane treatment of myself or others in our space, which we don't abide. These are hard lines, established by our community agreements (see Appendix for examples). If an issue arises, folks are welcome back when they can reframe ideas without questioning the fundamental humanity and right to exist of others.
+[^baseline]: Understanding what someone wants to express is not the same as tolerating inhumane treatment of myself or others in our space, which we don't abide. These are hard lines, established by our community agreements (see Appendices for examples). If an issue arises, folks are welcome back when they can reframe ideas without questioning the fundamental humanity and right to exist of others.
 
 This approach helps more people feel welcome in our meetups. Often it also shifts their stance and their practice in the direction of making more critical and compassionate work, because it models for others the questions they can ask themselves about their own practice. 
 
@@ -1501,7 +1501,7 @@ This pocket guide has argued for technology communities that support pluralism, 
 
 </div>
 
-## [Appendices](appendices)
+<!-- ## [Appendices](appendices) -->
 
 ## [Project Showcase](https://creativecodecollective.com/showcase) 
 
@@ -1511,7 +1511,7 @@ This pocket guide has argued for technology communities that support pluralism, 
 
 <!-- ### Let others help you grow  -->
 
-Pssst... Want more? Check out the miscellaney in [Appendices, addenda, etc](appendices), where I've shoved all the things that wouldn't fit in this "pocket" guide — including some of the books I relied on most while writing, essentials like our community agreement, plus some of the bits and pieces that got us started from lesson plans to the first proposal for Code Collective. For lots more tutorials, readings, and inspiration, you can also head over to the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub) which continues to grow as you add what you've found helpful. And for astounding work by Code Collective members, we made a [Project Showcase](https://creativecodecollective.com/showcase), because we hope it sparks some inspiration for you too.
+Pssst... Want more? Check out the miscellaney in Appendices, addenda, etc, where I've shoved all the things that wouldn't fit in this "pocket" guide — including some of the books I relied on most while writing, essentials like our community agreement, plus some of the bits and pieces that got us started from lesson plans to the first proposal for Code Collective. For lots more tutorials, readings, and inspiration, you can also head over to the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub) which continues to grow as you add what you've found helpful. And for astounding work by Code Collective members, we made a [Project Showcase](https://creativecodecollective.com/showcase), because we hope it sparks some inspiration for you too.
 
 <!-- [XXX][tbd-samir-on-new-group-chapter-at-santa-cruz] -->
 
