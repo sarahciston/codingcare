@@ -53,11 +53,18 @@ links:
   #   - "https://sarahciston.com"
 links_new_tab: true
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
-  parse_span_html: true
-  toc_levels: "1,2,3"
+# markdown: kramdown
+# kramdown:
+#   parse_block_html: true
+#   parse_span_html: true
+#   toc_levels: "1,2,3"
+
+markdown: Pandoc
+pandoc: 
+  extensions:
+    - section-divs
+    - from: 'markdown+tex_math_single_backslash'
+    - filter: 'pandoc-sidenote'
 
 # how do i indicate other folders to include in jekyll conversion again
 
