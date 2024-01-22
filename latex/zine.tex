@@ -1,6 +1,68 @@
-\documentclass[9pt]{scrartcl}
-\usepackage{hyperref}
+%%% MAKE DOC %%%
+% \documentclass[10pt,oneside]{scrbook}
+\documentclass[10pt,twoside]{scrartcl}
+% \documentclass[10pt,twocolumn,landscape]{scrartcl} 
+\setlength{\columnsep}{.5in}
 
+
+%%% LAYOUT %%%
+\usepackage{geometry}
+\geometry{a5paper}
+% \geometry{a5paper, tmargin=0.5in, bmargin=in, lmargin=1in, rmargin=1in }
+
+\setlength{\parskip}{8pt plus 2pt minus 1pt}
+\raggedright
+\linespread{1.3}
+
+
+%%% TYPESET %%%
+\usepackage{fontspec}
+\usepackage{emoji}
+% \setmainfont{Noto Color Emoji}[Renderer=Harfbuzz]
+\setromanfont{Noto Sans}
+\setsansfont{Noto Sans Mono}
+\setmonofont{Noto Sans Mono}
+% \setemojifont{Noto Color Emoji}[Renderer=Harfbuzz]
+\setemojifont{Apple Color Emoji} 
+% \usepackage{noto}
+% \renewcommand{\familydefault}{\sfdefault}
+% \renewcommand{\familydefault}{\ttsubstdefault}
+
+% \allsectionsfont{\ttfamily}
+% \usepackage{koma-script}
+
+% \usepackage{scrlayer-scrpage}
+% \addtokomafont{}{\ttfamily}
+% \addtokomafont{chapter}{\ttfamily}
+
+%%% LINKS %%%
+\usepackage[breaklinks=true]{hyperref}
+\hypersetup{colorlinks,%
+citecolor=black,%
+filecolor=black,%
+linkcolor=black,%
+urlcolor=black}
+$if(url)$
+\usepackage{url}
+$endif$
+
+
+%%% GRAPHICS %%%
+
+\usepackage{graphicx}
+% \setkeys{Gin}{width=0.75\linewidth}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth
+\else\Gin@nat@width\fi}
+\makeatother
+\let\Oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=\maxwidth]{#1}}
+
+\usepackage[hybrid]{markdown}
+% \usepackage{emoji}
+
+
+%%% JUNK %%%
 %% inserted to fix a CSL error
 \newlength{\cslhangindent}
 \setlength{\cslhangindent}{1.5em}
@@ -10,39 +72,34 @@
 {\par}
 \def\tightlist{}
 
-\usepackage{geometry}
-\geometry{letterpaper, tmargin=1in, bmargin=1in, lmargin=1in, rmargin=1in }
 
-\raggedright
-\linespread{2}
+%%% FRONTMATTER %%%
 
-\usepackage{noto}
-\renewcommand{\familydefault}{\ttdefault}
-% \allsectionsfont{\ttfamily}
-% \usepackage{koma-script}
-
-% \usepackage{scrlayer-scrpage}
-% \addtokomafont{}{\ttfamily}
-% \addtokomafont{chapter}{\ttfamily}
-
-\usepackage{graphicx}
-
-\usepackage[hybrid]{markdown}
-
-%%%
-
-\title{"Trans\*formative TechnoCraft"}
+% \title{Other People Are Real}
+\title{Coding.Care}
+\subtitle{Field notes for making friends with code}
 \author{Sarah Ciston}
-\date{19 Jan 2024}
-\renewcommand{\contentsname}{Table of Contents}
-\setcounter{tocdepth}{3} 
+\date{\today}
 
-%%%
+% TOC & section formatting
+\setcounter{tocdepth}{2} 
+\setcounter{section}{-1}
+
+
+%%% CONTENT %%%
 
 \begin{document}
 
 \maketitle
+
+\newpage
+
+\renewcommand*\contentsname{Table of Contents}
 \tableofcontents
+% \listoffigures
+\newpage
+% \chapter*{Abstract}
+% XYXYXYXYX This is the abstract.
 
 $body$
 

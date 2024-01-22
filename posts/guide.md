@@ -1,6 +1,7 @@
 ---
 # layout: post
 title: Coding.Care
+subtitle: Field notes for making friends with code
 permalink: codingcare
 nav_order: 3
 date: 01.01.2024
@@ -8,13 +9,17 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 # link-citations: true
 ---
 
-# Coding.Care: Field notes for making friends with code
-{:.no_toc}
+<!-- # Coding.Care: Field notes for making friends with code -->
+<!-- {page.title} -->
+<!-- {:.no_toc} -->
+
+<!-- {page.subtitle} -->
+<!-- {:.no_toc} -->
 
 <!-- [//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities // guide book / field notes / pocket guide" -->
 
-* toclist
-{:toc}
+<!-- * toclist -->
+<!-- {:toc} -->
 
 <p class='quote'>
 "Any meeting or gathering is a place to practice the future together in the most tangible ways."
@@ -23,7 +28,7 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 – adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
 </p>
 
-## 0. Welcome 
+# 0. Welcome 
 
 <!-- [//]: # "hello world" -->
 
@@ -119,7 +124,7 @@ This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says
 
 [Back to Table of Contents](#top)
 
-## 1. We create who we are together
+# 1. We create who we are together
 
 "What I like about code collective is that it's a community of friends as well as resources. That's where I can feel like we're all going on a journey of learning and discovery together."
 {: .quote }
@@ -230,7 +235,7 @@ Retype it, learn how it works, break it for fun or for your own purposes.
 
 </div>
 
-## 2. We get scrappy
+# 2. We get scrappy
 
 Code Collective endorses **scrappy artistic strategies, not perfect code**. We love your spaghetti code, your half-finished thought, your sketchy mindmap — just as much as we love the polished work it may one day be. When someone joins up wanting to try something new, we don't say, "That's not what code is for." Instead we're excited to discover yet another thing code can be for and how we can help them figure it out. 
 
@@ -364,7 +369,7 @@ Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en
 
 </div>
 
-## 3. We get vulnerable
+# 3. We get vulnerable
 
 ### Plan to unplan, plan to be awkward
 
@@ -426,7 +431,7 @@ Sharing our struggles helps us solve them. In Code Collective, we do a lot of te
 - Second, your partners might see something you don't see: Even if they have never used this language before or worked in this kind of task, they might approach the issue in a different way. 
 - Third, if no one else sees how to approach the issue, they might know someone who does or have heard about a tool that could help.
 
-### Make mistakes in public / ~~Accept~~ Highlight your mistakes
+### Make more mistakes
 
 <p class="quote">
 "highlight mistakes just as much as successes, rather than hide them. it is important for people who are new to programming to see people making mistakes, if they think everything works first time they will think they are not good enough and give up." 
@@ -506,7 +511,7 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 </div>
 
-## 4. We get weird
+# 4. We get weird
 
 ### Move toward the weird
 
@@ -519,6 +524,7 @@ Don't be afraid to get weird together.
 <p class="quote attrib" markdown=1>
 –Janelle Shane, *You Look Like a Thing and I love You*
 </p>
+
 
 My own personal artistic mantra is to "move toward the weird." In my practice, how I follow my interests and push my research forward is find the most strange, uncanny, uncomfortable aspects of whatever I'm working on. If something makes me cringe, that's a place to explore (within limits of course). Rather than research questions I can test and answer with hypotheses, I'm interested in the *research tensions* I know I won't solve but keep bugging me in a visceral way. In my case, it has included the discomfiting way technologies insinuate themselves into our intimate experiences (what I call "creepvenience"), through things like personal data tracking, or the way machine learning systems carry with them the residues of their training data language into their outputs. It has included filming myself and tracking myself, because I am super uncomfortable both of those and they feel weird but interesting. What would be your strange but fascinating thing? How do you like to get weird?
 
@@ -749,7 +755,7 @@ In programming companies there is a concept called "pair programming," in which 
 
 </div>
 
-## 6. We stay gelatinous 
+# 6. We stay gelatinous 
 
 ### Get influenced
 
@@ -958,7 +964,7 @@ By meeting each other where we are and valuing what each person can contribute t
 
 </div>
 
-## 7. We dream big (and small)
+# 7. We dream big (and small)
 
 ### Get too excited
 
@@ -1099,7 +1105,7 @@ Try this activity with a partner and talk through your answers together. You mig
 
 </div>
 
-## 8. We create rituals
+# 8. We create rituals
 
 ### Create rituals together
 
@@ -1242,7 +1248,7 @@ I have learned that, `when I hold my pedagogy and my programming more loosely, t
 
 </div>
 
-## 9. We share resources
+# 9. We share resources
 
 ### Keep track of what you already know
 
@@ -1378,7 +1384,7 @@ When considering a tool to use, you might ask:
 
 </div>
 
-## 10. We encode values
+# 10. We encode values
 
 ### Put care before code
 

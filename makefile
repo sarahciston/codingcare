@@ -1,23 +1,23 @@
 
-# OUTPUT = output
-# INPUT = posts
+OUTPUT = "/Users/sarahciston/Desktop/codezine.pdf"
+INPUT = posts/guide.md
 # METADATA = metadata.yml 
 
 FLAGS = \
 		-s -f markdown+rebase_relative_paths \
-		-t pdf posts/critintro.md \
-	 	--pdf-engine=pdflatex \
+		-t pdf $(INPUT) \
+	 	--pdf-engine=lualatex \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
 		--template=latex/zine.tex \
-		-o "/Users/sarahciston/Desktop/introtest.pdf"
+		-o $(OUTPUT)
 
 
 # -s -f markdown+rebase_relative_paths+yaml_metadata_block \
-# metadata.yml \
+# $(METADATA) \
 
 # %.pdf: %.md 
-# 	   pandoc -o $(OUTPUT)/$@ $(FLAGS) $(INPUT) $(METADATA) $<
+#    pandoc -o $(OUTPUT)/$@ $(FLAGS) $(INPUT) $(METADATA) $<
 
 # posts/cf-reforming.md metadata.yml \-o "/Users/sarahciston/Desktop/06-forming.pdf"
 

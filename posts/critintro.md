@@ -26,6 +26,10 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 >–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther]
 
+<!-- \emoji{droplet} -->
+
+<!-- \emoji{joy} -->
+
 <span class='newthought'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
 The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers in order to distract from the current dangers they perpetuate. Already-toothless policy recommendations are quickly watered down and ignored. Meanwhile more and more data represent less and less diversity, more and more processing power destroys more and more planet. [What is treated as glib fun on one side of the globe is pennies a day and life or death on the other.] But why must it be this way? 

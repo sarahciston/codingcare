@@ -1,0 +1,59 @@
+
+<!-- # OTHER PEOPLE ARE REAL -->
+ 
+# Got Your Face
+Here’s a game we used to play. My face is smaller then, and he covers all of it with his huge brown hand, fingers gripping temples and crown. I breathe dark warmth, palm sweat, lifeline. He says, I got your face. His hand shakes and my entire body vibrates in violent laughter. In a palm I learn arms’ length, disguise. To be loved so much I am absorbed.
+
+It may help before you read what follows to know that I am queer. And to know that when all of this occurred, and even when I wrote this, I did not know that I was queer. 
+ 
+# Doppelbanger
+When we get to the Halloween party my ex is already there and he’s dressed as my new boyfriend. That’s his costume.
+My new boyfriend doesn’t notice. Neither do I at first; I just tell my ex he looks nice and did he do something different with his hair and where’d he get that Joy Division t-shirt. I say all this before I understand that what we’ve walked into is a trap—set for me, not my new boyfriend—because no one cares about the kind of people you dress up as: celebrities, fictional characters, people you don’t think are real people.
+Like it’s normal, we all sit around on the porch, and my memory of what we did or drank is a void, but at some point my new boyfriend goes home and I stay at the party with my ex (who I’m not yet calling that, still insisting we never officially dated). My ex tries to get me drunk enough to convince me that he is my new boyfriend. He says, I’m trying to get you drunk, so you’ll think I’m him, so we can make out.
+I have no plans to make out with my ex, but I don’t leave the party. At the time it seems like just what people do, when one of them has left the other and finally turned 18 and two entire towers blink-disappeared like David Blaine’s sick joke and nothing else makes any sense either: We walk around oblivious to its effect on us. Like how I’ve gone into the bathroom and chopped off all my hair and I’m moping around the party dressed as Enid from Ghost World, except no one can tell I’m in costume.
+I don’t yet know it’s the beginning of the end of an era. His goodbye, trying to hit on me as someone else. At the time I take it as a fucked up kind of compliment. Later, an insult. How little he thought of me, that my leaving him was as simple as his not being someone else. That I just wanted to make out with any boy in a Joy Division t-shirt while I was still young and only the first handful of truly bad things had happened yet.
+I’m his doppelganger, he says, then briefly passes out, drooling against my elbow. These days the guys I know are all obsessed with doppelgangers. The guys I know loiter outside the college radio station to smoke cloves and be clever. This seems like gravity to certain kinds of young women who orbit ever closer, only to be jettisoned like lost satellites when younger girls appear. More accurately, each jettisons herself. But first they are given DJ names and airtime in the middle of the night: Sarah the Intolerable Situation, Thursdays 2 am to 4.
+To be fair, his joke is a justified reply to my exit—wherein I didn’t leave, I just kept bringing new guys around like we were all good friends, like it was still last semester, like the world wasn’t girding for war and my father’s lungs could breathe on their own just like other people’s.
+To my ex, my new boyfriend is another temporary obstruction he can quash with glowering patience—the way he wooed me in the first place. None of us expect what follows. I will date my new boyfriend for almost seven years, and my ex (who I’m not yet calling that) will marry a woman who is at the party that night, but engaged to someone else.
+They would tell this story another way, I’m sure. I’m sure they don’t tell it at all.
+ 
+# Sarah’s Boyfriend
+On winter break, I start a band with two of my best guy friends and we call it Sarah’s Boyfriend. Sarah’s Boyfriend is a hypothetical band that plays no music and has only a website. None of its members are my boyfriend and the website has a space for upcoming dates, which is empty, and page banners decorated with scanned ephemera: maps and ticket stubs and excerpted love notes from former flames: So, I still miss you, I still think you’re cute, and I still sound like a broken record.
+
+The whole time there’s Sarah’s Boyfriend there’s also my actual boyfriend. My actual boyfriend is a musician but refuses to play in Sarah’s Boyfriend. He says we don’t take ourselves seriously. My mother says my problem with relationships is I refuse to be a member of any club that would have me as a member.
+As for Sarah’s Boyfriend, I’ll end up kissing each band member just once, even though neither of them ends up my boyfriend. Eventually, one of us dislikes the direction the band’s hypothetical music might be going, and we part ways, Sarah’s Boyfriend and I. But the website for Sarah’s Boyfriend stays online somewhere forever, like everything. And Sarah’s Boyfriend remains theoretical, a performance by one or more people who think they are being clever.
+ 
+# Sarah the Intolerable Situation
+Two summers later my actual boyfriend breaks up with me, and that fall we get back together—at which point I start hanging out with the guy who is not my boyfriend. I start hanging out with the guy who is not my boyfriend more than my actual boyfriend.
+My ex-(now re-)boyfriend pops by just once a week to make me feel bad enough about myself to convince me I still want him. He blames his busy schedule, but (this occurs to me years later) they both have the same major, and the guy who is not my boyfriend is double-majoring in neuroscience and still has time to invite me over to hang out or whatever. And so I do.
+There is no excuse. Mine is this: In my re-relationship, nothing changes, yet in my brain a switch has been flicked and only partially flicked back. I am a light half-on and humming—both single and not. I am quantum, two places at once, and one of them is the apartment of the guy who is not my boyfriend.
+Come four in the morning we put on Pirates of the Caribbean and smoke a little more and move closer to each other on the couch again. I can’t remember if other people have already left or were never there, but I don’t have a ride home. There are cabs, but no one mentions them. We just lean into each others’ sides, eyes locked on Johnny Depp, our chaperone. I am half-asleep, half-stoned, and hyper-alert to the hand of the guy who is not my boyfriend as the hand of the guy who is not my boyfriend inches up my leg. Inches toward the inside of my thigh. Inches toward. 
+We haven’t kissed, or spoken, or anything but inched, and I’m telling myself I haven’t done anything wrong, not yet. It’s just his hand; it’s just my leg; it’s just movement, discernable only in time-lapse photography which isn’t being taken. The guy who is not my boyfriend doesn’t know I have a boyfriend—because I haven’t told him and there’s no evidence to suggest it.
+I don’t tell him, just concentrate on his inching, Zeno’s paradoxing toward the line I won’t cross, a technicality approximated by the hem of my underwear. But that’s the thing about paradoxes. The film is only two and a half hours long and he does reach the hem and the spell of not-yet is broken. I scoot away, mumbling a non-explanation, then sleep a few hours fully clothed next to him in his bed. Here’s the riddle: If a tree falls in the forest and my re-boyfriend doesn’t ask where I was all night, does our re-lationship still make a sound?
+After that night he avoids me, or I avoid him, the guy who is not my boyfriend. I see him on Facebook, now that Facebook’s been invented, and I watch that night get smaller and go blurry in the background of his life, watch it drop below the horizon of back then.
+But to me that tiny night remains in capital letters, dark cloud of what I didn’t do. Shame has many hollows. They contradict. I know I screwed people over; I have the instant message transcripts to prove it. 
+I was the one who didn’t think other people were real—everyone a double for my own doubt. I never chose the one who wanted me.
+I’m sure he’d tell this story another way. I’m sure he doesn’t tell it at all.
+ 
+ 
+# Stand In
+Johnny Depp lookalike sits next to me on the airplane and buys me a drink and it’s torrentially raining and I let his friend drive us home from Burbank at midnight and we drink whiskey in my empty house until late. Why do I do this? Nothing happens. I trust my gut against my better judgment. Nothing happens but I am painfully aware of what could have. 
+On the news for weeks is the trial of Johnny Depp which is the trial of Amber Heard (sic) and anyone who has been abused knows the way you begin to feel like the crazy one, the one at fault. 
+At the time I thought I was so lucky that you had even looked at me. 
+
+# Backup
+Just now my technical first kiss says he’s writing about me. Not really about, he says, but you’re featured prominently. This is, like everything now, on Facebook. He says he’s writing about that era. He says, You’re portrayed glowingly and honestly.
+I don’t remember being glowing or honest. I remember almost nothing. My technical first kiss lists three events; I recognize just one. When your parents were out of town, he says for the whole Internet to see. When my parents were out of town because my father was being cracked open and sliced out. My technical first kiss and I were kissing then, I guess. I never told my father I was living while I thought he was dying, or attempting what I thought living looked like, and now because of Facebook my mother will know I lied to her, a thing all mothers already know.
+It happens a lot: People recount things we shared and I have no fucking idea. I squint at his post’s other citations: the pumpkin patch and Steak ’n’ Shake do not refer. No doubt these aren’t the only things I was pretending didn’t affect me. Everything scrolls past. The screen is all that glows.
+I need to write this before he does, before his version becomes what happened, before I become part of another chorus, scraps shed. When I look for his post again to get the details right I can no longer find it, but he is online saying (about someone else): I’ve been written into a classmate’s essay. The description is not... favorable. 
+I want to scream like F. Scott did to Zelda: Everything we have done is mine. […] This is all my material. None of it is your material.
+Cleaning up I find a floppy disk backup labeled EMail 12-20-98 in a highschooler’s handwriting and wonder if it holds parts of any story. I have no devices to read it.
+
+# Doubles
+When my friends first meet my next boyfriend, they recognize him elsewhere, as some other stranger passed on the street. They say hello to him. They fist bump. They think he is rude, because the stranger who is not him does not recognize them.
+Later we will meet that stranger. Mistaken identities will shake hands. He will be dating someone who looks like me. Her name will rhyme with mine. They will be two years behind us, still ecstatic and touching all the time. We will buy them drinks. We will all of us get drunk together and I will watch them, still like the first few years of us. We are vicarious. We are all of us still figuring out how to be real.
+I know they tell this story another way. I know they tell it.
+He will have two versions of him. A Mr Hyde that emerges and screams I hate you. He screams it in my face. He screams it from behind a door I locked just because. He kicks a hole in it. He breaks a lamp. The other version shuts off. It turns to stone and freezes if I cry. Now I get it but I didn’t get it then. 
+
+# Afterward
+Reader, did you guess yet that I have always been queer?

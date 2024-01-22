@@ -1,0 +1,99 @@
+%%% MAKE DOC %%%
+% \documentclass[10pt,oneside]{scrbook}
+\documentclass[10pt,oneside]{scrartcl}
+% \documentclass[10pt,twocolumn,landscape]{scrartcl} 
+\setlength{\columnsep}{.5in}
+
+
+%%% LAYOUT %%%
+\usepackage{geometry}
+\geometry{letterpaper, tmargin=1in, bmargin=1in, lmargin=1in, rmargin=1in }
+
+\setlength{\parskip}{8pt plus 2pt minus 1pt}
+\raggedright
+\linespread{1.7}
+
+
+%%% TYPESET %%%
+\usepackage{fontspec}
+\usepackage{emoji}
+% \setmainfont{Noto Color Emoji}[Renderer=Harfbuzz]
+\setromanfont{Noto Sans}
+\setsansfont{Noto Sans Mono}
+\setmonofont{Noto Sans Mono}
+% \setemojifont{Noto Color Emoji}[Renderer=Harfbuzz]
+\setemojifont{Apple Color Emoji} 
+% \usepackage{noto}
+% \renewcommand{\familydefault}{\sfdefault}
+% \renewcommand{\familydefault}{\ttsubstdefault}
+
+% \allsectionsfont{\ttfamily}
+% \usepackage{koma-script}
+
+% \usepackage{scrlayer-scrpage}
+% \addtokomafont{}{\ttfamily}
+% \addtokomafont{chapter}{\ttfamily}
+
+%%% LINKS %%%
+\usepackage[breaklinks=true]{hyperref}
+\hypersetup{colorlinks,%
+citecolor=blue,%
+filecolor=blue,%
+linkcolor=blue,%
+urlcolor=blue}
+$if(url)$
+\usepackage{url}
+$endif$
+
+
+%%% GRAPHICS %%%
+
+\usepackage{graphicx}
+% \setkeys{Gin}{width=0.75\linewidth}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth
+\else\Gin@nat@width\fi}
+\makeatother
+\let\Oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=\maxwidth]{#1}}
+
+\usepackage[hybrid]{markdown}
+% \usepackage{emoji}
+
+
+%%% JUNK %%%
+%% inserted to fix a CSL error
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newenvironment{CSLReferences}%
+{\setlength{\parindent}{0pt}%
+\everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces}%
+{\par}
+\def\tightlist{}
+
+
+%%% FRONTMATTER %%%
+
+\title{Trans\*formative TechnoCraft}
+\author{Sarah Ciston}
+\date{\today}
+\setcounter{tocdepth}{2} 
+% \renewcommand{\contentsname}{Table of Contents}
+% \renewcommand{\printtoctitle}{Table of Contents}
+
+
+%%% CONTENT %%%
+
+\begin{document}
+
+\maketitle
+\renewcommand{\contentsname}{Table of Contents}
+\tableofcontents
+\listoffigures
+
+% \chapter*{Abstract}
+% XYXYXYXYX This is the abstract.
+
+$body$
+
+\end{document}
