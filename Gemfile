@@ -12,6 +12,6 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'jekyll-spaceship'
     gem 'listen'
-    gem 'tufte-pandoc-jekyll'
+    gem 'jekyll-pandoc'
     # gem 'mermaid'
 end
