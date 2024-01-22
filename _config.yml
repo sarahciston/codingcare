@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: tufte-pandoc-jekyll
 
 title: Trans*formative TechnoCraft
 description: Critical AI needs affirming communities  
