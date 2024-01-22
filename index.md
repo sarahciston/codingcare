@@ -22,6 +22,7 @@ This work offers respect and gratitude to the Tongva and Chumash peoples, who ar
 4. \*: Interstitial Portals
 5. TECH: [Intersectional AI Toolkit](https://sarahciston.gitlab.io/toolkit/)
 6. (NO): Tactical Refusals & Reverse Portals
+7. TRANS: What's next & what's after...
 <!-- 7. TRANS: [Unsupervised Pleasures & Critical AI](unsupervised) -->
 
 <!-- <span class="purple">Learning programming is often intimidating and riddled with false starts,</span> which can further marginalize the folks whose perspectives are most necessary in order to face the challenges technoculture presents. This guidebook offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in 2019 for emerging media artists, writers, and non-engineers to think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 

@@ -1,16 +1,17 @@
 ---
 # layout: post
 title: codes for (un)forming
+subtitle: 
 permalink: unforming
 nav_order: 10
-date: 01.01.2024
+date: 22.01.2024
 ---
 
 # Codes for (Un)(Re)Forming
 
 <!-- what is this a review of, two voices. of being femme-presenting. -->
 
-VALIE EXPORT & GLITCH FEMINISM (un)___ing (un)femmeing [future feminist machine museum]
+<!-- VALIE EXPORT & GLITCH FEMINISM (un)___ing (un)femmeing [future feminist machine museum] -->
 
 The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's been violated, when I don't have enough space or when I'm taking [up] too much. Otherwise just "the body, body, vessel, hungry thing, tired and aching thing." A tool only aware of when broken. My name sounds strange in anyone's mouth, the time it takes for me to realize you mean me. I read on a tiktok this is called Depersonalization. I read on a tiktok that I watched on an instagram reel that this is called Depersonalization, and this is how removed from the real I feel and you wonder why. Baudrillard called this hyperreal and Timothy Morton talked about hyperobjects and now the machine learning types want to make hyper models that train other models and what would be enough? How far from myself can you get? 
 

@@ -2,15 +2,21 @@
 # layout: post
 permalink: intro
 title: critical introduction
+subtitle: Trans\*formative TechnoCraft
 nav_order: 1
 date: 01.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
-# Trans*formative TechnoCraft
+<!-- # Trans*formative TechnoCraft -->
+
+{{ page.subtitle }}
 {:.no_toc}
 
-#### Contents
+{{ page.title }}
+{:.no_toc}
+
+<!-- #### Contents -->
 
 * TOC
 {:toc}

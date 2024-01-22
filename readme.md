@@ -1,3 +1,2 @@
-### coding care
-every dissertation starts somewhere
-bless this mess
+### Trans\*formative TechnoCraft
+Critical AI needs affirming creative communities

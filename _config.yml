@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
-title: Trans*formative TechnoCraft
-description: Critical AI needs affirming communities  
+title: "Trans*formative TechnoCraft"
+description: "Critical AI needs affirming creative communities"  
 author: Sarah Ciston
 
 # logo: 'assets/img/goingonline.jpg'
@@ -22,7 +22,7 @@ links:
   "critical field guide for datasets":
     - "https://knowingmachines.org/critical-field-guide"
   # "codes for (un)forming":
-  #   - "/codingcare/unforming"
+    #   - "/codingcare/unforming"
   "inclusive datasets guide":
     - "/codingcare/publications"
   "codes for (un)living":
@@ -38,11 +38,11 @@ links:
   # "Get this dissertation in your Inbox (TK)":
     # - "mailgun-setup-TK"
   # "Intersectional AI Toolkit": 
-  #   - "https://intersectionalai.com"
+    # - "https://intersectionalai.com"
   # "Tethered.Network": 
     # - "https://sarahciston.github.io/tethered"
   # "Get your pal a QUEER LOVE zine": 
-  #   - "https://queerlovezine.com/"
+    # - "https://queerlovezine.com/"
   # "Get yourself a shirt":
     # - "https://www.bonfire.com/store/coding-care/"
 

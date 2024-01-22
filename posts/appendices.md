@@ -1,12 +1,13 @@
 ---
 layout: post
 title: appendices
+permalink: appendices
 nav_order: 101
-# date: 21.03.2022 
+date: 22.01.2023 
 tags: [appendix]
 ---
 
-# {{ page.title }}
+<!-- # {{ page.title }} -->
 
 ## Contents 
 

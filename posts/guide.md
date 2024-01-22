@@ -1,14 +1,19 @@
 ---
 # layout: post
 title: Coding.Care
+subtitle: Field notes for making friends with code
 permalink: codingcare
 nav_order: 3
-date: 01.01.2024
+date: 22.01.2024
 tags: [tips, guide, handy, coding, zine, computers, programming]
 # link-citations: true
 ---
 
-# Coding.Care: Field notes for making friends with code
+<!-- # Coding.Care: Field notes for making friends with code -->
+# {{ page.title }}
+{:.no_toc}
+
+#### {{ page.subtitle }}
 {:.no_toc}
 
 <!-- [//]: # "a pocket guide to making friends with code // field notes for friendly coding // friendly creative communities // guide book / field notes / pocket guide" -->
@@ -1496,7 +1501,7 @@ This pocket guide has argued for technology communities that support pluralism, 
 
 </div>
 
-<!-- ## [Appendices](appendices) -->
+## [Appendices](appendices)
 
 ## [Project Showcase](https://creativecodecollective.com/showcase) 
 
