@@ -7,62 +7,25 @@ nav_order: 10
 date: 22.01.2024
 ---
 
-# Codes for (Un)(Re)Forming
+# Codes for (Un)Forming
+<!-- combines queer use (ahmed), glitch feminism (russel), trans/gender glitch (sunden), broken machines (sharma), -->
+<!-- --shift-heading-level-by=NUMBER -->
 
 <!-- what is this a review of, two voices. of being femme-presenting. -->
 
 <!-- VALIE EXPORT & GLITCH FEMINISM (un)___ing (un)femmeing [future feminist machine museum] -->
 
-The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's been violated, when I don't have enough space or when I'm taking [up] too much. Otherwise just "the body, body, vessel, hungry thing, tired and aching thing." A tool only aware of when broken. My name sounds strange in anyone's mouth, the time it takes for me to realize you mean me. I read on a tiktok this is called Depersonalization. I read on a tiktok that I watched on an instagram reel that this is called Depersonalization, and this is how removed from the real I feel and you wonder why. Baudrillard called this hyperreal and Timothy Morton talked about hyperobjects and now the machine learning types want to make hyper models that train other models and what would be enough? How far from myself can you get? 
+Is it unforming or reforming, or these are the same. 
 
-I like a ponytail if it's impossibly high. Or eyeliner as armor. In a room full of femme, we found we all had some kind of aesthetic-as-armor, mine was ridiculous lipstick, most of them had eyeliner or mascara they wouldn't go to work without. We all had a need for the armor too. 
+<!-- In the Future Feminist Machine Museum, we  -->
 
-The symbols for mathematical notation, crochet notation, electrical notation, and alchemical notation have much in common.
-
-<!-- ⌁⌁⌁ techno &#x2301;
-⌇⌇⌇craft &#x2307;
-⏦⏦⏦ trans &#x23E6;
-꩜꩜꩜ formative &#xAA5C;
-\* asterisk 
-⏝⏜
-⏛ fuse
-⌑ square lozenge
-∤ does not divide
-⊀ does not precede
-∄ unicode "There Does Not Exist" -->
-<!-- 
-ˇ opt shift t
-‡ opt shift 7
-° opt shift 8
-¨ opt shift u
-” opt shift open bracket
-˘ opt shift period
-->
 
 
 
 <!-- >"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014] -->
 
-<!-- VALIE, you probably didn't mean for me to yell it, but all-caps takes on a different valence now, and so I must. I must yell it across a green green valley like I'm Maria Von Trapp in the Alps I suppose, and I went to Vienna to see your retrospective VALIE and when I was there I was surprised by all the Nazi monuments I accidentally encountered. It's not like Germany, or at least Berlin, where the vibe is very `mea culpa` (to a fault) (what does that even mean), it's more like `oh brass placard by the way here's the gestapo headquarters` This feels like a glitch in google maps when you're walking along in a picturesque city, but no, this is how facism works, picture perfect.  -->
 
 
-russell-glitch feminism
->"With physical movement often restricted, female-identifying people, queer people, Black people invent ways to create space through rupture" (Russell 7). 
->"Glitch manifests with such variance, generating ruptures between the recognized and recognizable, and amplifying within such ruptures, extending them to become fantastic landscapes of possibility" (Russell 28).
->" [quoting John Glenn 'Literally, a glitch… is such a minute change in voltage that no fuse could protect against it.' and St Petersberg Times 'Glitches-a spaceman's word for irritating disturbances.'" "an outright refusal, a 'nope' in its own right" (Russell 29)
->"glitch moves, but glitch also blocks […]. Glitch prompts and glitch prevents." (Russell 30)
->"The glitch is the catalyst, not the error." (Russell)
-
-making and breaking, the queer use of lying in bed / unable to dissertate in a pandemic, creating/learning a web home versus completing the projects i said i would make when i came in, how every part/skill is connected, can be stitched together and reconnected and collaborated with to make the text thing
-the parts of myself collaborate with each other, reacquainted as if strangers
-
-something that tracks the time, pace/cadence, smell of every word, my heartbeat and breath pattern, the over collection of its data and the pond it sits in, the energy sinkhole…(connect sink holes to the cave state, the show me state, the trauma state) what is this duct taped story object, touching object, screen i am making, a way to reach through the plexiglass to each other, 
-the computer is a classifying machine, if code is built on binary and the zeros and ones are made to say either or, not [either and] … [both maybe] a voltage rush, a spark gap… **what is the computational system built on the surges and loss, the wavering? the felt feeling?** you’ll argue this is getting metaphorical not close to the metal (a metaphor) what could be closer to the metal than bone, that wrended flesh? 
-
-queer use as vandalism & broken machines 
->“to transform a system we have to stop a system from working” (Ahmed)
->“there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use.” (Ahmed)
->"If not to be subjected to the will of the colonizer is to queer use or even to become queer through misuse (perversion as self-revelation), to queer use is to live in proximity to violence. To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about."
 
 **a classification/categorization system that instead points on a spectrum rather than putting a boundary around the category, a multi-dimensional spectrum?**
 <!-- [oblique strategies responses] -->
@@ -81,7 +44,9 @@ the promise is to launch, or the promise is to fall. 
 the promise is to transform
 
 i want the perfect place to write that makes the words come out (right) makes them saleable, understood, makes them change something for good, makes the platform i need for them rise up out of the underbrush, out of the many imperfect platforms i have tried. 
-we cobble together collaborations from "i'll meet you on zoom and slack and this google doc; i'll have all of them open at once on this 13-inch screen, on this 6-inch mobile screen, on this vr elastic screen, these gestures are patented, on this invasive dream where i am at work still even in sleep." MOBILE FIRST! the bleakness of platforms is dreamlike, designed to disappear into the way we hold a tool without thinking when it just works, ignoring how it forms the landscape for us (Craeft, Ingold, Hiedegger). 
+we cobble together collaborations from "i'll meet you on zoom and slack and this google doc; i'll have all of them open at once on this 13-inch screen, on this 6-inch mobile screen, on this vr elastic screen, these gestures are patented, on this invasive dream where i am at work still even in sleep." 
+MOBILE FIRST! the bleakness of platforms is dreamlike, designed to disappear into the way we hold a tool without thinking when it just works, ignoring how it forms the landscape for us (Craeft, Ingold, Hiedegger). 
+The platform is designed to disappear. Wield a tool without thinking when it 'just works', ignore how it forms the landscape. The osage hedges fenced the countryside, their brambles impenetrable, carving up the land and enclosing it to own it.  
 
 The public transit company that runs the trains in Berlin wrote and produced a musical and people paid to go see it and it sold out in minutes and they live streamed it into our homes — now that's cross-platform branding (literally). 
 <!-- One of the train lines has been running off schedule for months because of something that translates from German as "cable theft" but I think actually means cable ice?  -->
@@ -93,9 +58,9 @@ The public transit company that runs the trains in Berlin wrote and produced a m
 
 <!-- Elsewhere I have written "an app could include everything I've been researching? strawflower/i'm still alive? what would i do with it as a performance?" "A creative writing code-creative-critical lyric essay hybrid digital work imbued with data xr ar read over zoom experienced through plexiglass something about how we are together not together keeping it barely together" -->
 
->"they often have a first person, it isn’t my first person—and furthermore, it’s a first person at the very edge of its decomposition." [@sedgwickWeatherProust2012] "the fractal dimension of compassion is that of not self, not other, not both self and other, and not neither self nor other."
+>"they often have a first person, it isn’t my first person—and furthermore, it’s a first person at the very edge of its decomposition." [@sedgwickWeatherProust2012] 
 
-I am back to the dream where I am inventing new code languages in my sleep. Once I dreamt just two sentences, and they were these: 
+I drop back to the dream where I am inventing new code languages in my sleep. Once I dreamt just two sentences, and they were these: 
 
 >"I dreamt I was mapping points of non-correspondence."
 
@@ -107,7 +72,13 @@ Except actually the way I dreamt the sentence, but was afraid to write it down:
 
 ![violates policy](../_site/assets/img/violatepolicy.png)
 
-I want a machine un/learning that maps points of non-correspondence, de-limiting the ways we might relate to one another. I want a dyke for president, and I want a chat bot that can imagine it and tell me about it without it "violating its content policy," or even a chatbot that can tell me about the very real artwork by Zoe Leonard called "I want a dyke for president" based on the dyke poet Eileen Myles' run for president. Is it so hard to imagine such things when they do in fact exist or are on the cusp of existing, but are ignored by automated systems? Instead of imagining even these very real things, the chatbot freezes its screen and makes me acknowledge that my request "may violate its content policy" in order to continue. Then it resets, erasing my query altogether. No results, no record of my query. Did it fall down a pit somewhere that censored content goes to be moderated, where an underpaid underage non-employee in a country we refuse to acknowledge will look at my dyke president request along with countless grotesque descriptions? I want a chatbot that lives in a world that can even imagine a dyke president, or a poem about a dyke president, just like Zoe Leonard did and Eileen Myles did: "someone who has made mistakes and learned from them" instead of feeding me milquetoast lines about the importance of diversity while offering me none. 
+I want a machine (un)learning that maps points of non-correspondence, de-limiting the ways we might relate to one another. 
+
+I want a dyke for president, and I want a chat bot that can imagine it and tell me about a dyke president without it "violating its content policy," or even a chatbot that can tell me about the very real artwork by Zoe Leonard called "I want a dyke for president" based on the dyke poet Eileen Myles' very real run for president. Is it so hard to imagine such things when they do in fact exist? Or are on the cusp of existing? When they are ignored by automated systems, they become harder to imagine. Instead of imagining even these very real things, the chatbot freezes its screen and makes me acknowledge that my request "may violate its content policy" in order to continue. It makes me submit, admit, click, be ashamed. Then it resets, erasing my query altogether. No results, no record of my query. Did it fall down a pit somewhere that censored content goes to be moderated, where an underpaid underage non-employee in a country we refuse to acknowledge will look at my dyke president request along with countless grotesque descriptions? I want a chatbot that lives in a world that can even imagine a dyke president, or a poem about a dyke president, just like Zoe Leonard did and Eileen Myles did: "someone who has made mistakes and learned from them" instead of feeding me milquetoast lines about the importance of diversity while offering me none. 
+
+You are the broken one, yet I am the one made to feel broken. This is the broken machine I am talking about, Sarah Sharma is talking about, VALIE EXPORT is talking about. A dyke president brakes the machine. 
+
+The 'bachelor machine' was a concept from Duchamp (?), and all the mid-20th century artists' fascination with boxes. The bachelor is a machine and the feminist is a broken one. 
 
 I became anything but traumas and porn tropes and no one believed me. I mapped points of non-correspondence and they have [amassed/accreted/gathered] into more than similarity scores and Markov chains. 
 
@@ -133,19 +104,32 @@ The broken girl is a machine. The glitch is her move. She makes space for hersel
 broken machine essay
 platform for creative-critical-code / lyric-essay-netart objects, choices of gui/database have politic (what from the zine brings it back now/makes it matter to tech/)
 
-
+russell-glitch fem
 ahmed-queer use
 sharma-manifesto for the broken machines
-hwang-deviant care for deviant futures
-tuck-suspending damage
-preciado-testo/countersexual
 sundén-on trans-, glitch, and gender as the machinery of failure
 
->"as if there was nothing unruly or wild at heart of how technologies work […] technology rather provides one of the ways in which bodies become viable at all" (Sundén)
+russell-glitch feminism
+>"With physical movement often restricted, female-identifying people, queer people, Black people invent ways to create space through rupture" (Russell 7). 
+>"Glitch manifests with such variance, generating ruptures between the recognized and recognizable, and amplifying within such ruptures, extending them to become fantastic landscapes of possibility" (Russell 28).
+>" [quoting John Glenn 'Literally, a glitch… is such a minute change in voltage that no fuse could protect against it.' and St Petersberg Times 'Glitches-a spaceman's word for irritating disturbances.'" "an outright refusal, a 'nope' in its own right" (Russell 29)
+>"glitch moves, but glitch also blocks […]. Glitch prompts and glitch prevents." (Russell 30)
+>"The glitch is the catalyst, not the error." (Russell)
+>"“This white cyberfeminist landscape marginalized queer people, trans people, and people of color aiming to decolonize digital space by their production via similar channels and networks. Exceptions such as the Old Boys’ Network, SubROSA, or the VNX Matrix were impactful in offering up alternative discourse that recognized peripherally racism alongside sexism, but the hypervisibility of white faces and voices across feminist cyberculture demonstrated ongoing exclusion, even within this new, “utopic” setting.” (Glitch Feminism: A Manifesto Legacy Russell)
+>"“Glitch feminism urges us to consider the in-between as a core component of survival—neither masculine nor feminine, neither male nor female, but a spectrum across which we may be empowered to choose and define ourselves for ourselves.”
+>“glitch is celebrated as a vehicle of refusal, a strategy of nonperformance. This glitch aims to make abstract again that which has been forced into an uncomfortable and ill-defined material: the body.”
+
+queer use as vandalism & broken machines 
+>"If not to be subjected to the will of the colonizer is to queer use or even to become queer through misuse (perversion as self-revelation), to queer use is to live in proximity to violence. To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about."
+>"a blockage can be how the system is working. The system is working by stopping those are trying to transform the system. This means that: to transform a system we have to stop the system from working. When you stop the machine from working, you damage the machine." (Ahmed") >“to transform a system we have to stop a system from working” (Ahmed)
+>“there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use.” (Ahmed)
+
+trans/gender glitch, machinery of failure [@sundenTransGlitchGender2015]
+<!-- >"as if there was nothing unruly or wild at heart of how technologies work […] technology rather provides one of the ways in which bodies become viable at all" (Sundén) -->
 >"a surge of current or a spurious, illegitimate signal that breaks the ﬂow of energy or information […] rarely a complete collapse […] a momentary loss of control" (Sundén)
 >"to think gender as technological emphasizes a way of thinking gender as machinery" "It facilitates a way of thinking gender as broken, unstable, fragile machinery, as something based on its very brokenness." (Sundén)
 >"Glitch is a struggle with binaries. Glitch in digital media is caused by lost or incorrect binary code" (Sundén)
->"Glitch, then, is gender in its most raw, technological form" (Sundén).
+>**"Glitch, then, is gender in its most raw, technological form" (Sundén).**
 >"femininity is a technology of failure, and the ideal of smooth, slick, seamless, effortless femininity impossible. […] The starting point, the very foundation, is rather always that of a broken machine." (Sundén)
 >"Gender glitch art is the kind of gender performances that consciously break the ﬂow of gender, that proudly stage the many ways in which gender is broken, and can be broken. It celebrates contrasts, inconsistencies, irregularities and imperfections." (Sundén)
 >"high fidelity gender strives toward impossibly seamless perfection along the lines of equally impossibly pure femininity and masculinity. Gender as high fidelity is a transparent gender experience that transcends mediation, which performs an act of forgetting about the technologies of gender (which make such an erasure possible in the ﬁrst place)." (Sundén)
@@ -153,6 +137,7 @@ sundén-on trans-, glitch, and gender as the machinery of failure
 >"The promise of glitch gender is precisely that it can never be fully known, never fully controlled […]. The promise of glitch is the fact that there is something unruly—or agential—at the very core of how gender works technologically." (Sundén)
 >"Gender glitch holds a similar potential—to infiltrate, make dirty, and ultimately put pressure on the norms of pure gender high ﬁdelity." (Sundén)
 "vulnerability / technological anticipation / materiality and fragility" (Heidegger's at hand vs) 
+Sharma broken machine
 >"continue this work of not working well. Broken Machines are powerful purveyors of mayhem and confusion." (Sharma)
 >"Feminists are rendered an always already obsolete technology that isn't working properly. Feminists are the faulty aberration in a long line of otherwise efficient technologies that have been designed for caretaking and reciprocating love in a male- dominated world. Feminists are as useful as a vacuum that has lost suction. They are as disappointing as a light that won't turn on. If women don't want to fulfill their positions within a patriarchal society, there are other toys and technologies that will do this work."
 >"What happens when the machine world no longer reciprocates man's love and instead questions his power?"
@@ -166,13 +151,9 @@ sundén-on trans-, glitch, and gender as the machinery of failure
 >"Broken Machines have capacity for others when others are drained because they seek and find communal care rather than return to those original power sources that are simultaneously draining."
 >"being challenged by the machine world is one of patriarchy's deepest fears. [...] The Broken Machine should not be understood as a new technology. It is not an upgrade to an older model or a feminist design solution."[@sharmaManifestoBrokenMachine2020]
 
-
->"there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use." (Ahmed)
->"a blockage can be how the system is working. The system is working by stopping those are trying to transform the system. This means that: to transform a system we have to stop the system from working. When you stop the machine from working, you damage the machine." (Ahmed")
-
 ruja benjamin 
 >"glitches are not spurious, but rather a kind of signal of how the system operates" (Benjamin)
-[[notesTowardPlatforms]]
+
 Queer codes and platforms. Make a note how these are related.
 The physical therapist today says when I work on muscle strength I will no longer have to contort to strange shapes to hold my body up. I think, "That's just how queer folks sit in chairs, haven't you seen the memes? It was one of the first moments my curling in on myself—that invisibility—felt okay. If I find the muscles in my body will I no longer be queer, will I straighten, be seen?" This glitch of me, how I am a broken girl.
 
@@ -192,23 +173,19 @@ And I feel like the cameras on my front and back like VALIE tromping through fie
 >And no "me" and just fine. And the yous and this we don't have names but we don't need them, the we is an endless, ever-expanding, and always-unresolved collection of queering blobs. I'm a we. "Me and you have been together for quite some time, we've seen some things together and we've been through some things. Maybe it was for a minute, maybe it's been the entirety of your life that we’ve been together, me."
 
 
->"“This white cyberfeminist landscape marginalized queer people, trans people, and people of color aiming to decolonize digital space by their production via similar channels and networks. Exceptions such as the Old Boys’ Network, SubROSA, or the VNX Matrix were impactful in offering up alternative discourse that recognized peripherally racism alongside sexism, but the hypervisibility of white faces and voices across feminist cyberculture demonstrated ongoing exclusion, even within this new, “utopic” setting.” (Glitch Feminism: A Manifesto Legacy Russell)
+<!-- Describe a profound encounter with art. Specifics, the emotion, movement, epistolary.  -->
 
->"“Glitch feminism urges us to consider the in-between as a core component of survival—neither masculine nor feminine, neither male nor female, but a spectrum across which we may be empowered to choose and define ourselves for ourselves.”
->“glitch is celebrated as a vehicle of refusal, a strategy of nonperformance. This glitch aims to make abstract again that which has been forced into an uncomfortable and ill-defined material: the body.”
+<!-- valie export, sadie benning sucking her thumb, [who] tits against plate glass -->
 
-
-Describe a profound encounter with art. Specifics, the emotion, movement, epistolary. 
-
-valie export, sadie benning sucking her thumb, [who] tits against plate glass
-
-sadie, valie, I wanna be real cool. I wanna set my works to rock and roll. 
+<!-- sadie, valie, I wanna be real cool. I wanna set my works to rock and roll.  -->
 
 There's the works you know, touch cinema, tits in a box, what happens in darkness, inverting the darkness of [what kind of theaters where you hide to get a handjob?] to show the person doing feeling up, the peepshows where the woman is in a box where you cannot touch, new york smut theatres to open streets, nothing to see here, Ono's cut piece, What are you willing to do in public to another person if given permission, if not given permission? This is the broken machine 
 
-I want your tattoo of a garter pinned to my leg and call it praxis. 
+<!-- I want your tattoo of a garter pinned to my leg and call it praxis.  -->
 
-Pin your garter tattoo to my leg and call it praxis. 
+The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's been violated, when I don't have enough space or when I'm taking too much. Otherwise just "the body, body, vessel, hungry, tired, aching, thing." A tool I only notice when it's broken. 
+
+VALIE, pin your garter tattoo to my leg and call it praxis. 
 
 Twenty four sewing machines causing a din, puncturing, puncturing, puncturing, puncturing. 
 
@@ -216,7 +193,9 @@ I saw a slo-mo clip of a sewing machine working its needle into fabric everso [s
 
 But sped up, multiplied, this is about scale here, slowed it becomes uncanny, sped it becomes industrial, militaristic. Both are charged with the heat of something other than themselves, which they always contained, those women in their sewing rooms knew it, those broken needles and [backwards stitches] knew it all along
 
-This is a one-star review of the femme. And a five-star review at the same time. Blending a one-star and a five star review. 
+This is a one-star review of the femme. And a five-star review at the same time. 
+
+I like a ponytail if it's impossibly high. In a room full of femme, we found we all had some kind of aesthetic identifier. Mine was ridiculous lipstick, most of them used eyeliner or mascara as armor. They wouldn't go to work without. We all had a need for the armor too. 
 
 Your pants with the cut-away crotch, motorcycle attitude, murder chic, fuck-you chic, dare-you-to look. 
 
@@ -228,3 +207,42 @@ Sadie does this too, queers and blurs it with the music, the thumb sucking, the 
 
 This making me want to look and linger is the glitch and the smooth edge at the same time? It is the cut in the fabric and the stitch repairing it. [no]
 
+My name sounds strange in anyone's mouth, the time it takes for me to realize you mean me. I read on a tiktok this is called Depersonalization. I read on a tiktok that I watched on an instagram reel that this is called Depersonalization, and this is how removed from the real I feel and you wonder why. Baudrillard called this hyperreal and Timothy Morton talked about hyperobjects and now the machine learning types want to make hyper models that train other models and what would be enough? How far from myself can [you/I] get? 
+
+
+
+The symbols for mathematical notation, crochet notation, electrical notation, and alchemical notation have much in common.
+
+<!-- ⌁⌁⌁ techno &#x2301;
+⌇⌇⌇craft &#x2307;
+⏦⏦⏦ trans &#x23E6;
+꩜꩜꩜ formative &#xAA5C;
+\* asterisk 
+⏝⏜
+⏛ fuse
+⌑ square lozenge
+∤ does not divide
+⊀ does not precede
+∄ unicode "There Does Not Exist" -->
+<!-- 
+ˇ opt shift t
+‡ opt shift 7
+° opt shift 8
+¨ opt shift u
+” opt shift open bracket
+˘ opt shift period
+->
+
+<!-- VALIE, you probably didn't mean for me to yell it, but all-caps takes on a different valence now, and so I must. I must yell it across a green green valley like I'm Maria Von Trapp in the Alps I suppose, and I went to Vienna to see your retrospective VALIE and when I was there I was surprised by all the Nazi monuments I accidentally encountered. It's not like Germany, or at least Berlin, where the vibe is very `mea culpa` (to a fault) (what does that even mean), it's more like `oh brass placard by the way here's the gestapo headquarters` This feels like a glitch in google maps when you're walking along in a picturesque city, but no, this is how facism works, picture perfect.  -->
+
+<!-- maya deren with the knife -->
+
+
+<!-- making and breaking, the queer use of lying in bed / unable to dissertate in a pandemic, creating/learning a web home versus completing the projects i said i would make when i came in, how every part/skill is connected, can be stitched together and reconnected and collaborated with to make the text thing
+the parts of myself collaborate with each other, reacquainted as if strangers -->
+
+<!-- something that tracks the time, pace/cadence, smell of every word, my heartbeat and breath pattern, the over collection of its data and the pond it sits in, the energy sinkhole…(connect sink holes to the cave state, the show me state, the trauma state) what is this duct taped story object, touching object, screen i am making, a way to reach through the plexiglass to each other,  -->
+
+<!-- hwang-deviant care for deviant futures
+tuck-suspending damage
+preciado-testo/countersexual -->

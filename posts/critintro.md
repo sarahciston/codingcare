@@ -10,16 +10,16 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 <!-- # Trans*formative TechnoCraft -->
 
-{{ page.subtitle }}
+<!-- {{ page.subtitle }}
 {:.no_toc}
 
 {{ page.title }}
-{:.no_toc}
+{:.no_toc} -->
 
 <!-- #### Contents -->
 
-* TOC
-{:toc}
+<!-- * TOC
+{:toc} -->
 
 # Critical AI & Creative–Critical Coding Need Each Other
 
