@@ -12,6 +12,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'jekyll-spaceship'
     gem 'listen'
+    gem 'jekyll-remote-theme'
     gem 'jekyll-pandoc'
     # gem 'mermaid'
 end
