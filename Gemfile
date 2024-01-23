@@ -13,6 +13,7 @@ group :jekyll_plugins do
     gem 'jekyll-spaceship'
     gem 'listen'
     gem 'jekyll-remote-theme'
+    gem 'pandoc-markdown-jekyll-theme'
     gem 'jekyll-pandoc'
     # gem 'mermaid'
 end

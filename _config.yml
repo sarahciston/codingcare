@@ -1,5 +1,6 @@
 # theme: jekyll-theme-minimal
-remote_theme: jez/tufte-pandoc-jekyll
+# remote_theme: jez/tufte-pandoc-jekyll
+theme: pandoc-markdown-jekyll-theme
 
 title: Trans*formative TechnoCraft
 description: Critical AI needs affirming communities  
@@ -65,6 +66,8 @@ pandoc:
     - section-divs
     - from: 'markdown+tex_math_single_backslash'
     - filter: 'pandoc-sidenote'
+    - toc
+    - M: 'site__baseurl=/codingcare'
 
 # how do i indicate other folders to include in jekyll conversion again
 
