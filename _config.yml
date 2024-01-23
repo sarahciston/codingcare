@@ -64,9 +64,11 @@ markdown: Pandoc
 pandoc: 
   extensions:
     - section-divs
-    - from: 'markdown+tex_math_single_backslash'
-    - filter: 'pandoc-sidenote'
     - toc
+    - from: 'markdown+tex_math_single_backslash'
+    - bibliography: posts/includes/bibliography.json
+    - citeproc
+    - filter: 'pandoc-sidenote'
     - M: 'site__baseurl=/codingcare'
 
 # how do i indicate other folders to include in jekyll conversion again
