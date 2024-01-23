@@ -2,39 +2,29 @@
 # layout: post
 permalink: intro
 title: critical introduction
+subtitle: Trans\*formative TechnoCraft
 nav_order: 1
-date: 01.01.2024
+date: 22.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
-<!-- # Trans*formative TechnoCraft -->
-<!-- {:.no_toc} -->
+<!-- {{ page. subtitle }}
 
-<!-- #### Contents -->
+{{ page.title }} -->
 
-* TOC
-{:toc}
-
-
-<article markdown='1'>
-
-<section markdown='1'>
-
-# Critical AI & creative–critical coding need each other
+# Critical AI & creative–critical coding need each other 
 
 >"I’m stuck here inputting and outputting the data of a story I can't change."
 
 >–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther]
 
-<!-- \emoji{droplet} -->
-
-<!-- \emoji{joy} -->
-
-<span class='newthought'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
+💜 <span class='newthought'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
 The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers in order to distract from the current dangers they perpetuate. Already-toothless policy recommendations are quickly watered down and ignored. Meanwhile more and more data represent less and less diversity, more and more processing power destroys more and more planet. [What is treated as glib fun on one side of the globe is pennies a day and life or death on the other.] But why must it be this way? 
 
->"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with."<label for="sn-sharma" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-sharma" class="margin-toggle"/><span class="sidenote">Sharma, Sarah. 2020. “A Manifesto for the Broken Machine.” Camera Obscura: Feminism, Culture, and Media Studies 35 (2 (104)): 171–79. https://doi.org/10.1215/02705346-8359652. [@sharmaManifestoBrokenMachine2020]</span>
+>"We must begin with the knowledge that new technologies will not simply redistribute power equitably within already established hierarchies of difference. The idea that they will is the stuff of utopian naivete and technological determinism that got us here to begin with."[^sharma] 
+
+[^sharma]: [@sharmaManifestoBrokenMachine2020]
 
 <!-- When Ted Nelson, creator of hypertext, said in 1970 that "computerization can take whatever form we wish it to; therefore we must learn about computers in order to wish better" [@SoftwareInformationTechnology1970], it was still the era of the early internet's false promises of free, democratic, anonymous spaces.  -->
 
@@ -45,10 +35,6 @@ We cannot expect technology to solve the problems of technology. But we can recl
 >"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." <label for="sn-franklin" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-franklin" class="margin-toggle"/><span class="sidenote">[@franklinRealWorldTechnology2004]</span>
 
 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when learning programming and engaging with tech is often so intimidating? How do we keep from further marginalizing those whose perspectives are most necessary in order to face the challenges of emerging technologies and to change them? 
-
-</section>
-
-<section markdown="1">
 
 ## Critical AI must be intersectional
 
@@ -647,7 +633,6 @@ New projects are growing from the seeds of these works. [XXX][this list won't st
 - **"How Words Became Vectors":** Research mapping the sociotechnical histories of computational language representation 
 - **Future Feminist Machine Musueum:** Institution for realizing critical–creative community projects on machine learning through intersectional lenses
 
-</article>
 
 <!-- >If we collectively consider ourselves the liberated byproduct of an algorithmic futurity, radically programmed by our cyborgian ancestors and widely deployed, the answer is simple: us. [Legacy Russell on Stephanie Dinkins and Rashaad Newsome](https://www.shiftspace.pub/cyborgian-shade-legacy-russell) -->
 

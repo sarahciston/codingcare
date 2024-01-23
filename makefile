@@ -1,52 +1,75 @@
+source := posts
+output := _site
+SOURCES := posts/$(wildcard *.md)
 
-OUTPUT = "/Users/sarahciston/Desktop/codezine.pdf"
-INPUT = posts/guide.md
+# INPUT = posts/guide.md
+# OUTPUT = "/Users/sarahciston/Desktop/codezine"
+
 # METADATA = metadata.yml 
 
-FLAGS = \
+# SOURCES := posts/%.md
+# TARGETS := $(patsubst %.md, _site/%.html, posts/)
+# TARGETS := $(patsubst posts/%.md,_site/%.html,$(wildcard *.md))
+
+PDF_FLAGS = \
 		-s -f markdown+rebase_relative_paths \
-		-t pdf $(INPUT) \
+		-t pdf \
 	 	--pdf-engine=lualatex \
+		--toc \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
 		--template=latex/zine.tex \
-		-o $(OUTPUT)
+		
 
+# $(SOURCES) \ -o $(OUTPUT) 
 
-# -s -f markdown+rebase_relative_paths+yaml_metadata_block \
-# $(METADATA) \
+HTML_FLAGS = \
+		--section-divs \
+		-s -f markdown+tex_math_single_backslash \
+		--bibliography=posts/includes/bibliography.json \
+		--citeproc --toc \
+		--to html5+smart \
+		--template=_layouts/tufte.html5 \
+		$(foreach style,$(STYLES),--css $(notdir $(style))) 
+		
+STYLES := _site/assets/css/tufte.css \
+		_site/assets/css/pandoc.css \
+		_site/assets/css/pandoc-solarized.css \
+		_site/assets/css/tufte-extra.css
+
+# $(METADATA) \ 
+# \ # $(SOURCES) \ # -o $(TARGETS) \ # $<
+# --toc --metadata \ 
+# --filter pandoc-sidenote \ 
+# posts/cf-reforming.md metadata.yml \-o "/Users/sarahciston/Desktop/06-forming.pdf"
+# --number-sections
+# -s -f markdown+rebase_relative_paths+yaml_metadata_block \ 
+
+.PHONY: html
+%.html: $(source)/%.md
+		pandoc -o $(output)/$@ $(HTML_FLAGS) $<
+
+.PHONY: pdf
+%.pdf: $(source)/%.md
+		pandoc -o $(output)/$@ $(PDF_FLAGS) $<
+
+.PHONY: clean
+clean: 
+		rm -f $(output)/%.pdf
+		rm -f $(output)/%.html
+
+# .PHONY: all_pdf
+# all_pdf: $(output)/compiled.pdf
+
+# $(output)/compiled.pdf: $(sources)
+# 		cat $^ | pandoc -o $@ $(PDF_FLAGS)
+
+# .PHONY: all
+# all: $(TARGETS)
 
 # %.pdf: %.md 
-#    pandoc -o $(OUTPUT)/$@ $(FLAGS) $(INPUT) $(METADATA) $<
-
-# posts/cf-reforming.md metadata.yml \-o "/Users/sarahciston/Desktop/06-forming.pdf"
-
-# FLAGS_PDF = --template=mytemplate.tex 
-
-# all: phony output/book.pdf
+#    pandoc -o $(OUTPUT)/$@ $(PDF_FLAGS) $(METADATA) $<
 
 # output/%.pdf: $(INPUT)/%.md Makefile | output
 # 		pandoc $< -o $@ $(FLAGS)
 
-pdf:
-		pandoc $(FLAGS) 
-
-output: 
-		mkdir ./output
-
-.PHONY: clean
-
-clean: 
-		rm -rf ./output
-
-# open: phony output/book.pdf
-# 		open output/book.pdf
-
-# $<
-
-# mkdir: 
-# 		@if [ ! -e build ]; then mkdir build; fi
-
-
-# clean: 
-# 		rm -rf build/*

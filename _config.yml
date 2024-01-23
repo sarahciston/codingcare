@@ -1,7 +1,7 @@
 # theme: jekyll-theme-minimal
 theme: tufte-pandoc-jekyll
 
-gems:
+plugins:
   - jekyll-pandoc
 
 title: Trans*formative TechnoCraft
