@@ -2,21 +2,17 @@
 # layout: post
 permalink: intro
 title: critical introduction
-subtitle: Trans\*formative TechnoCraft
+subtitle: Trans*formative TechnoCraft
 nav_order: 1
 date: 22.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
-<!-- {{ page. subtitle }}
-
-{{ page.title }} -->
-
 # Critical AI & creative–critical coding need each other 
 
 >"I’m stuck here inputting and outputting the data of a story I can't change."
 
->–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther]
+>–Italo Calvino "The Burning of the Abominable House" [-@calvinoNumbersDarkOther]
 
 💜 <span class='newthought'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
@@ -40,9 +36,9 @@ Yet, how do we participate on our own terms, in order to change systems to suit 
 
 >"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
 
->–Frieder Nake, "There Should Be No Computer Art"[-@nakeThereShouldBe1971]
+>–Frieder Nake, "There Should Be No Computer Art" [-@nakeThereShouldBe1971]
 
-Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro.<label for="sn-amaro" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-amaro" class="margin-toggle"/><span class="sidenote">[-@amaroBlackTechnicalObject2022]</span> Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
+Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro[-@amaroBlackTechnicalObject2022]. Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
 
 Automated decision-making systems disproportionately harm the marginalized majority. We are subject to these systems whenever we lend our data by clicking terms of service pop-ups to make them go away; and whenever we must be recognized by borders, banks, and bureaucracies of any kind. Our varying degrees of vulnerability in these moments are exploited and profited on — from testing biometric facial technologies in refugee camps [@neddenBiometrieGetestetMillionen2017] to reinforcement learning reliant on chatbot user responses and content moderation. Much amazing research has highlighted the increasing impacts of AI systems and surveillance capitalism [@benderDangersStochasticParrots2021; @benjaminRaceTechnologyAbolitionist2019; @buolamwiniGenderShadesIntersectional2018; @browneDarkMattersSurveillance2015; @gebruDrTimnitGebru2021; @nobleAlgorithmsOppressionHow2018]. 
 
@@ -472,7 +468,7 @@ In ["Google Maps Hack (Traffic Jam)"](https://simonweckert.com/googlemapshacks.h
 
 These forms of refusal replace what they reject with alterative visions for more liberatory technologies. Creative and social computing scholar and activist Dan McQuillan argues current AI systems exacerbates existing aspects of society that act violently to exclude and enclose. He calls for an anti-facist approach to AI that can [enact/enforce/instantiate] "a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we're already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good" [@mcquillanResistingAIAntifascist]. We can start with looking at how existing models, methods, and methodologies indicate the changes that need to be made, not in the models alone but in the world, argues digital democracy scholar Wendy H. K. Chun: "Machine learning and predictive models as they currently exist can also resist reduction, but only if we treat the gaps between their results and our realties as spaces for political action, not errors to be fixed. [We need to treat these models as we do global climate change models. GCC models offer us the most probable future, given past actions, not so that we accept that future, but so we work to change it. Only global climate change deniers seek to fix the model, rather than the world.]" [@chunDiscriminatingDataCorrelation2021]. As Chun and McQuillan suggest, we need more than the mere governance of emerging technologies as they are currently conceived, and instead require moves towards prefigurative practices. Crafty tactical media can queer the use of machine learning systems and other emergent technologies in order to reveal their classificatory, reductionist logics. By applying techniques like aversarial use, extreme use, handcraft practices, and esoteric systems, a TechnoCraft lens helps imagine and enact "a committment to radical alternatives." As TechnoCraft suggests, such alternatives already exist, if we are willing to write, build, create, and cooperate in ways that reveal them and allow them to flourish.  
 
->"Embracing the nuances of crafted art forms [...] exemplifies the non-linear, embodied, diffractive ways of reading, interpreting, and understanding the world while questioning what AI tools can do and the extent to which craftspeople have a say in what AI tools should be doing instead. I contend that AI does not produce newness but rather 'newly' suggests how craftspeople have always been creative agents for shaping the future of culturally and visually-informed algorithmic systems." [@reddyReadingAIFamily]
+>"Embracing the nuances of crafted art forms [...] exemplifies the non-linear, embodied, diffractive ways of reading, interpreting, and understanding the world while questioning what AI tools can do and the extent to which craftspeople have a say in what AI tools should be doing instead. I contend that AI does not produce newness but rather 'newly' suggests how craftspeople have always been creative agents for shaping the future of culturally and visually-informed algorithmic systems." [@reddyReadingAIFamily2023]
 
 # What's included
 

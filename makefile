@@ -1,5 +1,5 @@
 source := posts
-output := _site
+output := docs
 SOURCES := posts/$(wildcard *.md)
 
 # INPUT = posts/guide.md
