@@ -60,9 +60,6 @@ Yes, in many cases it would be nice to have more, better data. But the very vali
 
 While the need for AI oversight is clear, many have been calling for total overhaul and algorithmic justice, like computer scientist Joy Buolamwini [@buolamwiniAJLALGORITHMICJUSTICE]. [Still, practical applications of these valid critiques remain difficult to implement.] How do we get there? Intersectional AI calls for demystifying normative AI systems and learning from marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through the technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investments in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022]. As a term, 'Trans\*formative' looks for root causes and radical alternatives to the computational logics that perpetuate [harmful systemic inequities].
 
-</section>
-<section markdown="1">
-
 ## Critical, intersectional approaches mean creative, caring approaches
 <!-- ## We Need Creative–Critical–Caring Approaches  -->
 
@@ -106,9 +103,6 @@ In my experience, this imaginative work is central to supporting very practical 
 >"Bots can make arguments. [...] bots exist to shine a light on how things already work, but also to test the edge cases, and to propose alternatives. [...] bots are procedures against procedures." -Allison Parrish, "Procedure vs Procedure"
 
 >"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
-
-</section>
-<section markdown="1">
 
 # What is Trans\*formative TechnoCraft?
 
