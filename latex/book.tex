@@ -12,17 +12,18 @@
 \setlength{\parskip}{8pt plus 2pt minus 1pt}
 \raggedright
 \linespread{1.7}
-
+\renewcommand*{\sectionformat}{} %remove section numbering
 
 %%% TYPESET %%%
 \usepackage{fontspec}
 \usepackage{emoji}
-% \setmainfont{Noto Color Emoji}[Renderer=Harfbuzz]
 \setromanfont{Noto Sans}
 \setsansfont{Noto Sans Mono}
 \setmonofont{Noto Sans Mono}
+\setemojifont{Apple Color Emoji} % must use syntax \emoji{%nameofemoji%}
+\usepackage[normalem]{ulem} %for strikethrough
 % \setemojifont{Noto Color Emoji}[Renderer=Harfbuzz]
-\setemojifont{Apple Color Emoji} 
+% \setmainfont{Noto Color Emoji}[Renderer=Harfbuzz]
 % \usepackage{noto}
 % \renewcommand{\familydefault}{\sfdefault}
 % \renewcommand{\familydefault}{\ttsubstdefault}
@@ -74,13 +75,10 @@ $endif$
 
 %%% FRONTMATTER %%%
 
-\title{Trans\*formative TechnoCraft}
+\title{Trans*formative TechnoCraft}
 \author{Sarah Ciston}
 \date{\today}
 \setcounter{tocdepth}{2} 
-% \renewcommand{\contentsname}{Table of Contents}
-% \renewcommand{\printtoctitle}{Table of Contents}
-
 
 %%% CONTENT %%%
 
@@ -90,6 +88,8 @@ $endif$
 \renewcommand{\contentsname}{Table of Contents}
 \tableofcontents
 \listoffigures
+
+\newpage
 
 % \chapter*{Abstract}
 % XYXYXYXYX This is the abstract.

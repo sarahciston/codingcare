@@ -1305,7 +1305,7 @@ Kit Braybrooke landed on a similar approach when building out the COVID Creative
 –[@braybrookeTogetherWeDance2020]
 </p>
 
-Baybrooke chose to work in a shared doc because of "the difficulties of trying to engage with any kind of new or more interesting platform as the internet is increasingly enclosed" [@baybrookeTogetherWeDance2020]. While an etherpad on a self-hosted server may be preferred (we love the setup by [Varia](https://etherdump.vvvvvvaria.org/)), don't worry if a google doc is the right choice for a particular project, audience, or prototype. The important thing is to get started. 
+Baybrooke chose to work in a shared doc because of "the difficulties of trying to engage with any kind of new or more interesting platform as the internet is increasingly enclosed" [@braybrookeTogetherWeDance2020]. While an etherpad on a self-hosted server may be preferred (we love the setup by [Varia](https://etherdump.vvvvvvaria.org/)), don't worry if a google doc is the right choice for a particular project, audience, or prototype. The important thing is to get started. 
 
 Minimal choices support different purposes. They sometimes offer more access, or keep the information more legible and adaptable for friends who might want to interact with it later, or for us if we build or rebuild it one day. 
 

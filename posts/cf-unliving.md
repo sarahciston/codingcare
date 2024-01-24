@@ -10,7 +10,7 @@ date: 17.01.2024
 
 # Codes for (Un)Living
 
->"Find something to adore and keep talking to it." –Martin Shaw -[@shawCourtingWildTwin2020]
+>"Find something to adore and keep talking to it." –Martin Shaw [-@shawCourtingWildTwin2020]
 
 I am still alive, On Kawara.  It takes so much: To get up, at a time. To make a painting. To make a day. Day after day. You fit this feeling in a postcard. You report the dailiness and so it is remarkable.
 
@@ -32,9 +32,9 @@ On Kawara, how were you feeling on APR 3 1969? I triangulate a mood from two sep
 
 I recognize such knotted neighborhood walks in my slowest days. I don't mark these patterns down in red pen (except for one photography project in college in which I traced everywhere I drove in Los Angeles on a map before an app did this for me), but I have always seen my 'self' from this angle — small, [on a map,] abstract in relation to concepts like 'north'. I notice how little my movements cover the earth. I like places where I can get up high or see far, until the horizon seems to curve. I think, 'I am on a planet', and the smallness I already feel is more palpable. 
 
-On other days, when I am more in a body, I notice how much space it takes up — how it barely fits where it's told and it aches and it moves like my mother's body now. I worry how much ecological impact it contributes. I let in all these tracing technologies to admit to the uncanny feeling I already have. But the sense of being traced by satellites is not your telegram path or paintbrush. This is something different from presence and displacement. [Attunement is not technical alignment.] "Melancholy is a latent or paused anticipation of something necessarily unknowable" [@robertsonNillingProseEssays2012]. Despite all my settings, I know the maps know where I am. I know my mom can pull up her phone and find me: a tiny dot pulsing, still a 'live' representation.[^a-life] I leave this on because she likes it more than it bothers me. If a drone can find me, my mom might too. 
+On other days, when I am more in a body, I notice how much space it takes up — how it barely fits where it's told and it aches and it moves like my mother's body now. I worry how much ecological impact it contributes. I let in all these tracing technologies to admit to the uncanny feeling I already have. But the sense of being traced by satellites is not your telegram path or paintbrush. This is something different from presence and displacement. [Attunement is not technical alignment.] "Melancholy is a latent or paused anticipation of something necessarily unknowable" [@robertsonNillingProseEssays2012]. Despite all my settings, I know the maps know where I am. I know my mom can pull up her phone and find me: a tiny dot pulsing, still a 'live' representation. I leave this on because she likes it more than it bothers me. If a drone can find me, my mom might too. 
 
-[^a-life]: How did 'live' come to mean 'current' instead of 'to live' or 'alive'? Conway's Game of Life is the best known example of 'a-life', or what's called artificial life, a basic algorithm in which a small set of rules play out into infinite complexity over thousands of cycles. Its shapes can be followed like an unnatural ant farm: 'gliders', 'guns', 'crawlers', and 'eaters'. Nothing about this feels 'lively' to me, so life must be something else. Its patterns look to me instead like knitting patterns for lacework. 
+<!-- [^a-life]: How did 'live' come to mean 'current' instead of 'to live' or 'alive'? Conway's Game of Life is the best known example of 'a-life', or what's called artificial life, a basic algorithm in which a small set of rules play out into infinite complexity over thousands of cycles. Its shapes can be followed like an unnatural ant farm: 'gliders', 'guns', 'crawlers', and 'eaters'. Nothing about this feels 'lively' to me, so life must be something else. Its patterns look to me instead like knitting patterns for lacework.  -->
 
 ===
 
@@ -62,7 +62,9 @@ Someone reminds me it is not my responsibility to keep other people alive, no ma
 
 But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing at dramatic speed. Unaliving at accelerating pace. 
 
-'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography, although they do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real. Still we must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`:bee:`an` and `$uicid3`, to con these 'sophisticated' systems by hovering in the redacted [neither-and]. 
+**For the last 100 days each day a girl posts a video online from Palestine that says, "This is Bisan. I am still alive." She knows the next day she might not.**
+
+'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography, although they do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real. Still we must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`\emoji{bee}`an` and `$uicid3`, to con these 'sophisticated' systems by hovering in the redacted [neither-and]. 
 
 And speaking of the void, recently [they] added a Boolean operator to Javascript called Nullish, written `??`. (I know, right? My feelings exactly.)
 
@@ -71,6 +73,7 @@ Nullish distinguishes `null` and `undefined` from `False` and `NaN` (Not a Numbe
 Oh, to be Nullable coalescing, there or/and nothing. 
 
 >"the fractal dimension of compassion is that of not self, not other, not both self and other, and not neither self nor other" [@sedgwickWeatherProust2012]. 
+
 
 ===
 

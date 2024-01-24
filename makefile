@@ -1,6 +1,8 @@
 source := posts
-output := docs
+outputhtml := docs
+outputpdf := assets/pdf
 SOURCES := posts/$(wildcard *.md)
+TEMPLATE = book.tex 
 
 # INPUT = posts/guide.md
 # OUTPUT = "/Users/sarahciston/Desktop/codezine"
@@ -18,7 +20,7 @@ PDF_FLAGS = \
 		--toc \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
-		--template=latex/zine.tex \
+		--template=latex/$(TEMPLATE) \
 		
 
 # $(SOURCES) \ -o $(OUTPUT) 
@@ -47,11 +49,11 @@ STYLES := _site/assets/css/tufte.css \
 
 .PHONY: html
 %.html: $(source)/%.md
-		pandoc -o $(output)/$@ $(HTML_FLAGS) $<
+		pandoc -o $(outputhtml)/$@ $(HTML_FLAGS) $<
 
 .PHONY: pdf
 %.pdf: $(source)/%.md
-		pandoc -o $(output)/$@ $(PDF_FLAGS) $<
+		pandoc -o $(outputpdf)/$@ $(PDF_FLAGS) $<
 
 .PHONY: clean
 clean: 

@@ -8,13 +8,13 @@ date: 22.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
 ---
 
-# Critical AI & creative–critical coding need each other 
+# \emoji{robot} Critical AI & creative–critical coding need each other 
 
 >"I’m stuck here inputting and outputting the data of a story I can't change."
 
->–Italo Calvino "The Burning of the Abominable House" [-@calvinoNumbersDarkOther]
+>–Italo Calvino "The Burning of the Abominable House" [-@calvinoNumbersDarkOther1976]
 
-💜 <span class='newthought'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
+<span class='newthought'>*Trans\*formative TechnoCraft* argues for the essential entanglement</span> of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
 The stakes are high: technologies like machine learning urgently require transformative interventions that recalibrate their values and [stakeholders]. The communities most impacted by them, and best poised to intervene, go unheard as powerful actors profit from their data and labor exploitation. These companies warn of hyperbolic coming dangers in order to distract from the current dangers they perpetuate. Already-toothless policy recommendations are quickly watered down and ignored. Meanwhile more and more data represent less and less diversity, more and more processing power destroys more and more planet. [What is treated as glib fun on one side of the globe is pennies a day and life or death on the other.] But why must it be this way? 
 
@@ -32,7 +32,7 @@ We cannot expect technology to solve the problems of technology. But we can recl
 
 Yet, how do we participate on our own terms, in order to change systems to suit us? Especially when learning programming and engaging with tech is often so intimidating? How do we keep from further marginalizing those whose perspectives are most necessary in order to face the challenges of emerging technologies and to change them? 
 
-## Critical AI must be intersectional
+## \emoji{bumblebee} Critical AI must be intersectional
 
 >"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
 
