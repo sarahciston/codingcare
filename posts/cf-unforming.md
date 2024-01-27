@@ -8,6 +8,11 @@ date: 22.01.2024
 ---
 
 # Codes for (Un)Forming
+
+Is the opposite of 'transformative' 'unforming'? Or merely 'forming'? THe thesaurus antonym of 'transformative' is 'uneventful' or 'ordinary' but this misses the form-al aspect. 
+
+
+
 <!-- combines queer use (ahmed), glitch feminism (russel), trans/gender glitch (sunden), broken machines (sharma), -->
 <!-- --shift-heading-level-by=NUMBER -->
 
@@ -23,6 +28,13 @@ Is it unforming or reforming, or these are the same.
 
 
 <!-- >"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014] -->
+
+
+A form requires a platform, a substrate, a surface upon which to form, a meshwork, a matrix, a uterus to scaffold and shape it, inform it and feed it. Becoming by forming, changing by (re)forming, 
+
+A prompt is a kind of platform, a place off which to jump, from which to start. Like a diving platform, a prompt sets you up for something. 
+
+Some prompts are setups. Some prompts are built to go nowhere, even if they could go anywhere. Some prompts are thwarted. 
 
 
 
@@ -73,6 +85,8 @@ Except actually the way I dreamt the sentence, but was afraid to write it down:
 ![violates policy](../_site/assets/img/violatepolicy.png)
 
 I want a machine (un)learning that maps points of non-correspondence, de-limiting the ways we might relate to one another. 
+
+VALIE, I want a tim
 
 I want a dyke for president, and I want a chat bot that can imagine it and tell me about a dyke president without it "violating its content policy," or even a chatbot that can tell me about the very real artwork by Zoe Leonard called "I want a dyke for president" based on the dyke poet Eileen Myles' very real run for president. Is it so hard to imagine such things when they do in fact exist? Or are on the cusp of existing? When they are ignored by automated systems, they become harder to imagine. Instead of imagining even these very real things, the chatbot freezes its screen and makes me acknowledge that my request "may violate its content policy" in order to continue. It makes me submit, admit, click, be ashamed. Then it resets, erasing my query altogether. No results, no record of my query. Did it fall down a pit somewhere that censored content goes to be moderated, where an underpaid underage non-employee in a country we refuse to acknowledge will look at my dyke president request along with countless grotesque descriptions? I want a chatbot that lives in a world that can even imagine a dyke president, or a poem about a dyke president, just like Zoe Leonard did and Eileen Myles did: "someone who has made mistakes and learned from them" instead of feeding me milquetoast lines about the importance of diversity while offering me none. 
 
@@ -212,6 +226,36 @@ My name sounds strange in anyone's mouth, the time it takes for me to realize yo
 
 
 The symbols for mathematical notation, crochet notation, electrical notation, and alchemical notation have much in common.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- ⌁⌁⌁ techno &#x2301;
 ⌇⌇⌇craft &#x2307;

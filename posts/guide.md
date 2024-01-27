@@ -961,6 +961,8 @@ By meeting each other where we are and valuing what each person can contribute t
 
 ### LIVE CODE: p5 / OSACC 
 
+Q welcomed me into the community of P5.js by telling me I was already a part of it — even if I did not feel like it yet. [She] encouraged me . By using open-source software, by teaching with the software, helping others learn it, I had joined 
+
 </div>
 
 ## 7. We dream big (and small)

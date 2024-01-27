@@ -213,14 +213,15 @@ strategies for facilitating communities of practice, for alternative accessible 
 
 
 ### inspo: people & communities, writerly forms
-* Sara Ahmed
+* Sara Ahmed (see also Wendy Chun, Eve Sedgwick) a lyric academic voice that feels exploratory, associative, teases out etymologies
+* adrienne marie brown, writing for publics, writing for change, writing with urgency and clarity
+* Jenny Holzer, text as large scale art, quippy & concise
 * Lauren Berlant
-* adrienne marie brown
 * KJ Cerankowski
 * Wendy Chun
+* Eve Sedgwick
 * Alexis Pauline Gumbs
 * Maggie Nelson
-* Eve Sedgwick
 * Eve Tuck
 * Lola Olufemi
 
