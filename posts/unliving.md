@@ -26,21 +26,21 @@ You chose a few basic rituals and stuck with them. Sometimes the only affirmatio
 
 ===
 
-I got up at 9:50am. I woke up several times before that, but I didn't get up. In your 'I got up at' postcard series, the times range wildly. This makes me like you more. I resent shows of dedication that seem to claim the moral high ground as the secret to success. Like if I really wanted to 'be an artist' I would have gotten up at 4am — as if this is the formula for everyone, as if we share the same capacities and resources[, as if some people don't also get up at 4am to go to their second or third job].
+I got up at 9:50am. I woke up several times before that, but I didn't get up. In your 'I got up at' postcard series, the times range wildly. This makes me like you more. I resent shows of dedication that seem to claim the moral high ground as the secret to success. Like if I really wanted to 'be an artist' I would have gotten up at 4am — as if this is the formula for everyone, as if we share the same capacities and resources.
 
-On Kawara, how were you feeling on APR 3 1969? I triangulate a mood from two separate pieces you made that day. Some days you made contributions to many datasets. Along with 'I am still alive' and 'I got up at', you often made 'I went' and 'I met', which indexed your daily travels (on a map) and interpersonal encounters (in a list of names). On APR 3 1969 you got up at 2:56 PM and made a very tight path around your neighborhood in Manhattan. Just four blocks by four blocks. Maybe you only went out to mail the postcard that said 'I GOT UP AT' and to eat or to shop for a meal. Maybe you didn't eat. I assume you met with no one, because I could not find the data. Although you were still alive, you sent no telegram to confirm. 
+On Kawara, how were you feeling on APR 3 1969? I triangulate a mood from two separate pieces you made that day. Some days you made contributions to many datasets. Along with 'I am still alive' and 'I got up at', you often made 'I went' and 'I met', which indexed your daily travels (on a map) and interpersonal encounters (in a list of names). On APR 3 1969 [your postcard says] you got up at 2:56 PM and [your map says] you made a very tight path around your neighborhood in Manhattan. Just four blocks by four blocks. Maybe you only went out to mail the postcard that said 'I GOT UP AT' and to eat or to shop for a meal. Maybe you didn't eat. I assume you met with no one, because I could not find the data. Although you were still alive, you sent no telegram to confirm. 
 
-I recognize such knotted neighborhood walks in my slowest days. I don't mark these patterns down in red pen (except for one photography project in college in which I traced everywhere I drove in Los Angeles on a map before an app did this for me), but I have always seen my 'self' from this angle — small, [on a map,] abstract in relation to concepts like 'north'. I notice how little my movements cover the earth. I like places where I can get up high or see far, until the horizon seems to curve. I think, 'I am on a planet', and the smallness I already feel is more palpable. 
+I recognize such knotted neighborhood walks in my slowest days. I don't mark these patterns down in red pen (except for one photography project in college in which I traced everywhere I drove in Los Angeles on a map before an app did this for me), but I have always seen my 'self' from this angle — small, mapped, abstract in relation to concepts like 'north'. I notice how little my movements cover the earth. I like places where I can get up high or see far, until the horizon seems to curve. I think, 'I am on a planet', and the smallness I already feel is more palpable. 
 
-On other days, when I am more in a body, I notice how much space it takes up — how it barely fits where it's told and it aches and it moves like my mother's body now. I worry how much ecological impact it contributes. I let in all these tracing technologies to admit to the uncanny feeling I already have. But the sense of being traced by satellites is not your telegram path or paintbrush. This is something different from presence and displacement. [Attunement is not technical alignment.] "Melancholy is a latent or paused anticipation of something necessarily unknowable" [@robertsonNillingProseEssays2012]. Despite all my settings, I know the maps know where I am. I know my mom can pull up her phone and find me: a tiny dot pulsing, still a 'live' representation.[^a-life] I leave this on because she likes it more than it bothers me. If a drone can find me, my mom might too. 
+On other days, when I am more in a body, I notice how much space it takes up — how it barely fits where it's told and it aches and it moves like my mother's body now. I worry how much ecological impact it contributes. I let in all these tracing technologies to admit to the uncanny feeling I already have. But the sense of being traced by satellites is not your telegram path or paintbrush. This is something different from presence and displacement. [Attunement is not technical alignment.] "Melancholy is a latent or paused anticipation of something necessarily unknowable" [@robertsonNillingProseEssays2012]. Despite all my settings, I know the maps know where I am. I know my mom can pull up her phone and find me: a tiny dot pulsing, still a 'live' representation.<!--[^a-life]--> I leave this on because she likes it more than it bothers me. If a drone can find me, my mom might too. 
 
-[^a-life]: How did 'live' come to mean 'current' instead of 'to live' or 'alive'? Conway's Game of Life is the best known example of 'a-life', or what's called artificial life, a basic algorithm in which a small set of rules play out into infinite complexity over thousands of cycles. Its shapes can be followed like an unnatural ant farm: 'gliders', 'guns', 'crawlers', and 'eaters'. Nothing about this feels 'lively' to me, so life must be something else. Its patterns look to me instead like knitting patterns for lacework. 
+<!-- [^a-life]: How did 'live' come to mean 'current' instead of 'to live' or 'alive'? Conway's Game of Life is the best known example of 'a-life', or what's called artificial life, a basic algorithm in which a small set of rules play out into infinite complexity over thousands of cycles. Its shapes can be followed like an unnatural ant farm: 'gliders', 'guns', 'crawlers', and 'eaters'. Nothing about this feels 'lively' to me, so life must be something else. Its patterns look to me instead like knitting patterns for lacework.  -->
 
 ===
 
 On Kawara, like you, I also made artwork that tracked my daily habits. I collected as many streams of the data I was producing as possible. To over-know the body through data was eventually to say nothing much at all. Collecting turns being into producing, a new kind of labor where I do nothing but my body makes a profit that estranges me. Over-thinking meaning, over-writing data, working-over my overworked datapoints, rewriting the read-outs — in the ads I can become one minor market for my dataself. I can replace proprioception with real-time sensor feedback. Replace interoception with outputs and analyses. 'Live' tracking my heart rate seems redundant but appealing. It offers the illusion of insight if I offer the sleeping, reading, breathing, thinking I am already doing. By tracking it, extracting it, selling it, the devices turn living into labor. Their proprietary systems make it valuable, not me. My sleeping, reading, breathing, thinking doesn't matter until it's data. Every day I get up at, and I check my heartbeat. I check the devices which tell me, 'I got up at', and I charge these devices. I spend money and time and labor on them. Every day their systems know about me, just like Sol LeWitt knew about you from your telegram. But we're not friends. The data I create now implicate me in advance — of actions I haven't taken and devices not yet invented and crimes not yet described. Sometimes 'I am still alive' is already giving too much away.
 
-I felt young and girlish when I made data art. I felt selfish. [Would I have felt that way if it was someone else's data, someone less young- and girlish-seeming?] I got constructive criticism like, "You sure do sleep a lot. Are you depressed?" On Kawara, I think I slept about the same as you, and I'm sure we are both read into, and I suppose that is some part of the point, but I still didn't like the feeling. 
+I felt young and girlish when I made data art. I felt selfish. Would I have felt that way if it was someone else's data, someone less young- and girlish-seeming? I got constructive criticism like, "You sure do sleep a lot. Are you depressed?" On Kawara, I think I slept about the same as you, and I'm sure we are both read into, and I suppose that is some part of the point, but I still didn't like the feeling. 
 
 So instead I made artworks that asked other people to share. I asked for compassion, in small portable phrases, because I needed to learn to like it. I wanted phrases that could be turned from sound into writing into data packets into sound again. I thought machine learning would be a faulty tool for this, and I wanted to show the faults. Art-making was a way to make it weird. 
 
@@ -96,47 +96,55 @@ I am still alive. Most days it doesn't feel remarkable or enough. I don't know h
 
 ===
 
-the computer is a classifying machine, if code is built on binary and the zeros and ones are made to say either or, not [either and] … [both maybe] a voltage rush, a spark gap… **what is the computational system built on the surges and loss, the wavering? the felt feeling?** you’ll argue this is getting metaphorical not close to the metal (a metaphor) what could be closer to the metal than bone, that wrended flesh? 
+<!-- the computer is a classifying machine, if code is built on binary and the zeros and ones are made to say either or, not [either and] … [both maybe] a voltage rush, a spark gap… **what is the computational system built on the surges and loss, the wavering? the felt feeling?** you’ll argue this is getting metaphorical not close to the metal (a metaphor) what could be closer to the metal than bone, that wrended flesh?  -->
 
 
 ![](../assets/img/Kawara_IGotUp1036.jpg)
 
-### reading comments
+<!-- ### reading comments -->
 
-footnotes get skipped over. reading aloud works
+- add details of my data art practice (or not), more technical to balance OK's
+- add details of OK's epistolary relations, more personal to balance my personal
+- add technical description of telegram, how someone sends, processes. how he made postcards.
+- add or connect or remove contemp ref to global issue
+- tracking the relations more for us both, triangulations of care redefined through datapoints
+- ...as a way of tracking/mapping the image of the dot throughout a representation of care
+- OK's performance of reading the numbers 1-1mil: "1000 days 1 million years"
+- breath, pulse, blue dot
 
-unfamiliar, uncanny atmosphere, two novels: David M wittgensteins mistress, christine __meyers Landscape. references. role of tech, dead/living/ communication with past. contemp nonfiction taking tone of postapocalypse. lean into  . hearing it from an AI voice 1000 years from now alone on a loop. 
+<!-- footnotes get skipped over. reading aloud works -->
 
-slashes, word choices, tangible references. data and coding, feels tactile. seeing all together pleasurable even if scared of code it's okay. 
+<!-- unfamiliar, uncanny atmosphere, two novels: David M wittgensteins mistress, christine __meyers Landscape. references. role of tech, dead/living/ communication with past. contemp nonfiction taking tone of postapocalypse. lean into  . hearing it from an AI voice 1000 years from now alone on a loop.  -->
 
-a cumulative effect of on kawara. how the text replicates this, effective. 
+<!-- slashes, word choices, tangible references. data and coding, feels tactile. seeing all together pleasurable even if scared of code it's okay.  -->
 
-six sections distinct chapters, all loops together, progression intros us to code, section four is heavy, movement between i and address, beautifully with larger project. 
+<!-- a cumulative effect of on kawara. how the text replicates this, effective.  -->
 
-approach OK with distance of time diff moment with digital devices, his quiotidian dates/postcards/labor in context of auto tracking/collection, mother's experience of me. expand: 1) anecdotes of people kowara wrote to, commercial, vs friend, analog/epistolary; 2) couldn't see my data art practice, describe more detail, put picture in. 
+<!-- six sections distinct chapters, all loops together, progression intros us to code, section four is heavy, movement between i and address, beautifully with larger project.  -->
 
-agree see artwork. sincere, close to writing, caught off guard. strong observation of how we approach mental health with machine learning. medicine and AI used together long time. how far patterns go to describe us or categorize us, where to find a balance. 
+<!-- approach OK with distance of time diff moment with digital devices, his quiotidian dates/postcards/labor in context of auto tracking/collection, mother's experience of me. expand: 1) anecdotes of people kawara wrote to, commercial, vs friend, analog/epistolary; 2) couldn't see my data art practice, describe more detail, put picture in.  -->
 
-technical writing, new categorization of nothingness, does increasing categorization of nothingness make it go away or create another type of order, reads funny next to falsy.
+<!-- agree see artwork. sincere, close to writing, caught off guard. strong observation of how we approach mental health with machine learning. medicine and AI used together long time. how far patterns go to describe us or categorize us, where to find a balance.  -->
 
-putting my art in conversation with OK's in question with aliveness and what data collection has to do with this. pulled in to what could recognize more easily, the relations, tracking the people: mother, friend. wanted to see the art. the task felt like making those connections between writer's art and their relations' potential aliveness or writers' anxiety, question of care and mothering, triangulation of mother's caring through technology and writer's same care for friend through technology. anchors/structure. 
+<!-- technical writing, new categorization of nothingness, does increasing categorization of nothingness make it go away or create another type of order, reads funny next to falsy. -->
 
-reminded of hugh lemine, hildegard unknown language, bahnu kapil. reforges new definitions of familial intimacy, when we're asked to reevaluate ourselves as data points. want to hear more about figure of/spectre of the drone: if a drone/mother, appears again at end, harbinger of violence, unexpected, different scale of the other violences, curious about it and difficult to reconcile. 
+<!-- putting my art in conversation with OK's in question with aliveness and what data collection has to do with this. pulled in to what could recognize more easily, the relations, tracking the people: mother, friend. wanted to see the art. the task felt like making those connections between writer's art and their relations' potential aliveness or writers' anxiety, question of care and mothering, triangulation of mother's caring through technology and writer's same care for friend through technology. anchors/structure.  -->
 
-word choices [/] adds personal encoding, add to the personal on OK's side to parallel own experience. most compelling the language we're using with the personal vs computational "unaliving" stronger connections to the change in our own understanding. more?
+<!-- reminded of hugh lemine, hildegard unknown language, bahnu kapil. reforges new definitions of familial intimacy, when we're asked to reevaluate ourselves as data points. want to hear more about figure of/spectre of the drone: if a drone/mother, appears again at end, harbinger of violence, unexpected, different scale of the other violences, curious about it and difficult to reconcile.  -->
 
-grounded in presentness, heartbeat, rhythm, didn't need to see artwork in but as companion, 
+<!-- word choices [/] adds personal encoding, add to the personal on OK's side to parallel own experience. most compelling the language we're using with the personal vs computational "unaliving" stronger connections to the change in our own understanding. more? -->
 
-Lisa: drawn to granular way addressing pro/con allures and scary aspects of crimes/self body. interesting way in. spectrum. the commercial aspect of the art i discuss, my dissertation part of a larger economic system that expects from me. *the personal being so closely tied to economic interests.* time creates something not tied to a moment because of how pitch things tied to me and not tied to me, the violences opens a way to think about time in a way, what's being recorded, not pinpointing but describing. 
+<!-- grounded in presentness, heartbeat, rhythm, didn't need to see artwork in but as companion,  -->
 
-Ashley: tactile, images. font. coding. reflected what text is doing moving through time w different types of technologies. pointing to ideas that as tech advances comm becomes easier but less personal. telegraph/postcards a physical thing vs receiving emojis in months. echo but reflect change in effort and personalization, reflects the distance between people. Syntax: blunt and fragmented, contrast w the research integrated. truncated abruptness reflects the postcards. epistolary to write to someone who is dead, addressing the format, as a way to explicitly address the act of living. 
+<!-- Lisa: drawn to granular way addressing pro/con allures and scary aspects of crimes/self body. interesting way in. spectrum. the commercial aspect of the art i discuss, my dissertation part of a larger economic system that expects from me. *the personal being so closely tied to economic interests.* time creates something not tied to a moment because of how pitch things tied to me and not tied to me, the violences opens a way to think about time in a way, what's being recorded, not pinpointing but describing.  -->
 
-very visual, presentation as reading in a circle. OK 1000 days 1 million years, performance of reading the numbers 1-100000. writing about displacement and mapping as a dot perspective, way to concider care and safety and embodiment and transencoding. postcard/male documentation. care and how you view someone as family. sleeping section, curious to know more, as a way of dreaming, coretical sleeping. 
+<!-- Ashley: tactile, images. font. coding. reflected what text is doing moving through time w different types of technologies. pointing to ideas that as tech advances comm becomes easier but less personal. telegraph/postcards a physical thing vs receiving emojis in months. echo but reflect change in effort and personalization, reflects the distance between people. Syntax: blunt and fragmented, contrast w the research integrated. truncated abruptness reflects the postcards. epistolary to write to someone who is dead, addressing the format, as a way to explicitly address the act of living.  -->
 
-not needing to see the artwork, pulsing dot visually present throughout. the dates and time connected w personal experience felt like i was mapping something. transform something cold robotic, distant to personal and breathing. 
+<!-- very visual, presentation as reading in a circle. OK 1000 days 1 million years, performance of reading the numbers 1-100000. writing about displacement and mapping as a dot perspective, way to consider care and safety and embodiment and transencoding. postcard/male documentation. care and how you view someone as family. sleeping section, curious to know more, as a way of dreaming, coretical sleeping.  -->
 
+<!-- not needing to see the artwork, pulsing dot visually present throughout. the dates and time connected w personal experience felt like i was mapping something. transform something cold robotic, distant to personal and breathing.  -->
 
-how someone sends a telegram. the technical stuff. how he made the postcards. 
+<!-- how someone sends a telegram. the technical stuff. how he made the postcards.  -->
 
 
 

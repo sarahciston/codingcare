@@ -39,7 +39,7 @@ Except I actually dreamt the second sentence differently, and at the time I was 
 
 All parts of this break my heart — the dreamt version, the re-written version, the hiding and having to unhide.
 
-![violates policy](../_site/assets/img/violatepolicy.png)
+![violates policy](../assets/img/violatepolicy.png)
 
 A prompt is a kind of platform, a place off which to jump, from which to start. Like a diving platform, a prompt sets you up for something, a fall. Some prompts are setups. Some prompts are built to go nowhere, even if they could go anywhere. Some prompts are thwarted. 
 
