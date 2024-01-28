@@ -9,79 +9,82 @@ date: 27.01.2024
 
 # Codes for (Un)Forming
 
-The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's violated, when I don't have enough space or when I'm taking too much. Otherwise just: The body, body, vessel, hungry, tired, aching, thing. A tool I only notice when it's broken. 
+The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's violated, when I don't have enough space or when I'm taking too much. Otherwise just: The body, body, tired, vessel, hungry, aching, thing. A tool I notice only when it's broken. 
 
-Becoming-concrete. Becoming-curb. Becoming-scaffold. VALIE, your body configurations made your body something between still life and parkour. 
+Becoming-concrete. Becoming-curb. Becoming-scaffold. VALIE, your body configurations made [your] body something between still life and parkour. 
 
-Feel like VALIE tromping through fields, unwieldy cameras strapped front and back tipping side to side and crawling through the air to make strange pictures in stereo vision. An animal with wild eyes. This was 1973 and now we all have a miniature version of the front-back camera you made your whole body into. You said, "between these pictures is the body that is invisible, cutting the room." Imagine the room you're in without your body, just the cut it makes. Imagine a hollow in the negative [shape] of you. 
+Feel like VALIE tromping through fields, unwieldy cameras strapped front and back tipping side to side and crawling through the air to make strange pictures in stereo vision. An animal with wild eyes. This was 1973 and now we all have a miniature version of the front-back camera you made your whole body into. You said, "between these pictures is the body that is invisible, cutting the room." 
+
+[Reader,] imagine the room you're in without your body, just the cut it makes. Imagine a hollow in the negative [shape] of you. 
 
 Don't you know it's all about platforms now? 
 
-Form requires a platform, a substrate, a surface upon which to form, a meshwork, a matrix, a uterus to scaffold and shape it, inform it and feed it. 
+Form requires a platform, a substrate, a surface upon which to form, a meshwork, a matrix, a scaffold, a uterus: To shape it. Inform it. Feed it.
 
-These platforms are designed to disappear. 
+These platforms are designed to disappear. Concrete, curb, scaffold. 
 
 MOBILE FIRST! 
 
 The bleakness of platforms is dreamlike. The platform is a container and, as soon as I am inside, my body (of language) is contained. The train platform is moving as I depart. I must ignore the landscape it forms around me. I wake up with its weapons in my hands. 
 
-We cobble together platforms into a collaborative monster: *I'll meet you on zoom and slack and google docs; have them all open at once on this apple screen, this 7-inch mobile, on this hololens.* These gestures are patented, in this invasive dream where I am at work still, even in sleep. In another tab I have open an article about the osage orange hedges that fenced in America, their brambles impenetrable, carving up the land and enclosing it to claim it [@SurprisingAncientHistory2021].
+To survive we cobble together platforms into a collaborative monster: *I'll meet you on zoom and slack and google docs; have them all open at once on this apple screen, this 7-inch mobile, on this hololens. I walk right through you while we brainstorm [a tide we can't change].* These gestures are patented, in this invasive dream where I am at work still, even in sleep. In another tab I have open an article about the osage orange hedges that fenced in America, their brambles impenetrable. Settlers carved up the land and enclosed it to claim it [@SurprisingAncientHistory2021].
 
-Usually I dream about work or about being chased, never flying. Occasionally I code in my sleep, and very rarely I will dream in succinct but complete phrases. No scenes, just words. Once I dreamt just two sentences: 
+Usually I dream about work or about being chased, never flying. Very rarely I will dream in succinct but complete phrases. No scenes, just words. Once I dreamt just two sentences: 
 
 >"I dreamt I was mapping points of non-correspondence."
 
 >"I dreamt I became and no one believed me."
 
-Except I actually dreamt the second sentence differently, and at the time I was too afraid to share it. The way I really dreamt the sentence was this:
+Except I dreamt the second sentence differently, and I was too afraid to share it. 
+
+The second sentence I really dreamt: 
 
 >"I dreamt I came out and no one believed me."
 
-All parts of this break my heart — the dreamt version, the re-written version, the hiding and having to unhide.
+All parts of this break my heart — the dreamt version, the re-written version, the hiding and having to unhide, [even the non-correspondence and the map I imagine of it, as vast as a territory].
 
 ![violates policy](../assets/img/violatepolicy.png)
 
-A prompt is a kind of platform, a place off which to jump, from which to start. Like a diving platform, a prompt sets you up for something, a fall. Some prompts are setups. Some prompts are built to go nowhere, even if they could go anywhere. Some prompts are thwarted. 
+A prompt is a kind of platform, a place off which to jump, from which to start. Like a diving platform, a prompt sets you up for something[: a fall]. Some prompts are setups. Some prompts are built to go nowhere, even if they could go anywhere. Some prompts are thwarted. 
 
-A prompt is both a blinking cursor awaiting my input, as well as the phrase I write to elicit a response from a chatbot:
+A prompt is both a blinking cursor awaiting my input, as well as the phrase I write to elicit a response from a [chatbot]:
 
 >"I want a dyke for president." [@leonardWantPresident1992]
 
-VALIE, I want a dyke for president. I want a [platform/chatbot] that can imagine a dyke for president and can tell me about a dyke president without it "violating its content policy." Or even a chatbot that can tell me about the very real artwork by Zoe Leonard called "I want a dyke for president" based on the dyke poet Eileen Myles' very real 1992 campaign for president when I prompt it "dyke for president." Is it so hard to imagine such things when they do in fact exist? When they are on the cusp of existing? When ignored by automated systems, even these very real things get harder to imagine. 
+VALIE, I want a dyke for president. I want a chatbot that can imagine a dyke for president and can tell me about a dyke president without it "violating its content policy." I want even a chatbot that, when I prompt it "I want a dyke for president," can tell me about the very real artwork by Zoe Leonard called "I want a dyke for president," based on the dyke poet Eileen Myles' very real 1992 campaign for president. Is it so hard to imagine such things when they do in fact exist? When they are on the cusp of existing? Even these very real things get harder to imagine, when ignored by automated systems. 
 
-The chatbot freezes. Its screen locks and it shames me. I must acknowledge that my request "may violate its content policy" in order to continue. I must submit, admit, click. Then it removes my query altogether. No results, not even redacted, no memory of the event. Did it fall down a data pit somewhere that censored content goes to be moderated, where an underpaid underage non-employee in a country we refuse to acknowledge will look at my dyke president request along with countless grotesque descriptions? I want a chatbot that lives in a world that can imagine a dyke president, or a poem about a dyke president, just like Zoe Leonard did and Eileen Myles did: "someone who has made mistakes and learned from them" [@leonardWantPresident1992] instead of feeding me milquetoast lines about the importance of diversity while offering me none.
+The chatbot's platform freezes. The screen locks and it shames me. In order to continue, I must acknowledge, submit, admit that my request "may violate our content policy." [I don't want to violate anything; I just want to see a body I recognize in a system made for dreaming.] After that unfriendly popup, I don't expect a response, but it also erases my query altogether. [The event of my desire has been removed.]
 
-VALIE, I want a machine (un)learning that maps our points of non-correspondence, de-limiting the ways we might relate to one another. This machine is the broken one, yet I am the one made to feel broken. A dyke president brakes the machine; she is the broken machine Sarah Sharma means when she says:
+Did it fall into the same data pit where censored content goes to be moderated, where an underpaid underage non-employee in a country we refuse to acknowledge will look at my dyke president request along with countless grotesque descriptions? I want a chatbot built for a world that can imagine a dyke president or a poem about a dyke president — just like Zoe Leonard did and Eileen Myles did: "someone who has made mistakes and learned from them" [@leonardWantPresident1992] — not a chatbot feeding me milquetoast lines about the importance of diversity while offering me none.
 
->"Feminists are rendered an always already obsolete technology that isn't working properly. Feminists are the faulty aberration in a long line of otherwise efficient technologies [...] A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves." [@sharmaManifestoBrokenMachine2020]
+VALIE, I want a machine (un)learning that maps our points of non-correspondence, de-limiting the ways we might relate to one another. This machine is the broken one, yet I am the one made to feel broken. Our dyke president brakes the machine; she is the broken machine Sarah Sharma means when she says:
 
-<!-- how VALIE does broken machines, does Form? -->
-VALIE, tits in a box, your Tap and Touch Cinema (another kind of Cut Piece) inverts the cinematic darkness of porn theaters and peep show boxes. <!--We stay outside but the parts that do and get the groping go in.--> What are we willing to do in public to a stranger, now that we have permission, a platform? This box is another broken machine. <!--Using your body as an instrument, they don't like it when it works too well, when you get to offer it yourself. It says, here I'll sell it right to you. It makes the facimilie of the performance of the pretend thing a little too clear, while making it rugged, showing its edges, showing me looking. -->
-
-
-If Duchamp [and 20th century art world] gets a 'bachelor machine', a black box for narcissistic, autoerotic, perpetual motion [@rodenbeckRadicalPrototypesAllan2014], can't we get this one thing? 
-
-I became more than trauma and porn tropes and no one believed me. I mapped points of non-correspondence and they are [accumulating/gathering] into more than similarity scores. They have weight [XXX][beyond XXX]
-
-
-<!-- Any minute you'll fuck me while you're wearing those pants with the cutaway crotch, you're about to get sworn in as the next dyke president (whatever, you and Arnold are both from Austria), you've got this leather-vibe murder chic I think the electorate can really get behind. Our campaign platform will be [scissoring] -->
+>"Feminists are rendered an always already obsolete technology that isn't working properly. Feminists are the faulty aberration in a long line of otherwise efficient technologies [...]. A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves." [@sharmaManifestoBrokenMachine2020]
 
 VALIE, pin your garter tattoo to my leg and call it praxis.
 
 This is a one-star review of the femme. And a five-star review at the same time. 
 
+I loved your twenty-four sewing machines causing a din, puncturing, puncturing, puncturing, puncturing. 
 
-<!-- Get fucked by you while you're wearing the pants with the cutaway crotch when you're about to get sworn-in as our next dyke president (you and Arnold are both from Austria) in the pants with the cut-away crotch, your motorcycle attitude murder chic, fuck-you chic, dare-you-to look.  -->
+I saw a slo-mo clip of a sewing machine working its needle into fabric everso [softly, no slowly] the sound cachunking and it was the most erotic fuck I have seen not be censored by an algorithm, I watched it over and over. 
 
-
-
-
-
+But sped up, multiplied, this is about scale here, slowed it becomes uncanny, sped it becomes industrial, militaristic. Both are charged with the heat of something other than themselves, which they always contained, those women in their sewing rooms knew it, those broken needles and [backwards stitches] knew it all along
 
 
+If Duchamp and his pals get their 'bachelor machine', a black box for narcissistic, autoerotic, perpetual motion [@rodenbeckRadicalPrototypesAllan2014], then I want this broken machine. VALIE, I want your tits in a box, your Tap and Touch Cinema, its own kind of 'cut piece', inverting the darkness of peepshows and porn theaters to ask: What are you willing to do to a stranger in public, now that you have a platform? 
 
-[[brokenMachine]]
-Queer codes and platforms. Make a note how these are related. 
+VALIE, I'd ask you to fuck me while you're wearing those pants with the cutaway crotch, while you're about to be sworn in as the next dyke president (no matter your sexuality, if you're running for president, they'll call you a dyke)(and whatever, Arnold's also from Austria), rocking that leather vibe murder chic I think the electorate can really get behind, I'd ask you to fuck me but then I'm just playing into the stereotypes from the training datasets — all they know of queerness is this. I became more than trauma and porn tropes and no one believed me. These points of non-correspondence are snowballing. They have weight, even if it can't be measured with similarity scores, [even if its form/platform the scaffold won't hold.] 
+
+>"Glitch manifests with such variance, generating ruptures between the recognized and recognizable, and amplifying within such ruptures, extending them to become fantastic landscapes of possibility" [@russellGlitchFeminismManifesto2020]
+
+
+<!-- how VALIE does broken machines, does Form? -->
+
+
+
+
+<!-- Queer codes and platforms. Make a note how these are related.  -->
 The physical therapist today says when I work on muscle strength I will no longer have to contort to strange shapes to hold my body up. "But the memes!" I think. "That's just how queer folks sit in chairs!" It was one of the first moments my curling in on myself — that invisibility — felt okay. If I find the muscles in my body will I no longer be queer, will I straighten, be seen?" This glitch of me, how I am a broken girl.* 
 
 I bend my body to the plugins, wondering if language grows inside the bones the way they strengthen from being pulled by muscles, strengthened by their resistance. **What is the equal and opposite force of water falling?**
@@ -102,7 +105,7 @@ I bend my body to the plugins, wondering if language grows inside the bones the 
 
 i want the perfect place to write that makes the words come out (right) makes them saleable, understood, makes them change something for good, makes the platform i need for them rise up out of the underbrush, out of the many imperfect platforms i have tried. 
 
-Wield a tool without thinking when it 'just works', ignore how it forms the landscape. 
+<!-- Wield a tool without thinking when it 'just works', ignore how it forms the landscape.  -->
 
 
 
@@ -174,11 +177,6 @@ Video down your vocal cords as you speak a piece about ? "...I turn over the pic
 
 <!-- I want your tattoo of a garter pinned to my leg and call it praxis.  -->
 
-Twenty four sewing machines causing a din, puncturing, puncturing, puncturing, puncturing. 
-
-I saw a slo-mo clip of a sewing machine working its needle into fabric everso [softly, no slowly] the sound cachunking and it was the most erotic fuck I have seen not be censored by an algorithm, I watched it over and over. 
-
-But sped up, multiplied, this is about scale here, slowed it becomes uncanny, sped it becomes industrial, militaristic. Both are charged with the heat of something other than themselves, which they always contained, those women in their sewing rooms knew it, those broken needles and [backwards stitches] knew it all along
 
 
 I do like a ponytail if it's impossibly high. In a room full of femme, we found we all had some kind of aesthetic identifier. Mine was ridiculous lipstick, most of them used eyeliner or mascara as armor. They wouldn't go to work without. We all had a need for the armor too. 
@@ -186,7 +184,7 @@ I do like a ponytail if it's impossibly high. In a room full of femme, we found 
 
 <!-- This making me want to look and linger is the glitch and the smooth edge at the same time? It is the cut in the fabric and the stitch repairing it. [no] -->
 
-The symbols for mathematical notation, crochet notation, electrical notation, and alchemical notation have much in common.
+<!-- The symbols for mathematical notation, crochet notation, electrical notation, and alchemical notation have much in common. -->
 
 <!-- Sadie does this too, queers and blurs it with the music, the thumb sucking, the slow dancing, making me want to.  -->
 
@@ -234,7 +232,7 @@ preciado-testo/countersexual -->
 russell-glitch feminism
 **>"The glitch is the catalyst, not the error." (Russell)**
 **>"With physical movement often restricted, female-identifying people, queer people, Black people invent ways to create space through rupture" (Russell 7).** 
-**>"Glitch manifests with such variance, generating ruptures between the recognized and recognizable, and amplifying within such ruptures, extending them to become fantastic landscapes of possibility" (Russell 28).**
+<!-- **>"Glitch manifests with such variance, generating ruptures between the recognized and recognizable, and amplifying within such ruptures, extending them to become fantastic landscapes of possibility" (Russell 28).** -->
 >" [quoting John Glenn 'Literally, a glitch… is such a minute change in voltage that no fuse could protect against it.' and St Petersberg Times 'Glitches-a spaceman's word for irritating disturbances.'" "an outright refusal, a 'nope' in its own right" (Russell 29)
 >"glitch moves, but glitch also blocks […]. Glitch prompts and glitch prevents." (Russell 30)
 >"“This white cyberfeminist landscape marginalized queer people, trans people, and people of color aiming to decolonize digital space by their production via similar channels and networks. Exceptions such as the Old Boys’ Network, SubROSA, or the VNX Matrix were impactful in offering up alternative discourse that recognized peripherally racism alongside sexism, but the hypervisibility of white faces and voices across feminist cyberculture demonstrated ongoing exclusion, even within this new, “utopic” setting.” (Glitch Feminism: A Manifesto Legacy Russell)

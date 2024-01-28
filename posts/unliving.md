@@ -62,7 +62,13 @@ Someone reminds me it is not my responsibility to keep other people alive, no ma
 
 But then, whose job is it? We all keep each other alive. And lately we are failing at this work, failing at dramatic speed. Unaliving at accelerating pace. 
 
-'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read between the lines. They are not reading for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography, although they do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real. Still we must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`:bee:`an` and `$uicid3`, to con these 'sophisticated' systems by hovering in the redacted [neither-and]. 
+For the last 100 days each day a girl has posted videos online from Palestine. In each video, she begins: 
+
+>"This is Bisan. I am still alive." 
+
+She knows the next day she might not be. She does it anyway, knowing any day she may be counted in the tens of thousands of people around her who are not.  
+
+'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography, although they do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real. Still we must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`:bee:`an` and `$uicid3`, to con these 'sophisticated' systems by hovering in the redacted [neither-and]. 
 
 And speaking of the void, recently [they] added a Boolean operator to Javascript called Nullish, written `??`. (I know, right? My feelings exactly.)
 
