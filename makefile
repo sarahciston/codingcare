@@ -2,7 +2,7 @@ source := posts
 outputhtml := docs
 outputpdf := assets/pdf
 SOURCES := posts/$(wildcard *.md)
-TEMPLATE = book.tex 
+TEMPLATE = zine.tex 
 
 # INPUT = posts/guide.md
 # OUTPUT = "/Users/sarahciston/Desktop/codezine"

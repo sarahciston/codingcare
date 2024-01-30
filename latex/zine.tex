@@ -1,6 +1,6 @@
 %%% MAKE DOC %%%
 % \documentclass[10pt,oneside]{scrbook}
-\documentclass[10pt,twoside]{scrartcl}
+\documentclass[9pt,oneside]{scrartcl}
 % \documentclass[10pt,twocolumn,landscape]{scrartcl} 
 \setlength{\columnsep}{.5in}
 
@@ -12,7 +12,13 @@
 
 \setlength{\parskip}{8pt plus 2pt minus 1pt}
 \raggedright
-\linespread{1.3}
+\linespread{1.1}
+% \renewcommand*{\sectionformat}[1]{} %remove section numbering
+% \renewcommand*{\subsectionformat}[1]{} %remove section numbering
+% \renewcommand*{\subsectionformat}[1]{} %remove section numbering
+\renewcommand*{\thesection}{}
+\renewcommand*{\thesubsection}{}
+\renewcommand*{\thesubsubsection}{}
 
 
 %%% TYPESET %%%
@@ -34,6 +40,35 @@
 % \usepackage{scrlayer-scrpage}
 % \addtokomafont{}{\ttfamily}
 % \addtokomafont{chapter}{\ttfamily}
+
+%%% QUOTES %%%
+
+% \usepackage[onehalfspacing]{setspace}
+% \usepackage[american]{babel}
+% \usepackage[
+%     autostyle,
+%     strict=true,
+%     threshold=2
+%     ]{csquotes}
+
+% \makeatletter
+% \renewcommand{\mkbegdispquote}[2]{%
+%     \leavevmode\llap{\openautoquote\csq@eqgroup}%
+%     \csq@bqgroup
+%     \advance\csq@qlevel\@ne
+%     \csq@resetstyle
+%     \csq@init}
+
+% \renewcommand\mkblockquote[4]{%
+%     \leavevmode\llap{\openautoquote\csq@eqgroup}%
+%     \csq@bqgroup
+%     \advance\csq@qlevel\@ne
+%     \csq@resetstyle
+%     \csq@init
+%     #1#2#3\closeautoquote#4}
+% \makeatother
+
+% \renewcommand{\mkenddispquote}[2]{\closeautoquote\normalfont#1#2}
 
 %%% LINKS %%%
 \usepackage[breaklinks=true]{hyperref}
@@ -94,9 +129,11 @@ $endif$
 
 \newpage
 
+
 \renewcommand*\contentsname{Table of Contents}
 \tableofcontents
 % \listoffigures
+
 \newpage
 % \chapter*{Abstract}
 % XYXYXYXYX This is the abstract.

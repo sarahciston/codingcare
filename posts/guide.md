@@ -28,7 +28,7 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 – adrienne maree brown, *Holding Change* [@brownHoldingChange2021]
 </p>
 
-# 0. Welcome 
+# Welcome 
 
 <!-- [//]: # "hello world" -->
 
@@ -102,9 +102,9 @@ These are the open questions explored by this guide — and explored every time 
 
 ### Code as collective: An open question
 
-### aka What's in this pocket guide? What's a code collective and how do I get one?
+*aka What's in this pocket guide? What's a code collective and how do I get one?*
 
-Creative Code Collective is the community I started in early 2019 for media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I sent out a call, because I was looking for others who were struggling with code same as I was, and I hoped there might be another way — at the very least, we could struggle together. We launched with the mottos: `"Scrappy artistic strategies, not perfect code"` and `"We all have skills to teach each other."`
+Creative Code Collective is the community I started in early 2019 for media artists, activists, writers, makers, and not-yet-engineers to co-work, co-learn, and think critically with code in an inclusive, interdisciplinary space. I sent out a call, because I was looking for others who were struggling with code same as I was, and I hoped there might be another way — at the very least, we could struggle together. We launched with the mottos: `Scrappy artistic strategies, not perfect code` and `We all have skills to teach each other.`
 
 Throughout the guide I'll share what I've learned while building Code Collective — about coding, connecting, and building collectives. The guide honors and draws from the many mentors and teachers who have inspired it, gathering many resources found along the way. Of course the guide includes many reflections and contributions from community members — including coding examples and exercises, favorite projects and personal accounts — because this work is never done in isolation. I'll discuss connections I've found between coding and other crafts like zine publishing and fiber arts. I'll also discuss connections to open-source, open-access, and activist movements that shape the approach to how we gather and what we create. The guide is a melange of materials and methods, hopefully a spark of inspiration and the start of many conversations around these ideas. 
 
@@ -157,7 +157,7 @@ Upon gathering, I ask myself: What does this particular cluster of beings need a
 * "have an accountability space and a brain trust with shared expertise"
 * "conquer my trouble starting and finishing. bounce ideas off of others. build something I'm proud of"
 
-<p class='quote'>
+<p class='quote' markdown=1>
 "For me, I could figure out how to code but I didn't really know what to use for what, for the specific things I like. Also part of the issues here is there's so many things you could do, right? [For the things I do, three.js is perfect. Once I figured that out, I didn't need to find other things. For someone who doesn't know how to code, give them a tool where they can learn to do a lot so they can figure out what tools they need — like p5.js.]"
 </p>
 <p class='quote attrib'>
@@ -333,13 +333,10 @@ A big part of coding creatively and critically is remembering that all code is *
 
 Researcher Mark Marino, who helped develop the field of Critical Code Studies, says "Code also has qualities: clarity versus obfuscation, verbosity versus concision, elegance versus sloppiness." He offers many options for ways to read code, including looking at how it changes over time, comparing it to its outputs, creating visualizations of the code, and writing more code to understand the code. Readings of code can also extend beyond the lines of the program itself. Marino asks:
 
-<p class="quote" markdown=1>
+<!-- \begin{displayquote}[@marinoCriticalCodeStudies2020a] -->
 Who wrote the code? When and why? In what language was the code written? What programming paradigm was used? Was it written for a particular platform (hardware or software)? How did the code change over time? What material or social constraints impacted the creation of this code? How does this code respond to the context in which it was created? How was the code received by others? Although many of these questions address the technical aspects of the code, I do not want to limit context to the material condition of the code itself. [...] The critical in critical code studies encourages also exploring the social context through the entry point of code.
-</p>
-<p class="quote attrib" markdown=1>
-–Mark Marino, *Critical Code Studies*
-[@marinoCriticalCodeStudies2020a]
-</p>
+– [@marinoCriticalCodeStudies2020a]
+<!-- \end{displayquote} -->
 
 Fundamentally, even if you're not looking for deeper meanings in the code, actually *for-real reading* the code you encounter can help you learn to code better than almost anything else. It may seem tedious, but: Type out the examples you use, rather than copying and pasting them. Follow along with your finger on the page as the functions return to different sections and the loops re-loop. This act of readind "runs the code" in your mind, so that you can truly understand what is happening on the screen when you write all those brackets and semi-colons. Once you understand that, you can begin to ask questions about the implications of each way of writing — knowing there's no one way, no "right" way, to write code.
 
@@ -616,7 +613,7 @@ Chaos Camp
 
 </div>
 
-## 5. We all have skills to teach each other
+# 5. We all have skills to teach each other
 
 <p class='quote'>
 "There must be an ongoing recognition that [...] everyone contributes. These contributions are resources." 
