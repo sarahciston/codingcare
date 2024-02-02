@@ -276,3 +276,71 @@ against explainability: "Let us begin not from a search for secure grounds for a
 >"they are geared to profit from uncertainty, or to output something that had not been spoken or anticipated"
 >"Though at the point of optimized output, the algorithm places action beyond doubt, there are multiple branching points, weights, and parameters in the arrangements of decision trees and random forest algorithms, branching points at which doubt flourishes and proliferates."
 >"they recognize, misrecognize, and target through their relations with other algorithms, data, and humans, I have also foregrounded the fallibility of the algorithm, its incompleteness and contingency."
+
+LLM MONTENEGRO NOTES
+
+Representing prob of words giving next word
+
+SIMILARITY SCORE
+
+Whole thing hinges on these arbitrary calculations of similarity, without ever defining it. SO POLITICAL. The importance of similarity and concepts of similarity in this process of creating models, means in or out, means one of us, means always dealing with difference without questioning what difference means. 
+What about other values besides similarity? Calculate for free association? Calculate for???
+
+"Embedding is what you do to represent your training data (words or pictures) into numerical vectors.” “An embedding is a numerical representation of a piece of information, for example, text, documents, images, audio, etc. The representation captures the semantic meaning of what is being embedded”
+
+Word embedding (specific vocab) v positional embedding (where in sentence) vs self attention (context, neighbors)
+Do w spacy pretrain  
+Word vectors table (lexical types, e.g. ??) single indexing operation VS transformers only work in context of running text
+
+w2v: continuous bag of words (predicts word at input from cluster of words around it), skip gram (predicts word at output w cluster of words around it)
+
+Glove: global word co-occurance ratios, comparing co-occurances to each other in relation. How are ice & steam related to solid, to fashion? Co-occurance is calc’d w a matrix factorization (words x occurrances, then reducing dimensions).
+
+> sentence level approaches & sub-token level approaches
+
+DIFF approach…
+
+> seq2seq encoder RNN/LSTM layer and decoder same. Context vector fixed length.
+
+> transformer adds attention and feedforward, doesn’t reduce to one vector. Gives representations of all states rather than single vector. No rnn/lstm. 
+>self attention, gathers context and updates self
+Positional embedding for relative and absolute position of input tokens. Summed with the word embed vector.
+Is the word embed vector diff here from the older models tho?
+Residual connections, add input to output to ease flow
+
+
+Transformers encode words in the order they’re encountered. Vectors in the dimension they’re 
+
+BERT from a vocab list [0,1,2,3,4…n]
+
+	From perusing the vocab, I'm seeing that:
+
+* The first 999 tokens (1-indexed) appear to be reserved, and most are of the form [unused957].
+    * 1   - [PAD]
+    * 101 - [UNK]
+    * 102 - [CLS]
+    * 103 - [SEP]
+    * 104 - [MASK]
+* Rows 1000-1996 appear to be a dump of individual characters. 
+    * They don't appear to be sorted by frequency (e.g., the letters of the alphabet are all in sequence).
+* The first word is "the" at position 1997.
+    * From there, the words appear to be sorted by frequency. 
+    * The top ~18 words are whole words, and then number 2016 is ##s, presumably the most common subword.
+    * The last whole word is at 29612, "necessitated"
+
+Some funny inclusions:
+* starbucks
+* triassic
+* abolitionist
+* 1679
+
+
+Attention is when the model learns what parts of the sentence are important in relation to 
+
+Vectors are created by concatenating or summing hidden layers
+
+What’s happening at the level of ‘vocabulary.txt’ vs at the self-attention level vs at the inference level later
+
+
+https://learn.microsoft.com/en-us/semantic-kernel/memories/embeddings
+Embeddings are the representations or encodings of tokens, such as sentences, paragraphs, or documents, in a high-dimensional vector space, where each dimension corresponds to a learned feature or attribute of the language. Embeddings are the way that the model captures and stores the meaning and the relationships of the language, and the way that the model compares and contrasts different tokens or units of language. Embeddings are the bridge between the discrete and the continuous, and between the symbolic and the numeric, aspects of language for the model.
