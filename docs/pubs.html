@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>inclusive datasets research guide</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="assets/css/tufte.css">
+  <link rel="stylesheet" href="assets/css/pandoc.css">
+  <link rel="stylesheet" href="assets/css/pandoc-solarized.css">
+  <link rel="stylesheet" href="assets/css/tufte-extra.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<article>
+<header>
+<h1 class="title">inclusive datasets research guide</h1>
+</header>
+<nav id="TOC">
+<ul>
+<li><a href="#inclusive-datasets-research-guide"><span>Inclusive
+Datasets Research Guide</span></a></li>
+<li><a href="#overview">OVERVIEW</a>
+<ul>
+<li><a href="#staying-data-conscientious">Staying Data
+Conscientious</a></li>
+<li><a href="#whats-included-in-this-guide">What’s Included in This
+Guide</a></li>
+<li><a href="#key-considerations">KEY CONSIDERATIONS</a></li>
+<li><a href="#concepts">CONCEPTS</a></li>
+</ul></li>
+<li><a href="#workflows">WORKFLOWS</a>
+<ul>
+<li><a href="#when-you-start">When You Start</a></li>
+<li><a href="#when-choosing-a-dataset-or-collecting-data">When Choosing
+a Dataset or Collecting Data</a></li>
+<li><a href="#as-you-release-your-work">As You Release Your
+Work</a></li>
+<li><a href="#datasets">DATASETS</a></li>
+<li><a href="#repositories-of-datasets">REPOSITORIES OF
+DATASETS</a></li>
+</ul></li>
+<li><a href="#resources">RESOURCES</a>
+<ul>
+<li><a href="#books-articles">Books &amp; Articles</a></li>
+<li><a href="#usc-libraries-research-guides">USC Libraries Research
+Guides</a></li>
+<li><a href="#teaching-with-data-teaching-resources">Teaching with Data:
+Teaching Resources</a></li>
+<li><a href="#courses-tutorials">Courses &amp; Tutorials</a></li>
+</ul></li>
+<li><a href="#bibliography">Bibliography</a></li>
+</ul>
+</nav>
+<!-- ### [Intersectional AI Toolkit](https://intersectionalai.com)
+
+Explore the Toolkit in full at the link above.
+
+<hr/>
+
+### [A Critical Field Guide for Working with Machine Learning Datasets](https://knowingmachines.org/critical-field-guide)
+
+Read the Field Guide on the Knowing Machines research group site above.
+
+<hr/> -->
+<section id="inclusive-datasets-research-guide" class="level3">
+<h3><a href="https://libguides.usc.edu/inclusive-datasets">Inclusive
+Datasets Research Guide</a></h3>
+<p>This preview shows the guide which will appear on the USC Libraries
+website soon.</p>
+</section>
+<section id="overview" class="level2">
+<h2>OVERVIEW</h2>
+<section id="staying-data-conscientious" class="level3">
+<h3>Staying Data Conscientious</h3>
+<p>Welcome! When working with any data, it is important to get the full
+story of that dataset or collection so that you know how to use it
+conscientiously and how it fits into your work. How was it gathered and
+by whom? Are there rules about how it can be used? Has it been
+deprecated by its creators for containing out of date or harmful
+information?</p>
+<p>This guide is for anyone who deals with data: whether you’re an
+engineer well-versed in machine learning and looking for more inclusive
+training data, or a researcher experimenting with turning your
+historical records into data for the first time, or perhaps a student
+just getting started in data science.</p>
+<p>It is easy to get overwhelmed with the many guides to datasets
+available. This research guide focuses on building both technical and
+critical skills to work with data conscientiously, in order to achieve
+results that are more inclusive and considered. The guide introduces
+some of the ethical considerations we all make every day (whether
+conscious of them or not); considering these choices carefully can also
+make for more efficient, more stable, more sustainable, and more robust
+results that can stand up to scrutiny.</p>
+</section>
+<section id="whats-included-in-this-guide" class="level3">
+<h3>What’s Included in This Guide</h3>
+<p><strong>Concepts</strong> will remind you of key terms and ideas
+important for working with datasets. <strong>Key Considerations</strong>
+(below) gives a quick overview of best practices and some ideas you can
+apply to your research right away. <strong>Datasets</strong> shares
+examples of datasets from the USC Libraries collections and open-source
+resources providing datasets that could be a match for your project.
+<strong>Workflows</strong> will walk you through the steps of finding or
+gathering your data, evaluating its appropriateness for your research,
+and addressing some of the ethical issues that arise so that you can be
+data conscientious. A notebook shows an example workflow in action,
+using a sample dataset created from USC Libraries collections. This lets
+you see how the process works for finding better data and gives you
+datasets you can get started with right away. <strong>Resources</strong>
+offers links to tools and software, books and courses, templates and
+recommendations to build on your experience working with datasets in
+your research. This guide is not comprehensive. Tools and best practices
+are changing quickly in the rapidly developing field of working with
+data for machine learning. This research guide is a jumping off point
+for beginners of all stripes. This is a great opportunity to keep
+learning and researching.</p>
+</section>
+<section id="key-considerations" class="level3">
+<h3>KEY CONSIDERATIONS</h3>
+<p>If you only have 5 minutes… * Check to make sure you have the latest
+version of this dataset and that it hasn’t been deprecated, discredited,
+or removed * Ask who is included in the dataset, who is excluded, and
+how they are represented by the data and your use of the data * Consider
+how your research will account for its impact on any stakeholders. For
+example, what’s the procedure if someone asks for their information to
+be removed from a dataset you’re using? * Make a plan for maintenance of
+your research. What changes will you make if the dataset you’re using
+gets updated or removed? * Consider whether this is the best dataset for
+your research question. What similar datasets have you considered? What
+different types of datasets might you consider? * Ideally you can spend
+much more than 5 minutes on each of these questions, and they are meant
+to be considered throughout the process of your research.</p>
+<p>More to Keep in Mind… * Consider Who Datasets Are From, Who Datasets
+Are For * Organizations that advocate for Indigenous rights have
+developed data markers to indicate the origin, access, usage rights,
+transparency, and integrity of data related to their cultural heritage.
+Visit localcontexts.org . From this, we can acknowledge that not all
+data is appropriate for use in all contexts, for all purposes, for all
+audiences and choose with impact in mind when selecting or creating
+datasets.</p>
+<section id="not-a-new-problem" class="level4">
+<h4>Not a New Problem</h4>
+<p>Any knowledge organization systems will contain biases, presumptions,
+and potential for confusion for their users. The same issues that faced
+analog systems before the digital era are facing datasets for machine
+learning now. For example, library cataloging systems like those used by
+the Library of Congress “can make materials hard to find for other
+users, stigmatize certain groups of people with inaccurate or demeaning
+labels, and create the impression that certain points of view are normal
+and others unusual” (Knowlton 2005). Similar classification logics are
+at work in datasets and machine learning systems. How do we as
+researchers address this through our work? Rather than striving for an
+all-inclusive “neutral” or trying to mitigate bias with technical quick
+fixes, address these concerns through awareness. Know that this
+potential exists and acknowledge it at each stage of your research.</p>
+</section>
+<section id="algorithmic-ecosystems" class="level4">
+<h4>Algorithmic Ecosystems</h4>
+<p>Datasets are part of a larger ecosystem of algorithm-informed
+research. From the models created using training datasets, to the
+analysis and results they produce (new datasets!), each part of the
+ecosystem needs to be approached with the same critical perspectives.
+The examples of the critical questions and approaches discussed here can
+be asked at every stage of creating, using, and relying on algorithmic
+systems.</p>
+</section>
+</section>
+<section id="concepts" class="level3">
+<h3>CONCEPTS</h3>
+<p><strong>Algorithms</strong> are lists of instructions for
+accomplishing a task or solving a problem step by step, whether for
+machine learning or other activities. <strong>Annotation</strong> is the
+process of labeling a dataset with metadata and additional information
+relevant to its subsequent use in analysis. For example, this can
+include adding descriptive captions to images, or evaluating and sorting
+each item according to a rubric you develop in your research.
+<strong>API</strong> (Application Programming Interface) is an access
+point for acquiring data using code. Companies, institutions, archives,
+platforms use APIs to offer instructions on how to write the code asking
+for the particular data you want using queries, such as scraping data
+from a newspaper collection. <strong>Artificial intelligence</strong>
+(AI) is an overall term describing a set of different kinds of
+techniques to make computers behave in some kind of [seemingly]
+intelligent fashion. There is no agreed definition of AI, but in general
+the ability to perform tasks without supervision and to learn so as to
+improve performance are key parts of AI (Ethics of AI). Even AI
+researchers have no exact definition of AI. The field is rather being
+constantly redefined when some topics are classified as non-AI, and new
+topics emerge (Elements of AI). AI colloquially refers to various
+systems that look for patterns in provided data. AI systems can be made
+up of multiple components of machine learning tasks and similar
+techniques. No matter their context or complexity, AI tools are always
+socio-technical systems, meaning they are designed, operated, and
+influenced by humans, rather than entirely autonomous, neutral systems.
+(Ciston 2021) <strong>Classification</strong> refers to specific machine
+learning tasks that label and sort items in a dataset by discrete
+categories. For example, asking whether an image is a dog or a cat is
+handled by a classification task. These are distinguished from
+Regression tasks, which show the relationship between features in a
+dataset, for example sorting dogs by their age and number of spots.
+(Ciston 2023) <strong>Cleaning</strong> see Preprocessing.
+<strong>Continuous data</strong> are numerical data that, like sizes or
+temperatures, have no gaps if you were to chart all possible values. For
+example, the temperature can be 72 degrees, 73 degrees, or any value in
+between. Compare this to <strong>discrete data</strong>, which deals
+with whole quantities, like counting the number of people in a group.
+<strong>Data</strong> are values that can be assigned to a thing and can
+take a variety of forms (Responsible Data Handbook 2016). How you think
+about the information is what makes it data. They do not just exist but
+have to be generated, through collection by sensors or human effort.
+Sensing, observing, and collecting are all acts of interpretation that
+have contexts, which shape the data (Ciston 2023). Data that reveal
+identities, activities or affiliations are the most obvious areas for
+responsible data practices, but they should be applied in all cases.
+(Responsible Data Handbook 2016) <strong>Datasets</strong> can be any
+kind of collected, curated, interrelated data. Often, datasets refer to
+large collections of data used in computation, and especially in machine
+learning. Information collections are transformed into datasets through
+a lifecycle of processes (collection/selection, cleaning and analyzing,
+sharing and deprecating), which shape how that information is
+understood. They always reflect the circumstances of their making.
+(Ciston 2023) Keep in mind that “sometimes standalone data deemed safe
+becomes harmful when combined with other data sets, or data that you
+thought was anonymized becomes easily discernible once combined with
+other data, using triangulation techniques.” (Responsible Data Handbook
+85) <strong>Data science</strong> is an umbrella term (with several
+subdisciplines) that includes machine learning and statistics, certain
+aspects of computer science including algorithms, data storage, and web
+application development. Data science is also a practical discipline
+that requires understanding of the domain in which it is applied in, for
+example, business or science. (Elements of AI)
+<strong>Datasheets</strong> are documents describing each dataset’s
+characteristics and composition, motivation and collection processes,
+recommended usage and ethical considerations, and any other information
+to help people choose the best dataset for their task. Datasheets were
+proposed by diversity advocate and computer scientist Timnit Gebru, et
+al., as a field-wide practice to “encourage reflection on the process of
+creating, distributing, and maintaining a dataset, including any
+underlying assumptions, potential risks or harms, and implications for
+use” (Gebru 2020). Datasheets are also resources to help people select
+and adapt datasets for new contexts. (Ciston 2023) <strong>Data
+subjects</strong> are the people and other beings whose data are
+gathered into a dataset. Even if identifying information has been
+removed, datasets are still connected to the subjects they claim to
+represent. This includes data subjectees, a term which specifically
+describes people impacted directly or indirectly by datasets, distinct
+from data subjects. <strong>Data subjectees</strong> include anyone
+affected by predictions made with machine learning models, for example
+someone forced to use a facial detection system to board a flight or
+eye-tracking software to take a test at school. (Ciston 2023)
+<strong>Datafiable</strong>, machine actionable, or machine readable,
+formats are works that lend themselves to use by computer programs, in
+their form, format, provenance and represenativeness, access method, and
+rights (Padilla YEAR). For example, CSV and Excel files are usually
+considered machine actionable, whereas PDF documents are not machine
+readable in their existing form, but once their text is extracted into a
+TXT file it becomes machine actionable. (School of Data) <strong>Deep
+learning</strong> see Machine learning. <strong>Discrete data</strong>
+see Continuous data. <strong>Features</strong> are the attributes being
+analyzed, considered, or explored across the dataset, often viewed as a
+column in a table. Features can be any machine-readable (i.e. numeric)
+form of an instance: images converted into a sequence of pixels, for
+example. Note: Researchers often select and “extract” the features most
+relevant for their purpose. Features are not given by default. They are
+the results of decisions made by datasets’ creators and users. (Ciston
+2023) <strong>Feature extraction</strong> and feature engineering are
+techniques used to focus on the specific information in a dataset that
+is relevant to your research goals. You may need to create features
+(e.g., add columns to your table) to show data from new perspectives.
+This can impact how the dataset can be analyzed going forward, how the
+model can be designed, and how the data subjects and subjectees might be
+affected. (Ciston 2023) <strong>GAN</strong> stands for generative
+adversarial network and is a popular kind of machine learning used to
+generate new data. It requires two parts: One part is trained on
+existing data in order to check the second part’s work. The second part
+is trying to generate new data that can fool the first part (hence
+adversaries). <strong>Intersectionality</strong>, as first named by
+Kimberlé Crenshaw (1989), center[s] interlocking systems of oppression
+and in doing so make[s] visible the normative value systems that
+facilitate erasure (Gipson, Correy, and Noble 2021, 306).
+<strong>JSON</strong> is a popular file type for working with labeled
+data. JSON has a nested hierarchical structure and does not require each
+equivalent node to match. In this way it is semi-structured, unlike CSV
+(comma separated values) and other spreadsheet-like types. For more on
+types of data, see “A Critical Field Guide to Working with Machine
+Learning: Types of Datasets” (Ciston 2023). <strong>Labels</strong> can
+refer both to the results or output assigned by a machine learning
+model, or also to descriptors included in a training dataset meant for
+the model to practice on as it is built, or in a testing or benchmark
+dataset used for evaluation or verification. (Ciston 2023)
+<strong>Metadata</strong> is data about other data, supplementary
+information that describes a file or accompanies other content, e.g. an
+image from your camera comes with the date and location it was shot,
+lens aperture, and shutter speed. Metadata can describe attributes of
+content and can also include who created it, with what tools, when, and
+how. During dataset annotation processes, additional metadata can be
+added by the dataset creators, gig workers, or other researchers.
+(Ciston 2023) <strong>Machine learning</strong> is a set of tools used
+by computer programmers to find a formula that best describes (or
+models) a dataset. Whereas in other kinds of software the programmer
+will write explicit instructions for every part of a task, in machine
+learning, programmers will instruct the software to adjust its code
+based on the data it processes, thus “learning” from new information.
+Its learning is unlike human understanding and the term is used
+metaphorically. Some formulas are “deeper” than others, so called
+because they contain many more variables, and deep learning refers to
+the use of complex, many layers in a machine learning model. Due to
+their increasing complexity, the outputs of machine learning models are
+not reliable for making decisions about people, especially in highly
+consequential cases. When working with datasets, include machine
+learning as one suite of options in a broader toolkit — rather than a
+generalizable multi-tool for every task. (Ciston 2023) <strong>Machine
+readable</strong> see Datafiable. <strong>Models</strong> are the result
+of a machine learning algorithm, once it includes revisions that take
+into account the data it was exposed to during its training. It is the
+saved output of the training process, ready to make predictions about
+new data. One way to think of a model is as a very complex mathematical
+formula containing millions or billions of variables (values that can
+change). These variables, also called model parameters, are designed to
+transform a numerical input into the desired outputs. The process of
+model training entails adjusting the variables that make up the formula
+until its output matches the desired output. Much focus is put on
+machine learning models, but models depend directly on datasets for
+their predictions. (Ciston 2023) <strong>Neural networks</strong>
+describe some of the ways to structure machine learning models,
+including making large language models. Named for the inspiration they
+take from brain neurons (very simplified), they move information through
+a series of nodes (steps) organized in layers or sets. Each node
+receives the output of the previous layers’ nodes, combines them using a
+mathematical formula, then passes the output to the next layer of nodes.
+(Ciston 2023) <strong>Open source</strong> means the dataset or the
+source code for a software or is available and can thus be viewed,
+changed and used (free of charge) by the public. In most cases, licenses
+must be observed that describe how it should be used and not used.
+(Training the Archive) <strong>Preprocessing</strong> means to check and
+modify data before analyzing it or using it for training a machine
+learning system. No data arrives ready to go. Preprocessing includes
+many adjustments that can affect the outcome, including selecting a
+subset of data (sampling), standardizing and scaling it in relation to a
+baseline (normalization), handling missing data and outliers with
+decision trees, as well as feature creation and extraction. The
+transformation of real-world information into data is never a neutral
+process but relies heavily on the conditions and goals of the research
+in context. (Ciston 2021) For more on preprocessing data, see “A
+Critical Field Guide to Working with Machine Learning Datasets:
+Transforming Datasets” (Ciston 2023). <strong>Qualitative data</strong>
+include descriptions or categories that evaluate or label. They tell you
+something about qualities: e.g. description, colors etc. Interviews
+count as qualitative data. Quantitative data include discrete counts or
+continuous measurements that number or represent values. They tell you
+something about a measure or quantification, such as the quantity of
+things you have, the size (if measured) etc. (School of Data) Neither
+type of data is inherently more accurate or more biased, because each
+depends on the ways it was gathered, organized, processed, and used as
+part of the dataset. <strong>Regression</strong> see Classification.
+<strong>Repository</strong> describes a storage space for digital
+objects, whether a digital archive or software source code. Often,
+repositories also contain version histories of trackable changes made to
+the objects. <strong>Samples</strong> are selections from the total
+dataset, whether chosen at random or using a particular feature or
+property; samples can be used to analyze a dataset, perform testing, or
+train a model. (Ciston 2023) <strong>Scraping</strong> is the process of
+extracting data in machine-readable formats from PDFs, websites, or
+other unstructured sources to make the desired content available for
+further use. (School of Data, Training the Archive) <strong>Structured
+data</strong> can be, for example, tabular data formatted in a table
+with labeled columns, or other forms of labeled or annotated
+information. Unstructured data can be plain text files or unannotated
+images. Annotating or coding a dataset prepares it for analysis and
+raises important questions about labor, classification, and power.
+<strong>Supervised machine learning</strong> relies on training data
+that has already been labeled in order to “learn.” For example, that a
+dataset for object recognition would contain images as well as a table
+to describe the manually located object(s) they contain. It might have
+columns for the object name or label, as well as coordinates for the
+object position or outline, and the corresponding image’s file name or
+index number. Unsupervised machine learning looks for patterns that are
+not yet labeled in the dataset. It uses different kinds of machine
+learning algorithms, such as clustering groups of data together using
+features they share. However, it would be a misnomer to think that
+conclusions drawn from unsupervised machine learning are somehow more
+pure or rational. Much human judgment goes into developing an
+unsupervised machine learning model — from adjusting weights and
+parameters to comparing models’ performance. Often supervised and
+unsupervised approaches are used in combination to ask different kinds
+of questions about the dataset. Other kinds of machine learning
+approaches (like reinforcement learning) don’t fall neatly into these
+high-level categories. (Ciston 2023) <strong>Testing data</strong> see
+Training data. <strong>Training data</strong> is portion of the full
+dataset used to create a machine learning model, which will be kept out
+of later testing phases. Imagining a model like a student studying for
+exams, you could liken the training data to their study guide which they
+use to practice the material. For example, in supervised machine
+learning, training data includes results like those the model will be
+asked to generate, e.g. labeled images. Training data is contrasted with
+<strong>validation data</strong>, which is used to optimize the model
+once it is created, and <strong>testing data</strong>, which is only
+used when the model is complete in order to assess how well it
+functions. (Ciston 2023) <strong>Transfer learning</strong> updates
+fully trained models to apply them to new, similar problems, creating a
+new model that relies on the understandings of both contexts.
+<strong>Unstructured data</strong> see Structured data.
+<strong>Validation data</strong> see Training data.</p>
+<section id="sources" class="level4">
+<h4>Sources</h4>
+<p>Ciston S. (2023). “A Critical Field Guide for Working with Machine
+Learning Datasets.” Crawford K and Ananny M, Eds., Knowing Machines
+project. Ciston S. (2021). “Intersectional AI Toolkit,” Intersectional
+AI Toolkit. https://intersectionalai.com/ Gebru T, et. al. (2020).
+“Datasheets for Datasets,” ArXiv180309010 Cs, Mar. 2020,
+http://arxiv.org/abs/1803.09010 Engine Room. (n.d.). Responsible Data
+Handbook. https://the-engine-room.github.io/responsible-data-handbook/
+Padilla, T. (2021, October 13). Responsible Operations: Data Science,
+Machine Learning, and AI in Libraries. OCLC.
+https://www.oclc.org/research/publications/2019/oclcresearch-responsible-operations-data-science-machine-learning-ai.html
+School of Data. (n.d.). “Glossary.” School of Data.
+https://schoolofdata.org/handbook/appendix/glossary/ Training the
+Archive. (n.d.). “Glossary.” Training the Archive.
+https://trainingthearchive.ludwigforum.de/en/glossary/ University of
+Helsinki, Minna Learn. (n.d.) “Elements of AI.”
+https://course.elementsofai.com/ University of Helsinki, Minna Learn.
+(n.d.) “Ethics of AI.” https://ethics-of-ai.mooc.fi/</p>
+</section>
+</section>
+</section>
+<section id="workflows" class="level2">
+<h2>WORKFLOWS</h2>
+<section id="when-you-start" class="level3">
+<h3>When You Start</h3>
+<ul>
+<li>What is your research question, and what is the best dataset to help
+you answer it? Remember it might not be the most obvious or the most
+popular dataset, but one you haven’t heard of yet.</li>
+<li>How does the resource contribute to your research agenda or your
+disciplinary area(s)? How does it help answer your research
+question?</li>
+</ul>
+</section>
+<section id="when-choosing-a-dataset-or-collecting-data" class="level3">
+<h3>When Choosing a Dataset or Collecting Data</h3>
+<ul>
+<li>What kinds of content, files, and metadata fields does the dataset
+or collection contain? What format are they offered in for use?
+e.g. text that can be mined, images that can be sorted, metadata fields
+that are consistent, etc.?</li>
+<li>How is the data organized? Is it available as structured or
+unstructured data? Is it structured consistently and concretely,
+suitable for use in computation? What kind of pre-processing will it
+need?</li>
+<li>How does the dataset account for its origins and practices? Does it
+contain descriptions of provenance, known absences, modifications? Is
+there a data card or data sheet to describe this information in
+detail?</li>
+<li>How can the dataset be accessed? Can discrete data fields and/or
+files be pulled from the collection as a group? e.g. Is there an API
+(application program interface) for accessing the data programmatically?
+Can it be bulk downloaded or crawled from static directories?</li>
+<li>Is it viable to use the information as a dataset, whether covered by
+the license agreement, or without violating any license, policies,
+labels, or data stewardship policies?</li>
+<li>How are diverse communities and forms of knowledge represented
+within this dataset?</li>
+<li>How does the dataset account for any (in)complete aspects?</li>
+<li>How does the dataset’s curatorial/authorial perspective contribute
+to a wide range of subject positions?</li>
+<li>How does its content contribute to a wide range of subject
+positions?</li>
+<li>How much transparency is there in the provenance and source of the
+content?</li>
+</ul>
+</section>
+<section id="as-you-release-your-work" class="level3">
+<h3>As You Release Your Work</h3>
+<ul>
+<li>How will others access your research results and the originating
+dataset? Is the information equally available to all, or behind a
+login?</li>
+<li>Who will maintain the resource, and how will it be funded? Who will
+maintain it if that person is no longer available?</li>
+<li>What formats will it be shared in?</li>
+<li>How can it meet the needs of a variety of users, potentially
+accessing in different modes?</li>
+</ul>
+</section>
+<section id="datasets" class="level3">
+<h3>DATASETS</h3>
+<ul>
+<li>ArtEmis: Affective Language for Visual Art “a novel large-scale
+dataset and accompanying machine learning models aimed at providing a
+detailed understanding of the interplay between visual content, its
+emotional effect, and explanations for the latter in language”</li>
+<li>DBpedia Towards a Public Data Infrastructure for a Large,
+Multilingual, Semantic Knowledge Graph</li>
+<li>PASS: An ImageNet replacement for self-supervised pretraining
+without humans “PASS is a large-scale image dataset that does not
+include any humans and which can be used for high-quality pretraining
+while significantly reducing privacy concerns.”</li>
+</ul>
+</section>
+<section id="repositories-of-datasets" class="level3">
+<h3>REPOSITORIES OF DATASETS</h3>
+<ul>
+<li>arXiv.org This link opens in a new window Started in August 1991,
+arXiv.org (formerly xxx.lanl.gov) is a highly-automated electronic
+archive and distribution server for research articles in the areas of
+physics, mathematics, computer science, nonlinear sciences, quantitative
+biology and statistics.</li>
+<li>Dataverse This link opens in a new window An open source web
+application to share, preserve, cite, explore, and analyze research data
+from all different disciplines. Allows individuals to set up their own
+data repository. Good for satisfying funder requirements for data
+management.</li>
+<li>Open Access Directory (OAD) Data Repositories This link opens in a
+new window A listing of open access data repositories in all subject
+areas with a concentration on the sciences. Good for identifying data
+repositories for your own data or finding raw datasets.</li>
+<li>Project Gutenberg Online Catalog This link opens in a new window
+Project Gutenberg was the first producer of free electronic books
+(ebooks).</li>
+<li>re3data - Registry of Research Data Repositories This link opens in
+a new window A global registry of research data repositories and
+contents. This registry can be used to search for a data repository or
+datasets. Good for identifying data repositories for your own data or
+finding raw datasets.</li>
+<li>PubMed Central This link opens in a new window Free digital
+repository of publicly available full-text scholary journal articles in
+biomedical and life sciences. Articles are free to read without a
+subscription.</li>
+<li>A-Z Databases Wide collection of databases available though USC
+Libraries</li>
+<li>Data Foundry Data collections from the National Library of
+Scotland</li>
+<li>Google Datasets Search A search engine for datasets operated by
+Google</li>
+<li>Harvard Dataverse</li>
+<li>Hugging Face Datasets A repository for users to share datasets
+publicly, operated by Hugging Face</li>
+<li>Kaggle A repository of public datasets operated by Kaggle, which
+also runs competitions related to machine learning.</li>
+<li>MIT Lincoln Laboratory Datasets A collection of datasets from the
+MIT Lincoln Laboratory, which researches and develops advanced
+technologies to meet critical national security needs.</li>
+<li>Papers with Code A resource for machine learning papers, code,
+datasets, methods and evaluation tables, operated by Meta AI.</li>
+<li>RIsources: Research Infrastructure Portal A portal and catalog
+operated by the German Research Foundation containing information about
+scientific research infrastructures which provide researchers with
+resources and services for planning and implementing research projects.
+This is a catalog of other catalogs and collections, including
+datasets.</li>
+<li>UC Irvine Machine Learning Repository The UCI Machine Learning
+Repository is a collection of databases, domain theories, and data
+generators that are used by the machine learning community for the
+empirical analysis of machine learning algorithms.</li>
+</ul>
+</section>
+</section>
+<section id="resources" class="level2">
+<h2>RESOURCES</h2>
+<section id="books-articles" class="level3">
+<h3>Books &amp; Articles</h3>
+<p><strong>Algorithms of Oppression by Safiya Umoja Noble</strong> Call
+Number: ebook Publication Date: 2018 A revealing look at how negative
+biases against women of color are embedded in search engine results and
+algorithms. In Algorithms of Oppression, Safiya Umoja Noble challenges
+the idea that search engines like Google offer an equal playing field
+for all forms of ideas, identities, and activities.</p>
+<p><strong>All Data Are Local by Yanni Alexander Loukissas</strong>
+ISBN: 9780262039666 Publication Date: 2019-04-30 How to analyze data
+settings rather than data sets, acknowledging the meaning-making power
+of the local.In our data-driven society, it is too easy to assume the
+transparency of data. Instead, Yanni Loukissas argues in All Data Are
+Local, we should approach data sets with an awareness that data are
+created by humans and their dutiful machines, at a time, in a place,
+with the instruments at hand, for audiences that are conditioned to
+receive them.</p>
+<p><strong>Atlas of AI by Kate Crawford</strong> ISBN: 9780300264630
+Publication Date: 2022-08-16 The hidden costs of artificial
+intelligence–from natural resources and labor to privacy, equality, and
+freedom. Drawing on more than a decade of research, award‑winning
+scholar Kate Crawford reveals how AI is a technology of extraction: from
+the minerals drawn from the earth, to the labor pulled from low-wage
+information workers, to the data taken from every action and
+expression.</p>
+<p><strong>A Critical Field Guide for Working with Datasets</strong>
+Written by Sarah Ciston, and edited by Kate Crawford and Mike Ananny,
+this guide offers questions, suggestions, strategies, and resources to
+help people work with existing machine learning datasets at every phase
+of their lifecycle. Equipped with this understanding, researchers and
+developers will be more capable of avoiding the problems unique to
+datasets.</p>
+<p><strong>Hacking Diversity by Christina Dunbar-Hester</strong> ISBN:
+9780691192888 Publication Date: 2019-12-10 A firsthand look at efforts
+to improve diversity in software and hackerspace communities. Hacking
+Diversity investigates the activists engaged in free and open-source
+software to understand why, despite their efforts, they fail to achieve
+the diversity that their ideals support. Christina Dunbar-Hester shows
+that within this well-meaning volunteer world, beyond the sway of human
+resource departments and equal opportunity legislation, members of
+underrepresented groups face unique challenges.</p>
+<p><strong>The Point of Collection</strong> By Mimi Onuoha, this article
+offers several important considerations that complicate our
+understanding of data</p>
+<p><strong>Python for Data Analysis by William McKinney</strong> ISBN:
+9781491957660 Publication Date: 2017-11-14 Get complete instructions for
+manipulating, processing, cleaning, and crunching datasets in
+Python.</p>
+<p><strong>You Look Like a Thing and I Love You by Janelle
+Shane</strong> ISBN: 0316525243 Publication Date: 2019-11-05 Janelle
+Shane delivers the answers to every AI question you’ve ever asked, and
+some you definitely haven’t. In this smart, often hilarious introduction
+to the most interesting science of our time, Shane shows how these
+programs learn, fail, and adapt–and how they reflect the best and worst
+of humanity. You Look Like a Thing and I Love You is the perfect book
+for anyone curious about what the robots in our lives are thinking.</p>
+<p><strong>Responsible Data Handbook</strong> A guide to working
+responsibly with data, focused primarily on creating new datasets</p>
+</section>
+<section id="usc-libraries-research-guides" class="level3">
+<h3>USC Libraries Research Guides</h3>
+<p>Content Mining This guide provides information about available text
+mining resources and tools and whether or not the Libraries subscription
+databases support content mining.</p>
+<p>Statistics &amp; Data: Datasets Social science numeric sources
+available through the USC Libraries and on the Internet.</p>
+<p>Data Science in Computer Science Research Guide</p>
+<p>Data Reference Toolkit This research guide will walk you through the
+steps of finding, using, and managing data in a research project.</p>
+</section>
+<section id="teaching-with-data-teaching-resources" class="level3">
+<h3>Teaching with Data: Teaching Resources</h3>
+<p>Resources and strategies for faculty teaching undergraduates</p>
+</section>
+<section id="courses-tutorials" class="level3">
+<h3>Courses &amp; Tutorials</h3>
+<ul>
+<li><p>Coding Train: Working with Data &amp; APIs in Javascript This
+video series is a friendly introduction to coding with data from Daniel
+Shiffman, using Javascript and weather APIs.</p></li>
+<li><p>Data Analysis and Visualization with Python for Social Scientists
+This is an introduction to Python designed for participants with no
+programming experience.</p></li>
+<li><p>Elements of AI Two courses, Introduction to AI and Building AI,
+that aim to demystify AI, what it is, what can and cannot be done, and
+how to use it. The courses include practical exercises and are created
+by the University of Helsinki and MinnaLearn.</p></li>
+<li><p>Ethics of AI The Ethics of AI is a free online course created by
+the University of Helsinki. The course is for anyone who is interested
+in the ethical aspects of AI – we want to encourage people to learn what
+AI ethics means, what can and can’t be done to develop AI in an
+ethically sustainable way, and how to start thinking about AI from an
+ethical point of view.</p></li>
+<li><p>Fast.AI Practical Data Ethics This course from Fast.AI covers
+disinformation, bias and fairness, foundations of data ethics and
+practical tools, the field including venture capital and metrics,
+privacy and surveillance, and algorithmic colonialism. It is adapted
+from a course originally taught at the University of San Francisco Data
+Institute.</p></li>
+<li><p>The Illustrated VQGAN Background and technical details on how
+text-to-image generating AI are made</p></li>
+<li><p>Neural Networks 3Blue1Brown’s Grant Sanderson offers an
+approachable technical overview of neural networks with lots of
+examples.</p></li>
+</ul>
+<section id="manipulating-data-for-machine-learning" class="level4">
+<h4>Manipulating Data for Machine Learning</h4>
+<ul>
+<li>Fast.AI Software “Fast.AI simplifies training fast and accurate
+neural nets using modern best practices”</li>
+<li>Keras “A deep learning API written in Python, running on top of the
+machine learning platform TensorFlow. It was developed with a focus on
+enabling fast experimentation.”</li>
+<li>Matplotlib: Visualization with Python “Matplotlib is a comprehensive
+library for creating static, animated, and interactive visualizations in
+Python. Matplotlib makes easy things easy and hard things
+possible.”</li>
+<li>NumPy “A fundamental math package for scientific computing in
+Python”</li>
+<li>Pandas “Pandas is a fast, powerful, flexible and easy to use open
+source data analysis and manipulation tool, built on top of the Python
+programming language.”</li>
+<li>PyCaret “PyCaret is an open-source, low-code machine learning
+library in Python that automates machine learning workflows. It is an
+end-to-end machine learning and model management tool.”</li>
+<li>SciKit-Learn “Simple and efficient tools for predictive data
+analysis. Accessible to everybody, and reusable in various contexts.
+Built on NumPy, SciPy, and matplotlib. Open source, commercially
+usable.”</li>
+</ul>
+</section>
+<section id="managing-sharing-datasets" class="level4">
+<h4>Managing &amp; Sharing Datasets</h4>
+<ul>
+<li>CKAN A content management system (like Wordpress) for making data
+websites</li>
+<li>Data Version Control Open-source, Git-based data science</li>
+<li>Frictionless Data An open-source toolkit with standards and
+frameworks for working with data</li>
+<li>OpenRefine Open source tools for transforming and working with
+data</li>
+<li>Streamlit A code library for building data and machine learning
+websites easily using Python</li>
+<li>Tableau Visualization tools for data (some with costs) using desktop
+or web</li>
+<li>Tabula Tool for extracting data in tables within PDF files</li>
+</ul>
+</section>
+<section id="working-with-text-datasets" class="level4">
+<h4>Working with Text Datasets</h4>
+<ul>
+<li>ChromaDB An open-source word embedding database</li>
+<li>Gensim Topic modeling tools for Python</li>
+<li>MALLET (Machine Learning for Language Toolkit) A collection of tools
+to document classification, sequence tagging, and topic modeling. There
+is also an add-on toolkit (Graphical Models in MALLET) for
+visualization.</li>
+<li>MOA: Massive Online Analysis MOA is an open-source framework for
+data stream mining and includes a collection of machine learning
+algorithms and tools for evaluation.</li>
+<li>Scrapy Python library for scraping to collect text from
+websites</li>
+<li>Spacy Easy Python library for loading, processing, and analyzing
+text</li>
+<li>Topic Modeling Tool A basic free tool that allows you to topic model
+texts using MALLET, but with an easy-to-use interface.</li>
+<li>Voyant An easy to use and free text analysis tool. Upload text and
+Voyant will automatically determine word frequencies and colocates and
+display them graphically</li>
+</ul>
+</section>
+<section id="working-with-visual-datasets" class="level4">
+<h4>Working with Visual Datasets</h4>
+<ul>
+<li>ML5.js A friendly Javascript library for getting started with
+machine learning</li>
+<li>OpenCV Popular computer vision library for Python language</li>
+<li>PixelLib A library for creating image and video segmentation with
+less code</li>
+<li>Runway No-code tools for text-to-image generation and other machine
+learning tasks (trial then paid)</li>
+</ul>
+</section>
+<section id="frameworks-templates-recommendations" class="level4">
+<h4>Frameworks, Templates, Recommendations</h4>
+<ul>
+<li>AIR Ethical Guidelines Association of Internet Researchers’ Ethical
+Guidelines for Internet Research</li>
+<li>CARE Principles for Indigenous Data Governance Principles to support
+open data and science while accounting for power differentials and
+historical contexts.</li>
+<li>Data Curation Steps The Data Curation Network developed a
+standardized set of C-U-R-A-T-E-D steps and checklists to ensure
+consistent treatment of datasets.</li>
+<li>Data Ethics Canvas Open Data Institute’s questionnaire to assess
+uses of data in research projects.</li>
+<li>Data Science Ethos Conceptual lenses, stages, and case studies that
+“offer practitioners structured ways of thinking about the social and
+ethical contexts relevant to each stage of the data science research
+process.”</li>
+<li>Dataset Nutrition Label Recommendations for labeling datasets to
+enhance their context, contents, and legibility.</li>
+<li>Datasheets for Datasets Paper outlining recommendations for dataset
+creators and users to provide background context on how their datasets
+were made and may be used.</li>
+<li>Local Contexts Local Contexts uses data labels to help “Indigenous
+communities repatriate knowledge and gain control over how data is
+collected, managed, displayed, accessed, and used in the future.”</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="bibliography" class="level2">
+<h2>Bibliography</h2>
+<p>Ciston S. (2023). “A Critical Field Guide for Working with Machine
+Learning Datasets.” Crawford K and Ananny M, Eds., Knowing Machines
+project. https://knowingmachines.org/critical-field-guide Ciston S.
+(2021). “Intersectional AI Toolkit,” Intersectional AI Toolkit.
+https://intersectionalai.com/ Gebru T, et. al. (2020). “Datasheets for
+Datasets,” ArXiv180309010 Cs, Mar. 2020, http://arxiv.org/abs/1803.09010
+GPAI (2022). Data Justice: Data Justice in Practice: A Guide for
+Developers, Report, November 2022, Global Partnership on AI.
+https://advancingdatajustice.org/data-justice-in-practice-guides/ Engine
+Room. (n.d.). Responsible Data Handbook.
+https://the-engine-room.github.io/responsible-data-handbook/ Floridi,
+L., &amp; Cowls, J. (2019). A United Framework of Five Principles for Ai
+in Society. Harvard Data Science Review, 1(1).
+https://philarchive.org/rec/FLOAUF Hasselbalch, G. (2019). Making sense
+of data ethics. The powers behind the data ethics debate in European
+policymaking. Internet Policy Review, 8(2).
+https://doi.org/10.14763/2019.2.1401 Howard, S.A., &amp; Knowlton, S.A.
+(2018). Browsing through Bias: The Library of Congress Classification
+and Subject Headings for African American Studies and LGBTQIA Studies.
+Library Trends 67(1), 74-88. https://doi:10.1353/lib.2018.0026 McKinney,
+W. (n.d.). Python for Data Analysis, 3E (Open 3rd Edition). O’Reilly.
+Retrieved July 3, 2022, from https://wesmckinney.com/book/ Miceli, M.,
+&amp; Posada, J. (2022, May 30). The data-production dispositif: How to
+analyze power in data production for machine learning. Schwartz Reisman
+Institute for Technology and Society.
+https://srinstitute.utoronto.ca/news/the-data-production-dispositif
+Miceli, M., Posada, J., &amp; Yang, T. (2022). Studying Up Machine
+Learning Data: Why Talk About Bias When We Mean Power? Proceedings of
+the ACM on Human-Computer Interaction, 6(GROUP), 1–14.
+https://doi.org/10.1145/3492853 Miyazaki, S. (2016). Algorhythmic
+ecosystems: Neoliberal couplings and their pathogenesis 1960–present. In
+Algorithmic Cultures (pp. 140–151). Routledge.
+https://doi-org.libproxy1.usc.edu/10.4324/9781315658698 Onuoha, Mimi.
+(2016). “The Point of Collection.” Data and Society: Points. Feb 10,
+2016.
+https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa
+Padilla, T. (2021, October 13). Responsible Operations: Data Science,
+Machine Learning, and AI in Libraries. OCLC.
+https://www.oclc.org/research/publications/2019/oclcresearch-responsible-operations-data-science-machine-learning-ai.html
+School of Data. (n.d.). “Glossary.” School of Data.
+https://schoolofdata.org/handbook/appendix/glossary/ Steven A. Knowlton
+MLIS (2005) Three Decades Since Prejudices and Antipathies: A Study of
+Changes in the Library of Congress Subject Headings, Cataloging &amp;
+Classification Quarterly, 40:2, 123-145.
+https://doi.org/10.1300/J104v40n02_08 Training the Archive. (n.d.).
+“Glossary.” Training the Archive.
+https://trainingthearchive.ludwigforum.de/en/glossary/ University of
+Helsinki, Minna Learn. (n.d.) “Elements of AI.”
+https://course.elementsofai.com/ University of Helsinki, Minna Learn.
+(n.d.) “Ethics of AI.” https://ethics-of-ai.mooc.fi/ Younes, L. (n.d.).
+Data Acquisition for Beginners. Exposing the Invisible Kit - Tactical
+Tech.
+https://kit.exposingtheinvisible.org/en/how/data-acquisition.html</p>
+</section>
+</article>
+</body>
+</html>

@@ -4,3 +4,6 @@ _drafts/interviews.md
 *.fls
 *.log
 *.aux
+*.fdb
+*.bbl
+*.blg

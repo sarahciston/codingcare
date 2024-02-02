@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>appendices</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+  <link rel="stylesheet" href="assets/css/tufte.css">
+  <link rel="stylesheet" href="assets/css/pandoc.css">
+  <link rel="stylesheet" href="assets/css/pandoc-solarized.css">
+  <link rel="stylesheet" href="assets/css/tufte-extra.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<article>
+<header>
+<h1 class="title">appendices</h1>
+<p class="byline">22.01.2023</p>
+</header>
+<nav id="TOC">
+<ul>
+<li><a href="#page.title">{{ page.title }}</a>
+<ul>
+<li><a href="#contents">Contents</a></li>
+<li><a href="#community-values">Community values</a></li>
+<li><a href="#beloved-books-for-coding-caring">beloved books for coding
+&amp; caring</a></li>
+<li><a href="#code-collective-summer-lab">CODE COLLECTIVE SUMMER
+LAB</a></li>
+<li><a href="#code-collective-workshops-talks">CODE COLLECTIVE WORKSHOPS
+&amp; TALKS</a></li>
+<li><a href="#first-sign-up-form">First sign up form</a></li>
+<li><a href="#departmental-proposal">Departmental proposal</a></li>
+<li><a href="#first-look-at-javascript">FIRST LOOK AT JAVASCRIPT</a>
+<ul>
+<li><a href="#not-so-vanilla-just-javascript">Not So Vanilla 🍦 “Just”
+Javascript</a></li>
+<li><a href="#what-is-javascript">What Is Javascript?</a></li>
+<li><a href="#whats-a-javascript-library">What’s a Javascript
+Library</a></li>
+<li><a href="#review-p5.js-dom">Review: P5.js DOM</a></li>
+<li><a href="#essential-javascript-for-web">Essential Javascript for
+Web</a></li>
+<li><a href="#review-logics-of-code">Review: Logics of Code**</a></li>
+<li><a href="#bonus-libraries-frameworks-expansion-oh-my">BONUS:
+Libraries &amp; Frameworks &amp; Expansion Oh My!</a></li>
+<li><a href="#your-project">Your Project</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+<section id="page.title" class="level1">
+<h1>{{ page.title }}</h1>
+<section id="contents" class="level2">
+<h2>Contents</h2>
+<ul>
+<li>TOC {:toc}</li>
+</ul>
+<hr/>
+</section>
+<section id="community-values" class="level2">
+<h2>Community values</h2>
+<ul>
+<li><p>all theory and practice is theory–practice.<a href="#fn1"
+class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>
+interdisciplinary goes hand-in-hand with intersectionality<a href="#fn2"
+class="footnote-ref" id="fnref2"
+role="doc-noteref"><sup>2</sup></a></p></li>
+<li><p>#blacklivesmatter #translivesmatter #indigenouslivesmatter we
+engage tension; don’t indulge drama<a href="#fn3" class="footnote-ref"
+id="fnref3" role="doc-noteref"><sup>3</sup></a></p></li>
+<li><p>focus on strategies rather than issues, solutions rather than
+problems<a href="#fn4" class="footnote-ref" id="fnref4"
+role="doc-noteref"><sup>4</sup></a></p></li>
+<li><p>listen from the heart, speak from the heart, be spontaneous, be
+brief<a href="#fn5" class="footnote-ref" id="fnref5"
+role="doc-noteref"><sup>5</sup></a></p></li>
+<li><p>assume best intent and attend to impact<a href="#fn6"
+class="footnote-ref" id="fnref6"
+role="doc-noteref"><sup>6</sup></a></p></li>
+<li><p>attempt collaboration before conflict<a href="#fn7"
+class="footnote-ref" id="fnref7"
+role="doc-noteref"><sup>7</sup></a></p></li>
+<li><p>we accept responsibility for our actions and take care to make
+amends when we are wrong<a href="#fn8" class="footnote-ref" id="fnref8"
+role="doc-noteref"><sup>8</sup></a></p></li>
+<li><p>we take the lessons, leave the details (confidentiality)<a
+href="#fn9" class="footnote-ref" id="fnref9"
+role="doc-noteref"><sup>9</sup></a></p></li>
+<li><p>we center care<a href="#fn10" class="footnote-ref" id="fnref10"
+role="doc-noteref"><sup>10</sup></a>—self care and community care<a
+href="#fn11" class="footnote-ref" id="fnref11"
+role="doc-noteref"><sup>11</sup></a></p></li>
+</ul>
+<p>These guidelines are open to inputs and updates as necessary to
+support the needs of this space and community as they evolve.</p>
+<p>Thank you to the individuals and organizations who developed these
+principles and protocols: adrienne maree brown,<a href="#fn12"
+class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a>
+Allied Media Conference,<a href="#fn13" class="footnote-ref"
+id="fnref13" role="doc-noteref"><sup>13</sup></a> Berlin Code of
+Conduct,<a href="#fn14" class="footnote-ref" id="fnref14"
+role="doc-noteref"><sup>14</sup></a> Center for Council,<a href="#fn15"
+class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a>
+P5.js,<a href="#fn16" class="footnote-ref" id="fnref16"
+role="doc-noteref"><sup>16</sup></a> Superrr,<a href="#fn17"
+class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a>
+W3C,<a href="#fn18" class="footnote-ref" id="fnref18"
+role="doc-noteref"><sup>18</sup></a> and Creative Code Collective.<a
+href="#fn19" class="footnote-ref" id="fnref19"
+role="doc-noteref"><sup>19</sup></a></p>
+<hr/>
+</section>
+<section id="beloved-books-for-coding-caring" class="level2">
+<h2>beloved books for coding &amp; caring</h2>
+<ul>
+<li>brown, adrienne marie. 2021. <em>Holding Change: The Way of Emergent
+Strategy Facilitation and Mediation.</em> AK Press.</li>
+<li>Cox, Geoff and Soon, Winnie 2020. <em>Aesthetic Programming: A
+Handbook of Software Studies.</em> Open Humanities Press.
+https://aesthetic-programming.net
+<ul>
+<li>As we wrote when Mark Marino and I forked this open-source text,
+“The book approaches programming artistically/aesthetically but also
+with criticality, not only what learners might make with code (besides
+the rote examples found in CS textbooks) but why it matters and how
+their choices are informed by the tools they use.” <span
+class="citation" data-cites="cistonHowForkBook2021">(Ciston and Marino
+2021)</span></li>
+</ul></li>
+<li>hooks, bell. (1994). <em>Teaching to transgress: Education as the
+practice of freedom.</em> Routledge.</li>
+<li>Marino, Mark C. 2020. <em>Critical code studies.</em> MIT
+Press.</li>
+<li>Shaw, Martin. <em>Courting the Wild Twin</em></li>
+<li>Shih, Xin Xin, &amp; Moriwaki, Katherine (Eds.). 2022. <em>Critical
+Coding Cookbook.</em> https://criticalcode.recipes/about</li>
+<li>Wilson, Shawn. 2008. <em>Research Is Ceremony: Indigenous Research
+Methods.</em> Fernwood Publishing.</li>
+</ul>
+<!-- * Zilboorg, A. (2015). *Knitting for anarchists: The what, why and how of knitting.* Dover Publications, Inc. -->
+<p>Find many more in the <a
+href="https://creativecodecollective.com/resource-hub">Code Collective
+Resource Hub</a></p>
+<hr/>
+</section>
+<section id="code-collective-summer-lab" class="level2">
+<h2>CODE COLLECTIVE SUMMER LAB</h2>
+<p>Syllabus &amp; Course Schedule TBD</p>
+<hr/>
+</section>
+<section id="code-collective-workshops-talks" class="level2">
+<h2>CODE COLLECTIVE WORKSHOPS &amp; TALKS</h2>
+<section id="past" class="level5">
+<h5>past</h5>
+<ul>
+<li>Help Me Code IAI zine making workshop, <a
+href="https://sarahciston.com">Sarah Ciston</a></li>
+<li>Feminist.AI, <a href="https://feminist.ai">Christine
+Meinders</a></li>
+<li>Movement-based interaction design, (<a
+href="https://fidelialam.com/">Fidelia Lam</a>)</li>
+<li>Machine Learning Tactics for Artists, (<a
+href="https://isohale.com/">Catherine Griffiths</a>)</li>
+<li>Getting Started with ML5.js, <a href="https://sarahciston.com">Sarah
+Ciston</a></li>
+<li>8-bit Game Design, (<a href="https://www.toddfurmanski.com/">Todd
+Furmanski</a>)</li>
+<li>Coding for Live Performance, (<a href="https://www.brnart.com/">Ben
+Nicholson</a>)</li>
+<li>Multisensory Touch Electronics, <a
+href="http://www.emvanb.com/">Emily Van Bellingham</a></li>
+<li>Coem: An esolang for poetics, <a
+href="https://kayserifserif.place">Katherine Yang</a></li>
+</ul>
+</section>
+<section id="planned-or-dreamed" class="level5">
+<h5>planned or dreamed</h5>
+<ul>
+<li>Ethics of NFTs for Artists: If Such a Thing Is Possible</li>
+<li>Bias in NLP Language &amp; Ethical AI</li>
+<li>Group coding: we each take some time to attempt a solution to a
+simple but not trivial given problem, then come back and talk about our
+approaches</li>
+<li>Co-write community values &amp; docs</li>
+<li>Anti-hackathon</li>
+<li>Remix videos on the command line</li>
+<li>Music visualization with Pure Data</li>
+<li>Audio signal processing</li>
+<li>P5js and P5 Live</li>
+<li>Data moshing</li>
+<li>DIY Portfolio Examples and How to Code Them</li>
+<li>Shaders for scaredy cats</li>
+<li>Internships and jobs for multi-/inter-disciplinary work like
+ours</li>
+<li>Webscraping with Python</li>
+<li>Merging theory and content with code and practice. Choosing tools
+that are ethically and conceptually grounded.</li>
+</ul>
+<hr/>
+</section>
+</section>
+<section id="first-sign-up-form" class="level2">
+<h2>First sign up form</h2>
+<p><em>In January 2019 I sent out this Google form to USC students,
+staff, and faculty who I thought might be interested in a new
+code-friendly community. This was our first document, where you can see
+the shape it was beginning to take and its raw edges, as I was
+wayfinding for what I was interested in offering and what others might
+need.</em></p>
+<p>Want to see how MA+P PhDs approach programming as artists, not
+engineers, and incorporate it into their work? Frustrated with coding
+but want to use it in your projects? Don’t know where to start?</p>
+<p>Come connect and create with PhDs and other undergrads interested in
+artistic programming.</p>
+<p>First meeting FRIDAY JAN 18, 1pm-4pm, SCI L106. Sign up to learn
+more—let us know when you’re available to meet, plus what activities you
+want to see.</p>
+<p>This weekly drop-in studio will focus on growth not perfection,
+scrappy artistic strategies not perfect code, collaboration not
+competition. We’ll offer workshops, troubleshooting, support, and
+snacks—and keep our structure flexible to meet the collective’s needs.
+All levels and languages welcome!</p>
+<section id="schedule" class="level4">
+<h4>Schedule</h4>
+<ul>
+<li>I am available most Fridays, 1-4 pm (for at least part of that
+time)</li>
+<li>I am not available then, but still want to hear about the group
+(List your preferred availability below)</li>
+<li>Other:</li>
+</ul>
+</section>
+<section id="what-do-you-want-code-collective-to-offer-add-your-ideas"
+class="level4">
+<h4>What do you want Code Collective to offer? (Add your ideas!)</h4>
+<ul>
+<li>Co-working space</li>
+<li>Online resource hub</li>
+<li>PhD-led workshops</li>
+<li>Student-led workshops</li>
+<li>Student-led drop-in tutoring</li>
+<li>Student-organized project showcase</li>
+<li>Visits to hackathons or other outside events and organizations</li>
+<li>Other:</li>
+</ul>
+</section>
+<section id="what-workshops-interest-you-add-your-ideas" class="level4">
+<h4>What workshops interest you? (Add your ideas!)</h4>
+<ul>
+<li>Activist Chatbots and Other Automated Agents</li>
+<li>Environmental Data and Sensor Networks</li>
+<li>Machine Learning Tactics for Artists</li>
+<li>Making Electronic Instruments</li>
+<li>Movement-Based Interaction Design</li>
+<li>Poetics of Regular Expressions</li>
+<li>Python as a Second Language</li>
+<li>Raspberry Pi for Tactical Media</li>
+<li>Visualizing Your Personal Data</li>
+<li>Other:</li>
+</ul>
+</section>
+<section id="bonus" class="level4">
+<h4>Bonus</h4>
+<ul>
+<li>What projects do you want to work on? What would keep you coming
+back? What skills can you share with the collective? Any fears /
+interests / context you want to mention?</li>
+</ul>
+<hr/>
+</section>
+</section>
+<section id="departmental-proposal" class="level2">
+<h2>Departmental proposal</h2>
+<p>15 Nov 2018</p>
+<section id="proposal-code-collective" class="level4">
+<h4>Proposal: Code Collective</h4>
+<p>The Code Collective will be a space for MAP + iMAP students to
+develop their computational media practice in a flexible, collaborative
+setting that strengthens the Media Arts + Practice community. It
+supports gaining computer science skills in an engaging,
+non-intimidating, non-engineering environment—instead focusing on
+artistic strategies for learning and making with code, emphasizing
+criticality and experimentation.</p>
+<p>Code Collective draws from models like Girls Who Code, UCSD’s ICAM
+and Stanford’s CS+X majors, and Gene Kogan’s Machine Learning for
+Artists. It addresses the need in Media Arts + Practice for additional
+emphasis on computational media practices expressed by students.
+Designed as an emergent organization responsive to community needs, Code
+Collective will be flexible enough to support existing IML instruction
+and in-class projects (e.g. for 288, 300, 400), and it will also
+incorporate programming languages and code practices not currently
+prioritized within IML curricula so that students may extend their
+artistic practice and professionalization.</p>
+<p>Potential components of Code Collective will include workshops led by
+iMAP PhD students and invited guests; student-led tutoring, coworking,
+and troubleshooting; online resource-sharing; and visits to local
+hackathons or other campus groups. Sample workshops may include Python
+as a second language, machine learning tools and tactics, movement-based
+interaction design, environmental data and sensor networks, raspberry pi
+for tactical media, visualizing personal data APIs, and the poetics of
+regular expressions.</p>
+<section id="objectives" class="level5">
+<h5>OBJECTIVES</h5>
+<p>Students will extend their confidence with CS skills using creative
+coding practices. They will develop and troubleshoot projects for
+courses, shows, portfolios, etc. They will also connect with each other
+across classes and years, and within the broader community.</p>
+<p>My professional development goals in convening Code Collective
+include developing curriculum for future workshops, TAships, or
+classes—as well as building my own coding skills and developing projects
+and collaborations.</p>
+</section>
+<section id="pre-launch-steps" class="level5">
+<h5>PRE-LAUNCH STEPS</h5>
+<p>Create google form: signup via email list, schedule standard time to
+book room (schedule around classes; survey students for availability and
+particular interests) Create web presence/wiki/email contact; write
+invitation announcement; write mission Share group invitation
+announcement to undergraduate lists Identify potential undergraduate
+liaisons, visit code-focused courses Set workshop schedule with PhD
+students Connect with coding faculty &amp; outside organizations</p>
+</section>
+<section id="planned-activities-schedule-sp18" class="level5">
+<h5>PLANNED ACTIVITIES SCHEDULE SP18</h5>
+<p>First meeting Week 2 or 3, first meeting Weekly drop in at standard
+time, ~3 hours Week 4, 7, 10: Workshops (2-4 in semester, every few
+weeks as needed) Join a hackathon or engineering meetup on campus
+Organize a fun event like Stupid Hackathon
+http://www.stupidhackathon.com/ Or join a community-conscious hackathon
+like Hack for LA http://www.hackforla.org/</p>
+</section>
+<section id="questions" class="level5">
+<h5>QUESTIONS</h5>
+<p>What might I need to adapt to make this an appropriate TA position or
+potentially a course in the future? Would the club need to be offered as
+research units for students to attend? Thoughts on how to build in
+positive accountability to retain students? Resources for outside
+funding from university or industry?</p>
+<hr/>
+</section>
+</section>
+</section>
+<section id="first-look-at-javascript" class="level2">
+<h2>FIRST LOOK AT JAVASCRIPT</h2>
+<p>This was a lesson made for a beginner coding course. You can check
+out the interactive version <a
+href="https://glitch.com/edit/#!/iml300javascript">here</a></p>
+<section id="not-so-vanilla-just-javascript" class="level3">
+<h3>Not So Vanilla 🍦 “Just” Javascript</h3>
+</section>
+<section id="what-is-javascript" class="level3">
+<h3>What Is Javascript?</h3>
+<blockquote>
+<p>“The programming language of HTML and the Web. Interaction with the
+user, animation, etc, all done with JavaScript.” (Q)</p>
+</blockquote>
+</section>
+<section id="whats-a-javascript-library" class="level3">
+<h3>What’s a Javascript Library</h3>
+<blockquote>
+<p>P5 is a Javascript <strong>library</strong>, which means it’s an
+add-on set of Javascript that’s been pre-written to make certain things
+easy. But there’s a lot Javascript can already do.</p>
+</blockquote>
+<blockquote>
+<p>Pssst, we’ve been coding in Javascript <em>this whole time!</em></p>
+</blockquote>
+<blockquote>
+<p>And there’s a TON of other JS libraries for ANY specialized thing you
+might want to do, from make sleek websites, to run servers, to music,
+virtual reality, or machine learning. <a
+href="https://en.wikipedia.org/wiki/List_of_JavaScript_libraries">Here’s
+a list</a></p>
+</blockquote>
+<blockquote>
+<p>We say “vanilla”🍦 Javascript when we mean not using any added
+libraries, but usually you’re always using <em>some</em>… this demo will
+offer some code concepts that apply to web development as well as
+general times you’re working with Javascript situations.</p>
+</blockquote>
+<hr />
+<section id="review-setup" class="level5">
+<h5>Review: Setup</h5>
+<ul>
+<li><p><strong>Files</strong> are structured same as here whether they
+are saved locally, on the Glitch or P5 web editor, or served by your web
+host.</p></li>
+<li><p><strong>Scripts</strong> are loaded in the HTML for P5 or any any
+outside libraries, as well as your own script files.</p>
+<ul>
+<li>2 ways, each with benefits, either one use the
+<code>&lt;script&gt;&lt;/script&gt;</code> tag in your index file:</li>
+<li><em>cloud</em>: fewer steps, stays up to date</li>
+<li><em>local</em>: you save the file so you control it, works offline,
+doesn’t randomly update on you</li>
+</ul></li>
+<li><p><strong>The DOM</strong> &gt; “An HTML document is structured
+according to the Document Object Model, or “DOM”. […] The DOM consists
+of every element on the page, laid out in a hierarchical way that
+reﬂects the way the HTML document is ordered.” (Q) &gt; <img
+src="https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959" /></p></li>
+<li><p><strong>Elements</strong> use <code>&lt;tags&gt;</code> and have
+parent/child relationships</p>
+<ul>
+<li>id vs class: (single vs groups)</li>
+<li>styles: (inline vs css file)</li>
+</ul></li>
+<li><p><strong>Comments</strong> are written as single and multiline. -
+Keyboard shortcut to toggle: <code>Command+Slash</code></p>
+<ul>
+<li>Comments are an <em>essential</em> part of coding, debugging, &amp;
+documenting–for you and others!</li>
+<li><code>//</code> single line</li>
+<li><code>/* */</code> multi line</li>
+</ul></li>
+</ul>
+<hr />
+</section>
+</section>
+<section id="review-p5.js-dom" class="level3">
+<h3>Review: P5.js DOM</h3>
+<blockquote>
+<p>Besides adding functions to JS, the P5.js library “wraps” up some
+Javascript to simplify the syntax.</p>
+</blockquote>
+<blockquote>
+<p>P5’s <a href="https://p5js.org/reference/#group-DOM">DOM
+functions</a>: - <code>selectElement()</code> -
+<code>createElement('tag', [content inside])</code> -
+<code>createDiv([html/content])</code> - <a
+href="https://p5js.org/reference/#/p5.Element">Things to do on a
+selected or created element</a>(<code>el</code>): -
+<code>el.style('color', 'black')</code>,
+<code>el.style('font-size', '18px')</code> -
+<code>el.position(0,0)</code> (absolute position) -
+<code>el.attribute('align', 'center')</code> - <code>el.hide()</code>,
+<code>el.show()</code> - <code>el.size()</code> -
+<code>el.html(&lt;tag&gt;&lt;/tag)&gt;, true)</code> note: the additon
+of true appends instead of replacing (if no argument, returns existing)
+- <code>el.parent()</code>, <code>el.child()</code> attaches new thing
+to existing thing - <a href="https://youtu.be/HsDVz2_Qgow">Events</a>:
+<code>createButton()</code>, <code>el.mouseClicked()</code>,
+<code>el.mouseOver()</code>, <code>el.mouseOut()</code>,
+<code>changed()</code>, <code>createInput()</code> - Highly recommend
+the <a href="https://youtu.be/KeZBpeH59Q4">callbacks on multiple
+elements video</a></p>
+</blockquote>
+<blockquote>
+<p>These are all “wrappers” of the same code you learned to write in
+plain JS. Behind the scenes, it’s calling that plain JS to do this
+work.</p>
+</blockquote>
+<hr />
+</section>
+<section id="essential-javascript-for-web" class="level3">
+<h3>Essential Javascript for Web</h3>
+<ul>
+<li><p><strong>Select</strong> by id, class, element/tag, parent,
+child</p>
+<ul>
+<li><code>document.getElementById('id')</code>
+<code>document.getElementByClassName('class')</code>
+<code>document.querySelector('#id')</code>
+<code>document.querySelectorAll('.class')</code></li>
+<li>Note the different syntax options. <a
+href="https://www.w3schools.com/jsref/dom_obj_document.asp">Document</a>
+for more choices.</li>
+<li>set it to a variable name to ‘save’ it for reuse:
+<code>let line = document.querySelector('#line') //selects the element with the id line</code></li>
+</ul></li>
+<li><p><strong>Create</strong> makes new elements and <a
+href="https://www.w3schools.com/jsref/dom_obj_all.asp"><strong>Append</strong></a>
+places the items we made where we want them</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode javascript"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">let</span> button <span class="op">=</span> <span class="bu">document</span><span class="op">.</span><span class="fu">createElement</span>(<span class="st">&quot;BUTTON&quot;</span>)<span class="op">;</span> <span class="co">// creates a button but hasn&#39;t put it anywhere yet</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>button<span class="op">.</span><span class="at">innerHTML</span> <span class="op">=</span> <span class="st">&quot;click me&quot;</span><span class="op">;</span> <span class="co">// puts text in the button</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>line<span class="op">.</span><span class="fu">appendChild</span>(button)<span class="op">;</span> <span class="co">// adds a button inside every paragraph</span></span></code></pre></div></li>
+<li><p><strong>Add/remove class is <em>confusing, don’t
+worry</em></strong> because they’re each doing slightly different
+things</p>
+<ul>
+<li><code>el.className = 'class'</code> set equal to <a
+href="https://www.w3schools.com/jsref/prop_html_classname.asp">className</a>
+makes it that class only, erases any others</li>
+<li>OR: <code>el.classList.toggle('class')</code> note <a
+href="https://www.w3schools.com/jsref/prop_element_classlist.asp">toggle</a>
+on/off choice can avoid a check before if/then but might intro
+errors</li>
+<li>OR: <a
+href="https://www.w3schools.com/howto/howto_js_add_class.asp">add/remove
+from classList</a> <code>el.classList.add('class')</code> and
+<code>el.classList.remove('class')</code> note the name is in quotes but
+doesn’t need dot before it because class is in the attribute, …maintains
+a list of classes</li>
+</ul></li>
+<li><p><a
+href="https://www.w3schools.com/jsref/dom_obj_style.asp"><strong>Modify
+Styles</strong></a></p>
+<ul>
+<li><code>el.style.color = 'blue'</code></li>
+<li><code>el.style.borderBottom = '1px dotted black'</code></li>
+</ul></li>
+<li><p><a
+href="https://www.w3schools.com/jsref/dom_obj_event.asp"><strong>Events</strong></a>:</p>
+<ul>
+<li>think about how these events combine using 1) thing you touch and 2)
+thing you want to affect</li>
+<li>click, scroll, hover, mouseEnter/Leave, slideToggle etc. onclick vs
+item.click()</li>
+<li>Hide/show/fade/delay/toggle all done with
+<strong>callbacks</strong>:
+<code>document.addEventListener('eventname', functionName)</code>
+``</li>
+<li><a
+href="https://www.w3schools.com/css/css3_2dtransforms.asp">Transformations</a></li>
+</ul></li>
+</ul>
+<blockquote>
+<p>Note where elements appear, in the canvas vs in the rest of the
+DOM/page depending on how you’re writing them. As you’re blending the P5
+library with other Javascript this can get confusing. P5 has ways to do
+both, but they’re different. So does plain JS. They serve different
+purposes: - e.g. Choose <code>createImage()</code> (P5) or
+<code>document.createElement('IMG')</code> and then
+<code>appendChild</code> (plainJS) anywhere in the DOM vs choose
+<code>image()</code> to put it inside a canvas element.<br />
+- Choose <code>setup()</code> or <code>draw()</code> depending on if you
+want it to happen once or repeatedly, only works in P5.</p>
+</blockquote>
+<figure>
+<img
+src="https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594"
+alt="markdown-image" />
+<figcaption aria-hidden="true">markdown-image</figcaption>
+</figure>
+</section>
+<section id="review-logics-of-code" class="level3">
+<h3>Review: Logics of Code**</h3>
+<blockquote>
+<p>You already know (because you know JS) or may see around town:</p>
+</blockquote>
+<ol type="1">
+<li><strong><a href="https://youtu.be/NcCEzzd9BGE">Callbacks</a> and
+Code Patterns</strong></li>
+</ol>
+<ul>
+<li><p>MAKE &amp; NAME : create a thing &amp; assign it to a variable so
+you can keep referring to it</p></li>
+<li><p>SCHEDULE &amp; ACT: use functions to say what you want to do with
+it when</p>
+<pre><code>var thing = new Thingy() //MAKE &amp; NAME
+thing.doStuff(&#39;click&#39;, actFunction) //SCHED
+
+//ACT
+function actFunction(){
+  console.log(&quot;outcome&quot;)
+}</code></pre>
+<blockquote>
+<p>Thingy() initializes an object of the class Thingy, which already has
+a method (function) .doStuff(), we’re saying to run it when ‘click’
+happens and to run actFunction()</p>
+</blockquote></li>
+</ul>
+<ol start="2" type="1">
+<li><strong>Loops &amp; Conditionals</strong></li>
+</ol>
+<ul>
+<li><code>if</code>/<code>then</code> and
+<code>if</code>/<code>else</code></li>
+<li><code>for</code> loops
+<code>for (let i=0; i&lt;list.length;i++){}</code> and
+<code>for (let l in list){}</code></li>
+<li><code>try</code>/<code>catch</code> and the dreaded
+<code>while</code></li>
+</ul>
+<ol start="3" type="1">
+<li><strong>Data Types</strong> Javascript is wild &amp; doesn’t label
+its types like other languages do</li>
+</ol>
+<ul>
+<li>individual:
+<ul>
+<li>strings (“text”)</li>
+<li>numbers (integers, floats, binary, etc.)</li>
+<li>boolean (True, False)</li>
+</ul></li>
+<li>groups:
+<ul>
+<li><em>arrays</em> aka lists</li>
+<li><em>objects</em> aka dictionaries or key-value paired lists
+etc.</li>
+<li><em>sets</em> (stricter lists of <em>unique</em> items)</li>
+<li>functions</li>
+</ul></li>
+<li>imported data that can be converted to the above: JSON, CSV, TXT,
+etc.</li>
+</ul>
+<p><img
+src="https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385" /></p>
+<ol start="4" type="1">
+<li>Additional Considerations &amp; Weirdnesses</li>
+</ol>
+<ul>
+<li>Helps to write pseudocode to start</li>
+<li>Comments are a great debug strategy (Note where your
+<code>console.log()</code> comments appear in glitch, frontend vs
+backend concepts)</li>
+<li>Include error handling.</li>
+<li><code>let</code> works the same as <code>var</code> and
+<code>const</code>, they all initialize variables. Let is the preferred
+going forward. JS used to distinguish between variable and
+constant.</li>
+<li>arrow functions: if you see them, don’t let them confuse you:
+<code>let myFunction = () =&gt; console.log("sarah")</code> is same as
+``` function myFunction(){ console.log(“sarah”) }</li>
+<li>Glitch has a back-end/server-side Log/Console besides the front-end
+console you’re used to seeing in the browser’s dev tools. Check it
+out!</li>
+</ul>
+<hr />
+</section>
+<section id="bonus-libraries-frameworks-expansion-oh-my" class="level3">
+<h3>BONUS: Libraries &amp; Frameworks &amp; Expansion Oh My!</h3>
+<blockquote>
+<p>Ways people have solved problems, tried to make life easier and made
+it more complicated, aka words you might see around town &amp; more to
+think about later</p>
+</blockquote>
+<p>#### Helpers</p>
+<ul>
+<li>[p5]</li>
+<li>[JQuery]</li>
+<li>What are some others you’ve heard of? Do you know what they do?</li>
+</ul>
+<p>#### Design for web layout, look, &amp; feel</p>
+<ul>
+<li><a href="https://handlebarsjs.com/">Handlebars</a> templating
+language, pre-built buttons and CSS for your sites, lots of others like
+it, such as…</li>
+<li>Bootstrap, Semantic.io, Material.io (React)</li>
+<li>[React] a whole superset of JS built by Facebook to make complex
+sites with many components. Other Frameworks like it are Vue and
+Angular. You only need to learn one of these, if any.</li>
+</ul>
+<p>#### Design tools for specific tasks</p>
+<ul>
+<li><a href="https://tinytools.directory/">Tiny Tools Directory</a> by
+Everest Pipkin</li>
+<li><a href="https://scrollmagic.io/">ScrollMagic</a> scroll
+effects</li>
+<li>[Paper.js] curves &amp; swerves</li>
+<li>[Three.js] 3D stuff</li>
+</ul>
+<p>#### Servers &amp; Offline</p>
+<ul>
+<li>[Node.js] a superset of Javascript that lets you do servers and use
+JS without a browser, just in your local machine. A great place to start
+with Node is the Glitch template! Use Node for websites where you want a
+database or need to send info back and forth to a server.</li>
+<li>[Express.js] makes it easy to make a server, part of the Node
+template in Glitch</li>
+</ul>
+<p>#### Machine Learning</p>
+<ul>
+<li><a href="https://ml5js.org">ML5</a>, part of the p5/Processing
+family, is a simpler version of (aka built on/wrapper of
+Tensorflow)</li>
+<li>[Tensorflow.js]</li>
+<li>Lots of little ML tools out there, another lesson maybe for code
+collective?</li>
+</ul>
+<hr />
+<section id="examples-made-with-almost-just-javascript" class="level4">
+<h4>Examples made with (almost) “just” javascript</h4>
+<ul>
+<li><a href="https://cyberfeminismindex.com/">Cyberfeminism Index</a>
+only uses a bit of JQuery but wouldn’t need it. Also another type of
+site your project could be, gathering resources/examples for
+others.</li>
+</ul>
+<hr />
+</section>
+</section>
+<section id="your-project" class="level3">
+<h3>Your Project</h3>
+<section id="index.html" class="level5">
+<h5>← index.html</h5>
+<p>Where you’ll write the content of your website. This can start out
+barebones because you can add so much with Javascript. Good rule of
+thumb is to put in HTML anything that will stay static. Javascript is
+for interactivity!</p>
+</section>
+<section id="style.css" class="level4">
+<h4>← style.css</h4>
+<p>CSS files add styling rules to your content. Remember you can change
+these with Javascript too.</p>
+</section>
+<section id="script.js" class="level4">
+<h4>← script.js</h4>
+<p>Literally where the action happens. Add interactivity with
+JavaScript. Can also be inside your HTML file if you only have a little
+bit of script. Woo!</p>
+</section>
+<section id="assets" class="level4">
+<h4>← assets</h4>
+<p>A folder. Drag in <code>assets</code>, like images or music, to add
+them to your project. Often for bigger projects you’ll create separate
+folders for your styles and javascript files too.</p>
+</section>
+<section id="readme.md" class="level4">
+<h4>← README.md</h4>
+<p>That’s this file. It doesn’t show up to your end-user/reader. In this
+case I’m using it for a tutorial. You might use it for documentation
+about how you made your site or how others could implement your
+tool.</p>
+<hr/>
+<div id="refs" class="references csl-bib-body hanging-indent"
+role="doc-bibliography">
+<div id="ref-cistonHowForkBook2021" class="csl-entry"
+role="doc-biblioentry">
+Ciston, Sarah, and Mark C. Marino. 2021. <span>“How to Fork a Book: The
+Radical Transformation of Publishing.”</span> <em>Medium</em> (blog).
+August 19, 2021. <a
+href="https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c">https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c</a>.
+</div>
+</div>
+</section>
+</section>
+</section>
+</section>
+<section class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1" role="doc-endnote"><p><a
+href="https://creativecodecollective.com">Creative Code Collective</a><a
+href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p><a
+href="https://creativecodecollective.com">Creative Code Collective</a><a
+href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3" role="doc-endnote"><p>brown, a.m. (2017). Emergent
+Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
+href="http://adriennemareebrown.net/">adrienne maree brown</a><a
+href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4" role="doc-endnote"><p><a
+href="https://amc.alliedmedia.org/about/purpose-and-values">Allied Media
+Conference</a><a href="#fnref4" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn5" role="doc-endnote"><p><a
+href="https://www.centerforcouncil.org/">Center for Council</a><a
+href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6" role="doc-endnote"><p>brown, a.m. (2017). Emergent
+Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
+href="http://adriennemareebrown.net/">adrienne maree brown</a><a
+href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7" role="doc-endnote"><p><a
+href="https://superrr.net/code-of-conduct/">Superrr</a><a href="#fnref7"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8" role="doc-endnote"><p><a
+href="https://p5js.org/community/">p5js</a><a href="#fnref8"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9" role="doc-endnote"><p>brown, a.m. (2017). Emergent
+Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
+href="http://adriennemareebrown.net/">adrienne maree brown</a><a
+href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10" role="doc-endnote"><p><a
+href="https://amc.alliedmedia.org/about/purpose-and-values">Allied Media
+Conference</a><a href="#fnref10" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn11" role="doc-endnote"><p>brown, a.m. (2017). Emergent
+Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
+href="http://adriennemareebrown.net/">adrienne maree brown</a><a
+href="#fnref11" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn12" role="doc-endnote"><p>brown, a.m. (2017). Emergent
+Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
+href="http://adriennemareebrown.net/">adrienne maree brown</a><a
+href="#fnref12" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn13" role="doc-endnote"><p><a
+href="https://amc.alliedmedia.org/about/purpose-and-values">Allied Media
+Conference</a><a href="#fnref13" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn14" role="doc-endnote"><p><a
+href="https://berlincodeofconduct.org/">Berlin Code of Conduct</a><a
+href="#fnref14" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn15" role="doc-endnote"><p><a
+href="https://www.centerforcouncil.org/">Center for Council</a><a
+href="#fnref15" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn16" role="doc-endnote"><p><a
+href="https://p5js.org/community/">p5js</a><a href="#fnref16"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn17" role="doc-endnote"><p><a
+href="https://superrr.net/code-of-conduct/">Superrr</a><a
+href="#fnref17" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn18" role="doc-endnote"></li>
+<li id="fn19" role="doc-endnote"><p><a
+href="https://creativecodecollective.com">Creative Code Collective</a><a
+href="#fnref19" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+</article>
+</body>
+</html>
