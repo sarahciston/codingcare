@@ -1,9 +1,9 @@
 ---
 # layout: post
 permalink: unlimiting 
-title: codes for (un)limiting
+title: Codes for (Un)Limiting
 nav_order: 4
-date: 01.01.2024
+# date: 02.02.2024
 tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 # bibliography: ['includes/bibliography.bib']
 ---
@@ -19,17 +19,11 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 <!-- ### Isolation, Perfection, Scratching at the Walls -->
 
 <!-- (What piece goes with this one?) -->
-<p class='caption'>
-Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min) 
-</p>
 
-![horn-hands](../assets/img/horn-hands.jpg)
+![[1. "Two hands scratching both walls"](https://youtu.be/O0uNnmAudmk)](../assets/img/horn-hands.jpg)
 
-<p class='caption'>
+<p class="caption">Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min)</p>
 
-[1. "Two hands scratching both walls"](https://youtu.be/O0uNnmAudmk)
-
-</p>
 
 <!-- [(Vimeo)](https://vimeo.com/562736859) (link broke) -->
 
@@ -105,7 +99,7 @@ I am sequestering again, awaiting sequelae — the unseeable secondary consequen
 
 [8. "Cutting Hair" / 9. "O A S I S"](https://youtu.be/Kcy45wBZSoo)
 
-### Ünbungen in neun Stücken (Exercises, as captioned/as listed online)
+#### Ünbungen in neun Stücken (Exercises, as captioned/as listed online)
 1. "two hands scratching both walls" / *Touching the walls with both hands simultaneously*
 2. "twinkling" / *Blinking*
 3. "feathers dancing on shoulders" / *Feathers dance on the shoulders*
@@ -118,11 +112,7 @@ I am sequestering again, awaiting sequelae — the unseeable secondary consequen
 
 <!-- ![horn-legs](../assets/img/horn-legs.png) -->
 
-<p class='caption'>
-
 [4. "keeping those legs from fucking-around"](http://www.medienkunstnetz.de/works/berlin-uebungen-beine/video/1/)
-
-</p>
 
 <!-- More about protocols as limits and porousness. I have written this before but will I ever say it “right” -->
 

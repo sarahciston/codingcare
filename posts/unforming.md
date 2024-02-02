@@ -1,7 +1,7 @@
 ---
 # layout: post
-title: codes for (un)forming
-subtitle: 
+title: Codes for (Un)Forming
+# subtitle: 
 permalink: unforming
 nav_order: 10
 date: 27.01.2024

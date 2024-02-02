@@ -1,16 +1,23 @@
 ---
 # layout: post
-title: codes for (un)living
+title: Codes for (Un)Living
 permalink: unliving
 nav_order: 20
 date: 18.01.2024
 ---
 
+<article>
+
+<!-- # Codes for (Un)Living -->
+
+# 
+
+<figure markdown=1 class='fullwidth'>
 ![](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
+</figure>
 
-# Codes for (Un)Living
-
->"Find something to adore and keep talking to it." –Martin Shaw -[@shawCourtingWildTwin2020]
+>"Find something to adore and keep talking to it." 
+><footer>–Martin Shaw -[@shawCourtingWildTwin2020]</footer>
 
 I am still alive, On Kawara.  It takes so much: To get up, at a time. To make a painting. To make a day. Day after day. You fit this feeling in a postcard. You report the dailiness and so it is remarkable.
 
@@ -106,3 +113,5 @@ I am still alive. Most days it doesn't feel remarkable or enough. I don't know h
 
 
 ![](../assets/img/Kawara_IGotUp1036.jpg)
+
+</article>

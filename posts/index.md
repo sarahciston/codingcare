@@ -4,8 +4,7 @@ title: home
 nav_order: 0
 ---
 
-This work offers respect and gratitude to the Tongva and Chumash peoples, who are the rightful and traditional caretakers of the land where large portions of this work have been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn about the history of where you live, why this matters, and how to contribute.
-{: .caption }
+<caption markdown=1>This work offers respect and gratitude to the Tongva and Chumash peoples, who are the rightful and traditional caretakers of the land where large portions of this work have been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn about the history of where you live, why this matters, and how to contribute.</caption>
 
 
 <!-- *I live and work in the ancestral land of the Tongva and Chumash people (Los Angeles), and on the site of many communities displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, and I work to support dismantling the paradigms that allow those struggles to continue.-->
@@ -14,14 +13,18 @@ This work offers respect and gratitude to the Tongva and Chumash peoples, who ar
 
 <!-- Here's where I'll be tinkering for a few years with a dissertation... -->
 
-# Trans*formative TechnoCraft
+<p style="font-size: 4rem; line-height: 1.2; color: darkslateblue;">Trans*formative TechnoCraft</p>
 
-1. [Critical Introduction & Conclusion](intro)
-2. CRAFT: [Coding.Care](codingcare)
-3. FORMATIVE: [A Critical Field Guide to Working with Machine Learning Datasets](https://knowingmachines.org/critical-field-guide) & [Inclusive Datasets Research Guide](publications)
-4. \*: Interstitial Portals
+1. [Critical Introduction & Conclusion](critintro.html)
+2. [CRAFT: Coding.Care](guide.html)
+3. [FORMATIVE: A Critical Field Guide to Working with Machine Learning Datasets](https://knowingmachines.org/critical-field-guide) & [Inclusive Datasets Research Guide](publications)
+4. \*: Interstitial Portals: 
+   * [Codes for (Un)Raveling](unraveling.html)
+   * [Codes for (Un)Limiting](unlimiting.html)
 5. TECH: [Intersectional AI Toolkit](https://sarahciston.gitlab.io/toolkit/)
-6. (NO): Tactical Refusals & Reverse Portals
+6. (NO): Tactical Refusals & Reverse Portals: 
+   * [Codes for (Un)Living](unliving.html)
+   * [Codes for (Un)Knowing](unknowning.html)
 7. TRANS: What's next & what's after...
 <!-- 7. TRANS: [Unsupervised Pleasures & Critical AI](unsupervised) -->
 

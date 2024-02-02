@@ -1,32 +1,21 @@
 ---
 # layout: post
 permalink: unraveling
-title: codes for (un)raveling
-nav_order: 5
-date: 01.01.2024
+title: Codes for (Un)Raveling
+# subtitle: Trans*formative TechnoCraft
+# nav_order: 5
+date: 02.02.2024
 ---
 
-<!-- threads, lines, threaded systems. mourning, fraying-->
-<!-- threaded networks: embodied codes for weaving new worlds -->
-<!-- what are the patterns and codes we don't have but need -->
+<!-- <figure class='fullwidth'> -->
+![Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.](../assets/img/rapoport-autobio.png)
+<!-- </figure> -->
 
-![Sonya Rapoport, "Kiva Studio" (detail)](../assets/img/rapoport-autobio.png)
+#  
 
-<p class='caption'>
-Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.
-</p>
-
-<!-- ![Rapoport Right On](../assets/img/rapoport-righton.jpg)
-
-<p class='caption'>
-Sonya Rapoport, Right On, 1976. Pencil, colored pencil, yarn, stamp, ink, and thread on found continuous feed paper, 55" x 45". Credit: Sonya Rapoport Legacy Trust.
-</p> -->
-
-# Codes for (Un)Raveling
-
-<!-- Un/Mouthing -->
-
->"It seems necessary and impossible to rewrite the default grammar of agency." —Jane Bennett
+>"It seems necessary and impossible to rewrite the default grammar of agency." 
+><footer>—Jane Bennett</footer>
+>
 
 When the term "underfitting" autocorrects to undercutting, this is undermining. This is a form of AI, forms it doesn’t want to speak about.
 
@@ -34,9 +23,9 @@ I don’t know how to talk about this. But I have machines that do. I feed them 
 
 They say what I can’t say. I am not supposed to know how they mouth it. They mouth my language for me, this language that was never mine. It mined me for something I didn’t know I had in me. 
 
-It had me from the start. It made me. It made me bend, it unmade me, unmouthed me. "*Words pass through our bodies.*" [^Irigaray]
+It had me from the start. It made me. It made me bend, it unmade me, unmouthed me. "*Words pass through our bodies.*" [@irigarayThisSexWhich1985]
 
-*The ebb and flow of our lives spent in the exhausting labor of copying, miming. Dedicated to reproducing that sameness in which we have remained for centuries, as the other.* [^Irigaray]
+*The ebb and flow of our lives spent in the exhausting labor of copying, miming. Dedicated to reproducing that sameness in which we have remained for centuries, as the other.* [@irigarayThisSexWhich1985]
 
 ===
 
@@ -46,7 +35,7 @@ I like words for how they feel, and so this new feeling, this new feeding is per
 
 I won’t know until it pronounces for me, until it pronounces me. It pronounces me whole and I can't interrupt it — yielding to their language.
 
-*"[Not one of them: using words like race seems to amplify what makes you not fit, picking up what you are not.] Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point."* [^Ahmed]
+*"[Not one of them: using words like race seems to amplify what makes you not fit, picking up what you are not.] Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point."* [@ahmedQueerUse2018]
 
 Sure, who doesn’t love the fable of Ada at the loom, inventing programming? But the lines go further back, and wider. Other lineages calculate in ways we would not even recognize as computation. Soap bubbles, mushrooms, paper punch cards — all of these have been computers.
 
@@ -62,7 +51,7 @@ I want to weave each mistake into the possibility for more. More language. More 
 
 To venture to all possible points and exhaust all paths is called Ariadne's thread in computational logic, arbitrarily following one path as far as possible until it comes up short, then trying the next.
 
-*"The sky isn't up there: it's between us."*[^Irigaray]
+*"The sky isn't up there: it's between us."* [@irigarayThisSexWhich1985]
 
 ===
 
@@ -86,7 +75,7 @@ I drag you with me in the fibers, at all edges of the video frame. Life gets cau
 
 The algorithm is not separate from the mouths it feeds and the mouths it fills with text.
 
-*"They say, the language you speak is made up of words that are killing you."* [^Wittig]
+*"They say, the language you speak is made up of words that are killing you."* [@wittigGuerilleres1971]
 
 Lost paths are trapped outside these neural networks' loss functions. A loss function marks the 'amount' of 'error,' which only means the difference between expectation and result. Only an activation function decides the border between 'yes' and 'no.' To categorize and classify is loss prevention, a bounding box. 
 
@@ -98,7 +87,7 @@ A labyrinth has only one path. It is not a maze and it is not a knot, but it is 
 
 Crochet is the one fiber art that machines cannot do. Acts of accrual and ongoingness pile up. Turn microgestures into mass action. Turn a tense and fragile fiber into a flexible but sturdy surface. Turn that surface into a manifold fabric. Keep yourself warm with actions that repeat. Return to the same spot, and act again. Remember what you did.
 
-*"Queer use: another way of huddling, keeping each other warm."* [^Ahmed]
+*"Queer use: another way of huddling, keeping each other warm."* [@ahmedQueerUse2018]
 
 ===
 
@@ -106,7 +95,9 @@ Sonya's drawings are perfect computations in colored pencil. Computations of fee
 
 "My work is an aesthetic response triggered by scientific data," says Sonya. "The format is computer printout, a ritualistic symbol of our technological society."
 
+<figure markdown=1 class='fullwidth'>
 ![Sonya Rapoport, "Christo Cornell"](../assets/img/rapoport-christocornell.jpg)
+</figure>
 
 ===
 
@@ -121,7 +112,7 @@ Threads are ligatures, they sew up the spaces between, tie up meaning tightly, l
 <!-- Threads as instruments of mourning and memory. Threads as marks of accrual and disintegration.  -->
 <!-- The spiral is the simplest labyrinth.  -->
 
-The command line is an endless thread. Its simple interface (a prompt for typing input and a display for text outputs) still intimidates me, but I have started to play inside this feeling. The command line reminds me of what E.L. Doctorow says about novel writing: "It's like driving a car at night. You can only see as far as your headlights illuminate. But you can make the whole trip that way." At the command line, I [travel/see] only as far as my headlights shine. I say the coders' prayer at every keystroke: "Here goes nothin'" It saves every past command, and cycling back through is [memory as poetry (or the opposite)]. 
+The command line is an endless thread. Its simple interface (a prompt for typing input and a display for text outputs) still intimidates me, but I have started to play inside this feeling. The command line reminds me of what E.L. Doctorow says about novel writing: "It's like driving a car at night. You can only see as far as your headlights illuminate. But you can make the whole trip that way." At the command line, I see only as far as my headlights shine. I say the coders' prayer at every keystroke: "Here goes nothin'" It saves every past command, and cycling back through is [memory as poetry (or the opposite)]. 
 
 Used to be, you'd knot a string around your finger if you had something to remember. You'd tie a ribbon round a tree to remember the dead. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
 
@@ -129,7 +120,9 @@ Used to be, you'd knot a string around your finger if you had something to remem
 
 Sonya finds unacknowledged patterns in what's already there. She threads into the outputs. She slides and sews into the spaces between.  
 
+<figure class="fullwidth">
 ![Sonya Rapoport, "Hovenweep"](../assets/img/rapoport-hovenweep-install.jpg)
+</figure>
 
 A thread starts small, jots things down, casts a line. It traces connections and ties together coexisting versions, histories, commentaries. It unties the notion of authoritative texts. A ribbon was once called a notion, a decorative flourish, a small domestic thing. 
 
@@ -145,7 +138,9 @@ The simplest knot, mathematically, is the unknot. *"The unknot is the least knot
 
 The Conway knot has 11 crossings but shares properties with the unknot. 
 
+<figure class="fullwidth">
 ![Sarah Ciston, "No Knots, Only Loops" installation view, June 2023](../assets/img/anarchies5.jpg)
+</figure>
 
 The wound-up muscle of the heart is not a knot, although there is a knot called a heart knot. The muscle of the heart is a spiraled double-helix, looped into itself. The heart can be unwound into a flat surface, a slab of meat just like any other muscle. 
 
@@ -197,16 +192,17 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 
 <!-- >"The maze-walker, we could say, is a navigator; the labyrinthine pathfollower a wayfarer. In the carrying on of the wayfarer, every destination is by the way; his path runs always in between. The movements of the navigator, by contrast, are point-to-point, and every point has been arrived at, by calculation, even before setting oﬀ towards it."[^Ingold] -->
 
-[^Ahmed]: Ahmed, S. (2018). "Queer Use." feministkilljoys blog. https://feministkilljoys.com/2018/11/08/queer-use/
+<!-- [^Ahmed]: Ahmed, S. (2018). "Queer Use." feministkilljoys blog. https://feministkilljoys.com/2018/11/08/queer-use/ -->
 
-[^Ingold]: Ingold, T. (2015). *The life of lines*. Routledge.
+<!-- [^Ingold]: Ingold, T. (2015). *The life of lines*. Routledge. -->
 
-[^Irigaray]: Irigaray, Luce. (1985) *This Sex Which Is Not One.*. Cornell.
+<!-- [^Irigaray]: Irigaray, Luce. (1985) *This Sex Which Is Not One.*. Cornell. -->
 
-[^Wittig]: Wittig, Monique. (1969) *Les Guérillères.*
+<!-- [^Wittig]: Wittig, Monique. (1969) *Les Guérillères.* -->
 
-
+<figure class="fullwidth">
 ![Sonya Rapoport, "Objects on My Dresser"](../assets/img/rapoport-objects1.jpg)
+</figure>
 
 <!-- ingold's knot vs brick -->
 <!-- >"Path-following is thus not so much intentional as attentional. It thrusts the follower into the presence of the real." [^Ingold] -->
@@ -230,10 +226,6 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 
 <!-- >"But the knot remembers everything, and has everything to forget."  -->
 <!-- If we hold everything loosely, no knots, only loops, if we only loop, not knot, what do we remember -->
-
-
-===
-
 
 <!-- It is not a maze, but it is a puzzle.  -->
 
@@ -264,3 +256,17 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 
 <!-- repair, riparian -->
 <!-- The simplest labyrinth is a spiral.  -->
+
+<!-- ![Rapoport Right On](../assets/img/rapoport-righton.jpg)
+
+<p class='caption'>
+Sonya Rapoport, Right On, 1976. Pencil, colored pencil, yarn, stamp, ink, and thread on found continuous feed paper, 55" x 45". Credit: Sonya Rapoport Legacy Trust.
+</p> -->
+
+<!-- # Codes for (Un)Raveling -->
+
+<!-- Un/Mouthing -->
+
+<!-- threads, lines, threaded systems. mourning, fraying-->
+<!-- threaded networks: embodied codes for weaving new worlds -->
+<!-- what are the patterns and codes we don't have but need -->
