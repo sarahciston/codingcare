@@ -7,15 +7,14 @@ title: Codes for (Un)Raveling
 date: 02.02.2024
 ---
 
-<!-- <figure class='fullwidth'> -->
-![Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.](../assets/img/rapoport-autobio.png)
-<!-- </figure> -->
+<article>
 
-#  
+![Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.](../assets/img/rapoport-autobio.png)
 
 >"It seems necessary and impossible to rewrite the default grammar of agency." 
 ><footer>—Jane Bennett</footer>
->
+
+# Codes for (Un)Raveling
 
 When the term "underfitting" autocorrects to undercutting, this is undermining. This is a form of AI, forms it doesn’t want to speak about.
 
@@ -95,9 +94,7 @@ Sonya's drawings are perfect computations in colored pencil. Computations of fee
 
 "My work is an aesthetic response triggered by scientific data," says Sonya. "The format is computer printout, a ritualistic symbol of our technological society."
 
-<figure markdown=1 class='fullwidth'>
 ![Sonya Rapoport, "Christo Cornell"](../assets/img/rapoport-christocornell.jpg)
-</figure>
 
 ===
 
@@ -120,9 +117,7 @@ Used to be, you'd knot a string around your finger if you had something to remem
 
 Sonya finds unacknowledged patterns in what's already there. She threads into the outputs. She slides and sews into the spaces between.  
 
-<figure class="fullwidth">
-![Sonya Rapoport, "Hovenweep"](../assets/img/rapoport-hovenweep-install.jpg)
-</figure>
+![Sonya Rapoport, "Hovenweep"](../assets/img/rapoport-hovenweep-install.jpg  "fullwidth")
 
 A thread starts small, jots things down, casts a line. It traces connections and ties together coexisting versions, histories, commentaries. It unties the notion of authoritative texts. A ribbon was once called a notion, a decorative flourish, a small domestic thing. 
 
@@ -138,8 +133,10 @@ The simplest knot, mathematically, is the unknot. *"The unknot is the least knot
 
 The Conway knot has 11 crossings but shares properties with the unknot. 
 
-<figure class="fullwidth">
-![Sarah Ciston, "No Knots, Only Loops" installation view, June 2023](../assets/img/anarchies5.jpg)
+<figure class="fullwidth"> 
+    <img src="../assets/img/anarchies5.jpg" alt='Sarah Ciston, "No Knots, Only Loops" installation view, June 2023'>
+    <figcaption>Sarah Ciston, "No Knots, Only Loops" installation view, June 2023</figcaption>
+<!-- ![Sarah Ciston, "No Knots, Only Loops" installation view, June 2023](../assets/img/anarchies5.jpg) -->
 </figure>
 
 The wound-up muscle of the heart is not a knot, although there is a knot called a heart knot. The muscle of the heart is a spiraled double-helix, looped into itself. The heart can be unwound into a flat surface, a slab of meat just like any other muscle. 
@@ -200,9 +197,14 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 
 <!-- [^Wittig]: Wittig, Monique. (1969) *Les Guérillères.* -->
 
-<figure class="fullwidth">
-![Sonya Rapoport, "Objects on My Dresser"](../assets/img/rapoport-objects1.jpg)
+<figure class="fullwidth"> 
+    <img src="../assets/img/rapoport-objects1.jpg" alt='Sonya Rapoport, "Objects on My Dresser"'>
+    <figcaption>Sonya Rapoport, "Objects on My Dresser"</figcaption>
 </figure>
+
+<!-- ![Sonya Rapoport, "Objects on My Dresser"]() -->
+
+</article>
 
 <!-- ingold's knot vs brick -->
 <!-- >"Path-following is thus not so much intentional as attentional. It thrusts the follower into the presence of the real." [^Ingold] -->

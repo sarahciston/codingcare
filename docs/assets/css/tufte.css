@@ -243,11 +243,11 @@ figcaption {
     line-height: 1.7rem;
     vertical-align: baseline;
     position: relative;
-    max-width: 40%;
+    /* max-width: 40%; */
 }
 
 figure.fullwidth figcaption {
-    margin-right: 24%;
+    /* margin-right: 24%; */
 }
 
 /* Links: replicate underline that clears descenders */
