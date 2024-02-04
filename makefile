@@ -2,7 +2,7 @@ source := posts
 outputhtml := docs
 outputpdf := assets/pdf
 SOURCES := posts/$(wildcard *.md)
-TEMPLATE = zine.tex 
+TEMPLATE = draft.tex 
 
 # INPUT = posts/guide.md
 # OUTPUT = "/Users/sarahciston/Desktop/codezine"
@@ -21,7 +21,7 @@ PDF_FLAGS = \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
 		--template=latex/$(TEMPLATE) \
-		
+		# --toc-depth=3 
 
 # $(SOURCES) \ -o $(OUTPUT) 
 
@@ -29,12 +29,21 @@ HTML_FLAGS = \
 		--section-divs \
 		-s -f markdown+tex_math_single_backslash \
 		--bibliography=posts/includes/bibliography.json \
-		--citeproc --toc \
+		--citeproc --toc --toc-depth=3 \
 		--to html5+smart \
 		--template=_layouts/tufte.html5 \
 		$(foreach style,$(STYLES),--css $(notdir $(style))) 
+
+# HTML_MOD_FLAGS = \
+# 		--section-divs \
+# 		-s -f markdown+tex_math_single_backslash \
+# 		--bibliography=posts/includes/bibliography.json \
+# 		--citeproc --toc \
+# 		--to html5+smart \
+# 		--template=_layouts/tufte-mod.html5 \
+# 		$(foreach style,$(STYLES),--css $(notdir $(style))) 
 		
-STYLES := _site/assets/css/tufte.css \
+STYLES := _site/assets/css/tufte-tt.css \
 		_site/assets/css/pandoc.css \
 		_site/assets/css/pandoc-solarized.css \
 		_site/assets/css/tufte-extra.css
@@ -46,6 +55,11 @@ STYLES := _site/assets/css/tufte.css \
 # posts/cf-reforming.md metadata.yml \-o "/Users/sarahciston/Desktop/06-forming.pdf"
 # --number-sections
 # -s -f markdown+rebase_relative_paths+yaml_metadata_block \ 
+
+# .PHONY: mod html
+# mod %.html: $(source)/%.md
+# 		pandoc -o $(outputhtml)/$@ $(HTML_FLAGS) $< 
+
 
 .PHONY: html
 %.html: $(source)/%.md

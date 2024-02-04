@@ -2,8 +2,9 @@
 # layout: post
 permalink: unlimiting 
 title: Codes for (Un)Limiting
+subtitle: Trans*formative TechnoCraft
 nav_order: 4
-# date: 02.02.2024
+date: 02.02.2024
 tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 # bibliography: ['includes/bibliography.bib']
 ---
@@ -14,16 +15,15 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 
 <!-- (Dis/Appearing) -->
 
-# Codes for (Un)Limiting 
+# Codes for (Un)Limiting
+
+![[1. "Two hands scratching both walls"](https://youtu.be/O0uNnmAudmk)](../assets/img/horn-hands.jpg)
+
+**Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min)**
 
 <!-- ### Isolation, Perfection, Scratching at the Walls -->
 
 <!-- (What piece goes with this one?) -->
-
-![[1. "Two hands scratching both walls"](https://youtu.be/O0uNnmAudmk)](../assets/img/horn-hands.jpg)
-
-#### Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min)
-
 
 <!-- [(Vimeo)](https://vimeo.com/562736859) (link broke) -->
 
@@ -77,7 +77,7 @@ What is the relationship between isolation and perfection? Am I trying to narrow
 So I guess this is about insecurity, too, and where the mind goes when left alone. And if it's about limits, of course it's also about boundaries. About codes. About sensitivities, calibrations, and machines.
 
 <!-- [XXX][Flusser says walls are not only barricades but redirect the wind. Screens instead of walls (ingold) ] -->
-[XXX][no project here because covid?]
+<!-- [XXX][no project here because covid?] -->
 
 <!-- When we tell stories, we use everything we know about everyone we've ever met to imagine new characters. From those generalizations, we draw out some specific features and apply them to an imagined new person. Hopefully we flesh those out enough, combining them in unique ways and adding situations and motivations that make the new person feel full and fleshy too.  -->
 
@@ -87,6 +87,8 @@ So I guess this is about insecurity, too, and where the mind goes when left alon
 
 Rebecca, why are you stuck inside? It's winter when you are, and I don't know which side of Berlin you're on. 
 
+![[4. "keeping those legs from fucking-around"](http://www.medienkunstnetz.de/works/berlin-uebungen-beine/video/1/)](../assets/img/horn-legs.png)
+
 Are you sequestering for political reasons, or meteorological or creative ones? People don't just come up with the idea to cut their own hair with two pairs of scissors at once, or to paint themselves green and squiggle around behind their houseplants on camera, or to make tiny fish on wires swim inside someone else's billowing fan-blown chest hair, if they haven't been stuck inside for a bit. 
 
 Who among us has not in the last years stood before a mirror in fear of the haircut they gave themselves in this Übung? The queer confinement urge to DIY that undercut, to bind ourselves to a partner with magnets strapped to both our legs, to gaze into the middle-distance of each other's facetimes with a hundred other windows open in our browsers. 
@@ -95,11 +97,14 @@ Each of these nine parts is an exercise in intimacy — through sounds that sign
 
 I am sequestering again, awaiting sequelae — the unseeable secondary consequences I cannot see but know to expect. I am always impending. Re-emerging. Re-emergent. Re-emergency.
 
-<!-- ![horn-hair](../assets/img/horn-cuttinghair.png) -->
+![[8. "Cutting Hair" / 9. "O A S I S"](https://youtu.be/Kcy45wBZSoo)](../assets/img/horn-cuttinghair.jpg)
 
-[8. "Cutting Hair" / 9. "O A S I S"](https://youtu.be/Kcy45wBZSoo)
+#### Berlin Exercises in Nine Pieces: Sleeping under Water and Seeing Things That Happen Far Away / *Dreaming Under Water*
 
-#### Ünbungen in neun Stücken (Exercises, as captioned/as listed online)
+Berlin Ünbungen in neun Stücken: Unter dem Wasser schlafen und Dinge sehen, die sich in weiter Ferne abspielen 
+
+(as machine translated / *as captioned in English*)
+
 1. "two hands scratching both walls" / *Touching the walls with both hands simultaneously*
 2. "twinkling" / *Blinking*
 3. "feathers dancing on shoulders" / *Feathers dance on the shoulders*
@@ -111,8 +116,6 @@ I am sequestering again, awaiting sequelae — the unseeable secondary consequen
 9. "When a woman and her lover lying down - face to face - and she coils(wraps) her legs around the legs of the man - with the window opened wide - that is the O A S I S ." / *When a woman and her lover lie on one side looking at each other; and she twines her legs around the man's legs with the window wide open, it is the oasis.*
 
 <!-- ![horn-legs](../assets/img/horn-legs.png) -->
-
-[4. "keeping those legs from fucking-around"](http://www.medienkunstnetz.de/works/berlin-uebungen-beine/video/1/)
 
 <!-- More about protocols as limits and porousness. I have written this before but will I ever say it “right” -->
 

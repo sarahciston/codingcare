@@ -1,23 +1,26 @@
 ---
 # layout: post
 title: Codes for (Un)Living
+# title:  
+subtitle: Trans*formative TechnoCraft
 permalink: unliving
 nav_order: 20
 date: 18.01.2024
 ---
 
-<article>
+<!-- <article> -->
 
-<!-- # Codes for (Un)Living -->
+<!-- <figure markdown=1 class='fullwidth'> -->
+<!-- </figure> -->
 
-# 
+<!-- <h1 class='no_toc'>Codes for (Un)Living</h1> -->
 
-<figure markdown=1 class='fullwidth'>
-![](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
-</figure>
+# Codes for (Un)Living
 
 >"Find something to adore and keep talking to it." 
-><footer>–Martin Shaw -[@shawCourtingWildTwin2020]</footer>
+><footer>–Martin Shaw [-@shawCourtingWildTwin2020]</footer>
+
+![](../assets/img/kawara-telegram-lewitt-still-alive.jpg)
 
 I am still alive, On Kawara.  It takes so much: To get up, at a time. To make a painting. To make a day. Day after day. You fit this feeling in a postcard. You report the dailiness and so it is remarkable.
 
@@ -111,7 +114,8 @@ I am still alive. Most days it doesn't feel remarkable or enough. I don't know h
 
 <!-- the computer is a classifying machine, if code is built on binary and the zeros and ones are made to say either or, not [either and] … [both maybe] a voltage rush, a spark gap… **what is the computational system built on the surges and loss, the wavering? the felt feeling?** you’ll argue this is getting metaphorical not close to the metal (a metaphor) what could be closer to the metal than bone, that wrended flesh?  -->
 
-
 ![](../assets/img/Kawara_IGotUp1036.jpg)
 
-</article>
+### References
+
+<!-- </article> -->

@@ -2,19 +2,19 @@
 # layout: post
 permalink: unraveling
 title: Codes for (Un)Raveling
-# subtitle: Trans*formative TechnoCraft
+subtitle: Trans*formative TechnoCraft
 # nav_order: 5
 date: 02.02.2024
 ---
 
-<article>
-
-![Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.](../assets/img/rapoport-autobio.png)
-
->"It seems necessary and impossible to rewrite the default grammar of agency." 
-><footer>—Jane Bennett</footer>
+<!-- <article> -->
 
 # Codes for (Un)Raveling
+
+>"It seems necessary and impossible to rewrite the default grammar of agency." 
+><footer>–Jane Bennett [-@bennettVibrantMatterPolitical2010]</footer>
+
+![Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.](../assets/img/rapoport-autobio.png)
 
 When the term "underfitting" autocorrects to undercutting, this is undermining. This is a form of AI, forms it doesn’t want to speak about.
 
@@ -94,9 +94,13 @@ Sonya's drawings are perfect computations in colored pencil. Computations of fee
 
 "My work is an aesthetic response triggered by scientific data," says Sonya. "The format is computer printout, a ritualistic symbol of our technological society."
 
-![Sonya Rapoport, "Christo Cornell"](../assets/img/rapoport-christocornell.jpg)
+<figure class="fullwidth"> 
+    <img src="../assets/img/rapoport-christocornell.jpg" alt='Sonya Rapoport, "Christo Cornell"'>
+    <figcaption>Sonya Rapoport, "Christo Cornell"</figcaption>
+</figure>
+<!-- ![Sonya Rapoport, "Christo Cornell"](../assets/img/rapoport-christocornell.jpg) -->
 
-===
+<!-- === -->
 
 System operations are called sometimes called threads. *"A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads distribute resources and allocate energy.
 
@@ -113,11 +117,10 @@ The command line is an endless thread. Its simple interface (a prompt for typing
 
 Used to be, you'd knot a string around your finger if you had something to remember. You'd tie a ribbon round a tree to remember the dead. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
 
-===
+<!-- === -->
+![Sonya Rapoport, "Hovenweep"](../assets/img/rapoport-hovenweep-install.jpg)
 
 Sonya finds unacknowledged patterns in what's already there. She threads into the outputs. She slides and sews into the spaces between.  
-
-![Sonya Rapoport, "Hovenweep"](../assets/img/rapoport-hovenweep-install.jpg  "fullwidth")
 
 A thread starts small, jots things down, casts a line. It traces connections and ties together coexisting versions, histories, commentaries. It unties the notion of authoritative texts. A ribbon was once called a notion, a decorative flourish, a small domestic thing. 
 
@@ -185,6 +188,14 @@ The labyrinth asks you to cross each point in the possibility space, instead of 
 
 A labyrinth says go slow, get lost, stay in one place. Wind and unwind. 
 
+<figure class="fullwidth"> 
+    <img src="../assets/img/rapoport-objects1.jpg" alt='Sonya Rapoport, "Objects on My Dresser"'>
+    <figcaption>Sonya Rapoport, "Objects on My Dresser"</figcaption>
+</figure>
+
+### References
+
+
 <!-- Path-following is not so much intentional as attentional.[^Ingold] -->
 
 <!-- >"The maze-walker, we could say, is a navigator; the labyrinthine pathfollower a wayfarer. In the carrying on of the wayfarer, every destination is by the way; his path runs always in between. The movements of the navigator, by contrast, are point-to-point, and every point has been arrived at, by calculation, even before setting oﬀ towards it."[^Ingold] -->
@@ -197,14 +208,9 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 
 <!-- [^Wittig]: Wittig, Monique. (1969) *Les Guérillères.* -->
 
-<figure class="fullwidth"> 
-    <img src="../assets/img/rapoport-objects1.jpg" alt='Sonya Rapoport, "Objects on My Dresser"'>
-    <figcaption>Sonya Rapoport, "Objects on My Dresser"</figcaption>
-</figure>
-
 <!-- ![Sonya Rapoport, "Objects on My Dresser"]() -->
 
-</article>
+<!-- </article> -->
 
 <!-- ingold's knot vs brick -->
 <!-- >"Path-following is thus not so much intentional as attentional. It thrusts the follower into the presence of the real." [^Ingold] -->

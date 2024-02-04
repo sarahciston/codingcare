@@ -1,13 +1,15 @@
 ---
 # layout: post
 title: Codes for (Un)Forming
-# subtitle: 
+subtitle: Trans*formative TechnoCraft
 permalink: unforming
 nav_order: 10
-date: 27.01.2024
+date: 02.02.2024
 ---
 
 # Codes for (Un)Forming
+
+![](../assets/img/valie-2cam.jpg)
 
 The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's violated, when I don't have enough space or when I'm taking too much. Otherwise just: The body, body, tired, vessel, hungry, aching, thing. A tool to notice only when it's broken. 
 
@@ -15,7 +17,7 @@ Becoming-concrete. Becoming-curb. Becoming-scaffold. VALIE, you made your body s
 
 Feel like VALIE tromping through fields, unwieldy cameras strapped front and back tipping side to side and crawling through the air to make strange pictures in stereo vision. An animal with wild eyes. This was 1973 and now we all have that front-back camera you made your whole body into, we have the miniature version of [your/our] body in our pockets, close to our bodies. Of that work, you said: 
 
->"between these pictures is the body that is invisible, cutting the room." 
+>"between these pictures is the body that is invisible, cutting the room." [@WerkdetailVALIEEXPORT]
 
 [Reader,] imagine the room you're in without your body, just the cut it makes. Imagine a hollow in the negative of you. 
 
@@ -43,7 +45,7 @@ Except I dreamt the second sentence differently, and I was too afraid to speak i
 
 All parts of this break my heart — the dreamt version, the re-written version, the hiding and having to unhide, [even the non-correspondence and the map I imagine of it, vast as a territory].
 
-![violates policy](../assets/img/violatepolicy.png)
+![This prompt may violate our content policy. (OpenAI)](../assets/img/violatepolicy.png)
 
 A prompt is a kind of platform, a place off which to jump, from which to start. Like a diving platform, a prompt sets you up for something[: a fall]. Some prompts are setups. Some prompts are built to go nowhere, even if they could go anywhere. Some prompts are thwarted. 
 
@@ -83,7 +85,9 @@ Remember, the femme platforms are the things we are designed to disappear as. A 
 
 But in the din of the room, in the cut, you bloom a bruise.  
 
+![](../assets/img/valie-garter.jpg)
 
+### References
 
 
 
@@ -241,9 +245,9 @@ preciado-testo/countersexual -->
 <!-- sharma-manifesto for the broken machines -->
 <!-- sundén-on trans-, glitch, and gender as the machinery of failure -->
 
-russell-glitch feminism
-**>"The glitch is the catalyst, not the error." (Russell)**
-**>"With physical movement often restricted, female-identifying people, queer people, Black people invent ways to create space through rupture" (Russell 7).** 
+<!-- russell-glitch feminism -->
+<!-- **>"The glitch is the catalyst, not the error." (Russell)** -->
+<!-- **>"With physical movement often restricted, female-identifying people, queer people, Black people invent ways to create space through rupture" (Russell 7).**  -->
 <!-- **>"Glitch manifests with such variance, generating ruptures between the recognized and recognizable, and amplifying within such ruptures, extending them to become fantastic landscapes of possibility" (Russell 28).** -->
 <!-- >" [quoting John Glenn 'Literally, a glitch… is such a minute change in voltage that no fuse could protect against it.' and St Petersberg Times 'Glitches-a spaceman's word for irritating disturbances.'" "an outright refusal, a 'nope' in its own right" (Russell 29) -->
 <!-- >"glitch moves, but glitch also blocks […]. Glitch prompts and glitch prevents." (Russell 30)

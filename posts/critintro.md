@@ -26,12 +26,8 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 # Critical AI & Creative–Critical Coding Need Each Other
 
-<p class="quote" markdown=1>
-"I’m stuck here inputting and outputting the data of a story I can't change." 
-</p>
-<p class="quote attrib" markdown=1>
-–Italo Calvino "The Burning of the Abominable House," 1976 [-@calvinoNumbersDarkOther1976]
-</p>
+>"I'm stuck here inputting and outputting the data of a story I can't change." 
+><footer>–Italo Calvino "The Burning of the Abominable House" [-@calvinoNumbersDarkOther1976]</footer>
 
 *Trans\*formative TechnoCraft* argues for the essential entanglement of critical AI approaches and creative-critical coding communities, showing how each is predicated on the other. No intervention in disproportionately harmful algorithmic systems is possible without critically aware approaches to technologies from deeply plural perspectives. No such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. Many other works have confirmed that [critical AI interventions (or creative coding) are necessary]. This work shows what entanglements of intersectional, interdisciplinary, creative–critical approaches to the urgent problems of [emergent technologies] can look like. Its collection of texts apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of the issues, which must be addressed [through multimodal and polyvocal means].
 
@@ -53,12 +49,8 @@ I write from particular perspectives that inform how I understand these urgent c
 
 ## Critical AI Must Be Intersectional
 
-<p class="quote" markdown=1>
-"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
-</p>
-<p class="quote attrib" markdown=1>
-–Frieder Nake, "There Should Be No Computer Art," 1971 [-@nakeThereShouldBe1971]
-</p>
+>"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
+><footer>–Frieder Nake, "There Should Be No Computer Art" [-@nakeThereShouldBe1971]</footer>
 
 Questions about art, creativity, and labor in relation to AI are fundamentally questions trying to define humanity — *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They also emerge from centuries of colonialized framings of 'man' as an idealized, individualized white western subject. Hyped AI discourse explores limited questions about AI because it continues to draw from limited perspectives, letting status quo narratives about humans and automated systems frame the terms of debate. "Machine learning [...] is an expression of that which has already been categorized," says digital culture researcher Ramon Amaro [-@amaroBlackTechnicalObject2022]. Not to think to train on a variety of faces, or not to raise concerns about training on faces at all, happens because there is not a variety of perspectives in the room when these very human decisions are being made — before, during, and after the data is being collected; and before, during, and after the code is being written and run. 
 
@@ -92,7 +84,7 @@ We know code means more, if we let it. Code is collaborative, says Mark C. Marin
 This requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start [@AlwaysalreadyprogrammingMda; @artistBlackGooeyUniverse; @nardiSmallMatterProgramming1993]. It requires un-siloing domains and disciplines, the artificial boundaries that divide technologists from activists and critics from creators. It requires we find common language and common values that come with working knowledge of the whole system. The technical how-to means (coding skills) and the critical/analytical how-to means (analytical, political, aesthetic, ethical contexts) and the material how-to means (data, energy, hardware) have to combine and are inseparable.
 
 >"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression.
->>–bell hooks [-@hooksTeachingTransgressEducation1994]
+>–bell hooks [-@hooksTeachingTransgressEducation1994]
 
 All making, all writing, all coding is a hybrid practice of creation (poetics), critique (politics), and code (platforms and programmatic systems). <!-- All code is writing and all writing is code.  -->
 
@@ -180,7 +172,7 @@ This approach to trans\*formative technological practices has no prerequisites. 
 
 <!-- add Trans discussion here, quote micha et al -->
 
-##### A note about terminology & Trans\* & myself: 
+#### A note about terminology & Trans\* & myself: 
 
 It is essential to note that the concepts of 'trans\*' and 'transgender' have their own varied and contested histories, entangled with colonial histories, class and racialized contexts, politics and personal stakes for many. These complexities[^tsq] are charted by trans\* studies and by many works beyond critical theory. They are dynamic, continually evolving, and I hope to honor this complexity while acknowledging I cannot address it comprehensively here. In her discussion of the complexly situated histories of the term 'transgender', professor of history and gender and sexuality studies Marta V. Vicente translates and summarizes psychology professor Manuel Roberto Escobar's ethnography of subjects who use a wide range of labels and while also thinking of themselves as 'trans\*:
 
@@ -198,23 +190,23 @@ I also use the term 'queer' here a lot and I have mixed in a kind of queer polit
 
 Up to now I have not used the term 'trans\*' to self-identify, even if in some ways it may be correct. By way of talking about the word 'trans\*' relationship to *Trans\*formative TechnoCraft*, I will try to tease out my relationship to the term. I think I've been avoiding my own stakes in 'trans\*'. I was concerned my stakes were false, or would appear false, but it's actually that I didn't have the language for myself. Because there isn't language for wanting to be without language, for not wanting to be seen or described or labeled — to have your attributes held against you in an alley or an email. Or maybe they they already found a label for not wanting a label, and that language is just 'agender' and I still don't like it or the complex ever-turbid gender taxonomy, because I hate this business of taxonomies anyway and its categorizing logic is how we got to machine learning and many worse things in the first place. 
 
-I wasn't using 'trans\*' for myself (though now I've gone and claimed it for my book, wtf) because I worried other people need it more, the term, as if language is a finite natural resource, like rare earth minerals we're extracting to make models of language. I used to worry the same thing about the word 'queer' before I practiced letting myself try it on, just a little (as a treat), and the discomfort grew then transformed into pride. I feel I am an ungrateful thing, whenever I reject the privileges I have when I go passing as a straight cis woman who is none of those things, those privileges tangled up with the erasures it brings, the over and over of nixing a self. It feels worse to correct someone because I don't have a truer label to give. Queer and trans\*formative are the only words that feel true. 
+I wasn't using 'trans\*' for myself (though now I've gone and claimed it for my book, wtf) because I worried other people need it more, needed the term to survive, and I had been surviving without the it — as if language is a finite natural resource, like rare earth minerals we're extracting to make models of language. I used to worry the same thing about the word 'queer' before I practiced letting myself try it on, just a little (as a treat). That discomfort grew, then eventually transformed into some kind of resilience akin to pride. Still, I feel I am an ungrateful thing, whenever I reject the privileges I have when I go passing as a straight cis woman who is none of those things, those privileges tangled up with the erasures it brings, the over and over of nixing a self. It feels worse to correct someone because I don't have a true label to give. Queer and trans\*formative are the only words that feel good enough. 
 
-I wasn't using trans\* for myself, or nonbinary or agender, and I wasn't using gay or lesbian or bi or pan or any other term for myself, because I worried these were all labels for people who knew who they were. For so long I have been completely out of contact with my body and its shapes and desires. I had been just reading the room for cues to how I was supposed to feel, and that small rural version of me was the only reality there was. 
+I wasn't using trans\* for myself, or nonbinary or agender, and I wasn't using gay or lesbian or bi or pan or any other term for myself, because I worried these were all labels for people who knew who they were and had always known, who stood so far outside the identity they were called that they required this word as a reckoning. For so long I have been completely out of contact with my body and its shapes and desires. The middle space with no reckonings was safe. I had been just reading the room for cues to how I was supposed to feel, and that small rural version of me was the only reality there was. 
 
-To identify with new words is to make bold claims. My life would change for claims like these. I'd need to put my skin in the game, to admit my skin is already in the game, to admit I have skin. I've spent so long disavowing the body below my neck as it aches for me to acknowledge it. The body below my neck is the whole world around it, this "I" am but diffuse particulates, not centered, so hard to label, not even atoms swirling, because the atomic model of the universe is a fiction divised by object-oriented bros who want to be islands. Yet I spent so long as a decapitated head 
-of a magician's assistant, on a plate 
-on a table on a stage, trying to 
-keep the show going, trying 
-to please, trying to keep 
-the body I couldn't feel
+To identify with new words is to make bold claims. My life would need to change for claims like these. I'd need to put my skin in the game, to admit my skin is already in the game, to admit I have skin. I've spent so long disavowing the body below my neck as it aches for me to acknowledge it. The body below my neck is the whole world around it, this "I" am but diffuse particulates, not centered, so hard to label, not even atoms swirling, because the atomic model of the universe is a fiction divised by object-oriented bros who want to be islands. Yet I spent so long as a decapitated head <br>
+of a magician's assistant, on a plate <br>
+on a table on a stage, trying to <br>
+keep the show going, trying <br>
+to please, trying to keep <br>
+the body I couldn't feel <br>
 safe. 
 
 Resetting is a recursive process. It is not the trick of pulling out the tablecloth from beneath the finely laid placesettings and the severed head. Previously I was mistaken. I thought of transformation as a transition, movement from one thing to another. But it can also be unrestrictedly being who you have always been, as fully as you are, more than anyone has previously recognized, and experiencing that recognition as fully as possible. This can be aided by finding the language (or losing the language), or finding the tools (or breaking the tools), or finding the commrades (or making the spaces where they might find you). Trans\* breaks open transformation with its asterisk and its radical understandings of form/ative, both discussed further below. This text is inclusive of many understandings of trans\*-ness and transformation, combining them in order to suggest the kind of trans\*formative practices of being and/or making that are prefigurative — bringing a world into being as it always could have been and should be, alighting the revolutionary force of latent potentials that already are. 
 
 This is me (me?), (un)defining self(s) amidst regimes of knowledge-power, (un)learning to maneuver, [XXX/building connections in order to/finding people, finding pockts of, tools, etc???] establish spaces of resistance. 
 
-##### Trans-[etc]: Transducers [XXX-where?]
+#### Trans-[etc]: Transducers [XXX-where?]
 
 [XXX] What is the connection of 'belonging' to transness, or to queerness, and belonging to coding communities or to spaces of creative freedom or civic change? How does trans\* connect to computation at all? 
 
@@ -535,24 +527,9 @@ These forms of refusal replace what they reject with alterative visions for more
 
 >"Embracing the nuances of crafted art forms [...] exemplifies the non-linear, embodied, diffractive ways of reading, interpreting, and understanding the world while questioning what AI tools can do and the extent to which craftspeople have a say in what AI tools should be doing instead. I contend that AI does not produce newness but rather 'newly' suggests how craftspeople have always been creative agents for shaping the future of culturally and visually-informed algorithmic systems." [@reddyReadingAIFamily2023]
 
-# def main(): What's Included
+# What's in This Collection
 
 Each section of Trans\*formative TechnoCraft puts its thinking into action — tackling related aspects in different forms and for different audiences. The parts combine to enact the ethics and tactics described in this introduction. Together these public-facing resources provide plainspoken translations of technical, critical, aesthetic, and ethical concepts relevant to technology. They are written in approachable, non-academic formats like zines, and produced in contexts like workshops, in order to support discussions across communities of practice — including code creators, AI researchers, and marginalized outsiders — toward understanding the urgency of the issues facing automated technologies and the necessity of each other's skill sets in facing these issue. 
-
-### CRAFT: *Coding.Care: Field Notes for Making Friends with Code*
-<!-- {: .no_toc } -->
-
-*Coding.Care* is a pocket guide to sustaining friendly coding communities — why we need them, how to build them, how to let them thrive. It focuses on lessons I learned from Code Collective, the diverse hack lab that I started in 2019 when I yearned for the adaptable, encouraging environment I had needed when I was first struggling to learn to program. In gratitude to teachers like Brett Stalbaum, at UC San Diego's Computing in the Arts program, who had showed me code could feel creative instead of prescriptive, I wanted to make a space where I wouldn't feel like an outsider for 'not knowing everything' about programming, and I suspected others might feel the same.I wondered how to recreate that experience. 
-
-In Code Collective, a mix of media artists, activists, makers, scientists, scholars, and engineers gather to co-work and co-learn, thinking critically with code in an inclusive, interdisciplinary space that supports many kinds of learners. The Collective unites students who may have zero technical experience with those who may have lots of technical experience but perhaps lack a critical or creative lens; and we value their experiences equally, reinforcing the idea: **"We all have something to teach each other."** 
-
-This guide looks at a variety of the strategies and tools we have explored and developed as we have grown. It discusses how we have adapted to meet the needs of our community — from hosted workshops to hybrid-format meetups, from pandemic support to alumni programming. Code Collective's approaches draw on many existing methodologies and methods from intersectional queer, feminist, anti-ableist, and anti-racist theories. The guide connects these approaches to cooperative organizations Varia and p5.js, and to Critical Code Studies and to TechnoCraft practices like working iteratively and breaking critically. 
-
-As a guide for making friends with code, *Coding.Care* discusses how practices such as process-oriented skillbuilding, co-teaching and co-learning, and snacks (always snacks) embody the Collective's guiding values, such as **"scrappy artistic strategies not perfect code."** The guide shares projects and feedback from members of the Collective, who report how these values and practices have shaped them as emerging makers and thinkers. Personally, I have found this community to be the strongest influence on my own research, above and beyond my role as facilitator. Code Collective has become a joyful space for creative risk-taking that nourishes my practice. The guide offers practical advice for getting comfortable with code, while situating these approaches and groups within an **ethics of coding care** — grounded in shared embodied knowledge, embedded co-creation, and programming with and for community — as an antidote to technocratic values and as an enactment of Trans\*formative Technocraft. 
-
-In her book, *Coding Literacy*, Annette Vee argues that, "Changing 'how the system works' would move beyond material access to education and into a critical examination of the values and ideologies embedded in that education. [...] Programming is a literacy practice with many applications beyond a profession defined by a limited set of values" [@veeCodingLiteracyHow2017]. Vee calls this kind of programming access "transformative." Through *Coding.Care*'s intimidation-free, learner-led, process-oriented approaches, it both theorizes and models the creation of caring communities and innovative spaces that can transfer knowledge across social strata and intellectual disciplines in order to reshape technological systems. 
-
-OBJECTIVES: Through *Coding.Care*, understand how to approach programming with less fear and more fun, with less constraint and more community support. Think creatively and critically about the kinds of technologies you want to make and support. Learn to choose and use tools, languages, and platforms that match your goals and ethics. Create or join communities of practice that feel supportive and generative.
 
 ### FORMATIVE: *A Critical Field Guide for Working with Machine Learning Datasets* and *Inclusive Datasets Research Guide*
 <!-- {: .no_toc } -->
@@ -569,14 +546,14 @@ Both the Critical Field Guide and the Inclusive Datasets Research Guide reflect 
 
 OBJECTIVES: Through the *Critical Field Guide for Working with Machine Learning Datasets* and the *Inclusive Datasets Research Guide*, understand the importance of working critically with datasets as part of any machine learning practice. Identify the parts, types, and functions of datasets as you encounter them. Determine whether a particular dataset is a good fit for your project by asking understanding critical questions to ask at each phase of the dataset lifecycle. [Work with the communities impacted by your research to create strategies for addressing potential harms in the datasets you utilize.] 
 
-### \*: *Interstitial Portals*, NO: *Tactical Refusals*, \*: *Reverse Portals*
+### \*: *Interstitial Portals*, NO: *Tactical Refusals*, and \*: *Reverse Portals*
 <!-- {: .no_toc } -->
 
-* (Un)Limiting: ?? // Rebecca Horn
-* (Un)Raveling: No Knots // (Sonya Rapoport?)
-* [(Un/Re)Forming: ?? // VALIE EXPORT / Glitch Feminism / Broken Machines]
-* (Un)Knowing: Ladymouth // Pipilotti Rist / Ashby's black box
-* (Un)Living: InnerVoiceOver // On Kawara 
+* [(Un)Limiting](unlimiting.html): Rebecca Horn, constraint and COVID art
+* [(Un)Raveling](unraveling.html): Sonya Rapoport, fiber art and computation
+* [(Un)Forming](unforming.html): VALIE EXPORT, glitch feminism and broken machines
+* [(Un)Living](unliving.html): On Kawara, dailiness, death, and data
+* [(Un)Knowing](unknowing.html): Pipilotti Rist, black boxes and trauma
 
 Michel de Montaigne called the essay form a 'trial' or 'attempt'. These interstitial essays are attempts to speak in the nearbyness of *Trans\*formative TechnoCraft*. They are trials, in the sense of struggles, to get closer to the core of the creature by sneaking between its ribs. An oblique strategy, they glance against logical modes of critical analysis or direct address, in order to become the [thing] and probe the [thing] and interrupt the [thing] [simultaneously]. 
 
@@ -600,7 +577,6 @@ The essay form is a kind of embodied processing that moves the [corpus through t
 
 <!-- >Willis locates in the postcinematic "the imbrication of selves and systems, of agency alongside generative processes" "Our understanding of space [and time] shifts as it is coded computationally" "our viewing is becoming a process of navigating and our stories are the ones that we tell of our own experiences of traversal and exploration." "toward time as presence, performance and exchange. This is an era of acceleration, but also of duration, of elastic time flows and of layering;" "Practice becomes participatory and collaborative, manoeuvring through new conceptions of the spatial and temporal. [@willisFastForwardFuture2016] -->
 
-
 ### TECH: *The Intersectional AI Toolkit*
 <!-- {: .no_toc } -->
 
@@ -614,9 +590,24 @@ OBJECTIVES: Through the Intersectional AI Toolkit, the need for plural perspecti
 
 <!--  Mattern: [@matternUnboxingToolkit2021] [Anthropologist Shannon Mattern details the many complex [lives] of 'kits', which can act as stop gaps for necessary infrastructure (bug out bags, refugee kits) or as "tools of engagement, as methods of inclusion, for broader communities" (rape kits)] --> 
 
-### TRANS: Conclusion & After
+### CRAFT: *Coding.Care: Field Notes for Making Friends with Code*
+<!-- {: .no_toc } -->
 
-### Splines, Similarity, and Nearness Vectors
+*Coding.Care* is a pocket guide to sustaining friendly coding communities — why we need them, how to build them, how to let them thrive. It focuses on lessons I learned from Code Collective, the diverse hack lab that I started in 2019 when I yearned for the adaptable, encouraging environment I had needed when I was first struggling to learn to program. In gratitude to teachers like Brett Stalbaum, at UC San Diego's Computing in the Arts program, who had showed me code could feel creative instead of prescriptive, I wanted to make a space where I wouldn't feel like an outsider for 'not knowing everything' about programming, and I suspected others might feel the same.I wondered how to recreate that experience. 
+
+In Code Collective, a mix of media artists, activists, makers, scientists, scholars, and engineers gather to co-work and co-learn, thinking critically with code in an inclusive, interdisciplinary space that supports many kinds of learners. The Collective unites students who may have zero technical experience with those who may have lots of technical experience but perhaps lack a critical or creative lens; and we value their experiences equally, reinforcing the idea: **"We all have something to teach each other."** 
+
+This guide looks at a variety of the strategies and tools we have explored and developed as we have grown. It discusses how we have adapted to meet the needs of our community — from hosted workshops to hybrid-format meetups, from pandemic support to alumni programming. Code Collective's approaches draw on many existing methodologies and methods from intersectional queer, feminist, anti-ableist, and anti-racist theories. The guide connects these approaches to cooperative organizations Varia and p5.js, and to Critical Code Studies and to TechnoCraft practices like working iteratively and breaking critically. 
+
+As a guide for making friends with code, *Coding.Care* discusses how practices such as process-oriented skillbuilding, co-teaching and co-learning, and snacks (always snacks) embody the Collective's guiding values, such as **"scrappy artistic strategies not perfect code."** The guide shares projects and feedback from members of the Collective, who report how these values and practices have shaped them as emerging makers and thinkers. Personally, I have found this community to be the strongest influence on my own research, above and beyond my role as facilitator. Code Collective has become a joyful space for creative risk-taking that nourishes my practice. The guide offers practical advice for getting comfortable with code, while situating these approaches and groups within an **ethics of coding care** — grounded in shared embodied knowledge, embedded co-creation, and programming with and for community — as an antidote to technocratic values and as an enactment of Trans\*formative Technocraft. 
+
+In her book, *Coding Literacy*, Annette Vee argues that, "Changing 'how the system works' would move beyond material access to education and into a critical examination of the values and ideologies embedded in that education. [...] Programming is a literacy practice with many applications beyond a profession defined by a limited set of values" [@veeCodingLiteracyHow2017]. Vee calls this kind of programming access "transformative." Through *Coding.Care*'s intimidation-free, learner-led, process-oriented approaches, it both theorizes and models the creation of caring communities and innovative spaces that can transfer knowledge across social strata and intellectual disciplines in order to reshape technological systems. 
+
+OBJECTIVES: Through *Coding.Care*, understand how to approach programming with less fear and more fun, with less constraint and more community support. Think creatively and critically about the kinds of technologies you want to make and support. Learn to choose and use tools, languages, and platforms that match your goals and ethics. Create or join communities of practice that feel supportive and generative.
+
+# What Now / What's After
+
+## Splines, Similarity, and Nearness Vectors
 
 The \* emphasizes an unspoken interstitial — interjection, interruption, insertion, interpolation — this work happening in between and nearby, underneath and overhead and throughout. In digital contexts this may be called [`lerp`](https://p5js.org/reference/#/p5/lerp) (short for 'linear interpolation' and much more fun to say) or [`tween`](https://helpx.adobe.com/photoshop/using/creating-frame-animations.html) or [`spline`](https://www.youtube.com/watch?v=jvPPXbo87ds&ab)[^splines] or smoothing. These methods of interpolation are methods of creating or locating nearness and of smoothing the rough journey between. To `interpolate` in math is to create new knowledge (datapoints) based on existing knowledge (datapoints), or to estimate value at a position based on values from nearby positions. 
 
@@ -638,7 +629,7 @@ How many kinds of measurements of distance are there? How many dimensions and wa
 
 [We have created so many algorithms for pathfinding. We use these constantly to optimize our ways across spaces and even to optimize our relations to each other. We've created everything about space and time, and how to make more and less of it.] What if — instead of using proximity as a shortcut to sameness — we looked to "radical otherness as the driver of adaptability" [@bridleWaysBeingHuman2022]. What if we found other models and values to guide what questions we ask and what [things] we compare, what [relations] we highlight and [what futures we shape]? 
 
-### Nearbyness
+## Nearbyness
 
 >"not to speak about but rather to speak nearby" [@chenSpeakingNearbyConversation1992]
 
@@ -668,7 +659,7 @@ These operations of nearbyness [bring us to form and formative]. The assembling 
 
 This ability to work with machine learning, or any technology, as a concrete material — as an artist or craftsperson would — is a way of moving into curiosity, poetics, aesthetics: nearbyness. 
 
-### Computing New Computations
+## Computing New Computations
 
 From the works in this collection, I have begun to get an inkling of a 'compu-poetics' of Nearbyness. What would nearbyness ask of TechnoCraft in order to transform technologies — for example, to move from foundation models that have been built on narrow slices of data and classificatory logics, to transformative models that might unravel them? What does Nearbyness and Trans\*formative TechnoCraft ask of me? 
 
@@ -679,7 +670,7 @@ Through lenses of Trans\*formative TechnoCraft we have discussed, I hope this so
 >"Part of the construction of dominator privilege is you don't have to think about what are those other people thinking, feeling, hoping, dreaming. I think part of transformation is when you open yourself to wanting to know what those people who are not like you are doing, thinking, being." [@hooksbellWhyFamedFeminist2018] 
 
 
-### What's After?
+## What's After?
 
 New projects are growing from the seeds of these works. [XXX][this list won't stay in the diss but i'd like to talk about them in relation to the diss]
 
@@ -709,7 +700,7 @@ The new task in machine learning called 'machine unlearning' has emerged due to 
 <!-- My workshops at Ars, Moz, USC -->
 
 
-### Bibliography
+## References
 
 <!-- [//]: # "TK: All Writing Is Code *tetherednetwork*"
 [//]: # "TK: NewReal Critical AI Essay" -->

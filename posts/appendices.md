@@ -48,7 +48,7 @@ Thank you to the individuals and organizations who developed these principles an
 
 <hr/>
 
-## beloved books for coding & caring
+<!-- ## beloved books for coding & caring
 
 * brown, adrienne marie. 2021. *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
 * Cox, Geoff and Soon, Winnie 2020. *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. https://aesthetic-programming.net
@@ -57,7 +57,7 @@ Thank you to the individuals and organizations who developed these principles an
 * Marino, Mark C. 2020. *Critical code studies.* MIT Press.
 * Shaw, Martin. *Courting the Wild Twin*
 * Shih, Xin Xin, & Moriwaki, Katherine (Eds.). 2022. *Critical Coding Cookbook.* https://criticalcode.recipes/about 
-* Wilson, Shawn. 2008. *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing. 
+* Wilson, Shawn. 2008. *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing.  -->
 
 <!-- * Zilboorg, A. (2015). *Knitting for anarchists: The what, why and how of knitting.* Dover Publications, Inc. -->
 
