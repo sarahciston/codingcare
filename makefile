@@ -2,7 +2,9 @@ source := posts
 outputhtml := docs
 outputpdf := assets/pdf
 SOURCES := posts/$(wildcard *.md)
-TEMPLATE = draft.tex 
+PDF_TEMPLATE = draft.tex # zine.tex
+HTML_TEMPLATE = tufte.html5 # tufte-mod.html
+
 
 # INPUT = posts/guide.md
 # OUTPUT = "/Users/sarahciston/Desktop/codezine"
@@ -20,7 +22,7 @@ PDF_FLAGS = \
 		--toc \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
-		--template=latex/$(TEMPLATE) \
+		--template=latex/$(PDF_TEMPLATE) \
 		# --toc-depth=3 
 
 # $(SOURCES) \ -o $(OUTPUT) 
@@ -31,7 +33,7 @@ HTML_FLAGS = \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc --toc --toc-depth=3 \
 		--to html5+smart \
-		--template=_layouts/tufte.html5 \
+		--template=_layouts/$(HTML_TEMPLATE) \
 		$(foreach style,$(STYLES),--css $(notdir $(style))) 
 
 # HTML_MOD_FLAGS = \

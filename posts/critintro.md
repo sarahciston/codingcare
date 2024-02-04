@@ -700,7 +700,7 @@ The new task in machine learning called 'machine unlearning' has emerged due to 
 <!-- My workshops at Ars, Moz, USC -->
 
 
-## References
+# References
 
 <!-- [//]: # "TK: All Writing Is Code *tetherednetwork*"
 [//]: # "TK: NewReal Critical AI Essay" -->
