@@ -22,7 +22,7 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 
 ![[1. "Two hands scratching both walls"](https://youtu.be/O0uNnmAudmk)](../assets/img/horn-hands.jpg)
 
-<p class="caption">Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min)</p>
+#### Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min)
 
 
 <!-- [(Vimeo)](https://vimeo.com/562736859) (link broke) -->
