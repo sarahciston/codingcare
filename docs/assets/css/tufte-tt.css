@@ -205,7 +205,7 @@ blockquote p {
 }
 
 blockquote footer {
-    width: 55%;
+    /* width: 55%; */
     font-size: 0.8rem;
     text-align: right;
 }
@@ -391,6 +391,7 @@ div.table-wrapper {
 code, pre > code {
     /* font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; */
     font-family: 'Noto Sans Mono', monospace;
+    color: darkslateblue;
     font-size: 1.0rem;
     line-height: 1.42;
     -webkit-text-size-adjust: 100%; /* Prevent adjustments of font size after orientation changes in iOS. See https://github.com/edwardtufte/tufte-css/issues/81#issuecomment-261953409 */

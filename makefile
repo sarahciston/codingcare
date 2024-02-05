@@ -2,7 +2,7 @@ source := posts
 outputhtml := docs
 outputpdf := assets/pdf
 SOURCES := posts/$(wildcard *.md)
-PDF_TEMPLATE = draft.tex # zine.tex
+PDF_TEMPLATE = zine.tex # zine.tex draft.tex
 HTML_TEMPLATE = tufte.html5 # tufte-mod.html
 
 
@@ -31,7 +31,7 @@ HTML_FLAGS = \
 		--section-divs \
 		-s -f markdown+tex_math_single_backslash \
 		--bibliography=posts/includes/bibliography.json \
-		--citeproc --toc --toc-depth=3 \
+		--citeproc --toc --toc-depth=1 \
 		--to html5+smart \
 		--template=_layouts/$(HTML_TEMPLATE) \
 		$(foreach style,$(STYLES),--css $(notdir $(style))) 
