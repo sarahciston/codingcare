@@ -1290,9 +1290,7 @@ Pssst... Want more? Check out the miscellaney in Appendices, addenda, etc, where
 <!-- * [Code as Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/) [@levinCodeCreativeMedium] -->
 <!-- * [Critical Makers Reader](https://networkcultures.org/blog/publication/the-critical-makers-reader-unlearning-technology/) [@bogersCriticalMakersReader2019]: -->
 
-### Appendices 
-
-[Appendices](appendices)
+### [Appendices](appendices)
 
 * [First sign-up form](appendices#first-sign---up-form)
 * [Departmental proposal](appendices#departmental-proposal)

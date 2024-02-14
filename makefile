@@ -32,7 +32,7 @@ HTML_FLAGS = \
 		-s -f markdown+tex_math_single_backslash \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc \
-		--toc --toc-depth=3 \
+		--toc --toc-depth=1 \
 		--to html5+smart \
 		--filter pandoc-sidenote \
 		--template=_layouts/$(HTML_TEMPLATE) \
