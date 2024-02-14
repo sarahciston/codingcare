@@ -1232,7 +1232,38 @@ This pocket guide has argued for technology communities that support pluralism, 
 
 ## LIVE CODE: Write your values, imagine your community
 
-[XXX] "code of conduct exercise as community imagining"
+First and foremost, codes of conduct are exercises in collective imagination.
+
+A code of conduct does not have to feel restrictive. If you're thinking about it that way, of course it's going to feel like a bummer. Instead, remember that all communities have community guidelines, whether spoken or unspoken. They help us understand what is expected of us as we enter, join, and participate. They set the tone for what we imagine this community to be, what we want it to become, and who can feel welcome. Articulating your values should ideally happen as a group exercise. It can be one of the most important, rewarding, challenging, and generative experiences you may do together. 
+
+Think about other communities you are part of or have witnessed, from all parts of your life. What do they do that makes you feel good, safe, cared for, able to speak and share, able to participate? How do they do these things, practically? 
+
+Here is a broadly conceived 'Community Guidelines' that I use as a template when I am working with Code Collective and when I am teaching in new spaces. I offer it as a baseline when I am leading in new spaces, with the suggestion that we can build on this as we go, and I offer it here with the same intention for you. You'll see it cites and weaves together many other codes of conduct and guidelines, from different kinds of groups. 
+
+#### Community values
+
+These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve. Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,[^amb] Allied Media Conference,[^AMC] Berlin Code of Conduct,[^BerlinCoC] Center for Council,[^Council] P5.js,[^p5] Superrr,[^superrr] W3C,[^W3C] and Creative Code Collective.[^ccc]
+
+* growth not perfection[^ccc]
+* collaboration not competition[^ccc]
+* listen from the heart, speak from the heart, be spontaneous, be brief[^Council]
+* assume best intent and attend to impact[^amb]
+* attempt collaboration before conflict[^superrr]
+* we accept responsibility for our actions and take care to make amends when we are wrong[^p5] 
+* we take the lessons, leave the details (confidentiality)[^amb]
+* we center care[^AMC]—self care and community care[^amb] 
+* all theory, all practice are theory–practice.[^ccc] interdisciplinarity goes hand-in-hand with intersectionality[^ccc]
+* focus on strategies rather than issues, solutions rather than problems[^AMC]
+* we don't dispute anyone's fundamental human rights. we engage tension, but don't indulge drama[^amb] #blacklivesmatter #translivesmatter #indigenouslivesmatter 
+
+[^amb]: brown, a.m. (2017). Emergent Strategies. AK Press.; --- (2021). Holding Change. AK Press. Visit [adrienne maree brown](http://adriennemareebrown.net/)
+[^AMC]: [Allied Media Conference](https://amc.alliedmedia.org/about/purpose-and-values)
+[^BerlinCoC]: [Berlin Code of Conduct](https://berlincodeofconduct.org/)
+[^Council]: [Center for Council](https://www.centerforcouncil.org/)
+[^ccc]: [Creative Code Collective](https://creativecodecollective.com)
+[^p5]: [p5js](https://p5js.org/community/)
+[^W3C]:
+[^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
 
 </div>
 
@@ -1259,7 +1290,20 @@ Pssst... Want more? Check out the miscellaney in Appendices, addenda, etc, where
 <!-- * [Code as Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/) [@levinCodeCreativeMedium] -->
 <!-- * [Critical Makers Reader](https://networkcultures.org/blog/publication/the-critical-makers-reader-unlearning-technology/) [@bogersCriticalMakersReader2019]: -->
 
+### Appendices 
+
+[Appendices](appendices)
+
+* [First sign-up form](appendices#first-sign---up-form)
+* [Departmental proposal](appendices#departmental-proposal)
+* [Summer Lab Intensive syllabus](appendices#code-collective-summer-lab-syllabus)
+* [Javascript first look](appendices#first-look-at-javascript)
+
+<!-- [XXX][list the items or fold into exercise sections?] -->
+
 [Back to Table of Contents](#top)
+
+[Trans*formative TechnoCraft Home](https://coding.care)
 
 # References
 

@@ -16,20 +16,16 @@ date: 22.01.2023
 
 <hr/>
 
-## Community values
+<!-- ## Community values
 
 * all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality[^ccc]
 *  #blacklivesmatter #translivesmatter #indigenouslivesmatter we engage tension; don't indulge drama[^amb] 
 * focus on strategies rather than issues, solutions rather than problems[^AMC]
 * listen from the heart, speak from the heart, be spontaneous, be brief[^Council]
 * assume best intent and attend to impact[^amb]
-
 * attempt collaboration before conflict[^superrr]
-
 * we accept responsibility for our actions and take care to make amends when we are wrong[^p5] 
-
 * we take the lessons, leave the details (confidentiality)[^amb]
-
 * we center care[^AMC]—self care and community care[^amb] 
 
 
@@ -46,7 +42,7 @@ Thank you to the individuals and organizations who developed these principles an
 [^W3C]:
 [^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
 
-<hr/>
+<hr/> -->
 
 <!-- ## beloved books for coding & caring
 
@@ -65,7 +61,7 @@ Find many more in the [Code Collective Resource Hub](https://creativecodecollect
 
 <hr/>
 
-## CODE COLLECTIVE SUMMER LAB 
+## CODE COLLECTIVE SUMMER LAB SYLLABUS
 
 Syllabus & Course Schedule TBD
 
@@ -105,7 +101,7 @@ Syllabus & Course Schedule TBD
 
 <hr/>
 
-## First sign up form
+## First sign-up form
 
 *In January 2019 I sent out this Google form to USC students, staff, and faculty who I thought might be interested in a new code-friendly community. This was our first document, where you can see the shape it was beginning to take and its raw edges, as I was wayfinding for what I was interested in offering and what others might need.* 
 
