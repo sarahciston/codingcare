@@ -195,7 +195,7 @@ div.epigraph > blockquote > footer > cite {
 /* end chapter epigraphs styles */
 
 blockquote {
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: darkslateblue;
 }
 
@@ -206,7 +206,7 @@ blockquote p {
 
 blockquote footer {
     /* width: 55%; */
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     text-align: right;
 }
 
@@ -246,10 +246,12 @@ figcaption {
     clear: right;
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     line-height: 1.7rem;
     vertical-align: baseline;
     position: relative;
+    margin-bottom: 1rem;
+    color: darkslateblue;
     /* max-width: 40%; */
 }
 
@@ -334,10 +336,11 @@ nav {
     width: 50%;
     margin-top: 0.3rem;
     margin-bottom: 0;
-    font-size: 0.5rem;
+    font-size: 0.9rem;
     line-height: 1.1rem;
     vertical-align: baseline;
     position: relative;
+    color: darkslateblue;
 }
 
 .sidenote-number {
@@ -361,7 +364,7 @@ nav {
 
 .sidenote:before {
     content: counter(sidenote-counter) " ";
-    font-size: 1rem;
+    /* font-size: 1rem; */
     top: -0.5rem;
     font-size: 0.8rem;
 }

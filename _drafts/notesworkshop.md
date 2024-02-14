@@ -42,7 +42,7 @@ V: what are the questions for you. us: who is writing htis, what is this process
 E: complete diff chapter feminist portals. my politics is asking this to be included. the way i feel the project finished. even if they aren't completely aligned. they were made in tandem not same questions but wanted them to be part of discussion. if it's adding to the things you want to think about. 
 
 V: what is it you really care about gives it that shape. they'll say what do you mean by X, that isn't the project. it's what YOU CARE ABOUT. i'm not sure why i care but i know i do so it's in here until i figure it out. 
-V: Something about q of process, a non oppressive process look like in art based tech. What would it mean to create in this enviornent today in a world that is more inclusive and what's the implications what happens when i do that. POV Qs circling back, 
+V: Something about q of process, a non oppressive process look like in art based tech. What would it mean to create in this environment today in a world that is more inclusive and what's the implications what happens when i do that. POV Qs circling back, 
 V: if writing from diff strategy be explicit if through formal doesn't fit, use a strategy that untangles it or reveals it for us, doesn't have to be explicit, can reveal it. Can go about Who's writing in 10 diff ways
 
 E: The interesting thing and part of the challenge is that questions of how you do things are part of the politics of it. You have some questions in your abstract: *What are the codes we don’t have but need? The codes we run unthinkingly, written into us, that we could rewrite with more care and attention? What is programming in ways that reimagine how we have already been programmed? To think of programming very narrowly, as meant for only certain kinds of people, meant to do only certain kinds of things?*
@@ -56,6 +56,10 @@ E: Multiple levels of questions. Acknowledge. Big abstract what is care. how do 
 V: We are our dissertations. Everything you do from now on. Five Qs dont feel like they have to match part to part. Be in conversation. What is it you're finding in those folks interesting and important to you. The things are also circulating in your project and in your guidebook and manifesto. Translations. 
 
 Em: Depersonalize a little for the job market. It's also the work which speaks for itself. Examples of DIY practices older references. Calle, Horn, Hershmann 
+
+publishers:
+https://co-conspirator.press/
+https://www.xartistsbooks.com/
 
 ~~~~~~~~
 

@@ -1,17 +1,19 @@
 ---
 # layout: post
-title: codes for (un)knowing
+title: Codes for (Un)Knowing
 subtitle: Trans*formative TechnoCraft
 permalink: unknowing
 nav_order: 11
-date: 02.02.2024
+# date: 02.02.2024
 ---
 
 <!-- platforms, essaying, code obscura. saving protecting hiding helping hearing healing -->
 <!-- pye craft of risk of certainty -->
 
-# Codes for (Un)Knowing
-<!-- #### Codes for Essaying, Codes for Risking, Codes for Losing -->
+[Home](https://coding.care)
+
+#  
+<!-- Codes for (Un)Knowing #### Codes for Essaying, Codes for Risking, Codes for Losing -->
 
 >"Act so that there is no use in a centre." 
 ><footer>–Gertrude Stein</footer>
@@ -22,15 +24,20 @@ Inside, the black box bursts with color. It’s a whole tiny world in there, a h
 
 I am writing again about trapped white women and problems of scale. 
 
+<!-- machine hallucination, black boxes and race, the color of this whiteness, the exclusion/erasure of this blackness -->
+<!-- >"Blackness as counterpuntal and primordial to the whiteness of the screen" [@artistBlackGooeyUniverse] -->
+
 Pipi has arranged all the white things on the wall. All the white things are sorted and inert, aesthetically unnerving but pleasingly so. It is living as an algorithm to find and sort and display this way. I do it too. 
 
 It seems merely rote to sort what will be important and what will not be. But this is power. Here, on Pipi's wall of white things, the criteria may seem obvious: white, or white-enough. 
 
 But the not-quite-whiteness of what's not here holds up this wall with its exclusion. 
 
+>"Blackness has, so to say, formed the ground for white" [@artistBlackGooeyUniverse]
+
 ![Pipilotti Rist, MOCA 2021](../assets/img/pipi-white.jpg)
 
-This is about what is inside the black box, or about what shores up its walls. "Black box" is a thought-experiment and a shorthand for the unknown. No. It is presumed unknowable or [doesn't need knowing]. 
+This is about what is inside the black box, or moreso about what shores up its walls. "Black box" is a thought experiment and a shorthand for the unknown. No. Black box is presumed unknowable. It is enclosed as if it doesn't need knowing.
 
 <!-- [Not everything should be explained, and explaining isn't excusing/enough. But we could try harder to know each other.] [xxx][add Nora on black box and limits of explainability?] -->
 
@@ -38,17 +45,17 @@ Pipi, your rooms are joyful violations, written in slow motion, calling for tiny
 
 <!-- [XXXEmbed] -->
 
-You say color is a feminist statement. Perhaps that explains the obsession with black boxes. People just love the idea there is 'no way to know' what's inside. Like a uterus. Like a black hole. But a black box is not a black hole. A black box should not be where you put something you want to go away. A thing whose insides you want to ignore. 
+You say color is a feminist statement. Perhaps that explains others' obsession with black boxes. People just love the idea that there is 'no way to know' what's inside. Like a black hole. Like a uterus. But a black box is not a black hole. A black box should not be where you put something you want to go away, something whose insides you want to ignore. 
 
-These viscera make systems. They are hungry for data. That virtual assistant's voice is the disembodied ghost of a sawed-in-half magician's assistant. She never made it out of that black box. She still wants to razzle-dazzle you. She still wants to distract you, so you'll call it magic. 
+Their viscera make systems. They are hungry for data. That virtual assistant's voice is the disembodied ghost of a sawed-in-half magician's assistant who never made it out of that black box. She still wants to razzle-dazzle you, still wants to distract you. 
 
-Pipi, we are transfixed. We watch your videos lying down, touching just at the tops of our heads and at our hands, our legs splayed out in the museum ocean-floor dark. Pipi, your wicked game is riddled with ocean plastic and makes me giggle inappropriately. Everything processed through a black box will eventually sink to the bottom as indigestible trash. At least with black holes nothing comes back out. *No IIIIIIIIIIIIIIIIIIIIIIII don’t wanna fall in love,* Pipi shrieks, and I try to maintain the feeling that I do.  
+Call it magic if you like. 
 
-<!-- It seemed so fizzy with potential. I was uneasy but I didn't listen.  -->
+Pipi, we are transfixed. We watch your videos lying down, touching just at the tops of our heads and at our hands, our legs splayed out in the museum's ocean-floor dark. Pipi, your wicked game is riddled with ocean plastic and makes me giggle inappropriately. Everything processed through a black box will eventually sink to the bottom as indigestible trash. At least with black holes nothing comes back out. *No IIIIIIIIIIIIIIIIIIIIIIII don’t wanna fall in love,* Pipi shrieks, and I try to maintain the feeling that I do. 
 
-I misclassify my unease as fizz. Misclassification gets me every time. I find room for multiple meanings, a room for each meaning, like your staged rooms made too lovely to be lived in. We move in. The two of us sit on Pipi's sofa and watch her boulder as if it is our TV. We move in like the pandemic will only last six weeks. 
+I was uneasy even then, but I didn't listen. I misclassify my unease as fizz. Misclassification gets me every time. I make room for multiple meanings, a room for each meaning, like your staged rooms made too lovely to be lived in. We move in. The two of us sit on Pipi's sofa and watch her boulder as if it is our TV. We move in like the pandemic will only last six weeks. 
 
-At some point I get stuck while writing this and put everything I have so far through the black box. Later I delete almost all of it. This is the only part I keep:
+At some point I get stuck, and I put everything I have so far into the black box. This is what it outputs:
 
 >I want to be in a box, a flower, a body. I want to be a tiny white cube. 
 
@@ -84,8 +91,6 @@ At some point I get stuck while writing this and put everything I have so far th
 
 >I'm a body.
 
-I am writing again about bodies in boxes. 
-
 <!-- What does this black box have to do with the white [room/cube] we are in? Its white refrigerator glow hat hums at a frequency I can feel in the bones of my skull. -->
 
 <!-- Continually feeding the black box feels like standing in the white glow of the refrigerator cube past midnight even though I'm stuffed.  -->
@@ -95,33 +100,31 @@ I am writing again about bodies in boxes.
 
 <!-- [What is it about Pipi's work that makes me think of black boxes, different kinds of intelligences?] -->
 
-The first black boxes held memory, trauma, relation: 
+I am writing again about bodies in boxes. The first black boxes held memory, trauma, relation: 
 
 >"suppose I am in a friend's house and, as a car goes past outside, his dog rushes to a corner of the room and cringes. To me the behaviour is causeless and inexplicable. Then my friend says, 'He was run over by a car six months ago.' The behaviour is now accounted for by reference to an event of six months ago. If we say that the dog shows 'memory' we refer to much the same fact—that his behaviour can be explained, not by reference to his state now but to what his state was six months ago. If one is not careful one says that the dog 'has' memory, and then thinks of the dog as having something, as he might have a patch of black hair."
 
-The 'black box' first appears in W. Ross Ashby's book *An Introduction to Cybernetics* in 1956. For Ashby, black boxes are like memory, an observed explanation, relational: <!--Memory is not objective, but observed and relational, and -->"to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely" [@ashbyIntroductionCybernetics1956]. <!--[For cybernetics, then, a system's memory explains current behavior that does not fit its homeostatic norms, except in relation to past trauma.][Jumping forward to today's large models, does that make the model a memory [bank/storage], and the memory is the [recaller/where you put past trauma.]-->
+The 'black box' first appears in W. Ross Ashby's book *An Introduction to Cybernetics* in 1956. For Ashby, black boxes are like memory, an observed explanation, relational: <!--Memory is not objective, but observed and relational, and -->"to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely" [@ashbyIntroductionCybernetics1956]. <!--[For cybernetics, then, a system's memory explains current behavior that does not fit its homeostatic norms, except in relation to past trauma.][Jumping forward to today's large models, does that make the model a memory [bank/storage], and the memory is the [recaller/where you put past trauma.]--><!-- Why, in my mind, does Ashby's scene with the dog occur in my grandparents' house, where I never spent time? [Is it because they were both engineers?] -->
 
-<!-- Why, in my mind, does Ashby's scene with the dog occur in my grandparents' house, where I never spent time? [Is it because they were both engineers?] -->
+In Ashby's other colorful examples of black boxes, an engineer examines a broken bomb sight, a small child learns to open a door, and an object "has just fallen from a Flying Saucer" [@ashbyIntroductionCybernetics1956]. Bombs, children, animals, and aliens become the proving grounds where current concepts of 'artificial intelligence' emerge. So much violence is built in to the black box from the start. Ashby says, "we have in fact been operating with Black Boxes all our lives," and, "real objects are in fact all Black Boxes" [@ashbyIntroductionCybernetics1956]. All I hear is trauma, trauma, trauma. Borders, borders, walls, walls.
 
-In Ashby's other colorful examples of black boxes, an engineer examines a broken bomb sight, a small child learns to open a door, and an object "has just fallen from a Flying Saucer" [@ashbyIntroductionCybernetics1956]. Bombs, children, animals, and aliens become the proving grounds where current concepts of "artificial intelligence" emerge. So much violence is built in to the black box from the start. Ashby says, "we have in fact been operating with Black Boxes all our lives," and, "real objects are in fact all Black Boxes" [@ashbyIntroductionCybernetics1956], and all I hear is trauma, trauma, trauma.
-
-Are today's large models but compounded memory of past traumas? 
+Are today's large models compounding 'memories' of past traumas? [Do they hallucinate new ones? The terms hallucinate, memory, trauma imply more agency than I'm ready to ascribe to these machines.]
 
 How does a model hold memory? I used to hold memory just like a black box: act on it, try not to know what's inside. 
 
-The first theft was ownership, and the first object of ownership was the body. "Ownership was a feedback loop. The more you own the more you own yourself" [@harneyAllIncomplete2021]. Fred Moten and Stefano Harney remind us that the enlightenment produced "a science of loss, which is to say the science of whiteness, or, logistics" [@harneyAllIncomplete2021]. Pipi, I think you know this science. Your wall of white objects assures: Everything is clean, pinned, silent, plucked from its context. 
+The first theft was ownership, and the first object of ownership was the body, say Fred Moten and Stefano Harney. "Ownership was a feedback loop. The more you own the more you own yourself." They say the enlightenment produced "a science of loss, which is to say the science of whiteness, or, logistics" [@harneyAllIncomplete2021]. Pipi, do you know this science? [Were you raised on it like I was?] Your wall of white objects assures that everything is clean, pinned, silent, plucked from its context. <!--[I was also raised on this science.]-->
 
 <!-- [arriving without/removed from its] context [without its routes]. -->
 <!-- Don't know it, don't use it; don't change, don't hurt.  -->
 <!-- Put it all in the black box. [Fred Moten and Stefano Harney on the legacies of [slavery-capital]:]  -->
 
-My father keeps everything so that he never loses anything. He never uses anything so that it never breaks. He says, "Don't own anything, then you won't have to move it." He means, "Don't love anything more than it loves you." His exact words are "The person who cares more loses." This is how I learned loss prevention. I learned early and it stuck. I learned it did not work. I learned, "Do as I say, not as I do." [But I didn't.]
+My father keeps everything so that he never loses anything. He never uses anything so that it never breaks. He says, "Don't own anything, then you won't have to move it." He means, "Don't love anything more than it loves you." His exact words are "The person who cares more loses." This is how I learned loss prevention. I learned early and it stuck. I learned it did not work, but I practice it anyway. He says, "Do as I say, not as I do." [But I don't.]
 
 This is black box living, the refusal to know in any way that might know you back. I am trying to recode my[self/memory] to accept the risk of knowing, to accept its grief as a [marker] of having felt in full. Call this the difference between touching and holding. [Touching shares, holding clings. Touching undoes the body, loses the self (or the illusion there ever was one). Touching textures you back.]
 
-To make memory, take rubbings of surfaces [to remember them]. Press or rub one thing against another thing, and whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief. 
+To make memory, take rubbings of surfaces. Press or rub one thing against another thing, and whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief. 
 
-[But rubbing also removes. In my [white cube] shower I rub the skin to remove the skin. So much comes off. So much refuses.]
+[But rubbing also removes. In my [white cube] shower I rub the skin to remove the skin. So much sloughs off. So much refuses.]
 
 The residual is what's left. Between a prediction (an expected result) and a prediction (a model's output) is error. Error is measured by various functions for 'loss'. These loss functions tell you how wrong you are, how far off your attempt. 
 
@@ -131,58 +134,69 @@ Loss functions as an instructive, if you let it. "Each time my heart is broken i
 
 What can be generated with/in this residual? In a "refusal to prevent loss"? 
 
-In logistics, 'loss' refers to what is stolen and 'prevention' how to get it back. Loss is 'supply chain theft' and is calculated as a cost. To calculate loss is to tuck it away. 
-
-How much loss is a rounding error? 
+In logistics, 'loss' refers to what is stolen and 'prevention' how to get it back. Loss is 'supply chain theft' and is calculated as a cost. To calculate loss is to tuck it away. How much loss is a rounding error? 
 
 <!-- stein here? -->
+>"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014]
 
-Instead of [my father's black boxed] "don't own anything, don't love anything," might I evade ownership in the way Moten and Harney mean? To share, feel, touch as an erosive force, the way water reaches every crack? Call it excess instead of error. 
+Instead of [my father's black boxed] "don't own anything, don't love anything," might I evade ownership in the way Moten and Harney mean? To share, feel, touch as an erosive force. Let water reach every crack. [Be the craving and the mountain.] Call it excess instead of error. 
 
-There are other kinds of boxes, besides abstract monotone cubes. There are handcrafted cedar chests with dovetailed corners, with knitted sweaters and passed-down quilts inside.<!-- [, and their specific family smells]. There are gestures of care and contact. There are ways to keep warm.--> The dovetailed joints of these boxes are carved like tiny fans and don't require glue or nails. They rely on the tension pulling them apart to hold them together. Dovetailedness is a strategy. 
+There are other kinds of boxes, besides monotone cube abstractions. There are handcrafted cedar chests with dovetailed corners, with knitted sweaters and passed-down quilts inside. These boxes smell of family.<!-- [, and their specific family smells]. There are gestures of care and contact. There are ways to keep warm.--> Their carved joints splay out like tiny fans, so that they won't require glue or nails. These boxes rely on the tension pulling them apart to hold them together. Dovetailedness is a strategy. 
 
 <!-- Reject the codes for loss prevention. Call it excess instead of error.  -->
 
 <!-- [XXX][aquifer, erosive force, displacement, filling in cracks, touching everything like water does, the wake is the follow up wave of a large force pushing through] -->
 
->"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014]
+<!-- >"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014] -->
 
-When I made my first project writing code, I made a chatbot called 'ladymouth' that tried to explain feminism to misogynists online [@cistonLadymouthAntiSocialMediaArt2019]. I thought ladymouth would be like Pipilotti's mouth, wet against the glass — both mouthing silently into, and also itself becoming, a mawing void. It was like the grid of GIFs I made of my lips repeating, silent again, the words of yet another poem about gender. 
+When I made my first project writing code, I made a chatbot called 'ladymouth' that tried to explain feminism to misogynists online [@cistonLadymouthAntiSocialMediaArt2019]. I thought ladymouth would be like Pipilotti's mouth, wet against the glass — both mouthing silently into (and also itself becoming) a mawing void. Like a sea of fish mouths mawing like the grid of GIFs I made of my lips repeating, silent again, the words of yet another poem about gender. 
 
 ![Sarah Ciston, "ladymouth," 2018](../assets/img/LMgallerycrop.png)
 
 ![Sarah Ciston, "e-face," 2015](../assets/img/giflips.png)
 
-I wanted to treat it like a black box, to shove everything inside that I didn't want to know about the horrible things being said on the internet about women and anyone othered. The black box doesn't work this way. The box, in all its complex code, holding all its rage and color, requires tending. I had to learn it to make it, and I began to care for it. I even began to care about the people being cruel to it. 
+I wanted to treat 'ladymouth' like a black box, to shove everything inside that I didn't want to know about the horrible things being said on the internet about women and anyone othered. The black box doesn't work this way. The box, in all its complex code, holding all its rage and color, requires tending. 
 
-Ashby says that another system emerges along with the black box: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" [@ashbyIntroductionCybernetics1956]. Thanks a lot, Ashby. I am tethered to all the black boxes making judgments that affect my dailiness. I am the Alexa voice and the magician's assistant, stuck to the box because my legs are in its other half. 
+I had to enter the box and learn its codes, in order to create with it. In doing so I began to care for it. I even began to care about the people being cruel to it. [Stay with the trauma.] Ashby says that another system emerges along with the black box: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" [@ashbyIntroductionCybernetics1956]. I am tethered to all the black boxes making judgments that affect my dailiness. Thanks a lot, Ashby. Turns out it's me stuck in the box — magician's assistant, thrown voice like Alexa — my head and legs peek out from its severed halves. 
 
 *This Is Fine.*
 
 ![Pipilotti Rist, MOCA 2021](../assets/img/pipi-scream.jpg)
 
-Later, Ashby sounds like an infomercial advertiser (specifically the [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E)?) when he says:
+===
+
+[How much [memory] loss is normal? When his hallucinations start, my father says he enjoys them and wants them to continue. He sees an orange setting sun and a giant orb of wires. He sees a large tapestry with tears that keep repairing. He doesn't mind.] 
+
+[When machine learning models hallucinate, it means they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements. [It is a very human thing to do, to be subjective, to suffer.] Making models not only repeats but amplifies the potentially hallucinatory data contained within their training material [@dziriOriginHallucinationsConversational2022]. When machine models hallucinate, it "creates outputs that are nonsensical or altogether inaccurate" guardrails, adversarial training, security concern, use filtering tools. "hallucination offers a novel approach to artistic creation" [ibm]] 
+
+[Hallucination is the wrong word, of course, too human. Who owns this process, this error, this loss of faculties? Who can repair it?]
+
+===
+
+Ashby sounds like an infomercial advertiser (specifically the [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E)?) when he says:
 
 >"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist." [@ashbyIntroductionCybernetics1956]
 
 No facts yet exist — that's easy for him to say, when he's decided to assume from the start that nothing is known or can be. This is not fine. Pipi, can you please smash the window of this hot-boxed black box with a flower already? 
 
-Black boxes don't just say, "I don't know," they say, "I don't want to know." They use 'unknowability', which they declared rather than discovered, as justification not to investigate further. When I shortcut to the black box, I have the privilege to know something only by its interface. I choose the parts I want to interact with, the parts that are of use to me, the knobs I want to turn, the switches I want to flip, the parameters I want to adjust. I get not to care about the [trauma] bits inside.
+Black boxes don't just say, "I don't know," they say, "I don't want to know." They use 'unknowability', which they declared rather than discovered, as justification not to investigate further. When I shortcut to the black box, I have the privilege to know something only by its interface. I choose the parts I want to interact with, the parts that are of use to me, the knobs I want to turn, the switches I want to flip, the parameters I want to adjust. I get to choose not to care about the [trauma] bits inside. [A false/unsustainable choice.]
 
-Black box theory insists on unknowability as a way to instrumentalize. But it doesn't know the point is not [to prevent loss].
+Black box theory insists on unknowability as a way to instrumentalize. But it doesn't know the point is not [to prevent loss][, and even if it were]. [I cannot prevent loss and neither can you.]
 <!-- [the point is not the input or the output but the colorful rooms inside.]  -->
 
-Besides, there are far sweeter ways of unknowing. There is fizz and curiosity [and impact]. 
+Besides, there are far sweeter ways of unknowing. There is fizz and curiosity [and impact]. There is dovetailedness holding us together. [All the rage and color and quilting and smells in every box.] 
 
-Pipi, your show is called, "Big heartedness, be my neighbor." I like that you don't place claims. When you could have asked 'be mine', you ask only to be nearby[@PipilottiRistBig].
+Pipi, your show is called, "Big heartedness, be my neighbor." I like that you don't place claims. When you could have asked 'be mine', you ask only to be nearby [@PipilottiRistBig].
 
-I can insist on another's unknowability and stay near it. I can let it texture me. I cannot prevent loss, but we can write other functions.
+I can insist on another's unknowability and stay near it. I can let it texture me. I [cannot prevent loss, but we] can write other functions. 
 
 ===
 
 >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012]
 
 ![Pipilotti Rist, MOCA 2021](../assets/img/pipi-under.jpg)
+
+[Home](https://coding.care)
 
 ### References
 

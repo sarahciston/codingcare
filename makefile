@@ -31,8 +31,10 @@ HTML_FLAGS = \
 		--section-divs \
 		-s -f markdown+tex_math_single_backslash \
 		--bibliography=posts/includes/bibliography.json \
-		--citeproc --toc --toc-depth=1 \
+		--citeproc \
+		--toc --toc-depth=3 \
 		--to html5+smart \
+		--filter pandoc-sidenote \
 		--template=_layouts/$(HTML_TEMPLATE) \
 		$(foreach style,$(STYLES),--css $(notdir $(style))) 
 
@@ -40,7 +42,7 @@ HTML_FLAGS = \
 # 		--section-divs \
 # 		-s -f markdown+tex_math_single_backslash \
 # 		--bibliography=posts/includes/bibliography.json \
-# 		--citeproc --toc \
+# 		--citeproc --toc \ --toc --toc-depth=3 \
 # 		--to html5+smart \
 # 		--template=_layouts/tufte-mod.html5 \
 # 		$(foreach style,$(STYLES),--css $(notdir $(style))) 

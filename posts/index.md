@@ -1,6 +1,7 @@
 ---
 # layout: page
 title: Trans*Formative TechnoCraft
+subtitle: 
 nav_order: 0
 ---
 
@@ -17,13 +18,13 @@ nav_order: 0
    * [Codes for (Un)Raveling](unraveling.html)
    * [Codes for (Un)Limiting](unlimiting.html)
 3. FORMATIVE: 
-   * [A Critical Field Guide to Working with Machine Learning Datasets](https://knowingmachines.org/critical-field-guide) 
-   * [Inclusive Datasets Research Guide](publications)
-4. \*: [Codes for (Un)Forming](unforming.html)
-5. TECH: [Intersectional AI Toolkit](https://sarahciston.gitlab.io/toolkit/)
+   * <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a>
+   * <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets Research Guide</a>
+4. \_: [Codes for (Un)Forming](unforming.html)
+5. TECH: <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a>
 6. (NO):  
    * [Codes for (Un)Living](unliving.html)
-   * [Codes for (Un)Knowing](unknowning.html)
+   * [Codes for (Un)Knowing](unknowing.html)
 7. CRAFT: [Coding.Care](guide.html)
 <!-- 7. TRANS: [Unsupervised Pleasures & Critical AI](unsupervised) -->
 

@@ -356,22 +356,13 @@ From Clara Herrman, Maya Indira Ganesh, Nora Khan, and Nataša Vukajlovic, I hav
 
 I am continually un/re/learning all this.
 
-
-
 **From creative writing to coding to textiles, knotting and plotting intersectional knowledge into our societies and its technologies has taken many shapes for you over the years. What is your next tool?**
 
 My next tools are tools for making tools. Through my exploration of the unfathomable scale of machine learning through material metaphors, as in the crocheted labyrinth, I have been invested in making complex concepts feel approachable in different terms, in order to bring more voices into important conversations about tech. This continues to take many forms and vocabularies, from public zine-making workshops to interactive digital installations to fiber arts and durational performance—and in all these contexts I'm interested in how I can engage and learn from others about the many ways we might approach technologies. Next I want to continue digging into the roots of large complex machinic systems—training datasets, models, architectures—and I am building code tools that allow me to do this. My goal with these tools is also to make such systems available and comprehensible to others, so that we may feel more capacity to reshape them.
 
-
-
-
-
-
-
 **How can people imagine new metaphors for AI, and how might it help them?**
 
 First it helps just to notice whenever we encounter the "standard" conceptions of AI—like 'neural' networks or black boxes—that these are in fact metaphors; they are not the only possible truths for imagining automated systems. These metaphors need contextualizing in their military, industrial, western histories, which have shaped them into narrow concepts of what AI can and should be, as well as have limited who can access them. Acknowledging these concepts as metaphors opens the possibility to choose other metaphors. By choosing other metaphors we can choose how we want to imagine AI systems otherwise. We can describe them through different analogies that make them comprehensible to more people, and we can imagine how we might build them differently to support other goals. By describing AI systems through the metaphors of different domains, we gain the wisdom of many communities of practice in order to reshape their aesthetics, ethics, and tactics. What can we learn about computing (and not computing) through the lenses of Black feminist worldbuilding and queer crip technoscience, from activists and artists, from our more-than-human networks? How would these knowledge systems and values fundamentally reshape AI systems?
-
 
 **And what is the little anarchy that you could develop and build into our belief systems?**  
 
@@ -381,4 +372,27 @@ British writer Lola Olufemi says, in Experiments in Imagining Otherwise, "The im
 
 
 
+- *XCOAX 3000-6000w*
+- ars workshop LLMs basics breakdown
+- new real crit ai 2770
 
+
+- *ELO abstract*
+
+- *Weizenbaum 2500-5000w*
+- weaver history, & tech
+
+
+- *Brouchard notes. histories and futures*
+- weaver history, & tech
+
+- *Notre Dame proposal & budget 6p*
+- critical guide to generative AI
+
+- *quantum proposal 1500w & budget 2p*
+
+- technocraft: iai & creative  
+- craft examples as IAI material practice
+- material data practices
+
+- code collective book 25,000

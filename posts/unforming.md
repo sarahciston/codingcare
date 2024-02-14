@@ -4,10 +4,13 @@ title: Codes for (Un)Forming
 subtitle: Trans*formative TechnoCraft
 permalink: unforming
 nav_order: 10
-date: 02.02.2024
+# date: 02.02.2024
 ---
 
-# Codes for (Un)Forming
+[Home](https://coding.care)
+
+#   
+<!-- Codes for (Un)Forming -->
 
 ![](../assets/img/valie-2cam.jpg)
 
@@ -53,7 +56,9 @@ A prompt is both a blinking cursor awaiting my input, as well as the phrase I in
 
 >"I want a dyke for president."
 
-VALIE, I want a dyke for president. I want a chatbot that can imagine a dyke for president and can tell me about a dyke president without it "violating its content policy." I want even a chatbot that, when I prompt it "I want a dyke for president," can tell me about the very real artwork by Zoe Leonard called "I want a dyke for president," based on the dyke poet Eileen Myles' very real 1992 campaign for president. Is it so hard to imagine such things when they do in fact exist? When they are on the cusp of existing? Even these very real things get harder to imagine when ignored by automated systems. The chatbot's platform freezes. The screen locks and it shames me. In order to continue, I must acknowledge, submit, admit that my request "may violate our content policy." [I don't want to violate anything; I just want to see a body I recognize in a system made for dreaming.] After that unfriendly popup, I don't expect a response, but it also erases my query altogether. [The event of my desire has been removed.] Did it fall into the same void where all censored content goes, where an underpaid underage non-employee in a country the west refuses to acknowledge will look at my dyke president request along with countless grotesque descriptions? I want a chatbot built for a world that can render a dyke president, or a poem about a dyke president — just like Zoe Leonard did and Eileen Myles did: "someone who has made mistakes and learned from them" [@leonardWantPresident1992] — not a chatbot feeding me milquetoast lines about the importance of diversity while offering me none.
+VALIE, I want a dyke for president. I want a chatbot that can imagine a dyke for president and can tell me about a dyke president without it 'violating its content policy.' I want even a chatbot that, when prompted 'I want a dyke for president,' can tell me about the very real artwork by Zoe Leonard called "I want a dyke for president," based on the dyke poet Eileen Myles' very real 1992 campaign for president. Is it so hard to imagine such things when they do in fact exist? When they are on the cusp of existing? Even these very real things get harder to imagine when ignored by automated systems. The chatbot's platform freezes. The screen locks and it shames me. In order to continue, I must acknowledge, submit, admit that my request 'may violate our content policy.' I don't want to violate anything; I just want to see a body I recognize in a system made for dreaming. I don't expect a response, but it has erased my query entirely. The event of my desire is removed. Did it fall into the same void where all censored content goes, where an underpaid underage non-employee in a country the west refuses to acknowledge will look at my dyke president request along with countless grotesque descriptions? I want a chatbot built for a world that can render a dyke president, or a poem about a dyke president — just like Zoe Leonard did and Eileen Myles did: "someone who has made mistakes and learned from them" [@leonardWantPresident1992] — not a chatbot feeding me milquetoast lines about the importance of diversity while offering me none.
+
+
 
 VALIE, that machine is the broken one, yet I am the one made to feel broken. Our dyke president brakes the machine; you break the machine; we are the broken machines Sarah Sharma means when she says:
 
@@ -86,6 +91,8 @@ Remember, the femme platforms are the things we are designed to disappear as. A 
 But in the din of the room, in the cut, you bloom a bruise.  
 
 ![](../assets/img/valie-garter.jpg)
+
+[Home](https://coding.care)
 
 ### References
 

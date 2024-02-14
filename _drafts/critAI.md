@@ -5,6 +5,12 @@ title: Critical AI
 nav_order: 100
 ---
 
+<!-- Towards A Critical Field Guide to Working with Generative AI // Machine Learning Models* -->
+
+<!-- based on my earlier work developing CFGWMLD, the companion to this guide. This approach combines critical perspectives and practical techniques for learning to work in depth with generative AI systems. It will focus on  language models as its case study, but provide information applicable to image, video, audio, and multimodal models.-->
+
+<!-- Will also include a workshop and feedback session for faculty, librarians, journalists, legal scholars, in the EU and US contexts two workshops to address what questions and how the guide manages to address these.  -->
+
 
 
 # Asking the Wrong Questions about Generative AI
@@ -43,7 +49,7 @@ Rather than small models, curated for specific tasks, these large language model
 
 ### The solution is not just gathering more and more and more.
 
-The Borges’ story reminds us: If a map grows as large as the world it represents, it will be useless, impossible to reference. Large language models trying to suck up all available text indiscriminately are working toward similarly faulty aims. They hope to emulate the world while also writing it fresh, but they [cannot create something new from the same old info. They] are looking in the same dark corners, generating more darkness. 
+The Borges' story reminds us: If a map grows as large as the world it represents, it will be useless, impossible to reference. Large language models trying to suck up all available text indiscriminately are working toward similarly faulty aims. They hope to emulate the world while also writing it fresh, but they [cannot create something new from the same old info. They] are looking in the same dark corners, generating more darkness. 
 
 ### Neutral can’t patch the gaps
 
@@ -82,6 +88,7 @@ This would also require new frameworks for valuing coauthors in non-economic, no
 ### Artistic experimentation helps reflect on existing and imagine/synthesise counter narratives
 
 alternative approaches that centre intersectional ethics and tactics 
+
 Small dataset curation can be a means of working with data imagined for and by the communities it represents, put toward goals that serve them directly. Access also requires tools that are financially and technically accessible to individuals outside corporate complexes. 
 
 Conscientious data stewardship means applying learning from other fields like library and information sciences, where standards for data and metadata acknowledge one’s subject position as curator of a collection. It means looking to other communities like indigenous researchers, who have long considered the ethics of curation and preservation. [ and their relationships to their communities represented. XXXX more on indigenous research into data sovereignty?]

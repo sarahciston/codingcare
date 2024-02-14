@@ -246,7 +246,7 @@ Critically breaking things helps us understand how they work (or don't work) fro
 Maybe all this tinkering doesn't feel "important" or "relevant" enough? Don't worry about that yet. Tinkering is a transferrable, lifelong skill:
 
 >"If you can teach students how to break one part critically, then they can go off and break other parts on their own in their career. 
-><footer>–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab></footer>
+><footer>–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab</footer>
 
 *For more on this, see [Critical tinkering](#Critical-tinkering)*
 
@@ -299,7 +299,7 @@ A big part of coding creatively and critically is remembering that all code is *
 Researcher Mark Marino, who helped develop the field of Critical Code Studies, says "Code also has qualities: clarity versus obfuscation, verbosity versus concision, elegance versus sloppiness." He offers many options for ways to read code, including looking at how it changes over time, comparing it to its outputs, creating visualizations of the code, and writing more code to understand the code. Readings of code can also extend beyond the lines of the program itself. Marino asks:
 
 >Who wrote the code? When and why? In what language was the code written? What programming paradigm was used? Was it written for a particular platform (hardware or software)? How did the code change over time? What material or social constraints impacted the creation of this code? How does this code respond to the context in which it was created? How was the code received by others? Although many of these questions address the technical aspects of the code, I do not want to limit context to the material condition of the code itself. [...] The critical in critical code studies encourages also exploring the social context through the entry point of code.
-><footer>–Mark Marino [-@marinoCriticalCodeStudies2020a]</footer>
+><footer>–Mark Marino, *Critical Code Studies* [-@marinoCriticalCodeStudies2020a]</footer>
 
 Fundamentally, even if you're not looking for deeper meanings in the code, actually *for-real reading* the code you encounter can help you learn to code better than almost anything else. It may seem tedious, but: Type out the examples you use, rather than copying and pasting them. Follow along with your finger on the page as the functions return to different sections and the loops re-loop. This act of readind "runs the code" in your mind, so that you can truly understand what is happening on the screen when you write all those brackets and semi-colons. Once you understand that, you can begin to ask questions about the implications of each way of writing — knowing there's no one way, no "right" way, to write code.
 
@@ -418,10 +418,10 @@ We need more spaces that embrace and reflect the many different kinds of learnin
 
 ## Rely on others
 
-Mark C. Marino and I took up Cox and Soon's creation-as-invitation and 'forked' their text, adding our own "Chapter 8.5" to their book. We were incredibly moved by the vulnerability that Cox and Soon showed by offering their work for others to adapt, and that gesture made us want to get more vulnerable too. We added what we called "Code Confessions" that emphasized "the ways we learn in community, revealing that the teacher programmer didn't always know what they're doing and may still find their way with a beginner's mindset." Through these asides, we tried expand the idea of comments to show our own lived experience with code, to admit our fears and acknowledge mistakes:
+Mark Marino and I took up Cox and Soon's creation-as-invitation and 'forked' their text, adding our own "Chapter 8.5" to their book. We were incredibly moved by the vulnerability that Cox and Soon showed by offering their work for others to adapt, and that gesture made us want to get more vulnerable too. We added what we called "Code Confessions" that emphasized "the ways we learn in community, revealing that the teacher programmer didn't always know what they're doing and may still find their way with a beginner's mindset." Through these asides, we tried expand the idea of comments to show our own lived experience with code, to admit our fears and acknowledge mistakes:
 
 >These sections personalize the approach and dismantle the authoritarian hierarchy or boundary between knowledge 'holder' and knowledge 'seeker'. [...] They stand opposed to encoded chauvinism, or the toxic brogrammer culture that can be so off-putting to new programmers, especially those who come from outside the dominant culture."
-><footer>–Mark C. Marino, "How to Fork a Book" [-@cistonHowForkBook2021]</footer>
+><footer>–Mark Marino, "How to Fork a Book" [-@cistonHowForkBook2021]</footer>
 
 It's okay to build on the work of others (citing it, of course)(see ["Cite with love"](#cite-with-love)). We are always doing so, in subtle and substantial ways. We are always relying on others. I think it is worth showing off how interconnected we are. 
 
@@ -580,7 +580,7 @@ Bonnie Nardi's concept of "end-user programming" helps dismantle the hierarchy o
 How might we reject such ideas about our relationships with computers that are baked into the systems as we see them today? A return to other ways of knowing offers one approach:
 
 >"The development of gooey [GUI] was a project to create an accessible computer, lessening the burden of knowledge required to complete a task. But this also created the 'user' as we know it by creating a user/programmer dichotomy. The desire for a black screen is that of removing the dichotomy in favor of an interface without subjection, without users and/or programmers alike. [...] Black gooey might then be a platform of slowness ('dragged time', 'colored time') [...], refusal, thought, complexity, critique, softness, loudness, transparency, uselessness, and brokenness. A planar body that longs for the solitude and vastness of the commandline, yet nuanced and sharp, to usurp and destroy a contemporary hegemonic interface." 
-><footer>—American Artist[-@artistBlackGooeyUniverse]</footer>
+><footer>—American Artist [-@artistBlackGooeyUniverse]</footer>
 
 Code Collective member [ender](https://www.enderverse.org/) expands on such ideas in a zine called, "[you are a coder](https://enderversing.itch.io/uracoder)." It discusses how users might be more empowered through customization tools to engage like programmers (and how many already do!), and how programmers are rely on languages as interfaces, just like other kinds of users do. It also includes more readings on this topic if you're interested, from David Chisnall, Olia Lialiana, Joanne McNeil, and Melanie Hoff [@enderYouAreCoder]. 
 
@@ -996,6 +996,7 @@ Of course, this does not work. That nervous strategy is riddled with stilted eff
 The space is a loose net — some structure is in fact necessary, though I was loathe to be the instigator of that structure at first. But tangents are warmly encouraged: 
 
 >Elea: "Can I go on a tangent?" 
+
 >Sarah: "Always."
 
 Keep it loose, but keep it. Strive for the loosest container possible to hold the thing together. This supports the lowest possible barrier to participation.[^teapot]
@@ -1004,7 +1005,9 @@ Keep it loose, but keep it. Strive for the loosest container possible to hold th
 
 When we were faced with formalizing into an organization with officers and institutionalization in order to access funding, for us in that moment it was right to turn that down. You'll have to decide what's right for your group at the time, but our members said they liked being able to stay low-stakes, without obligation. We were able to maintain this way because of individual members like myself having institutional support. In other contexts, this may change as our structure and membership continues to change. 
 
-I have learned that, `when I hold my pedagogy and my programming more loosely, they both become more pleasurable.`
+I have learned that, 
+
+`holding my pedagogy and my programming more loosely, they both become more pleasurable.`
 
 [Back to Table of Contents](#top)
 

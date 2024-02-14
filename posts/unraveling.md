@@ -4,12 +4,15 @@ permalink: unraveling
 title: Codes for (Un)Raveling
 subtitle: Trans*formative TechnoCraft
 # nav_order: 5
-date: 02.02.2024
+# date: 02.02.2024
 ---
 
 <!-- <article> -->
+[Home](https://coding.care)
 
-# Codes for (Un)Raveling
+#  
+
+<!-- Codes for (Un)Raveling -->
 
 >"It seems necessary and impossible to rewrite the default grammar of agency." 
 ><footer>–Jane Bennett [-@bennettVibrantMatterPolitical2010]</footer>
@@ -192,6 +195,8 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
     <img src="../assets/img/rapoport-objects1.jpg" alt='Sonya Rapoport, "Objects on My Dresser"'>
     <figcaption>Sonya Rapoport, "Objects on My Dresser"</figcaption>
 </figure>
+
+[Home](https://coding.care)
 
 ### References
 

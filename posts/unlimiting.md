@@ -4,7 +4,7 @@ permalink: unlimiting
 title: Codes for (Un)Limiting
 subtitle: Trans*formative TechnoCraft
 nav_order: 4
-date: 02.02.2024
+# date: 02.02.2024
 tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 # bibliography: ['includes/bibliography.bib']
 ---
@@ -15,11 +15,15 @@ tags: ["interstitial", "broken machines", "queer use", "platforms" ]
 
 <!-- (Dis/Appearing) -->
 
-# Codes for (Un)Limiting
+[Home](https://coding.care)
+
+#  
+
+<!-- Codes for (Un)Limiting -->
 
 ![[1. "Two hands scratching both walls"](https://youtu.be/O0uNnmAudmk)](../assets/img/horn-hands.jpg)
 
-**Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min)**
+#### Rebecca Horn, Berlin (10 Nov. 1974–28 Jan. 1975) - Exercises in nine parts: Dreaming under water of things afar (40min)
 
 <!-- ### Isolation, Perfection, Scratching at the Walls -->
 
@@ -114,6 +118,8 @@ Berlin Ünbungen in neun Stücken: Unter dem Wasser schlafen und Dinge sehen, di
 7. "the jungle sheds her skin" / *Shedding skin between moist tongue leaves*
 8. "cutting hair" / *Cutting one's hair with two pairs of scissors simultaneously*
 9. "When a woman and her lover lying down - face to face - and she coils(wraps) her legs around the legs of the man - with the window opened wide - that is the O A S I S ." / *When a woman and her lover lie on one side looking at each other; and she twines her legs around the man's legs with the window wide open, it is the oasis.*
+
+[Home](https://coding.care)
 
 <!-- ![horn-legs](../assets/img/horn-legs.png) -->
 

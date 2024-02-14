@@ -166,7 +166,7 @@ Deep in the structures of language where the traits are common across.
 “Translating the Bible,translation is like kissing your sweetheart through a veil.”
 
 
-“What choice of adjacent words maximizes the probability of correct choice of meaning, and at the same time leads to a small value of N? “
+“What choice of adjacent words maximizes the probability of correct choice of meaning, and at the same time leads to a small value of N?"
 “using the micro-context to settle the difficult cases of ambiguity”
 “one lengthens the slit in the opaque mask, until one can see not only the central word in question, but also say N words on either side, then if N is large enough one can unambiguously decide the meaning of
 the central word”

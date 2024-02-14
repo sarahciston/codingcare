@@ -1,8 +1,8 @@
 ---
 # layout: post
 permalink: intro
-title: critical introduction
-subtitle: Trans\*formative TechnoCraft
+title: This Is Trans*formative TechnoCraft
+# subtitle: Trans*formative TechnoCraft
 nav_order: 1
 date: 24.01.2024
 tags: [introduction, theory, practice, hybrid, academic]
@@ -23,6 +23,8 @@ tags: [introduction, theory, practice, hybrid, academic]
 
 <!-- * where am I located? locate the self -->
 <!-- * what are my stakes? stakes for self -->
+
+<!-- intro 3800, transformative 5600, technocraft 7400, conclusion 2800, ccc guide 25.000 -->
 
 # Critical AI & Creative–Critical Coding Need Each Other
 
@@ -83,8 +85,7 @@ We know code means more, if we let it. Code is collaborative, says Mark C. Marin
 
 This requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start [@AlwaysalreadyprogrammingMda; @artistBlackGooeyUniverse; @nardiSmallMatterProgramming1993]. It requires un-siloing domains and disciplines, the artificial boundaries that divide technologists from activists and critics from creators. It requires we find common language and common values that come with working knowledge of the whole system. The technical how-to means (coding skills) and the critical/analytical how-to means (analytical, political, aesthetic, ethical contexts) and the material how-to means (data, energy, hardware) have to combine and are inseparable.
 
->"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression.
->–bell hooks [-@hooksTeachingTransgressEducation1994]
+>"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression. –bell hooks [-@hooksTeachingTransgressEducation1994]
 
 All making, all writing, all coding is a hybrid practice of creation (poetics), critique (politics), and code (platforms and programmatic systems). <!-- All code is writing and all writing is code.  -->
 
@@ -513,6 +514,8 @@ Let's briefly discuss some techniques employed in craftiness as refusal and resi
 
 **Adversarial use** uses technology against the grain or against the goals of its creators. <!--In ["Autonomous Trap 001"](https://www.jamesbridle.com/works/autonomous-trap-001), James Bridle used a salt circle drawn in the pattern of highway lines to show how a self-driving car might be trapped in one spot by its own rules, nodding to ritual magic while showing the ease with which 'smart' systems could potentially be fooled [@bridleAutonomousTrap001] (see also the code for developing a DIY self driving vehicle, [Austeer](https://github.com/stml/austeer?tab=readme-ov-file).--> In an obfuscation technique called 'baysean flooding', machine-reading platforms are prevented from interpreting data by mixing in an overwhelming amount of false data which cannot be distinguished from 'true' data — such as posting a thousand nonsense social media posts with false locations for every accurate one [@bruntonObfuscationUserGuide2015]. In ["ladymouth"]((https://sarahciston.com/lm)), I created a bot to participate in misogynist online forums in order to post feminist texts, then collected the responses from forum participants and performed these responses at poetry readings. Both are examples of adversarial use [@cistonLadymouthAntiSocialMediaArt2019]. Other forms might also include desire lines, the non-designated paths in parks and natural spaces that are created by human or animal use. 
 
+<!-- Yandex Leaks with EEEFFF school of algorithmic solidarity, https://www.criticaldatalab.org/ https://scc.eeefff.org  -->
+
 **Extreme use**, also known as breaking, looks to what is already broken, concerning, or confusing in existing systems and plunges into those gulfs. By highlighting (or causing) errors and glitches, these works step into the trouble. They hyperbolize aspects of a system in order to attend to the problems this exposes. In her "Manifesto of the Broken Machine," Sarah Sharma shows how we might work *with* outliers and errors — and with perceptions of women and others as outliers and errors — in order to work *against* the systems that frame them as such: 
 
 >"the idea of our contemporary social-political-economic system as an already-broken machine full of the incompatibly queer, raced, classed, and sexed broken-down machines is politically exciting for feminism. [...] A feminism of the Broken Machine focuses on and uses the logic of the machines to highlight current power dynamics that are otherwise hard to pinpoint. The Broken Machine uncovers and incites new power moves." [@sharmaManifestoBrokenMachine2020]
@@ -669,7 +672,6 @@ Through lenses of Trans\*formative TechnoCraft we have discussed, I hope this so
 
 >"Part of the construction of dominator privilege is you don't have to think about what are those other people thinking, feeling, hoping, dreaming. I think part of transformation is when you open yourself to wanting to know what those people who are not like you are doing, thinking, being." [@hooksbellWhyFamedFeminist2018] 
 
-
 ## What's After?
 
 New projects are growing from the seeds of these works. [XXX][this list won't stay in the diss but i'd like to talk about them in relation to the diss]
@@ -698,7 +700,6 @@ The new task in machine learning called 'machine unlearning' has emerged due to 
 <!-- **Reinforcement Learning with Human Feedback** -->
 <!-- Reversed: (Human) Reinforcement Learning with Machine Feedback -->
 <!-- My workshops at Ars, Moz, USC -->
-
 
 # References
 
@@ -934,4 +935,3 @@ and people impacted by carceral and social systems -->
 <!-- write with the machine of me and the machines i have learned along the way.  --> 
 
 <!-- [//]: # "the magnitude of the distance between them (close/far) of each dimension of the vector" -->
-
