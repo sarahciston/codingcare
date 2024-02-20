@@ -4,7 +4,7 @@ title: Coding.Care
 subtitle: Field notes for making friends with code
 permalink: codingcare
 nav_order: 3
-date: 02.02.2024
+# date: 02.02.2024
 tags: [tips, guide, handy, coding, zine, computers, programming]
 # link-citations: true
 ---

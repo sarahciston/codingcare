@@ -1,24 +1,39 @@
 ---
 # layout: post
 # author: sarahciston
-title: notes
+title: notes on research in progress
 nav_order: 102
 published: true
 # date: 21.03.2022 
 tags: [notes, progress, misc, journal]
 ---
 
-# notes on research in progress
+#   
+<!-- notes on research in progress -->
 <!-- # {{ page.title }} -->
+
+### 18 feb 24
+
+A note on design: Reformatting the website, it's slightly less cute, perhaps, but it allows for several things to happen with the interface and with the behind the scenes simplicity and flexibility. 
+
+First, footnotes appear as sidenotes, in Edward Tufte style, next to what they reference. In the future I imagine a much more citational practice of writing and coding that opens up whole layers of these interweaving practices that can be navigated between and among, toggling through popups and sidenotes as wormholes between the layers of code, primary text, and paratexts. 
+
+Second, the coding framework and processors (Jekyll) are gone, and plain markdown writing is rendered directly and simultaneously to HTML pages and to PDF documents using the easy command line tool Pandoc. This both streamlines the dependency on various code packages and also opens up proliferating formatting possibilities — zines, sites, dissertations, books, etc. 
 
 ### 22 sep 23
 
-James Bridle: 
-- corporations are the current general AI
+some of James Bridle's main points so far in *Ways of Being*
+
+- corporations are the current general AI, not the big baddies they teach us to fear
 - what is an intelligence that is not extractive, not modeled on corporate intelligences, but coming out of our entanglement with/as nature/world?
 - language emerged from direct experience of environment
 
-me: ...then what would be a phenomenological (rather than stocastic) computational representation of language?
+*me: ...then what would be a phenomenological (rather than stocastic) computational representation of language?*
+
+- we don't recognize the intelligence of nature until we build unnatural intelligent systems that reflect it
+- new forms of AI need to be: decentralized, nonbinary, and embedded in morethanhuman systems
+  
+*these are old ideas and is he having the same belated recognition? am i?* 
 
 ### 15 sep 23
 

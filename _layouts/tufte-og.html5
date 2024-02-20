@@ -43,7 +43,7 @@ $endfor$
 <article>
 $if(title)$
 <header>
-<!--<h1 class="title">$title$</h1>-->
+<h1 class="title">$title$</h1>
 $if(subtitle)$
 <p class="subtitle">$subtitle$</p>
 $endif$
@@ -57,9 +57,9 @@ $endif$
 </header>
 $endif$
 $if(toc)$
-<!--<nav id="$idprefix$TOC">-->
-<!--$toc$-->
-<!--</nav>-->
+<nav id="$idprefix$TOC">
+$toc$
+</nav>
 $endif$
 $body$
 </article>

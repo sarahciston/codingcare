@@ -109,9 +109,19 @@ Art has been the space where I am able to unpack complex ideas for myself, becau
 
 Artistic research opens space beyond research questions, where research tensions live. In that space, I can sit a bit longer with questions I know I cannot answer, questions that make me uneasy. I can hold two contradictory ideas simultaneously and let them push–pull me, forgiving myself imperatives and outcomes, productivity and proven hypotheses. I can put myself into the trouble, because I already embody these questions in my lived experience. 
 
-In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine. In such contexts, argues [XXX-ID] Holly Willis, "arts-based research is rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change" [@willisFastForwardFuture2016]. 
+In my experience, this imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more open access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms in new forms I might never imagine. In such contexts, argues [XXX-ID] Holly Willis: 
 
->"Bots can make arguments. [...] bots exist to shine a light on how things already work, but also to test the edge cases, and to propose alternatives. [...] bots are procedures against procedures." -Allison Parrish, "Procedure vs Procedure"
+>"arts-based research is rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change" [@willisFastForwardFuture2016]. 
+
+[XXX][ADD] Because of its inquiring forms, such techniques for reflexive making call for iterative, abductive approaches: 
+
+>"In the context of design research, an abductive approach values the creative, speculative, and even unconscious connections between ideas and materials that develop when an artist or designer iteratively produces aesthetic artifacts. There is a value in how new ideas can quickly emerge through imaginative and experimental transformations, leaps, and juxtapositions. In terms of the development of new knowledge, an abductive approach tolerates the role that material craft and subjectivity play in meaning-making." (Griffiths 2022)
+
+[XXX][ADD][connect to this form of transformations, leaps, iterations, self-reflection, how does this format allow for self reflection and why self reflection is necessary]
+
+Self-reflection is an essential part of artistic research and related practices like design research. As an intervention into deep learning algorithms, [XXX-ID] Catherine Griffiths has argued for `reflexive software development` that critically considers and interactively presents the circumstances of its own production. The outputs of such research can be tools that continue to probe their research questions, both through the very processes of their creation and through their later use by others. 
+
+>"Bots can make arguments. [...] bots exist to shine a light on how things already work, but also to test the edge cases, and to propose alternatives. [...] bots are procedures against procedures." (Allison Parrish, "Procedure vs Procedure")
 
 >"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
 

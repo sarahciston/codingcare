@@ -5,8 +5,6 @@ subtitle:
 nav_order: 0
 ---
 
-<!-- *I live and work in the ancestral land of the Tongva and Chumash people (Los Angeles), and on the site of many communities displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, and I work to support dismantling the paradigms that allow those struggles to continue.-->
-
 <!-- !['tonight'](assets/img/goingonline.jpg){: .thumb } -->
 
 <!-- Here's where I'll be tinkering for a few years with a dissertation... -->
@@ -26,9 +24,18 @@ nav_order: 0
    * [Codes for (Un)Living](unliving.html)
    * [Codes for (Un)Knowing](unknowing.html)
 7. CRAFT: [Coding.Care](guide.html)
+
+* [Progress notes](notes.html)
+<!-- * [Acknowledgments](ack.html) -->
 <!-- 7. TRANS: [Unsupervised Pleasures & Critical AI](unsupervised) -->
 
-<caption markdown=1>This work offers respect and gratitude to the Tongva and Chumash peoples, who are the rightful and traditional caretakers of the land where large portions of this work have been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn about the history of where you live, why this matters, and how to contribute.</caption>
+<!-- <caption markdown=1>I have lived and worked on the ancestral land of the Tongva, Chumash, Ohlone, Muwekma, Miwok, and Kumeyaay people (California); the Osage and Kickapoo people (Missouri); and on the site where many communities were displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, and I work to support dismantling the paradigms that allow such suffering to continue anywhere. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn about the history of where you live, why this matters, and how to contribute.</caption> -->
+
+<!-- the Tongva and Chumash people (Los Angeles); the Ohlone, Muwekma, and Miwok people (Oakland); the Kumeyaay people (San Diego); the Osage and Kickapoo people (Missouri);  -->
+
+<caption markdown=1>This work offers respect to the Tongva and Chumash peoples, who are the rightful caretakers of the land where much of this work has been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn about the history of where you live, why this matters, and how to contribute.</caption>
+
+<!-- ## Abstract -->
 
 <!-- <span class="purple">Learning programming is often intimidating and riddled with false starts,</span> which can further marginalize the folks whose perspectives are most necessary in order to face the challenges technoculture presents. This guidebook offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in 2019 for emerging media artists, writers, and non-engineers to think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 
 

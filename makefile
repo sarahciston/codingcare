@@ -3,7 +3,7 @@ outputhtml := docs
 outputpdf := assets/pdf
 SOURCES := posts/$(wildcard *.md)
 PDF_TEMPLATE = zine.tex # zine.tex draft.tex
-HTML_TEMPLATE = tufte.html5 # tufte-mod.html
+HTML_TEMPLATE = tufte.html5 # tufte.html
 
 
 # INPUT = posts/guide.md
@@ -52,6 +52,7 @@ STYLES := _site/assets/css/tufte-tt.css \
 		_site/assets/css/pandoc-solarized.css \
 		_site/assets/css/tufte-extra.css
 
+# _site/assets/css/scroll.css
 # $(METADATA) \ 
 # \ # $(SOURCES) \ # -o $(TARGETS) \ # $<
 # --toc --metadata \ 
