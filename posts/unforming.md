@@ -18,11 +18,11 @@ The camera my body, my body the camera. My body the screen, the screen my body. 
 
 Becoming-concrete. Becoming-curb. Becoming-scaffold. VALIE, you made your body something between still life and parkour, your Body Configurations risk and contort the femme already at risk already contorted. 
 
-Feel like VALIE tromping through fields, unwieldy cameras strapped front and back tipping side to side and crawling through the air to make strange pictures in stereo vision. An animal with wild eyes. This was 1973 and now we all have that front-back camera you made your whole body into, we have the miniature version of [your/our] body in our pockets, close to our bodies. Of that work, you said: 
+Feel like VALIE tromping through fields, unwieldy cameras strapped front and back tipping side to side and crawling through the air to make strange pictures in stereo vision. An animal with wild eyes. This was 1973 and now we all have that front-back camera you made your whole body into, we have the miniature version of that body in our pockets, close to our bodies. Of that work, you said: 
 
 >"between these pictures is the body that is invisible, cutting the room." [@WerkdetailVALIEEXPORT]
 
-[Reader,] imagine the room you're in without your body, just the cut it makes. Imagine a hollow in the negative of you. 
+Reader, imagine the room you're in without your body, just the cut it makes. Imagine a hollow in the negative of you. 
 
 Don't you know it's all about platforms now? 
 
@@ -32,7 +32,7 @@ These platforms are designed to disappear. Concrete, curb, scaffold.
 
 MOBILE FIRST! 
 
-The [bleakness] of platforms is dreamlike. The platform is a container and, as soon as I am inside, my body (of language) contained. The train platform is moving as I depart. I must ignore the landscape it forms around me. I wake up with its weapons in my hands. [Thinking again of Maya Deren with the knife.]
+The bleakness of platforms is dreamlike. The platform is a container and, as soon as I am inside, my body (of language) contained. The train platform is moving as I depart. I must ignore the landscape it forms around me. I wake up with its weapons in my hands. [Thinking again of Maya Deren with the knife.]
 
 To survive we cobble together platforms into a collaborative monster: *I'll meet you on zoom and slack and google docs; have them all open at once on this apple screen, this 7-inch mobile, on this hololens where I'll look right through you.* These gestures are patented, in this invasive dream where I am at work still, even in sleep. In another tab I am reading an article about the osage orange hedges that fenced in America, their brambles impenetrable. Settlers carved up the land and enclosed it [@SurprisingAncientHistory2021].
 
@@ -52,7 +52,7 @@ All parts of this break my heart — the dreamt version, the re-written version,
 
 A prompt is a kind of platform, a place off which to jump, from which to start. Like a diving platform, a prompt sets you up for something[: a fall]. Some prompts are setups. Some prompts are built to go nowhere, even if they could go anywhere. Some prompts are thwarted. 
 
-A prompt is both a blinking cursor awaiting my input, as well as the phrase I input to elicit a response from a [chatbot]:
+A prompt is both a blinking cursor awaiting my input, as well as the phrase I input to elicit a response from a chatbot:
 
 >"I want a dyke for president."
 
@@ -88,11 +88,13 @@ A broken thing can be just a crack, a glitch, a "'minute change in voltage [...]
 
 VALIE, with your wild rebel hair and motorcycle murder-chic, it's the cutaway crotch of your pants that extends this fantastic landscape. This is not a cheesy metaphor for vulvas. It's the literal rupture of the glitch, saying "Fuck you, just try to describe me while keeping to your content policy." 
 
-They tore the picture of you like this from the walls of the city and also made it your most famous image. And if you were running for president, it wouldn't matter whether or not you are a dyke, they'd call you one. 
+They made this your most famous image, and still they tore it from the walls of the city. 
 
-Remember, the femme platforms are the things we are designed to disappear as. A surface upon which something or someone else may form. Body invisible, cutting the room. 
+It doesn't matter if you're a dyke or not. If you're running for president, they'll call you one. 
 
-But in the din of the room, in the cut, you bloom a bruise.  
+Remember, the femme platforms are the things we are designed to disappear as. A surface upon which someone else may form. Body invisible, cutting the room. 
+
+But in the din of the room, in the cut, you bloom a bruise.
 
 ![](../assets/img/valie-garter.jpg)
 

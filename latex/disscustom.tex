@@ -1,0 +1,198 @@
+%%% MAKE DOC %%%
+\documentclass[11pt,oneside]{scrbook} %scrartcl
+% \documentclass[11pt,oneside]{report}
+% \documentclass[10pt,twocolumn,landscape]{scrartcl} 
+% \setlength{\columnsep}{.5in}
+
+%%% FRONTMATTER %%%
+
+\title{TRANS*FORMATIVE TECHNOCRAFT}
+\author{Sarah Ciston}
+% \majorfield{CINEMATIC ARTS (MEDIA ARTS AND PRACTICE)}
+% \submitdate{May 2024}
+% \subtitle{}
+\setcounter{tocdepth}{3} 
+
+
+
+%%% LAYOUT %%%
+\usepackage{geometry}
+\geometry{letterpaper, tmargin=1in, bmargin=1in, lmargin=1in, rmargin=1in }
+
+% \setlength{\parskip}{8pt plus 2pt minus 1pt}
+\raggedright
+\linespread{2}
+\usepackage{setspace}
+% \renewcommand*{\sectionformat}[1]{} %remove section numbering
+
+
+%%% TYPESET %%%
+\usepackage{fontspec}
+\usepackage{emoji}
+\setromanfont{Noto Sans}
+% \setsansfont{Noto Sans Mono}
+\setmonofont{Noto Sans Mono}
+\setemojifont{Apple Color Emoji} % must use syntax \emoji{%nameofemoji%}
+\usepackage[normalem]{ulem} %for strikethrough
+% \setemojifont{Noto Color Emoji}[Renderer=Harfbuzz]
+% \setmainfont{Noto Color Emoji}[Renderer=Harfbuzz]
+% \usepackage{noto}
+% \renewcommand{\familydefault}{\sfdefault}
+% \renewcommand{\familydefault}{\ttsubstdefault}
+
+% \allsectionsfont{\ttfamily}
+% \usepackage{koma-script}
+
+% \usepackage{scrlayer-scrpage}
+% \addtokomafont{}{\ttfamily}
+% \addtokomafont{chapter}{\ttfamily}
+
+%%% LINKS %%%
+\usepackage[breaklinks=true]{hyperref}
+\hypersetup{colorlinks,%
+citecolor=blue,%
+filecolor=blue,%
+linkcolor=blue,%
+urlcolor=blue}
+$if(url)$
+\usepackage{url}
+$endif$
+
+
+%%% GRAPHICS %%%
+
+\usepackage{graphicx}
+% \setkeys{Gin}{width=0.75\linewidth}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth
+\else\Gin@nat@width\fi}
+\makeatother
+\let\Oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=\maxwidth]{#1}}
+
+\usepackage[hybrid]{markdown}
+% \usepackage{emoji}
+
+
+%%% JUNK %%%
+%% inserted to fix a CSL error
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newenvironment{CSLReferences}%
+{\setlength{\parindent}{0.5pt}%
+\everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces}%
+{\par}
+\def\tightlist{}
+
+% hyphens, widows, orphans
+\brokenpenalty 10000
+\clubpenalty 10000         % Disallow club (orphan) lines
+\displaywidowpenalty 10000 % Disallow widow lines before display
+\widowpenalty 10000        % Disallow widow lines
+\footskip   0.5 true in           % page number must be 0.5" from bottom
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%
+%% Make the Dissertation titlepage
+%%
+\def\maketitle{%
+  \large  % title page should be 11pt or 12pt.  this should do.
+  \begin{titlepage}%
+    \setcounter{page}{0}%
+    \null
+    \vfill%\vfill
+    \begin{center} 
+    \begin{doublespace}
+        \@title \par
+    %   {\@title \par}%         Set title the same size as "FACULTY OF ..."
+      \ifx\@subtitle\@empty\else
+        \vskip 0.16 true in
+        \@subtitle
+      \fi
+      % changed to 0.16 by Marcos
+      \vskip 0.5 true in
+      by%
+      \vskip 0.16 true in
+      % remove tabular environment to get it aligned within
+      % bounding box ---calvin 2019-04-04
+      \@author\\*[.66 true in]%
+      %\rule{5.8 true in}{0.010 true in}
+      % remove the horizontal rule per Manuscript formatting guidelines
+      % ---calvin 2020-06-12
+      \par
+      \vskip 1.0 true in
+      % Added by Marcos
+    \end{doublespace}
+    %\singlespace
+      A Dissertation Presented to the\\%*[0.1 true in]%
+      FACULTY OF THE USC GRADUATE SCHOOL\\%*[0.1 true in]%
+      UNIVERSITY OF SOUTHERN CALIFORNIA\\%*[0.1 true in]%
+      In Partial Fulfillment of the\\%*[0.1 true in]%
+      Requirements for the Degree\\%*[0.1 true in]%
+      DOCTOR OF PHILOSOPHY\\%*[0.1 true in]%
+    %   \@majorfield
+      CINEMATIC ARTS (MEDIA ARTS AND PRACTICE)\\%*[1.0 true cm]%
+      %\vfill
+      \vskip 0.75 true in
+    %   \@submitdate
+      May 2024%   should be just month and year
+    \end{center}%
+    \par
+    \vfill
+          \noindent Copyright~ 2024 \hfill \@author
+  \end{titlepage}}
+
+
+% \newenvironment{preface}{%
+%   \newpage
+%   \pagenumbering{roman}%
+%   \pagestyle{empty}%
+%   \begin{singlespace}%
+%       \maketitle
+%       \setcounter{page}{1}%
+%       \addtocounter{page}{\@startpageA}% Advance page counter for (signature
+%                                     %   and) title.  At USC, the signature
+%  \newpage                              %   page is not counted!
+% %    \ifx\@volume\@empty\else % Add Volume ID to contents if present.
+% %      \addtocontents{toc}{\protect\contentsline{part}{\@volume}{}}%
+% %    \fi
+%   \end{singlespace}%
+%   \pagestyle{plain}}{%
+%   \newpage
+%   \pagenumbering{arabic}%
+%   \pagestyle{plain}%
+%   \setcounter{page}{\@startpageB}}
+
+
+
+%%% CONTENT %%%
+
+\begin{document}
+
+% \begin{preface}
+\newpage
+    \pagenumbering{roman}%
+    \pagestyle{empty}%
+    \begin{singlespace}%
+        \hypersetup{hidelinks}
+        \maketitle
+    \end{singlespace}
+\newpage
+\renewcommand{\contentsname}{Table of Contents}
+\setcounter{page}{1}
+        \tableofcontents
+        \listoffigures
+    \newpage
+    \pagenumbering{arabic}%
+    \pagestyle{plain}%
+    \setcounter{page}{\@startpageB}
+% \end{preface}
+
+% \chapter*{Abstract}
+% XYXYXYXYX This is the abstract.
+
+$body$
+
+\end{document}

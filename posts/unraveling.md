@@ -37,7 +37,7 @@ I like words for how they feel, and so this new feeling, this new feeding is per
 
 I won’t know until it pronounces for me, until it pronounces me. It pronounces me whole and I can't interrupt it — yielding to their language.
 
-*"[Not one of them: using words like race seems to amplify what makes you not fit, picking up what you are not.] Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point."* [@ahmedQueerUse2018]
+*"Not one of them: using words like race seems to amplify what makes you not fit, picking up what you are not. Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point."* [@ahmedQueerUse2018]
 
 Sure, who doesn’t love the fable of Ada at the loom, inventing programming? But the lines go further back, and wider. Other lineages calculate in ways we would not even recognize as computation. Soap bubbles, mushrooms, paper punch cards — all of these have been computers.
 

@@ -18,6 +18,8 @@ nav_order: 11
 >"Act so that there is no use in a centre." 
 ><footer>–Gertrude Stein</footer>
 
+<!-- >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012] -->
+
 ![Pipilotti Rist, MOCA 2021](../assets/img/pipi-room.jpg)
 
 Inside, the black box bursts with color. It’s a whole tiny world in there, a homunculus of meaning. A giant moon crashes into the bedroom and continues its orbit [@PipilottiRistBig]. Pipi screams silently, reaching up from the floor, where she sinks within her tiny television. The flames behind her never quite engulf her, as if to say, memelike: *This Is Fine.* 
@@ -108,23 +110,25 @@ The 'black box' first appears in W. Ross Ashby's book *An Introduction to Cybern
 
 In Ashby's other colorful examples of black boxes, an engineer examines a broken bomb sight, a small child learns to open a door, and an object "has just fallen from a Flying Saucer" [@ashbyIntroductionCybernetics1956]. Bombs, children, animals, and aliens become the proving grounds where current concepts of 'artificial intelligence' emerge. So much violence is built in to the black box from the start. Ashby says, "we have in fact been operating with Black Boxes all our lives," and, "real objects are in fact all Black Boxes" [@ashbyIntroductionCybernetics1956]. All I hear is trauma, trauma, trauma. Borders, borders, walls, walls.
 
-Are today's large models compounding 'memories' of past traumas? [Do they hallucinate new ones? The terms hallucinate, memory, trauma imply more agency than I'm ready to ascribe to these machines.]
+<!-- Are today's large models compounding 'memories' of past traumas? [Do they hallucinate new ones? The terms hallucinate, memory, trauma imply more agency than I'm ready to ascribe to these machines.] -->
 
 How does a model hold memory? I used to hold memory just like a black box: act on it, try not to know what's inside. 
 
-The first theft was ownership, and the first object of ownership was the body, say Fred Moten and Stefano Harney. "Ownership was a feedback loop. The more you own the more you own yourself." They say the enlightenment produced "a science of loss, which is to say the science of whiteness, or, logistics" [@harneyAllIncomplete2021]. Pipi, do you know this science? [Were you raised on it like I was?] Your wall of white objects assures that everything is clean, pinned, silent, plucked from its context. <!--[I was also raised on this science.]-->
+The first theft was ownership, and the first object of ownership was the body, say Fred Moten and Stefano Harney. "Ownership was a feedback loop. The more you own the more you own yourself." They say the enlightenment produced "a science of loss, which is to say the science of whiteness, or, logistics" [@harneyAllIncomplete2021]. Pipi, do you know this science? Were you raised on it like I was? Your wall of white objects assures that everything is clean, pinned, silent, plucked from its context. <!--[I was also raised on this science.]-->
 
 <!-- [arriving without/removed from its] context [without its routes]. -->
 <!-- Don't know it, don't use it; don't change, don't hurt.  -->
 <!-- Put it all in the black box. [Fred Moten and Stefano Harney on the legacies of [slavery-capital]:]  -->
 
-My father keeps everything so that he never loses anything. He never uses anything so that it never breaks. He says, "Don't own anything, then you won't have to move it." He means, "Don't love anything more than it loves you." His exact words are "The person who cares more loses." This is how I learned loss prevention. I learned early and it stuck. I learned it did not work, but I practice it anyway. He says, "Do as I say, not as I do." [But I don't.]
+My father keeps everything so that he never loses anything. He never uses anything so that it never breaks. He says, "Don't own anything, then you won't have to move it." He means, "Don't love anything more than it loves you." His exact words are "The person who cares more loses." This is how I learned loss prevention. I learned early and it stuck. I learned it did not work, but I practice it anyway. He says, "Do as I say, not as I do." But I don't.
 
-This is black box living, the refusal to know in any way that might know you back. I am trying to recode my[self/memory] to accept the risk of knowing, to accept its grief as a [marker] of having felt in full. Call this the difference between touching and holding. [Touching shares, holding clings. Touching undoes the body, loses the self (or the illusion there ever was one). Touching textures you back.]
+This is black box living, the refusal to know in any way that might know you back. 
+
+I am trying to accept the risk of knowing. Let grief be a marker of having known. Call this the difference between touching and holding. Touching shares, holding clings. Touching undoes the body, loses the self (or the illusion there ever was one). Touching textures you back.
 
 To make memory, take rubbings of surfaces. Press or rub one thing against another thing, and whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief. 
 
-[But rubbing also removes. In my [white cube] shower I rub the skin to remove the skin. So much sloughs off. So much refuses.]
+But rubbing also removes. My shower is a white cube where I rub the skin to remove the skin. So much sloughs off. So much refuses.
 
 The residual is what's left. Between a prediction (an expected result) and a prediction (a model's output) is error. Error is measured by various functions for 'loss'. These loss functions tell you how wrong you are, how far off your attempt. 
 
@@ -165,11 +169,25 @@ I had to enter the box and learn its codes, in order to create with it. In doing
 
 ===
 
-[How much [memory] loss is normal? When his hallucinations start, my father says he enjoys them and wants them to continue. He sees an orange setting sun and a giant orb of wires. He sees a large tapestry with tears that keep repairing. He doesn't mind.] 
+How much loss is normal? How do you recognize loss when it looks generative? Large models are said to hallucinate when they output incorrect information that sounds plausible. They recombine data in strange ways, like misremembering. The term 'hallucinate' sounds too human, implies too much agency[, even though someone who is hallucinating cannot help it either]. 
+>"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024]
 
-[When machine learning models hallucinate, it means they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements. [It is a very human thing to do, to be subjective, to suffer.] Making models not only repeats but amplifies the potentially hallucinatory data contained within their training material [@dziriOriginHallucinationsConversational2022]. When machine models hallucinate, it "creates outputs that are nonsensical or altogether inaccurate" guardrails, adversarial training, security concern, use filtering tools. "hallucination offers a novel approach to artistic creation" [ibm]] 
 
-[Hallucination is the wrong word, of course, too human. Who owns this process, this error, this loss of faculties? Who can repair it?]
+IBM says "hallucination offers a novel approach to artistic creation"
+
+
+<!-- [How much loss is normal? When his hallucinations start, my father says he [doesn't mind if they/enjoys them and wants them to] continue. He sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He doesn't mind.]  -->
+
+<!-- >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012] -->
+
+<!-- [When machine learning models hallucinate, it means they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements. [It is a very human thing to do, to be subjective, to suffer.] Making models not only repeats but amplifies the potentially hallucinatory data contained within their training material [@dziriOriginHallucinationsConversational2022]. When machine models hallucinate, it "creates outputs that are nonsensical or altogether inaccurate" Recommendations include guardrails, adversarial training, security concern, use filtering tools. "hallucination offers a novel approach to artistic creation" [ibm]]  -->
+
+<!-- [Hallucination is the wrong word, of course, too human. Who owns this process, this error, this loss of faculties? Who can repair it?] -->
+
+<!-- >"generating seemingly credible content that contradicts input data or established world knowledge, a phenomenon termed 'hallucination'" [@chenUnifiedHallucinationDetection2024] -->
+
+<!-- >"includes details, facts, or claims that are fictional, misleading, or entirely fabricated, rather than providing reliable and truthful information. This issue arises due to the model’s ability to generate plausible-sounding text based on patterns it has learned from its training data, even if the generated content does not align with reality." [@rawteSurveyHallucinationLarge2023] -->
+
 
 ===
 
@@ -179,16 +197,15 @@ Ashby sounds like an infomercial advertiser (specifically the [guy who slaps duc
 
 No facts yet exist — that's easy for him to say, when he's decided to assume from the start that nothing is known or can be. This is not fine. Pipi, can you please smash the window of this hot-boxed black box with a flower already? 
 
-Black boxes don't just say, "I don't know," they say, "I don't want to know." They use 'unknowability', which they declared rather than discovered, as justification not to investigate further. When I shortcut to the black box, I have the privilege to know something only by its interface. I choose the parts I want to interact with, the parts that are of use to me, the knobs I want to turn, the switches I want to flip, the parameters I want to adjust. I get to choose not to care about the [trauma] bits inside. [A false/unsustainable choice.]
+Black boxes don't just say, "I don't know," they say, "I don't want to know." They use 'unknowability', which they declared rather than discovered, as justification not to investigate further. When I shortcut to the black box, I have the privilege to know something only by its interface. I choose the parts I want to interact with, the parts that are of use to me, the knobs I want to turn, the switches I want to flip, the parameters I want to adjust. I get to choose not to care about the bits inside. This is an unsustainable choice. It ignores trauma and creates even more.
 
-Black box theory insists on unknowability as a way to instrumentalize. But it doesn't know the point is not [to prevent loss][, and even if it were]. [I cannot prevent loss and neither can you.]
-<!-- [the point is not the input or the output but the colorful rooms inside.]  -->
+Black box theory insists on unknowability as a way to instrumentalize. But it doesn't know the point is not to prevent loss. Even if it were — I cannot prevent loss and neither can you.
 
-Besides, there are far sweeter ways of unknowing. There is fizz and curiosity [and impact]. There is dovetailedness holding us together. [All the rage and color and quilting and smells in every box.] 
+Besides, there are far sweeter ways of knowing and unknowing. There is fizz and curiosity. There is dovetailedness holding us together. All the rage and color and quilting and texture inside.
 
 Pipi, your show is called, "Big heartedness, be my neighbor." I like that you don't place claims. When you could have asked 'be mine', you ask only to be nearby [@PipilottiRistBig].
 
-I can insist on another's unknowability and stay near it. I can let it texture me. I [cannot prevent loss, but we] can write other functions. 
+I can insist on another's unknowability and stay near [them/it][, not define it or deny it]. I can let it texture me. I can write other functions. 
 
 ===
 

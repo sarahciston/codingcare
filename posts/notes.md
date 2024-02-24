@@ -12,6 +12,45 @@ tags: [notes, progress, misc, journal]
 <!-- notes on research in progress -->
 <!-- # {{ page.title }} -->
 
+### 22 feb 24
+
+#### My questions for committee
+
+- Where sections might travel, how to make intro stand alone, how to grow conclusion?
+- Setting myself up for interdisciplinary work with more techncial connections but still artistic bent going forward, create lab spaces
+- 
+
+#### interdisciplinarity
+
+Interdisciplinarity is equally important to, and intertwined with, intersectionality. It is a way of inviting open, moving among, drawing connection — a multipronged effort of understanding and imagination that is necessary to confront urgent sociotechnical concerns. Creatively it is the generative energy, the challenge as well as the 
+
+#### how the different forms come together
+
+Each speaks of a different part of the 'pipeline' or the broader sociotechncial system. Coding.Care at the point of engaging outsider audiences to imagine different systems, at the point of software writing. Datasets Field Guide at the point of the dataset in use. Intersectional AI Toolkit at the point of understanding models and agents and systems as a whole. 
+
+Each also intervenes in a different form. CC captures the spirit of a community through broad recommendations meant to inspire. The Field Guide is an instruction manual. The Toolkit zines document synchronous workshops and the digital wiki collects contextual topical resources. 
+
+Together they are all pedagogical objects, teaching tools, but also conversation starters and invitations to engage across community barriers. 
+
+Ideally written with, not only for, these communities, based in the belief that common modes of expression are possible and that no information or tech should be off limits, it places these different modes together to continue that process, give different folks something to grab ono.
+
+The same info needs to be expressed in different ways to reach others; also can't always be got at through just any form. What can lyric essay say about sociotechncial systems that so-called scholarly writing cannot.
+
+#### defining feminism(s)
+
+#### defining critical AI
+
+#### defining creative–critical coding
+
+Catherine's reflective/reflexive software
+
+
+
+#### TT to artists
+#### TT to technologists
+#### TT to social scientists
+#### TT to activists, humanist scholars, policy makers 
+
 ### 18 feb 24
 
 A note on design: Reformatting the website, it's slightly less cute, perhaps, but it allows for several things to happen with the interface and with the behind the scenes simplicity and flexibility. 

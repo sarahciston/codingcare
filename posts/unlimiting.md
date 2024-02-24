@@ -40,7 +40,7 @@ Make your arms the width of the room. We are ships in bottles. We are messages, 
 
 The room becomes a body and the body becomes a room we live inside.
 
-I always say "the" body instead of "my" body, as if the body is a thing I can keep away from myself. But "I am in here"[^Wallace] in this achy thing, and it is my job to keep it away from everyone but myself. It keeps being positive but I am not. 
+I always say "the" body instead of "my" body, as if the body is a thing I can keep away from myself. But it's me in this achy thing, and it is my job to keep it away from everyone but myself. It keeps being positive but I am not. 
 
 Listen. Slow scratch, endless, intermittent, insistent. Rebecca, how do you expand to fill the space, so willing to trap yourself? You are pterodexterous. You articulate. Body stiffened into a wooden cyborg catwalk, you fully unfold, extend, walk the line. 
 

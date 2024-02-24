@@ -21,7 +21,6 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 <!-- * toclist -->
 <!-- {:toc} -->
 
-
 >"Any meeting or gathering is a place to practice the future together in the most tangible ways."
 ><footer>–adrienne maree brown [-@brownHoldingChange2021]</footer>
 
@@ -514,6 +513,8 @@ And if you came to coding, or crafting or anything else, by an alternate path �
 >"Many people, trying to get their hands to do what directions tell them, give up in frustration saying they 'don't have the patience' or are 'too clumsy to do that.' I'm always sorry when I hear that. I know hands are endlessly capable of wonderful feats, but they need patience and encouragement."
 ><footer>–Anna Zilboorg, *Knitting for Anarchists* [–@zilboorgKnittingAnarchistsWhat2015]</footer>
 
+>"the day-to-day experience of a programmer is that code seems to resist what you want to do with it. Writing software involves constant small adjustments, as you type one thing, find out that it doesn’t work, try something else, realise that the whole idea was wrong, take a different approach, and so on. Sometimes coding seems more like carving a piece of wood, where the chisel cuts smoothly for a while before suddenly hitting a hidden knot or a change in the grain, jerking and splitting in an unexpected direction."
+><footer>–Alan Blackwell, *Moral Codes* [-@blackwellMoralCodes2024]</footer>
 
 [Back to Table of Contents](#top)
 

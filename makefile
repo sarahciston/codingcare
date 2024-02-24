@@ -2,7 +2,7 @@ source := posts
 outputhtml := docs
 outputpdf := assets/pdf
 SOURCES := posts/$(wildcard *.md)
-PDF_TEMPLATE = zine.tex # zine.tex draft.tex
+PDF_TEMPLATE = disscustom.tex # zine.tex draft.tex disscustom.tex diss.tex
 HTML_TEMPLATE = tufte.html5 # tufte.html
 
 
@@ -18,14 +18,16 @@ HTML_TEMPLATE = tufte.html5 # tufte.html
 PDF_FLAGS = \
 		-s -f markdown+rebase_relative_paths \
 		-t pdf \
-	 	--pdf-engine=lualatex \
-		--toc \
-		--bibliography=posts/includes/bibliography.json \
-		--citeproc \
+		--toc --toc-depth=1 \
+		--pdf-engine=lualatex \
 		--template=latex/$(PDF_TEMPLATE) \
-		# --toc-depth=3 
+		--bibliography=posts/includes/bibliography.json 
+		
+# --citeproc
 
+# --toc-depth=3 
 # $(SOURCES) \ -o $(OUTPUT) 
+
 
 HTML_FLAGS = \
 		--section-divs \
