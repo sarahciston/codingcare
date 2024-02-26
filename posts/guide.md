@@ -50,7 +50,8 @@ My own first experiences learning to code felt *awful*. Lonely. Discouraging. Co
 
 I wish I had known then that learning to code didn't have to feel like getting stuck. It didn't have to feel like I was fitting myself into someone else's stencil shape of a stereotypical engineer. I wish I had known that learning to code could feel like this:
 
-![Freddie Mercury](../assets/img/freddie.gif)
+<!-- ![Freddie Mercury](../assets/img/freddie-dance.gif) -->
+![Freddie Mercury singing Queen's "Don't Stop Me Now"](../assets/img/freddie-dontstop.gif)
 
 Coding has helped me feel powerful and imaginative, sometimes even unstoppable. I learned (eventually, through trial and error)(and error and error) that coding can be fun — even playful, relaxed, welcoming. It can be creative, thoughtful, crafty. 
 
@@ -70,15 +71,16 @@ This guidebook wants to enrich the rituals of programming to include the joy, co
 
 I continually see new community members who thought they hated code keep returning to our meetups. I see them start referring to themselves as coders, see them share projects that express a distinctive critical voice. This keeps reminding me the importance of open, welcoming communities that provide intersectional, interdisciplinary learning. And it reminds me the impacts our communities can have on how we understand the code-based systems around us.
 
-
 ## Code isn't magic, but we are
 
 >"No way, code is magic." 
 ><footer>–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab</footer>
 
+![](../assets/img/omfd-favorite.gif)
+
 I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, this so-called 'magic' does not come from men behind the curtains of big tech, hiding the keys while offering the hype of AI which says, "trust us, this this tech is too complicated for you," or "just learn this tech our way." Automated systems have always been deeply intertwined with humans in every way, from 'mechanical Turks' to crowd labor outsourced to the global majority. Not quite magic, just us. 
 
-* How do we bring our [power] to the systems we want to affect? 
+* How do we bring our power to the systems we want to affect? 
 * How do we change systems to suit us if we are stuck outside them – without conforming to their encoded ways of thinking? 
 * How can we build communities that facilitate alternatives? 
 
@@ -108,7 +110,7 @@ Many of the things we do to sustain supportive communities seem too obvious to m
 
 It is not one gesture or one moment, but their accumulation. Each thing we have done intentionally, and unintentionally, adds up to *us*. To collect, to gather, to hoard like magpies. To embrace fascination with the shiny objects even when we don't yet know their purpose. To trust their meaning in our gut. To trust connections with other people. To rely on each other, to reconnect again and again, over the smallest things. To be vulnerable in shared struggle, shared silliness, shared delight. 
 
-## Man(ifest)ual (manualifesto) & what this pocket guide isn't
+## Man(ifest)ual? What this pocket guide isn't
 
 This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says, "a manifesto is only ever a document that reaches too far, that speculates too impossibly, and that the only use a manifesto can have is to lay bare why it cannot be manifested, to open itself to all the ways its un-manifestation shapes the world" [-@hedvaWhyItTaking2022] – yet here I document what we've actually put in the world, alongside what we hope to. Code Collective exists because I believe it is incredibly easy to have communities like this, and I am not the only one. Like code itself, and Code Collective, this guide strives to bring the "impossible" into the "real world" now – as a proposition toward how it can be entirely possible, present, liveable, and thriving. Anarchists call this "prefiguration" but we can just call it fun. And so the pocket guide exists somewhere between a manifesto and a manual. Make of it what you will; I hope you do!
 
@@ -168,13 +170,15 @@ Sometimes you just have to call the project done, or this phase of it done, beca
 
 That's the trouble with having a life's work. *Amirite*?
 
-## Build it together, expand definitions
+![](../assets/img/ofmd-feedback.gif)
+
+## Build it together, whatever 'it' is
 
 There are so many different outcomes and approaches possible for any technical challenge. By spending time with others, especially with different perspectives, we get to see how they might approach the same problem vastly differently. Even with the exact same concept, one person might implement it through a commercial product while another might implement it as an expressive artwork.
 
 Working among others helps us continually question and expand our definitions. Along the way, you could each tackle similar troubleshooting issues in lines of code, but perhaps you would answer the questions that arise very differently based on your own goals. It helps to expand the spectrum of what one could make or invent, as a way to get out of our default modes and expectations for ourselves.
 
-Designing the online presence for Code Collective has been an ongoing collaboration. Through the (perhaps menial but important) work of creating a seemingly simple site, we had to confront and create our collective identity very practically. We get to decide the tone of who we are as a group, how we will present ourselves, and to which publics: How do we describe what we are doing, what we prioritize, what we call ourselves, how we explain our processes, how we support others who join? What format do we put this in? What language do we use? Who do we make sure is included in this process?
+Designing the online presence for Code Collective has been an ongoing collaboration. Through the simple but important work of creating a website, for example, we had to confront and create our collective identity very practically. We got to decide the tone of who we are as a group, how we will present ourselves, and to which publics: How do we describe what we are doing, what we prioritize, what we call ourselves, how we explain our processes, how we support others who join? What format do we put this in? What language do we use? Who do we make sure is included in this process?
 
 Through this process of communication and collaboration among the group members about who we are and what we want to offer, the Code Collective website has expanded from a static landing page into a unique resource hub and project showcase – with a searchable, contributable database of tools, tutorials, research, and projects we have found useful. 
 
@@ -219,6 +223,8 @@ Code Collective endorses `scrappy artistic strategies, not perfect code`. We lov
 We echo the call from the P5.js community statement, which warns against "code snobs" and assuming or prioritizing types of knowledge.[^p5] There is no programming language empirically better than any other; there's only the right tool for a particular task, for a particular person, at a particular point in time. It's totally fine to rely on code libraries and examples and the wisdom of those who came before you. Who doesn't!? We will always be reliant on collected and collective knowledge. 
 
 Don't wait until you know you'll do it "perfectly" (or read the whole book, or taken the whole course) before you get started. Half the fun is in adapting unexpected outcomes into your process. Making and learning are reciprocal activities, a mobius strip of embodied knowledge. 
+
+![](../assets/img/omfd-catflag.gif)
 
 ## Don't be afraid to break stuff (you can't *really* break it)
 
@@ -306,9 +312,14 @@ Fundamentally, even if you're not looking for deeper meanings in the code, actua
 
 <div class="box live-code" markdown="1">
 
-## LIVE CODE: Go slow, be of service (transfeminist servers)
+## LIVE CODE: Go slow, be of service
 
-I have learned from many communities building transfeminist infrastructures that slow and embodied and connected "art that surfaces the hitherto invisible labor of service, care, and maintenance" has a place in coding communities as both a practical tool and a critique of institutions.[^Kleesattel] By modeling slower, more communal practices around these essential services, community and transfeminist server networks and collectives like Constant, Lurk, Rosa, [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html)[XXXmakelinks], and others [XXX add Argentine servers] show how the maintenance of tools and materials (whether for internet services or any mutual aid) are essential forms of labor that can express power differently [XXXexplain/unpack?]. They can be careful and caring, or they can be consolidating and constrictive. They ask us to think about the precarious bodies (individual and connected) that rely on them. "A Wishlist for Trans\*feminist Servers" (continuously updated and retitled since 2014), lays out some of the objectives of this kind of caring codework. Trans\*feminist Servers...
+>"any infrastructure you need to set up from scratch, it's slow, and then it goes faster, it accelerates at one stage, I don't know why, I guess that you need to build the structure, the infrastructure that is going to be sustaining everything. [...] And when you build a project that is based on informal and volunteer work, to maintain an infrastructure, things are gonna be slow, because yeah, we are all feminists. So we are very busy. We are struggling in different fights that are sometimes death and life important. And of course, like being able to learn to administrate services or host contents, maybe is not always the first thing in our list."  
+><footer>–[@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]</footer>
+
+Many communities are building what they call transfeminist infrastructures that highlight the labors of service, maintenance, and care that all infrastructures require [@kleesattelSituatedAestheticsRelational2021]. These transfeminist practices have a key place in coding communities as both practical tools and as critiques of institutions. By modeling slower, embodied, more connected and communal practices around these essential services, transfeminist server networks and collectives like [Anarchaserver](https://anarchaserver.org/), [Constant](https://constantvzw.org/), [Lurk](https://lurk.org/), [subRosa](http://home.refugia.net/), [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html), and others show how the maintenance of tools and materials (whether for internet services or any mutual aid) are essential forms of labor that can express power differently, by means of expressing and embodying values differently. They show that technologies can be careful and caring, or they can be consolidating and constrictive. They ask us to think about the precarious bodies (individual and connected) that rely on them. 
+
+"A Wishlist for Trans\*feminist Servers" (continuously updated and retitled since 2014), lays out some of the objectives of this kind of caring codework. Trans\*feminist Servers...
 
 >"... radically question the conditions for serving and service; they experiment with changing client-server, user-device and guest-host-ghost relations where they can. Who is serving whom? Who is serving what? What is serving whom? Are they being served?"
 
@@ -316,22 +327,22 @@ I have learned from many communities building transfeminist infrastructures that
 
 >"... reject generalized definitions of efficiency, efficacy, ease-of-use, transparency, scalability, accessibility, inclusion, optimization and immediacy because they are often traps."
 
->>– ["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) @WishlistTransFeminist
+>><footer>–["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) [-@WishlistTransFeminist]</footer>
 
-[^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021
+Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) [@TraversalNetworkFeminista] 
 
-Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) @TraversalNetworkFeminista 
-
->"any infrastructure you need to set up from scratch, it's slow, and then it becomes like, it goes faster, it accelerates at one stage, I don't know why, I guess that you need to build the structure, the infrastructure that is going to be sustaining everything. And when you are figuring how to build it, or what is the better ways when things are slower. [...] And when you build a project that is based on informal and volunteer work, to maintain an infrastructure, things are gonna be slow, because yeah, we are all feminists. So we are very busy. We are struggling in different fights that are sometimes death and life important. And of course, like being able to learn to administrate services or host contents, maybe is not always the first thing in our list."  – [@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]
+<!-- [^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021 -->
 
 </div>
 
 # 3. We get vulnerable
 
+![](../assets/img/ofmd-vulnerable.gif)
+
 ## Plan to unplan, plan to be awkward
 
 >"I do not expect students to take any risks that I would not take, to share in any way that I would not share."
-><footer>–bell hooks [-@hooksTeachingTransgressEducation1994]</footer>
+><footer>–bell hooks, *Teaching to Transgress* [-@hooksTeachingTransgressEducation1994]</footer>
 
 Even, and especially, as leaders and teachers we must get vulnerable about our craft. Our bravery makes space for others to be brave. We can connect with each other around areas of concern, taking comfort that someone else has already worried the very same thing. Rather than showing a veneer of know-it-all authority (which is often quite thin), sets up both a one-directional hierarchy of exchange and an impossible standard for students other community members to meet. It shows them a person who "already knows" but it doesn't show them how to get there. 
 
@@ -368,6 +379,8 @@ So-called stupid questions help us all unpack what we consider assumed knowledge
 
 >"Any nitwit can understand computers, and many do. Unfortunately, due to ridiculous historical circumstances, computers have been made a mystery to most of the world. And this situation does not seem to be improving. You hear more and more about computers, but to most people it's just one big blur. The people who know about computers often seem unwilling to explain things or answer your questions. Stereotyped notions develop about computers operating in fixed ways — and so confusion increases. The chasm between laymen and computer people widens fast and dangerously. [...] Most of what is written about computers for the layman is either unreadable or silly." 
 ><footer>–Ted Nelson, creator of hypertext, "Computer Lib/Dream Machine" [-@nelsonComputerLibDream1974]</footer>
+
+![](../assets/img/ofmd-fire.gif)
 
 ## Troubleshoot together
 
@@ -444,6 +457,8 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 # 4. We get weird
 
+![](../assets/img/ofmd-fnweird.gif)
+
 ## Move toward the weird
 
 Don't be afraid to get weird together. 
@@ -471,19 +486,22 @@ GIFs, TikTok dances, whatever's your thing... What brings a smile to your face a
 
 ## Adopt mascots 
 
-Our mascots are magpies and meme cats, clever and crafty animals fascinated with hoarding shiny objects, capable of using tools and causing a little trouble. We look to jellyfish and labyrinths for their translucent flexibility, their decentralized nervous systems, their twisty turny mystery and ability to go deep. 
+Our mascots are magpies and meme cats, clever and crafty animals fascinated with hoarding shiny objects, capable of using tools and causing a little trouble. We look to jellyfish for their translucent flexibility, their decentralized nervous systems, their twisty turny mystery and ability to go deep. 
 
-Our other, unofficial mascots are the queer misfit pirates from the TV show *Our Flag Means Death*. They support and champion each other, do projects together, explore identity, figure out their career goals, and fumble new skills while going on adventures. Like them, we are a rag-tag troupe, a dead poets' society, a secret laboratory, a not-so-secret guild.
+Our other, unofficial mascots are the queer misfit pirates from the TV show *Our Flag Means Death*. They support and champion each other, do projects together, explore their identities, figure out their career goals, and fumble new skills while going on adventures. Like them, we are a rag-tag troupe, a dead poets' society, a not-so-secret guild, and a mad scientist's laboratory all wrapped together.
 
-These both embody the vibe of our group and remind us to enjoy that vibe too. These remind me of [Pirate Care](https://syllabus.pirate.care/), a group whose syllabus theorizes care in relation to piracy and other legal gray zones. They argue that "Caring labour needs full access to resources, knowledge, tools and technologies. When these are taken away, we must claim them back."
+These the vibe of our group and remind us to enjoy that vibe too. These remind me of [Pirate Care](https://syllabus.pirate.care/), a group whose syllabus theorizes care in relation to piracy and other legal gray zones. They argue that 
 
-What would you adopt as your mascot or icon? What's the first person, place, thing, or idea that comes to mind? 
+>"Caring labour needs full access to resources, knowledge, tools and technologies. When these are taken away, we must claim them back." 
+><footer>–[@PirateCare]</footer>
 
-What vocabulary do you use to describe its structure: Is it a secret society? A collaboratory? An elicit escape? Find ways to make your organization feel more fun than yet another meeting on your calendar.
+What would you adopt as your own mascot or icon? What's the first person, place, thing, or idea that comes to mind? Or, if you struggle with that, what's the last thing that comes to mind? What would you not want to be associated with? 
+
+What vocabulary do you use to describe your community's structure and ways of working: Is it a secret society? A collaboratory? An elicit escape? Find ways to make your organization feel fun, rather than yet another meeting on your calendar.
 
 ## Encourage enthusiasm
 
-You don't have to *mandate* enthusiasm, but we like the approach of conferences like [bang bang con](https://bangbangcon.com/) that set a baseline of exclamations for everything, rather than needing to censor ourselves. They welcome joyful contributions, and it shows in the passion their presenters bring to their talks. So. Does my email have too many exclamation points, emoji, and gifs? Probably, but so what? Is my terminal absolutely adorable? Heck yeah. 
+You don't have to *mandate* enthusiasm, but I like the approach of conferences like [bang bang con](https://bangbangcon.com/) that set a baseline of exclamations for everything, rather than needing to censor ourselves. They welcome joyful contributions, and it shows in the passion their presenters bring to their talks. So, does my email have too many exclamation points, emoji, and gifs? Probably, but so what? Is my terminal absolutely adorable? Heck yeah. (Psst you can restyle all your coding environments to look however you want! Make your coding life a place of joy, because why not?)
 
 >"The terminal is cute. It's important to have a good relationship with your terminal." 
 ><footer>—Ada Toydemir, they/them, USC Computer Science<footer>
@@ -494,6 +512,7 @@ You don't have to *mandate* enthusiasm, but we like the approach of conferences 
 ## Do it your own way
 
 <!-- [XXXmore] -->
+![](../assets/img/freddie-speak.gif)
 
 >"This may be the best way for some. If you try, you’ll likely find something different that will work best for you."
 ><footer>–Anna Zilboorg, *Knitting for Anarchists* [–@zilboorgKnittingAnarchistsWhat2015]</footer>
@@ -524,18 +543,24 @@ And if you came to coding, or crafting or anything else, by an alternate path �
 
 ## LIVE CODE: Curate chaos
 
-Chaos Camp
+![Chaos Communication Camp, 2023](../assets/img/chaos1.jpg)
+
+Every four years, at the height of summer, tens of thousands of coders and hackers gather at a decommissioned brickworks yard in northern Germany. For a week straight, they camp together and code together in "a relaxed atmosphere for free exchange of technical, social, and political ideas." There is no other set objective, but to reconnect over what they love. [Chaos Communication Camp](https://media.ccc.de/b/conferences/camp/2023) has happened since 1999, as an outgrowth of the European hacker association [Chaos Computer Club](https://www.ccc.de/en/club) which formed in 1981 as a decentralized community. 
+
+When I attended the camp in 2023, I was not prepared for the expansive, welcoming, playful community I joined. Imagine Burning Man with more computers (and no helicopters or sand or big wigs). Groups self-organized into villages, bringing in their own infrastructure and building it up from scratch, decorating them into themed spaces with lots of glow lights and services. Along with the scheduled performances and talks, impromptu events happened all hours, and trade economies proliferated. The portapotties which dotted the landscape every few meters were not toilets but data hubs. Soldering, lockpicking, osint, and many other skills were on offer. There was a postal service and a nightclub, both diligently operated by volunteers. Kids made robots, adults poured beer, we all danced in the rain. 
+
+Although this event was of course about software and hardware, it was also more than anything about turning our collective energy toward communal resource sharing. I was reminded again and again of the Code Collective ethos "We all have something to teach each other" and wished I had known about Chaos Camp's scrappy artistic approach when I started our collective. 
+
+You can get a sense of the variety of [official offerings at Chaos gatherings](https://media.ccc.de/), incluing talks on a very wide range of topics from past camps and congresses going back 30 years (EN, DE, ES). 
+
+![Chaos Communication Camp, 2023](../assets/img/chaos2.jpg)
 
 </div>
 
 # 5. We all have skills to teach each other
 
-<p class='quote'>
-"There must be an ongoing recognition that [...] everyone contributes. These contributions are resources." 
-</p>
-<p class='quote attrib'>
-–bell hooks, *Teaching to Transgress*
-</p>
+>"There must be an ongoing recognition that [...] everyone contributes. These contributions are resources." 
+><footer>–bell hooks, *Teaching to Transgress* [-@hooksTeachingTransgressEducation1994]</footer>
 
 ## Remember what you already know
 
@@ -544,6 +569,8 @@ Tell us something you know about! Tell us something you'd like to learn!
 Each of us already knows A LOT. Trust that you have a lot to contribute, even if you are arriving as a "n00b" (newbie) who has never touched code before (see [Ask 'stupid' questions](#ask-stupid-questions-psst-there-are-no-stupid-questions)). 
 
 Try not to be intimidated that you're showing up to a space where everyone else will "know more than you." Even if you don't know how to make the thing you've come to learn about, you have experience in plenty of other things. You can apply your life experience and knowledge to support other people with what they want to learn. And you can bring that experience to bear on your project and how you learn it. 
+
+![](../assets/img/ofmd-double.gif)
 
 ## Swap skills, look for overlaps
 
@@ -567,6 +594,8 @@ A *fantastic* example of this is cypress evelyn masso's 'code recipe' "How to co
 ><footer>–Tia Kemp, she/her, USC Media Arts + Practice</footer>
 
 Take heart if you don't feel like you're really a coder. Many of my favorite computer scientists and professional programmers have told me they don't either! There may never be a time when you reach the feeling of proper expertise or authority in your field, but the secret is that this is not the secret to competency. Those people walking around like they know what they're doing? Adulting? Ha! They probably don't know either. 
+
+![](../assets/img/ofmd-cute.gif)
 
 And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced [@AlwaysalreadyprogrammingMd]. We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
 
@@ -682,25 +711,23 @@ What kinds of hierarchies exist? There may be obvious ones, if your community is
 How do we acknowledge them? 
 
 * Not assuming defaults when you speak, when you plan and organize, when you host events, when you write code.
-* A bit of structure helps. Codes of conduct or community agreements provide understandings around the way we conduct our conversations and other interactions (see Section [8]). [XXX]
+* A bit of structure helps. Codes of conduct or community agreements provide understandings around the way we conduct our conversations and other interactions (see [Section 10: LIVE CODE: Write your values](#live-code-write-your-values-imagine-your-community)).
 * Building routines and other structures that establish balance and equal access to resources, like the opening check-ins discussed in Section 8 that make sure everyone has an opportunity to share. 
 
-[The practices we learn in casual community [can/could/might] help us reshape formal communities as well.]
-
-In tech communities, a myth of equal access to digital resources and DIY materials led many to propose that makerspaces and hacklabs could be egalitarian spaces. Communications professor and open-source community researcher Christina Dunbar-Hester has shown how promoting 'free speech and diversity' through no-holds-barred approaches actually ends up reinforcing existing power imbalances. In open-source coding communities and hackerspaces, this has led to women and people of color moving on from these spaces to create their own communities instead [@dunbar-hesterHackingDiversityPolitics2019].
+In tech communities, a myth of equal access to digital resources and DIY materials led many to propose that makerspaces and hacklabs could be egalitarian, freeform spaces. Communications professor and open-source community researcher Christina Dunbar-Hester has shown how approaches that promoted open-ended free speech and diversity without guidelines actually ended up reinforcing existing power imbalances. In open-source coding communities and hackerspaces, this led to marginalized people moving on from these spaces to create their own communities instead [@dunbar-hesterHackingDiversityPolitics2019].
 
 While these spaces may seem apart from "big tech" and thus have more opportunity to be free of its problems, Dunbar-Hester found they still suffered the same pitfalls as larger institutions. Their informal structures, mostly run through volunteers, struggled to welcome new, dissimilar membership and viewpoints and critical self-reflection.
 
 >"the potential for differences in how participants are located within the community—there are multiple 'classes' within the wider open-technology community—and holds that CoCs [Codes of Conduct] may do some work to raise awareness and empathy levels about these differing backgrounds and experiences." 
 ><footer>–Christina Dunbar-Hester [-@dunbar-hesterHackingDiversityPolitics2019]</footer>
  
-<!-- [XXX][more about hackerspaces vs corporate spaces here and what they can/but don't/do?][or does this go in intro] -->
+Rather than thinking we are above others mistakes, thereyb repeating them, we can acknowledge and address difference and power, and hopefully begin to build better practices in the communities we form. As we all move across multiple communities, this may also help reshape more rigid, formal, or corporate communities as well. 
 
 ## See differences as potentials
 
 Aligned in our interest in coding, we see our many differences as strengths and opportunities to learn from one another. I am committed to interdisciplinary, intersectional, iterative making. I make sure this is embedded in my artistic practice and my own work; and I hope it extends into our gatherings by how we show up. We including workshops and research discusses on algorithmic bias and other issues in computation that affect bodies in relationship to technology unequally. We focus on how to "read" tools and technologies we use and make from different perspectives. 
 
-Sometimes these values are explicitly stated. At other times, such language can be off-putting to audiences who might otherwise want to participate and would gain from the ideas that language describes. It's not always necessary to use the terms "intersectionality" or "anti-racism" or "queer theory" — we can continue enacting these ideas through our selection of tools, programming languages, social gestures, and more. 
+Sometimes these values are explicitly stated. At other times, such language can be off-putting to audiences who might otherwise want to participate and would gain from the ideas that language describes. It's not always necessary to use the terms "intersectionality" or "queer theory" — we can continue enacting these ideas through our selection of tools, programming languages, social gestures, and more. 
 
 ## Meet folks where they are
 
@@ -711,7 +738,7 @@ Sometimes these values are explicitly stated. At other times, such language can 
 
 Just as it's not always necessary to explain complex digital systems in highly technical terms, or critical theory in highly academic terms, we can use plain language to include as many interdisciplinary communities in the topics of our conversation as possible. 
 
-This is not only about meeting people at their skill level (which we absolutely want to do), but also about meeting them at their interest level and topic of choice. In any conversation, accept that it is not your job to change someone else's focus or opinion, especially about their own work. Practice giving feedback that is a value-neutral description of what you see in their work, rather than what's 'good' or 'bad', or what you like or dislike (Springer 2015). This can often be the most helpful feedback, as it reflects back to the creator how it is received by an audience and leaves to them whether it meets their goals. 
+Jus as we want to meet people at their skill level, we also want to meet them at their interest level and topic of choice. Accept that it is not your job to change someone else's focus or opinion, especially about their own work. Practice giving feedback that is a value-neutral description of what you see in their work, rather than what's 'good' or 'bad', or what you like or dislike [@springerSyllabusENGL8A2015]. This can often be the most helpful feedback, as it reflects back to the creator how it is received by an audience and leaves to them whether it meets their goals. 
 
 I may not relate to their approach or their aesthetic — or their politics! But I still *try* to start by understanding what they want to make and why.[^baseline] I do ask questions intended to challenge those approaches and aesthetics (and sometimes politics), but my goal is not to change their mind or make them do it 'my' way. My goal is to make space for them to see options they might not have considered, and to help them explore the options they choose in mindful ways. 
 
@@ -742,6 +769,8 @@ What we can form also depends on the capabilities of the tools we use — the pr
 
 ## Value many forms
 
+![](../assets/img/ofmd-fanfiction.gif)
+
 Our format continues to prove wildly transformable to hold what we need it to, through online meetups during pandemic lockdowns to hybrid meetups on multiple platforms. I try to allow the group to shapeshift as necessary, for what benefits its current membership, without getting too attached to any particular version. 
 
 >"Writing elegant code requires all of the same components as crafting. There is absolutely skill, sophisticated technique, and technical knowledge required to be successful in the field. In both cases, we are using our hands and our brains to create something for others to enjoy. When thinking about code as a craft, we can look to the crafting community for ways to improve our industry." 
@@ -763,8 +792,6 @@ Finally, book-making and open-source coding ethoses overlap in the [Open Source 
 >"Newsletters were a kind of connective tissue that made readers aware of the larger information infrastructure lesbian feminists were building. [...] the network idea animated the newsletter’s communicative functions [...] "a lesbian-feminist mode of networking animates small-scale newsletters that draw on the language and practice of networking. These newsletters were published between the early 1970s and the mid 1990s,"
 ><footer>–Caitlin McKinney [-@mckinneyInformationActivismQueer2020]</footer>
 
-[XXX][add something about technocraft?]
-
 Art historian Daniel Fountain says, "the practice of *crafting,* is an essential part of queer-feminist survival." He calls it a way of doing and being, instead of fixed objects or skillsets, and shows how handcraft has been used for queer worldmaking and community building [-@fountainSurvivalKnittestCraft2021]. Zandy Peters' `Knit Boldly` philosophy focuses on expression and growth. He emphasizes three ideas that also apply to coding: 
 
 * "You can knit anything"
@@ -772,6 +799,12 @@ Art historian Daniel Fountain says, "the practice of *crafting,* is an essential
 * "If you like it, it's right"
 
 By meeting each other where we are and valuing what each person can contribute to others' knowledge, we move toward better and more diverse computational systems, and more generous, generative communities.
+
+By applying what we understand about analog practices like crafting — from slow and accumlating progress, learning from elders, making sustainably, repairing and reusing materials, handwork and attention — what changes about our relationships to digital practices and techologies? 
+
+For more on these questions, see [Trans\*formative TechnoCraft](https://coding.care/critintro.html)
+
+<!-- [XXX][add something about technocraft?] -->
 
 [Back to Table of Contents](#top)
 
@@ -867,7 +900,7 @@ Why do you make things? What questions do you want to explore?
 
 `All making is a research question.` 
 
-## Cultivate many 'Why Not's
+## Cultivate many 'Why Nots'
 
 Critical engagement means asking 'why not' as well as 'why'. 
 
@@ -902,6 +935,8 @@ Try this activity with a partner and talk through your answers together. You mig
 
 # 8. We create rituals
 
+![](../assets/img/ofmd-crew.gif)
+
 ## Create rituals together
 
 >"It is more like a French salon where it's like, 'let's like hang out eat, and talk about code.' [...] but it's of consequence in these meetings. People do make huge strides in their projects, or solve crazy problems."
@@ -913,14 +948,6 @@ These practices literally *make* the space we have together. These repetitions c
 
 The examples I offer here are often in flux as the temperaments and conditions of our members change. Often they start by accident and then codify (code-ify!) into patterns we keep. They may seem like they have nothing at all to do with coding. Don't worry, the coding will happen. First, we focus on creating ways of being together. We balance the acknowledgment of our common humanity alongside our unique perspectives. We mark the specialness of contact and connection. With this as our steady base, it's then easy to help folks engage topics they care about — including coding. Try some of these, and adjust until you find what works for you!
 
-## Create [boundaries/guidelines] together
-
-[XXX][write about work with p5.js and developing code of conduct?]
-
-[appendix:CCCcommunityvalues]
-
-<!-- [//]: # "does this go in section 6 above?" -->
-
 ## Meet regularly
 
 Meet weekly if possible, in person if possible, and accommodate what's not always possible. Aim for consistency and flexibility through a mix of in-person meetings and online connection if possible. Stay flexible to the impossible and know you'll get back to it later. Like old friends you can pick up with after an indeterminate amount of time, no questions asked. Or old code that needs a break from you after troubleshooting for too long. Trust that you can come back together, without pressure or resentment or guilt. It's not meant to be another obligation on the calendar, but a reprieve. 
@@ -931,7 +958,7 @@ We've been lucky to have space to be self-selecting participants, figuring out w
 
 Still, it's possible to incorporate some of these approaches in a required classroom setting or work environment too. Or if you don't have a space, you can start with an online forum only. 
 
-## [Vibe check / Ask after each other]
+## Ask after each other
 
 ![This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings.](../assets/img/guestbookloom.png)
 
@@ -941,7 +968,7 @@ Start with a round of check-ins: *What are you making? What are you into right n
 
 We are pretty free-form, but one of our adopted structures has been to open with a ritual of checking in on each other, asking what we are working on and thinking about. That short process often guides the rest of our weekly agenda. It's a quick moment to take the temperature of the group, to find out what code questions need investigating or troubleshooting (or what life questions too). 
 
-Call it Round Robin, Show and Tell, or Council Method — some version of an opening gesture for gathering helps to acknowledge each person, and it gives them a couple of minutes to share anything they want to share today. You could make it very abstract or metaphorical as a warmup, like "What's your internal weather report? And what's your code project's weather report?" Or it could be quite literal: "How are you feeling? What are you working on? What are you struggling with or excited about? What's something cool you've seen in code this week?"
+Call it Round Robin, Show and Tell, [Council Method](), or Vibe Check — some version of an opening gesture for gathering helps to acknowledge each person, and it gives them a couple of minutes to share anything they want to share today. You could make it very abstract or metaphorical as a warmup, like "What's your internal weather report? And what's your code project's weather report?" Or it could be quite literal: "How are you feeling? What are you working on? What are you struggling with or excited about? What's something cool you've seen in code this week?"
 
 By the time we've completed the circle we almost always have a clear trajectory for the rest of the day's meetup and are well into our first conversation or troubleshoot. We have also made room for each person, whether they are shy and would otherwise be steamrolled, or whether they would be first to speak and might otherwise take up most of the time. 
 
@@ -1009,6 +1036,16 @@ When we were faced with formalizing into an organization with officers and insti
 I have learned that, 
 
 `holding my pedagogy and my programming more loosely, they both become more pleasurable.`
+
+## Set guidelines together
+
+By making rituals together, making time for each other, asking after each other, and so many more small things, we set the standards by which we will treat each other implicitly. It is also important to make these standards explicit, to make our expectations clear and unambiguous, so that we can adjust them to meet the needs of each person involved and so that community members both new and old can understand how we have agreed to maintain our shared space. 
+
+Organizations like p5.js and the Processing Foundation engage their communities in collaborative processes to develop their [Community Statement and Code of Conduct](https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md#p5js-code-of-conduct). As this is a larger open-source software community that is spread around the world, they workshop their documents among various parts of their community, from their board to their contributors. 
+
+Your own process is likely to be much simpler, but it can still involve a variety of conversations that take place over time and include all of your community, allowing for things to change. 
+
+For more on developing community guidelines, see [Section 10: LIVE CODE: Write your values](#live-code-write-your-values-imagine-your-community).
 
 [Back to Table of Contents](#top)
 
@@ -1101,6 +1138,9 @@ Now the Resource Hub has grown into a full-fledged, searchable database. Anyone 
 
 ## Cite out of love
 
+![](../assets/img/ofmd-reference.gif)
+<!-- ![](../assets/img/ofmd-favorite.gif) -->
+
 Thinking and making always happen in community, and our creations reflect these communities. When citing, try to cite generously and often. 
 
 Citation is a means of [announcing/putting forward] the people you are thinking with and responding to. It is placing yourself in conversation and in community with them. As such, citation has a politics. I cite to celebrate the work of those who inspire what I do.  
@@ -1171,6 +1211,8 @@ Care makes us curious about what each person needs in order to thrive, whether t
 
 Building community spaces for coding that focus on care first will allow coding and everything else to happen more generously and more fruitfully next. I have learned that `when I foreground care and connection, the rest happens.`
 
+![](../assets/img/ofmd-polite.gif)
+
 ## Look after each other
 
 >"The idea of it has always been to create a space where you don't have to know everything. And it's not like class where you come and everyone's working towards one point, and how good you are is defined by how well you know the technology, how well you can do something. Because the club is inherently multidisciplinary, so people will have different strengths, a different background."
@@ -1190,9 +1232,9 @@ Belonging is hard. Community is hard work. "Real relationships make it harder to
 
 I admit I didn't expect things to get so personal when I launched the Code Collective call in January 2019, but I am glad. This personal aspect is what makes Code Collective a joyful space for creative risk-taking that nourishes my own practice. 
 
-Now that we have met up for several years now, we have come to trust each other with ongoing care. We have revealed ourselves, perhaps slowly at first. By sharing the things we make or want to make, we also share what we care about, who we care for and how, our values and politics. We glimpse of each others homes and families and pets. We see each other chew with our mouths full, see each other arrive sweaty or sad or frustrated. We see each other evolve as our interests grow and change, influenced by each other. With each other's support, `we continue becoming more ourselves.`   
+Now that we have met up for several years now, we have come to trust each other with ongoing care. We have revealed ourselves, perhaps slowly at first. By sharing the things we make or want to make, we also share what we care about, who we care for and how, our values and politics. We glimpse of each others homes and families and pets. We see each other chew with our mouths full, see each other arrive sweaty or sad or frustrated. We see each other evolve as our interests grow and change, influenced by each other. With each other's support, we continue becoming more ourselves.   
 
-Look after each other, ask after one another. 
+<!-- Look after each other, ask after one another.  -->
 
 >"I love the people in CCC more than anything else. While I am sure other creative coders can be cool people too, this group of people inspires and motivates me to put in the time necessary to make my best work."
 ><footer>–Ada Toydemir, they/them, USC Computer Science</footer>
@@ -1215,12 +1257,12 @@ Maintaining that mindset can be supported by a few small, quick, and easy gestur
 
 Code Collective — as a community of people and as a practice of communing and coding — positions itself within an `ethics of coding care`. It is grounded by shared embodied knowledge, embedded co-creation, and programming with and for community. The essential material aspects that support this ethic, listed above, allow us to express those ethics through [the workings of the community and its outputs]. Here are some key components of an ethics of coding care as I see them.
 
-**Coding.Care values the...**
+`An ethics of coding care values the...`
 
-* Scrappy: Imperfect, iterative, vulnerable. 
-* Collaborative: Co-teaching and co-learning, embedded and situated, accounting for hierarchy, with and for community.
-* Adaptive: Meeting people where they are, with the material and experiences they have. 
-* Entangled: Merging critical, theoretical, political stakes and vulnerable topics with material, technical chops and hands-on practices. Choosing and sharing tools that are ethically and conceptually grounded.
+* `Scrappy:` Imperfect, iterative, vulnerable. 
+* `Collaborative:` Co-teaching and co-learning, embedded and situated, accounting for hierarchy, with and for community.
+* `Adaptive:` Meeting people where they are, with the material and experiences they have. 
+* `Entangled:` Merging critical, theoretical, political stakes and vulnerable topics with material, technical chops and hands-on practices. Choosing and sharing tools that are ethically and conceptually grounded.
 
 This pocket guide has argued for technology communities that support pluralism, participation, and sustainability. As Annette Vee says, coding is now an essential literacy, even reshaping literacy itself [@veeCodingLiteracyHow2017]. I have seen how easy it is to reach beyond the limited literacies offered by existing tech cultures. *Coding Care* reimagines communities of TechnoCraft that truly anyone can engage and transform. 
 
@@ -1233,31 +1275,50 @@ This pocket guide has argued for technology communities that support pluralism, 
 
 ## LIVE CODE: Write your values, imagine your community
 
+### Collective imagination
+
 First and foremost, codes of conduct are exercises in collective imagination.
 
-A code of conduct does not have to feel restrictive. If you're thinking about it that way, of course it's going to feel like a bummer. Instead, remember that all communities have community guidelines, whether spoken or unspoken. They help us understand what is expected of us as we enter, join, and participate. They set the tone for what we imagine this community to be, what we want it to become, and who can feel welcome. Articulating your values should ideally happen as a group exercise. It can be one of the most important, rewarding, challenging, and generative experiences you may do together. 
+A code of conduct or community agreement does not have to feel restrictive. If you're thinking about it that way, of course it's going to feel like a bummer. Instead, remember that all communities have community guidelines, whether spoken or unspoken. They help us understand what is expected of us as we enter, join, and participate. They set the tone for what we imagine this community to be, what we want it to become, and who can feel welcome. Articulating your values should ideally happen as a group exercise. It can be one of the most important, rewarding, challenging, and generative experiences you may do together. 
 
 Think about other communities you are part of or have witnessed, from all parts of your life. What do they do that makes you feel good, safe, cared for, able to speak and share, able to participate? How do they do these things, practically? 
 
-Here is a broadly conceived 'Community Guidelines' that I use as a template when I am working with Code Collective and when I am teaching in new spaces. I offer it as a baseline when I am leading in new spaces, with the suggestion that we can build on this as we go, and I offer it here with the same intention for you. You'll see it cites and weaves together many other codes of conduct and guidelines, from different kinds of groups. 
+Below is a broadly conceived list of community agreements that I use as a template when I am working with Code Collective and when I am teaching in new spaces. I offer it as a baseline when I am leading in new spaces, with the suggestion that we can build on this as we go, and I offer it here with the same intention for you. You'll see it cites and weaves together many other codes of conduct and guidelines, from different kinds of groups. 
 
-#### Community values
+As you reflect on what you'd like your own community agreements to include, as you review this list, or as you review your existing agreements, gather with your community to ask the following questions:
 
-These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve. Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,[^amb] Allied Media Conference,[^AMC] Berlin Code of Conduct,[^BerlinCoC] Center for Council,[^Council] P5.js,[^p5] Superrr,[^superrr] W3C,[^W3C] and Creative Code Collective.[^ccc]
+>- Which agreements speak to you most?
+>- Which surprise you?
+>- Which are you good at?
+>- Which are hard for you? 
+>- What are you/we doing well already?
+>- How would you reword or add to any of these agreements? Would you combine, remove, or reorder any?
+>- What's missing or needed?
+><footer>Adapted from [Tavia Stewart](https://www.taviastewart.com/), art and community practitioner
 
-* growth not perfection[^ccc]
-* collaboration not competition[^ccc]
-* listen from the heart, speak from the heart, be spontaneous, be brief[^Council]
-* assume best intent and attend to impact[^amb]
-* attempt collaboration before conflict[^superrr]
-* we accept responsibility for our actions and take care to make amends when we are wrong[^p5] 
-* we take the lessons, leave the details (confidentiality)[^amb]
-* we center care[^AMC]—self care and community care[^amb] 
-* all theory, all practice are theory–practice.[^ccc] interdisciplinarity goes hand-in-hand with intersectionality[^ccc]
-* focus on strategies rather than issues, solutions rather than problems[^AMC]
-* we don't dispute anyone's fundamental human rights. we engage tension, but don't indulge drama[^amb] #blacklivesmatter #translivesmatter #indigenouslivesmatter 
+### Community values
 
-[^amb]: brown, a.m. (2017). Emergent Strategies. AK Press.; --- (2021). Holding Change. AK Press. Visit [adrienne maree brown](http://adriennemareebrown.net/)
+These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve. Thank you to the individuals and organizations who developed these principles and protocols: [adrienne maree brown](http://adriennemareebrown.net/), [Allied Media Conference](https://amc.alliedmedia.org/about/purpose-and-values), [Art Equity](https://www.artequity.org/), [Berlin Code of Conduct](https://berlincodeofconduct.org/), [Center for Council](https://www.centerforcouncil.org/), [Creative Code Collective](https://creativecodecollective.com), [p5js](https://p5js.org/community/), [Superrr](https://superrr.net/code-of-conduct/), [Tavia Stewart](https://taviastewart.com), and [W3C](https://www.w3.org/policies/code-of-conduct/).
+
+<!-- First and foremost, we recognize that we are not perfect, and that we all stumble and have not and will not get them all right all the time. We are all growing.[^ts]
+
+We agree to learn and grow and do our best at the following. This is not to be used as a weapon or to shame one another, but as a guide to look to when something doesn’t feel right.[^ts] -->
+
+* growth not perfection. 
+* collaboration not competition.
+* listen from the heart, speak from the heart, be spontaneous, be brief.
+* assume best intent and attend to impact.
+* attempt collaboration before conflict.
+* accept responsibility for our actions and take care to make amends when we are wrong.
+* take the lessons, leave the details (confidentiality).
+* center care — self care and community care.
+* all theory, all practice are theory–practice. interdisciplinarity goes hand-in-hand with intersectionality.
+* focus on strategies rather than issues, solutions rather than problems.
+* don't dispute anyone's fundamental human rights. engage tension, but don't indulge drama. #blacklivesmatter #translivesmatter #indigenouslivesmatter 
+* use these agreements for growth not shame.
+* ask for help and help one another. we are interdependent.
+
+<!-- [^amb]: brown, a.m. (2017). Emergent Strategies. AK Press.; --- (2021). Holding Change. AK Press. Visit [adrienne maree brown](http://adriennemareebrown.net/)
 [^AMC]: [Allied Media Conference](https://amc.alliedmedia.org/about/purpose-and-values)
 [^BerlinCoC]: [Berlin Code of Conduct](https://berlincodeofconduct.org/)
 [^Council]: [Center for Council](https://www.centerforcouncil.org/)
@@ -1265,6 +1326,8 @@ These guidelines are open to inputs and updates as necessary to support the need
 [^p5]: [p5js](https://p5js.org/community/)
 [^W3C]:
 [^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
+[^ae]: [Art Equity](https://www.artequity.org/)
+[^ts]: [Tavia Stewart](https://taviastewart.com) -->
 
 </div>
 
