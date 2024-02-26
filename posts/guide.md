@@ -76,7 +76,7 @@ I continually see new community members who thought they hated code keep returni
 >"No way, code is magic." 
 ><footer>–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab</footer>
 
-![](../assets/img/omfd-favorite.gif)
+![](../assets/img/ofmd-favorite.gif)
 
 I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, this so-called 'magic' does not come from men behind the curtains of big tech, hiding the keys while offering the hype of AI which says, "trust us, this this tech is too complicated for you," or "just learn this tech our way." Automated systems have always been deeply intertwined with humans in every way, from 'mechanical Turks' to crowd labor outsourced to the global majority. Not quite magic, just us. 
 
@@ -224,7 +224,7 @@ We echo the call from the P5.js community statement, which warns against "code s
 
 Don't wait until you know you'll do it "perfectly" (or read the whole book, or taken the whole course) before you get started. Half the fun is in adapting unexpected outcomes into your process. Making and learning are reciprocal activities, a mobius strip of embodied knowledge. 
 
-![](../assets/img/omfd-catflag.gif)
+![](../assets/img/ofmd-catflag.gif)
 
 ## Don't be afraid to break stuff (you can't *really* break it)
 
@@ -284,7 +284,7 @@ To think about how to combine ingredients to produce new flavors, connect dots, 
 One way to combine wildly is to work wildly with metaphors, as Ren Loren Britton and Helen V. Pritchard do when they unpack the acronym CS to expand the field of "computer science" to include "Chance and Scandal," "Crying Sabotage," "Careful Slugs," and more. They suggest this "promiscuous metaphorical practice" can open up different plans, questions, and techniques in the field – including considerations of crip-technoscience and of more-than-human world:  
 
 >"We follow CS (Careful Slugs) in how it might reroute, chomp away, do nothing about, slime up, slow down, or ripple towards attachments as a way of accounting for, unsettling, taking responsibility for, and remaking dominant universalisms of CS (Computer Science). We propose that when computation is approached through the speculation of CS (Careful Slugs), the computational operations of sorting become slowed down, separating becomes impossible as sticky bodies stick to surfaces, categorizing becomes softened."
-><footer>–Ren Loren Britton and Helen V. Pritchard [–@brittonCarefulSlugsCaring2022a]</footer>
+><footer>–Ren Loren Britton and Helen V. Pritchard [-@brittonCarefulSlugsCaring2022a]</footer>
 
 It matters what materials you use and what metaphors you think with, whether your projects are held together with spitballs or slug trails.
 
@@ -329,7 +329,7 @@ Many communities are building what they call transfeminist infrastructures that 
 
 >><footer>–["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) [-@WishlistTransFeminist]</footer>
 
-Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) [@TraversalNetworkFeminista] 
+Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) [-@TraversalNetworkFeminista] 
 
 <!-- [^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021 -->
 
@@ -396,7 +396,7 @@ Sharing our struggles helps us solve them. In Code Collective, we do a lot of te
 ## Highlight your mistakes
 
 >"highlight mistakes just as much as successes, rather than hide them. it is important for people who are new to programming to see people making mistakes, if they think everything works first time they will think they are not good enough and give up." 
-><footer>–annatito, Critical Code Studies Working Group 2022 [@titoWeekP5Js2022]</footer>
+><footer>–annatito, Critical Code Studies Working Group 2022 [-@titoWeekP5Js2022]</footer>
 
 <!--"have things as major steps then under each major step is all the sub steps and any gotcha’s or possible errors" annatito, Critical Code Studies Working Group 2022 -->
 
@@ -512,16 +512,16 @@ You don't have to *mandate* enthusiasm, but I like the approach of conferences l
 ## Do it your own way
 
 <!-- [XXXmore] -->
-![](../assets/img/freddie-speak.gif)
+<!-- ![](../assets/img/freddie-speak.gif) -->
 
 >"This may be the best way for some. If you try, you’ll likely find something different that will work best for you."
 ><footer>–Anna Zilboorg, *Knitting for Anarchists* [–@zilboorgKnittingAnarchistsWhat2015]</footer>
 
 I was taught knitting and was convinced I could not do it, just as I was taught crochet before that, and was again convinced I could not, until — (eventually) willing to stumble through my own inept moments and make my own weird way — I could. 
 
-There are two ways to teach knitting. It turns out I was taught the way that did not make sense to me, and once I found the *other way* it clicked. In fact, there are so many *more* ways to knit than "English" or "Continental" (gosh, don't those sound like colonizers' terms), because people have been doing this craft all over the world for probably millennia. 
+Turns out there are two completely different ways to teach knitting, and I was taught the way that did not make sense to me. Once I found the *other way* it clicked. In fact, there *far more* than two ways to knit than just "English" or "Continental" (gosh, don't those sound like colonizers' terms), because people have been doing this craft all over the world for millennia. 
 
-Point is, there's almost always more than one way to knit a loop or code a loop! If you try doing it the way you're first taught, and it doesn't work? Allow for the possibility that another way might work for how your body and mind work. Invent a 'weird' way that works for you instead. 
+Point is, there's almost always more than one way to knit a loop or code a loop! If you try it the way you're first taught, and it doesn't work for you? Allow for the possibility that another way might work for how your body-mind works. Invent a 'weird' way that works for you instead. 
 
 And if you came to coding, or crafting or anything else, by an alternate path — such that your way of thinking or doing doesn't match the ways of those around you? Congratulate yourself for bringing your outlook into their world, and embrace what you can learn from theirs, rather than fearing it means you didn't really learn the 'right' way.
 
@@ -657,6 +657,8 @@ In programming companies there is a concept called "pair programming," in which 
 </div>
 
 # 6. We stay gelatinous 
+
+![](../assets/img/ofmd-visceral.gif)
 
 ## Get influenced
 
@@ -1185,9 +1187,30 @@ When choosing a tool to use, you might ask:
 
 <div class="box play-along" markdown="1">
 
-## PLAY ALONG: Code swap / [???documentationactivity]
+## PLAY ALONG: README.please? 
 
-[XXX][ADD]
+This is a two-part exercise about documenting your code and sharing it. You'll be sharing a project with a partner and you'll be creating documentation to make it easier for them to understand the project, run it, or potentially fork it (duplicate it and adapt it). 
+
+Note: If you don't have time for doing both parts of this exercise, you can just do one or the other. 
+
+To get started, pair up with a partner and each pick a code project that you'd like to document and to swap. It doesn't have to be ready for final release, but it helps if it is far enough along that someone else could run your code. (If it's still in the development stages, you can just think in the future tense. Imagine what you want your code to do and how your user will do it.)
+
+1. Make a README.md and write documentation.
+
+  Look over the code you've written and any pre-existing documentation or notes you have. Make a blank file in the project folder called `README.md` if you don't already have one. Explain to your future user (and partner) what your program does, how they should run it, and any gotchas. Think about other good documentation you have seen. What did theirs include? How do you imagine your audience and what they need to know? 
+
+2. Swap code and explore your partner's work.
+  
+  Read the documentation of the project you're encountering for the first time. Make notes of anything you don't understand and any questions that come up for you. 
+  * Do you understand what this work does and why? 
+  * Do you know what language it is written in and what libraries are required to run it? Does it need installing? 
+  * Explore how the files are organized. Is everything clearly where you'd expect? Is anything missing? 
+  * Do you know how to get started? What happens when you run the program? 
+
+3. Discuss:
+  Once you've drafted some documentation and tried to use each other's code with the help of documentation, what do you notice? How did your approaches to documentation differ? Did what your partner suggest surprise you? Do you struggle with the same aspects of documentation? Where can you help each other through the process? How does swapping help you understand how your code is read differently by those other than yourself? 
+
+Note: Many people struggle to write documentation for their own projects. You can actually do parts 1 and 2 of the exercise in either order! Try having your partner draft your documentation to the extent that they understand what's happening, then give it back to you to fill in the gaps. Or try writing the documentation the best you can, then have your partner try it out. 
 
 </div>
 
