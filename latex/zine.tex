@@ -85,6 +85,19 @@ $endif$
 %%% GRAPHICS %%%
 
 \usepackage{graphicx}
+
+% \DeclareGraphicsRule{.gif}{png}{.png}
+
+% {%
+%   \noexpand\epstopdfcall{convert #1 \noexpand\OutputFile}%
+% }
+% \AppendGraphicsExtensions{.gif}
+% \usepackage{epstopdf}
+% \epstopdfDeclareGraphicsRule
+%   {.gif}{png}{.png}{convert gif:\SourceFile.\SourceExt png:\OutputFile}
+% \AppendGraphicsExtensions{.png}
+
+
 % \setkeys{Gin}{width=0.75\linewidth}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth

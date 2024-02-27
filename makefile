@@ -2,7 +2,7 @@ source := posts
 outputhtml := docs
 outputpdf := assets/pdf
 SOURCES := posts/$(wildcard *.md)
-PDF_TEMPLATE = disscustom.tex # zine.tex draft.tex disscustom.tex diss.tex
+PDF_TEMPLATE = zine.tex # zine.tex draft.tex disscustom.tex diss.tex
 HTML_TEMPLATE = tufte.html5 # tufte.html
 
 
@@ -16,25 +16,27 @@ HTML_TEMPLATE = tufte.html5 # tufte.html
 # TARGETS := $(patsubst posts/%.md,_site/%.html,$(wildcard *.md))
 
 PDF_FLAGS = \
-		-s -f markdown+rebase_relative_paths \
+		-s -f markdown+rebase_relative_paths+emoji \
 		-t pdf \
-		--toc --toc-depth=1 \
-		--pdf-engine=lualatex \
+	 	--pdf-engine=lualatex \
+		--bibliography=posts/includes/bibliography.json \
+		--citeproc \
 		--template=latex/$(PDF_TEMPLATE) \
-		--bibliography=posts/includes/bibliography.json 
+
+#### replace all .gif with .png and change back afterward ###
 		
 # --citeproc
-
+# --toc \
 # --toc-depth=3 
 # $(SOURCES) \ -o $(OUTPUT) 
 
 
 HTML_FLAGS = \
 		--section-divs \
-		-s -f markdown+tex_math_single_backslash \
+		-s -f markdown+tex_math_single_backslash+emoji \
 		--bibliography=posts/includes/bibliography.json \
-		--citeproc \
-		--toc --toc-depth=1 \
+		--citeproc --toc \
+		--toc-depth=1 \
 		--to html5+smart \
 		--filter pandoc-sidenote \
 		--template=_layouts/$(HTML_TEMPLATE) \

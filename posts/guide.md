@@ -51,7 +51,7 @@ My own first experiences learning to code felt *awful*. Lonely. Discouraging. Co
 I wish I had known then that learning to code didn't have to feel like getting stuck. It didn't have to feel like I was fitting myself into someone else's stencil shape of a stereotypical engineer. I wish I had known that learning to code could feel like this:
 
 <!-- ![Freddie Mercury](../assets/img/freddie-dance.gif) -->
-![Freddie Mercury singing Queen's "Don't Stop Me Now"](../assets/img/freddie-dontstop.gif)
+![Queen, "Don't Stop Me Now"](../assets/img/freddie-dontstop.gif)
 
 Coding has helped me feel powerful and imaginative, sometimes even unstoppable. I learned (eventually, through trial and error)(and error and error) that coding can be fun — even playful, relaxed, welcoming. It can be creative, thoughtful, crafty. 
 
@@ -188,7 +188,7 @@ Through this process of communication and collaboration among the group members 
 
 <div class="box play-along" markdown="1">
 
-## PLAY ALONG: Break this code
+## :mending_heart: PLAY ALONG: Break this code
 
 One of the best ways to get started with learning a new aspect of programming is to take someone else's example code and learn how it's working by changing things — just little things to start. What happens if I make this a different color or run it at a different speed? How does it show up on screen? Then break big things — use it for different purposes, combine it with other code. 
 
@@ -317,7 +317,7 @@ Fundamentally, even if you're not looking for deeper meanings in the code, actua
 >"any infrastructure you need to set up from scratch, it's slow, and then it goes faster, it accelerates at one stage, I don't know why, I guess that you need to build the structure, the infrastructure that is going to be sustaining everything. [...] And when you build a project that is based on informal and volunteer work, to maintain an infrastructure, things are gonna be slow, because yeah, we are all feminists. So we are very busy. We are struggling in different fights that are sometimes death and life important. And of course, like being able to learn to administrate services or host contents, maybe is not always the first thing in our list."  
 ><footer>–[@ATNOFSradiobroadcastspideralexdanaetapiaVariapad]</footer>
 
-Many communities are building what they call transfeminist infrastructures that highlight the labors of service, maintenance, and care that all infrastructures require [@kleesattelSituatedAestheticsRelational2021]. These transfeminist practices have a key place in coding communities as both practical tools and as critiques of institutions. By modeling slower, embodied, more connected and communal practices around these essential services, transfeminist server networks and collectives like [Anarchaserver](https://anarchaserver.org/), [Constant](https://constantvzw.org/), [Lurk](https://lurk.org/), [subRosa](http://home.refugia.net/), [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html), and others show how the maintenance of tools and materials (whether for internet services or any mutual aid) are essential forms of labor that can express power differently, by means of expressing and embodying values differently. They show that technologies can be careful and caring, or they can be consolidating and constrictive. They ask us to think about the precarious bodies (individual and connected) that rely on them. 
+Many communities are building what they call transfeminist infrastructures that highlight the labors of service, maintenance, and care that all infrastructures require [@kleesattelSituatedAestheticsRelational2021]. These transfeminist practices have a key place in coding communities as both practical tools and as critiques of institutions. By modeling slower, embodied, more connected and communal practices around these essential services, transfeminist server networks and collectives like [Anarchaserver](https://anarchaserver.org/), [Constant](https://constantvzw.org/), [Lurk](https://lurk.org/), [subRosa](http://home.refugia.net/), [Systerserver](https://systerserver.net/), [varia](https://vvvvvvaria.org/en/pages/about.html), and others show how the maintenance of tools and materials (whether for internet services or any mutual aid) are essential forms of labor that can express power differently, by means of expressing and embodying values differently. They show that technologies can be careful and caring, or they can be consolidating and constrictive. They ask us to think about the precarious bodies (individual and connected) that rely on them. <!-- Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) [-@TraversalNetworkFeminista]  -->
 
 "A Wishlist for Trans\*feminist Servers" (continuously updated and retitled since 2014), lays out some of the objectives of this kind of caring codework. Trans\*feminist Servers...
 
@@ -327,11 +327,7 @@ Many communities are building what they call transfeminist infrastructures that 
 
 >"... reject generalized definitions of efficiency, efficacy, ease-of-use, transparency, scalability, accessibility, inclusion, optimization and immediacy because they are often traps."
 
->><footer>–["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) [-@WishlistTransFeminist]</footer>
-
-Read more at [A Traversal Network of Feminist Servers](https://vvvvvvaria.org/en/atnofs-publication.html) [-@TraversalNetworkFeminista] 
-
-<!-- [^Kleesattel]: Kleesattel, Ines. 2021. "Situated Aesthetics for Relational Critique: On Messy Entanglements from Maintenance Art to Feminist Server Art." in Aesthetics of the Commons. Eds Cornelia Sollfrank, Felix Stalder, and Susha Niederberger. @sollfrankAestheticsCommons2021 -->
+><footer>–["A Wishlist for Trans\*Feminist Servers"](https://www.bakonline.org/prospections/a-wishlist-for-transfeminist-servers/) [-@WishlistTransFeminist]</footer>
 
 </div>
 
@@ -441,7 +437,7 @@ It's okay to build on the work of others (citing it, of course)(see ["Cite with 
 
 <div class="box play-along" markdown="1">
 
-## PLAY ALONG: Hello, old friend
+## :raising_hand: PLAY ALONG: Hello, old friend
 
 Take a look at an old project, something you made more than six months ago and set aside. Maybe it's an unfinished piece you meant to get back to or an exercise that never got anywhere. That's okay. 
 
@@ -650,7 +646,7 @@ This requires a bit of humbleness and "wayfinding" (exploring, birdwalking, path
 
 <div class="box play-along" markdown="1">
 
-## PLAY ALONG: Pair wayfinding
+## :world_map: PLAY ALONG: Pair wayfinding
 
 In programming companies there is a concept called "pair programming," in which two people code together at one computer, switching roles between who is writing code and who is reviewing it. In this exercise, pair up with another person who shares an interest of yours — it can be programming related or not — and go on an investigation together. Start with a small question you're both up for investigating. It can be a technical question or a theoretical one. Set a timer for 20 minutes or 40 minutes (you can switch every 10), and let your conversation around your question lead the "internet walk" you take. How does working with a pal help you revise your question? How does it shape what you find? How will you both take what you find into your own practices and use it differently?  
 
@@ -812,15 +808,15 @@ For more on these questions, see [Trans\*formative TechnoCraft](https://coding.c
 
 <!-- [//]: # "TO DO!!--AMB exercise or cookbook?" -->
 
-<div class="box live-code" markdown="1">
-
-[XXX][ADD]
+<!-- <div class="box live-code" markdown="1">
 
 ## LIVE CODE: p5 / OSACC 
 
-Q welcomed me into the community of P5.js by telling me I was already a part of it — even if I did not feel like it yet. [She] encouraged me . By using open-source software, by teaching with the software, helping others learn it, I had joined 
+Qianqian Ye, who welcomed me into the community of P5.js by telling me I was already a part of it — even if I did not feel like it yet. By using open-source software, by teaching with the software, helping others learn it, I had joined 
 
-</div>
+They encouraged me to find ways to be more involved, even if I didn't think I was qualified. 
+
+</div> -->
 
 # 7. We dream big (and small)
 
@@ -924,7 +920,7 @@ We don’t assume we *should* code something just because we can. Asking "Why No
 
 <div class="box play-along" markdown="1">
 
-## PLAY ALONG: Dreaming wild tangents
+## :unicorn: PLAY ALONG: Dreaming wild tangents
 
 1. What would you make if you could make anything? Write down your last two or three wild ideas. Next to them, write quickly and briefly *why* they interest you. 
 2. What's a random coding-related tangent you've gone on lately? Check your browser history if you can't remember. Write down your last two or three rabbit holes that were programming skill related. Write down why they interest you. What drew you to them? What problem were you trying to solve? Did anything unrelated to that initial problem catch your eye along the way?  
@@ -1053,13 +1049,13 @@ For more on developing community guidelines, see [Section 10: LIVE CODE: Write y
 
 <!-- [//]: # "TO DO!!" -->
 
-<div class="live-code box" markdown="1">
+<!-- <div class="live-code box" markdown="1">
 
 ## LIVE CODE: ccc berlin / varia? /// computational mama // ars workshop "human reinforcement learning with machine feedback" + summer lab intensive, moz and other adapted workshops?
 
 [XXX][ADD]
 
-</div>
+</div> -->
 
 # 9. We share resources
 
@@ -1118,17 +1114,7 @@ Kit Braybrooke chose to work in a shared doc when making the COVID Creatives Too
 
 Minimal choices support different purposes. They sometimes offer more access, or keep the information more legible and adaptable for friends who might want to interact with it later, or for us if we build or rebuild it one day. 
 
-## Minimum viable learning & minimal computing
-
-[XXX][ADD or make footnote?] 
-
-Minimal computing [cite] as an accessible and aesthetic and political value. 
-
-* [min viable learning](https://etherdump.vvvvvvaria.org/publish/rdi-ft-minimal-viable-learning.diff.html); 
-* [magic words](https://vvvvvvaria.org/etherpump/p/essaymagicwords.md.raw.html)
-* [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
-  * "minimal, frugal solutions can prove more effective than hi-tech, hi-bandwidth, baroque ones"
-  * "Free Software, which enables us to not only use a tool, but also modify it, combine it with other tools, or transform it into something new."
+I am inspired by examples like [minimal computing](https://go-dh.github.io/mincomp/), theorized by a digital humanities working group as an accessible, aesthetic, and political value enacted through lean tech configurations [@lisonMinimalComputing2022]; and by the idea of [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning), theorized by the collective varia as an approach in which "minimal, frugal solutions can prove more effective than hi-tech, hi-bandwidth, baroque ones" and can "maximize a learning experience" [@MinimumViableLearning]. These call for repurposing hardware, using simple documents before complex databases, and foregrounding access. 
 
 ## Let things accumulate
 
@@ -1187,7 +1173,7 @@ When choosing a tool to use, you might ask:
 
 <div class="box play-along" markdown="1">
 
-## PLAY ALONG: README.please? 
+## :notebook: PLAY ALONG: README.please? 
 
 This is a two-part exercise about documenting your code and sharing it. You'll be sharing a project with a partner and you'll be creating documentation to make it easier for them to understand the project, run it, or potentially fork it (duplicate it and adapt it). 
 
