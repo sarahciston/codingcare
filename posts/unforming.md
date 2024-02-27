@@ -12,7 +12,7 @@ nav_order: 10
 #   
 <!-- Codes for (Un)Forming -->
 
-![](..docs/assets/img/valie-cameras.jpg)
+![](assets/img/valie-cameras.jpg)
 
 The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's violated, when I don't have enough space or when I'm taking too much. Otherwise just: The body, body, tired, vessel, hungry, aching, thing. A tool to notice only when it's broken. 
 
@@ -48,7 +48,7 @@ Except I dreamt the second sentence differently, and I was too afraid to speak i
 
 All parts of this break my heart — the dreamt version, the re-written version, the hiding and having to unhide, [even the non-correspondence and the map I imagine of it, vast as a territory].
 
-![This prompt may violate our content policy. (OpenAI)](..assets/img/violate.png)
+![This prompt may violate our content policy. (OpenAI)](assets/img/violate.png)
 
 A prompt is a kind of platform, a place off which to jump, from which to start. Like a diving platform, a prompt sets you up for something[: a fall]. Some prompts are setups. Some prompts are built to go nowhere, even if they could go anywhere. Some prompts are thwarted. 
 
@@ -96,7 +96,7 @@ Remember, the femme platforms are the things we are designed to disappear as. A 
 
 But in the din of the room, in the cut, you bloom a bruise.
 
-![](..docs/assets/img/valie-tattoo.jpg)
+![](assets/img/valie-tattoo.jpg)
 
 [Home](https://coding.care)
 
