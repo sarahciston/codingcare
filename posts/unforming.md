@@ -12,7 +12,7 @@ nav_order: 10
 #   
 <!-- Codes for (Un)Forming -->
 
-![](../assets/img/valie-2cam.jpg)
+![](../assets/img/valie-cameras.jpg)
 
 The camera my body, my body the camera. My body the screen, the screen my body. It's only my body when it's violated, when I don't have enough space or when I'm taking too much. Otherwise just: The body, body, tired, vessel, hungry, aching, thing. A tool to notice only when it's broken. 
 
