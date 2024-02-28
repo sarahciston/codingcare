@@ -5,6 +5,10 @@ title: Meaning Weaver
 nav_order: 95
 ---
 
+nearbyness and phenomenological language modeling
+
+>what would be a phenomenological (rather than stocastic) computational representation of language?
+
 >"words encoding the bodies they cover. And despite everything the body remains." [@rankineCitizenAmericanLyric2014]
 
 [When/how] did language become mathematical(ized), probabilistic, and spatial(ized)? 

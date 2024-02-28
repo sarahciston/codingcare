@@ -16,15 +16,41 @@ tags: [notes, progress, misc, journal]
 
 #### My questions for committee
 
-- Where sections might travel, how to make intro stand alone, how to grow conclusion?
-- Setting myself up for interdisciplinary work with more techncial connections but still artistic bent going forward, create lab spaces
+- How can I revise the introduction to stand alone as an essay? Is it making its own argument apart from the three anchor pieces? Or multiple arguments, with separate essays, different tones? Where might its sections travel?
+- How can I grow the conclusion into its own stand-alone argument? 
+- How can I best position myself for interdisciplinary work with more technical connections but still an artistic bent going forward, towards leading a lab space
 - 
 
-#### interdisciplinarity
+#### Where after this?
 
-Interdisciplinarity is equally important to, and intertwined with, intersectionality. It is a way of inviting open, moving among, drawing connection — a multipronged effort of understanding and imagination that is necessary to confront urgent sociotechnical concerns. Creatively it is the generative energy, the challenge as well as the 
+- I want to be academic/adjacent, part of or building an interdisciplinary lab, doing what this dissertation describes. Making art that does this. Mentoring students to do this. 
+- Artistic community, university community: humanities & information/data/computer science community
+- I want to do specific investigations with LLMs that have grown out of this work, via postdoc or other appointment *Unsupervised Pleasures*, *Nearbyness*, *Latent Lines*
+- Publish the Coding.Care guide, a risograph zine, an open-source pub project like Winnie Soon & Geoff Cox's Aesthetic Programming, other presses?
+- Write a Field Guide sequel, "A Critical Field Guide for Working with Generative AI/Large Models" based on what was left out of the first guide and my lectures from workshops I've taught
 
-#### how the different forms come together
+
+#### Critical AI
+
+A huge interdisciplinary community (but still a minority) are pushing for understanding, critiquing, and rethinking how we define, develop, deploy, regulate, use, and mitigate the effects of machine learning tasks, datasets, models, algorithms, architectures, and agents, which we collectively and nebulously understand as 'AI' systems. This includes critical analysis of the pitfalls of existing methods and calls for applying alternative indigenous, feminist, queer, crip, and intersectional approaches. Critical AI is distinguished from applied approaches like 'AI for Good' or 'AI for Society', which can lack critical perspectives despite their intended altruism. Critical AI as a set of mixed methods of analysis and intervention has yet to cross into common practice as machine learning [xxx] and culture proliferates. 
+
+#### Interdisciplinarity
+
+Interdisciplinarity a multipronged effort of understanding and imagination that is necessary to confront urgent sociotechnical concerns. 
+
+It operates in tandem with intersectionality. 
+
+It invites connection, moves among, generates creative energy. 
+
+It is the search for common vocabularies and new metaphors. As such, it is the biggest challenge as well as the solution to the biggest challenges we face.
+
+It bears some relation to empathy. 
+
+#### Creative–critical coding
+
+Catherine's reflective/reflexive software
+
+#### Uniting different forms
 
 Each speaks of a different part of the 'pipeline' or the broader sociotechncial system. Coding.Care at the point of engaging outsider audiences to imagine different systems, at the point of software writing. Datasets Field Guide at the point of the dataset in use. Intersectional AI Toolkit at the point of understanding models and agents and systems as a whole. 
 
@@ -36,20 +62,21 @@ Ideally written with, not only for, these communities, based in the belief that 
 
 The same info needs to be expressed in different ways to reach others; also can't always be got at through just any form. What can lyric essay say about sociotechncial systems that so-called scholarly writing cannot.
 
-#### defining feminism(s)
+#### Feminism(s)
 
-#### defining critical AI
+#### Audiences
 
-#### defining creative–critical coding
+How does each approach TT?
 
-Catherine's reflective/reflexive software
+- artists
+- activists
+- humanist scholars
+- policy makers 
+- social scientists
+- students
+- technologists
 
-
-
-#### TT to artists
-#### TT to technologists
-#### TT to social scientists
-#### TT to activists, humanist scholars, policy makers 
+<hr>
 
 ### 18 feb 24
 
