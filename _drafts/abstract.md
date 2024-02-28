@@ -37,4 +37,4 @@ This process of combining existing tools in new ways (duct tape methodology) is 
 
 ## Keywords
 
-artificial intelligence, artistic research, community building, datasets, machine learning, zines
+artificial intelligence, artistic research, craft, community building, datasets, machine learning, zines

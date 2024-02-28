@@ -262,23 +262,23 @@ The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII jo
 
 What is formative shapes us. Our early experiences make us who we are. These are the foundations we can't see, the scaffolding of our thought, the infrastructures of our being. I am interested in the formative aspects of sociotechncial systems, produced in entangled loops of human networks, codified language, and rare earth. How we become. How we become with and through sociotechnical systems. 
 
-Each of the works collected here asks: What are the fundamental assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? What are the formative assumptions underlying any technology or way of being? These works tease out the metaphors we have relied on so long we can no longer see them; they ask what other metaphors might make space for new forms or reforms.
+Each of the works collected here asks: What are the fundamental assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? `What are the formative assumptions underlying any technology or way of being?` These works tease out the metaphors we have relied on so long we can no longer see them; they ask what other metaphors might make space for new forms or reforms.
 
-Form in-forms content. The shape of the container decides what can fill it. [I work in code and in art because I believe:] If I know how to make forms, or even platforms, not only the content to plug into existing forms, I am more free to work both form and content in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. They are inseparable.
+Form in-forms content. The shape of the container decides what can fill it. I work in code and in art because I believe: If I know how to make forms, or even platforms, not only the content to plug into existing forms, I am more free to work both form and content in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. They are inseparable.
 
 In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. It also re-forms me through this mutual process: 
 
 >"In both carpentry and textiles, the form of a thing does not stand over it or lie behind it but emerges from this mutual shaping, within a gathering of forces, both tensile and frictional, established through the engagement of the practitioner with materials that have their own inclinations and vitality." [@ingoldLifeLines2015]
 
-Form activates. No form is neutral, although if we use it long enough we begin to look through it, like the blank page, or the MS Word 'blank page'. Each interface or material enables or encourages particular experiences and outcomes, and denies or deflects others — whether through predictive text in search, syntax highlighting in code, or the constraint of an eight-page paper zine. Some forms invite us to collaborate in imagining the usefulness of their limits and the boundlessness in their constraints. [Through time spent in process, working with and against form, our focus can shift from producing outputs that meet the brief of the form, to working with the form to reshape both the form and ourselves in new understandings and new orientations.] 
+Form activates. No form is neutral, although if we use it long enough we begin to look through it, like the blank page, or the MS Word 'blank page'. Each interface or material enables or encourages particular experiences and outcomes, and denies or deflects others — whether through predictive text in search, syntax highlighting in code, or the constraint of an eight-page paper zine. Some forms invite us to collaborate in imagining the usefulness of their limits and the boundlessness in their constraints. Through time spent in process, working with and against form, our focus can shift from producing outputs that meet the brief of the form, to working with the form to reshape both the form and ourselves in new understandings and new orientations.
 
 Yet current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. As media theorist Sarah Sharma reminds us, for the 'Broken Machines' who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. 
 
 >"In order to understand and thus accept you, I have to measure your solidity with the ideal scale providing me with grounds to make comparisons and, perhaps, judgments. I have to reduce. [...] perhaps we need to bring an end to the very notion of a scale. Displace all reduction. Agree not merely to the right to difference but, carrying this further, agree also to the right to opacity that is [not enclosure within an impenetrable autarchy but] subsistence within an irreducible singularity. Opacities can coexist and converge, weaving fabrics. To understand these truly one must focus on the texture of the weave and not on the nature of its components. For the time being, perhaps, give up this oid obsession with discovering what lies at the bottom of natures. There would be something great and noble about initiating such a movement, referring not to Humanity but ta the exultant divergence of humanities. Thought of self and thought of other here become obsolete in their duality. Every Other is a citizen and no longer a barbarian. What is here is open, as much as this there. 1 would be incapable of projecting from one to the other. This-here is the weave, and it weaves no boundaries. The right to opacity would not establish autism; it would be the real foundation of Relation, in freedoms." [@glissantPoeticsRelation2009a]
 
-To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021; @amaroBlackTechnicalObject2022]. The formative structures we create (taxonomies, schemas, ways of knowing) support unknowing. They ease and smooth passage through our days and our systems. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021; @amaroBlackTechnicalObject2022]. The formative structures we create (taxonomies, schemas, ways of knowing) support restrictive unknowing. They ease and smooth passage through our days and our systems, saying don't look, you already understand. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
 
-Code forms, then calcifies. Pattern turns to template. In the procedures of object-oriented programming languages, the pattern runs: `init --> name --> get --> set`[^oop]. 
+Code forms, then calcifies. Pattern turns to template. In the procedures of object-oriented programming languages, the template runs: `init --> name --> get --> set`[^oop]. 
 
 >"The more a path is used the more a path is used. [...] When an effort becomes normal, a form is acquired." [@ahmedQueerUse2018; @ahmedQueerPhenomenologyOrientations2006]
 
@@ -298,7 +298,7 @@ How do we think critically through re/making infrastructures, when they exist be
 
 >"the skills, wisdom, resources, and hacks disabled people utilize for navigating and altering inaccessible worlds. In pushing crip technoscience as a field of research and a practice of critical 'knowing-making', we conjure frictional practices of access production, acknowledging that science and technology can be used to both produce and dismantle injustice." [-@hamraieCripTechnoscienceManifesto2019a]
 
-Their manifesto reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs. [This holds true for many other minoritized communities as well.] By centering their community as knowledge holders and creators, and by seeing "interdependence as a political technology," they shift the design goals for technology. Rather than outsiders providing services to achieve normalized individual independence, they reorient toward kinship building [-@hamraieCripTechnoscienceManifesto2019a]. 
+Their manifesto reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs. By centering their community as knowledge holders and creators, and by seeing "interdependence as a political technology," they shift the design goals for technology. Rather than outsiders providing services to achieve normalized individual independence, they reorient toward kinship building [-@hamraieCripTechnoscienceManifesto2019a]. 
 
 Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." [@hickmanTranscriptionWorkPractices2019a]
 
@@ -310,13 +310,21 @@ Interdependence has been my intuitive compass, my frustration and fascination, f
 
 >"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008]
 
-Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). [As Erin Manning says of the spiral, it is "more duration than form" [@manningAlwaysMoreOne2013].] Like all verbs, then, the verb form implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. [This negates object-oriented ontologies and object-oriented software programs that want to encapsulate and abstract away objects' entanglements with the world.] Think again of trans\*duction, what device or instrument allows shift in form, and what designer shapes the device. 
+Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). As Erin Manning says of the spiral, it is "more duration than form" [@manningAlwaysMoreOne2013]. Like all verbs, then, the verb form implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. This negates object-oriented ontologies and object-oriented software programs that want to encapsulate and abstract away objects' entanglements with the world. 
+
+>"I speak of the *verb process*, the doing, the coming into being, the at-the-time-of. Which is why we think there is particular value in live music, contemplating the artifact as it arrives, listening to it emerge. There it is. And There." [@barakaHomeSocialEssays1966]
+
+<!-- >"even to name something, is to wait for it in the place you think it will pass" [@barakaHomeSocialEssays1966] -->
+
+<!-- Think how trans\*duction, what device or instrument allows shift in form, and what designer shapes the device.  -->
 
 >"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb 'to knot' and view knotting as an activity of which 'knots' are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-field or, in short, about 'making things stick'.  Accordingly, our focus should be on forces and materials rather than form and content." [@ingoldLifeLines2015]
 
 To frame research through relationships is also to foreground accountability by asking, as Shawn Wilson offers in *Research Is Ceremony*, "What am I contributing or giving back to the relationship? Is the sharing, growth and learning that is taking place reciprocal?" Wilson says that in an Indigenous Research Paradigm, "What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations" [-@wilsonResearchCeremonyIndigenous2008].
 
 In this sense of reciprocity, the question of form takes shape as an offering. What does our creative work offer back, and in what form will that offering be most legible and accessible? Some forms I have tried: manifesto, toolkit, zine, prototype, platform, black box, machine, labyrinth, server, service, sentence, story, interface, guide, document, cauldron, process. 
+
+>"Form is simply *how* a thing exisits (or what it exists as). [...] Content is *why* a thing exists. [...] but they are not separable in any object." [@barakaHomeSocialEssays1966]
 
 As form moves into its verb shapes, identity too moves into practice. Johanna Hedva marks this as a pivot from identity politics to practices and methods, inextricably coupled as theory-practice: 
 
@@ -328,13 +336,26 @@ Our being-in-process is both the means to "be" (prefiguratively) and also the me
 
 >"a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body." [@manningAlwaysMoreOne2013] 
 
-I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections.[^platformdream] Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux—of things unforming and reforming relationally—that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. The un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change.
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux — of things unforming and reforming relationally — that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. In the un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change.
 
 >"Relation is open totality; totality would be relation at rest. [...] Relation is movement." [@glissantPoeticsRelation2009a]
 
-Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-foldable traces of its making — a flattened, temporarily static version of its coming-into-shape, marking the places it once touched against itself as it held different forms [@sedgwickWeatherProust2012] — trans\*formative technocraft aims to "decipher the history of the making" and the future shapes it might take. 
+Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-foldable traces of its making — a flattened, temporarily static version of its coming-into-shape, marking the places it once touched against itself as it held different forms [@sedgwickWeatherProust2012] — modes of trans\*formative technocraft aim to "decipher the history of the making" and the future shapes it might take. 
 
-[^platformdream]: I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read and connect. [In my dream notes, I have written "semantic web layer cake?" and "Gollum platform?" I rarely imagine I am the only one imagining such things, until I try to explain them to others. I expect it to be easy, that these hybrid forms already exist — becaue they seem so small and obvious to me, how complicated could they be? But when I try to find some preexisting version, I come up empty, frustrated, confused. And I am left without tools or language to begin building such a connected and connecting form on my own.] 
+I want forms that can decode these histories, plant these futures, and embrace them. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read and connect.[^dream] I don't want the innards and innerworkings hidden from me; I want them explained so I can tinker with them. I want to understand how they relate to and shape what I am making. 
+
+>"When writing, the code 'material' speaks back to the programmer through various kinds of testing [...]. The process of testing often results in surprises, and in changes to the original plan" [@blackwellMoralCodes2024].
+
+>"We shouldn't make systems too automatic, so that the action always goes on behind the scenes; we ought to give the programmer-user a chance to direct his creativity into useful channels." [@knuthComputerProgrammingArt1974]
+
+In this way, I see all coding as writing and all writing as coding. I want systems that play to these entanglements and invite us into their complications with a helping hand, instead of hiding and encapsulating their operations in ways that limit and name what we can make, create, be in advance. 
+
+[^dream]: In my dream notes, I have written "semantic web layer cake?" and "Gollum platform?" I rarely imagine I am the only one imagining such things, until I try to explain them to others. I expect it to be easy, that these hybrid forms already exist — becaue they seem so small and obvious to me, how complicated could they be? But when I try to find some preexisting version, I come up empty, frustrated, confused. And I am left without tools or language to begin building such a connected and connecting form on my own.
+
+<!-- >"An essential element of coding is deciding what to call things. [...] Inventing a name for something is an exercise in philosophical abstraction. Two or three words might summarise hundreds of lines of code. When chosen well, this name becomes the definition of what that code should do." [@blackwellMoralCodes2024] -->
+
+<!-- >"even to name something, is to wait for it in the place you think it will pass" [@barakaHomeSocialEssays1966] -->
+
 
 <!-- [xxx][ADD]
 >"True randomness is a slippery thing; it is a property not of things in themselves, like individual numbers, but of their relationship to one another. [...] Randomness is relational. [...] You can't programme a computer to produce true randomness, " 
@@ -367,14 +388,6 @@ TechnoCraft remembers how to operate by slow consideration in and for community,
 TechnoCraft places the seemingly contrasting terms 'tech' and 'craft' together to show how they are not contradictory, after all. TechnoCraft can be analog or hybrid, systems-oriented, process-oriented, human- and more-than-human. Technology and Craft are two complementary approaches, two aspects of the same effort that build on one another. 
 
 >"a craft approach to digital technologies supports intuitive practice that operates creative and aesthetic knowing, leading to technical or scientific insight and ultimately innovation." [@nimkulratCraftingTextilesDigital2016]
-
-<!-- >"We shouldn't make systems too automatic, so that the action always goes on behind the scenes; we ought to give the programmer-user a chance to direct his creativity into useful channels. One thing all programmers have in common is that they enjoy working with machines; so let's keep them ira the loop. Some tasks are best done by machine, while others are best done by human insight; and a properly designed system will find the right balance." [@knuthComputerProgrammingArt1974] -->
-
-<!-- "Naming and testing" [@blackwellMoralCodes2024] -->
-
-<!-- >"the day-to-day experience of a programmer is that code seems to resist what you want to do with it. Writing software involves constant small adjustments, as you type one thing, find out that it doesn’t work, try something else, realise that the whole idea was wrong, take a different approach, and so on. Sometimes coding seems more like carving a piece of wood, where the chisel cuts smoothly for a while before suddenly hitting a hidden knot or a change in the grain, jerking and splitting in an unexpected direction. [...] When writing, the code 'material' speaks back to the programmer through various kinds of testing [...]. The process of testing often results in surprises, and in changes to the original plan" [@blackwellMoralCodes2024]. -->
-
-<!-- >"An essential element of coding is deciding what to call things. [...] Inventing a name for something is an exercise in philosophical abstraction. Two or three words might summarise hundreds of lines of code. When chosen well, this name becomes the definition of what that code should do." [@blackwellMoralCodes2024] -->
 
 ### What craft allows
 
@@ -461,7 +474,7 @@ For infrastructures of care, communities themselves are the essential networks; 
 
 #### Access & boundaries
 
-![zine page from ONE Archives](../assets/img/ONE-queer-imaginemore.jpg)
+![Zine page from USC ONE Archives](assets/img/ONE-queer-imaginemore.jpg)
 
 <p class='caption'>
 Credit: USC Libraries ONE Archives 
@@ -529,7 +542,7 @@ Queer use is a form of resistance, both material resistance and cultural resista
 
 In Ahmed's reading, normative use and resistance has much to do with fit and form: "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you" [@ahmedQueerUse2018]. In a machine learning parlance, we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
 
-![Lace cards](../assets/img/IBM_lace_card.jpg)
+![Lace cards](assets/img/IBM_lace_card.jpg)
 
 <p class='caption'>
 A "lace card" was used in early punch-card computers to jam the systems.

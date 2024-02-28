@@ -7,12 +7,12 @@
 
 %%% JUNK %%%
 %% inserted to fix a CSL error
-% \newlength{\cslhangindent}
-% \setlength{\cslhangindent}{1.5em}
-% \newenvironment{CSLReferences}%
-% {\setlength{\parindent}{1pt}%
-% \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces}%
-% {\par}
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newenvironment{CSLReferences}%
+{\setlength{\parindent}{1pt}%
+\everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces}%
+{\par}
 \def\tightlist{}
 
 % guidelines for manuscript formatting: https://graduateschool.usc.edu/wp-content/uploads/2020/11/Manuscript_Formatting_and_Documentation_Styles.pdf
@@ -28,15 +28,15 @@
 % \usepackage{amssymb}
 % \usepackage{array}
 \usepackage[utf8]{inputenc} % load inputenc before csquotes
-\usepackage[english]{babel}
-\usepackage[
-  backend     = biber,
-  doi         = true,
-  hyperref    = true,
-  maxbibnames = 99,
-  sortlocale  = en_US,
-  style       = numeric,
-]{biblatex}
+% \usepackage[english]{babel}
+% \usepackage[
+%   backend     = biber,
+%   doi         = true,
+%   hyperref    = true,
+%   maxbibnames = 99,
+%   sortlocale  = en_US,
+%   style       = numeric,
+% ]{biblatex}
 % \usepackage{booktabs}
 \usepackage{color, colortbl}
 \usepackage{csquotes}
@@ -79,11 +79,11 @@
 ]{hyperref} % load hyperref as the last package
 
 % pkg: biblatex
-\setlength\bibitemsep{0.5\baselineskip}                 % add a line between entries
-\AtEveryBibitem{\iffieldundef{doi}{}{\clearfield{url}}} % if DOI, hide URL
+% \setlength\bibitemsep{0.5\baselineskip}                 % add a line between entries
+% \AtEveryBibitem{\iffieldundef{doi}{}{\clearfield{url}}} % if DOI, hide URL
 
-% \addbibresource{includes/bibliography.json}
-\addbibresource{dissbib.bib}
+% % \addbibresource{includes/bibliography.json}
+% \addbibresource{dissbib.bib}
 
 % % pkg: siunitx
 % % some guidelines https://physics.nist.gov/cuu/Units/checklist.html
@@ -97,12 +97,12 @@
 % }
 
 % pkg: babel, hyperref
-\addto\extrasenglish{%
-  \renewcommand{\chapterautorefname}{Chapter}
-  \renewcommand{\sectionautorefname}{Section}
-  \renewcommand{\subsectionautorefname}{Section}
-  \renewcommand{\subsubsectionautorefname}{Section}
-}
+% \addto\extrasenglish{%
+%   \renewcommand{\chapterautorefname}{Chapter}
+%   \renewcommand{\sectionautorefname}{Section}
+%   \renewcommand{\subsectionautorefname}{Section}
+%   \renewcommand{\subsubsectionautorefname}{Section}
+% }
 
 % pkg: url
 \renewcommand{\UrlFont}{\footnotesize\tt}
@@ -331,23 +331,23 @@ To read Coding.Care: Field Notes for Making Friends with Code, visit \url:{https
 %
 %  * we use \raggedright so things like URLs and DOIs aren't stretched out.
 %
-\clearpage
-\chapter*{Bibliography}
-\addcontentsline{toc}{chapter}{Bibliography}
+% \clearpage
+% \chapter*{Bibliography}
+% \addcontentsline{toc}{chapter}{Bibliography}
 
-\begin{singlespace}
-%   % increase penalty such that we don't break entries over pages
-%   % source: https://tex.stackexchange.com/a/43275
-  \patchcmd{\bibsetup}{\interlinepenalty=5000}{\interlinepenalty=10000}{}{}
+% \begin{singlespace}
+% %   % increase penalty such that we don't break entries over pages
+% %   % source: https://tex.stackexchange.com/a/43275
+%   \patchcmd{\bibsetup}{\interlinepenalty=5000}{\interlinepenalty=10000}{}{}
 
-%   % reduce spacing between each bibentry
-  \setlength\bibitemsep{0.9\baselineskip}
+% %   % reduce spacing between each bibentry
+%   \setlength\bibitemsep{0.9\baselineskip}
 
-%   % don't justify-align entries: this prevents stretching out each line
-  \raggedright
-  \printbibliography[
-    heading = none
-  ]
-\end{singlespace}
+% %   % don't justify-align entries: this prevents stretching out each line
+%   \raggedright
+%   \printbibliography[
+%     heading = none
+%   ]
+% \end{singlespace}
 
 \end{document}

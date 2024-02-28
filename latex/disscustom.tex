@@ -74,14 +74,45 @@ $endif$
 % \usepackage{emoji}
 
 
-%%% JUNK %%%
-%% inserted to fix a CSL error
+%%% CITATION FORMATTING %%%
+
+$if(csl-refs)$
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
 \newlength{\cslhangindent}
 \setlength{\cslhangindent}{1.5em}
-\newenvironment{CSLReferences}%
-{\setlength{\parindent}{0.5pt}%
-\everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces}%
-{\par}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+   \setlength{\parindent}{0pt}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+$endif$
+\setlength{\parindent}{0.5pt}
 \def\tightlist{}
 
 % hyphens, widows, orphans
@@ -93,31 +124,63 @@ $endif$
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+% \newenvironment{preface}{%
+%   \newpage
+%   \pagenumbering{roman}%
+%   \pagestyle{empty}%
+%   \begin{singlespace}%
+%       \maketitle
+%       \setcounter{page}{1}%
+%       \addtocounter{page}{\@startpageA}% Advance page counter for (signature
+%                                     %   and) title.  At USC, the signature
+%  \newpage                              %   page is not counted!
+% %    \ifx\@volume\@empty\else % Add Volume ID to contents if present.
+% %      \addtocontents{toc}{\protect\contentsline{part}{\@volume}{}}%
+% %    \fi
+%   \end{singlespace}%
+%   \pagestyle{plain}}{%
+%   \newpage
+%   \pagenumbering{arabic}%
+%   \pagestyle{plain}%
+%   \setcounter{page}{\@startpageB}}
 
 %%
 %% Make the Dissertation titlepage
 %%
-\def\maketitle{%
+% \def\@maketitle{%
+
+%%% CONTENT %%%
+
+\begin{document}
+
+% \begin{preface}
+% \newpage
+\pagenumbering{roman}%
+% PREFACE STUFF % ACKNOWLEDGMENTS
+\pagestyle{empty}%
+\begin{singlespace}%
+    \hypersetup{hidelinks}
+
   \large  % title page should be 11pt or 12pt.  this should do.
-  \begin{titlepage}%
+  % \begin{titlepage}%
     \setcounter{page}{0}%
     \null
     \vfill%\vfill
     \begin{center} 
     \begin{doublespace}
-        \@title \par
+        TRANS*FORMATIVE TECHNOCRAFT \par
     %   {\@title \par}%         Set title the same size as "FACULTY OF ..."
-      \ifx\@subtitle\@empty\else
-        \vskip 0.16 true in
-        \@subtitle
-      \fi
+      % \ifx\@subtitle\@empty\else
+      %   \vskip 0.16 true in
+      %   \@subtitle
+      % \fi
       % changed to 0.16 by Marcos
       \vskip 0.5 true in
       by%
       \vskip 0.16 true in
       % remove tabular environment to get it aligned within
       % bounding box ---calvin 2019-04-04
-      \@author\\*[.66 true in]%
+      Sarah Ciston\\*[.66 true in]%
       %\rule{5.8 true in}{0.010 true in}
       % remove the horizontal rule per Manuscript formatting guidelines
       % ---calvin 2020-06-12
@@ -142,56 +205,24 @@ $endif$
     \par
     \vfill
           \noindent Copyright~ 2024 \hfill \@author
-  \end{titlepage}}
-
-
-% \newenvironment{preface}{%
-%   \newpage
-%   \pagenumbering{roman}%
-%   \pagestyle{empty}%
-%   \begin{singlespace}%
-%       \maketitle
-%       \setcounter{page}{1}%
-%       \addtocounter{page}{\@startpageA}% Advance page counter for (signature
-%                                     %   and) title.  At USC, the signature
-%  \newpage                              %   page is not counted!
-% %    \ifx\@volume\@empty\else % Add Volume ID to contents if present.
-% %      \addtocontents{toc}{\protect\contentsline{part}{\@volume}{}}%
-% %    \fi
-%   \end{singlespace}%
-%   \pagestyle{plain}}{%
-%   \newpage
-%   \pagenumbering{arabic}%
-%   \pagestyle{plain}%
-%   \setcounter{page}{\@startpageB}}
-
-
-
-%%% CONTENT %%%
-
-\begin{document}
-
-% \begin{preface}
-\newpage
-    \pagenumbering{roman}%
-    \pagestyle{empty}%
-    \begin{singlespace}%
-        \hypersetup{hidelinks}
-        \maketitle
+  % \end{titlepage}}
+        % \maketitle
     \end{singlespace}
 \newpage
 \renewcommand{\contentsname}{Table of Contents}
-\setcounter{page}{1}
+% \setcounter{page}{1}
         \tableofcontents
         \listoffigures
     \newpage
     \pagenumbering{arabic}%
     \pagestyle{plain}%
-    \setcounter{page}{\@startpageB}
+    \setcounter{page}{1}
 % \end{preface}
 
-% \chapter*{Abstract}
+\chapter*{Abstract}
 % XYXYXYXYX This is the abstract.
+
+\newpage
 
 $body$
 

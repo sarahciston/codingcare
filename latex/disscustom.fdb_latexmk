@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1708477355 "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/disscustom.tex" "disscustom.pdf" "disscustom" 1708477355 2
-  "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/disscustom.tex" 1708477354 5191 742ae6460eb18744e48caa6d2ac76142 ""
+["pdflatex"] 1709077884 "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/disscustom.tex" "disscustom.pdf" "disscustom" 1709077885 2
+  "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/disscustom.tex" 1709077883 6298 dfa5e30fe2458d31a1b4ee0fc764d11b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -25,8 +25,8 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705653132 7883460 ac381842dace925f702d8a45c9bfe963 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "disscustom.aux" 0 -1 0 "pdflatex"
-  "disscustom.tex" 1708477354 5191 742ae6460eb18744e48caa6d2ac76142 ""
+  "disscustom.aux" 1709077884 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "disscustom.tex" 1709077883 6298 dfa5e30fe2458d31a1b4ee0fc764d11b ""
   (generated)
   "disscustom.aux"
   "disscustom.log"

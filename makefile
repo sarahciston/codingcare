@@ -1,6 +1,6 @@
 source := posts
 outputhtml := docs
-outputpdf := assets/pdf
+outputpdf := pdf
 SOURCES := posts/$(wildcard *.md)
 PDF_TEMPLATE = zine.tex # zine.tex draft.tex disscustom.tex diss.tex
 HTML_TEMPLATE = tufte.html5 # tufte.html
@@ -36,7 +36,7 @@ HTML_FLAGS = \
 		-s -f markdown+tex_math_single_backslash+emoji \
 		--bibliography=posts/includes/bibliography.json \
 		--citeproc --toc \
-		--toc-depth=1 \
+		--toc-depth=3 \
 		--to html5+smart \
 		--filter pandoc-sidenote \
 		--template=_layouts/$(HTML_TEMPLATE) \

@@ -50,8 +50,8 @@ My own first experiences learning to code felt *awful*. Lonely. Discouraging. Co
 
 I wish I had known then that learning to code didn't have to feel like getting stuck. It didn't have to feel like I was fitting myself into someone else's stencil shape of a stereotypical engineer. I wish I had known that learning to code could feel like this:
 
-<!-- ![Freddie Mercury](../assets/img/freddie-dance.gif) -->
-![Queen, "Don't Stop Me Now"](../assets/img/freddie-dontstop.gif)
+<!-- ![Freddie Mercury](assets/img/freddie-dance.gif) -->
+![Queen, "Don't Stop Me Now"](assets/img/freddie-dontstop.gif)
 
 Coding has helped me feel powerful and imaginative, sometimes even unstoppable. I learned (eventually, through trial and error)(and error and error) that coding can be fun — even playful, relaxed, welcoming. It can be creative, thoughtful, crafty. 
 
@@ -76,7 +76,7 @@ I continually see new community members who thought they hated code keep returni
 >"No way, code is magic." 
 ><footer>–Samir Ghosh, they/them, UC Santa Cruz Computer Science, USC Ahmanson Lab</footer>
 
-![](../assets/img/ofmd-favorite.gif)
+![](assets/img/ofmd-favorite.gif)
 
 I believe in our power to reshape the world around us by experimenting wildly with the kinds of code, tools, aesthetics, and ethics we want to see. Although making a piece of code finally work certainly feels like magic, this so-called 'magic' does not come from men behind the curtains of big tech, hiding the keys while offering the hype of AI which says, "trust us, this this tech is too complicated for you," or "just learn this tech our way." Automated systems have always been deeply intertwined with humans in every way, from 'mechanical Turks' to crowd labor outsourced to the global majority. Not quite magic, just us. 
 
@@ -121,7 +121,7 @@ This guide is not a manifesto, as much as I love a manifesto. Johanna Hedva says
 >"What I like about code collective is that it's a community of friends as well as resources. That's where I can feel like we're all going on a journey of learning and discovery together."
 ><footer>–Katherine Yang, she/her, USC BA Media Arts + Practice, Linguistics, Computer Science</footer>
 
-Code Collective is a self-organizing community of artists, makers, students, people from all backgrounds——especially including those who have not done much or any coding before. We meet regularly to develop our programming practices in a flexible, co-working, co-learning setting.
+Code Collective is a self-organizing community of artists, makers, students, people from all backgrounds — especially including those who have not done much or any coding before. We meet regularly to develop our programming practices in a flexible, co-working, co-learning setting.
 
 We are artists, activists, first-gen students, never-ever coders, computer science majors, writers, dancers, linguists, neuroscientists, trans kids, queer folks, refugees, parents, staff and teachers, independent learners. We come from all career stages and from all levels of expertise. We come from many cultures, sexualities, classes, and genders. Many of us do not come to programming from a STEM-education pipeline (but some do). Our interests exceed the bounds of what our specializations offer and what our vocabularies describe. We all find different ways into code and community.
 
@@ -170,7 +170,7 @@ Sometimes you just have to call the project done, or this phase of it done, beca
 
 That's the trouble with having a life's work. *Amirite*?
 
-![](../assets/img/ofmd-feedback.gif)
+![](assets/img/ofmd-feedback.gif)
 
 ## Build it together, whatever 'it' is
 
@@ -224,7 +224,7 @@ We echo the call from the P5.js community statement, which warns against "code s
 
 Don't wait until you know you'll do it "perfectly" (or read the whole book, or taken the whole course) before you get started. Half the fun is in adapting unexpected outcomes into your process. Making and learning are reciprocal activities, a mobius strip of embodied knowledge. 
 
-![](../assets/img/ofmd-catflag.gif)
+![](assets/img/ofmd-catflag.gif)
 
 ## Don't be afraid to break stuff (you can't *really* break it)
 
@@ -234,7 +234,7 @@ Too often I don't get started because I don't know where to start, and also beca
 
 [^tinker]: To tinker is also to mend, to patch up, repair, or improve in a makeshift way [OED]. The word derives in part from the tasks of metalworkers (per Miller Puckette & OED).
 
-I learned to use scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). I was a poet who wanted to make weird books, and he told me simply, "Pick something small you want to try to make, and use that to begin learning Python." Reader—I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself some HTML, CSS, and Javascript. But none of it would stick. Still, I trusted Brett, so I found a little example code for a simple chatbot and used it to make what would become "ladymouth" — a bot that tries to explain feminism to misogynists online. Along the way, I learned enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run, even though I started with zero vocabulary and knowledge about relational databases[^databases] or APIs[^api] or anything else. Through Brett's positive encouragement, and by finding the right tools for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, that I couldn't understand the tools I wanted to use, and that I didn't belong in the spaces that interested me (or that I didn't even know about). Being among others who were experimenting in these same ways taught me it was okay not to have all the pieces in place right away. [xxxmaybemove] 
+I learned to use scrappy artistic strategies from my first computational arts teacher, [Brett Stalbaum](https://visarts.ucsd.edu/people/faculty/brett-stalbaum.html). I was a poet who wanted to make weird books, and he told me simply, "Pick something small you want to try to make, and use that to begin learning Python." Reader—I was *terrified*. I had been making tiny GIF poems and had tried and failed repeatedly to teach myself some HTML, CSS, and Javascript. But none of it would stick. Still, I trusted Brett, so I found a little example code for a simple chatbot and used it to make what would become "ladymouth" — a bot that tries to explain feminism to misogynists online. Along the way, I learned enough about Python and SQLite and Raspberry Pi and toxic Reddit forums to make it run, even though I started with zero vocabulary and knowledge about relational databases[^databases] or APIs[^api] or anything else. Through Brett's positive encouragement, and by finding the right tools for the job (Python was the language that made sense to me when other languages didn't), I slowly overcame my belief that I wasn't a coder, that I couldn't understand the tools I wanted to use, and that I didn't belong in the spaces that interested me (or that I didn't even know about). Being among others who were experimenting in these same ways taught me it was okay not to have all the pieces in place right away. 
 
 [^api]: APIs are the access points for the code you write to reach different services and tools online. API stands for Application Program Interface. In the same way a web interface (browser protocol) helps a human reach a website by giving it structure, an API tells your code what constraints it needs to reach that site using programming. Like ordering from a menu, an API tells the programmer what they can order and how to request the information they need. When coders use APIs, they're pulling data or tools into their program from the outside — for example the [National Weather Service](https://www.weather.gov/documentation/services-web-api) — on top of the code they have written themselves. The downside of relying on external APIs is of course when one link in the chain breaks, when a company gets bought by a bigger one and shuts down its open source access, or updates their system... your code also breaks. (Hence the duct tape.)
 
@@ -333,7 +333,7 @@ Many communities are building what they call transfeminist infrastructures that 
 
 # 3. We get vulnerable
 
-![](../assets/img/ofmd-vulnerable.gif)
+![](assets/img/ofmd-vulnerable.gif)
 
 ## Plan to unplan, plan to be awkward
 
@@ -376,7 +376,7 @@ So-called stupid questions help us all unpack what we consider assumed knowledge
 >"Any nitwit can understand computers, and many do. Unfortunately, due to ridiculous historical circumstances, computers have been made a mystery to most of the world. And this situation does not seem to be improving. You hear more and more about computers, but to most people it's just one big blur. The people who know about computers often seem unwilling to explain things or answer your questions. Stereotyped notions develop about computers operating in fixed ways — and so confusion increases. The chasm between laymen and computer people widens fast and dangerously. [...] Most of what is written about computers for the layman is either unreadable or silly." 
 ><footer>–Ted Nelson, creator of hypertext, "Computer Lib/Dream Machine" [-@nelsonComputerLibDream1974]</footer>
 
-![](../assets/img/ofmd-fire.gif)
+![](assets/img/ofmd-fire.gif)
 
 ## Troubleshoot together
 
@@ -453,7 +453,7 @@ You could also try this exercise by trading a snippet of old code with a friend.
 
 # 4. We get weird
 
-![](../assets/img/ofmd-fnweird.gif)
+![](assets/img/ofmd-fnweird.gif)
 
 ## Move toward the weird
 
@@ -508,7 +508,7 @@ You don't have to *mandate* enthusiasm, but I like the approach of conferences l
 ## Do it your own way
 
 <!-- [XXXmore] -->
-<!-- ![](../assets/img/freddie-speak.gif) -->
+<!-- ![](assets/img/freddie-speak.gif) -->
 
 >"This may be the best way for some. If you try, you’ll likely find something different that will work best for you."
 ><footer>–Anna Zilboorg, *Knitting for Anarchists* [–@zilboorgKnittingAnarchistsWhat2015]</footer>
@@ -539,7 +539,7 @@ And if you came to coding, or crafting or anything else, by an alternate path �
 
 ## LIVE CODE: Curate chaos
 
-![Chaos Communication Camp, 2023](../assets/img/chaos1.jpg)
+![Chaos Communication Camp, 2023](assets/img/chaos1.jpg)
 
 Every four years, at the height of summer, tens of thousands of coders and hackers gather at a decommissioned brickworks yard in northern Germany. For a week straight, they camp together and code together in "a relaxed atmosphere for free exchange of technical, social, and political ideas." There is no other set objective, but to reconnect over what they love. [Chaos Communication Camp](https://media.ccc.de/b/conferences/camp/2023) has happened since 1999, as an outgrowth of the European hacker association [Chaos Computer Club](https://www.ccc.de/en/club) which formed in 1981 as a decentralized community. 
 
@@ -549,7 +549,7 @@ Although this event was of course about software and hardware, it was also more 
 
 You can get a sense of the variety of [official offerings at Chaos gatherings](https://media.ccc.de/), incluing talks on a very wide range of topics from past camps and congresses going back 30 years (EN, DE, ES). 
 
-![Chaos Communication Camp, 2023](../assets/img/chaos2.jpg)
+![Chaos Communication Camp, 2023](assets/img/chaos2.jpg)
 
 </div>
 
@@ -566,7 +566,7 @@ Each of us already knows A LOT. Trust that you have a lot to contribute, even if
 
 Try not to be intimidated that you're showing up to a space where everyone else will "know more than you." Even if you don't know how to make the thing you've come to learn about, you have experience in plenty of other things. You can apply your life experience and knowledge to support other people with what they want to learn. And you can bring that experience to bear on your project and how you learn it. 
 
-![](../assets/img/ofmd-double.gif)
+![](assets/img/ofmd-double.gif)
 
 ## Swap skills, look for overlaps
 
@@ -591,7 +591,7 @@ A *fantastic* example of this is cypress evelyn masso's 'code recipe' "How to co
 
 Take heart if you don't feel like you're really a coder. Many of my favorite computer scientists and professional programmers have told me they don't either! There may never be a time when you reach the feeling of proper expertise or authority in your field, but the secret is that this is not the secret to competency. Those people walking around like they know what they're doing? Adulting? Ha! They probably don't know either. 
 
-![](../assets/img/ofmd-cute.gif)
+![](assets/img/ofmd-cute.gif)
 
 And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced [@AlwaysalreadyprogrammingMd]. We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
 
@@ -654,7 +654,7 @@ In programming companies there is a concept called "pair programming," in which 
 
 # 6. We stay gelatinous 
 
-![](../assets/img/ofmd-visceral.gif)
+![](assets/img/ofmd-visceral.gif)
 
 ## Get influenced
 
@@ -767,7 +767,7 @@ What we can form also depends on the capabilities of the tools we use — the pr
 
 ## Value many forms
 
-![](../assets/img/ofmd-fanfiction.gif)
+![](assets/img/ofmd-fanfiction.gif)
 
 Our format continues to prove wildly transformable to hold what we need it to, through online meetups during pandemic lockdowns to hybrid meetups on multiple platforms. I try to allow the group to shapeshift as necessary, for what benefits its current membership, without getting too attached to any particular version. 
 
@@ -776,7 +776,7 @@ Our format continues to prove wildly transformable to hold what we need it to, t
 
 At various points, Code Collective has also morphed into Zine Club. Unbeknownst to me, Zine Club has had a secret ongoing life as Knitting and Crochet Club. Even though my personal interest in each of these topics emerged independly of the group, the Code Collective format has adapted shape to embrace them all, as members found common interests and as conversations overlapped and found enriching commonalities. These forms, while seeminly far flung from coding, have taught us about how to code and how to be in community, too. 
 
-![Lavannya Suressh's lesson in programming digital variations of Kolam patterns, using p5.js, shows the many designs that can be created with a few limited combinations. It appears as an interactive lesson and a printed zine. Credit: Lavannya Suressh, Critical Code Cookbook.](../assets/img/kolam_suressh-6.png)
+![Lavannya Suressh's lesson in programming digital variations of Kolam patterns, using p5.js, shows the many designs that can be created with a few limited combinations. It appears as an interactive lesson and a printed zine. Credit: Lavannya Suressh, Critical Code Cookbook.](assets/img/kolam_suressh-6.png)
 
 Design and technology MFA [Lavannya Suressh](https://www.lavannyadesigns.com/kolam-generator) drew inspiration from her grandmother's daily practice of creating geometric patterns on the ground in rice flour, in a traditional South Indian art form called Pulli Kolam, to create complex graphic imagery with math and code. She adapted this work into a beautiful zine (and an lesson in the [Critical Code Cookbook](https://criticalcode.recipes/contributions/kolam-in-code)) about the project that clearly explains her process. 
 
@@ -839,7 +839,7 @@ We love to dream wildly. We'll figure out the impractical later and the impossib
 
 Those gargantuan ideas, the ones you'd have no idea where to start? Go ahead and sketch the whole thing out — on paper, in plain language or pseudo code, in stick figures and scribbles. Make a map of your wild idea. For the areas where you have absolutely no clue what belongs there, you can write "Here be dragons" and fill it in later with the help of others. The map will help them, and you, understand what you don't yet understand. It will also help you see how you might break this big idea into smaller parts that could be doable — or at least a bit more comprehensible, and maybe one of the parts of those parts you know how to start. Start anywhere, and go from there!
 
-![](../assets/img/ladymouthchart-marked.png)
+![](assets/img/ladymouthchart-marked.png)
 
 For example, here's a map I made of my first Python project, called *ladymouth*. When I made the map, it did not yet include all these parts (almost none, in fact). As I learned what I would need to make it operate the way I imagined, I was able to start coding each part. I ended up building only portions of the work, but this map helped me understand where I *could* go if I wanted to. It also helped me understand that I didn't have to try to do everything at once (which is a tendency of mine). 
 
@@ -933,7 +933,7 @@ Try this activity with a partner and talk through your answers together. You mig
 
 # 8. We create rituals
 
-![](../assets/img/ofmd-crew.gif)
+![](assets/img/ofmd-crew.gif)
 
 ## Create rituals together
 
@@ -958,7 +958,7 @@ Still, it's possible to incorporate some of these approaches in a required class
 
 ## Ask after each other
 
-![This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings.](../assets/img/guestbookloom.png)
+![This "guestbook loom" at the [Stanford Textile Makerspace](https://textilemakerspace.stanford.edu/)[^textiledata] uses a voluntary check-in, vibe-check system that invites visitors to weave a line of thread onto a loom. As an alternative to traditional metrics gathering, in this collective task, the individual's color thread corresponds to their reason for visiting, and beads can be affixed to indicate their current feelings.](assets/img/guestbookloom.png)
 
 [^textiledata]: Here are a few more examples of [textile data visualization](https://textilemakerspace.stanford.edu/dataviz/). Also check out this amazing talk by [Laura Devendorf](https://www.youtube.com/watch?v=kKQs0bVuN-8), creator of AdaCAD!
 
@@ -1007,7 +1007,7 @@ Snacks are rivaled only by music and movement in the essentials for our meetups.
 >"Tonight I'm gonna have myself a real good time / I feel alive / And the world, I'll turn it inside out, yeah / I'm floating around in ecstasy / So (Don't stop me now) (Don't stop me) / 'Cause I'm having a good time / Having a good time / I'm a shooting star, leaping through the sky like a tiger / Defying the laws of gravity / I'm a racing car, passing by like Lady Godiva / I'm gonna go, go, go, there's no stopping me"
 ><footer>–Queen, "Don't Stop Me Now</footer>
 
-<!-- ![Freddie](../assets/img/freddie.gif) -->
+<!-- ![Freddie](assets/img/freddie.gif) -->
 
 A collaborative [playlist](https://open.spotify.com/user/sarahciston/playlist/2g6F9RM0Osbhw7ONwxSJhy?si=Cr0nEeExQiKPUQI-l7-HCA) on your streaming platform of choice can not only offer some comfortable and energizing background noise while you work, it's another way to come together around something *other* than code. Anything that makes broader connections among participants can help support the community, in general and when coding. It's all connected! 
 
@@ -1126,8 +1126,8 @@ Now the Resource Hub has grown into a full-fledged, searchable database. Anyone 
 
 ## Cite out of love
 
-![](../assets/img/ofmd-reference.gif)
-<!-- ![](../assets/img/ofmd-favorite.gif) -->
+![](assets/img/ofmd-reference.gif)
+<!-- ![](assets/img/ofmd-favorite.gif) -->
 
 Thinking and making always happen in community, and our creations reflect these communities. When citing, try to cite generously and often. 
 
@@ -1146,7 +1146,7 @@ In the Resource Hub and in our projects, we emphasize open-source and open-acces
 
 Just as you might consider which texts and tutorials you select to cite, consider which tools you select to work with, too. It may seem abstract to think about the business model of a tool like ChatGPT while you're asking it for code solutions, but consider how any software or service will be shaped by its creators' perspectives. From interface to source code to datasets, choices are made by designers of each tool that will determine how those tools are used and for what goals — making some tasks easier, and some harder. 
 
-![Right-handed teapot. Credit: D-Kuru, wikicommons](../assets/img/kyusu.jpg)
+![Right-handed teapot. Credit: D-Kuru, wikicommons](assets/img/kyusu.jpg)
 
 Did you know that many teapots in Japan are made for pouring with only the right hand? I found this out when I tried to buy a side-handled kyūsu teapot for a left-handed friend. Because for decades the statewide policy had been to make left-handed people learn to be right-handed in school, there "were no" left-handed people, so why design a left-handed teapot? This unweildy metaphor shows how the values of a country, or a company, end up embedded in the tools we use, in almost invisible but ubiquitous ways. 
 
@@ -1220,7 +1220,7 @@ Care makes us curious about what each person needs in order to thrive, whether t
 
 Building community spaces for coding that focus on care first will allow coding and everything else to happen more generously and more fruitfully next. I have learned that `when I foreground care and connection, the rest happens.`
 
-![](../assets/img/ofmd-polite.gif)
+![](assets/img/ofmd-polite.gif)
 
 ## Look after each other
 

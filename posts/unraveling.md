@@ -17,7 +17,7 @@ subtitle: Trans*formative TechnoCraft
 >"It seems necessary and impossible to rewrite the default grammar of agency." 
 ><footer>–Jane Bennett [-@bennettVibrantMatterPolitical2010]</footer>
 
-![Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.](../assets/img/rapoport-autobio.png)
+![Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.](assets/img/rapoport-autobio.png)
 
 When the term "underfitting" autocorrects to undercutting, this is undermining. This is a form of AI, forms it doesn’t want to speak about.
 
@@ -98,10 +98,10 @@ Sonya's drawings are perfect computations in colored pencil. Computations of fee
 "My work is an aesthetic response triggered by scientific data," says Sonya. "The format is computer printout, a ritualistic symbol of our technological society."
 
 <figure class="fullwidth"> 
-    <img src="../assets/img/rapoport-christocornell.jpg" alt='Sonya Rapoport, "Christo Cornell"'>
+    <img src="assets/img/rapoport-christocornell.jpg" alt='Sonya Rapoport, "Christo Cornell"'>
     <figcaption>Sonya Rapoport, "Christo Cornell"</figcaption>
 </figure>
-<!-- ![Sonya Rapoport, "Christo Cornell"](../assets/img/rapoport-christocornell.jpg) -->
+<!-- ![Sonya Rapoport, "Christo Cornell"](assets/img/rapoport-christocornell.jpg) -->
 
 <!-- === -->
 
@@ -121,7 +121,7 @@ The command line is an endless thread. Its simple interface (a prompt for typing
 Used to be, you'd knot a string around your finger if you had something to remember. You'd tie a ribbon round a tree to remember the dead. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
 
 <!-- === -->
-![Sonya Rapoport, "Hovenweep"](../assets/img/rapoport-hovenweep-install.jpg)
+![Sonya Rapoport, "Hovenweep"](assets/img/rapoport-hovenweep-install.jpg)
 
 Sonya finds unacknowledged patterns in what's already there. She threads into the outputs. She slides and sews into the spaces between.  
 
@@ -140,9 +140,9 @@ The simplest knot, mathematically, is the unknot. *"The unknot is the least knot
 The Conway knot has 11 crossings but shares properties with the unknot. 
 
 <figure class="fullwidth"> 
-    <img src="../assets/img/anarchies5.jpg" alt='Sarah Ciston, "No Knots, Only Loops" installation view, June 2023'>
+    <img src="assets/img/anarchies5.jpg" alt='Sarah Ciston, "No Knots, Only Loops" installation view, June 2023'>
     <figcaption>Sarah Ciston, "No Knots, Only Loops" installation view, June 2023</figcaption>
-<!-- ![Sarah Ciston, "No Knots, Only Loops" installation view, June 2023](../assets/img/anarchies5.jpg) -->
+<!-- ![Sarah Ciston, "No Knots, Only Loops" installation view, June 2023](assets/img/anarchies5.jpg) -->
 </figure>
 
 The wound-up muscle of the heart is not a knot, although there is a knot called a heart knot. The muscle of the heart is a spiraled double-helix, looped into itself. The heart can be unwound into a flat surface, a slab of meat just like any other muscle. 
@@ -192,7 +192,7 @@ The labyrinth asks you to cross each point in the possibility space, instead of 
 A labyrinth says go slow, get lost, stay in one place. Wind and unwind. 
 
 <figure class="fullwidth"> 
-    <img src="../assets/img/rapoport-objects1.jpg" alt='Sonya Rapoport, "Objects on My Dresser"'>
+    <img src="assets/img/rapoport-objects1.jpg" alt='Sonya Rapoport, "Objects on My Dresser"'>
     <figcaption>Sonya Rapoport, "Objects on My Dresser"</figcaption>
 </figure>
 
@@ -270,7 +270,7 @@ A labyrinth says go slow, get lost, stay in one place. Wind and unwind.
 <!-- repair, riparian -->
 <!-- The simplest labyrinth is a spiral.  -->
 
-<!-- ![Rapoport Right On](../assets/img/rapoport-righton.jpg)
+<!-- ![Rapoport Right On](assets/img/rapoport-righton.jpg)
 
 <p class='caption'>
 Sonya Rapoport, Right On, 1976. Pencil, colored pencil, yarn, stamp, ink, and thread on found continuous feed paper, 55" x 45". Credit: Sonya Rapoport Legacy Trust.

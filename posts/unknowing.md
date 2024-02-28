@@ -20,7 +20,7 @@ nav_order: 11
 
 <!-- >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012] -->
 
-![Pipilotti Rist, MOCA 2021](../assets/img/pipi-room.jpg)
+![Pipilotti Rist, MOCA 2021](assets/img/pipi-room.jpg)
 
 Inside, the black box bursts with color. It’s a whole tiny world in there, a homunculus of meaning. A giant moon crashes into the bedroom and continues its orbit [@PipilottiRistBig]. Pipi screams silently, reaching up from the floor, where she sinks within her tiny television. The flames behind her never quite engulf her, as if to say, memelike: *This Is Fine.* 
 
@@ -37,7 +37,7 @@ But the not-quite-whiteness of what's not here holds up this wall with its exclu
 
 >"Blackness has, so to say, formed the ground for white" [@artistBlackGooeyUniverse]
 
-![Pipilotti Rist, MOCA 2021](../assets/img/pipi-white.jpg)
+![Pipilotti Rist, MOCA 2021](assets/img/pipi-white.jpg)
 
 This is about what is inside the black box, or moreso about what shores up its walls. "Black box" is a thought experiment and a shorthand for the unknown. No. Black box is presumed unknowable. It is enclosed as if it doesn't need knowing.
 
@@ -155,9 +155,9 @@ There are other kinds of boxes, besides monotone cube abstractions. There are ha
 
 When I made my first project writing code, I made a chatbot called 'ladymouth' that tried to explain feminism to misogynists online [@cistonLadymouthAntiSocialMediaArt2019]. I thought ladymouth would be like Pipilotti's mouth, wet against the glass — both mouthing silently into (and also itself becoming) a mawing void. Like a sea of fish mouths mawing like the grid of GIFs I made of my lips repeating, silent again, the words of yet another poem about gender. 
 
-![Sarah Ciston, "ladymouth," 2018](../assets/img/LMgallerycrop.png)
+![Sarah Ciston, "ladymouth," 2018](assets/img/LMgallerycrop.png)
 
-![Sarah Ciston, "e-face," 2015](../assets/img/giflips.png)
+![Sarah Ciston, "e-face," 2015](assets/img/giflips.png)
 
 I wanted to treat 'ladymouth' like a black box, to shove everything inside that I didn't want to know about the horrible things being said on the internet about women and anyone othered. The black box doesn't work this way. The box, in all its complex code, holding all its rage and color, requires tending. 
 
@@ -165,7 +165,7 @@ I had to enter the box and learn its codes, in order to create with it. In doing
 
 *This Is Fine.*
 
-![Pipilotti Rist, MOCA 2021](../assets/img/pipi-scream.jpg)
+![Pipilotti Rist, MOCA 2021](assets/img/pipi-scream.jpg)
 
 ===
 
@@ -211,7 +211,7 @@ I can insist on another's unknowability and stay near [them/it][, not define it 
 
 >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012]
 
-![Pipilotti Rist, MOCA 2021](../assets/img/pipi-under.jpg)
+![Pipilotti Rist, MOCA 2021](assets/img/pipi-under.jpg)
 
 [Home](https://coding.care)
 
