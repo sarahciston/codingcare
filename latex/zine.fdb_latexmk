@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1709078673 "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/zine.tex" "zine.pdf" "zine" 1709078674 2
-  "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/zine.tex" 1709078673 4722 f599fc4921e079f5913e9b760afc816f ""
+["pdflatex"] 1709170791 "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/zine.tex" "zine.pdf" "zine" 1709170792 2
+  "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/zine.tex" 1709170790 4783 a31e3a0fbfd41d24f03358dd1e663eff ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -24,8 +24,8 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705653132 7883460 ac381842dace925f702d8a45c9bfe963 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "zine.aux" 1709078673 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "zine.tex" 1709078673 4722 f599fc4921e079f5913e9b760afc816f ""
+  "zine.aux" 1709170791 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "zine.tex" 1709170790 4783 a31e3a0fbfd41d24f03358dd1e663eff ""
   (generated)
   "zine.aux"
   "zine.log"

@@ -11,7 +11,7 @@ nav_order: 0
 
 <!-- <p style="font-size: 4rem; line-height: 1.2; color: darkslateblue;">Trans*formative TechnoCraft</p> -->
 
-<!-- [Abstract](abstract.html) -->
+[Abstract](abstract.html)
 
 1. TRANS: [Critical Introduction & Conclusion](critintro.html)
 2. \*: 

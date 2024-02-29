@@ -18,6 +18,7 @@ tags: [notes, progress, misc, journal]
 
 - How can I revise the introduction to stand alone as an essay? Is it making its own argument apart from the three anchor pieces? Or multiple arguments, with separate essays, different tones? Where might its sections travel?
 - How can I grow the conclusion into its own stand-alone argument? 
+- It's extremely cross-discipline, with an approach that is meant for uninitiated readers. Where is that not working?
 - How can I best position myself for interdisciplinary work with more technical connections but still an artistic bent going forward, towards leading a lab space
 - 
 
@@ -48,9 +49,21 @@ It bears some relation to empathy.
 
 #### Creative–critical coding
 
-Catherine's reflective/reflexive software
+Critical–creative coding is the term I use to describe the combination of creative coding (existing artistic approaches to software and their surrounding communities) with applied critical [AI] approaches. 
+
+Like 'tactical media' and 'critical engineering' before it, critical–creative coding creates software and other technological objects while and in order to investigate them as objects of study and critique. It's aligned with other formulations like Catherine Griffith's reflexive software, for example. 
+
+It also emphasizes the [process-oriented/iterative], [queering/creative], and [material] [nature/aspects] of this practice by looking to [crafting and the arts/artistic research and crafting]. Critical methods activate creative modes and root them in sociotechnical complexity. 
+
+Creative, practice-based methods in turn activate critical modes and root them in care and connection. They take the critical out of the abstract and into action. This is not a binary but a blending that is needed to address AI's urgent concerns. 
+
+#### Why TechnoCraft
+
+The emphasis on craft, art, and creativity is not exclusively aesthetic but also strategic. By reframing cutting-edge technologies through the lens of material crafting practices like woodworking or fiber arts, coders can recast their relationships to what they create — deflating AI hype, lowering the barriers for learning, emphasizing sustainably and community. Thinking craft-as-technology honors the inherited knowledge of many outsider communities. Thinking technology-as-craft provides a framework to implement their theories, ethics, and tactics as intersectional critical AI. 
 
 #### Uniting different forms
+
+*What is at stake with non-traditional forms, speaking to different audiences?*
 
 Each speaks of a different part of the 'pipeline' or the broader sociotechncial system. Coding.Care at the point of engaging outsider audiences to imagine different systems, at the point of software writing. Datasets Field Guide at the point of the dataset in use. Intersectional AI Toolkit at the point of understanding models and agents and systems as a whole. 
 
@@ -64,6 +77,8 @@ The same info needs to be expressed in different ways to reach others; also can'
 
 #### Feminism(s)
 
+intersectional, trans, cyber but self-reflective
+
 #### Audiences
 
 How does each approach TT?
@@ -75,6 +90,27 @@ How does each approach TT?
 - social scientists
 - students
 - technologists
+
+#### The role of 'Lyric'
+
+As "theory that emerges from the self" (cough, autotheory) [@fournierAutotheoryFeministPractice2021] 
+
+As yet another way in for another kind of outsider
+
+As my own way in to figuring out what I am thinking, figuring out how it is connected to everything else that I am thinking, accretion and affinity
+
+#### Design
+
+They are produced through an ethos of process-oriented practice. The programming text is written alongside the composition text, giving them more equal weight.
+Every draft is saved in a Git versioning system and all are available open-access online, making no version the 'definitive' or 'authoritative' version.
+
+::Add Graphic::
+Markdown -> Pandoc -> LaTex -> HTML
+         -> Git             -> PDF
+
+Written in Markdown, a basic, flexible text format that allows for easy reformatting and for multiple forms and outputs. The same text creates the website, the dissertation draft, and the zine booklet PDF for printing, using the command line tool Pandoc and LaTex templates.
+
+This process of combining existing tools in new ways (duct tape methodology) is a Coding.Care strategy. 
 
 <hr>
 

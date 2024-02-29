@@ -27,18 +27,14 @@
 
 
 %%% TYPESET %%%
-\usepackage{fontspec}
-\usepackage{emoji}
-\setromanfont{Noto Sans}
-% \setsansfont{Noto Sans Mono}
-\setmonofont{Noto Sans Mono}
-\setemojifont{Apple Color Emoji} % must use syntax \emoji{%nameofemoji%}
+\usepackage[utf8]{inputenc} 
+\usepackage[tt=false]{libertine}
+% \usepackage{fontspec}
+% \usepackage{emoji}
+% \setromanfont{Noto Sans}
+% \setmonofont{Noto Sans Mono}
+% \setemojifont{Apple Color Emoji} % must use syntax \emoji{%nameofemoji%}
 \usepackage[normalem]{ulem} %for strikethrough
-% \setemojifont{Noto Color Emoji}[Renderer=Harfbuzz]
-% \setmainfont{Noto Color Emoji}[Renderer=Harfbuzz]
-% \usepackage{noto}
-% \renewcommand{\familydefault}{\sfdefault}
-% \renewcommand{\familydefault}{\ttsubstdefault}
 
 % \allsectionsfont{\ttfamily}
 % \usepackage{koma-script}
@@ -112,7 +108,7 @@ $if(csl-refs)$
 \newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
 \newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 $endif$
-\setlength{\parindent}{0.5pt}
+\setlength{\parindent}{50pt}
 \def\tightlist{}
 
 % hyphens, widows, orphans
@@ -204,7 +200,7 @@ $endif$
     \end{center}%
     \par
     \vfill
-          \noindent Copyright~ 2024 \hfill \@author
+          \noindent Copyright~ 2024 \hfill Sarah Ciston
   % \end{titlepage}}
         % \maketitle
     \end{singlespace}
@@ -219,9 +215,8 @@ $endif$
     \setcounter{page}{1}
 % \end{preface}
 
-\chapter*{Abstract}
+% \chapter*{Abstract}
 % XYXYXYXYX This is the abstract.
-
 \newpage
 
 $body$

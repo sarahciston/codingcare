@@ -2,7 +2,7 @@ source := posts
 outputhtml := docs
 outputpdf := pdf
 SOURCES := posts/$(wildcard *.md)
-PDF_TEMPLATE = zine.tex # zine.tex draft.tex disscustom.tex diss.tex
+PDF_TEMPLATE = disscustom.tex # zine.tex draft.tex disscustom.tex diss.tex
 HTML_TEMPLATE = tufte.html5 # tufte.html
 
 

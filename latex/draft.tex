@@ -1,6 +1,6 @@
 %%% MAKE DOC %%%
 % \documentclass[10pt,oneside]{scrbook} %scrartcl
-\documentclass[11pt,oneside]{report}
+\documentclass[10pt,oneside]{report}
 % \documentclass[10pt,twocolumn,landscape]{scrartcl} 
 % \setlength{\columnsep}{.5in}
 
@@ -11,9 +11,9 @@
 
 % \setlength{\parskip}{8pt plus 2pt minus 1pt}
 \setlength{\parskip}{0pt}
-\setlength{\parindent}{15pt}
+% \setlength{\parindent}{50pt}
 \raggedright
-\linespread{1.5}
+\linespread{2}
 % \renewcommand*{\sectionformat}[1]{} %remove section numbering
 
 
@@ -91,7 +91,7 @@ $if(csl-refs)$
   \ifodd #1
    \setlength{\leftmargin}{\cslhangindent}
    \setlength{\itemindent}{-1\cslhangindent}
-   \setlength{\parindent}{0pt}
+  %  \setlength{\parindent}{0pt}
   \fi
   % set entry spacing
   \setlength{\itemsep}{#2\baselineskip}}}
@@ -103,6 +103,7 @@ $if(csl-refs)$
 \newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 $endif$
 % \setlength{\parindent}{0.5pt}
+\setlength{\parindent}{0.5in}
 \def\tightlist{}
 % \newlength{\cslhangindent}
 % \setlength{\cslhangindent}{1.5em}

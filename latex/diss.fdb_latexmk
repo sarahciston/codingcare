@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1709074623 "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/diss.tex" "diss.pdf" "diss" 1709074624 0
-  "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/diss.tex" 1709074623 11896 2fcd0705cd14dddf65246a82e745b43e ""
+["pdflatex"] 1709171151 "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/diss.tex" "diss.pdf" "diss" 1709171152 2
+  "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/diss.tex" 1709171150 13223 481e41a0866a5f2fcc778fa16a528926 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc" 1490131464 2835 bfce207f80837ef8737b6a788d8bc760 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc" 1490131464 2807 3bc923a7d38598e901b235df221224cb ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -24,6 +24,8 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-ot1--base.tfm" 1490131464 1352 cfc9c801dff870f8abdc81f433ef0a9a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-ot1.tfm" 1490131464 5536 50f247592d413c786a902c317186f52e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb" 1248133631 29078 718ea4567ceff944262b0f5b0800e1d9 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb" 1354061736 614791 ea39341e4db76f25cb20c361802d3cd5 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb" 1354061736 538965 19c5c8b7f952ac97afb8565e9c21a82d ""
@@ -120,6 +122,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/showlabels/showlabels.sty" 1658261377 9766 c039a91ed6b8f1720b58fa11cdc5a2ce ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tocloft/tocloft.sty" 1578692495 36103 3e78d14f0f4b1a30560fea5e04de805d ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty" 1667332637 12691 5b542990fe866f3d772f71346cf85b95 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty" 1654720880 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty" 1654720880 7147 be6981d9f5d866a5634048c4a11814a9 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/xspace.sty" 1654720880 4545 4c279ac9292a1be8afa9ab2f1d3299c2 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
@@ -129,11 +132,11 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684243380 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705653132 7883460 ac381842dace925f702d8a45c9bfe963 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "diss.aux" 1709074624 1529 f5cd06125f707d7adc773cd088f9a010 "pdflatex"
-  "diss.lof" 1709074624 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "diss.out" 1709074624 2343 ea424d31c246fcd94d5302f691def15f "pdflatex"
-  "diss.tex" 1709074623 11896 2fcd0705cd14dddf65246a82e745b43e ""
-  "diss.toc" 1709074624 688 271b076730aefca6359ceeb581fb824a "pdflatex"
+  "diss.aux" 1709171152 1529 8d7a0ebc4e3a4c669d142beb25ed09f6 "pdflatex"
+  "diss.lof" 1709171152 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "diss.out" 1709171152 2343 ea424d31c246fcd94d5302f691def15f "pdflatex"
+  "diss.tex" 1709171150 13223 481e41a0866a5f2fcc778fa16a528926 ""
+  "diss.toc" 1709171152 688 271b076730aefca6359ceeb581fb824a "pdflatex"
   (generated)
   "diss.aux"
   "diss.lof"
