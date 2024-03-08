@@ -1,7 +1,7 @@
 ---
 # layout: post
 title: Codes for (Un)Knowing
-subtitle: Trans*formative TechnoCraft
+subtitle: Coding.Care
 permalink: unknowing
 nav_order: 11
 # date: 02.02.2024
@@ -35,7 +35,16 @@ It seems merely rote to sort what will be important and what will not be. But th
 
 But the not-quite-whiteness of what's not here holds up this wall with its exclusion. 
 
->"Blackness has, so to say, formed the ground for white" [@artistBlackGooeyUniverse]
+<!-- >"Blackness has, so to say, formed the ground for white" [@artistBlackGooeyUniverse]
+
+>"What I call the anti-Black box links the race-neutral technologies that encode inequity to the race-neutral laws and policies that serve as powerful tools for White supremacy." [@benjaminRaceTechnologyAbolitionist2019]
+
+[@franklinDigitallyDisposedRacial2021]
+
+>"race, particularly in the United States, is central to this undertaking, fundamentally shaping how we see and know as well as the technologies that underwrite or cement both vision and knowledge. Certain modes of racial visibility and knowing coincide or dovetail with specific ways of organizing data:" [@mcphersonWhyAreDigital2012]
+
+>"Why does anti-blackness seem to perpetually overdetermine and saturate the operating system regardless of who is programming it? How do we begin to move to forms of critique and resistance that relinquish a certain focus on the apparatus[8] and begin to disassemble the episteme[9], that seemingly transparent foe that perpetuates the endless production of violent techne[10]? How might this make desirable the pursuits of situating computation elsewhere and towards a poethic[11] of endured proximity? How might such a proximity allow for the messy work of sharing risk together instead of the violent clarity of prediction?" [@morrisonVoluptuousDisintegrationFuture2022]
+>>"Black Computational Thought holds open these proximal possibilities and directs our attention to the quotidian, social, opaque, woven, and fugitive practices of computation born from Black diasporic movement. Blackness here is always in an appositional love affair with queerness, transness, and feminist orientations of the world that fight the simplicity of calculated separability, and instead contend with their relationship to difference, kin, collectivity, risk, non-normativity, non-linearity, ambiguity, and trust." [@morrisonVoluptuousDisintegrationFuture2022] -->
 
 ![Pipilotti Rist, MOCA 2021](assets/img/pipi-white.jpg)
 

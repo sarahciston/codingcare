@@ -8,11 +8,102 @@ published: true
 tags: [notes, progress, misc, journal]
 ---
 
-#   
 <!-- notes on research in progress -->
 <!-- # {{ page.title }} -->
 
-### 22 feb 24
+#   
+<!-- 
+#### 29 feb 24, defense notes
+
+TM
+- sustaining community, openness/generosity
+- different voices, rare/hard. needs extra work to help audiences understand in institutions understand as a whole
+
+RR
+- moved, formally what is it? craft, knitting together. in relation to industry discourse. speaking across/translating. **how to find the frame to meet that industry community without seeding my ground.** how to pitch to "fairness' responsibility' safety. that tech need ppl from outside as well.
+
+TM
+- **bias as the term to do that translational wor**k, as very different meaning. sewing on the bias is hard, pucker, wrinkle, inverts it as a functional, data driven. tomato, trying to sew silk on bias, intuitive. still holding in head when got to bias in social way at end. 
+- turning a word over. mobilizing tacical. **intuition as another word to turn over**. something in materiality as well, **can only bias sew certain materials**, not cordoroy or tweed. technique, intuition, materiality. 
+- operationalize bias vs who will think about this. something in their own terms. 
+
+HW
+- first chapter of intro, extreme use hand craft **taxonomy builds on that idea of bias** 
+- from audiences saying what do we do, situates in familiar context, we already do this. four other areas that help get a sense of next steps. 
+
+TM
+- **frame, example, invitation to a practice (is a form i take)**
+- **seeing a problem, feeling a problem, framing it, proving a solution as an invitation**
+- invitation is in my practice, in CCC, labyrinth, an intellectual generosity, how will you connect to these things. there's no fierce ownership, even when i site myself. a collaborative space
+- **MORE NEARBYNESS**, nearness comes back but isn't nearbyness
+
+RR
+- hear extrastatecraft
+- led to **hito, situate in relation to "resistant/oppositional/affirmative" more of other critics.** 
+- as an art activist, how you'd weave together the field, intersectional opositional, other ppl doing ... like or unlike diy or maker spaces. 
+
+TM
+- not convinced yet by word technocraft, less rich than the project? 
+title and technocraft don't get to care/radical belonging
+**Gernett Hertz**, doing different things, feminist queer invitation. centering of a space of being realtionality that isn't diy hacker dude. intro take 4-5 pages why technocraft is and isnt. *here's what i build on but moving it else where*. **distinctions from critical making**. how can technocraft embody the things taht are moving, affectively in reading the diss. 
+
+- intro, risk of losing me in citations. acreting antecedants. **one round to surface above the voices.** 
+- 
+
+HW
+- royston material noise, noise becomes part of the reading
+- oriented around material. assemblage, linked not by argument but association. body becomes part of it.
+- knitting together of radically different thinkers
+
+RR
+- nearbyness: think from within the systems. **uses technical meanings as springboard, one quick sentence. doing translational work for uninitiated communities.** 
+- **as translation committment to past self, unknowin**g
+
+TM
+- **commitment to seeing process**, in quals. 
+- resource hub extending
+- to keep going back to understand it, layers of CCC
+- should be book form, live in a form, and takes up other
+- modeling all the committments and the ethos: care, relationality, process, sustainablity, where a thing lives, can see in the community the ethics in the field guide
+
+HW
+- durations of labor and making
+- artistic making as knowledge production. embodied lived and seen 
+- co learn, intuitive knowing
+- we're told to hide the labor and we show the finished object
+- an ethics is core to how i'm doing all these things, to showing the word
+
+RR
+- processual and documentation
+- effusive, moving
+- struck by the guides, FAQs
+- *wanting **a guide for the project as a whole**, orientation, an institutional life as a book proposal, jacket copy, articulation of the frame, my work **the foundation model the field guides are the downstream model**. am i resistant?* 
+- **A VISUAL MAP**
+
+TM
+- The frame that takes us into the pieces that could exist as a book. needs **a tiny wrapper of articulation**. a book version spine bound, a digital instantiation. 
+- Wendy Chun's lab
+- care part, relationality missing from the title. 
+- writing different registers, special skill but ppl will gravitate to a part and not get all per se.
+- a capatious gender studies department?
+- karl, ask how is process was
+- cs/they should be growing their own CC, nobody wants to talk about how code messes things up or the world. 
+- **ahmanson support printing coding care**
+- **vibrant resource to activate process in young people**, want more direct instruction sets than she'll give. don't give a punch list but build care into space to get comfortable to figure on own. 
+
+RR
+- intersectionality and multimodal models: video generation etc. 
+- technocraft and corporate infrastructure, immovable and not navigable, prepositionality, the rhetoric. what is the form that technocraft takes in relation to industry, **adversarial**? **scaffolding**. **strategic**. 
+- step forward, speciation that occurred between technical and critical work, hasn't been resolved. helping us understand how we might get back to how we imagined (digital humanities). 
+- already have currency as the person who does intersectional AI -- a subtitle. 
+
+- filing what we read, as a diss very beyond diss. (usually losing the artifacts but i dont have them)
+- a pass at the intro to surface sarah
+- paratextual documents
+- what other metaphors for intersectionality? if I adopt diff rhetoric, what analogical frame if not weaving. paracitic? beyond crochet/
+- **first person plural, need to specify who is included**, uses it alot. authorative we or a, readers in a narrow sense  -->
+
+### 22 feb 24, defense prep
 
 #### My questions for committee
 
@@ -20,7 +111,7 @@ tags: [notes, progress, misc, journal]
 - How can I grow the conclusion into its own stand-alone argument? 
 - It's extremely cross-discipline, with an approach that is meant for uninitiated readers. Where is that not working?
 - How can I best position myself for interdisciplinary work with more technical connections but still an artistic bent going forward, towards leading a lab space
-- 
+- Future mentors, connections in thinking large models, european contacts, arts research spaces, etc. 
 
 #### Where after this?
 
@@ -407,13 +498,31 @@ a semantic web layer cake
 the desire to be understood by machines, to be held by database
 
 ### 02 jan 22
-previously: CODING.CARE: Crafting New Worlds through Queer Transformative Programming
+Coding.Care: Guidebooks for Intersectional AI 
+Coding.Care: Guidebooks for Intersectional AI and Queer Trans*formative Systems
+Coding.Care: Guidebooks for Trans*formative Systems
+Coding.Care: Guidebooks for Trans*formative Sofware
+[Systems/Software/Programming]
+
+
+Coding Care: guidebooks for Trans*formative programming / critical–creative coding and intersectional AI in action / as transformative action
+
+code 
+craft
+(tech)
+trans*form
+care
+intersectional ai (enacting/applied/in action)
+guide(books)
+(critical creative)
+
+previously: CODING.CARE: Crafting New Worlds through Queer Trans*formative Programming
 CODING.CARE: A Guidebook to Critical-Creative TechnoCraft for Transforming Worlds
 
 [for Changing/Healing Worlds]
 Crafting New Worlds through Queer Transformative Programming 
 
-**Coding.Care: A Guidebook for Trans*formative TechnoCraft**
+Coding.Care: A Guidebook for Trans*formative TechnoCraft
 Coding.Care: A Guidebook for Queer Trans*formative Programming and Critical-Creative Techno-Craft
 
 technocraft / technecraft / technopoesis

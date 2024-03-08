@@ -1,7 +1,7 @@
 ---
 # layout: post
 title: Codes for (Un)Forming
-subtitle: Trans*formative TechnoCraft
+subtitle: Coding.Care
 permalink: unforming
 nav_order: 10
 # date: 02.02.2024

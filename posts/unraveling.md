@@ -2,7 +2,7 @@
 # layout: post
 permalink: unraveling
 title: Codes for (Un)Raveling
-subtitle: Trans*formative TechnoCraft
+subtitle: Coding.Care
 # nav_order: 5
 # date: 02.02.2024
 ---
@@ -116,7 +116,7 @@ Threads are ligatures, they sew up the spaces between, tie up meaning tightly, l
 <!-- Threads as instruments of mourning and memory. Threads as marks of accrual and disintegration.  -->
 <!-- The spiral is the simplest labyrinth.  -->
 
-The command line is an endless thread. Its simple interface (a prompt for typing input and a display for text outputs) still intimidates me, but I have started to play inside this feeling. The command line reminds me of what E.L. Doctorow says about novel writing: "It's like driving a car at night. You can only see as far as your headlights illuminate. But you can make the whole trip that way." At the command line, I see only as far as my headlights shine. I say the coders' prayer at every keystroke: "Here goes nothin'" It saves every past command, and cycling back through is [memory as poetry (or the opposite)]. 
+The command line is an endless thread. Its simple interface (a prompt for typing input and a display for text outputs) still intimidates me, but I have started to play inside this feeling. The command line reminds me of what E.L. Doctorow says about novel writing: "It's like driving a car at night. You can only see as far as your headlights illuminate. But you can make the whole trip that way." At the command line, I see only as far as my headlights shine. I say the coders' prayer at every keystroke: "Here goes nothin'." It saves every past command, and cycling back through is memory, as language poetry. 
 
 Used to be, you'd knot a string around your finger if you had something to remember. You'd tie a ribbon round a tree to remember the dead. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
 

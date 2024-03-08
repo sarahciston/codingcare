@@ -2,7 +2,7 @@
 # layout: post
 permalink: unlimiting 
 title: Codes for (Un)Limiting
-subtitle: Trans*formative TechnoCraft
+subtitle: Coding.Care
 nav_order: 4
 # date: 02.02.2024
 tags: ["interstitial", "broken machines", "queer use", "platforms" ]

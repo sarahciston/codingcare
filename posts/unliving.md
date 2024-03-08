@@ -2,7 +2,7 @@
 # layout: post
 title: Codes for (Un)Living
 # title:  
-subtitle: Trans*formative TechnoCraft
+subtitle: Coding.Care
 permalink: unliving
 nav_order: 20
 # date: 18.01.2024

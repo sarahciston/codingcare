@@ -1,7 +1,7 @@
 ---
 # layout: page
-title: Trans*Formative TechnoCraft
-subtitle: 
+title: Coding.Care
+subtitle: Guidebooks for Intersectional AI
 nav_order: 0
 ---
 
@@ -13,21 +13,23 @@ nav_order: 0
 
 [Abstract](abstract.html)
 
-1. TRANS: [Critical Introduction & Conclusion](critintro.html)
-2. \*: 
-   * [Codes for (Un)Raveling](unraveling.html)
-   * [Codes for (Un)Limiting](unlimiting.html)
-3. FORMATIVE: 
-   * <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a>
-   * <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets Research Guide</a>
-4. \_: [Codes for (Un)Forming](unforming.html)
-5. TECH: <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a>
-6. (NO):  
-   * [Codes for (Un)Living](unliving.html)
-   * [Codes for (Un)Knowing](unknowing.html)
-7. CRAFT: [Coding.Care](guide.html)
+<!-- <ul markdown=1 style=list-style-type:none;> -->
+<!-- Mapping of Contents -->
+<!--Queer--> 
+* TRANS: [Crafting Trans\*formative Systems](critintro.html)
+* \*: [Codes for (Un)Raveling](unraveling.html)
+* CRAFT: [Coding.Care](guide.html)
+* \*: [Codes for (Un)Limiting](unlimiting.html)
+* FORMATIVE: 
+  * <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a> 
+*  \*: [Codes for (Un)Forming](unforming.html)
+  *  <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets Research Guide</a>
+* \*: [Codes for (Un)Living](unliving.html)
+* SYSTEMS: <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a>  
+* \*: [Codes for (Un)Knowing](unknowing.html)
+<!-- </ul> -->
 
-* [Progress notes](notes.html)
+[Progress notes](notes.html)
 <!-- * [Acknowledgments](ack.html) -->
 <!-- 7. TRANS: [Unsupervised Pleasures & Critical AI](unsupervised) -->
 
