@@ -11,14 +11,14 @@ nav_order: 0
 
 <!-- <p style="font-size: 4rem; line-height: 1.2; color: darkslateblue;">Trans*formative TechnoCraft</p> -->
 
-[Abstract](abstract.html)
+#### Keywords: artificial intelligence, artistic research, craft, critical AI, community, datasets, machine learning, practice-based research, trans, queer, zines
 
 <!-- <ul markdown=1 style=list-style-type:none;> -->
 <!-- Mapping of Contents -->
 <!--Queer--> 
-* TRANS: [Crafting Trans\*formative Systems](critintro.html)
+* TRANS: [Crafting Trans\*formative Systems, an Introduction](critintro.html)
 * \*: [Codes for (Un)Raveling](unraveling.html)
-* CRAFT: [Coding.Care](guide.html)
+* CRAFT: [Coding.Care: Field Notes for Making Friends with Code](guide.html)
 * \*: [Codes for (Un)Limiting](unlimiting.html)
 * FORMATIVE: 
   * <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a> 
@@ -29,7 +29,6 @@ nav_order: 0
 * \*: [Codes for (Un)Knowing](unknowing.html)
 <!-- </ul> -->
 
-[Progress notes](notes.html)
 <!-- * [Acknowledgments](ack.html) -->
 <!-- 7. TRANS: [Unsupervised Pleasures & Critical AI](unsupervised) -->
 
@@ -37,7 +36,20 @@ nav_order: 0
 
 <!-- the Tongva and Chumash people (Los Angeles); the Ohlone, Muwekma, and Miwok people (Oakland); the Kumeyaay people (San Diego); the Osage and Kickapoo people (Missouri);  -->
 
+*Coding.Care* argues for creative, craft-based, community-driven approaches to critical AI. Implementing critical tactics into AI more broadly requires building inviting, inclusive, playful communities where a wider range of individuals can engage critically and creatively with each other and with machine learning techniques as malleable materials. 
+
+The dissertation argues for building critical–creative coding communities as radical spaces of belonging — activated by a politics, ways of being, and ethos of co-creation modeled by queer and trans\* communities that embrace radical difference. This creates a basis for the deep interdisciplinary thought, the interrogation of formative principles, and the openness to alternative forms that are necessary to reimagine the AI status quo. 
+
+By reframing cutting-edge technologies through the lens of crafting practices like woodworking or fiber arts, coders can recast their relationships to what they create — deflating AI hype, lowering barriers to learning, and emphasizing sustainably and community. Thinking craft-as-technology honors the inherited knowledge of many outsider communities; just as thinking technology-as-craft provides a framework to implement their theories, ethics, and tactics as intersectional critical AI. 
+
+Together, the works that make up *Coding.Care* are meant to meet readers where they are — non-academics or perhaps coming from another field, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. It is meant as an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives.
+
+[Full Abstract](abstract.html)
+
+[Progress notes](notes.html)
+
 <caption markdown=1>This work offers respect to the Tongva and Chumash peoples, who are the rightful caretakers of the land where much of this work has been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn the history of where you live, why this matters, and how to contribute.</caption>
+
 
 <!-- ## Abstract -->
 
