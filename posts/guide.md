@@ -9,6 +9,8 @@ tags: [tips, guide, handy, coding, zine, computers, programming]
 # link-citations: true
 ---
 
+<!-- [Byte Magazine](https://vintageapple.org/byte/) -->
+
 <!-- # Coding.Care: Field notes for making friends with code -->
 <!-- # {{ page.title }} -->
 <!-- {:.no_toc} -->

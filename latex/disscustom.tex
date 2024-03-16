@@ -6,12 +6,12 @@
 
 %%% FRONTMATTER %%%
 
-\title{TRANS*FORMATIVE TECHNOCRAFT}
+\title{CODING.CARE: GUIDEBOOKS FOR INTERSECTIONAL AI}
 \author{Sarah Ciston}
 % \majorfield{CINEMATIC ARTS (MEDIA ARTS AND PRACTICE)}
 % \submitdate{May 2024}
 % \subtitle{}
-\setcounter{tocdepth}{3} 
+\setcounter{tocdepth}{1} 
 
 
 
@@ -71,7 +71,6 @@ $endif$
 
 
 %%% CITATION FORMATTING %%%
-
 $if(csl-refs)$
 % definitions for citeproc citations
 \NewDocumentCommand\citeproctext{}{}
@@ -110,6 +109,15 @@ $if(csl-refs)$
 $endif$
 \setlength{\parindent}{50pt}
 \def\tightlist{}
+
+\newlength{\bibitemsep}\setlength{\bibitemsep}{.0\baselineskip plus .05\baselineskip minus .05\baselineskip}
+\newlength{\bibparskip}\setlength{\bibparskip}{0pt}
+\let\oldthebibliography\thebibliography
+\renewcommand\thebibliography[1]{%
+  \oldthebibliography{#1}%
+  \setlength{\parskip}{\bibitemsep}%
+  \setlength{\itemsep}{\bibparskip}%
+}
 
 % hyphens, widows, orphans
 \brokenpenalty 10000
@@ -164,11 +172,11 @@ $endif$
     \vskip 0.55 true in
     \begin{center} 
     \begin{doublespace}
-        CODING CARE: \par
+        CODING.CARE: \par
     %   {\@title \par}%         Set title the same size as "FACULTY OF ..."
       % \ifx\@subtitle\@empty\else
         % \vskip 0.16 true in
-        GUIDEBOOKS FOR INTERSECTIONAL AI AND QUEER TRANS*FORMATIVE SYSTEMS
+        GUIDEBOOKS FOR INTERSECTIONAL AI
         % \@subtitle
       % \fi
       % changed to 0.16 by Marcos
@@ -205,21 +213,84 @@ $endif$
   % \end{titlepage}}
         % \maketitle
     \end{singlespace}
+    \pagestyle{plain}%
+
+\newpage
+\chapter*{Acknowledgments}
+\addcontentsline{toc}{chapter}{Acknowledgments}
+% \include{path}
+
 \newpage
 \renewcommand{\contentsname}{Table of Contents}
 % \setcounter{page}{1}
         \tableofcontents
         \listoffigures
-    \newpage
-    \pagenumbering{arabic}%
-    \pagestyle{plain}%
-    \setcounter{page}{1}
+        % \pagestyle{plain}%
+
+\newpage
+% \include{path}
+\addcontentsline{toc}{chapter}{Abstract}
+\chapter*{Abstract}
+
+Critical AI researchers see the urgent need to understand and rethink how AI systems are defined, developed, regulated, and mitigated. \emph{Coding.Care: Guidebooks for Intersectional AI} argues that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. The project demonstrates craft-based, process-oriented approaches to AI that can help meet this challenge. 
+
+The dissertation presents guides for fostering critical–creative coding communities as radical spaces of belonging—activated by an ethos and a politics modeled by queer and trans* communities that embraces radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. 
+
+Artists, activists, scholars, and technologists can recast their relationships to emerging technologies by reframing them as crafts like crochet—deflating AI hype, lowering barriers to learning, and emphasizing sustainability and process. Thinking craft-as-technology honors the inherited knowledge of many outsider communities. Thinking technology-as-craft provides a framework to implement those theories, ethics, and tactics as intersectional critical AI. 
+
+The guides in \emph{Coding.Care} deal with machine learning datasets, intersectional AI, coding communities, and embodied algorithmic art. Together, they want to meet readers where they are—as non-academics or those bridging into new fields, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. \emph{Coding.Care} offers an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives.
+
+\newpage
+\pagenumbering{arabic}%
+\setcounter{page}{1}
 % \end{preface}
 
-% \chapter*{Abstract}
-% XYXYXYXYX This is the abstract.
-\newpage
+\chapter{Introduction: Crafting Trans*formative Systems}
 
 $body$
+% \include{path}
+
+% \newpage
+% \chapter*{References}
+% \addcontentsline{toc}{chapter}{References}
+
+% \addcontentsline{toc}{chapter}{\href{https://coding.care/unraveling.html}{Codes for (Un)Raveling}}
+
+% \addcontentsline{toc}{chapter}{\href{https://coding.care/guide.html}{Coding.Care: Field Notes for Making Friends with Code}}
+
+% \addcontentsline{toc}{chapter}{\href{https://coding.care/unlimiting.html}{Codes for (Un)Limiting}}
+
+% \addcontentsline{toc}{chapter}{\href{https://knowingmachines.org/critical-field-guide}{A Critical Field Guide to Working with Machine Learning Datasets}}
+
+% \addcontentsline{toc}{chapter}{\href{https://coding.care/unforming.html}{Codes for (Un)Forming}}
+
+% \addcontentsline{toc}{chapter}{\href{https://libguides.usc.edu/inclusive-datasets}{Inclusive Datasets Research Guide}}
+
+% \addcontentsline{toc}{chapter}{\href{https://coding.care/unliving.html}{Codes for (Un)Living}}
+
+% \addcontentsline{toc}{chapter}{\href{https://intersectionalai.com}{Intersectional AI Toolkit}}
+
+% \addcontentsline{toc}{chapter}{\href{https://coding.care/unknowing.html}{Codes for (Un)Knowing}}
+
+% \addcontentsline{toc}{chapter}{References}
+
+
+\chapter{\href{https://coding.care/unraveling.html}{Codes for (Un)Raveling}}
+
+\chapter{\href{https://coding.care/guide.html}{Coding.Care: Field Notes for Making Friends with Code}}
+
+\chapter{\href{https://coding.care/unlimiting.html}{Codes for (Un)Limiting}}
+
+\chapter{\href{https://knowingmachines.org/critical-field-guide}{A Critical Field Guide to Working with Machine Learning Datasets}}
+
+\chapter{\href{https://coding.care/unforming.html}{Codes for (Un)Forming}}
+
+\chapter{\href{https://libguides.usc.edu/inclusive-datasets}{Inclusive Datasets Research Guide}}
+
+\chapter{\href{https://coding.care/unliving.html}{Codes for (Un)Living}}
+
+\chapter{\href{https://intersectionalai.com}{Intersectional AI Toolkit}}
+
+\chapter{\href{https://coding.care/unknowing.html}{Codes for (Un)Knowing}}
 
 \end{document}

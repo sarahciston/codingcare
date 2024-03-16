@@ -1,1 +1,13 @@
+\contentsline {chapter}{Acknowledgments}{i}{chapter*.1}%
+\contentsline {chapter}{Abstract}{iv}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Introduction: Crafting Trans*formative Systems}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}\href {https://coding.care/unraveling.html}{Codes for (Un)Raveling}}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}\href {https://coding.care/guide.html}{Coding.Care: Field Notes for Making Friends with Code}}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}\href {https://coding.care/unlimiting.html}{Codes for (Un)Limiting}}{4}{chapter.4}%
+\contentsline {chapter}{\numberline {5}\href {https://knowingmachines.org/critical-field-guide}{A Critical Field Guide to Working with Machine Learning Datasets}}{5}{chapter.5}%
+\contentsline {chapter}{\numberline {6}\href {https://coding.care/unforming.html}{Codes for (Un)Forming}}{6}{chapter.6}%
+\contentsline {chapter}{\numberline {7}\href {https://libguides.usc.edu/inclusive-datasets}{Inclusive Datasets Research Guide}}{7}{chapter.7}%
+\contentsline {chapter}{\numberline {8}\href {https://coding.care/unliving.html}{Codes for (Un)Living}}{8}{chapter.8}%
+\contentsline {chapter}{\numberline {9}\href {https://intersectionalai.com}{Intersectional AI Toolkit}}{9}{chapter.9}%
+\contentsline {chapter}{\numberline {10}\href {https://coding.care/unknowing.html}{Codes for (Un)Knowing}}{10}{chapter.10}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

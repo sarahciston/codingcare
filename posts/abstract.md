@@ -5,8 +5,24 @@
   - Framework? 
   - Concept? 
   - Pedagogical elements?  (In which context)  -->
+  
+#### Short abstract
+
+Critical AI researchers see the urgent need to understand and rethink how AI systems are defined, developed, regulated, and mitigated. *Coding.Care: Guidebooks for Intersectional AI* argues that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. The project demonstrates craft-based, process-oriented approaches to AI that can help meet this challenge. 
+
+The dissertation presents guides for fostering critical–creative coding communities as radical spaces of belonging—activated by an ethos and a politics modeled by queer and trans* communities that embraces radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. 
+
+Artists, activists, scholars, and technologists can recast their relationships to emerging technologies by reframing them as crafts like crochet—deflating AI hype, lowering barriers to learning, and emphasizing sustainability and process. Thinking craft-as-technology honors the inherited knowledge of many outsider communities. Thinking technology-as-craft provides a framework to implement those theories, ethics, and tactics as intersectional critical AI. 
+
+The guides in *Coding.Care* deal with machine learning datasets, intersectional AI, coding communities, and embodied algorithmic art. Together, they want to meet readers where they are—as non-academics or those bridging into new fields, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. *Coding.Care* offers an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives.
+
+
+#### Long abstract
 
 This dissertation argues for creative, craft-based, community-driven approaches to critical AI. 
+
+<!-- There is an urgent need to understand, critique, and rethink how we define, develop, deploy, regulate, use, and mitigate the effects of machine learning tasks, datasets, models, algorithms, architectures, and agents, which we collectively and nebulously understand as 'AI' systems. *Coding.Care: Guidebooks for Intersectional AI* argues that implementing these critical approaches into AI more broadly will require building inviting, inclusive, playful communities where a wider range of individuals can engage creatively and critically with each other and with machine learning techniques as malleable materials. It presents guides for critical-creative-caring, craft-based, process-oriented, community-driven approaches to AI that can meet this challenge.
+ -->
 
 A large interdisciplinary community is pushing for understanding, critiquing, and rethinking how we define, develop, deploy, regulate, use, and mitigate the effects of machine learning tasks, datasets, models, algorithms, architectures, and agents, which we collectively and nebulously understand as 'AI' systems. Critical AI includes critical analysis of the pitfalls of existing methods and calls for applying alternative indigenous, feminist, queer, crip, neurodivergent, and intersectional approaches. Critical AI is distinguished from applied approaches like 'AI for Good' or 'AI for Society', which can lack critical perspectives despite their intended altruism. Yet, Critical AI as a set of mixed methods of analysis and intervention has yet to be adopted into standard machine learning practices, even as the use and awareness of AI escalates.  <!-- problem statement -->
 

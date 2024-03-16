@@ -6,6 +6,7 @@ PDF_TEMPLATE = disscustom.tex # zine.tex draft.tex disscustom.tex diss.tex
 HTML_TEMPLATE = tufte.html5 # tufte.html
 
 
+
 # INPUT = posts/guide.md
 # OUTPUT = "/Users/sarahciston/Desktop/codezine"
 
@@ -20,6 +21,7 @@ PDF_FLAGS = \
 		-t pdf \
 	 	--pdf-engine=lualatex \
 		--bibliography=posts/includes/bibliography.json \
+		--csl=posts/includes/apa.csl \
 		--citeproc \
 		--template=latex/$(PDF_TEMPLATE) \
 
