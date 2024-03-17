@@ -3,7 +3,7 @@ title: Abstract
 subtitle: Coding.Care
 ---
 
-# Abstract
+<!-- # Abstract -->
 
 <!-- - How would you frame this in a job talk in 5 min? What comes forward in the description? 
   - Form? 
@@ -11,7 +11,7 @@ subtitle: Coding.Care
   - Concept? 
   - Pedagogical elements?  (In which context)  -->
   
-#### Short abstract
+### Short abstract
 
 Critical AI researchers see the urgent need to understand and rethink how AI systems are defined, developed, regulated, and mitigated. *Coding.Care: Guidebooks for Intersectional AI* argues that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. The project demonstrates craft-based, process-oriented approaches to AI that can help meet this challenge. 
 
@@ -22,7 +22,7 @@ Artists, activists, scholars, and technologists can recast their relationships t
 The guides in *Coding.Care* deal with machine learning datasets, intersectional AI, coding communities, and embodied algorithmic art. Together, they want to meet readers where they are—as non-academics or those bridging into new fields, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. *Coding.Care* offers an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives.
 
 
-#### Long abstract
+### Long abstract
 
 <!-- There is an urgent need to understand, critique, and rethink how we define, develop, deploy, regulate, use, and mitigate the effects of machine learning tasks, datasets, models, algorithms, architectures, and agents, which we collectively and nebulously understand as 'AI' systems. *Coding.Care: Guidebooks for Intersectional AI* argues that implementing these critical approaches into AI more broadly will require building inviting, inclusive, playful communities where a wider range of individuals can engage creatively and critically with each other and with machine learning techniques as malleable materials. It presents guides for critical-creative-caring, craft-based, process-oriented, community-driven approaches to AI that can meet this challenge.
  -->

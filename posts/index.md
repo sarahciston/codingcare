@@ -14,8 +14,8 @@ nav_order: 0
 <!-- <ul markdown=1 style=list-style-type:none;> -->
 <!-- Mapping of Contents -->
 <!--Queer--> 
-* QUEER [Introduction](critintro.html)
-* TRANS: [Crafting Queer Trans\*formative Systems, an Introduction](transform.html)
+* [Introduction](critintro.html)
+* TRANS: [Crafting Trans\*formative Systems](transform.html)
 * \*: [Codes for (Un)Raveling](unraveling.html)
 * CRAFT: [Coding.Care: Field Notes for Making Friends with Code](guide.html)
 * \*: [Codes for (Un)Limiting](unlimiting.html)
