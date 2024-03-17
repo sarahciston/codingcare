@@ -1,7 +1,9 @@
-\contentsline {chapter}{List of Figures}{iii}{chapter*.2}%
-\contentsline {chapter}{\numberline {1:}TRANS: Introduction to Trans*formative TechnoCraft}{1}{chapter.3}%
-\contentsline {chapter}{*: (Un)Raveling and (Un)Limiting}{1}{chapter.3}%
-\contentsline {chapter}{FORMATIVE: "A Critical Field Guide for Working with Machine Learning Datasets" and "Inclusive Datasets Research Guide"}{1}{chapter.3}%
-\contentsline {chapter}{\numberline {2:}TECH: Intersectional AI Toolkit}{2}{chapter.4}%
-\contentsline {chapter}{NO: (Un)Forming, (Un)Living, and (Un)Knowing}{2}{chapter.4}%
-\contentsline {chapter}{\numberline {3:}CRAFT: Coding.Care: Field Notes for Making Friends with Code}{3}{chapter.5}%
+\contentsline {chapter}{Acknowledgements}{ii}{section*.1}%
+\contentsline {chapter}{List of Figures}{iv}{chapter*.4}%
+\contentsline {chapter}{Abstract}{v}{section*.5}%
+\contentsline {chapter}{\numberline {1:}Crafting Trans*formative Systems}{1}{chapter.7}%
+\contentsline {chapter}{*: (Un)Raveling and (Un)Limiting}{1}{chapter.7}%
+\contentsline {chapter}{FORMATIVE: "A Critical Field Guide for Working with Machine Learning Datasets" and "Inclusive Datasets Research Guide"}{1}{chapter.7}%
+\contentsline {chapter}{\numberline {2:}TECH: Intersectional AI Toolkit}{2}{chapter.8}%
+\contentsline {chapter}{NO: (Un)Forming, (Un)Living, and (Un)Knowing}{2}{chapter.8}%
+\contentsline {chapter}{\numberline {3:}CRAFT: Coding.Care: Field Notes for Making Friends with Code}{3}{chapter.9}%

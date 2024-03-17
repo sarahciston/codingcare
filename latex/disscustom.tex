@@ -12,8 +12,8 @@
 % \submitdate{May 2024}
 % \subtitle{}
 \setcounter{tocdepth}{1} 
-
-
+\usepackage{tocloft}
+\renewcommand{\cftchapdotsep}{\cftdotsep}
 
 %%% LAYOUT %%%
 \usepackage{geometry}
@@ -110,14 +110,14 @@ $endif$
 \setlength{\parindent}{50pt}
 \def\tightlist{}
 
-\newlength{\bibitemsep}\setlength{\bibitemsep}{.0\baselineskip plus .05\baselineskip minus .05\baselineskip}
-\newlength{\bibparskip}\setlength{\bibparskip}{0pt}
-\let\oldthebibliography\thebibliography
-\renewcommand\thebibliography[1]{%
-  \oldthebibliography{#1}%
-  \setlength{\parskip}{\bibitemsep}%
-  \setlength{\itemsep}{\bibparskip}%
-}
+% \newlength{\bibitemsep}\setlength{\bibitemsep}{.0\baselineskip plus .05\baselineskip minus .05\baselineskip}
+% \newlength{\bibparskip}\setlength{\bibparskip}{0pt}
+% \let\oldthebibliography\thebibliography
+% \renewcommand\thebibliography[1]{%
+%   \oldthebibliography{#1}%
+%   \setlength{\parskip}{\bibitemsep}%
+%   \setlength{\itemsep}{\bibparskip}%
+% }
 
 % hyphens, widows, orphans
 \brokenpenalty 10000
@@ -213,23 +213,31 @@ $endif$
   % \end{titlepage}}
         % \maketitle
     \end{singlespace}
-    \pagestyle{plain}%
+    \setcounter{page}{1}
+    % \pagestyle{plain}%
 
 \newpage
-\chapter*{Acknowledgments}
-\addcontentsline{toc}{chapter}{Acknowledgments}
+    % \vskip -3em
+    \chapter*{Acknowledgments}
+    \addcontentsline{toc}{chapter}{Acknowledgments}
 % \include{path}
 
 \newpage
 \renewcommand{\contentsname}{Table of Contents}
-% \setcounter{page}{1}
-        \tableofcontents
-        \listoffigures
-        % \pagestyle{plain}%
+    \begin{singlespace}
+    % \vskip -3em
+      \tableofcontents
+    \end{singlespace}
 
 \newpage
+    % \vskip -3em    
+    \listoffigures
+
+% \pagestyle{plain}%
+\newpage
 % \include{path}
-\addcontentsline{toc}{chapter}{Abstract}
+  % \vskip -3em
+  \addcontentsline{toc}{chapter}{Abstract}
 \chapter*{Abstract}
 
 Critical AI researchers see the urgent need to understand and rethink how AI systems are defined, developed, regulated, and mitigated. \emph{Coding.Care: Guidebooks for Intersectional AI} argues that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. The project demonstrates craft-based, process-oriented approaches to AI that can help meet this challenge. 
@@ -241,18 +249,20 @@ Artists, activists, scholars, and technologists can recast their relationships t
 The guides in \emph{Coding.Care} deal with machine learning datasets, intersectional AI, coding communities, and embodied algorithmic art. Together, they want to meet readers where they are—as non-academics or those bridging into new fields, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. \emph{Coding.Care} offers an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives.
 
 \newpage
+% \vskip -3em
 \pagenumbering{arabic}%
 \setcounter{page}{1}
 % \end{preface}
 
-\chapter{Introduction: Crafting Trans*formative Systems}
+\chapter{Introduction}
 
 $body$
 % \include{path}
 
-% \newpage
+\newpage
 % \chapter*{References}
 % \addcontentsline{toc}{chapter}{References}
+
 
 % \addcontentsline{toc}{chapter}{\href{https://coding.care/unraveling.html}{Codes for (Un)Raveling}}
 
@@ -274,6 +284,7 @@ $body$
 
 % \addcontentsline{toc}{chapter}{References}
 
+\chapter{\href{https://coding.care/critintro.html}{Crafting Trans*formative Systems}}
 
 \chapter{\href{https://coding.care/unraveling.html}{Codes for (Un)Raveling}}
 

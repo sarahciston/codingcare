@@ -14,14 +14,15 @@ nav_order: 0
 <!-- <ul markdown=1 style=list-style-type:none;> -->
 <!-- Mapping of Contents -->
 <!--Queer--> 
-* TRANS: [Crafting Trans\*formative Systems, an Introduction](critintro.html)
+* QUEER [Introduction](critintro.html)
+* TRANS: [Crafting Queer Trans\*formative Systems, an Introduction](transform.html)
 * \*: [Codes for (Un)Raveling](unraveling.html)
 * CRAFT: [Coding.Care: Field Notes for Making Friends with Code](guide.html)
 * \*: [Codes for (Un)Limiting](unlimiting.html)
 * FORMATIVE: 
   * <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a> 
-*  \*: [Codes for (Un)Forming](unforming.html)
-  *  <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets Research Guide</a>
+* \*: [Codes for (Un)Forming](unforming.html)
+   * <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets Research Guide</a>
 * \*: [Codes for (Un)Living](unliving.html)
 * SYSTEMS: <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a>  
 * \*: [Codes for (Un)Knowing](unknowing.html)
@@ -51,6 +52,8 @@ By reframing cutting-edge technologies through the lens of crafting practices li
 Together, the guides that make up *Coding.Care* are meant to meet readers where they are — as non-academics or those bridging into new fields, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. The project offers an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives. -->
 
 <!-- FOR USC ONLINE -->
+<!-- ### About this collection -->
+
 Critical AI researchers see the urgent need to understand and rethink how AI systems are defined, developed, regulated, and mitigated. *Coding.Care: Guidebooks for Intersectional AI* argues that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. The project demonstrates craft-based, process-oriented approaches to AI that can help meet this challenge. 
 
 The dissertation presents guides for fostering critical–creative coding communities as radical spaces of belonging—activated by an ethos and a politics modeled by queer and trans* communities that embraces radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. 

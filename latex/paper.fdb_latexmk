@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber paper"] 1708476761 "paper.bcf" "paper.bbl" "paper" 1708476761 0
-  "includes/dissbib.bib" 0 -1 0 ""
-  "paper.bcf" 1708476761 107709 3f9770a2763d63087eef1b47983e80a3 "pdflatex"
+["biber paper"] 1710554705 "paper.bcf" "paper.bbl" "paper" 1710555108 0
+  "includes/bibliography.json" 0 -1 0 ""
+  "paper.bcf" 1710555108 107715 27389752ad722292aaa505995d158854 "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1708476760 "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/paper.tex" "paper.pdf" "paper" 1708476761 0
-  "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/paper.tex" 1708476754 10691 092652a080eb48e201671cb77570ead9 ""
+["pdflatex"] 1710555106 "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/paper.tex" "paper.pdf" "paper" 1710555108 0
+  "/Users/sarahciston/Desktop/DisserGit/codingcare/latex/paper.tex" 1710555104 10786 fa02281a985b65e0ba18a958a7133b9e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_edcawa.enc" 1490131464 2833 ab571e969b0d4b8e87f8f63627b1db02 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc" 1490131464 2835 bfce207f80837ef8737b6a788d8bc760 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc" 1490131464 2807 3bc923a7d38598e901b235df221224cb ""
@@ -186,14 +186,14 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684243380 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705653132 7883460 ac381842dace925f702d8a45c9bfe963 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "paper.aux" 1708476761 3187 9d870ab57bc447d2d1168ff0c3da927b "pdflatex"
-  "paper.bbl" 0 -1 0 "biber paper"
-  "paper.lof" 1708476761 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
-  "paper.lot" 1708476761 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
-  "paper.out" 1708476761 5844 5aaad50d0f43b5b0ae0a10684cb45b10 "pdflatex"
-  "paper.run.xml" 1708476761 2318 c2c740bf3d562a67f91d8d9cf94015a1 "pdflatex"
-  "paper.tex" 1708476754 10691 092652a080eb48e201671cb77570ead9 ""
-  "paper.toc" 1708476761 1546 6ad870d3d1edce8ab9c546e83ff3ff09 "pdflatex"
+  "paper.aux" 1710555108 1435 3834c25b6e4900564ca78419e132463d "pdflatex"
+  "paper.bbl" 1710554721 466 ee04f40f768daeed26442158e95aba61 "biber paper"
+  "paper.lof" 1710555108 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
+  "paper.lot" 1710555108 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
+  "paper.out" 1710555108 804 d3cb858640b0e3b17ce2c64db557c6ae "pdflatex"
+  "paper.run.xml" 1710555108 2324 68c9fba48b770e393839fceff2b02e13 "pdflatex"
+  "paper.tex" 1710555104 10786 fa02281a985b65e0ba18a958a7133b9e ""
+  "paper.toc" 1710555108 377 06529a95902419fbffba431a87dae25f "pdflatex"
   (generated)
   "paper.aux"
   "paper.bcf"
