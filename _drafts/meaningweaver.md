@@ -348,3 +348,11 @@ What’s happening at the level of ‘vocabulary.txt’ vs at the self-attention
 
 https://learn.microsoft.com/en-us/semantic-kernel/memories/embeddings
 Embeddings are the representations or encodings of tokens, such as sentences, paragraphs, or documents, in a high-dimensional vector space, where each dimension corresponds to a learned feature or attribute of the language. Embeddings are the way that the model captures and stores the meaning and the relationships of the language, and the way that the model compares and contrasts different tokens or units of language. Embeddings are the bridge between the discrete and the continuous, and between the symbolic and the numeric, aspects of language for the model.
+
+*Steyerl*
+
+>"As categories seem to emerge from the data themselves, they acquire the authority of an immediate manifestation or apparition. Data are no longer presented via the traditional media of graphs, clusters, curves, diagrams or other scientific abstractions. Instead, they are visualized in the shape of the thing from which they are supposed to abstract." [@steyerlMeanImages2023]  -->
+
+>"the supposed elimination of bias within datasets creates more problems than it solves. The process limits changes to parts of the output, making these more palatable for Western liberal consumers, while leaving the structure of the industry and its modes of production intact." [@steyerlMeanImages2023]
+
+>"They replace likenesses with likelinesses. [...] This is an approximation of how society, through a filter of average internet garbage, sees me. All it takes is to remove the noise of reality from my photos and extract the social signal instead; the result is a ‘mean image’, a rendition of correlated averagesor: different shades of mean. [...] Mean images are far from random h nations. They are predictable products of data populism. They pick up on latent social patterns that encode conflicting significations as vector coordinates." [@steyerlMeanImages2023]

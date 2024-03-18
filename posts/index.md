@@ -11,13 +11,15 @@ nav_order: 0
 
 <!-- <p style="font-size: 4rem; line-height: 1.2; color: darkslateblue;">Trans*formative TechnoCraft</p> -->
 
+<!-- instead of list, make these all draggable divs bubbles? -->
+
 <!-- <ul markdown=1 style=list-style-type:none;> -->
 <!-- Mapping of Contents -->
 <!--Queer--> 
-* [Introduction](critintro.html)
-* TRANS: [Crafting Trans\*formative Systems](transform.html)
+* QUEER: [Preface](critintro.html)
+* TRANS: [Crafting Queer Trans\*formative Systems, an Introduction](transform.html)
 * \*: [Codes for (Un)Raveling](unraveling.html)
-* CRAFT: [Coding.Care: Field Notes for Making Friends with Code](guide.html)
+* CRAFTING: [Coding.Care: Field Notes for Making Friends with Code](guide.html)
 * \*: [Codes for (Un)Limiting](unlimiting.html)
 * FORMATIVE: 
   * <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a> 

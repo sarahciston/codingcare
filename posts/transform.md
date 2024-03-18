@@ -1,14 +1,14 @@
 ---
 # layout: post
 permalink: transform
-title: Crafting Trans*formative Systems
+title: Crafting Queer Trans*formative Systems
 subtitle: Coding.Care
 nav_order: 2
 date: 17.03.2024
 tags: [transformative, systems, theory, practice, hybrid, academic]
 ---
 
-# What Are Trans\*formative Systems?
+# What Are Queer Trans\*formative Systems?
 
 What does crafting trans\*formative systems look like? How could they operate? Where does  this happen already? I hope we can figure that out together. The works of *Coding.Care* are experiments and instructions for myself/ves, past-present-future, gathering tactics from many traditions, making connections, collecting strategies, and wayfinding for the kinds of worlds and systems I want to [be part of/join/create]. As a phrase, 'crafting trans\*formative systems' both proposes and describes a present possibility — an intersectional [trans\*feminist] approach to [reading and relating to] emergent technological systems. Each part of the phrase says so much more about the whole. [XXX] 
 
