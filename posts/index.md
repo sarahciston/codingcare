@@ -5,6 +5,27 @@ subtitle: Guidebooks for Intersectional AI
 nav_order: 0
 ---
 
+<div class=bubblegroup>
+  <div id="intro" class="bubble" draggable=true markdown=1>QUEER: [Preface](critintro.html)</div>
+  <div id="transform" class="bubble">TRANS: [Crafting Queer Trans\*formative Systems, an Introduction](transform.html)</div>
+  <div id="unraveling" class="bubble" draggable=true markdown=1>\*: [Codes for (Un)Raveling](unraveling.html)</div>
+  <div id="cccguide" class="bubble" draggable=true markdown=1>CRAFTING: [Coding.Care: Field Notes for Making Friends with Code](guide.html)</div>
+  <div id="unlimiting" class="bubble" draggable=true markdown=1>\*: [Codes for (Un)Limiting](unlimiting.html)</div>
+  <div id="fieldguide" class="bubble" draggable=true markdown=1>FORMATIVE: <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a></div>
+  <div id="unforming" class="bubble" draggable=true markdown=1>\*: [Codes for (Un)Forming](unforming.html)</div>
+  <div id="libguide" class="bubble" draggable=true markdown=1>FORMATIVE: <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets Research Guide</a></div>
+  <div id="unliving" class="bubble" draggable=true markdown=1>\*: [Codes for (Un)Living](unliving.html)</div>
+  <div id="toolkit" class="bubble" draggable=true markdown=1>SYSTEMS: <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a></div>
+  <div id="unknowing" class="bubble" draggable=true markdown=1>\*: [Codes for (Un)Knowing](unknowing.html)</div>
+  <div id="notes" class="bubble" draggable=true markdown=1>[Progress Notes](notes.html)</div>
+  <div id="append" class="bubble" draggable=true markdown=1>[Appendices](appendices.html)</div>
+  <div id="acknow" class="bubble" draggable=true markdown=1>[Acknowledgments](acknow.html)</div>
+</div>
+
+
+
+
+
 <!-- !['tonight'](assets/img/goingonline.jpg){: .thumb } -->
 
 <!-- Here's where I'll be tinkering for a few years with a dissertation... -->
@@ -16,7 +37,7 @@ nav_order: 0
 <!-- <ul markdown=1 style=list-style-type:none;> -->
 <!-- Mapping of Contents -->
 <!--Queer--> 
-* QUEER: [Preface](critintro.html)
+<!-- * QUEER: [Preface](critintro.html)
 * TRANS: [Crafting Queer Trans\*formative Systems, an Introduction](transform.html)
 * \*: [Codes for (Un)Raveling](unraveling.html)
 * CRAFTING: [Coding.Care: Field Notes for Making Friends with Code](guide.html)
@@ -27,7 +48,7 @@ nav_order: 0
    * <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets Research Guide</a>
 * \*: [Codes for (Un)Living](unliving.html)
 * SYSTEMS: <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a>  
-* \*: [Codes for (Un)Knowing](unknowing.html)
+* \*: [Codes for (Un)Knowing](unknowing.html) -->
 <!-- </ul> -->
 
 #### Keywords: artificial intelligence, artistic research, craft, critical AI, community, critical data studies, datasets, intersectionality, machine learning, trans, queer, zines
@@ -66,7 +87,7 @@ The guides in *Coding.Care* deal with machine learning datasets, intersectional 
 
 <!-- [Full Abstract](abstract.html) -->
 
-[Progress notes](notes.html)
+<!-- [Progress notes](notes.html) -->
 
 <caption markdown=1>This work offers respect to the Tongva and Chumash peoples, who are the rightful caretakers of the land where much of this work has been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn the history of where you live, why this matters, and how to contribute.</caption>
 

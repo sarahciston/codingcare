@@ -318,13 +318,37 @@ img {
 
 
 nav {
-    float: right;
+    /* float: right; */
     position: relative;
     margin-top: 3rem;
     margin-right: 3rem;
     /* width: 50%;
     font-size: 0.8rem;
     line-height: 1.1rem; */
+}
+
+.bubblegroup {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    float: right;
+}
+
+.bubble {
+    /* position: absolute; */
+    /* cursor: move; */
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background: lightsteelblue;
+    fill-opacity: 50%;
+    /* border-color: darkslateblue;
+    border-width: 1pt;
+    border-style:double; */
+    padding: 5pt;
+    margin: 3pt;
+    border-radius: 10pt;
+    margin: 1rem;
+    /* -webkit-user-drag: element; */
 }
 
 .sidenote,

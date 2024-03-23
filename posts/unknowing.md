@@ -178,25 +178,60 @@ I had to enter the box and learn its codes, in order to create with it. In doing
 
 ===
 
-How much loss is normal? How do you recognize loss when it looks generative? Large models are said to hallucinate when they output incorrect information that sounds plausible. They recombine data in strange ways, like misremembering. The term 'hallucinate' sounds too human, implies too much agency[, even though someone who is hallucinating cannot help it either]. 
->"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024]
+<!-- How much loss is normal? When his hallucinations start, my father sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He says he doesn't mind. He likes them fine and wants them to continue. Large machine learning models are said to hallucinate when they recombine input data in strange ways, like misremembering. When models hallucinate, they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements [@]. It is a very human thing to do, to be subjective, to suffer.  -->
+
+<!-- >"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024] -->
+
+<!-- I dislike that machine learning errors are called hallucinations, described as symptoms. A model is not suffering, but may cause suffering. Instead, like my father, technologists see this suffering as an opportunity. IBM says "hallucination offers a novel approach to artistic creation." -->
+
+<!-- I ask ChatGPT to hallucinate what someone with dementia hallucinations sees.  -->
+
+<!-- >"Creating a hallucination image may not be appropriate or beneficial for understanding the condition. However, I can provide a description of some common hallucinations experienced by individuals with Lewy body dementia: Imagine a scene where reality blurs with fantasy, where everyday objects and shadows seem to transform into something else entirely. In the mind of someone with Lewy body dementia, hallucinations can manifest as vivid and often unsettling experiences. Picture a living room bathed in the soft glow of evening light. A chair in the corner seems to subtly shift and contort, taking on the appearance of a looming figure or a face staring back with hollow eyes. Shadows dance on the walls, morphing into familiar shapes that twist and distort before fading away. In the kitchen, mundane sounds become eerie whispers, and ordinary objects take on a life of their own. A teapot may appear to sprout legs and scuttle across the counter, or a loaf of bread might transform into a writhing mass of snakes before dissolving into thin air. These hallucinations can be terrifying and disorienting for those experiencing them, blurring the lines between reality and imagination in a way that is both bewildering and distressing." -->
+
+<!-- I ask again but ask for a good hallucination: -->
+
+<!-- >"A vase of flowers on the dresser may seem to multiply and sway gently as if caught in an invisible breeze. Shadows cast by the window curtains might morph into fleeting shapes that dance across the walls, resembling figures from distant memories." -->
 
 
-IBM says "hallucination offers a novel approach to artistic creation"
+<!-- I ask it to describe its own hallucinations.  -->
 
+<!-- >"Strange creatures emerge from the shadows, their forms blending seamlessly with the landscape yet possessing an otherworldly quality. A unicorn with opalescent fur and shimmering horns grazes peacefully in the meadow, its eyes reflecting the myriad colors of the twilight sky. Ethereal butterflies flit through the air, leaving trails of sparkling dust in their wake. [...] This AI hallucination serves as a reminder of the boundless potential of artificial intelligence to transcend the confines of traditional artistic expression, offering glimpses into worlds both familiar and fantastical" -->
 
-<!-- [How much loss is normal? When his hallucinations start, my father says he [doesn't mind if they/enjoys them and wants them to] continue. He sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He doesn't mind.]  -->
+<!-- I ask again but ask for a bad hallucination: -->
+
+>"the AI might hallucinate obstacles where none exist, mistaking shadows, reflections, or even patterns in the road surface for tangible hazards. A flickering streetlight or the glare from a shiny surface might be perceived as an oncoming vehicle, prompting the AI to initiate defensive maneuvers to avoid a collision." (GPT3.5 generated text)
+
+<!-- I listen to "Needle in the Hay" and think about that scene in The Royal Tennenbaums, and then about Elliott Smith. I read a bunch of articles about dementia and firearm deaths. It costs $60,000 to hire cleaners after a firearm death.  -->
+
+<!-- He calls it his 'short-term memory loss' and when he forgets that he has it, he denies the diagnosis.  -->
+People with this kind of diagnosis will [XXX]
 
 <!-- >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012] -->
 
-<!-- [When machine learning models hallucinate, it means they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements. [It is a very human thing to do, to be subjective, to suffer.] Making models not only repeats but amplifies the potentially hallucinatory data contained within their training material [@dziriOriginHallucinationsConversational2022]. When machine models hallucinate, it "creates outputs that are nonsensical or altogether inaccurate" Recommendations include guardrails, adversarial training, security concern, use filtering tools. "hallucination offers a novel approach to artistic creation" [ibm]]  -->
 
-<!-- [Hallucination is the wrong word, of course, too human. Who owns this process, this error, this loss of faculties? Who can repair it?] -->
+<!-- Making models not only repeats but amplifies the potentially hallucinatory data contained within their training material [@dziriOriginHallucinationsConversational2022]. When machine models hallucinate, it "creates outputs that are nonsensical or altogether inaccurate" Recommendations include guardrails, adversarial training, security concern, use filtering tools. "hallucination offers a novel approach to artistic creation" [ibm]]  --> -->
 
 <!-- >"generating seemingly credible content that contradicts input data or established world knowledge, a phenomenon termed 'hallucination'" [@chenUnifiedHallucinationDetection2024] -->
 
 <!-- >"includes details, facts, or claims that are fictional, misleading, or entirely fabricated, rather than providing reliable and truthful information. This issue arises due to the model’s ability to generate plausible-sounding text based on patterns it has learned from its training data, even if the generated content does not align with reality." [@rawteSurveyHallucinationLarge2023] -->
 
+
+<!-- CCWW:
+
+>"Our job is to be epic and tiny, both." "There is a need, now and always for sharply felt local intimacies" -Colum McCann, "Dessert" New Yorker
+
+>"There is, it would seem, in the dimensional scale of the world a kind of delicate meeting place between imagination and knowledge, a point, arrived at by diminishing large things and enlarging small ones, that is intrinsically artistic." Nabokov, Speak, Memory -->
+
+
+<!-- The short story, "A bullet in the brain." 60k cleanup. Not wanting to be a burden. Who wants this point in life to end. Who wants machines to stop hallucinating. What are the things you don't want to know, don't want to admit you know.  
+
+The bullet bounces around like information in a neural network, the brain is a black box. Slow motion. 
+
+The large situation is time, it moves , we perceive, forward. I realize 
+
+I am angry; I want to skip the suffering, yours and mine. The detail is the protein in the brain or the bullet, the activation function or the hallucination, the word fragment that makes the un/knowing 'go'. 
+
+And when I don't want to prevent loss, but accelerate it? Am I just trying to prevent another kind of loss, that is suffering, that is staying connected, through touch, through pain and fear, through change. To prevent process. Not as punishment. Okay, 15% as punishment. 30% as empathy. 30% as caregiver empathy. 25% as avoidance.   -->
 
 ===
 

@@ -22,19 +22,7 @@ Book Organizing Principle. Book Question, Each chapter answers a portion of the 
 ### Dissertation Writing Schedule
 
 - [ ] 04 APR Filing Due for May Grad  (05 JUL for Aug)
-- [ ] 29 MAR Diss Checklist Due, Last Revisions & Formatting for May Grad (28 JUN) - [ ] "Approval to Submit" form, generated via email, - [ ] "Appointment/Change of Committee" form, - [ ] "Survey of Earned Doctorates" form
-- [ ] **19 FEB (15 MAR) Defense Week** !15 MAR Latest Date! (13 JUN)
-- [ ] **01 FEB (23 FEB) Send Final Draft to Committee** (30 MAY)
-- [ ] 22 JAN Start Revisions
-- [ ] **01 JAN (08) Send Chairs Complete Draft**
-- [ ] 18-29 DEC Sprint 7: 
-- [ ] 10-17 DEC TRAVEL
-- [ ] 27 NOV-08 DEC Sprint 6: 
-- [ ] 13-25 NOV Sprint 5: Introduction & Conclusion (Critical AI essay (goes in IAITK?))
-- [ ] 30 OCT-11 NOV Sprint 4: Interstitial Essays & Introduction
-- [ ] ~~16-28 OCT Sprint 3: Critical Field Guide & Coding Care (second half) or/& Introduction~~
-- [ ] ~~02-14 OCT Sprint 2: Intersectional AI Toolkit & Coding Care (second half) or/& Introduction~~
-- [x] ~~18-30 SEP Sprint 1: **Coding Care** (first half) & Introduction~~
+- [ ] 29 MAR Diss Checklist Due, Last Revisions & Formatting for May Grad (28 JUN) [ ] "Approval to Submit" form, generated via email
 
 
 Writing Weeks Left: 12 weeks (inc holidays)
@@ -389,10 +377,11 @@ British writer Lola Olufemi says, in Experiments in Imagining Otherwise, "The im
 - *Notre Dame proposal & budget 6p*
 - critical guide to generative AI
 
-- *quantum proposal 1500w & budget 2p*
+- *other art proposal*
 
 - technocraft: iai & creative  
 - craft examples as IAI material practice
 - material data practices
 
+*book proposal(s)*
 - code collective book 25,000

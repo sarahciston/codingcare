@@ -356,3 +356,4 @@ Embeddings are the representations or encodings of tokens, such as sentences, pa
 >"the supposed elimination of bias within datasets creates more problems than it solves. The process limits changes to parts of the output, making these more palatable for Western liberal consumers, while leaving the structure of the industry and its modes of production intact." [@steyerlMeanImages2023]
 
 >"They replace likenesses with likelinesses. [...] This is an approximation of how society, through a filter of average internet garbage, sees me. All it takes is to remove the noise of reality from my photos and extract the social signal instead; the result is a ‘mean image’, a rendition of correlated averagesor: different shades of mean. [...] Mean images are far from random h nations. They are predictable products of data populism. They pick up on latent social patterns that encode conflicting significations as vector coordinates." [@steyerlMeanImages2023]
+
