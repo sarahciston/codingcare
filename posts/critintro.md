@@ -27,22 +27,6 @@ tags: [introduction, theory, practice, hybrid, academic]
 <!-- >"the border listens for people in a way that matches them to categories they “should” belong to (e.g. “German”, “Greek”, “Syrian”). When this listening for fails to produce these categories, the border then listens to their bodies with the purpose of uncovering the “truth”⁵ that these border subjects might be concealing. This is the border, human and technological, listening to measurement, performing auscultation, mathematically assessing extracted sonic features. Its listening is inextricably entangled with the economic arrangements of the border and the technological promise of objective truth." [@oliveiraBecomeUndone] -->
 
 
-<!-- {{ page.subtitle }}
-{:.no_toc}
-
-{{ page.title }}
-{:.no_toc} -->
-
-<!-- #### Contents -->
-
-<!-- * TOC
-{:toc} -->
-
-<!-- * where am I located? locate the self -->
-<!-- * what are my stakes? stakes for self -->
-
-<!-- intro 3800, transformative 5600, technocraft 7400, conclusion 2800, ccc guide 25.000 -->
-
 >"I'm stuck here inputting and outputting the data of a story I can't change." 
 ><footer>–Italo Calvino "The Burning of the Abominable House" [-@calvinoNumbersDarkOther1976]</footer>
 
@@ -65,6 +49,11 @@ I write from particular perspectives that inform how I understand these urgent c
 
 ## AI Needs Critical and Intersectional Approaches 
 
+A large interdisciplinary community is pushing for understanding, critiquing, and rethinking how we define, develop, deploy, regulate, use, and mitigate the effects of machine learning tasks, datasets, models, algorithms, architectures, and agents, which we collectively and nebulously understand as 'AI' systems. Critical AI includes detailed and varied analysis of the pitfalls of existing methods, beyond which cannot be addressed with technical improvements alone. In some formulations it calls for applying alternative indigenous, feminist, queer, crip, neurodivergent, and intersectional approaches; however, critical AI is also distinguished from applied approaches like 'AI for Good' or 'AI for Society', which can lack critical perspectives despite their intended altruism. Importantly, Critical AI as a set of mixed methods of analysis and intervention has yet to be adopted into standard machine learning practices, even as the use and awareness of AI escalates and its interventions grow more urgent.  <!-- problem statement -->
+<!-- This dissertation argues for craft-based, process-oriented, community-driven approaches to AI that can help meet this challenge.  -->
+
+[XXX]
+
 >"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'."
 ><footer>–Frieder Nake, "There Should Be No Computer Art" [-@nakeThereShouldBe1971]</footer>
 
@@ -84,38 +73,48 @@ Yes, in many cases it would be nice to have more, better data. But the very vali
 
 While the need for AI oversight is clear, many have been calling for total overhaul and for algorithmic justice, like computer scientist Joy Buolamwini [@buolamwiniAJLALGORITHMICJUSTICE]. Still, practical applications of these valid critiques remain difficult to implement. How do we get there? As I have previously theorized it, intersectional AI calls for demystifying normative AI systems and learning from marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through the technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investments in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022]. As a term, 'Trans\*formative' looks for root causes and radical alternatives — in this case, alternatives to the computational logics that perpetuate harmful systemic inequities.
 
-<!-- A large interdisciplinary community is pushing for understanding, critiquing, and rethinking how we define, develop, deploy, regulate, use, and mitigate the effects of machine learning tasks, datasets, models, algorithms, architectures, and agents, which we collectively and nebulously understand as 'AI' systems. Critical AI includes critical analysis of the pitfalls of existing methods. In some formulations it calls for applying alternative indigenous, feminist, queer, crip, neurodivergent, and intersectional approaches; however, critical AI is distinguished from applied approaches like 'AI for Good' or 'AI for Society', which can lack critical perspectives despite their intended altruism. Importantly, Critical AI as a set of mixed methods of analysis and intervention has yet to be adopted into standard machine learning practices, even as the use and awareness of AI escalates and its interventions grow more urgent. -->
-
-## Critical, Intersectional AI Needs Creative and Caring Approaches
-<!-- ## We Need Creative–Critical–Caring Approaches  -->
-
-*How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions?*
-
 The spaces where technologies are discussed, designed, and implemented are missing essential perspectives of those pushed to the margins, who are most capable of addressing the concerns facing technology now. These concerns are not new, nor strictly digital. They have been addressed by a wide range of communities with different types of knowledge for centuries. Many are calling urgently for Indigenous [@CAREPrinciplesIndigenousa; @haoNewVisionArtificial2022; @INDIGENOUSAI; @escofferyAncestralIntelligenceAI2023], antiracist [@AntiRacistHCINotes], antiableist [@hamraieCripTechnoscienceManifesto2019a], anticolonialist [@chakravarttyVirtualRoundtableDecolonial2018; @ravalAgendaDecolonizingData2019; @rightsDecolonisingAITransfeminist2020a], neurodiverse [@goodmanSecretLifeAlgorithms], queer [@keelingQueerOS2014; @klipphahn-kargeQueereKIComingout], intersectional [@cistonIntersectionalAIEssential2019; @klumbyteCriticalToolsMachine2022a], and other knowledge systems to be applied to machine learning and other emergent technologies. Yet intimidating, isolating cultures around the specialization of computation and programming practices have left so many of us out of these conversations. 
 
 
 With the goal to imagine different systems, code literacy should not be defined only on the narrow terms of those creating existing systems [@veeCodingLiteracyHow2017]. We know that bootcamps and hiring initiatives, though useful, do not support the goal of shifting a variety of voices into positions where can effectively make change [@abbateCodingNotEmpowerment2021; @hicksSexismFeatureNot2021; @dunbar-hesterHackingDiversityPolitics2019; @veeCodingLiteracyHow2017]. They do not acknowledge the many people already participating in the production of technologies in the global majority, from those harvesting of rare earth minerals and circuit board manufacturers [@ainowinstituteLaborThatMakes; @nakamuraIndigenousCircuitsNavajo2014] to the content moderators [@robertsCommercialContentModeration2016] to the crowd workers (Sunder 2022). [Joining an 'elite' tech field is a moving target, entangled with race, gender, and globalization politics.] Communications scholar Christina Dunbar-Hester and others call for interventions that go deeper than training more people in tech jobs, pointing out that this does little to examine the structures that organize and value work sectors. She argues this calls for "a larger reevaluation and appropriation of categories themselves—the boundaries of what is 'social' and what is 'technical' are flexible categories" [@dunbar-hesterHackingDiversityPolitics2019]. [XXX] Part of our work involves noticing how many more people are potentially already engaged with sociotechnical practices and implicated by them, as user-practitioners, data subjects and subjectees, skilled crafters and critics.
 
+## Critical, Intersectional AI Needs Creative, Care-full Approaches
+<!-- ## We Need Creative–Critical–Caring Approaches  -->
+*How do we reconnect the communities of practice who are building technologies and those who are equipped with the knowledge to consider its most urgent questions?*
+
+[xxx]
+*Coding.Care* argues for craft-based, process-oriented, community-driven approaches to AI that can better help meet these challenges. It demonstrates that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. It presents guides for fostering critical–creative coding communities as radical spaces of belonging—activated by an ethos and a politics modeled by queer and trans\* communities that embraces radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. 
+
+'Critical–creative coding' is the term I use to describe combining creative coding (existing artistic approaches to software and their surrounding communities) with applied critical approaches. Like 'tactical media' [@raleyTacticalMedia2009] and 'critical engineering' [@oliverCriticalEngineeringManifesto2011], critical–creative coding creates software and other technological objects in order to investigate them as objects of study and critique. It also emphasizes the process-, community-, and material-focused aspects of creative practice by looking to crafting and the arts. Critical methods activate creative modes and root them in sociotechnical complexity. Creative methods in turn activate critical modes and root them in care and connection, taking the critical out of the abstract and into action. This is not a binary but a blending that is needed to address AI's urgent concerns. 
+
+The emphasis on craft and creativity is not exclusively aesthetic but also strategic. Artists, activists, scholars, and technologists can recast their relationships to emerging technologies by reframing them as crafts like crochet—deflating AI hype, lowering barriers to learning, and emphasizing sustainability and process. Thinking craft-as-technology honors the inherited knowledge of many outsider communities. Thinking technology-as-craft provides a framework to implement those theories, ethics, and tactics as intersectional critical AI. I formulate this approach and its goals as 'crafting queer trans\*formative systems'.
+
+[xxx]
+
 Caring, creative, and critical approaches must be combined in order to adapt these conversations and these technologies to welcome different communities and the wider range of knowledge which is necessary. 
 
+Code can mean so much more. Code is collaborative, says Mark C. Marino, who helped develop the practice of Critical Code Studies. Code can be an inviting, interpretive practice: "Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally" [@marinoCriticalCodeStudies2020a]. Such approaches invite the creation of hybrid communities that acknowledge the interdisciplinary capacities of programming, and the diverse capacities for knowledge.  
 
-We know code means more, if we let it. Code is collaborative, says Mark C. Marino, who helped develop the practice of Critical Code Studies. Code can be an inviting, interpretive practice: "Code's meaning is communal, subjective, opened through discussion and mutual inquiry, to be contested and questioned, requiring creativity and interdisciplinarity, enriched through the variety of its readers and their backgrounds, intellectually and culturally" [@marinoCriticalCodeStudies2020a]. Such approaches invite the creation of hybrid communities that acknowledge the interdisciplinary capacities of programming, and the diverse capacities for knowledge.  
-
-This requires we reunite the divisions between theory and practice, between user and programmer, which were artificially split from the start [@AlwaysalreadyprogrammingMda; @artistBlackGooeyUniverse; @nardiSmallMatterProgramming1993]. It requires un-siloing domains and disciplines, the artificial boundaries that divide technologists from activists and critics from creators. It requires we find common language and common values that come with working knowledge of the whole system. The technical how-to means (coding skills) and the critical/analytical how-to means (analytical, political, aesthetic, ethical contexts) and the material how-to means (data, energy, hardware) have to combine and are inseparable.
+This requires reuniting the divisions between theory and practice, between user and programmer, which were artificially split from the start [@AlwaysalreadyprogrammingMda; @artistBlackGooeyUniverse; @nardiSmallMatterProgramming1993]. It requires un-siloing domains and disciplines, the artificial boundaries that divide technologists from activists and critics from creators. It requires we find common language and common values that come with working knowledge of the whole system. The technical how-to means (coding skills) and the critical/analytical how-to means (analytical, political, aesthetic, ethical contexts) and the material how-to means (data, energy, hardware) have to combine and are inseparable.
 
 >"By reinforcing the idea that there is a split between theory and practice or by creating such a split, both groups [elite academia and anti-intellectuals] deny the power of liberatory education for critical consciousness, thereby perpetuating conditions that reinforce our collective exploitation and repression. –bell hooks [-@hooksTeachingTransgressEducation1994]
 
-All making, all writing, all coding is a hybrid practice of creation (poetics), critique (politics), and code (platforms and programmatic systems). <!-- All code is writing and all writing is code.  -->
-
-How do we reunite these? We need access. We need everyone's contributions to be valued, for the effort toward understanding to be mutual because all participants know that we each have important contributions to make. Access includes many aspects. It requires connecting an individual's current understanding and circumstances to the new knowledge step by step. It considers material, financial, intellectual, social resources that allow for a variety of entry points. I may be capable of understanding how a machine learning system works, but not have the prerequisite vocabulary to enter a conversation in order to learn about it. I may understand how to operate a machine learning system, but not have the financial resources needed to run a resource-intensive devices in order to use one. I may have knowledge and resources to share, but not be able to participate because barrier-free access, transcription, gender-inclusive language, or other inclusive aspects were not prioritized by the organizers. 
+How do we reunite these? Access. Everyone's contributions need to be valued, and efforts toward understanding need to be mutual because all participants know that we each have important contributions to make. Access includes many aspects. It requires connecting an individual's current understanding and circumstances to the new knowledge step by step. It considers material, financial, intellectual, social resources that allow for a variety of entry points. I may be capable of understanding how a machine learning system works, but not have the prerequisite vocabulary to enter a conversation in order to learn about it. I may understand how to operate a machine learning system, but not have the financial resources needed to run a resource-intensive devices in order to use one. I may have knowledge and resources to share, but not be able to participate because barrier-free access, transcription, gender-inclusive language, or other inclusive aspects were not prioritized by the organizers. 
 
 >"any theory that cannot be shared in everyday conversation cannot be used to educate the public." [@hooksTeachingTransgressEducation1994]
 
 Prioritizing access here means prioritizing common language. These works are written as jargon-free as possible to allow them to travel as broadly as possible. They also vary in methodology and modality in order to access different audiences and spaces. They show how different ways of knowing are necessary to engage the same questions, as well as how different aspects of the questions must be addressed simultaneously. 
 
-This approach makes creativity and care part of its argument. These are not additions, affectations, or antonyms to critical theory or technical savvy, but rather they are central fortifications to the work. Code work is critical work is care work is creative work. 
+This approach makes creativity and care part of its argument. These are not additions, affectations, or antonyms to critical theory or technical savvy, but rather they are central fortifications to this work. Code work is critical work is care work is creative work. 
 
-Each of the works in *Coding.Care: Guidebooks for Intersectional AI* finds a different balance of these elements but includes all four. *Coding.Care: Field Notes for Making Friends with Code* gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. Its pocket-guide form discusses how to build a cooperative, interdisciplinary community for co-learning coding like the one I have facilitated since 2019. The *Intersectional AI Toolkit*'s co-authored zines are accessible guides to both AI and intersectionality, bringing together artists, activists, academics, makers, technologists, and anyone who wants to understand the automated systems that impact them. The work argues that established but marginalized tactics are necessary for reimagining more critical and ethical machine learning. Together these tools and resources ask: *Whose voices, visions, and stories are captured by automated systems? Whose are excluded, harmed, or undermined? How can AI systems be accessible for anyone to engage and intervene in?* And *A Critical Field Guide for Working with Machine Learning Datasets* translates critical AI theories and data science concepts into practical tips for dataset stewardship. Along with the *Inclusive Datasets Research Guide*, both guides combine technical skillbuilding and critical thinking for scholars and practitioners beginning to work with datasets, because datasets remain the foundation of machine learning as it grows rapidly in impact. And brief lyric essays offer interludes to the major works as oblique refractions of their topics.  
+All making, all writing, all coding is a hybrid practice of creation (poetics), critique (politics), and code (platforms and programmatic systems). All coding is writing and all writing is coding. 
+
+
+[xxx]
+
+<!-- Each of the works in *Coding.Care: Guidebooks for Intersectional AI* finds a different balance of these elements but includes all four. *Coding.Care: Field Notes for Making Friends with Code* gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. Its pocket-guide form discusses how to build a cooperative, interdisciplinary community for co-learning coding like the one I have facilitated since 2019. The *Intersectional AI Toolkit*'s co-authored zines are accessible guides to both AI and intersectionality, bringing together artists, activists, academics, makers, technologists, and anyone who wants to understand the automated systems that impact them. The work argues that established but marginalized tactics are necessary for reimagining more critical and ethical machine learning. Together these tools and resources ask: *Whose voices, visions, and stories are captured by automated systems? Whose are excluded, harmed, or undermined? How can AI systems be accessible for anyone to engage and intervene in?* And *A Critical Field Guide for Working with Machine Learning Datasets* translates critical AI theories and data science concepts into practical tips for dataset stewardship. Along with the *Inclusive Datasets Research Guide*, both guides combine technical skillbuilding and critical thinking for scholars and practitioners beginning to work with datasets, because datasets remain the foundation of machine learning as it grows rapidly in impact. And brief lyric essays offer interludes to the major works as oblique refractions of their topics.   -->
+
+### Artistic research, hybrid methods
 
 These works emerge from my artistic research (also called research-creation or arts-based research in different lineages and regions). Artistic research is neither research that produces art, nor a scholarly presentation of art, nor a creative presentation of research, but instead a hybrid practice of "creation-as-research" and research-as-creation: 
 
@@ -135,13 +134,17 @@ In my experience, this imaginative work is central to supporting very practical 
 
 >"In the context of design research, an abductive approach values the creative, speculative, and even unconscious connections between ideas and materials that develop when an artist or designer iteratively produces aesthetic artifacts. There is a value in how new ideas can quickly emerge through imaginative and experimental transformations, leaps, and juxtapositions. In terms of the development of new knowledge, an abductive approach tolerates the role that material craft and subjectivity play in meaning-making." (Griffiths 2022)
 
-[XXX][ADD][connect to this form of transformations, leaps, iterations, self-reflection, how does this format allow for self reflection and why self reflection is necessary]
+[XXX][ADD][connect to this form of transformations, leaps, iterations, self-reflection, how does this format allow for self reflection and why self reflection is necessary] [xxx]
 
 Self-reflection is an essential part of artistic research and related practices like design research. As an intervention into deep learning algorithms, [XXX-ID] Catherine Griffiths has argued for `reflexive software development` that critically considers and interactively presents the circumstances of its own production. The outputs of such research can be tools that continue to probe their research questions, both through the very processes of their creation and through their later use by others. 
 
 >"Bots can make arguments. [...] bots exist to shine a light on how things already work, but also to test the edge cases, and to propose alternatives. [...] bots are procedures against procedures." (Allison Parrish, "Procedure vs Procedure")
 
 >"artists, and artist-activists, have introduced new ways of knowing—ways of apprehending how learning machines learn, and what they do with what they know. In the process, they've also initiated learning machines into new ways of doing. [...] artists have shown how we might visualize what is not yet here. [...] Artistic practice opens up knowledge systems beyond those canonized in the institutions of the early 21st century. [...] the history of aesthetic practice also contains other histories, and diagrams of other possible futures." [@hakopianInstituteOtherIntelligences2022]
+
+### Distinguished from critical making
+
+[xxx]
 
 # What's in This Collection
 
@@ -230,3 +233,6 @@ The essay form is a kind of embodied processing that moves the [corpus through t
 <!-- [XXX][more?] -->
 
 <!-- >Willis locates in the postcinematic "the imbrication of selves and systems, of agency alongside generative processes" "Our understanding of space [and time] shifts as it is coded computationally" "our viewing is becoming a process of navigating and our stories are the ones that we tell of our own experiences of traversal and exploration." "toward time as presence, performance and exchange. This is an era of acceleration, but also of duration, of elastic time flows and of layering;" "Practice becomes participatory and collaborative, manoeuvring through new conceptions of the spatial and temporal. [@willisFastForwardFuture2016] -->
+
+# References
+

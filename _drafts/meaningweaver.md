@@ -21,6 +21,8 @@ Bernard Geoghegan, Adrian MacKenzie, Louise Amoore, Eve Sedgwick,
 
 Tokenization produces 'nearness' and 'similarity' (and thereby distance and difference) through statistical processes that claim to reflect real-world conditions. Even when they manage to depict shades of reality, rather than merely their own apparatus, much is lost. What is lost is nearbyness. Layered poetics of meaning. 
 
+historical influence ![firstpowerpoint]
+
 
 TOKENIZATION PROCESSES **CREATE/PRODUCE** NEARNESS THROUGH STATISTICAL PROCESSES THAT DO NOT NECESSARILY REFLECT REAL-WORLD CONDITIONS. EVEN WHEN THEY DO, MUCH IS LOST. WHAT IS LOST IS NEARBYNESS, LAYERS AND POETICS OF MEANING. LINGUISTIC CAPITALISM MAY NOT CARE ABOUT THIS, BUT I DO. 
 They literally sort for the most frequent bytes, then pair them and sort for the most frequent of those, then pair those, then sort again and so on. Producing and grouping together, producing nearness. 

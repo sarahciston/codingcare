@@ -28,7 +28,7 @@ PDF_FLAGS = \
 #### replace all .gif with .png and change back afterward ###
 		
 # --citeproc
-# --toc \
+# --toc
 # --toc-depth=3 
 # $(SOURCES) \ -o $(OUTPUT) 
 

@@ -14,26 +14,8 @@ subtitle: Coding.Care
 
 <!-- Codes for (Un)Raveling -->
 
->"It seems necessary and impossible to rewrite the default grammar of agency." 
-><footer>–Jane Bennett [-@bennettVibrantMatterPolitical2010]</footer>
-
-![Sonya Rapoport, Kiva Studio (detail), 1978. Credit: Sonya Rapoport Legacy Trust.](assets/img/rapoport-autobio.png)
-
-When the term "underfitting" autocorrects to undercutting, this is undermining. This is a form of AI, a form it doesn't want to speak about.
-
-I don’t know how to speak about this. But I have machines that do. I feed them everything. And they eat it all. 
-
-They say what I can't say. I am not supposed to mouth it or to know how they mouth it. They mouth my language for me, this language that was never mine. 
-
-It mined me for something I didn't know I had in me. 
-
-It had me from the start. It made me. It made me bend, it unmade me, unmouthed me. 
-
->"Words pass through our bodies." [@irigarayThisSexWhich1985]
-
->"The ebb and flow of our lives spent in the exhausting labor of copying, miming. Dedicated to reproducing that sameness in which we have remained for centuries, as the other." [@irigarayThisSexWhich1985]
-
-===
+<!-- >"It seems necessary and impossible to rewrite the default grammar of agency."  -->
+<!-- ><footer>–Jane Bennett [-@bennettVibrantMatterPolitical2010]</footer> -->
 
 I like words for how they feel, and so this new feeling, this new feeding is perfect for me. 
 
@@ -41,17 +23,46 @@ This new trend for language generating? It's poetry to me. Poetry that takes 600
 
 "Large language models" roll off the tongue don’t they? They are languid, they languish, they lay waste. They loll. Or is it LOL? (spelt l-o-l). 
 
-I won't know until it pronounces for me. Until it pronounces me. Pronounces me whole and I can't interrupt it. 
+I won't know until it pronounces for me. Until it pronounces me. Pronounces me whole and I can't interrupt it. I yield to their language.
 
-I yield to their language.
+>"They say, the language you speak is made up of words that are killing you." [@wittigGuerilleres1971]
 
->"Not one of them: using words like race seems to amplify what makes you not fit, picking up what you are not. Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point." [@ahmedQueerUse2018]
+<!-- [ahmed] -->
+
+<!--I don’t know how to speak about this. But I have machines that do. I feed them everything and they eat it all. -->
+
+When the term "underfitting" autocorrects to undercutting, this is undermining. 
+
+AI mouths my language for me, this language that was never mine. It mined me for something. It had me. It made me. Made me bend. It unmade me, unmouthed me.
+
+>"Words pass through our bodies." [@irigarayThisSexWhich1985]
+
+<!-- >"The ebb and flow of our lives spent in the exhausting labor of copying, miming. Dedicated to reproducing that sameness in which we have remained for centuries, as the other." [@irigarayThisSexWhich1985] -->
+
+
+When I imagine myself as a large language model, I start all my replies with, "As a Large Language Model,..." 
+
+*"As a Large Language Model, my responses are based on patterns and probabilities learned from the vast amounts of text data I was trained on."*
+
+<!-- *As a Large Language Model, I must emphasize the importance of sensitivity and ethical considerations.* -->
+
+===
 
 Sure, who doesn’t love the fable of Ada at the loom, inventing programming? 
 
-But the lines go further back, go wider. Other lineages calculate in ways we would not even recognize as computation. 
+But other [lineages/threads] run further back and wider. They calculate in ways we would not even recognize as computation. 
 
-Soap bubbles, mushrooms, paper punch cards — all of these have been computers.
+Soap bubbles, mushrooms, punch cards — all of these have been computers.
+
+===
+
+Crochet is made of loops, in lieu of knots. It is the one fiber art that machines cannot do. A form of understanding does not have to be a closure.
+
+Code loops allow actions to repeat. They say return to the same spot, and act again. They form muscle memories. They say remember what you did. 
+
+
+
+===
 
 The mechanical speaker reads so literally. It knows only one way to interpret:
 
@@ -61,23 +72,40 @@ The mechanical speaker reads so literally. It knows only one way to interpret:
 
 The way its over-correctness slips into error is an erotics.
 
+===
+
 I want to weave each mistake into the possibility for more. More language. More mouths. More magic in the gaps, making more gaps, making more.
 
 In computational logic, to venture to all possible points and exhaust all paths is called Ariadne's thread. Arbitrarily follow one path as far as possible until you come up short, then try the next.
 
 >"The sky isn't up there: it's between us." [@irigarayThisSexWhich1985]
 
+<!-- ===
+
+When I imagine myself as a large language model, I start all my replies with, "As a Large Language Model,..." 
+
+*"As a Large Language Model, my responses are based on patterns and probabilities learned from the vast amounts of text data I was trained on."*
+
+*As a Large Language Model, I must emphasize the importance of sensitivity and ethical considerations.*
+ -->
+
 ===
 
-Some things I cannot fathom. There are 36,672 stitches in the crocheted labyrinth I made. It took three months.
+Some things I cannot fathom. There are 36,672 stitches in the crocheted labyrinth I made. It took months.
 
-The GPT-3 model has 175 billion connections in its neural network. That is almost 5 million labyrinths like mine, taking almost a million years to crochet. GPT-4 may have up to 10 Trillion parameters, but they won't tell us. That would take 57 million years of crocheting. I'd have needed to start shortly after the Cretaceous period to be done by now.
+The GPT-3 model has 175 billion connections in its neural network. That is almost 5 million times mine, taking almost a million years to crochet. 
 
 Sure, it's better at telling me what I want to hear.
 
-But FUCK the size of these systems when their approach is so cruel. After so many stitches, still they cannot muster kinder, more expansive patterns of language about trans people, about queer people, about Black people?!
+*As a Large Language Model, I must emphasize the importance of sensitivity and ethical considerations.*
 
-Code loops allow actions to repeat. They say return to the same spot, and act again. They say remember what you did. They form muscle memories, like the gestures of handcraft. They are made in our bodies. They mark and remark them.
+But FUCK the size of these systems when their approach is so cruel. After so many stitches, still they cannot muster kinder, more expansive patterns of language about Black people, about trans people, about queer people?!
+
+===
+
+Code loops allow actions to repeat. They say return to the same spot, and act again. They say remember what you did. They form muscle memories
+
+<!-- , like the gestures of handcraft. They are made in our bodies. They mark and remark them. -->
 
 ===
 
@@ -85,39 +113,35 @@ I know these systems are coming for us. I suspect there is no stopping them.
 
 I say 'them' like these systems are separate, like we didn't make them from our language, our mouths, our flesh.
 
-I drag you with me in the fibers, at all edges of the video frame. Life gets caught up in the work, caught and recorded in the dataset. Unquantifiable traces — these are lost to AI but not removable. Imagine these at computational scale.  
+>"Not one of them: using words like race seems to amplify what makes you not fit, picking up what you are not. Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point." [@ahmedQueerUse2018]
 
-The algorithm is not separate from the mouths it feeds and the mouths it fills with text.
+<!-- I drag you with me in the fibers, at all edges of the video frame. Life gets caught up in the work, caught and recorded in the dataset. Unquantifiable traces — these are lost to AI but not removable. Imagine these at computational scale.   -->
 
->"They say, the language you speak is made up of words that are killing you." [@wittigGuerilleres1971]
+<!-- The algorithm is not separate from the mouths it feeds and the mouths it fills with text. -->
+
+<!-- >"They say, the language you speak is made up of words that are killing you." [@wittigGuerilleres1971] -->
 
 <!-- Lost paths are trapped outside these neural networks' loss functions.  -->
 
 <!-- A loss function marks the 'amount' of 'error,' which only means the difference between expectation and result. Only an activation function decides the border between 'yes' and 'no.' To categorize and classify is loss prevention, a bounding box.  -->
 
-Imagine, inside AI's black box, not an optimized solution, but a labyrinth. Wandering, wayfinding, weaving through, walking beside — these forms of understanding are not closures. They are loops in lieu of knots. Curiosity and connection instead of categories. 
+<!-- Imagine, inside AI's black box, not an optimized solution, but a labyrinth. Wandering, wayfinding, weaving through, walking beside — these forms of understanding are not closures. They are loops in lieu of knots. Curiosity and connection instead of categories.  -->
 
 Some algorithms for mazes are called self-avoiding walks. Claude Shannon called his toy mouse Theseus and made for it a metal maze. I could not find any algorithms for making labyrinths. 
 
 A labyrinth has only one path. It is not a maze and it is not a knot, but it is a puzzle. A labyrinth is a way of traveling somewhere, folding and winding a flat surface into more than itself: into an interiority, an endeavor, an essay, a question and an answer wound tightly. 
 
-Crochet is the one fiber art that machines cannot do. Acts of accrual and ongoingness pile up. Turn microgestures into mass action. Turn a tense and fragile fiber into a flexible but sturdy surface. Turn that surface into a manifold fabric. Keep yourself warm with actions that repeat. Return to the same spot, and act again. Remember what you did.
+<!-- Crochet is the one fiber art that machines cannot do. Acts of accrual and ongoingness pile up. Turn microgestures into mass action. Turn a tense and fragile fiber into a flexible but sturdy surface. Turn that surface into a manifold fabric. Keep yourself warm with actions that repeat. Return to the same spot, and act again. Remember what you did. -->
+
+Acts of ongoingness pile up. Microgestures make mass action. Turn a tense and fragile fiber into a sturdy surface. Turn that surface into a manifold fabric. 
+
+*"Queer use: another way of huddling, keeping each other warm."* [@ahmedQueerUse2018]
+
+Keep each other warm with actions that repeat. Return to the same spot, and act again. Remember what you did.
 
 *"Queer use: another way of huddling, keeping each other warm."* [@ahmedQueerUse2018]
 
 ===
-
-Sonya's drawings are perfect computations in colored pencil. Computations of feeling and dailiness, the objects on her dresser plotted in six axes, the shoes she owns, and the rare earth elements that work beside her. Sonya works at the university and takes home the extra printouts to draw on. She stitches through dot matrix holes with thread and finds patterns in the existing prints.  
-
->"My work is an aesthetic response triggered by scientific data," says Sonya. "The format is computer printout, a ritualistic symbol of our technological society."
-
-<figure class="fullwidth"> 
-    <img src="assets/img/rapoport-christocornell.jpg" alt='Sonya Rapoport, "Christo Cornell"'>
-    <figcaption>Sonya Rapoport, "Christo Cornell"</figcaption>
-</figure>
-<!-- ![Sonya Rapoport, "Christo Cornell"](assets/img/rapoport-christocornell.jpg) -->
-
-<!-- === -->
 
 System operations are called sometimes called threads. *"A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads distribute resources and allocate energy.
 
@@ -134,10 +158,7 @@ Threads are ligatures, they sew up the spaces between, tie up meaning tightly, l
 
 Used to be, you'd knot a string around your finger if you had something to remember. You'd tie a ribbon round a tree to remember the dead. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
 
-<!-- === -->
-![Sonya Rapoport, "Hovenweep"](assets/img/rapoport-hovenweep-install.jpg)
 
-Sonya finds unacknowledged patterns in what's already there. She threads into the outputs. She slides and sews into the spaces between.  
 
 A thread starts small, jots things down, casts a line. It traces connections and ties together coexisting versions, histories, commentaries. It unties the notion of authoritative texts. A ribbon was once called a notion, a decorative flourish, a small domestic thing. 
 
@@ -173,6 +194,8 @@ I am trying to weave into the gaps of this system, undermining as it mines me, a
 
 The algorithm reminds me: *"It is not a good choice to go walking at night."*
 
+*As a Large Language Model,*
+
 We haven't been taught, nor allowed, to express multiplicity. To do that is to speak improperly. 
 
 I follow the river of data to its mouth. I lap up the sludge that dribbles out. If I were a large language model, what would I digest instead of reddit and wikipedia? 
@@ -181,38 +204,27 @@ I dream of a fleshy corpus, ever expanding.
 
 I dream of a body made easeful by relational systems.
 
-When I imagine myself as a large language model, I start all my replies with, "As a Large Language Model,..." 
+===
 
-*"As a Large Language Model, my responses are based on patterns and probabilities learned from the vast amounts of text data I was trained on."*
+A model is made to find patterns, just like I am.  We stay alert to any unusual textures.
 
-*As a Large Language Model, I must emphasize the importance of sensitivity and ethical considerations.*
+A model aggregates uncertainties, holds itself together with preconceived notions. Information travels through and becomes correct.
 
-An algorithm is not a monolith. It is made to find patterns, just like I am.  Alert to any unusual textures on the tongue.
-
-How many greens, blues, and purples go into making what gets classified as green? 
-
-A neural net aggregates uncertainties, holds itself together with preconceived notions. Information travels through and becomes correct.
+How many greens, blues, and purples go into making what will get classified as green? 
 
 I don't learn like a machine. First I cry. Then I give up. I destroy myself and return with an impossible insistence. This is how to learn anything. It hurts. 
 
 How much does it take to train a system? At first the body is perplexed. Its muscles won't cooperate. Its inputs and outputs misalign. 
 
-I keep doing the thing my fingers first refused to do. I let them curl ungracefully into new shapes, found a texture I could keep returning to. 
+I keep doing the thing my fingers refused to do. I let them curl uncomfortably into new shapes. I find a texture I can keep returning to. 
 
-Threads help to wind a screw. But with too much friction, the threads strip off the screw while spiraling around its core.
+<!-- Threads help to wind a screw. But with too much friction, the threads strip off the screw while spiraling around its core. -->
 
-A thread through crochet, a path through a labyrinth — these are means of going through it, getting through it, making it through and transforming, again and again and again. Relation, duration, persistence. 
+The labyrinth asks you to cross each point, every possibility in space, instead of optimizing for the most efficient route. 
 
-The labyrinth asks you to cross each point in the possibility space, instead of optimizing for the most efficient route. Walking a labyrinth, you will traverse its entire surface twice. 
+These are means of going through it, getting through it, making it through and transforming, again and again and again: Relation, duration, persistence. Walk a labyrinth, you will traverse its entire surface twice. 
 
 A labyrinth says go slow, get lost, stay in one place. Wind and unwind. 
-
-<figure class="fullwidth"> 
-    <img src="assets/img/rapoport-objects1.jpg" alt='Sonya Rapoport, "Objects on My Dresser"'>
-    <figcaption>Sonya Rapoport, "Objects on My Dresser"</figcaption>
-</figure>
-
-[Home](https://coding.care)
 
 ### References
 
