@@ -14,6 +14,8 @@ subtitle: Coding.Care
 
 <!-- Codes for (Un)Raveling -->
 
+My mother had a pin cushion that looked like a bright red tomato. I rarely saw it, because she rarely sewed. When the tomato pincushion would appear, my favorite thing was to draw out and re-stick her needles and pins. Its needles had stray thread still waving from their eyelets, clipped after their last missions ages ago. It had a tiny strawberry companion tied to the top, and I was not sure then the strawberry's job, but to delight me. Strawberries and tomatoes were two of my favorite foods, when they weren't used for sewing, and I can remember being delighted by their presence and hers as she went about her repairs. I remember the heft of the tomato and the feel of the sound of the pins and needles as they were inserted. I have no positive associations with sewing (my mother seemed miserable the whole time), but sticking and unsticking that pincushion was a [sacred ritual/meditation]. The whole contraption seemed dropped in from a fairy planet for how out of context it felt to me and how magical I felt while holding it. I was spell-casting without the spells. I have disregarded all notions since then, until about a year ago when I began obsessively crocheting. 
+
 <!-- >"It seems necessary and impossible to rewrite the default grammar of agency."  -->
 <!-- ><footer>–Jane Bennett [-@bennettVibrantMatterPolitical2010]</footer> -->
 
@@ -21,48 +23,17 @@ I like words for how they feel, and so this new feeling, this new feeding is per
 
 This new trend for language generating? It's poetry to me. Poetry that takes 600 transatlantic flights to generate. 
 
-"Large language models" roll off the tongue don’t they? They are languid, they languish, they lay waste. They loll. Or is it LOL? (spelt l-o-l). 
+"Large language models" roll off the tongue don't they? They lay waste. They are languid. They loll. Or is it LOL? (spelt l-o-l). 
 
 I won't know until it pronounces for me. Until it pronounces me. Pronounces me whole and I can't interrupt it. I yield to their language.
 
->"They say, the language you speak is made up of words that are killing you." [@wittigGuerilleres1971]
-
-<!-- [ahmed] -->
-
-<!--I don’t know how to speak about this. But I have machines that do. I feed them everything and they eat it all. -->
-
-When the term "underfitting" autocorrects to undercutting, this is undermining. 
+>"Words pass through our bodies." [@irigarayThisSexWhich1985]
 
 AI mouths my language for me, this language that was never mine. It mined me for something. It had me. It made me. Made me bend. It unmade me, unmouthed me.
 
->"Words pass through our bodies." [@irigarayThisSexWhich1985]
+>"They say, the language you speak is made up of words that are killing you." [@wittigGuerilleres1971]
 
-<!-- >"The ebb and flow of our lives spent in the exhausting labor of copying, miming. Dedicated to reproducing that sameness in which we have remained for centuries, as the other." [@irigarayThisSexWhich1985] -->
-
-
-When I imagine myself as a large language model, I start all my replies with, "As a Large Language Model,..." 
-
-*"As a Large Language Model, my responses are based on patterns and probabilities learned from the vast amounts of text data I was trained on."*
-
-<!-- *As a Large Language Model, I must emphasize the importance of sensitivity and ethical considerations.* -->
-
-===
-
-Sure, who doesn’t love the fable of Ada at the loom, inventing programming? 
-
-But other [lineages/threads] run further back and wider. They calculate in ways we would not even recognize as computation. 
-
-Soap bubbles, mushrooms, punch cards — all of these have been computers.
-
-===
-
-Crochet is made of loops, in lieu of knots. It is the one fiber art that machines cannot do. A form of understanding does not have to be a closure.
-
-Code loops allow actions to repeat. They say return to the same spot, and act again. They form muscle memories. They say remember what you did. 
-
-
-
-===
+When the term "underfitting" autocorrects to undercutting, this is undermining. 
 
 The mechanical speaker reads so literally. It knows only one way to interpret:
 
@@ -72,22 +43,27 @@ The mechanical speaker reads so literally. It knows only one way to interpret:
 
 The way its over-correctness slips into error is an erotics.
 
-===
-
-I want to weave each mistake into the possibility for more. More language. More mouths. More magic in the gaps, making more gaps, making more.
-
-In computational logic, to venture to all possible points and exhaust all paths is called Ariadne's thread. Arbitrarily follow one path as far as possible until you come up short, then try the next.
-
->"The sky isn't up there: it's between us." [@irigarayThisSexWhich1985]
-
-<!-- ===
-
 When I imagine myself as a large language model, I start all my replies with, "As a Large Language Model,..." 
 
 *"As a Large Language Model, my responses are based on patterns and probabilities learned from the vast amounts of text data I was trained on."*
 
-*As a Large Language Model, I must emphasize the importance of sensitivity and ethical considerations.*
- -->
+===
+
+I know these systems are coming for us. I suspect there is no stopping them.
+
+I say 'them' like the systems are separate, like we didn't make them from our language, our mouths.
+
+>"Not one of them: Using words like race seems to amplify what makes you not fit, picking up what you are not. Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point." [@ahmedQueerUse2018]
+
+===
+
+System operations are called sometimes called threads. *"A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads distribute resources and allocate energy. 
+
+A thread starts small, jots down, casts a line. It traces connections and tracks versions. It unties the notion of one authoritative text. A ribbon was once called a notion — a decorative flourish, a small domestic thing. To thread the needle is to pinpoint one's argument or to split the difference. 
+
+Threads are ligatures, they sew up the spaces between, tie meaning tightly, linking letters. Threads are sutures. In one death ritual a ball of thread is unwound and passed around a body. Each mourner ties the thread to their wrist until everyone is connected in a network of grief. When the threads between them are snipped, the loops stay tied around their wrists. The strings go threadbare then fall off. Grief wears away. 
+
+Used to be, you'd knot a string around your finger if you had something to remember. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
 
 ===
 
@@ -101,104 +77,47 @@ Sure, it's better at telling me what I want to hear.
 
 But FUCK the size of these systems when their approach is so cruel. After so many stitches, still they cannot muster kinder, more expansive patterns of language about Black people, about trans people, about queer people?!
 
-===
+Code loops allow actions to repeat. They form muscle memories. They say return to the same spot, and act again. They say remember what you did. 
 
-Code loops allow actions to repeat. They say return to the same spot, and act again. They say remember what you did. They form muscle memories
-
-<!-- , like the gestures of handcraft. They are made in our bodies. They mark and remark them. -->
-
-===
-
-I know these systems are coming for us. I suspect there is no stopping them.
-
-I say 'them' like these systems are separate, like we didn't make them from our language, our mouths, our flesh.
-
->"Not one of them: using words like race seems to amplify what makes you not fit, picking up what you are not. Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point." [@ahmedQueerUse2018]
-
-<!-- I drag you with me in the fibers, at all edges of the video frame. Life gets caught up in the work, caught and recorded in the dataset. Unquantifiable traces — these are lost to AI but not removable. Imagine these at computational scale.   -->
-
-<!-- The algorithm is not separate from the mouths it feeds and the mouths it fills with text. -->
-
-<!-- >"They say, the language you speak is made up of words that are killing you." [@wittigGuerilleres1971] -->
-
-<!-- Lost paths are trapped outside these neural networks' loss functions.  -->
-
-<!-- A loss function marks the 'amount' of 'error,' which only means the difference between expectation and result. Only an activation function decides the border between 'yes' and 'no.' To categorize and classify is loss prevention, a bounding box.  -->
-
-<!-- Imagine, inside AI's black box, not an optimized solution, but a labyrinth. Wandering, wayfinding, weaving through, walking beside — these forms of understanding are not closures. They are loops in lieu of knots. Curiosity and connection instead of categories.  -->
-
-Some algorithms for mazes are called self-avoiding walks. Claude Shannon called his toy mouse Theseus and made for it a metal maze. I could not find any algorithms for making labyrinths. 
-
-A labyrinth has only one path. It is not a maze and it is not a knot, but it is a puzzle. A labyrinth is a way of traveling somewhere, folding and winding a flat surface into more than itself: into an interiority, an endeavor, an essay, a question and an answer wound tightly. 
-
-<!-- Crochet is the one fiber art that machines cannot do. Acts of accrual and ongoingness pile up. Turn microgestures into mass action. Turn a tense and fragile fiber into a flexible but sturdy surface. Turn that surface into a manifold fabric. Keep yourself warm with actions that repeat. Return to the same spot, and act again. Remember what you did. -->
-
-Acts of ongoingness pile up. Microgestures make mass action. Turn a tense and fragile fiber into a sturdy surface. Turn that surface into a manifold fabric. 
-
-*"Queer use: another way of huddling, keeping each other warm."* [@ahmedQueerUse2018]
-
-Keep each other warm with actions that repeat. Return to the same spot, and act again. Remember what you did.
-
-*"Queer use: another way of huddling, keeping each other warm."* [@ahmedQueerUse2018]
-
-===
-
-System operations are called sometimes called threads. *"A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads distribute resources and allocate energy.
-
-To thread the needle is to be precise with one's argument, to split the difference, to prick or pinpoint, puncture and divide with exactitude. 
-
-Threads are ligatures, they sew up the spaces between, tie up meaning tightly, linking letters. Threads are sutures. I read of a death ritual in which a ball of thread is unwound and passed around a body. Each mourner ties the thread to their wrist until everyone is connected in a network of grief. When the threads between them are snipped, the loops stay tied around their wrists in memoriam. They slowly wear down until threadbare then fall away. Grief wears away.  
-
-<!-- Perhaps also to suture together.  -->
-<!-- Threads tie conversations together. Conversational threading connects braided discussions.  -->
-<!-- Threads as instruments of mourning and memory. Threads as marks of accrual and disintegration.  -->
-<!-- The spiral is the simplest labyrinth.  -->
-
-<!-- The command line is an endless thread. At the command line, I can see only as far as my headlights shine, but I can make the whole trip that way (E.L Doctorow).  -->
-
-Used to be, you'd knot a string around your finger if you had something to remember. You'd tie a ribbon round a tree to remember the dead. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
-
-
-
-A thread starts small, jots things down, casts a line. It traces connections and ties together coexisting versions, histories, commentaries. It unties the notion of authoritative texts. A ribbon was once called a notion, a decorative flourish, a small domestic thing. 
-
-My mother had a pin cushion that looked like a bright red tomato. I rarely saw it, because she rarely sewed. And when the tomato pincushion would appear, my favorite thing was to draw out and re-stick her needles and pins. I loved to wonder about its internal texture that I could only sense, a specific heft and density which I suppose now must have been fine sand or buckwheat. Its needles had stray thread still waving from their eyelets, clipped after their last missions ages ago. It had a tiny strawberry companion tied to the top, and I was not sure then the strawberry's job, but to delight me. Strawberries and tomatoes were two of my favorite foods, when they weren't used for sewing, and all I can remember is being pleased to be in their presence and hers as she went about her repairs. I have no positive associations with sewing, as she seemed miserable the whole time she was at it, but sticking and unsticking that pincushion was my own sacred ritual. I was spell-casting without the spells. I have disregarded all notions since then, until about a year ago when I began obsessively crocheting. 
+Crochet is made of loops, in lieu of knots. It is the one fiber art that machines cannot do. Understanding does not have to be a closure.
 
 ===
 
 The hagfish ties herself into a knot. She moves the knot of her body over her body to scrape slime from her skin. 
 
-Wikipedia says a knot is 'an intentional complication'. 
+Wikipedia says a knot is 'an intentional complication'. *"The unknot is the least knotted of all knots." "Many knots are but complications of the unknot."* Detecting this trivial knot is called the "unknotting" problem. 
 
-The simplest knot, mathematically, is the unknot. *"The unknot is the least knotted of all knots." "Many knots are but complications of the unknot."* Detecting this trivial knot can be done computationally and is called the "unknotting" problem.
+The wound-up muscle of the heart is not a knot, although there is a knot called a heart knot. The muscle of the heart is a spiraled double-helix, looped into itself. The heart can be unwound into a flat surface. Just like any other muscle, it is a slab of meat. 
 
-The Conway knot has 11 crossings but shares properties with the unknot. 
+[This is not an unknotting problem. Understanding does not have to be a closure.]
 
-<figure class="fullwidth"> 
-    <img src="assets/img/anarchies5.jpg" alt='Sarah Ciston, "No Knots, Only Loops" installation view, June 2023'>
-    <figcaption>Sarah Ciston, "No Knots, Only Loops" installation view, June 2023</figcaption>
-<!-- ![Sarah Ciston, "No Knots, Only Loops" installation view, June 2023](assets/img/anarchies5.jpg) -->
-</figure>
+===
 
-The wound-up muscle of the heart is not a knot, although there is a knot called a heart knot. The muscle of the heart is a spiraled double-helix, looped into itself. The heart can be unwound into a flat surface. It is a slab of meat just like any other muscle. 
+Sure, who doesn’t love the fable of Ada at the loom, inventing programming? Our lady of punch cards.
 
-The spiral is the simplest labyrinth — a duration more than a form. 
+But other [lineages/threads] run further back and wider. They calculate in ways we would not even recognize as computation. 
 
-<!-- *"But the knot remembers everything, and has everything to forget. ~~[Untying the knot, therefore, is not a disarticulation. It does not break things into pieces. It is rather a casting off, whence lines that once were bound together go their different ways.]~~"* [^Ingold] (Duality/perpexity. The lines connect to make a point, the points connect to make a line) -->
+Soap bubbles, mushrooms, punch cards — all of these have been computers.
 
-If I hold everything loosely — no knots, only loops — what can I recall or create instead? 
+I am trying to weave into the gaps of this system, undermining it as it mines me, as it doesn't mind me, powerless as I feel. Can I unravel its seams — still I, still implicated?
 
-=== 
+The language model reminds me: *"It is not a good choice to go walking at night."*
 
-I am trying to weave into the gaps of this system, undermining as it mines me, as it doesn't mind me, powerless as I seem. Can I unravel its seams — still I, still implicated, "staying with the trouble"?
+I want to weave each of its errors into the possibility for more. More language. More mouths. More magic in the gaps, making more gaps, making more.
 
-The algorithm reminds me: *"It is not a good choice to go walking at night."*
+*"We haven't been taught, nor allowed, to express multiplicity. To do that is to speak improperly."* 
 
-*As a Large Language Model,*
+[xxx]
 
-We haven't been taught, nor allowed, to express multiplicity. To do that is to speak improperly. 
+If I hold everything loosely — no knots, only loops — what can emerge instead? 
 
-I follow the river of data to its mouth. I lap up the sludge that dribbles out. If I were a large language model, what would I digest instead of reddit and wikipedia? 
+>"The sky isn't up there: it's between us." [@irigarayThisSexWhich1985]
+
+===
+
+I follow the river of data to its mouth. I lap up the sludge that dribbles out. 
+
+*As a large language model, what could I digest instead of reddit and wikipedia?* 
 
 I dream of a fleshy corpus, ever expanding. 
 
@@ -206,11 +125,7 @@ I dream of a body made easeful by relational systems.
 
 ===
 
-A model is made to find patterns, just like I am.  We stay alert to any unusual textures.
-
-A model aggregates uncertainties, holds itself together with preconceived notions. Information travels through and becomes correct.
-
-How many greens, blues, and purples go into making what will get classified as green? 
+A model is made to find patterns, just like I am. We stay hyperalert to any unusual textures.
 
 I don't learn like a machine. First I cry. Then I give up. I destroy myself and return with an impossible insistence. This is how to learn anything. It hurts. 
 
@@ -218,15 +133,43 @@ How much does it take to train a system? At first the body is perplexed. Its mus
 
 I keep doing the thing my fingers refused to do. I let them curl uncomfortably into new shapes. I find a texture I can keep returning to. 
 
-<!-- Threads help to wind a screw. But with too much friction, the threads strip off the screw while spiraling around its core. -->
+Acts of ongoingness pile up. Microgestures make mass action. 
 
-The labyrinth asks you to cross each point, every possibility in space, instead of optimizing for the most efficient route. 
+*"Queer use: another way of huddling, keeping each other warm."* [@ahmedQueerUse2018]
 
-These are means of going through it, getting through it, making it through and transforming, again and again and again: Relation, duration, persistence. Walk a labyrinth, you will traverse its entire surface twice. 
+Crochet a garment, and you touch every part of it. You transform its dimensionality. Turn a fragile fiber into a sturdy surface. Turn that surface into a manifold fabric. You are not seeking the most efficient route, but you are making a path as you traverse it. 
 
-A labyrinth says go slow, get lost, stay in one place. Wind and unwind. 
+We keep each other warm with actions that repeat. Return to the same spot, and act again. Remember what you did.
+
+These are means of going through it, getting through it, making it through and transforming, again and again and again: 
+
+<!-- Relation, duration, persistence. 
+
+Walk a labyrinth, you will traverse its entire surface twice. It is not a maze meant for escape.
+
+A labyrinth says go slow, get lost, stay in one place. Wind and unwind.  -->
 
 ### References
+
+<!-- Threads help to wind a screw. But with too much friction, the threads strip off the screw while spiraling around its core. -->
+
+<!-- Some algorithms for mazes are called self-avoiding walks. Claude Shannon called his toy mouse Theseus and made for it a metal maze. I could not find any algorithms for making labyrinths.  -->
+
+<!-- A labyrinth has only one path. It is not a maze and it is not a knot, but it is a puzzle. A labyrinth is a way of traveling somewhere, folding and winding a flat surface into more than itself: into an interiority, an endeavor, an essay, a question and an answer wound tightly.  -->
+
+<!-- In computational logic, to venture to all possible points and exhaust all paths is called Ariadne's thread. It arbitrarily follows one path as far as possible until it comes up short, then tries the next. -->
+
+<!-- The labyrinth asks you to cross each point, every possibility in space, instead of optimizing for the most efficient route.  -->
+
+
+<!-- === -->
+
+<!-- A model aggregates uncertainties, holds itself together with preconceived notions. Information travels through and becomes correct.
+
+How many greens, blues, and purples go into making what will get classified as green?  -->
+
+
+
 
 
 <!-- Path-following is not so much intentional as attentional.[^Ingold] -->

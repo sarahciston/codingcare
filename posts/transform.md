@@ -4,275 +4,27 @@ permalink: transform
 title: Crafting Queer Trans*formative Systems
 subtitle: Coding.Care
 nav_order: 2
-date: 17.03.2024
-tags: [transformative, systems, theory, practice, hybrid, academic]
+date: 27.03.2024
+tags: [transformative, systems, theory, practice, hybrid]
 ---
 
 <!-- move Craft Section first as Crafting? then Queer, then transformative, then end on Systems? -->
+# Why to Craft Queer Trans\*formative Systems
 
-# What Are Queer Trans\*formative Systems?
+# What Are Queer Trans\*formative Systems? Why & How To Craft Them?
 
-What does crafting trans\*formative systems look like? How could they operate? Where does  this happen already? I hope we can figure that out together. The works of *Coding.Care* are experiments and instructions for myself/ves, past-present-future, gathering tactics from many traditions, making connections, collecting strategies, and wayfinding for the kinds of worlds and systems I want to [be part of/join/create]. As a phrase, 'crafting trans\*formative systems' both proposes and describes a present possibility — an intersectional [trans\*feminist] approach to [reading and relating to] emergent technological systems. Each part of the phrase says so much more about the whole. [XXX] 
+What does crafting trans\*formative systems look like? How could they operate? Where does this happen already? I hope we can figure that out together. The works of *Coding.Care* are experiments and instructions for myself/ves, past-present-future, gathering tactics from many traditions, making connections, collecting strategies, and wayfinding for the kinds of worlds and systems I want to [be part of/join/create]. As a phrase, 'crafting trans\*formative systems' both proposes and describes a present possibility — an intersectional [trans\*feminist] approach to [reading and relating to] emergent technological systems. Each part of the phrase says so much more about the whole. [XXX] 
 
-## Queer
+To move from thinking of technology to thinking of crafting systems, crafting queer transformative systems, what does this mean? It means to shift scales, both to zoom in and also to zoom out. 
 
-[XX] <!-- queer as in fuck you, as in queerOS, as in, weird and resistant and not explaining, refusal, not critical maker, not creative coding. -->
+# How to Craft Queer Trans\*formative Systems
 
-## Trans\*formative
+<!-- This builds on, combines, and further develops key ideas from critical maker groups, creative coding communities, and artistic research practices. Distinctive here are the attention to radical belonging and the distinct combination of intersectional queer-trans politics, a critical–creative lens, the ability to embed within other communities and move among  -->
+Technosolutionist... Techno-optimist... Technodystopian... Technocrat... Like 'cyber' before it, the prefix 'techno' teems with possibilities and portends varieties of doom. Launching spacecrafts, genuflecting robots, self-driving vehicles, and buzzwords like 'big data' dominate the imaginary while signaling in-groups and out-groups, zones of mystification and fear, as well as economic opportunism and exploitation.
 
-Trans\*formative here means emergent, embodied, embedded practices. It means process-oriented, community-oriented practices. It means making space for and honoring what we figure out as we go along, [adjusting and tailoring to the needs and goals of our specific situations as we operate in community]. 
+Yet, tech begins with techne, begins with texture and fiber, begins with the meshy matrix that sustains us [@plantZerosOnes1998]. Tech means any tool. It means not only clay tablets but the tools of language becoming discrete objects: the change from a chorus of cycling breath to individuated letters written on divided pages with simple handtools [@carsonErosBittersweetEssay2014]. It includes the histories of technology erased and rewritten by narratives of conquest and power [@crawfordCalculatingEmpires2023]. It includes unseen technologies of passing, of obfuscation, of survival [@browneDarkMattersSurveillance2015; @feministkilljoysQueerUse2018a; @gabouryBecomingNULLQueer2018; @bruntonObfuscationUserGuide2015; @keelingQueerOS2014]. Tech begins with craft and crafters. Tech not only includes us; tech comes from us.
 
-'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair beyond punishment, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care [^careinfrastructures] and reorienting the values embedded within technical objects and practices so that harm can no longer be perpetuated [@WhatTransformativeJustice2020].[^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
-
->"From the design to the production to the deployment to the outcome, there is constantly bias built in. It's not just the biases of the people themselves; it’s the inherent bias within the system. There's so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don't believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled." (Hamid Khan interviewed in [@ryan-mosleyActivistDismantlingRacist2020]) 
-
-[^careinfrastructures]: The phrase "infrastructures of care" comes from Christina Dunbar-Hester's *Hacking Diversity*, in which she refers specifically to the work done in open-source and hacker communities to create "more inclusive spaces for women, trans, and gender non-conforming people." I use the term "infrastructures of care" in this work to discuss such communities below, but I also use the term more broadly to refer to mutual aid and other forms of community in practice.
-
-[^reparative]: Reparative and restorative processing are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBTQIA+ histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions]. 
-
-Trans\*formative is an active, abolitionist, prefigurative[^prefigurative] stance. It brings `programming` closer to its synonym `processing`, combining computational practices with emotional ones, digital with digestive. Trans\*formative processing refers both to processing units (CPUs, GPUs, NPUs) and also to processing personal, communal, and generational trauma. It means both works-in-progress and algorithmic processes. Ongoing processing not fixed programmed states. Let's inspect further...
-
-[^prefigurative]: 'Abolition' is an approach to social change with the goal to eliminate the need for prisons and state-based law enforcement. Activist Ruth Wilson Gilmore says, "Abolition is not absence, it is presence. What the world will become already exists in fragments and pieces, experiments and possibilities. So those who feel in their gut deep anxiety that abolition means knock it all down, scorch the earth and start something new, let that go. Abolition is building the future from the present, in all of the ways we can." [@gilmoreMakingAbolitionGeography2018]. Like abolition, 'prefigurative' just means embodying our values, making it "a daily endeavor of creating the world we want." and "our actions create the world we want right now, we don’t have to wait for the revolution to start another, better world." [@bransonPracticalAnarchismGuide2022]. "Prefiguration provides a basis for collaborators to suggest the sort of world they might like to inhabit and, in contrast to such a world, identify those features of the prevailing world which differ from that which is desired." (Nicholson 2023) <!-- abolition -->
-
->"Revolutionary movements require a teleological pool from which to draw. The imagination is that teleological pool: it not only creates liberatory drives; it sustains, justifies and legitimises them. It undoes entire epistemes and clears a space for us to create something new. Though this 'newness', or the demand for something else, can never fully be realised in the realm of the discursive, it exists in other registers: it can be felt, heard, touched, tasted. The structural limits of this world restrict our ability to articulate all that the imagination is capable of conceiving. Do not forget this." [@olufemiExperimentsImaginingOtherwise2021]
-
-### Transformers
-
-Transformers are a current type of machine learning architecture being employed to create large models like ChatGPT and Stable Diffusion.[^techterms] They are good at digesting large clumps of text, images, video — all interpreted as numbers — and reconstituting them. Transformers main parts are called encoders and decoders, and it's often said that even their designers don't know what exactly is going on in these hidden layers. We can discuss the specifics of that elsewhere (see Interstitial: Codes for Un/Knowing). I find it more interesting that the *transformers themselves* do not know what is going on in these hidden layers of the own architecture — despite all the anthropomorphizing of AI systems, with widespread use of terms like "learning" and "understanding." While they process and produce meaning (input and output), transformers are never "aware" of the meaning of the content they are processing along the way. They are just crunching numbers.
-
-Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees[^techterms] to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known. [@browneDarkMattersSurveillance2015; @benjaminRaceTechnologyAbolitionist2019; @joqueRevolutionaryMathematicsArtificial2022]
-
-[^techterms]: For more explanation of terms, see "A Critical Field Guide for Working with Machine Learning Datasets" and "Intersectional AI Toolkit."
-
-The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate text context through a mechanism called "self-attention" that examines a selection of word-units surrounding each word-unit they interpret. [@vaswaniAttentionAllYou2023] As they proceed, they use this interpretation to predict the next most likely word to appear in a sentence, based on the words that have commonly appeared near the last few words before. 
-
-But we need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference - rather than erase it.  
-
-<!-- each of these para could be expanded. in critAI-genAI paper? -->
-
-To move from the "transformer" model architecture to trans\*formative systems means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in, speaking nearby, walking beside, being constituted and supported by, and supporting in turn.
-
-### Queer, Trans\* 
-
-<!-- expand to include Thalia's comments about Trans as not transformation but as always-has been and reclaiming transsexual. needs more about trans as a gender theory -->
-
-This work is about trans\*formation, which happens through trans\*gression,[^hooksTransgress], trans\*disciplinarity,[^transdis] [trans\*lation](#tech), and [trans\*duction](#transduce). It lays the groundwork to imagine trans\*formers otherwise, to imagine existing and emergent technological systems at a slant — to let us read them on the bias in addition to reading them as always-already biased. It calls for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough)[@dogparkdissidentsQueerFuckYou; @keelingQueerOS2014].
-
-[^transdis]: Trans\*disciplinary includes multidisciplinary and interdisciplinary — across and combined and between — plus what emerges when those diffractions become more than the sum of their parts [@visResearchPeopleWho2021].
-
-[^hooksTransgress]: As in "teaching that enables transgressions – a movement against and beyond boundaries" [@hooksTeachingTransgressEducation1994].
-
->"queer as [in] being about the self that is at odds with everything around it and has to invent, create and find a place to speak, and to thrive and to live." [@hooksTeachingTransgressEducation1994]
-
->"A queer operating system might take as its premise an interface in which such distinctions are annihilated, in which the self is shattered such that the mediating skin of the interface disappears but is not naturalized, through which we might acknowledge the always already-mediated nature of our interactions as between and among one another." [@barnettQueerOSUserManual2016]
-
-Trans\*-ness[^transnote] can be fluid, in motion, evolving, and emergent. It can also be euphoric, inclusive, embodied, self-identifying, and outside binaries. *Coding.Care* imagines systems that might also have these qualities, that can trans\*cend the logics constructed by capitalist, militaristic, racist, ableist, misogynistic lineages. It is inspired by decades of trans\*feminist and crip technoscience work, [discussed more below](#criptechno). 
-
-This approach to trans\*formative technological practices has no prerequisites. It does not require glowups or dead names, no traumatic 'before' in order to desire or access better 'afters'. We are already queer-enough, coder-enough, worthwhile-enough to participate in continually becoming ourselves. We are ["always-already programming"](https://sarahciston.github.io/codingcare/guide.html#take-comfort-in-this-programmers-paradox) [@AlwaysalreadyprogrammingMd]. By adopting this 'queer enough' approach from the LGBTQIA+ community as an ethos for critical–creative coding spaces and for a context in which to examine sociotechnical systems, I have found that it is possible to welcome a wider range of voices into conversations about the high stakes of tech. It creates more comfortable, adaptable tech-focused communities for LGBTQIA+ members and for everyone else who joins. Technology spaces have much to learn from queer community building, just as they do from Black and brown communities, yet I am also mindful that their community building often comes out of necessity for protection and safety, that it is always a tension between welcoming and insulating. 
-
-[XXX][insert discussion of radical difference and radical belonging]
-[xxx][edit trans section to queer-trans]
-
->"queerness is itself inherent within [the history of] computational logic, [...yet] there exists a structuring logic to computational systems that, while nearly totalizing, does not account for all forms of knowledge, and which excludes certain acts, behaviors, and modes of being." [@gabouryQueerHistoryComputing2013d]
-
-<!-- add Trans discussion here, quote micha et al -->
-
-<!-- The [*Transgender Studies Quarterly*](https://read.dukeupress.edu/tsq) regularly features key aspects of these conversations including discussions of transfeminisms and Black trans studies.  -->
-
-<!-- [^escobar]: Escobar, Manuel Roberto. 2016. *Cuerpos en resistencia: Experiencias trans en Ciudad de México y Bogotá.* Bogotá: Ediciones Universidad Central. -->
-
-[^transnote]: A note about terminology & Trans\*: It is essential to note that the concepts of 'trans\*' and 'transgender' have their own varied and contested histories, entangled with colonial histories, class and racialized contexts, politics and personal stakes for many. These complexities[^tsq] are charted by trans\* studies and by many works beyond critical theory. They are dynamic, continually evolving, and I hope to honor this complexity while acknowledging I cannot address it comprehensively here. In her discussion of the complexly situated histories of the term 'transgender', professor of history and gender and sexuality studies Marta V. Vicente translates and summarizes psychology professor Manuel Roberto Escobar's ethnography of subjects who use a wide range of labels and while also thinking of themselves as 'trans\*:
-
-      "The trans\* body is the result of a specific and historically based crossing of 'regimes of knowledge-power' (Escobar 2016). It is 'a baroque construction,' displaying multiple sides, socially translated by a diversity of languages. Defining oneself with words such as *marica* (fag), *puta* (whore), and *gai* (gay) and still thinking themselves as *trans\**, Escobar's subjects express a definition of the self that tries to maneuver through these 'regimes of knowledge-power' to establish their own space of resistance.[@vicenteTransgenderUsefulCategory2021]
-
-      Trans\* in its many contested forms continually grapples with this work of trying to establish self(s) in the context of "regimes of knowledge-power" and to establish cooperative spaces of resistance, which is more than ever required in this moment of computational and categorical logics. We can look to long histories of trans\* communities resistance for strategies and tactics. In *We Want It All: An Anthology of Radical Trans Poetics*, editors Andrea Abi-Karam and Kay Gabriel declare, "Against the common-sense intuition that crisis means we must demand less, we assert with our commrades that everything has to change for anything to continue." [@abi-karamWeWantIt2020].
-
-I also use the terms 'queer' and 'trans' here a lot together, and I have mixed in a kind of queer politics under the section 'Trans\*'. I am keenly aware that everyone has a different take, of course, and I'm wary of wielding such weighty words unwisely. For me, queer is the term that includes and elides all the categories of LGBTQIA+, and that's why I like it. Queer shows you its politics and shares nothing else.[^queerme] 
-
-[^queerme]: A note about terminology & me: Queer is the only term I have found that comes close to "fiting" what I've felt about myself when nothing else felt quite right. This quotation gets me:
-      
-      "For me, 'queer' is not a name so much as a protest against complacency when naming. It records a discomfort with prevailing languages for embodiment. It is not another identity so much as a steady refusal of identification—of any settled facts of life that we are supposed (already) to know. [...] No queer names without queer naming, which cannot fit easily into our usual stories." [@jordanQueerCallingsUntimely2023]
-
-      Up to now I have not used the term 'trans\*' to self-identify, even if in some ways it may be correct. By way of talking about the word 'trans\*' in relationship to trans\*formative systems, I will try to tease out my relationship to the term. I think I've been avoiding my own stakes in 'trans\*'. I was concerned my stakes were false, or would appear false, but it's actually that I didn't have the language for myself. Because there isn't language for wanting to be without language, for not wanting to be seen or described or labeled — to have your attributes held against you in an alley or an email. Or maybe they they already found a label for not wanting a label, and that language is just 'genderqueer' or 'agender' and it still doesn't sit right. The only thing I like about this complex ever-turbid gender taxonomy is that it doesn't sit still. I hate this business of taxonomies anyway and its categorizing logic is how we got to machine learning and many worse things in the first place. This could be the core of the question, if I weren't still feeling for the question. 
-
-      I wasn't using 'trans\*' for myself (though now I've gone and claimed it for my book, wtf) because it didn't sit right either when I worried other people need it more, needed the term to survive, and I had been surviving without it — as if language is a finite natural resource, like rare earth minerals we're extracting to make models of language. I used to worry the same thing about the word 'queer' before I practiced letting myself try it on, just a little (as a treat). That discomfort grew, then eventually transformed into some kind of resilience akin to pride. Still, I feel I am an ungrateful thing, whenever I reject the privileges I have when I go passing as a straight cis woman who is none of those things, those privileges tangled up with the erasures it brings, the over and over of nixing a self. It feels worse to correct someone because I don't have a true label to give. Queer and trans\*formative are the only words that feel good enough. 
-
-      I wasn't using trans\* for myself, or nonbinary or agender or genderqueer, and I wasn't using gay or lesbian or bi or pan or any other term for myself, because I worried these were all labels for people who knew who they were and had always known, who stood so far outside the identity they were called that they required this word as a reckoning. For so long I have been completely out of contact with my body and its shapes and desires. The middle space with no reckonings was safe. I had been just reading the room for cues to how I was supposed to feel, and that small rural version of me was the only reality there was. But I am writing for all the people who haven't known who they are, who haven't learned the tools the easy way, wjp haven't fit into the terms or the counterterms, who need permission to play in the spaces between like I have needed — whether they play with gender or with code or both. 
-
-      To identify with new terms (or new tools) is to make bold claims. My life would need to change for claims like these. I'd need to put my skin in the game, to admit my skin is already in the game, to admit I have skin. I've spent so long disavowing the body below my neck as it aches for me to acknowledge it. This "I" of diffuse particulates is not even atoms swirling, because the atomic model of the universe is a fiction devised by object-oriented bros who still think they can be islands. 
-
-      I spent so long as a decapitated head — <br>
-      a magician's assistant trying to <br>
-      keep the show going trying <br>
-      to please, trying to keep <br>
-      the body I couldn't feel <br>
-      safe. 
-
-      Resetting is a recursive process. It is not just a trick of pulling out the tablecloth from beneath the finely laid placesettings and the severed head. 
-
-Trans\* is not transition, not as simple as movement from one thing to another. Trans\* is not transformation; trans\* breaks open transformation with its asterisk and its radical understandings of form/ative (both discussed further below). Trans\* is much more expansive. It is unrestrictedly being who you have always been, as fully as you are, more than anyone has previously recognized, and experiencing that recognition as fully as possible. 
-
-This ongoing process can be aided by finding the language (or losing the language), or finding the tools (or breaking the tools), or finding the commrades (or making the spaces where they might find you). This text is inclusive of many understandings of trans\*-ness and transformation, combining them in order to suggest the kind of trans\*formative practices of being and/or making that are prefigurative — bringing a world into being as it always could have been and should be, might yet be still, alighting the revolutionary force of latent potentials that already are. <!-- abolition -->
-
-It's a subtle, vulnerable, powerful thing, just to recognize oneself more fully — especially if it makes space for others to do the same. I find that coding communities which are founded based on practices of queerness and transness (its ethics, tactics, ways of being) can open those communities as more radical spaces of belonging.
-
-  <!-- Maybe it's a form of transduction, a supple shift of information from one register or level to another, a reimagining of form. 'Transduce' (from Latin for 'lead across') requires translation and transformation but is always an intervention.  -->
-
-  <!-- This is me (me?), (un)defining self(s) amidst regimes of knowledge-power, (un)learning to maneuver, [XXX/building connections in order to/finding people, finding pockts of, tools, etc???] establish spaces of resistance.  -->
-
-  <!-- #### Trans-[etc]: Transducers [XXX-where?] -->
-
-  <!-- [XXX] What is the connection of 'belonging' to transness, or to queerness, and belonging to coding communities or to spaces of creative freedom or civic change? How does trans\* connect to computation at all?  -->
-
-  <p id="transduce" markdown="1">Trans\* is endlessly supple and takes on many suffixes. It finds queer reverberations in the trans\*ducers all around us that constitute and reinforce computational systems. A transducer (from Latin for 'lead across') converts physical signals into electrical signals, or vice versa. Transducers are intermediaries that allow the trans\*fer between analogue to digital. Every time information gets trans\*mitted from an environmental sensor to a digital device — sound waves into audio files, optical variation into heart rate — trans\*duction has occurred, and thus some kind of transformation. Transduction shifts information's register or level, reimagining its forms. Transduction is always intervention, informed by the device designers' decisions as well as both contemporary and historical approaches to computational knowing. Note how many times the language of trans\*-ness appears in sites of technological knowing. The material conversions required to power the logics of computation (such as converting qualities into voltages into quantities) all pass through gates of trans\* thinking.</p>
-
-</div>
-
-<!-- Transience, Translucence -->
-
-<!-- "Form as a passage. Transduction creates a new process." -->
-
-<!-- glyphs, emoji, runes -->
-
-### \* (asterisk)
-
-The `*` after `trans` longs for anything that follows; it opens up space for the layered and undefinable becoming, and as such can include anyone who wonders if they belong, who wonders what they contribute, who wonders what "this whole thing" is about (be it gender, sexuality, technology, whatever). 
-
-Combined with trans, or at large, the asterisk is the interstitial. It is a footnote that defines our terms, and also it is the invitation to extend beyond any definition given. 
-
-The asterisk is a perturbation, a pebble in the shoe. In the German language, the gendering of nouns and verbs is haphazardly addressed by an asterisk that breaks the word, introduces a glottal stop between its 'masculine' and 'feminine' formations. `Student` or `Studentin` becomes `Student*in`; `Bäcker` or `Bäckerin` becomes `Bäcker*in`. This brief interruption can be read as a faulty solution that maintains gender-as-binary, it's true. And also, this hesitation adds a frequent awkwardness that highlights how often conversation is about gender unnecessarily. It physically opens up a space (in the mouth) where gender is unknown/unstable/all. 
-
-A French or English apostrophe may mark an omission of letters, but this elision also joins together, suturing up the distance it creates. The asterisk shares this tension here, as a clot that heals, an unspeakable but audible gasp. 
-
-Like the apostrophe at the start of `'pataphysics`, which gestures to the absurdity from which it springs, the asterisk is the instigator and the multiplier, the pivot and the punctum and the portal.
-
-It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not a redaction which the asterisk marks, but the possibilities of unknown language underneath. It's the tension of knowing and not saying, as in the marking of `sw*@r` words. It's once again queer as a politics, "queer as in fuck you."
-
-The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. In mathematics the asterisk is duality, mirrors mirroring each other, points connecting to make lines and lines crossing to make points, weak-star topologies[^Miller] and infinite vector space. This returns us to the word vectors and latent spaces of transformers.[^Q]
-
-[^Miller]: Thanks to Miller Puckette for expansive discussions about weak-star topologies, splines, the asterisk, and Claude Shannon. 
-
-[^Q]: Just after writing on asterisks, Open AI announced Q\*, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023]. At the same moment, "The Gospel" AI system is used in Isreal to select and increase its bombing targets by orders of magnitude [@daviesGospelHowIsrael2023]. AI technology was originally being developed alongside and as part of WWII and Cold War technologies, now AI is used directly in warfare. The same companies warning of the future dangers of AI make this their marketing strategy: GPT-2 was open-source but 'too big and too dangerous to release' until it appeared as an even bigger GPT-3, then GPT-4 was closed and pay-to-play. Worse yet, those so-called dangers distract from the very-real, immediate dangers they impose, like The Gospel, face recognition in policing, and more subtle forms. 
-
-<!-- The snake eats itself, the war tech that was being developed at the same time as the beginning of AI, now AI being used for war. -->
-
-<!-- [xxx][Nearness sections moved to conclusion from here] -->
-
-### Formative 
-
-What is formative shapes us. Our early experiences make us who we are. These are the foundations we can't see, the scaffolding of our thought, the infrastructures of our being. I am interested in the formative aspects of sociotechncial systems, produced in entangled loops of human networks, codified language, and rare earth. How we become. How we become with and through sociotechnical systems. 
-
-Each of the works collected here asks: What are the fundamental assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? `What are the formative assumptions underlying any technology or way of being?` These works tease out the metaphors we have relied on so long we can no longer see them; they ask what other metaphors might make space for new forms or reforms.
-
-Form in-forms content. The shape of the container decides what can fill it. I work in code and in art because I believe: If I know how to make forms, or even platforms, not only the content to plug into existing forms, I am more free to work both form and content in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. They are inseparable.
-
-In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. It also re-forms me through this mutual process: 
-
->"In both carpentry and textiles, the form of a thing does not stand over it or lie behind it but emerges from this mutual shaping, within a gathering of forces, both tensile and frictional, established through the engagement of the practitioner with materials that have their own inclinations and vitality." [@ingoldLifeLines2015]
-
-Form activates. No form is neutral, although if we use it long enough we begin to look through it, like the blank page, or the MS Word 'blank page'. Each interface or material enables or encourages particular experiences and outcomes, and denies or deflects others — whether through predictive text in search, syntax highlighting in code, or the constraint of an eight-page paper zine. Some forms invite us to collaborate in imagining the usefulness of their limits and the boundlessness in their constraints. Through time spent in process, working with and against form, our focus can shift from producing outputs that meet the brief of the form, to working with the form to reshape both the form and ourselves in new understandings and new orientations.
-
-Yet current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. As media theorist Sarah Sharma reminds us, for the 'Broken Machines' who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. 
-
->"In order to understand and thus accept you, I have to measure your solidity with the ideal scale providing me with grounds to make comparisons and, perhaps, judgments. I have to reduce. [...] perhaps we need to bring an end to the very notion of a scale. Displace all reduction. Agree not merely to the right to difference but, carrying this further, agree also to the right to opacity that is [not enclosure within an impenetrable autarchy but] subsistence within an irreducible singularity. Opacities can coexist and converge, weaving fabrics. To understand these truly one must focus on the texture of the weave and not on the nature of its components. For the time being, perhaps, give up this oid obsession with discovering what lies at the bottom of natures. There would be something great and noble about initiating such a movement, referring not to Humanity but ta the exultant divergence of humanities. Thought of self and thought of other here become obsolete in their duality. Every Other is a citizen and no longer a barbarian. What is here is open, as much as this there. 1 would be incapable of projecting from one to the other. This-here is the weave, and it weaves no boundaries. The right to opacity would not establish autism; it would be the real foundation of Relation, in freedoms." [@glissantPoeticsRelation2009a]
-
-To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021; @amaroBlackTechnicalObject2022]. The formative structures we create (taxonomies, schemas, ways of knowing) support restrictive unknowing. They ease and smooth passage through our days and our systems, saying don't look, you already understand. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
-
-Code forms, then calcifies. Pattern turns to template. In the procedures of object-oriented programming languages, the template runs: `init --> name --> get --> set`[^oop]. 
-
->"The more a path is used the more a path is used. [...] When an effort becomes normal, a form is acquired." [@ahmedQueerUse2018; @ahmedQueerPhenomenologyOrientations2006]
-
-[^oop]:  Creating classes in object-oriented programming lets the programmer instantiate each instance of an object with a pre-determined form, adjustable only within those limits. These processes indicate what prior schemas you'll pull from, what parts you'll write over, what qualities you'll predetermine. They indicate what aspects will be qualities of the entire class, and what qualities will be specific to each object. They determine what actions each 'object' will 'know' how to do, and how the programmer or user will establish and retreive information. There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.
-
-If forms shape content, and vice versa, of course tools also shape forms. Equipping ourselves with the knowledge, resources, and agency to make the tools (to make the platforms to make the forms to make the content) is necessary for a more holistic approach to researching formative tech and creating trans\*formative tech. Toolmaking includes collecting sets of tools, documenting and creating guides to existing tools as well. It also includes the infrastructures and support systems necessary to make any of these practices possible.
-
->"tools and infrastructure are not only the preconditions for the work; at their best, they are also part and parcel of the work, deeply integrated into its methods and outcomes. Our tools and infrastructures are rich objects to think with." [@mcphersonFeministSoftwareLab2018]
-
->"instruments develop through engaged and contingent practices. Instrumentalism involves setting in motion, operationalizing, and potentially transforming. Instruments—whether in the form of concepts or sensors—are instrumental to the unfolding, the doing, and the transforming" [@gabrysHowThingsSensors2019]
-
-We think with our tools, instruments, sensors and the surrounding systems that enable them and maintain them. All of these layers are entangled. Susan Leigh Star calls infrastructure a "fundamentally relational concept," but one that despite its embeddedness operates invisibly unless broken. She also argues that infrastructure marks membership in relational groups, as we "acquire a naturalized familiarity with its objects," practices, and standards [-@starEthnographyInfrastructure1999]. Thus infrastructure — and the tools, platforms, forms, and content that it consists of — also marks us as belonging, knowing, capable, welcome, or not. 
-
-How do we think critically through re/making infrastructures, when they exist beyond any one of us, always relational and often invisible? By returning to, and reattuning to, the solidarities we find within and across communities, and the frictions we find within and across materials. 
-
-<p id="criptechno" markdown="1">Those who are left unsupported by infrastructures, those who are left out of representations or who are targeted disproportionately by digital systems, already know in deeply embodied ways about the friction they feel as they move through systems that do not easily contain their forms. Scholars Aimi Hamraie and Kelly Fritsche, authors of the "Crip Technoscience Manifesto" [-@hamraieCripTechnoscienceManifesto2019a], call these infrastructures "frictioned technologies" and emphasize:</p>
-
->"the skills, wisdom, resources, and hacks disabled people utilize for navigating and altering inaccessible worlds. In pushing crip technoscience as a field of research and a practice of critical 'knowing-making', we conjure frictional practices of access production, acknowledging that science and technology can be used to both produce and dismantle injustice." [-@hamraieCripTechnoscienceManifesto2019a]
-
-Their manifesto reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs. By centering their community as knowledge holders and creators, and by seeing "interdependence as a political technology," they shift the design goals for technology. Rather than outsiders providing services to achieve normalized individual independence, they reorient toward kinship building [-@hamraieCripTechnoscienceManifesto2019a]. 
-
-Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." [@hickmanTranscriptionWorkPractices2019a]
-
-Thus, form is always forming from within complex systems of interrelation. Formative and transformative technologies are more (and less) than their forms. They must emerge on our own terms — from the formats and methods of the communities they serve, with our values, goals, and approaches leading the way. 
-
-Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources. I keep returning to this realization: 
-
-`Interdependence is indigenous knowledge.`
-
->"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008]
-
-Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). As Erin Manning says of the spiral, it is "more duration than form" [@manningAlwaysMoreOne2013]. Like all verbs, then, the verb form implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. This negates object-oriented ontologies and object-oriented software programs that want to encapsulate and abstract away objects' entanglements with the world. 
-
->"I speak of the *verb process*, the doing, the coming into being, the at-the-time-of. Which is why we think there is particular value in live music, contemplating the artifact as it arrives, listening to it emerge. There it is. And There." [@barakaHomeSocialEssays1966]
-
-<!-- >"even to name something, is to wait for it in the place you think it will pass" [@barakaHomeSocialEssays1966] -->
-
-<!-- Think how trans\*duction, what device or instrument allows shift in form, and what designer shapes the device.  -->
-
->"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb 'to knot' and view knotting as an activity of which 'knots' are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-field or, in short, about 'making things stick'.  Accordingly, our focus should be on forces and materials rather than form and content." [@ingoldLifeLines2015]
-
-To frame research through relationships is also to foreground accountability by asking, as Shawn Wilson offers in *Research Is Ceremony*, "What am I contributing or giving back to the relationship? Is the sharing, growth and learning that is taking place reciprocal?" Wilson says that in an Indigenous Research Paradigm, "What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations" [-@wilsonResearchCeremonyIndigenous2008].
-
-In this sense of reciprocity, the question of form takes shape as an offering. What does our creative work offer back, and in what form will that offering be most legible and accessible? Some forms I have tried: manifesto, toolkit, zine, prototype, platform, black box, machine, labyrinth, server, service, sentence, story, interface, guide, document, cauldron, process. 
-
->"Form is simply *how* a thing exisits (or what it exists as). [...] Content is *why* a thing exists. [...] but they are not separable in any object." [@barakaHomeSocialEssays1966]
-
-As form moves into its verb shapes, identity too moves into practice. Johanna Hedva marks this as a pivot from identity politics to practices and methods, inextricably coupled as theory-practice: 
-
->"Disability, queerness, open source — not as identities, or groups I belong to, but as modes of doing, of how I practice myself. Being an outsider means that the question of theory and practice — how practice is affected by theory, how theory is constructed by practice — becomes the most important one. Membership to particular groups and experiences is often predicated on the visual — whether someone 'looks like' they belong or not — which means that my membership to most groups must rely on something else. My belonging has more to do with how I enact that group's politic" [@hedvaBelongingMess2018]
-
-Our being-in-process is both the means to "be" (prefiguratively) and also the means of being-in-relation, -in-politic, -in-identity, in-between. <!-- abolition -->
-
->"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
-
->"a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body." [@manningAlwaysMoreOne2013] 
-
-I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux — of things unforming and reforming relationally — that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. In the un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change. <!-- abolition -->
-
->"Relation is open totality; totality would be relation at rest. [...] Relation is movement." [@glissantPoeticsRelation2009a]
-
-Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-foldable traces of its making — a flattened, temporarily static version of its coming-into-shape, marking the places it once touched against itself as it held different forms [@sedgwickWeatherProust2012] — crafting trans\*formative systems aims to "decipher the history of the making" and the future shapes they might take. 
-
-I want forms that can decode these histories, plant these futures, and embrace them. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read and connect.[^dream] I don't want the innards and innerworkings hidden from me; I want them explained so I can tinker with them. I want to understand how they relate to and shape what I am making. 
-
->"When writing, the code 'material' speaks back to the programmer through various kinds of testing [...]. The process of testing often results in surprises, and in changes to the original plan" [@blackwellMoralCodes2024].
-
->"We shouldn't make systems too automatic, so that the action always goes on behind the scenes; we ought to give the programmer-user a chance to direct his creativity into useful channels." [@knuthComputerProgrammingArt1974]
-
-In this way, I see all coding as writing and all writing as coding. I want systems that play to these entanglements and invite us into their complications with a helping hand, instead of hiding and encapsulating their operations in ways that limit and name what we can make, create, be in advance. 
-
-[^dream]: In my dream notes, I have written "semantic web layer cake?" and "Gollum platform?" I rarely imagine I am the only one imagining such things, until I try to explain them to others. I expect it to be easy, that these hybrid forms already exist — becaue they seem so small and obvious to me, how complicated could they be? But when I try to find some preexisting version, I come up empty, frustrated, confused. And I am left without tools or language to begin building such a connected and connecting form on my own.
-
-<!-- >"An essential element of coding is deciding what to call things. [...] Inventing a name for something is an exercise in philosophical abstraction. Two or three words might summarise hundreds of lines of code. When chosen well, this name becomes the definition of what that code should do." [@blackwellMoralCodes2024] -->
-
-<!-- >"even to name something, is to wait for it in the place you think it will pass" [@barakaHomeSocialEssays1966] -->
-
-
-<!-- [xxx][ADD]
->"True randomness is a slippery thing; it is a property not of things in themselves, like individual numbers, but of their relationship to one another. [...] Randomness is relational. [...] You can't programme a computer to produce true randomness, " 
-The problem of pseudorandomness, computation's inability to produce truly random numbers, happens because "Randomness is relational"  -->
-
-<!-- ## TechnoCraft -->
-
-## Systems [XXX]
-
-<!-- ### Techno-? -->
-### [XXX][How did we get the systems we have?]
-
-Technosolutionist... Techno-optimist... Technodystopian... Technocrat... Like 'cyber' before it, the prefix 'techno' teems with possibilities and portends varieties of doom. Bubbling experiments and launching spacecrafts, self-driving vehicles and buzzwords like 'big data' dominate the imaginary while signaling in-groups and out-groups, zones of mystification and fear, as well as economic opportunism and exploitation.
-
-Yet, tech begins with techne, begins with texture and fiber, begins with the meshy matrix that sustains us [@plantZerosOnes1998]. Tech means any tool. It means not only clay tablets but the tools of language becoming discrete objects: the change from a chorus of cycling breath to individuated letters written on divided pages with simple handtools [@carsonErosBittersweetEssay2014]. It includes the histories of technology erased and rewritten by narratives of conquest and power [@crawfordCalculatingEmpires2023]. It includes unseen technologies of passing, of obfuscation, of survival [@browneDarkMattersSurveillance2015; @feministkilljoysQueerUse2018a; @gabouryBecomingNULLQueer2018; @bruntonObfuscationUserGuide2015; @keelingQueerOS2014]. Tech includes craft and crafters. Tech includes us. It comes from us.
-
-Technology-as-craftsmanship is nothing new. In an ethnography of AI developers, Lucy Suchman and Randall Trigg referred to artificial intelligence as 'craftwork'. In what they called "socially organized craftsmanship," they saw "the work of designing intelligent machines as a specific form of social practice - a form made the more interesting by AI's own concern with the delegation of social practice to machines" [@suchmanArtificialIntelligenceCraftwork1993]. Suchman and Trigg invoke craft as an opening for critique, noting the distance between the formalist constraints on AI problem design and the innumerable variables of its real-world applications. 
+Thinking technology-as-craftsmanship is nothing new. In an ethnography of AI developers, Lucy Suchman and Randall Trigg referred to artificial intelligence as 'craftwork'. In what they called "socially organized craftsmanship," they saw "the work of designing intelligent machines as a specific form of social practice - a form made the more interesting by AI's own concern with the delegation of social practice to machines" [@suchmanArtificialIntelligenceCraftwork1993]. Suchman and Trigg invoke craft as an opening for critique, noting the distance between the formalist constraints on AI problem design and the innumerable variables of its real-world applications. 
 
 <!-- >Craft and code were established as a binary, argue [XXX] "Modernity thus rested on a stark division between mechanical, rationalistic rules and a culture of embodied skill that had to be rendered otiose." [@evansCraftCodeBinary2023] -->
 
@@ -292,30 +44,29 @@ Craft remembers how to operate by slow consideration in and for community, in co
 
 >"a craft approach to digital technologies supports intuitive practice that operates creative and aesthetic knowing, leading to technical or scientific insight and ultimately innovation." [@nimkulratCraftingTextilesDigital2016]
 
-# How to Craft QTS 
-<!-- move this first as Crafting section? then queer, then transformative, then end on systems? -->
+### How is this different from critical making, hackerspaces, creative coding, or anything else?
+
+### What craft is not
+
+While this text argues for craft as a materialization of intersectional theories, ethics, and tactics, which can help apply them to emerging technologies — craft is not the only way to do intersectional practice, and not all craft is intersectional practice. 
+
+Craft includes many forms, from fiber arts to woodworking to programming to writing — but craft here refers to practice, process, making, and learning, rather than mastery over a skill in order to gain status or maintain status quo. In contrast to process-oriented crafting, performance artist and poet Fargo Nissim Tbakhi says that literary craft "is a counterrevolutionary machine." High-art notions of craft use "aesthetics" to refine work toward the polite and proper, in order to rob them of political power. Tbakhi explains:
+
+>"The Craft which is taught in Western institutions, taken up and reproduced by Western publishers, literary institutions, and awards bodies, is a set of regulatory ideas which curtail forms of speech that might enact real danger to the constellation of economic and social values which are, as I write this, facilitating genocide in Palestine and elsewhere across the globe. [...] Craft is the process by which our own real liberatory tools are dulled, confiscated, and replaced. We believe our words sharper than they turn out to be. [...] what Craft does to our writing: pressures and pressures until what matters, what we need to say, gets pushed to the margins or disappeared entirely." [@tbakhiNotesCraftWriting2023]
+
+Tbakhi speaks of craft that responds to (and enacts) institutional measuring, monitoring, regard, and power. This is the craft of euphemism and nihilism. Such craft is the milquetoast technical fix to machine learning's 'fairness' problems that replaces offending text like 'dyke', because it cannot tell the difference between a slur and a community. It replaces offending text with boilerplate diversity speak that comes out both toothless and simultaneously 'too woke'. It replaces offending text but offers nothing intsead, and the chasm that remains is all some of us get to know of ourselves from generative AI systems. I agree with Tbakhi about this kind of craft, when he says, 
+
+>"Craft is what keeps us polite while the boot is on our neck or on somebody else's. And we cannot afford that, not now and not going forward." [@tbakhiNotesCraftWriting2023]
+
+But craft need not stay polite or straighten its rough edges. "Anticolonial writers in the U.S. and across the globe have long modeled alternative crafts which reject these priorities, and continue to do so in this present moment. Yet Craft still haunts our writing" [@tbakhiNotesCraftWriting2023] Despite this haunting, other engagements with craft — craft as community, craft as lineage, craft as experimentation, craft as resistance — can also help us to reject the institutional and infrastructural claims to our voices. 
+
+Reclaiming craft does not mean shrinking so small that we cannot be effective, nor so precious about aesthetics or rhetoric that we lose the cause. It does not mean a return to luddite nostalgia: Everything was *not* simpler in the past, except for the few people who held more power over others (much like now). Reclaiming craft from its feminized, domesticized, racialized pejoratives and applying craft as a lens for technology practices means embracing its scrappy imperfections and revolutionary potentials. 
 
 ### What craft allows
 
 Many have paired code with craft, or talked about the similarities of knitting or weaving with programming. Yes, let's celebrates these similarities and wants to decontextualize the linear histories of computer programming, but also let's push this argument further. It argues that not only should we bring craft's materials into coding spaces, but also we should bring craft's ethos and ethics into coding spaces as well. It's not enough to weave electronics into our fiber arts as a way to build technical literacy; we need to weave intersectional methods and mindsets into technical arts. Craft carries many of these methods and mindsets in its material culture. This section will discuss a few of these aspects.
 
 Focusing on craft means noticing the material, handworked, skilled, tinkered, iterative, process-oriented, embodied (intersectional) practices of knowledge and production that technologies emerge from. It means noticing how such practices can intervene in existing technologies and reshape emerging ones. It acknowledges human choices; built skills, tacit knowledge, and material needs; networks and communities of practice. 
-
-#### (First, a note on what craft is not)
-
-While this text aruges for craft as a materialization of intersectional theories, ethics, and tactics, which can help apply them to emerging technologies — craft is not the only way to do intersectional practice, and not all craft is intersectional practice. 
-
-Craft includes many forms, from fiber arts to woodworking to programming to writing — but craft here refers to practice, process, making, and learning, rather than mastery over a skill in order to gain status or maintain status quo. In contrast to process-oriented crafting, performance artist and poet Fargo Nissim Tbakhi says that literary craft "is a counterrevolutionary machine." High-art notions of craft use "aesthetics" to refine work toward the polite and proper, in order to rob them of political power. Tbakhi explains:
-
->"The Craft which is taught in Western institutions, taken up and reproduced by Western publishers, literary institutions, and awards bodies, is a set of regulatory ideas which curtail forms of speech that might enact real danger to the constellation of economic and social values which are, as I write this, facilitating genocide in Palestine and elsewhere across the globe. [...] Craft is the process by which our own real liberatory tools are dulled, confiscated, and replaced. We believe our words sharper than they turn out to be. [...] what Craft does to our writing: pressures and pressures until what matters, what we need to say, gets pushed to the margins or disappeared entirely." [@magazineNotesCraftWriting2023]
-
-Tbakhi speaks of craft that responds to (and enacts) institutional measuring, monitoring, regard, and power. This is the craft of euphemism and nihilism. Such craft is the milquetoast technical fix to machine learning's 'fairness' problems that replaces offending text like 'dyke', because it cannot tell the difference between a slur and a community. It replaces offending text with boilerplate diversity speak that comes out both toothless and simultaneously 'too woke'. It replaces offending text but offers nothing intsead, and the chasm that remains is all some of us get to know of ourselves from generative AI systems. I agree with Tbakhi about this kind of craft, when he says, 
-
->"Craft is what keeps us polite while the boot is on our neck or on somebody else's. And we cannot afford that, not now and not going forward." [@magazineNotesCraftWriting2023]
-
-But craft need not stay polite or straighten its rough edges. "Anticolonial writers in the U.S. and across the globe have long modeled alternative crafts which reject these priorities, and continue to do so in this present moment. Yet Craft still haunts our writing" [@magazineNotesCraftWriting2023] Despite this haunting, other engagements with craft — craft as community, craft as lineage, craft as experimentation, craft as resistance — can also help us to reject the institutional and infrastructural claims to our voices. 
-
-Reclaiming craft does not mean [becoming/focusing] so small that we cannot be effective nor so precious [about aesthetics] that we lose the cause. It does not mean a return to luddite nostalgia: Everything was *not* simpler in the past, except for the few people who held more power over others (same as now). Reclaiming craft from its feminized, domesticized, racialized pejoratives and applying craft as a lens for technology practices means embracing its scrappy imperfections and [revolutionary] potentials. 
 
 #### Scale
 
@@ -414,6 +165,8 @@ Craft expands the definition of what "counts" as creating or participating in te
 
 #### Reentangled theory and practice
 
+<!-- move artistic research section from introduction here? -->
+
 Practice and theory are tangibly intertwined in craft. While craft is not the only domain where theory and practice merge, it is useful to draw on craft metaphorically and literally of how it merges the two accessibly while reaching across domains. 
 
 >"The protocols of knitting are thus situated *in-between* the looped thread, in the loops themselves. This interconnection protocol of the thread could be seen as a catalyst, as it produces a bigger whole from the single thread. [...] One could say that the protocol of the looped thread 'echoes' throughout the final knitted piece as the catalyst produces the conditions for emergent behavior (the inter-loops of the thread)." [@vonbuschZenAbstractMachine2013]
@@ -441,11 +194,13 @@ Tactical media are works that resist, revise, reverse, reimagine their materials
 
 Crafters and other artists know that resistance can emerge from the properties of the materials themselves, and that creation is a cooperative effort between maker and material. Digital humanities researcher Bethany Nowviskie argues that this resistance is a reminder of "the material nature of every generative or transformative textual process" most useful when makers have deep knowledge of their environment, including the time and access allows them to make and refine their own tools: "the material nature of every generative or transformative textual process" [@nowviskieResistanceMaterials2013].
 
+<!-- move to new queer section? -->
+
 Queer use is a form of resistance, both material resistance and cultural resistance. It can be a way of 'living otherwise' and might be read in some cases as a form of tactical media. Feminist writer Sara Ahmed describes queer use as both a refusal of normative use and an embrace of the unused: 
 
 >"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." [@ahmedQueerUse2018]
 
-In Ahmed's reading, normative use and resistance has much to do with fit and form: "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you" [@ahmedQueerUse2018]. In a machine learning parlance, we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
+In Ahmed's reading, normative use and resistance has much to do with fit and form: "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you" [@ahmedQueerUse2018]. In a machine learning terms, we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
 
 ![Lace cards](assets/img/IBM_lace_card.jpg)
 
@@ -475,11 +230,284 @@ These forms of refusal replace what they reject with alterative visions for more
 
 <!-- abolition -->
 
-
-
 >"Embracing the nuances of crafted art forms [...] exemplifies the non-linear, embodied, diffractive ways of reading, interpreting, and understanding the world while questioning what AI tools can do and the extent to which craftspeople have a say in what AI tools should be doing instead. I contend that AI does not produce newness but rather 'newly' suggests how craftspeople have always been creative agents for shaping the future of culturally and visually-informed algorithmic systems." [@reddyReadingAIFamily2023]
 
 
+
+
+
+## Queer
+
+Key forms of resistance and refusal have been taken up (necessarily) by queer people and queer communities, especially queer people of color, in response to active threats to their existence. 
+
+Queer is weird and not explaining itself. It forges its own paths outside of binaries and normative choices and systems.
+
+It calls for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough)[@dogparkdissidentsQueerFuckYou; @keelingQueerOS2014].
+
+>"queer as [in] being about the self that is at odds with everything around it and has to invent, create and find a place to speak, and to thrive and to live." [@hooksTeachingTransgressEducation1994]
+
+>"A queer operating system might take as its premise an interface in which such distinctions are annihilated, in which the self is shattered such that the mediating skin of the interface disappears but is not naturalized, through which we might acknowledge the always already-mediated nature of our interactions as between and among one another." [@barnettQueerOSUserManual2016]
+
+This is a queer embrace of [a combination of] radical difference, radical belonging, and radical resistance.
+
+This ethos is a necessary component needed for transformative learning and joy and change, which has been missing from too many coding communities and tech communities and activist communities and elsewhere.
+<!-- It is queer as in fuck you, as in queerOS, as in weird and resistant and not explaining, refusal, not critical maker, not creative coding. -->
+
+[XXX] 
+
+## Trans\*formative
+
+This work is about trans\*formation, which happens through trans\*gression,[^hooksTransgress], trans\*disciplinarity,[^transdis] [trans\*lation](#tech), and [trans\*duction](#transduce). It lays the groundwork to imagine trans\*formers otherwise, to imagine existing and emergent technological systems at a slant — to let us read them on the bias in addition to reading them as always-already biased. 
+
+[^transdis]: Trans\*disciplinary includes multidisciplinary and interdisciplinary — across and combined and between — plus what emerges when those diffractions become more than the sum of their parts [@visResearchPeopleWho2021].
+
+[^hooksTransgress]: As in "teaching that enables transgressions – a movement against and beyond boundaries" [@hooksTeachingTransgressEducation1994].
+
+Trans\*formative here means emergent, embodied, embedded practices. It means process-oriented, community-oriented practices. It means making space for and honoring what we figure out as we go along, [adjusting and tailoring to the needs and goals of our specific situations as we operate in community]. 
+
+'Transformative' includes transformative justice, which recognizes that oppressive systems are at the root of technological harms. It argues that acknowledging systemic oppression is essential to addressing those harms and shifting away from carceral logics and toward healing systems. Transformative justice seeks repair beyond punishment, focusing not only on remedying wrongs but more broadly on instituting infrastructures of care [^careinfrastructures] and reorienting the values embedded within technical objects and practices so that harm can no longer be perpetuated [@WhatTransformativeJustice2020].[^reparative] It is not just a question of what bias to remove from technology, but of what to build in its place.
+
+>"From the design to the production to the deployment to the outcome, there is constantly bias built in. It's not just the biases of the people themselves; it’s the inherent bias within the system. There's so many points of influence that, quite frankly, our fight is not for cleaning up the data. Our fight is not for an unbiased algorithm, because we don't believe that even mathematically, there could be an unbiased algorithm for policing at all." [...] "The goal is always to be building power toward abolition of these programs, because you can’t reform them. There is no such thing as kinder, gentler racism, and these programs have to be dismantled." (Hamid Khan interviewed in [@ryan-mosleyActivistDismantlingRacist2020]) 
+
+[^careinfrastructures]: The phrase "infrastructures of care" comes from Christina Dunbar-Hester's *Hacking Diversity*, in which she refers specifically to the work done in open-source and hacker communities to create "more inclusive spaces for women, trans, and gender non-conforming people." I use the term "infrastructures of care" in this work to discuss such communities below, but I also use the term more broadly to refer to mutual aid and other forms of community in practice.
+
+[^reparative]: Reparative and restorative processing are part of this work, but the terms 'reparative' and 'restorative' in relationship to justice movements and to LGBTQIA+ histories are fraught. Instead I find the broader sense of 'transformative' resonates for me with trans\*, intersectional, and inclusive approaches to identities and [politics][— as well as to this project, its participants, its influences, and its intentions]. 
+
+Trans\*formative is an active, abolitionist, prefigurative[^prefigurative] stance. It brings `programming` closer to its synonym `processing`, combining computational practices with emotional ones, digital with digestive. Trans\*formative processing refers both to processing units (CPUs, GPUs, NPUs) and also to processing personal, communal, and generational trauma. It means both works-in-progress and algorithmic processes. Ongoing processing not fixed programmed states. Let's inspect further...
+
+[^prefigurative]: 'Abolition' is an approach to social change with the goal to eliminate the need for prisons and state-based law enforcement. Activist Ruth Wilson Gilmore says, "Abolition is not absence, it is presence. What the world will become already exists in fragments and pieces, experiments and possibilities. So those who feel in their gut deep anxiety that abolition means knock it all down, scorch the earth and start something new, let that go. Abolition is building the future from the present, in all of the ways we can." [@gilmoreMakingAbolitionGeography2018]. Like abolition, 'prefiguration' just means embodying our values, making it "a daily endeavor of creating the world we want." and "our actions create the world we want right now, we don’t have to wait for the revolution to start another, better world." [@bransonPracticalAnarchismGuide2022]. "Prefiguration provides a basis for collaborators to suggest the sort of world they might like to inhabit and, in contrast to such a world, identify those features of the prevailing world which differ from that which is desired" (Nicholson 2023). 
+
+>"Revolutionary movements require a teleological pool from which to draw. The imagination is that teleological pool: it not only creates liberatory drives; it sustains, justifies and legitimises them. It undoes entire epistemes and clears a space for us to create something new. Though this 'newness', or the demand for something else, can never fully be realised in the realm of the discursive, it exists in other registers: it can be felt, heard, touched, tasted. The structural limits of this world restrict our ability to articulate all that the imagination is capable of conceiving. Do not forget this." [@olufemiExperimentsImaginingOtherwise2021]
+
+### Transformers
+
+Transformers are a current type of machine learning architecture being employed to create large models like ChatGPT and Stable Diffusion.[^techterms] They are good at digesting large clumps of text, images, video — all interpreted as numbers — and reconstituting them. Transformers main parts are called encoders and decoders, and it's often said that even their designers don't know what exactly is going on in these hidden layers. We can discuss the specifics of that elsewhere (see Interstitial: Codes for Un/Knowing). I find it more interesting that the *transformers themselves* do not know what is going on in these hidden layers of the own architecture — despite all the anthropomorphizing of AI systems, with widespread use of terms like "learning" and "understanding." While they process and produce meaning (input and output), transformers are never "aware" of the meaning of the content they are processing along the way. They are just crunching numbers.
+
+Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees[^techterms] to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known. [@browneDarkMattersSurveillance2015; @benjaminRaceTechnologyAbolitionist2019; @joqueRevolutionaryMathematicsArtificial2022]
+
+[^techterms]: For more explanation of terms, see "A Critical Field Guide for Working with Machine Learning Datasets" and "Intersectional AI Toolkit."
+
+The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate text context through a mechanism called "self-attention" that examines a selection of word-units surrounding each word-unit they interpret. [@vaswaniAttentionAllYou2023] As they proceed, they use this interpretation to predict the next most likely word to appear in a sentence, based on the words that have commonly appeared near the last few words before. 
+
+But we need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference - rather than erase it.  
+
+<!-- each of these para could be expanded. in critAI-genAI paper? -->
+
+To move from the "transformer" model architecture to trans\*formative systems means to acknowledge the requisite entanglement of community building and [critical sociotechnical systems]. It means knowing the material we are transforming — by sharing in, speaking nearby, walking beside, being constituted and supported by, and supporting in turn.
+
+### Trans\* 
+
+Trans\*-ness[^transnote] can be fluid, in motion, evolving, and emergent. It can also be euphoric, inclusive, embodied, self-identifying, and outside binaries. *Coding.Care* imagines systems that might also have these qualities, that can trans\*cend the logics constructed by capitalist, militaristic, racist, ableist, misogynistic lineages. It is inspired by decades of trans\*feminist and crip technoscience work, [discussed more below](#criptechno). 
+
+This approach to trans\*formative technological practices has no prerequisites. It does not require glowups or dead names, no traumatic 'before' in order to desire or access better 'afters'. We are already queer-enough, coder-enough, worthwhile-enough to participate in continually becoming ourselves. We are ["always-already programming"](https://sarahciston.github.io/codingcare/guide.html#take-comfort-in-this-programmers-paradox) [@AlwaysalreadyprogrammingMd]. By adopting this 'queer enough' approach from the LGBTQIA+ community as an ethos for critical–creative coding spaces and for a context in which to examine sociotechnical systems, I have found that it is possible to welcome a wider range of voices into conversations about the high stakes of tech. It creates more comfortable, adaptable tech-focused communities for LGBTQIA+ members and for everyone else who joins. Technology spaces have much to learn from queer community building, just as they do from Black and brown communities, yet I am also mindful that their community building often comes out of necessity for protection and safety, that it is always a tension between welcoming and insulating. 
+
+[XXX][insert discussion of radical difference and radical belonging]
+[xxx][edit trans section to queer-trans]
+
+>"queerness is itself inherent within [the history of] computational logic, [...yet] there exists a structuring logic to computational systems that, while nearly totalizing, does not account for all forms of knowledge, and which excludes certain acts, behaviors, and modes of being." [@gabouryQueerHistoryComputing2013d]
+
+<!-- add Trans discussion here, quote micha et al -->
+
+<!-- The [*Transgender Studies Quarterly*](https://read.dukeupress.edu/tsq) regularly features key aspects of these conversations including discussions of transfeminisms and Black trans studies.  -->
+
+<!-- [^escobar]: Escobar, Manuel Roberto. 2016. *Cuerpos en resistencia: Experiencias trans en Ciudad de México y Bogotá.* Bogotá: Ediciones Universidad Central. -->
+
+[^transnote]: A note about terminology & Trans\*: It is essential to note that the concepts of 'trans\*' and 'transgender' have their own varied and contested histories, entangled with colonial histories, class and racialized contexts, politics and personal stakes for many. These complexities[^tsq] are charted by trans\* studies and by many works beyond critical theory. They are dynamic, continually evolving, and I hope to honor this complexity while acknowledging I cannot address it comprehensively here. In her discussion of the complexly situated histories of the term 'transgender', professor of history and gender and sexuality studies Marta V. Vicente translates and summarizes psychology professor Manuel Roberto Escobar's ethnography of subjects who use a wide range of labels and while also thinking of themselves as 'trans\*:
+
+      "The trans\* body is the result of a specific and historically based crossing of 'regimes of knowledge-power' (Escobar 2016). It is 'a baroque construction,' displaying multiple sides, socially translated by a diversity of languages. Defining oneself with words such as *marica* (fag), *puta* (whore), and *gai* (gay) and still thinking themselves as *trans\**, Escobar's subjects express a definition of the self that tries to maneuver through these 'regimes of knowledge-power' to establish their own space of resistance.[@vicenteTransgenderUsefulCategory2021]
+
+      Trans\* in its many contested forms continually grapples with this work of trying to establish self(s) in the context of "regimes of knowledge-power" and to establish cooperative spaces of resistance, which is more than ever required in this moment of computational and categorical logics. We can look to long histories of trans\* communities resistance for strategies and tactics. In *We Want It All: An Anthology of Radical Trans Poetics*, editors Andrea Abi-Karam and Kay Gabriel declare, "Against the common-sense intuition that crisis means we must demand less, we assert with our commrades that everything has to change for anything to continue." [@abi-karamWeWantIt2020].
+
+I also use the terms 'queer' and 'trans' here a lot together, and I have mixed in a kind of queer politics under the section 'Trans\*'. I am keenly aware that everyone has a different take, of course, and I'm wary of wielding such weighty words unwisely. For me, queer is the term that includes and elides all the categories of LGBTQIA+, and that's why I like it. Queer shows you its politics and shares nothing else.[^queerme] 
+
+[^queerme]: A note about terminology & me: Queer is the only term I have found that comes close to "fiting" what I've felt about myself when nothing else felt quite right. This quotation gets me:
+      
+      "For me, 'queer' is not a name so much as a protest against complacency when naming. It records a discomfort with prevailing languages for embodiment. It is not another identity so much as a steady refusal of identification—of any settled facts of life that we are supposed (already) to know. [...] No queer names without queer naming, which cannot fit easily into our usual stories." [@jordanQueerCallingsUntimely2023]
+
+      Up to now I have not used the term 'trans\*' to self-identify, even if in some ways it may be correct. By way of talking about the word 'trans\*' in relationship to trans\*formative systems, I will try to tease out my relationship to the term. I think I've been avoiding my own stakes in 'trans\*'. I was concerned my stakes were false, or would appear false, but it's actually that I didn't have the language for myself. Because there isn't language for wanting to be without language, for not wanting to be seen or described or labeled — to have your attributes held against you in an alley or an email. Or maybe they they already found a label for not wanting a label, and that language is just 'genderqueer' or 'agender' and it still doesn't sit right. The only thing I like about this complex ever-turbid gender taxonomy is that it doesn't sit still. I hate this business of taxonomies anyway and its categorizing logic is how we got to machine learning and many worse things in the first place. This could be the core of the question, if I weren't still feeling for the question. 
+
+      I wasn't using 'trans\*' for myself (though now I've gone and claimed it for my book, wtf) because it didn't sit right either when I worried other people need it more, needed the term to survive, and I had been surviving without it — as if language is a finite natural resource, like rare earth minerals we're extracting to make models of language. I used to worry the same thing about the word 'queer' before I practiced letting myself try it on, just a little (as a treat). That discomfort grew, then eventually transformed into some kind of resilience akin to pride. Still, I feel I am an ungrateful thing, whenever I reject the privileges I have when I go passing as a straight cis woman who is none of those things, those privileges tangled up with the erasures it brings, the over and over of nixing a self. It feels worse to correct someone because I don't have a true label to give. Queer and trans\*formative are the only words that feel good enough. 
+
+      I wasn't using trans\* for myself, or nonbinary or agender or genderqueer, and I wasn't using gay or lesbian or bi or pan or any other term for myself, because I worried these were all labels for people who knew who they were and had always known, who stood so far outside the identity they were called that they required this word as a reckoning. For so long I have been completely out of contact with my body and its shapes and desires. The middle space with no reckonings was safe. I had been just reading the room for cues to how I was supposed to feel, and that small rural version of me was the only reality there was. But I am writing for all the people who haven't known who they are, who haven't learned the tools the easy way, wjp haven't fit into the terms or the counterterms, who need permission to play in the spaces between like I have needed — whether they play with gender or with code or both. 
+
+      To identify with new terms (or new tools) is to make bold claims. My life would need to change for claims like these. I'd need to put my skin in the game, to admit my skin is already in the game, to admit I have skin. I've spent so long disavowing the body below my neck as it aches for me to acknowledge it. This "I" of diffuse particulates is not even atoms swirling, because the atomic model of the universe is a fiction devised by object-oriented bros who still think they can be islands. 
+
+      I spent so long as a decapitated head — <br>
+      a magician's assistant trying to <br>
+      keep the show going trying <br>
+      to please, trying to keep <br>
+      the body I couldn't feel <br>
+      safe. 
+
+      Resetting is a recursive process. It is not just a trick of pulling out the tablecloth from beneath the finely laid placesettings and the severed head. 
+
+Trans\* is not transition, not as simple as movement from one thing to another. Trans\* is not transformation; trans\* breaks open transformation with its asterisk and its radical understandings of form/ative (both discussed further below). Trans\* is much more expansive. It is unrestrictedly being who you have always been, as fully as you are, more than anyone has previously recognized, and experiencing that recognition as fully as possible. 
+
+This ongoing process can be aided by finding the language (or losing the language), or finding the tools (or breaking the tools), or finding the commrades (or making the spaces where they might find you). This text is inclusive of many understandings of trans\*-ness and transformation, combining them in order to suggest the kind of trans\*formative practices of being and/or making that are prefigurative — bringing a world into being as it always could have been and should be, might yet be still, alighting the revolutionary force of latent potentials that already are. <!-- abolition -->
+
+It's a subtle, vulnerable, powerful thing, just to recognize oneself more fully — especially if it makes space for others to do the same. I find that coding communities which are founded based on practices of queerness and transness (its ethics, tactics, ways of being) can open those communities as more radical spaces of belonging.
+
+  <!-- Maybe it's a form of transduction, a supple shift of information from one register or level to another, a reimagining of form. 'Transduce' (from Latin for 'lead across') requires translation and transformation but is always an intervention.  -->
+
+  <!-- This is me (me?), (un)defining self(s) amidst regimes of knowledge-power, (un)learning to maneuver, [XXX/building connections in order to/finding people, finding pockts of, tools, etc???] establish spaces of resistance.  -->
+
+  <!-- #### Trans-[etc]: Transducers [XXX-where?] -->
+
+  <!-- [XXX] What is the connection of 'belonging' to transness, or to queerness, and belonging to coding communities or to spaces of creative freedom or civic change? How does trans\* connect to computation at all?  -->
+
+  <p id="transduce" markdown="1">Trans\* is endlessly supple and takes on many suffixes. It finds queer reverberations in the trans\*ducers all around us that constitute and reinforce computational systems. A transducer (from Latin for 'lead across') converts physical signals into electrical signals, or vice versa. Transducers are intermediaries that allow the trans\*fer between analogue to digital. Every time information gets trans\*mitted from an environmental sensor to a digital device — sound waves into audio files, optical variation into heart rate — trans\*duction has occurred, and thus some kind of transformation. Transduction shifts information's register or level, reimagining its forms. Transduction is always intervention, informed by the device designers' decisions as well as both contemporary and historical approaches to computational knowing. Note how many times the language of trans\*-ness appears in sites of technological knowing. The material conversions required to power the logics of computation (such as converting qualities into voltages into quantities) all pass through gates of trans\* thinking.</p>
+
+</div>
+
+<!-- Transience, Translucence -->
+
+<!-- "Form as a passage. Transduction creates a new process." -->
+
+<!-- glyphs, emoji, runes -->
+
+### \* (asterisk)
+
+The `*` after `trans` longs for anything that follows; it opens up space for the layered and undefinable becoming, and as such can include anyone who wonders if they belong, who wonders what they contribute, who wonders what "this whole thing" is about (be it gender, sexuality, technology, whatever). 
+
+Combined with trans, or at large, the asterisk is the interstitial. It is a footnote that defines our terms, and also it is the invitation to extend beyond any definition given. 
+
+The asterisk is a perturbation, a pebble in the shoe. In the German language, the gendering of nouns and verbs is haphazardly addressed by an asterisk that breaks the word, introduces a glottal stop between its 'masculine' and 'feminine' formations. `Student` or `Studentin` becomes `Student*in`; `Bäcker` or `Bäckerin` becomes `Bäcker*in`. This brief interruption can be read as a faulty solution that maintains gender-as-binary, it's true. And also, this hesitation adds a frequent awkwardness that highlights how often conversation is about gender unnecessarily. It physically opens up a space (in the mouth) where gender is unknown/unstable/all. 
+
+A French or English apostrophe may mark an omission of letters, but this elision also joins together, suturing up the distance it creates. The asterisk shares this tension here, as a clot that heals, an unspeakable but audible gasp. 
+
+Like the apostrophe at the start of `'pataphysics`, which gestures to the absurdity from which it springs, the asterisk is the instigator and the multiplier, the pivot and the punctum and the portal.
+
+It is not the data point, reduced to numerical expressivelessness. It is not the node in the network, defined by its links and relations, abstracted away. It's not a redaction which the asterisk marks, but the possibilities of unknown language underneath. It's the tension of knowing and not saying, as in the marking of `sw*@r` words. It's once again queer as a politics, "queer as in fuck you."
+
+The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII joy, a wry smile, and a mark of possibility on a treasure map. In mathematics the asterisk is duality, mirrors mirroring each other, points connecting to make lines and lines crossing to make points, weak-star topologies[^Miller] and infinite vector space. This returns us to the word vectors and latent spaces of transformers.[^Q]
+
+[^Miller]: Thanks to Miller Puckette for expansive discussions about weak-star topologies, splines, the asterisk, and Claude Shannon. 
+
+[^Q]: Just after writing on asterisks, Open AI announced Q\*, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023]. At the same moment, "The Gospel" AI system is used in Isreal to select and increase its bombing targets by orders of magnitude [@daviesGospelHowIsrael2023]. AI technology was originally being developed alongside and as part of WWII and Cold War technologies, now AI is used directly in warfare. The same companies warning of the future dangers of AI make this their marketing strategy: GPT-2 was open-source but 'too big and too dangerous to release' until it appeared as an even bigger GPT-3, then GPT-4 was closed and pay-to-play. Worse yet, those so-called dangers distract from the very-real, immediate dangers they impose, like The Gospel, face recognition in policing, and more subtle forms. 
+
+<!-- The snake eats itself, the war tech that was being developed at the same time as the beginning of AI, now AI being used for war. -->
+
+<!-- [xxx][Nearness sections moved to conclusion from here] -->
+
+### Formative 
+
+What is formative shapes us. Our early experiences make us who we are. These are the foundations we can't see, the scaffolding of our thought, the infrastructures of our being. I am interested in the formative aspects of sociotechncial systems, produced in entangled loops of human networks, codified language, and rare earth. How we become. How we become with and through sociotechnical systems. 
+
+What are the fundamental assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? `What are the formative assumptions underlying any technology or way of being?` These works tease out the metaphors we have relied on so long we can no longer see them; they ask what other metaphors might make space for new forms or reforms.
+
+Form in-forms content. The shape of the container decides what can fill it. I work in code and in art because I believe: If I know how to make forms, or even platforms, not only the content to plug into existing forms, I am more free to work both form and content in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. They are inseparable.
+
+In this way, the material I work with also in-forms what I make, through its insistence, resistence, grain, thread tension. It in-forms itself into content as I try to bring forth some kind of form. It also re-forms me through this mutual process: 
+
+>"In both carpentry and textiles, the form of a thing does not stand over it or lie behind it but emerges from this mutual shaping, within a gathering of forces, both tensile and frictional, established through the engagement of the practitioner with materials that have their own inclinations and vitality." [@ingoldLifeLines2015]
+
+Form activates. No form is neutral, although if we use it long enough we begin to look through it, like the blank page, or the MS Word 'blank page'. Each interface or material enables or encourages particular experiences and outcomes, and denies or deflects others — whether through predictive text in search, syntax highlighting in code, or the constraint of an eight-page paper zine. Some forms invite us to collaborate in imagining the usefulness of their limits and the boundlessness in their constraints. Through time spent in process, working with and against form, our focus can shift from producing outputs that meet the brief of the form, to working with the form to reshape both the form and ourselves in new understandings and new orientations.
+
+Yet current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. As media theorist Sarah Sharma reminds us, for the 'Broken Machines' who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. 
+
+>"In order to understand and thus accept you, I have to measure your solidity with the ideal scale providing me with grounds to make comparisons and, perhaps, judgments. I have to reduce. [...] perhaps we need to bring an end to the very notion of a scale. Displace all reduction. Agree not merely to the right to difference but, carrying this further, agree also to the right to opacity that is [not enclosure within an impenetrable autarchy but] subsistence within an irreducible singularity. Opacities can coexist and converge, weaving fabrics. To understand these truly one must focus on the texture of the weave and not on the nature of its components. For the time being, perhaps, give up this oid obsession with discovering what lies at the bottom of natures. There would be something great and noble about initiating such a movement, referring not to Humanity but ta the exultant divergence of humanities. Thought of self and thought of other here become obsolete in their duality. Every Other is a citizen and no longer a barbarian. What is here is open, as much as this there. 1 would be incapable of projecting from one to the other. This-here is the weave, and it weaves no boundaries. The right to opacity would not establish autism; it would be the real foundation of Relation, in freedoms." [@glissantPoeticsRelation2009a]
+
+To understand through computation is to reduce to categorization's logics [@crawfordAtlasAIPower2021; @amaroBlackTechnicalObject2022]. The formative structures we create (taxonomies, schemas, ways of knowing) support restrictive unknowing. They ease and smooth passage through our days and our systems, saying don't look, you already understand. This is why we must imagine new forms — and this is why it is so hard to imagine new forms. 
+
+Code forms, then calcifies. Pattern turns to template. In the procedures of object-oriented programming languages, the template runs: `init --> name --> get --> set`[^oop]. 
+
+>"The more a path is used the more a path is used. [...] When an effort becomes normal, a form is acquired." [@ahmedQueerUse2018; @ahmedQueerPhenomenologyOrientations2006]
+
+[^oop]:  Creating classes in object-oriented programming lets the programmer instantiate each instance of an object with a pre-determined form, adjustable only within those limits. These processes indicate what prior schemas you'll pull from, what parts you'll write over, what qualities you'll predetermine. They indicate what aspects will be qualities of the entire class, and what qualities will be specific to each object. They determine what actions each 'object' will 'know' how to do, and how the programmer or user will establish and retreive information. There's a language for all this in "object-oriented" programming, which requires a different sense of relationality than "functional" programming.
+
+If forms shape content, and vice versa, of course tools also shape forms. Equipping ourselves with the knowledge, resources, and agency to make the tools (to make the platforms to make the forms to make the content) is necessary for a more holistic approach to researching formative tech and creating trans\*formative tech. Toolmaking includes collecting sets of tools, documenting and creating guides to existing tools as well. It also includes the infrastructures and support systems necessary to make any of these practices possible.
+
+>"tools and infrastructure are not only the preconditions for the work; at their best, they are also part and parcel of the work, deeply integrated into its methods and outcomes. Our tools and infrastructures are rich objects to think with." [@mcphersonFeministSoftwareLab2018]
+
+>"instruments develop through engaged and contingent practices. Instrumentalism involves setting in motion, operationalizing, and potentially transforming. Instruments—whether in the form of concepts or sensors—are instrumental to the unfolding, the doing, and the transforming" [@gabrysHowThingsSensors2019]
+
+We think with our tools, instruments, sensors and the surrounding systems that enable them and maintain them. All of these layers are entangled. Susan Leigh Star calls infrastructure a "fundamentally relational concept," but one that despite its embeddedness operates invisibly unless broken. She also argues that infrastructure marks membership in relational groups, as we "acquire a naturalized familiarity with its objects," practices, and standards [-@starEthnographyInfrastructure1999]. Thus infrastructure — and the tools, platforms, forms, and content that it consists of — also marks us as belonging, knowing, capable, welcome, or not. 
+
+How do we think critically through re/making infrastructures, when they exist beyond any one of us, always relational and often invisible? By returning to, and reattuning to, the solidarities we find within and across communities, and the frictions we find within and across materials. 
+
+<p id="criptechno" markdown="1">Those who are left unsupported by infrastructures, those who are left out of representations or who are targeted disproportionately by digital systems, already know in deeply embodied ways about the friction they feel as they move through systems that do not easily contain their forms. Scholars Aimi Hamraie and Kelly Fritsche, authors of the "Crip Technoscience Manifesto" [-@hamraieCripTechnoscienceManifesto2019a], call these infrastructures "frictioned technologies" and emphasize:</p>
+
+>"the skills, wisdom, resources, and hacks disabled people utilize for navigating and altering inaccessible worlds. In pushing crip technoscience as a field of research and a practice of critical 'knowing-making', we conjure frictional practices of access production, acknowledging that science and technology can be used to both produce and dismantle injustice." [-@hamraieCripTechnoscienceManifesto2019a]
+
+Their manifesto reminds us that disabled people are not minoritized users of technologies created by experts but instead are experts themselves at actively adapting technologies to their needs. By centering their community as knowledge holders and creators, and by seeing "interdependence as a political technology," they shift the design goals for technology. Rather than outsiders providing services to achieve normalized individual independence, they reorient toward kinship building [-@hamraieCripTechnoscienceManifesto2019a]. 
+
+Louise Hickman's ethnographic work on the ethics of access foregrounds access workers' key role in the production of crip technoscientific knowledge. She examines the highly customized dictionaries developed by her own Communication Access Real-Time Translation operator working in academic spaces, in order to show how their captioning work for the d/Deaf and hard of hearing community is "both the practice of crip technoscience as well as its product." Hickman highlights the collaborative, embedded nature of the work and the crip technoscience emphasis on "knowledge-from-below." [@hickmanTranscriptionWorkPractices2019a]
+
+Thus, form is always forming from within complex systems of interrelation. Formative and transformative technologies are more (and less) than their forms. They must emerge on our own terms — from the formats and methods of the communities they serve, with our values, goals, and approaches leading the way. 
+
+Interdependence has been my intuitive compass, my frustration and fascination, for as long as I remember. I have searched for the means to describe this feeling, through art, literature, touch, and other means. Slowly and repeatedly, I keep finding that the best resources for describing this sense of interdependence come from Indigenous sources. I keep returning to this idea: 
+
+`Interdependence is Indigenous knowledge.`
+
+>"an object or thing is not as important as one's relationship to it. [...] reality *is* relationships or sets of relationships." [@wilsonResearchCeremonyIndigenous2008]
+
+Fundamentally reorienting our understanding of objects and knowledge and ourselves as consituted by our relationships necessarily also reorients our work and the forms it takes, in deeply formative ways. Re-prioritizing relationships fundamentally reshapes the forms and functions of research, artmaking, valuemaking, worldmaking. To see form (shape, object) as relation (connection) is to position it in time and place. It is also to take "form" from its noun form (shape, object) into its verb form (mold, press, begin to exist). As Erin Manning says of the spiral, it is "more duration than form" [@manningAlwaysMoreOne2013]. Like all verbs, then, the verb form implies subjects — the entities enacting and impressing a form into being, responsible for it, caring for it. Relationships. This negates object-oriented ontologies and object-oriented software programs that want to encapsulate and abstract away objects' entanglements with the world. 
+
+>"I speak of the *verb process*, the doing, the coming into being, the at-the-time-of. Which is why we think there is particular value in live music, contemplating the artifact as it arrives, listening to it emerge. There it is. And There." [@barakaHomeSocialEssays1966]
+
+<!-- >"even to name something, is to wait for it in the place you think it will pass" [@barakaHomeSocialEssays1966] -->
+
+<!-- Think how trans\*duction, what device or instrument allows shift in form, and what designer shapes the device.  -->
+
+>"There can, of course, be no knots without the performance of knotting: we should therefore commence with the verb 'to knot' and view knotting as an activity of which 'knots' are the emergent outcomes. Thus conceived, knotting is about how contrary forces of tension and friction, as in pulling tight, are generative of new forms. And it is about how forms are held in place within such a force-field or, in short, about 'making things stick'.  Accordingly, our focus should be on forces and materials rather than form and content." [@ingoldLifeLines2015]
+
+To frame research through relationships is also to foreground accountability by asking, as Shawn Wilson offers in *Research Is Ceremony*, "What am I contributing or giving back to the relationship? Is the sharing, growth and learning that is taking place reciprocal?" Wilson says that in an Indigenous Research Paradigm, "What is more important and meaningful is fulfilling a role and obligations in the research relationship—that is, being accountable to your relations" [-@wilsonResearchCeremonyIndigenous2008].
+
+In this sense of reciprocity, the question of form takes shape as an offering. What does our creative work offer back, and in what form will that offering be most legible and accessible? Some forms I have tried: manifesto, toolkit, zine, prototype, platform, black box, machine, labyrinth, server, service, sentence, story, interface, guide, document, cauldron, process. 
+
+>"Form is simply *how* a thing exisits (or what it exists as). [...] Content is *why* a thing exists. [...] but they are not separable in any object." [@barakaHomeSocialEssays1966]
+
+As form moves into its verb shapes, identity too moves into practice. Artist Johanna Hedva marks this as a pivot from identity politics to practices and methods, inextricably coupled as theory-practice: 
+
+>"Disability, queerness, open source — not as identities, or groups I belong to, but as modes of doing, of how I practice myself. Being an outsider means that the question of theory and practice — how practice is affected by theory, how theory is constructed by practice — becomes the most important one. Membership to particular groups and experiences is often predicated on the visual — whether someone 'looks like' they belong or not — which means that my membership to most groups must rely on something else. My belonging has more to do with how I enact that group's politic" [@hedvaBelongingMess2018]
+
+Our being-in-process is both the means to "be" (prefiguratively) and also the means of being-in-relation, -in-politic, -in-identity, in-between. <!-- abolition -->
+
+>"this form is really just the web of relationships that have taken on a familiar shape. Every individual thing that you see around you is really just a huge knot-a point where thousands and millions of relationships come together." [@wilsonResearchCeremonyIndigenous2008]
+
+>"a node of relation expressing itself momentarily as this or that—an edging into object, a swerving into body." [@manningAlwaysMoreOne2013] 
+
+I dream of a form that can hold everything. A form that can reveal how each part is connected. No parts, no compartments. Just connections. Network graphs don't do it for me. Anna Munster suggests that the form of networks numbs us to their relationality. Because every network looks like every other, in trying to understand a system by depicting it as a network, we lose sense of what's within. Munster suggests focusing less on `forms` and more on `forces`: "the closures and openings of relations to one another. It is at this level of imperceptible flux — of things unforming and reforming relationally — that we discover the real experience of networks" [@munsterAesthesiaNetworksConjunctive2013]. In the un/forming of relationality, these trans\*formative practices are active, ongoing, prefigurative, emergent, embodied, and embedded — taking shape and making change. <!-- abolition -->
+
+>"Relation is open totality; totality would be relation at rest. [...] Relation is movement." [@glissantPoeticsRelation2009a]
+
+Just as a paper snowflake or a tie-dyed garment contains in its pattern the re-foldable traces of its making — a flattened, temporarily static version of its coming-into-shape, marking the places it once touched against itself as it held different forms [@sedgwickWeatherProust2012] — crafting trans\*formative systems aims to "decipher the history of the making" and the future shapes they might take. 
+
+I want forms that can decode these histories, plant these futures, and embrace them. I dream of a platform where I can write and code and share and cite and annotate and highlight and collage and print and remix and machine-read and connect. I don't want the innards and innerworkings hidden from me; I want them explained so I can tinker with them. I want to understand how they relate to and shape what I am making. 
+
+>"When writing, the code 'material' speaks back to the programmer through various kinds of testing [...]. The process of testing often results in surprises, and in changes to the original plan" [@blackwellMoralCodes2024].
+
+>"We shouldn't make systems too automatic, so that the action always goes on behind the scenes; we ought to give the programmer-user a chance to direct his creativity into useful channels." [@knuthComputerProgrammingArt1974]
+
+I see all coding as writing and all writing as coding. I want systems that expose these entanglements and invite us into their complications with a helping hand, instead of hiding and encapsulating their operations in ways that limit and name what we can make, create, be in advance. I want to admit there is power in the naming and organizing of the tools I am using, and I want to participate, mindfully, in that naming. It is also a part of the worldbuilding. 
+
+<!-- [^dream]: In my dream notes, I have written "semantic web layer cake?" and "Gollum platform?" I rarely imagine I am the only one imagining such things, until I try to explain them to others. I expect it to be easy, that these hybrid forms already exist — becaue they seem so small and obvious to me, how complicated could they be? But when I try to find some preexisting version, I come up empty, frustrated, confused. And I am left without tools or language to begin building such a connected and connecting form on my own. -->
+
+>"An essential element of coding is deciding what to call things. [...] Inventing a name for something is an exercise in philosophical abstraction. Two or three words might summarise hundreds of lines of code. When chosen well, this name becomes the definition of what that code should do." [@blackwellMoralCodes2024]
+
+>"even to name something, is to wait for it in the place you think it will pass" [@barakaHomeSocialEssays1966].
+
+I want to be able to follow those traces of power through their systems, to be able to see the scaffolding and build different systems.
+
+<!-- [xxx][ADD]
+>"True randomness is a slippery thing; it is a property not of things in themselves, like individual numbers, but of their relationship to one another. [...] Randomness is relational. [...] You can't programme a computer to produce true randomness, " 
+The problem of pseudorandomness, computation's inability to produce truly random numbers, happens because "Randomness is relational"  -->
+
+<!-- ## TechnoCraft -->
+
+## Systems [XXX]
+
+<!-- systems means software, human systems, systems thinking -->
+
+<!-- ### Techno-? -->
+### [XXX][What about/How did we get the systems we have?]
+### How do we transform these into other kinds of systems we want?
+
+Craft and radical belonging
+
+A systems perspective an intersectional perspective
+
+Technological systems, algorithmic systems, human systems, global systems. 
 
 
 
