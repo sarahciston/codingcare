@@ -22,6 +22,41 @@ nav_order: 0
   <!-- <div id="acknow" class="bubble" draggable=true markdown=1>[Acknowledgments](acknow.html)</div> -->
 </div>
 
+#### Keywords: artificial intelligence, artistic research, craft, critical AI, community, critical data studies, datasets, intersectionality, machine learning, trans, queer, zines
+
+
+<!-- this is the website shorter version of the abstract -->
+
+
+<!-- ### About -->
+
+Critical AI researchers see the urgent need to understand and rethink how AI systems are defined, developed, regulated, and mitigated. *Coding.Care: Guidebooks for Intersectional AI* argues that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. The project demonstrates craft-based, process-oriented approaches to AI that can help meet this challenge. 
+
+The dissertation presents guides for fostering critical–creative coding communities as spaces of radical belonging—activated by an ethos and a politics modeled by queer and trans* communities that embrace radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. 
+
+With these approaches, it becomes possible to reengage emergent technologies as craftable materials, rather than unassailable forces, and to respond with impactful, sustainable, intersectional interventions.Artists, activists, scholars, and technologists can recast their relationships to emerging technologies by reframing them as crafts like crochet—deflating AI hype, lowering barriers to learning, and emphasizing sustainability and process. Thinking craft-as-technology honors the inherited knowledge of many outsider communities. Thinking technology-as-craft provides a framework to implement those theories, ethics, and tactics as intersectional critical AI. 
+
+The guides in *Coding.Care* deal with machine learning datasets, intersectional AI, coding communities, and embodied algorithmic art. Together, they want to meet readers where they are—as non-academics or those bridging into new fields, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. *Coding.Care* offers an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives.
+
+#### More details
+
+*Coding.Care* collects four publications that enact the strategies it theorizes. Because different modalities can better address and unite a wider range of communities, these works make interventions with different audiences by relying upon different voices, forms, formats, and media to address different stages of the sociotechnical pipelines that produce algorithmic systems like generative AI.
+
+<!-- Each of the works in *Coding.Care: Guidebooks for Intersectional AI* finds a different balance of these elements but includes all four.  -->
+
+["Coding.Care: Field Notes for Making Friends with Code"](guide.html) gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. Its pocket-guide form discusses how to build a cooperative, interdisciplinary community for co-learning coding like the one I have facilitated since 2019. 
+
+The ["Intersectional AI Toolkit,"](https://sarahciston.gitlab.io/toolkit/)'s co-authored zines are accessible guides to both AI and intersectionality, bringing together artists, activists, academics, makers, technologists, and anyone who wants to understand the automated systems that impact them. The work argues that established but marginalized tactics are necessary for reimagining more critical and ethical machine learning. Together these tools and resources ask: *Whose voices, visions, and stories are captured by automated systems? Whose are excluded, harmed, or undermined? How can AI systems be accessible for anyone to engage and intervene in?* 
+
+["A Critical Field Guide for Working with Machine Learning Datasets"](https://knowingmachines.org/critical-field-guide) translates critical AI theories and data science concepts into practical tips for dataset stewardship. Along with the ["Inclusive Datasets Research Guide,"](https://libguides.usc.edu/inclusive-datasets), both guides combine technical skillbuilding and critical thinking for scholars and practitioners beginning to work with datasets, because datasets remain the foundation of machine learning as it grows rapidly in impact. 
+
+<!-- Brief lyric essays offer interludes to the major works as oblique refractions of their topics.  --> 
+["Codes for (Un)Raveling,"](unraveling.html) ["Codes for (Un)Limiting,"](unlimiting.html) ["Codes for (Un)Forming,"](unforming.html) ["Codes for (Un)Living,"](unliving.html) and ["Codes for (Un)Knowing"](unknowing.html) approach the lived experience of an algorithmic era from oblique angles, asking how the 20th century analog artists' practices might act as pre-responses to the urgent digital concerns raised across *Coding.Care*.
+
+
+
+<i style="color:darkslateblue; font-style: italic;">This work offers respect to the Tongva and Chumash peoples, who are the rightful caretakers of the land where much of this work has been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn the history of where you live, why this matters, and how to contribute.</i>
+
 <!-- !['tonight'](assets/img/goingonline.jpg){: .thumb } -->
 
 <!-- Here's where I'll be tinkering for a few years with a dissertation... -->
@@ -47,8 +82,6 @@ nav_order: 0
 * \*: [Codes for (Un)Knowing](unknowing.html) -->
 <!-- </ul> -->
 
-#### Keywords: artificial intelligence, artistic research, craft, critical AI, community, critical data studies, datasets, intersectionality, machine learning, trans, queer, zines
-
 <!-- * [Acknowledgments](ack.html) -->
 <!-- 7. TRANS: [Unsupervised Pleasures & Critical AI](unsupervised) -->
 
@@ -73,30 +106,6 @@ Together, the guides that make up *Coding.Care* are meant to meet readers where 
 <!-- FOR USC ONLINE -->
 <!-- ### About this collection -->
 
-<!-- ### About -->
-
-Critical AI researchers see the urgent need to understand and rethink how AI systems are defined, developed, regulated, and mitigated. *Coding.Care: Guidebooks for Intersectional AI* argues that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. The project demonstrates craft-based, process-oriented approaches to AI that can help meet this challenge. 
-
-The dissertation presents guides for fostering critical–creative coding communities as radical spaces of belonging—activated by an ethos and a politics modeled by queer and trans* communities that embraces radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. 
-
-Artists, activists, scholars, and technologists can recast their relationships to emerging technologies by reframing them as crafts like crochet—deflating AI hype, lowering barriers to learning, and emphasizing sustainability and process. Thinking craft-as-technology honors the inherited knowledge of many outsider communities. Thinking technology-as-craft provides a framework to implement those theories, ethics, and tactics as intersectional critical AI. 
-
-The guides in *Coding.Care* deal with machine learning datasets, intersectional AI, coding communities, and embodied algorithmic art. Together, they want to meet readers where they are—as non-academics or those bridging into new fields, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. *Coding.Care* offers an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives.
-
-#### More details
-
-*Coding.Care* collects four publications that enact the strategies it theorizes. Because different modalities can better address and unite a wider range of communities, these works make interventions with different audiences by relying upon different voices, forms, formats, and media to address different stages of the sociotechnical pipelines that produce algorithmic systems like generative AI.
-
-<!-- Each of the works in *Coding.Care: Guidebooks for Intersectional AI* finds a different balance of these elements but includes all four.  -->
-
-["Coding.Care: Field Notes for Making Friends with Code"](guide.html) gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. Its pocket-guide form discusses how to build a cooperative, interdisciplinary community for co-learning coding like the one I have facilitated since 2019. 
-
-The ["Intersectional AI Toolkit,"](https://sarahciston.gitlab.io/toolkit/)'s co-authored zines are accessible guides to both AI and intersectionality, bringing together artists, activists, academics, makers, technologists, and anyone who wants to understand the automated systems that impact them. The work argues that established but marginalized tactics are necessary for reimagining more critical and ethical machine learning. Together these tools and resources ask: *Whose voices, visions, and stories are captured by automated systems? Whose are excluded, harmed, or undermined? How can AI systems be accessible for anyone to engage and intervene in?* 
-
-["A Critical Field Guide for Working with Machine Learning Datasets"](https://knowingmachines.org/critical-field-guide) translates critical AI theories and data science concepts into practical tips for dataset stewardship. Along with the ["Inclusive Datasets Research Guide,"](https://libguides.usc.edu/inclusive-datasets), both guides combine technical skillbuilding and critical thinking for scholars and practitioners beginning to work with datasets, because datasets remain the foundation of machine learning as it grows rapidly in impact. 
-
-<!-- Brief lyric essays offer interludes to the major works as oblique refractions of their topics.  --> 
-["Codes for (Un)Raveling,"](unraveling.html) ["Codes for (Un)Limiting,"](unlimiting.html) ["Codes for (Un)Forming,"](unforming.html) ["Codes for (Un)Living,"](unliving.html) and ["Codes for (Un)Knowing"](unknowing.html) approach the lived experience of an algorithmic era from oblique angles, asking how the 20th century analog artists' practices might act as pre-responses to the urgent digital concerns raised across *Coding.Care*.
 
 <!-- ["Coding.Care: Field Notes for Making Friends with Code"](guide.html) describes critical–creative programming approaches founded in the belief that anyone can contribute to the future of digital systems and that we all have skills to teach each other. It gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. It asks: How do we code with more care? How do we encode more care into our lives? How are these connected? It supports building or joining cooperative, interdisciplinary communities for co-learning coding. "Coding.Care" addresses reluctant or would-be programmers (of any age) and and potential group leaders, with a warm and friendly pocket guide, at the moment where they might intervene with critical or imaginative software creation.  -->
 
@@ -106,7 +115,6 @@ The ["Intersectional AI Toolkit,"](https://sarahciston.gitlab.io/toolkit/)'s co-
 
 <!-- As interstices among these three texts, a collection of five short lyric essays imagine dialogues with five 20th century artists, asking how the artists' analog material practices might act as pre-responses to the contemporary digital concerns raised across *Coding.Care*. ["Codes for (Un)Raveling,"](unraveling.html) ["Codes for (Un)Limiting,"](unlimiting.html) ["Codes for (Un)Forming,"](unforming.html) ["Codes for (Un)Living,"](unliving.html) and ["Codes for (Un)Knowing"](unknowing.html) approach the lived experience of an algorithmic era from oblique angles. Unlike the other texts, the tone of the "Codes" essays addresses nonpractitioners on a more affective, aesthetic register, meant for reflection on the impact of sociotechnical systems as they entangle with individuals and marginalized groups.  -->
 
-<i style="color:darkslateblue; font-style: italic;">This work offers respect to the Tongva and Chumash peoples, who are the rightful caretakers of the land where much of this work has been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn the history of where you live, why this matters, and how to contribute.</i>
 
 <!-- width: 380pt; float:right; -->
 

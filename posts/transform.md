@@ -345,7 +345,7 @@ Trans\* is not transition, not as simple as movement from one thing to another. 
 
 This ongoing process can be aided by finding the language (or losing the language), or finding the tools (or breaking the tools), or finding the commrades (or making the spaces where they might find you). This text is inclusive of many understandings of trans\*-ness and transformation, combining them in order to suggest the kind of trans\*formative practices of being and/or making that are prefigurative — bringing a world into being as it always could have been and should be, might yet be still, alighting the revolutionary force of latent potentials that already are. <!-- abolition -->
 
-It's a subtle, vulnerable, powerful thing, just to recognize oneself more fully — especially if it makes space for others to do the same. I find that coding communities which are founded based on practices of queerness and transness (its ethics, tactics, ways of being) can open those communities as more radical spaces of belonging.
+It's a subtle, vulnerable, powerful thing, just to recognize oneself more fully — especially if it makes space for others to do the same. I find that coding communities which are founded based on practices of queerness and transness (its ethics, tactics, ways of being) can open those communities as spaces of radical belonging.
 
   <!-- Maybe it's a form of transduction, a supple shift of information from one register or level to another, a reimagining of form. 'Transduce' (from Latin for 'lead across') requires translation and transformation but is always an intervention.  -->
 

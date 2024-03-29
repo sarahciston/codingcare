@@ -1,7 +1,9 @@
 ---
 title: Abstract
-subtitle: Coding.Care
+# subtitle: Coding.Care
 ---
+
+<!-- this is the dissertation library version of the abstract -->
 
 <!-- # Abstract -->
 
@@ -11,13 +13,13 @@ subtitle: Coding.Care
   - Concept? 
   - Pedagogical elements?  (In which context)  -->
   
-### Short abstract
+<!-- ### Abstract -->
 
 Critical AI researchers see the urgent need to understand and rethink how AI systems are defined, developed, regulated, and mitigated. *Coding.Care: Guidebooks for Intersectional AI* argues that implementing critical approaches into AI systems more broadly requires building inviting, inclusive spaces where more people can engage creatively and critically with each other and with machine learning techniques as malleable materials. The project demonstrates craft-based, process-oriented approaches to AI that can help meet this challenge. 
 
-The dissertation presents guides for fostering critical–creative coding communities as radical spaces of belonging—activated by an ethos and a politics modeled by queer and trans* communities that embraces radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. 
+The dissertation presents guides for fostering critical–creative coding communities as spaces of radical belonging—activated by an ethos and a politics modeled by queer and trans* communities that embrace radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. 
 
-Artists, activists, scholars, and technologists can recast their relationships to emerging technologies by reframing them as crafts like crochet—deflating AI hype, lowering barriers to learning, and emphasizing sustainability and process. Thinking craft-as-technology honors the inherited knowledge of many outsider communities. Thinking technology-as-craft provides a framework to implement those theories, ethics, and tactics as intersectional critical AI. 
+With these approaches, it becomes possible to reengage emergent technologies as craftable materials, rather than unassailable forces, and to respond with impactful, sustainable, intersectional interventions. Artists, activists, scholars, and technologists can recast their relationships to emerging technologies by reframing them as crafts like crochet—deflating AI hype, lowering barriers to learning, and emphasizing sustainability and process. Thinking craft-as-technology honors the inherited knowledge of many outsider communities. Thinking technology-as-craft provides a framework to implement those theories, ethics, and tactics as intersectional critical AI. 
 
 *Coding.Care* collects four publications that enact the strategies it theorizes. Because different modalities can better address and unite a wider range of communities, these works make interventions with different audiences by relying upon different voices, forms, formats, and media to address different stages of the sociotechnical pipelines that produce algorithmic systems like generative AI. 
 
