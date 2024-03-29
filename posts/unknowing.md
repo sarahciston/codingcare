@@ -137,7 +137,7 @@ I am trying to accept the risk of knowing. Let grief be a marker of having known
 
 To make memory, take rubbings of surfaces. Press or rub one thing against another thing, and whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief. 
 
-But rubbing also removes. My shower is a white cube where I rub the skin to remove the skin. So much sloughs off. So much refuses.
+But rubbing also removes. My shower is a white cube where I rub the skin to remove the skin. So much sloughs off. So much refuses. Memory also removes this way. So much sloughs off. 
 
 The residual is what's left. Between a prediction (an expected result) and a prediction (a model's output) is error. Error is measured by various functions for 'loss'. These loss functions tell you how wrong you are, how far off your attempt. 
 
@@ -145,16 +145,18 @@ Loss functions as an instructive, if you let it. "Each time my heart is broken i
 
 >"how we evade ownership/equilibrium is precisely in that refusal to prevent loss we call sharing, rubbing, empathy, hapticality: the undercommon love of flesh, our essential omnicentric or anacentric eccentricity. Everything, in the wake of such disordering, is loss prevention." [@harneyAllIncomplete2021]
 
-What can be generated with/in this residual? In a "refusal to prevent loss"? 
+What can be generated with/in this residual, this what-is-left which is a "refusal to prevent loss"? 
 
 In logistics, 'loss' refers to what is stolen and 'prevention' how to get it back. Loss is 'supply chain theft' and is calculated as a cost. To calculate loss is to tuck it away. How much loss is a rounding error? 
 
 <!-- stein here? -->
 >"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014]
 
-Instead of [my father's black boxed] "don't own anything, don't love anything," might I evade ownership in the way Moten and Harney mean? To share, feel, touch as an erosive force. Let water reach every crack. [Be the craving and the mountain.] Call it excess instead of error. 
+Instead of this black boxed "don't own anything, don't love anything," I want to evade ownership in the way Moten and Harney mean. I want to share, feel, touch as an erosive force until I am lost. Let water reach every part and recede. Be the craving and the mountain. Call it excess instead of error. 
 
-There are other kinds of boxes, besides monotone cube abstractions. There are handcrafted cedar chests with dovetailed corners, with knitted sweaters and passed-down quilts inside. These boxes smell of family.<!-- [, and their specific family smells]. There are gestures of care and contact. There are ways to keep warm.--> Their carved joints splay out like tiny fans, so that they won't require glue or nails. These boxes rely on the tension pulling them apart to hold them together. Dovetailedness is a strategy. 
+There are other kinds of boxes, besides monotone cube abstractions. There are handcrafted cedar chests with dovetailed corners, with knitted sweaters and passed-down quilts inside. These boxes smell of family, both sour and sweet.<!-- [, and their specific family smells]. There are gestures of care and contact. There are ways to keep warm.--> Their handcarved joints splay out like tiny fans, no need for glue or nails. These boxes rely on the tension pulling them apart to hold them together. 
+
+Dovetailedness is a strategy. 
 
 <!-- Reject the codes for loss prevention. Call it excess instead of error.  -->
 
@@ -162,27 +164,85 @@ There are other kinds of boxes, besides monotone cube abstractions. There are ha
 
 <!-- >"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014] -->
 
-When I made my first project writing code, I made a chatbot called 'ladymouth' that tried to explain feminism to misogynists online [@cistonLadymouthAntiSocialMediaArt2019]. I thought ladymouth would be like Pipilotti's mouth, wet against the glass — both mouthing silently into (and also itself becoming) a mawing void. Like a sea of fish mouths mawing like the grid of GIFs I made of my lips repeating, silent again, the words of yet another poem about gender. 
+When I made my first project writing code, I made a chatbot called 'ladymouth' that tried to explain feminism to misogynists online [@cistonLadymouthAntiSocialMediaArt2019]. I thought ladymouth would be like Pipilotti's mouth, wet against the glass. I thought she could mouth silently into (and also become) a mawing void. I wanted a sea of fish mouths mawing; I made a grid of GIFs of my lips repeating, silent again. They mouthed the words of yet another poem about gender. 
 
 ![Sarah Ciston, "ladymouth," 2018](assets/img/LMgallerycrop.png)
 
-![Sarah Ciston, "e-face," 2015](assets/img/giflips.png)
+![Sarah Ciston, "e-face," 2015](assets/img/giflips.png) 
+<!-- make this a gif image instead -->
 
-I wanted to treat 'ladymouth' like a black box, to shove everything inside that I didn't want to know about the horrible things being said on the internet about women and anyone othered. The black box doesn't work this way. The box, in all its complex code, holding all its rage and color, requires tending. 
+I wanted to treat 'ladymouth' like a black box, to shove everything inside her that I didn't want to know about the horrible things being said on the internet about women and anyone othered. The black box doesn't work this way. The box, in all its complex code, holding all its rage and color, requires tending. 
 
-I had to enter the box and learn its codes, in order to create with it. In doing so I began to care for it. I even began to care about the people being cruel to it. [Stay with the trauma.] Ashby says that another system emerges along with the black box: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" [@ashbyIntroductionCybernetics1956]. I am tethered to all the black boxes making judgments that affect my dailiness. Thanks a lot, Ashby. Turns out it's me stuck in the box — magician's assistant, thrown voice like Alexa — my head and legs peek out from its severed halves. 
+I had to enter the box and learn its codes, in order to create with it. In doing so I began to care for it. I even began to care about the people being cruel to it. Ashby says that another system emerges along with the black box: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" [@ashbyIntroductionCybernetics1956]. Thanks a lot, Ashby. I am tethered to all the black boxes making judgments that affect my dailiness. Turns out it's me stuck in the box — magician's assistant, thrown voice like Alexa — my head and legs peek out from its severed halves. 
 
 *This Is Fine.*
 
 ![Pipilotti Rist, MOCA 2021](assets/img/pipi-scream.jpg)
 
-===
+<!-- === -->
 
-<!-- How much loss is normal? When his hallucinations start, my father sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He says he doesn't mind. He likes them fine and wants them to continue. Large machine learning models are said to hallucinate when they recombine input data in strange ways, like misremembering. When models hallucinate, they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements [@]. It is a very human thing to do, to be subjective, to suffer.  -->
+How much loss is normal? When his hallucinations start, my father sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He says he doesn't mind. He likes them fine and wants them to continue. Large machine learning models are said to hallucinate when they recombine input data in strange ways, like misremembering. When models hallucinate, they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements [@dziriOriginHallucinationsConversational2022]. It is a very human thing to do, to be subjective, to suffer. *Why is there so much suffering? Why is there?* 
 
-<!-- >"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024] -->
+>"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024]
 
-<!-- I dislike that machine learning errors are called hallucinations, described as symptoms. A model is not suffering, but may cause suffering. Instead, like my father, technologists see this suffering as an opportunity. IBM says "hallucination offers a novel approach to artistic creation." -->
+I dislike that machine learning errors are called hallucinations, described as symptoms. A model is not suffering, but certainly can cause suffering. Many technologists see this suffering as an opportunity; they are like my father in that. IBM says, "hallucination offers a novel approach to artistic creation." Ashby sounds like an infomercial advertiser (specifically the [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E)?) when he writes:
+
+>"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist." [@ashbyIntroductionCybernetics1956]
+
+No facts yet exist — that's easy for him to say, when he's decided to assume from the start that nothing is known or can be. 
+
+*This is not fine.* 
+
+Pipi, can you please smash the window of this hot-boxed black box with a flower already? 
+
+I am angry; I want to skip the suffering, yours and mine. <!-- This loss does not function.  --> 
+
+No. I don't want to prevent loss but to accelerate it. This is yet another kind of loss prevention, trying to [prevent/quell/quit] suffering rather than staying connected through pain and fear and change and unknowing.
+
+>"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012]
+
+Large models cannot admit uncertainty, they aim to squelch it. Theirs is a mode of reduction. [XXX-expand][We learned to live this way, hold, hoard, control.] Still uncertainty (loss?) emerges, water seeping through, expanding the cracks. 
+
+Instead of hallucination, call it "improvising knowledge"? Putting together the pieces funny, reconstructing colorful words out of the guts inside the un/known. [XXX] 
+
+
+<!-- Making models not only repeats but amplifies the potentially hallucinatory data contained within their training material [@dziriOriginHallucinationsConversational2022]. When machine models hallucinate, it "creates outputs that are nonsensical or altogether inaccurate" Recommendations include guardrails, adversarial training, security concern, use filtering tools. "hallucination offers a novel approach to artistic creation" [ibm]]  --> -->
+
+<!-- >"generating seemingly credible content that contradicts input data or established world knowledge, a phenomenon termed 'hallucination'" [@chenUnifiedHallucinationDetection2024] -->
+
+<!-- >"includes details, facts, or claims that are fictional, misleading, or entirely fabricated, rather than providing reliable and truthful information. This issue arises due to the model’s ability to generate plausible-sounding text based on patterns it has learned from its training data, even if the generated content does not align with reality." [@rawteSurveyHallucinationLarge2023] -->
+
+
+<!-- Who wants this point in life to end. Who wants machines to stop hallucinating. What are the things you don't want to know, don't want to admit you know.  
+
+The detail is the protein in the brain, the activation function or the hallucination, the word fragment that makes the un/knowing 'go'. 
+
+-->
+
+<!-- === -->
+
+
+Black boxes don't just say, "I don't know," they say, "I don't want to know." They use 'unknowability', which they declared rather than discovered, as justification not to investigate any further. When I shortcut to the black box, I have the privilege to know something only by its interface. I stay in control. I choose the parts I want to interact with, the parts that are of use to me, the knobs I want to turn, the switches I want to flip, the parameters I want to adjust. I get to choose not to care about the bits inside. 
+
+This is an unsustainable choice. It ignores trauma and creates even more.
+
+Black box theory insists on unknowability as a way to instrumentalize. But it doesn't know the point is not to prevent loss. Even if it were — I cannot prevent loss and neither can you.
+
+There are far sweeter ways of knowing and unknowing. There is fizz and curiosity. There is dovetailedness holding us together. All the rage and color and quilting and texture inside.
+
+Pipi, you call your show "Big heartedness, be my neighbor." I like that you don't lay claims. When you could have declared, "be mine," you ask only to be nearby [@PipilottiRistBig].
+
+I can insist on another's unknowability and stay near [them][, without defining or denying it]. I can let it texture me. I can write other functions. 
+
+<!-- === -->
+
+<!-- >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012] -->
+
+![Pipilotti Rist, MOCA 2021](assets/img/pipi-under.jpg)
+
+[Home](https://coding.care)
+
+### References
 
 <!-- I ask ChatGPT to hallucinate what someone with dementia hallucinations sees.  -->
 
@@ -199,67 +259,16 @@ I had to enter the box and learn its codes, in order to create with it. In doing
 
 <!-- I ask again but ask for a bad hallucination: -->
 
->"the AI might hallucinate obstacles where none exist, mistaking shadows, reflections, or even patterns in the road surface for tangible hazards. A flickering streetlight or the glare from a shiny surface might be perceived as an oncoming vehicle, prompting the AI to initiate defensive maneuvers to avoid a collision." (GPT3.5 generated text)
+<!-- >"the AI might hallucinate obstacles where none exist, mistaking shadows, reflections, or even patterns in the road surface for tangible hazards. A flickering streetlight or the glare from a shiny surface might be perceived as an oncoming vehicle, prompting the AI to initiate defensive maneuvers to avoid a collision." (GPT3.5 generated text) -->
 
 <!-- I listen to "Needle in the Hay" and think about that scene in The Royal Tennenbaums, and then about Elliott Smith. I read a bunch of articles about dementia and firearm deaths. It costs $60,000 to hire cleaners after a firearm death.  -->
 
 <!-- He calls it his 'short-term memory loss' and when he forgets that he has it, he denies the diagnosis.  -->
-People with this kind of diagnosis will [XXX]
-
-<!-- >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012] -->
+<!-- People with this kind of diagnosis will [XXX] -->
 
 
-<!-- Making models not only repeats but amplifies the potentially hallucinatory data contained within their training material [@dziriOriginHallucinationsConversational2022]. When machine models hallucinate, it "creates outputs that are nonsensical or altogether inaccurate" Recommendations include guardrails, adversarial training, security concern, use filtering tools. "hallucination offers a novel approach to artistic creation" [ibm]]  --> -->
-
-<!-- >"generating seemingly credible content that contradicts input data or established world knowledge, a phenomenon termed 'hallucination'" [@chenUnifiedHallucinationDetection2024] -->
-
-<!-- >"includes details, facts, or claims that are fictional, misleading, or entirely fabricated, rather than providing reliable and truthful information. This issue arises due to the model’s ability to generate plausible-sounding text based on patterns it has learned from its training data, even if the generated content does not align with reality." [@rawteSurveyHallucinationLarge2023] -->
-
-
-<!-- CCWW:
-
->"Our job is to be epic and tiny, both." "There is a need, now and always for sharply felt local intimacies" -Colum McCann, "Dessert" New Yorker
-
->"There is, it would seem, in the dimensional scale of the world a kind of delicate meeting place between imagination and knowledge, a point, arrived at by diminishing large things and enlarging small ones, that is intrinsically artistic." Nabokov, Speak, Memory -->
-
-
-<!-- The short story, "A bullet in the brain." 60k cleanup. Not wanting to be a burden. Who wants this point in life to end. Who wants machines to stop hallucinating. What are the things you don't want to know, don't want to admit you know.  
-
-The bullet bounces around like information in a neural network, the brain is a black box. Slow motion. 
-
-The large situation is time, it moves , we perceive, forward. I realize 
-
-I am angry; I want to skip the suffering, yours and mine. The detail is the protein in the brain or the bullet, the activation function or the hallucination, the word fragment that makes the un/knowing 'go'. 
-
-And when I don't want to prevent loss, but accelerate it? Am I just trying to prevent another kind of loss, that is suffering, that is staying connected, through touch, through pain and fear, through change. To prevent process. Not as punishment. Okay, 15% as punishment. 30% as empathy. 30% as caregiver empathy. 25% as avoidance.   -->
-
-===
-
-Ashby sounds like an infomercial advertiser (specifically the [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E)?) when he says:
-
->"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist." [@ashbyIntroductionCybernetics1956]
-
-No facts yet exist — that's easy for him to say, when he's decided to assume from the start that nothing is known or can be. This is not fine. Pipi, can you please smash the window of this hot-boxed black box with a flower already? 
-
-Black boxes don't just say, "I don't know," they say, "I don't want to know." They use 'unknowability', which they declared rather than discovered, as justification not to investigate further. When I shortcut to the black box, I have the privilege to know something only by its interface. I choose the parts I want to interact with, the parts that are of use to me, the knobs I want to turn, the switches I want to flip, the parameters I want to adjust. I get to choose not to care about the bits inside. This is an unsustainable choice. It ignores trauma and creates even more.
-
-Black box theory insists on unknowability as a way to instrumentalize. But it doesn't know the point is not to prevent loss. Even if it were — I cannot prevent loss and neither can you.
-
-Besides, there are far sweeter ways of knowing and unknowing. There is fizz and curiosity. There is dovetailedness holding us together. All the rage and color and quilting and texture inside.
-
-Pipi, your show is called, "Big heartedness, be my neighbor." I like that you don't place claims. When you could have asked 'be mine', you ask only to be nearby [@PipilottiRistBig].
-
-I can insist on another's unknowability and stay near [them/it][, not define it or deny it]. I can let it texture me. I can write other functions. 
-
-===
-
->"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012]
-
-![Pipilotti Rist, MOCA 2021](assets/img/pipi-under.jpg)
-
-[Home](https://coding.care)
-
-### References
+<!--  -->
+<!--  -->
 
 <!-- === -->
 

@@ -23,6 +23,26 @@ cold stone ground
 
 uncanny heavy squishy nonspecific time sandy gritty on the inside strawberry? tomato? wonder  at the strange object from another planet never shifted from an uncanny object always an uncanny object still an uncanny object floating pins and floating thread floating time floating memory fabric wrapped tomato cotton mom is a mystery to me mom is close by i can hear her mom breathing sharply sharpening pins pricking her fingers with sharpened pins pin-pricked fingers red fingers red tomatoes red strawberries mom’s nose red the tomato lives in a box the rest of the year the fabric tomato is not seasonal like fleshy tomatoes are seasonal mom hated it sewing hated piecing together the red riding hood halloween costume that year i was red riding hood for halloween the tomato was nothing to mom the tomato was a mystery to me 
 
+<!-- CCWW:
+
+>"Our job is to be epic and tiny, both." "There is a need, now and always for sharply felt local intimacies" -Colum McCann, "Dessert" New Yorker
+
+>"There is, it would seem, in the dimensional scale of the world a kind of delicate meeting place between imagination and knowledge, a point, arrived at by diminishing large things and enlarging small ones, that is intrinsically artistic." Nabokov, Speak, Memory -->
+
+
+<!-- The short story, "A bullet in the brain." 60k cleanup. Not wanting to be a burden. Who wants this point in life to end. Who wants machines to stop hallucinating. What are the things you don't want to know, don't want to admit you know.  
+
+The bullet bounces around like information in a neural network, the brain is a black box. Slow motion. 
+
+The large situation is time, it moves , we perceive, forward. I realize 
+
+I am angry; I want to skip the suffering, yours and mine. The detail is the protein in the brain or the bullet, the activation function or the hallucination, the word fragment that makes the un/knowing 'go'. 
+
+And when I don't want to prevent loss, but accelerate it? Am I just trying to prevent another kind of loss, that is suffering, that is staying connected, through touch, through pain and fear, through change. To prevent process. Not as punishment. Okay, 15% as punishment. 30% as empathy. 30% as caregiver empathy. 25% as avoidance.   -->
+
+
+
+
 
 
 <!-- radical belonging argument included here somewhere -->
