@@ -105,13 +105,9 @@ The language model reminds me: *"It is not a good choice to go walking at night.
 
 I want to weave each of its errors into the possibility for more. More language. More mouths. More magic in the gaps, making more gaps, making more.
 
-*"We haven't been taught, nor allowed, to express multiplicity. To do that is to speak improperly."* 
-
-[xxx]
-
 If I hold everything loosely — no knots, only loops — what can emerge instead? 
 
->"The sky isn't up there: it's between us." [@irigarayThisSexWhich1985]
+<!-- >"The sky isn't up there: it's between us." [@irigarayThisSexWhich1985] -->
 
 ===
 

@@ -168,8 +168,7 @@ When I made my first project writing code, I made a chatbot called 'ladymouth' t
 
 ![Sarah Ciston, "ladymouth," 2018](assets/img/LMgallerycrop.png)
 
-![Sarah Ciston, "e-face," 2015](assets/img/giflips.png) 
-<!-- make this a gif image instead -->
+![Sarah Ciston, "e-face," 2015](assets/img/lips.gif) 
 
 I wanted to treat 'ladymouth' like a black box, to shove everything inside her that I didn't want to know about the horrible things being said on the internet about women and anyone othered. The black box doesn't work this way. The box, in all its complex code, holding all its rage and color, requires tending. 
 
@@ -179,32 +178,59 @@ I had to enter the box and learn its codes, in order to create with it. In doing
 
 ![Pipilotti Rist, MOCA 2021](assets/img/pipi-scream.jpg)
 
-<!-- === -->
+How much loss is normal? When his hallucinations start, my father sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He says he doesn't mind. He likes them fine and wants them to continue. 
 
-How much loss is normal? When his hallucinations start, my father sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He says he doesn't mind. He likes them fine and wants them to continue. Large machine learning models are said to hallucinate when they recombine input data in strange ways, like misremembering. When models hallucinate, they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements [@dziriOriginHallucinationsConversational2022]. It is a very human thing to do, to be subjective, to suffer. *Why is there so much suffering? Why is there?* 
+Large machine learning models are said to hallucinate when they recombine input data in strange ways, like misremembering. When models hallucinate, they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements [@dziriOriginHallucinationsConversational2022]. It is a very human thing to do, to be subjective, to suffer. 
+
+>"Why is there so much suffering. Why is there." [@steinTenderButtons2014]
 
 >"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024]
 
-I dislike that machine learning errors are called hallucinations, described as symptoms. A model is not suffering, but certainly can cause suffering. Many technologists see this suffering as an opportunity; they are like my father in that. IBM says, "hallucination offers a novel approach to artistic creation." Ashby sounds like an infomercial advertiser (specifically the [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E)?) when he writes:
+Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. 
+
+Techno-capitalists want to see suffering as opportunity. Maybe that's what my father thinks too. IBM advertises, "hallucination offers a novel approach to artistic creation." Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). He says, 
 
 >"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist." [@ashbyIntroductionCybernetics1956]
 
-No facts yet exist — that's easy for him to say, when he's decided to assume from the start that nothing is known or can be. 
+No facts yet exist — that's easy for him to say, when he's decided to assume from the start that nothing is known, nor can be. 
 
 *This is not fine.* 
 
 Pipi, can you please smash the window of this hot-boxed black box with a flower already? 
 
+Black boxes don't just declare a zone of, "I don't know." Worse, they proclaim, "I don't want to know." They manufacture an 'unknowability' at the outset that they then use as justification not to investigate further. When I black box you, I claim the privilege to know you only by your interface. I choose the surfaces I want to interact with, the parts that are of use to me, the parameters I want to adjust. I get to choose what not to care about. 
+
+This is an unsustainable choice. The black box doesn't know the point is not to prevent loss. 
+
+Even if it were, I cannot prevent loss. Neither can you.
+
 I am angry; I want to skip the suffering, yours and mine. <!-- This loss does not function.  --> 
 
-No. I don't want to prevent loss but to accelerate it. This is yet another kind of loss prevention, trying to [prevent/quell/quit] suffering rather than staying connected through pain and fear and change and unknowing.
+I try to solve it, find an equation complex enough to predict it exactly. If I cannot prevent loss I want [to skip it, accelerate it]. 
+
+No. I don't want to prevent loss but to accelerate it. This is yet another kind of prevention, trying to [quell/quit/muffle] suffering rather than staying [connected] through pain and fear and change and unknowing.
 
 >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012]
 
-Large models cannot admit uncertainty, they aim to squelch it. Theirs is a mode of reduction. [XXX-expand][We learned to live this way, hold, hoard, control.] Still uncertainty (loss?) emerges, water seeping through, expanding the cracks. 
+Large models cannot admit uncertainty; they aim to squelch it. Theirs is a mode of reduction that hardens and hoards. Even as I learned to live this way — still uncertainty emerges, loss cracks open, water seeps through, expanding the cracks. 
 
-Instead of hallucination, call it "improvising knowledge"? Putting together the pieces funny, reconstructing colorful words out of the guts inside the un/known. [XXX] 
+>"even to name something, is to wait for it in the place you think it will pass." [@barakaHomeSocialEssays1966]
 
+Yet uncertainty does not have to mean suffering. Loss does not.
+
+Instead of hallucination, could we call upon systems that are "improvising knowledge." That first acknowledge never having known in any authoritative, encapsulating way. Instead of claiming knowledge, they welcome knowledge in its teetering verb state — a sharing, haptic undercommon of un/knowing. 
+
+>"I speak of the *verb process*, the doing, the coming into being, the at-the-time-of. Which is why we think there is particular value in live music, contemplating the artifact as it arrives, listening to it emerge. There it is. And There." [@barakaHomeSocialEssays1966]
+
+Far sweeter ways of knowing. Fizz and curiosity. Dovetailedness holding us together. All the rage and color and quilting and texture inside.
+
+Pipi, you call your show "Big heartedness, be my neighbor." I like that you don't lay claims. When you could have declared, "be mine," you ask only to be nearby [@PipilottiRistBig]. I want to stay nearby. I can let unknowing texture me. I can write other functions. 
+
+![Pipilotti Rist, MOCA 2021](assets/img/pipi-under.jpg)
+
+[Home](https://coding.care)
+
+### References
 
 <!-- Making models not only repeats but amplifies the potentially hallucinatory data contained within their training material [@dziriOriginHallucinationsConversational2022]. When machine models hallucinate, it "creates outputs that are nonsensical or altogether inaccurate" Recommendations include guardrails, adversarial training, security concern, use filtering tools. "hallucination offers a novel approach to artistic creation" [ibm]]  --> -->
 
@@ -222,27 +248,7 @@ The detail is the protein in the brain, the activation function or the hallucina
 <!-- === -->
 
 
-Black boxes don't just say, "I don't know," they say, "I don't want to know." They use 'unknowability', which they declared rather than discovered, as justification not to investigate any further. When I shortcut to the black box, I have the privilege to know something only by its interface. I stay in control. I choose the parts I want to interact with, the parts that are of use to me, the knobs I want to turn, the switches I want to flip, the parameters I want to adjust. I get to choose not to care about the bits inside. 
 
-This is an unsustainable choice. It ignores trauma and creates even more.
-
-Black box theory insists on unknowability as a way to instrumentalize. But it doesn't know the point is not to prevent loss. Even if it were — I cannot prevent loss and neither can you.
-
-There are far sweeter ways of knowing and unknowing. There is fizz and curiosity. There is dovetailedness holding us together. All the rage and color and quilting and texture inside.
-
-Pipi, you call your show "Big heartedness, be my neighbor." I like that you don't lay claims. When you could have declared, "be mine," you ask only to be nearby [@PipilottiRistBig].
-
-I can insist on another's unknowability and stay near [them][, without defining or denying it]. I can let it texture me. I can write other functions. 
-
-<!-- === -->
-
-<!-- >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012] -->
-
-![Pipilotti Rist, MOCA 2021](assets/img/pipi-under.jpg)
-
-[Home](https://coding.care)
-
-### References
 
 <!-- I ask ChatGPT to hallucinate what someone with dementia hallucinations sees.  -->
 
