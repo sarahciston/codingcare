@@ -7,6 +7,7 @@ nav_order: 95
 
 <!-- [1971, paper] -->
 <!-- [other terms, aliasing, statistical artifacts, machine artifact. mark of a process. ] -->
+<!-- paper: AI Hallucinations: a misnomer worth clarifying. -->
 
 nearbyness and phenomenological language modeling
 

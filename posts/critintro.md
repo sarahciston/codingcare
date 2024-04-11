@@ -27,9 +27,7 @@ My interest in code and AI systems grew from wanting to understand how I might t
 [XXX][unpack repair and resistance?]
 Over the last decade, I have begun developing the approaches shared across the works collected in *Coding.Care: Guidebooks for Intersectional AI* as practices of exploration and investigation, experimentation and imagination, repair and resistance toward and with technologies like machine learning. These are practices that ask how to better use technology toward relationality and building the systems and worlds we want.
 
-[xxx][continue mixing in personal voice?]
-
-===
+[xxx][continue mixing in personal voice?][break or more transition here?]
 
 No intervention in disproportionately harmful algorithmic systems is effective without critically aware approaches to technologies from deeply plural perspectives. Meanwhile, no such proliferation of perspectives is possible without inviting spaces to understand, interrogate, and reimagine the infrastructures that support those systems. *Coding.Care: Guidebooks for Intersectional AI* argues for the essential entanglement of critical, intersectional AI approaches and creative-critical coding communities, showing how each needs the other. It shows what intersectional, interdisciplinary, creative–critical approaches to AI systems and other emergent technologies can look like. Its multimodal guides apply these approaches as in-practice experiments — in different contexts, for different audiences, for different aspects of these urgent issues. 
 
@@ -42,12 +40,12 @@ We cannot expect technology to solve the problems of technology. But with critic
 In order to change systems to suit our communities, we must be able to participate on our own terms. When learning programming and engaging with tech is often intimidating, we must reclaim technology as a widely accessible craft. To face the challenges of emerging technologies, those who already have access and aptitude with tech must embrace a wider range of essential perspectives from the marginalized majority.
 
 >"Anyone who has ever woven or knitted knows that one can change patterns [...] but, more importantly, they know *there are other patterns*. The web of technology can indeed be woven differently, but even to discuss such intentional changes of pattern requires an examination of the features of the current pattern and an understanding of the origins and the purpose of the present design." [@franklinRealWorldTechnology2004]
+
 <!-- repeats from abstract [XXX] -->
 I argue that such changes require fostering critical–creative coding communities as spaces of radical belonging, activated by an ethos and a politics modeled by queer and trans\* communities that embrace radical difference. This creates a basis for deep interdisciplinary thought, interrogation of formative principles, and an openness to co-creation and alternative forms necessary to reimagine AI. With these approaches, it becomes possible to reengage emergent technologies as craftable materials, rather than unassailable forces, and to respond with impactful, sustainable, intersectional interventions. 
 <!-- tone change [XXX][is this the moment for position?] -->
 
 <!-- I am white, queer, genderqueer, and grew up in the US in the rural Ozarks, which is the ancestral home of the Osage and Kickapoo nations. I had access to scholarships that let me go far with my education, while I witnessed many others who could not.  -->
-
 
 ## AI Needs Critical, Intersectional Approaches 
 
