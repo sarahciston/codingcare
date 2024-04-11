@@ -5,6 +5,9 @@ title: Meaning Weaver
 nav_order: 95
 ---
 
+<!-- [1971, paper] -->
+<!-- [other terms, aliasing, statistical artifacts, machine artifact. mark of a process. ] -->
+
 nearbyness and phenomenological language modeling
 
 >what would be a phenomenological (rather than stocastic) computational representation of language?

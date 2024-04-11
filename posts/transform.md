@@ -194,20 +194,6 @@ Tactical media are works that resist, revise, reverse, reimagine their materials
 
 Crafters and other artists know that resistance can emerge from the properties of the materials themselves, and that creation is a cooperative effort between maker and material. Digital humanities researcher Bethany Nowviskie argues that this resistance is a reminder of "the material nature of every generative or transformative textual process" most useful when makers have deep knowledge of their environment, including the time and access allows them to make and refine their own tools: "the material nature of every generative or transformative textual process" [@nowviskieResistanceMaterials2013].
 
-<!-- move to new queer section? -->
-
-Queer use is a form of resistance, both material resistance and cultural resistance. It can be a way of 'living otherwise' and might be read in some cases as a form of tactical media. Feminist writer Sara Ahmed describes queer use as both a refusal of normative use and an embrace of the unused: 
-
->"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." [@ahmedQueerUse2018]
-
-In Ahmed's reading, normative use and resistance has much to do with fit and form: "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you" [@ahmedQueerUse2018]. In a machine learning terms, we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
-
-![Lace cards](assets/img/IBM_lace_card.jpg)
-
-<p class='caption'>
-A "lace card" was used in early punch-card computers to jam the systems.
-</p>
-
 >"Pranking an AI — giving it a task and watching it fail — is a great way to learn about it" [@shaneYouLookThing2021]
 
 Let's briefly discuss some techniques employed in craftiness as refusal and resistance: adversarial use, extreme use, handcraft practices, and esoteric/DIY systems. These techniques often overlap, reflect one another, or are used in tandem. Of course they are not the only techniques, but a few I have spotted in the wild and have used myself. 
@@ -234,13 +220,27 @@ These forms of refusal replace what they reject with alterative visions for more
 
 
 
+![Lace cards](assets/img/IBM_lace_card.jpg)
 
+<p class='caption'>
+A "lace card" was used in early punch-card computers to jam the systems.
+</p>
 
 ## Queer
 
 Key forms of resistance and refusal have been taken up (necessarily) by queer people and queer communities, especially queer people of color, in response to active threats to their existence. 
 
-Queer is weird and not explaining itself. It forges its own paths outside of binaries and normative choices and systems.
+<!-- move to new queer section? -->
+
+Queer use is a form of resistance, both material resistance and cultural resistance. It can be a way of 'living otherwise' and might be read in some cases as a form of tactical media. Feminist writer Sara Ahmed describes queer use as both a refusal of normative use and an embrace of the unused: 
+
+>"To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions. That recovery can be dangerous. The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about." [@ahmedQueerUse2018]
+
+In Ahmed's reading, normative use and resistance has much to do with fit and form: "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you" [@ahmedQueerUse2018]. In a machine learning terms, we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
+
+
+
+Queer is weird without explaining itself. It forges its own paths outside of binaries and normative choices and systems.
 
 It calls for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough)[@dogparkdissidentsQueerFuckYou; @keelingQueerOS2014].
 
@@ -281,9 +281,9 @@ Trans\*formative is an active, abolitionist, prefigurative[^prefigurative] stanc
 
 ### Transformers
 
-Transformers are a current type of machine learning architecture being employed to create large models like ChatGPT and Stable Diffusion.[^techterms] They are good at digesting large clumps of text, images, video — all interpreted as numbers — and reconstituting them. Transformers main parts are called encoders and decoders, and it's often said that even their designers don't know what exactly is going on in these hidden layers. We can discuss the specifics of that elsewhere (see Interstitial: Codes for Un/Knowing). I find it more interesting that the *transformers themselves* do not know what is going on in these hidden layers of the own architecture — despite all the anthropomorphizing of AI systems, with widespread use of terms like "learning" and "understanding." While they process and produce meaning (input and output), transformers are never "aware" of the meaning of the content they are processing along the way. They are just crunching numbers.
+Transformers are a current type of machine learning architecture being employed to create large models like ChatGPT and Stable Diffusion.[^techterms] They are good at digesting large clumps of text, images, video — all interpreted as numbers — and reconstituting them. Transformers main parts are called encoders and decoders, and it's often said that even their designers don't know what exactly is going on in these hidden layers. We can discuss the specifics of that '[unknowing](https://coding.care/unknowing)' elsewhere. I find it more interesting that the *transformers themselves* do not know what is going on in these hidden layers of the own architecture — despite all the anthropomorphizing of AI systems, with widespread use of terms like "learning" and "understanding." While they process and produce meaning (input and output), transformers are never "aware" of the meaning of the content they are processing along the way. They are just crunching numbers.
 
-Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees[^techterms] to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known. [@browneDarkMattersSurveillance2015; @benjaminRaceTechnologyAbolitionist2019; @joqueRevolutionaryMathematicsArtificial2022]
+Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees[^techterms] to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known [@browneDarkMattersSurveillance2015; @benjaminRaceTechnologyAbolitionist2019; @joqueRevolutionaryMathematicsArtificial2022].
 
 [^techterms]: For more explanation of terms, see "A Critical Field Guide for Working with Machine Learning Datasets" and "Intersectional AI Toolkit."
 
@@ -403,7 +403,7 @@ In this way, the material I work with also in-forms what I make, through its ins
 
 Form activates. No form is neutral, although if we use it long enough we begin to look through it, like the blank page, or the MS Word 'blank page'. Each interface or material enables or encourages particular experiences and outcomes, and denies or deflects others — whether through predictive text in search, syntax highlighting in code, or the constraint of an eight-page paper zine. Some forms invite us to collaborate in imagining the usefulness of their limits and the boundlessness in their constraints. Through time spent in process, working with and against form, our focus can shift from producing outputs that meet the brief of the form, to working with the form to reshape both the form and ourselves in new understandings and new orientations.
 
-Yet current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Computation requires information to take any output formations. Its orderly logic is a shape imposed by and reflecting the world. It requires contortion to represent us. As media theorist Sarah Sharma reminds us, for the 'Broken Machines' who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. 
+Yet current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Artist–researcher Pedro Oliveira describes the way international borders use digital surveillance to prescribe identity: "the border listens for people in a way that matches them to categories they 'should' belong to (e.g. 'German', 'Greek', 'Syrian). When this listening for fails to produce these categories, the border then listens to their bodies with the purpose of uncovering the 'truth' that these border subjects might be concealing" [@oliveiraBecomeUndone]. Computation requires information to take specific forms. Its orderly logic is a shape imposed by and reflecting power. It requires contortion to represent be represented. As media theorist Sarah Sharma reminds us, for the 'Broken Machines' who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. 
 
 >"In order to understand and thus accept you, I have to measure your solidity with the ideal scale providing me with grounds to make comparisons and, perhaps, judgments. I have to reduce. [...] perhaps we need to bring an end to the very notion of a scale. Displace all reduction. Agree not merely to the right to difference but, carrying this further, agree also to the right to opacity that is [not enclosure within an impenetrable autarchy but] subsistence within an irreducible singularity. Opacities can coexist and converge, weaving fabrics. To understand these truly one must focus on the texture of the weave and not on the nature of its components. For the time being, perhaps, give up this oid obsession with discovering what lies at the bottom of natures. There would be something great and noble about initiating such a movement, referring not to Humanity but ta the exultant divergence of humanities. Thought of self and thought of other here become obsolete in their duality. Every Other is a citizen and no longer a barbarian. What is here is open, as much as this there. 1 would be incapable of projecting from one to the other. This-here is the weave, and it weaves no boundaries. The right to opacity would not establish autism; it would be the real foundation of Relation, in freedoms." [@glissantPoeticsRelation2009a]
 
@@ -515,8 +515,21 @@ Technological systems, algorithmic systems, human systems, global systems.
 
 
 
+<!-- >"While specific methods generate a shared terrain of knowledge – which is consequently pervaded by power structures — singular methods follow their own logic. While this may avoid the replication of existing structures of power/knowledge, it also creates the problem of the proliferation of parallel universes, which each speak their own, untranslatable language. Practices of artistic research usually partake in both registers, the singular as well as the specific; they speak several languages at once." [@steyerlAestheticsResistanceArtistic] -->
 
+<!-- >"the same stone can be described from the point of view of a discipline, which classifies and names. But it can also be read as a trace of a suppressed conflict. [...] where is the conflict, or rather what are the extensive sets of conflicts underlying this new academic discipline? Who is currently building its walls, using which materials, produced by whom? Who are the builders of the discipline and where are their traces?" [@steyerlAestheticsResistanceArtistic] -->
 
+<!-- >"As categories seem to emerge from the data themselves, they acquire the authority of an immediate manifestation or apparition. Data are no longer presented via the traditional media of graphs, clusters, curves, diagrams or other scientific abstractions. Instead, they are visualized in the shape of the thing from which they are supposed to abstract." [@steyerlMeanImages2023]  -->
+
+<!-- >"the supposed elimination of bias within datasets creates more problems than it solves. The process limits changes to parts of the output, making these more palatable for Western liberal consumers, while leaving the structure of the industry and its modes of production intact." [@steyerlMeanImages2023] -->
+
+<!-- >"They replace likenesses with likelinesses. [...] This is an approximation of how society, through a filter of average internet garbage, sees me. All it takes is to remove the noise of reality from my photos and extract the social signal instead; the result is a 'mean image', a rendition of correlated averages or: different shades of mean. [...] Mean images are far from random hallucinations. They are predictable products of data populism. They pick up on latent social patterns that encode conflicting significations as vector coordinates." [@steyerlMeanImages2023] -->
+
+<!-- >"This type of apophenia can cause serendipitous misreadings or end you up in jail, that is, but at least not as a docile subjected subject. It (mis-)reads the letter of the law for a love letter, it insists on not recognizing the other at all but rather knowing them in the biblical sense, not as sea of data but as flow of energy, not as pattern-oflife but as wave of desire." [@apprichPatternDiscrimination2018] -->
+
+<!-- >"[In ancient Greece, t]he distinction between speech and noise served as a kind of political spam filter. Dividing signal and noise means not only to "filter" patterns but also to create them in the first place. What does an "anomaly" exactly mean in pattern "recognition"?" [@apprichPatternDiscrimination2018] -->
+
+<!-- >"In general the women of classical literature arc a species given to disorderly and uncontrolled outflow of sound--to shrieking, wailing, sobbing, shrill lament, loud laughter, screams of pain or of pleasure and eruptions of raw emotion in general. [...] Woman is that creature who puts the inside on the outside. By projections and leakages of all kinds — somatic, vocal, emotional, sexual — females expose or expend what should be kept in. [...] Every sound we make is a bit of autobiography. It has a totally private interior yet its trajectory is public. A piece of inside projected to the outside. The censorship of such projections is a task of patriarchal culture that (as we have seen) divides humanity into two species: those who can censor themselves and those who cannot. [...] I wonder if there might not be another idea of human order than repression, another notion of human virtue than self-control, another kind of human self than one based on dissociation of inside and outside. Or indeed, another human essence than self." [@carsonGlassIronyGod1995] -->
 
 
 <!-- **Reinforcement Learning with Human Feedback** -->

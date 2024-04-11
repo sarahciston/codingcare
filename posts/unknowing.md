@@ -188,7 +188,7 @@ Large machine learning models are said to hallucinate when they recombine input 
 
 Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. 
 
-Techno-capitalists want to see suffering as opportunity. Maybe that's what my father thinks too. IBM advertises, "hallucination offers a novel approach to artistic creation." Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). He says, 
+Techno-capitalists want to see suffering as opportunity. Maybe that's what my father thinks too. IBM advertises, "hallucination offers a novel approach to artistic creation" [@WhatAreAI]. Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). He says, 
 
 >"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist." [@ashbyIntroductionCybernetics1956]
 
@@ -247,7 +247,8 @@ The detail is the protein in the brain, the activation function or the hallucina
 
 <!-- === -->
 
-
+<!-- [1971, paper] -->
+<!-- [other terms, aliasing, statistical artifacts, machine artifact. mark of a process. ] -->
 
 
 <!-- I ask ChatGPT to hallucinate what someone with dementia hallucinations sees.  -->
