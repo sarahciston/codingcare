@@ -7,26 +7,28 @@ nav_order: 0
 
 <div class=bubblegroup>
   <div id="intro" class="bubble" draggable=true markdown=1>QUEER [Introduction](critintro.html)</div>
-  <div id="transform" class="bubble">TRANS [Crafting Queer Trans\*formative Systems](transform.html)</div>
-  <div id="unraveling" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Raveling](unraveling.html)</div>
+  <!-- <div></div> -->
   <div id="cccguide" class="bubble" draggable=true markdown=1>CRAFTING [Coding.Care: Field Notes for Making Friends with Code](guide.html)</div>
+  <div id="unraveling" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Raveling](unraveling.html)</div>
+  <div id="transform" class="bubble">TRANS [Crafting Queer Trans\*formative Systems, A Theory in Process](transform.html)</div>
   <div id="unlimiting" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Limiting](unlimiting.html)</div>
   <div id="fieldguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a></div>
   <div id="unforming" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Forming](unforming.html)</div>
-  <div id="libguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets Research Guide</a></div>
+  <div id="libguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets<br>Research Guide</a></div>
   <div id="unliving" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Living](unliving.html)</div>
   <div id="toolkit" class="bubble" draggable=true markdown=1>SYSTEMS <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a></div>
   <div id="unknowing" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Knowing](unknowing.html)</div>
   <div id="notes" class="bubble" draggable=true markdown=1>[Progress Notes](notes.html)</div>
-  <!-- <div id="append" class="bubble" draggable=true markdown=1>[Appendices](appendices.html)</div> -->
-  <!-- <div id="acknow" class="bubble" draggable=true markdown=1>[Acknowledgments](acknow.html)</div> -->
+  <div id="acknow" class="bubble" draggable=true markdown=1>ACKNOWLEDGMENTS</div>
+  <div id="append" class="bubble" draggable=true markdown=1>APPENDICES</div>
+  <!-- [Appendices](appendices.html) -->
+  <!-- [Acknowledgments](acknow.html) -->
 </div>
 
 #### Keywords: artificial intelligence, artistic research, craft, critical AI, community, critical data studies, datasets, intersectionality, machine learning, trans, queer, zines
 
 
 <!-- this is the website shorter version of the abstract -->
-
 
 <!-- ### About -->
 
@@ -42,7 +44,9 @@ The guides in *Coding.Care* deal with machine learning datasets, intersectional 
 
 *Coding.Care* collects five publications that enact the strategies it theorizes. These works address and unite a wide range of communities by relying upon different voices, forms, formats, and media. They address various stages and processes of the sociotechnical pipelines that produce algorithmic systems like generative AI — including machine learning datasets, intersectional AI, programming communities, and embodied outputs like art practice:
 
-*[Crafting Queer Trans\*formative Systems: A Theory in Progress](https://coding.care/transform.html)* grounds the works that follow it in an approach to systems. It details the craft-based approaches, the queer and trans\* embodied ethos, and a trans\*formative approach to systems as crafted, in-process materials. [XXX][expand] 
+*[Crafting Queer Trans\*formative Systems: A Theory in Process](https://coding.care/transform.html)* grounds the works that follow it in an approach to AI systems. It details the handscale, process-based approaches, the queer and trans\* embodied ethos, and intersectional tactics I use for working toward AI systems as crafted, in-process materials. 
+
+<!-- [XXX][expand]  -->
 
 *[Coding.Care: Field Notes for Making Friends with Code](https://coding.care/guide.html)* describes critical–creative programming approaches founded in the belief that anyone can contribute to the future of digital systems and that we all have skills to teach each other. It gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. It asks: How do we code with more care? How do we encode more care into our lives? How are these connected? It supports building or joining cooperative, interdisciplinary communities for co-learning coding. "Coding.Care" addresses reluctant or would-be programmers (of any age) and and potential group leaders, with a warm and friendly pocket guide, at the moment where they might intervene with critical or imaginative software creation. 
 

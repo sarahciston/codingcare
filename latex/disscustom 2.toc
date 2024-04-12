@@ -1,3 +1,0 @@
-\contentsline {chapter}{Acknowledgments}{i}{chapter*.1}%
-\contentsline {chapter}{Abstract}{iii}{chapter*.2}%
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
