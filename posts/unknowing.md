@@ -150,7 +150,9 @@ What can be generated with/in this residual, this what-is-left which is a "refus
 In logistics, 'loss' refers to what is stolen and 'prevention' how to get it back. Loss is 'supply chain theft' and is calculated as a cost. To calculate loss is to tuck it away. How much loss is a rounding error? 
 
 <!-- stein here? -->
->"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014]
+>"Why is there more craving than there is in a mountain. This does not seem strange to an echo [...]. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014]
+
+<!-- >"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014] -->
 
 Instead of this black boxed "don't own anything, don't love anything," I want to evade ownership in the way Moten and Harney mean. I want to share, feel, touch as an erosive force until I am lost. Let water reach every part and recede. Be the craving and the mountain. Call it excess instead of error. 
 

@@ -6,8 +6,8 @@ nav_order: 0
 ---
 
 <div class=bubblegroup>
-  <div id="intro" class="bubble" draggable=true markdown=1>QUEER [Preface](critintro.html)</div>
-  <div id="transform" class="bubble">TRANS [Crafting Queer Trans\*formative Systems, an Introduction](transform.html)</div>
+  <div id="intro" class="bubble" draggable=true markdown=1>QUEER [Introduction](critintro.html)</div>
+  <div id="transform" class="bubble">TRANS [Crafting Queer Trans\*formative Systems](transform.html)</div>
   <div id="unraveling" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Raveling](unraveling.html)</div>
   <div id="cccguide" class="bubble" draggable=true markdown=1>CRAFTING [Coding.Care: Field Notes for Making Friends with Code](guide.html)</div>
   <div id="unlimiting" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Limiting](unlimiting.html)</div>
@@ -40,15 +40,17 @@ The guides in *Coding.Care* deal with machine learning datasets, intersectional 
 
 #### More details
 
-*Coding.Care* collects four publications that enact the strategies it theorizes. These works address and unite a wide range of communities by relying upon different voices, forms, formats, and media. They address various stages and processes of the sociotechnical pipelines that produce algorithmic systems like generative AI — including machine learning datasets, intersectional AI, programming communities, and embodied outputs like art practice:
+*Coding.Care* collects five publications that enact the strategies it theorizes. These works address and unite a wide range of communities by relying upon different voices, forms, formats, and media. They address various stages and processes of the sociotechnical pipelines that produce algorithmic systems like generative AI — including machine learning datasets, intersectional AI, programming communities, and embodied outputs like art practice:
 
-"[Coding.Care: Field Notes for Making Friends with Code](https://coding.care/guide.html)" describes critical–creative programming approaches founded in the belief that anyone can contribute to the future of digital systems and that we all have skills to teach each other. It gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. It asks: How do we code with more care? How do we encode more care into our lives? How are these connected? It supports building or joining cooperative, interdisciplinary communities for co-learning coding. "Coding.Care" addresses reluctant or would-be programmers (of any age) and and potential group leaders, with a warm and friendly pocket guide, at the moment where they might intervene with critical or imaginative software creation. 
+*[Crafting Queer Trans\*formative Systems: A Theory in Progress](https://coding.care/transform.html)* grounds the works that follow it in an approach to systems. It details the craft-based approaches, the queer and trans\* embodied ethos, and a trans\*formative approach to systems as crafted, in-process materials. [XXX][expand] 
 
-"[A Critical Field Guide for Working with Machine Learning Datasets](https://knowingmachines.org/critical-field-guide)" offers practical guidance for conscientious dataset stewardship. It combines critical AI theories and technical data science concepts, explained in accessible language. It addresses journalists, students, scholars, activists, artists, and anyone starting to work with existing machine learning datasets, in the form of an instructional guidebook that combines approachable techniques with critical thinking questions, at the point when they are choosing, using, and maintaining datasets as the foundation for machine learning tasks. It is paired with the "[Inclusive Datasets Research Guide](https://libguides.usc.edu/inclusive-datasets)," an online resource written for USC Libraries, which addresses a diverse student population who are also beginning to work with datasets. 
+*[Coding.Care: Field Notes for Making Friends with Code](https://coding.care/guide.html)* describes critical–creative programming approaches founded in the belief that anyone can contribute to the future of digital systems and that we all have skills to teach each other. It gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. It asks: How do we code with more care? How do we encode more care into our lives? How are these connected? It supports building or joining cooperative, interdisciplinary communities for co-learning coding. "Coding.Care" addresses reluctant or would-be programmers (of any age) and and potential group leaders, with a warm and friendly pocket guide, at the moment where they might intervene with critical or imaginative software creation. 
 
-Both of these texts apply concepts from the "[Intersectional AI Toolkit](https://intersectionalai.com)," which argues that anyone should be able to understand what AI is and help shape what AI ought to be. The Toolkit's co-authored zines are accessible guides to both AI and intersectionality. They find common vocabularies to connect diverse communities around AI's urgent questions. Its online resources learn from legacies of queer, feminist, antiracist, anticolonialist, and antiablest theories, ethics, and tactics, showing how established but marginalized tactics are necessary for reimagining more critical and ethical machine learning. The Toolkit addresses anyone who wants to understand the automated systems that impact them by using public workshops, zines, and digital resources in order to describe key concepts and processes of machine learning through critical lenses. 
+*[A Critical Field Guide for Working with Machine Learning Datasets](https://knowingmachines.org/critical-field-guide)* offers practical guidance for conscientious dataset stewardship. It combines critical AI theories and technical data science concepts, explained in accessible language. It addresses journalists, students, scholars, activists, artists, and anyone starting to work with existing machine learning datasets, in the form of an instructional guidebook that combines approachable techniques with critical thinking questions, at the point when they are choosing, using, and maintaining datasets as the foundation for machine learning tasks. It is paired with the *[Inclusive Datasets Research Guide](https://libguides.usc.edu/inclusive-datasets)*, an online resource written for USC Libraries, which addresses a diverse student population who are also beginning to work with datasets. 
 
-As interstices among these texts, a collection of five short lyric essays imagine dialogues with five 20th century artists, asking how the artists' analog material practices might act as pre-responses to the contemporary digital concerns raised across *Coding.Care*. "Codes for (Un)Raveling," "Codes for (Un)Limiting, "Codes for (Un)Forming," "Codes for (Un)Living," and "Codes for (Un)Knowing" approach the lived experience of an algorithmic era from oblique angles. Unlike the other texts, the tone of the "[Codes](https://coding.care)" essays addresses nonpractitioners on a more affective, aesthetic register, meant for reflection on the impact of sociotechnical systems as they entangle with individuals and marginalized groups. 
+Both of these texts apply concepts from the *[Intersectional AI Toolkit](https://intersectionalai.com)*, which argues that anyone should be able to understand what AI is and help shape what AI ought to be. The Toolkit's co-authored zines are accessible guides to both AI and intersectionality. They find common vocabularies to connect diverse communities around AI's urgent questions. Its online resources learn from legacies of queer, feminist, antiracist, anticolonialist, and antiablest theories, ethics, and tactics, showing how established but marginalized tactics are necessary for reimagining more critical and ethical machine learning. The Toolkit addresses anyone who wants to understand the automated systems that impact them by using public workshops, zines, and digital resources in order to describe key concepts and processes of machine learning through critical lenses. 
+
+As interstices among these texts, a collection of five short lyric essays imagine dialogues with five 20th century artists, asking how the artists' analog material practices might act as pre-responses to the contemporary digital concerns raised across *Coding.Care*. "Codes for (Un)Raveling," "Codes for (Un)Limiting, "Codes for (Un)Forming," "Codes for (Un)Living," and "Codes for (Un)Knowing" approach the lived experience of an algorithmic era from oblique angles. Unlike the other texts, the tone of the *[Codes](https://coding.care)* lyric essays address nonpractitioners on a more affective, aesthetic register, meant for reflection on the impact of sociotechnical systems as they entangle with individuals and marginalized groups. 
 
 Together, the guides in *Coding.Care* want to meet readers where they are—as non-academics or those bridging into new fields, looking for a common vocabulary to engage conscientiously with the urgent concerns of AI systems. *Coding.Care* offers an expansive invitation to deepen interdisciplinary conversation, apply intersectional approaches, and rework AI systems from critical–creative–caring perspectives.
 
@@ -88,30 +90,9 @@ Together, the guides in *Coding.Care* want to meet readers where they are—as n
 
 <!-- the Tongva and Chumash people (Los Angeles); the Ohlone, Muwekma, and Miwok people (Oakland); the Kumeyaay people (San Diego); the Osage and Kickapoo people (Missouri);  -->
 
-
-
-
 <!-- width: 380pt; float:right; -->
-
 
 <!-- [Full Abstract](abstract.html) -->
 
 <!-- [Progress notes](notes.html) -->
-
-<!-- <caption markdown=1> -->
-
-<!-- </caption> -->
-
-<!-- The urgent need to understand, critique, and rethink how AI systems are defined, developed, regulated, and mitigated.  -->
-
-<!-- ## Abstract -->
-
-<!-- <span class="purple">Learning programming is often intimidating and riddled with false starts,</span> which can further marginalize the folks whose perspectives are most necessary in order to face the challenges technoculture presents. This guidebook offers alternatives through creative-critical coding, using care-driven, community-building practices. It focuses on Creative Code Collective, the student organization I founded in 2019 for emerging media artists, writers, and non-engineers to think critically with code in an inclusive, interdisciplinary space. I wanted to create the adaptable, encouraging community I had needed when I was first struggling to learn to program as a writer trying to make electronic literature. 
-
-Here, we see creative-critical code as a holistic community practice. This guidebook looks at a variety of the strategies, platforms, and tools we have explored and developed. It discusses how practices in the Collective—including project-oriented skillbuilding, co-teaching/co-learning, and snacks (always snacks)—embody its <span class="purple">guiding values, such as "scrappy artistic strategies not perfect code" and "collaboration not competition."</span> It also discusses some snags and lessons learned from our efforts building the now 3+ years-old community, like how our practices evolved through the shift to online platforms during the pandemic and the subsequent shift to hybrid collaborations. It draws on existing methods from Critical Code Studies and Intersectional queer, feminist, anti-ableist, and anti-racist theory; and it makes connections to similar organizations like Creative Code Berlin, Varia, and p5.js. 
-
-In terms of impact, the guide addresses the ways students report these values and practices have shaped them as emerging makers and thinkers. Personally, even beyond my experiences as facilitator, I have found this community to be the strongest influence on my work. <span class="purple">Creative Code Collective has become a joyful space for creative risk-taking that nourishes my own practice.</span>
-
-In sum, Creative Code Collective positions itself within an <span class="purple">ethics of coding care</span>—grounded in shared embodied knowledge, embedded co-creation, and programming with and for community. It tenderly proclaims: "We all have something to teach each other." Coding is now an essential literacy, but this guidebook calls for reaching beyond the limited literacy offered by the STEM–paradigm that supposedly "anyone can join." Rather, Coding.Care reimagines technoculture as truly being for anyone—to understand, impact, and intervene in.  -->
-
 
