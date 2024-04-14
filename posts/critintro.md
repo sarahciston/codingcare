@@ -99,9 +99,7 @@ Code can do, mean, and be so much more — if we let it. Code is collaborative, 
 
 <!-- I formulate this approach and its goals as  -->
 
-As an approach, I call this "crafting queer trans\*formative systems" or simply "coding care." It requires as *Coding.Care* demonstrates, it [space/access], care, queerness, radical belonging. 
-
-Process-oriented, craft-focused practice and radical belonging make room for in-betweenness — for rejoining the divisions between theory and practice, and between user and programmer, which were artificially split from the start [@AlwaysalreadyprogrammingMda; @artistBlackGooeyUniverse; @nardiSmallMatterProgramming1993]; for un-siloing domains and disciplines, the artificial boundaries that divide technologists from activists and critics from creators; for finding common language and common values that come with working knowledge of whole systems and with openness to new systems. Craft, criticality, and care help us find the nuance to make efforts toward understanding mutual [and everyone's contributions valued,] even as we [XXX]. 
+As an approach, I call this "crafting queer trans\*formative systems" or simply "coding care." As *Coding.Care* demonstrates, it relies on care and radical belonging to make code collaborations that more fundamentally challenge and change technologies. Process-oriented, craft-focused practices and intersectional queer care practices make room for in-betweenness — for rejoining the divisions between theory and practice, and between user and programmer, which were artificially split from the start [@AlwaysalreadyprogrammingMda; @artistBlackGooeyUniverse; @nardiSmallMatterProgramming1993]; for un-siloing domains and disciplines, the artificial boundaries that divide technologists from activists and critics from creators; for finding common language and common values that come with working knowledge of whole systems and with openness to new systems. Craft, criticality, and care support more nuanced and more mutual understanding.
 
 >"any theory that cannot be shared in everyday conversation cannot be used to educate the public." [@hooksTeachingTransgressEducation1994]
 
