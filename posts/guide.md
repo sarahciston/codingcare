@@ -578,7 +578,7 @@ Simple gestures like skill swaps begin to level hierarchies and connect people. 
 
 Everyone has a perspective, and no one knows everything. We may know about the same things, the same programming languages or tools or subjects — and yet understand them completely differently. Everyone brings lots of unique expertise to any given situation. No matter how much we already know, we can still learn a lot by listening to each other's approach. 
 
-A *fantastic* example of this is cypress evelyn masso's 'code recipe' "How to contribute to open source software by sharing uncertainty." The exercise helps you think through your own experience working with a piece of software and sharing its sticking points with the developers [@shihHowContributeOpen]. She says:
+A *fantastic* example of this is cypress evelyn masso's 'code recipe' "How to contribute to open source software by sharing uncertainty." The exercise helps you think through your own experience working with a piece of software and sharing its sticking points with the developers [@massoHowContributeOpen]. She says:
 
 >"As someone who helps maintain p5.js, I learn from newcomers often! Newcomers are experts on how easy it is to learn a tool and often have other unique and valuable perspectives to share."
 ><footer>–[cypress evelyn masso](https://www.outofambit.com/)</footer>
