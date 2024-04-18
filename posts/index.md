@@ -46,7 +46,7 @@ The guides in *Coding.Care* deal with machine learning datasets, intersectional 
 
 *[Coding.Care: Field Notes for Making Friends with Code](https://coding.care/guide.html)* describes critical–creative programming approaches founded in the belief that anyone can contribute to the future of digital systems and that we all have skills to teach each other. It gives courage to pick up unfamiliar tools, find resources to kick off a new programming project, pose questions critically, or solve problems creatively. It asks: How do we code with more care? How do we encode more care into our lives? How are these connected? It supports building or joining cooperative, interdisciplinary communities for co-learning coding. "Coding.Care" addresses reluctant or would-be programmers (of any age) and and potential group leaders, with a warm and friendly pocket guide, at the moment where they might intervene with critical or imaginative software creation. 
 
-*[Crafting Queer Trans\*formative Systems: A Theory in Process](https://coding.care/transform.html)* grounds the surrounding works in an alternative approach to AI systems. It details the handscale, process-based approaches, the queer and trans\* embodied ethos, and intersectional tactics I use for working toward AI systems as crafted, in-process materials. 
+*[Crafting Queer Trans\*formative Systems: A Theory in Process](https://coding.care/transform.html)* grounds the surrounding works in an alternative approach to AI systems. It details a theory for the handscale, process-based approaches, the queer and trans\* embodied ethos, and intersectional tactics I use for working toward AI systems as crafted, in-process materials. 
 
 <!-- [XXX][expand]  -->
 

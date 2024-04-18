@@ -53,7 +53,7 @@ Practical applications of these critiques and calls for change have remained inc
 
 Intersectional lenses can reveal the tangible human and more-than-human costs entangled in algorithmic systems – from proliferating data and its material infrastructures, to consolidated power and its sociocultural infrastructures. In 1977 the Black feminist Combahee River Collective called for "integrated analysis and practice based upon the fact that the major systems of oppression are interlocking" [@moragaThisBridgeCalled1981a]. Named intersectionality by Kimberlé Crenshaw [-@crenshawDemarginalizingIntersectionRace1989], and emerging from centuries of work by women of color [@haschemiyekaniRevisualisingIntersectionality2022], intersectional analysis of institutional power is often misinterpreted as individual identity politics. In fact, intersectionality "critiques systems of power and how those systems structure themselves to impact groups and individuals unequally" [@cooperIntersectionality2016]. Crenshaw argues that intersectionality is as useful for understanding privilege as it is for understanding marginality [-@crenshawWhatDoesIntersectionality2021]. Intersectional analysis shows that power is differential by design; it reveals the inequalities within inequalities and asks that "communities and movements are inclusive of differences and work together towards equality" [@WhatIntersectionality]. Conversations about AI fairness, transparency, explainability, ethics, public good, and the hype cycles of new technologies are grossly incomplete without intersectional analyses of power and intersectional tactics of (and beyond) equity and inclusion. No change *about* us *without* us.
 
-As I have previously theorized it, intersectional AI calls for demystifying normative AI systems and learning from a wide range of marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investments in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022, @buolamwiniGenderShadesIntersectional2018]. Intersectional AI celebrates and documents the work done by many related efforts for diverse knowledge systems to incorporated toward reimagining machine learning as a more care-ful set of practices, including but not limited to abolitionist [@earlAbolitionistAIRole2021], anticolonialist [@chakravarttyVirtualRoundtableDecolonial2018; @rightsDecolonisingAITransfeminist2020a], antiracist [@AntiRacistHCINotes], crip [@hamraieCripTechnoscienceManifesto2019a], Indigenous [@CAREPrinciplesIndigenousa; @INDIGENOUSAI; @lewisIndigenousProtocolArtificial2020], intersectional [@cistonIntersectionalAIEssential2019; @klumbyteCriticalToolsMachine2022a], feminist [@sindersFeministDataSet; @FeministAI], neurodivergent [@goodmanSecretLifeAlgorithms], queer and trans\* ways of knowing [@keelingQueerOS2014; @barnettQueerOSUserManual2016a; @klipphahn-kargeQueereKIComingout; @martinezUnsupervisedPleasures].
+As I have previously theorized it, intersectional AI calls for demystifying normative AI systems and learning from a wide range of marginalized ethics and tactics, in order to fundamentally transform AI. It requires multimodal, polyvocal, experimental approaches that cut through technological solutionism [@cistonIntersectionalAIEssential2019]. It requires slow, long-term investments in algorithmic justice, rather than extractive, performative forms of inclusion that erase friction, context, and agency as they scale up for machine learning tasks [@sloaneParticipationNotDesign2022, @buolamwiniGenderShadesIntersectional2018]. Intersectional AI celebrates and documents the work done by many related efforts for diverse knowledge systems to incorporated toward reimagining machine learning as a more care-ful set of practices, including but not limited to abolitionist [@earlAbolitionistAIRole2021], anticolonialist [@chakravarttyVirtualRoundtableDecolonial2018; @rightsDecolonisingAITransfeminist2020a], antiracist [@abebeAntiRacistHCINotes2022], crip [@hamraieCripTechnoscienceManifesto2019a], Indigenous [@CAREPrinciplesIndigenousa; @INDIGENOUSAI; @lewisIndigenousProtocolArtificial2020], intersectional [@cistonIntersectionalAIEssential2019; @klumbyteCriticalToolsMachine2022a], feminist [@sindersFeministDataSet; @FeministAI], neurodivergent [@goodmanSecretLifeAlgorithms], queer and trans\* ways of knowing [@keelingQueerOS2014; @barnettQueerOSUserManual2016a; @klipphahn-kargeQueereKIComingout; @martinezUnsupervisedPleasures].
 
 Simultaneously, a growing field of critical AI studies[^field] has been using interdisciplinary techniques to analyze the pitfalls of existing AI methods and to argue these cannot be addressed with technical improvements alone [@raleyCriticalAIField2023]. Critical AI is distinguished from tech industry approaches like "AI for Good" or "AI for Society," which can lack critical perspectives on AI's impacts, despite an intended altruism. Critical AI researchers and professors Rita Raley and Jennifer Rhee argue that AI makers and researchers need to engage these systems as sociotechncial objects embedded in their historical, social context. They argue that we must be "situated in proximity to the thing itself, cultivating some degree of participatory and embodied expertise, whether archival, ethnographic, or applied [-@raleyCriticalAIField2023]. This level of engagement requires interdisciplinary and intersectional perspectives in order to permeate the entire AI pipeline, transforming it altogether. Critical AI research is often paired with the urgent calls for alternative approaches and knowledge systems to be applied to machine learning discussed above. Yet, importantly, none of these mixed methods of analysis and intervention has yet to be adopted widely into standard machine learning practices, even as the use and awareness of AI escalates and its issues grow more urgent. 
 
@@ -95,19 +95,11 @@ Code can do, mean, and be so much more — if we let it. Code is collaborative, 
 
 <!-- queer community [xxx][more about queerness] -->
 
-<!-- I formulate this approach and its goals as  -->
-
 As an approach, I call this "crafting queer trans\*formative systems" or simply "coding care." As *Coding.Care* demonstrates, it relies on care and radical belonging to make code collaborations that more fundamentally challenge and change technologies. Process-oriented, craft-focused practices and intersectional queer care practices make room for in-betweenness — for rejoining the divisions between theory and practice, and between user and programmer, which were artificially split from the start [@AlwaysalreadyprogrammingMda; @artistBlackGooeyUniverse; @nardiSmallMatterProgramming1993]; for un-siloing domains and disciplines, the artificial boundaries that divide technologists from activists and critics from creators; for finding common language and common values that come with working knowledge of whole systems and with openness to new systems. Craft, criticality, and care support more nuanced and more mutual understanding.
 
 >"any theory that cannot be shared in everyday conversation cannot be used to educate the public." [@hooksTeachingTransgressEducation1994]
 
-<!-- ending that is pointing to "Crafting Queer Transformative Systems" >> -->
-
 # An Invitation
-
-<!-- Wherever you begin, I invite you to r/ -->
-<!-- not a conclusion -->
-<!-- They consider interconnected aspects of computational  [xxx], using varied formats to address different audiences.  -->
 
 *Coding.Care* is a collection of public-facing resources that strive to put this thinking into action. Read in any order you like. Read on the [bias](#interstitial-portals). Read in conversation with other texts. Read as openings for discussion and expansion. 
 
@@ -185,11 +177,6 @@ OBJECTIVES: Through the Intersectional AI Toolkit, the need for plural perspecti
 
 ## [*Interstitial Portals*](https://coding.care)
 
-<!-- * [(Un)Limiting](https://coding.care/unlimiting.html): Rebecca Horn, constraint, and COVID art
-* [(Un)Raveling](https://coding.care/unraveling.html): Sonya Rapoport, fiber art, and computation
-* [(Un)Forming](https://coding.care/unforming.html): VALIE EXPORT, glitch feminism, and broken machines
-* [(Un)Living](https://coding.care/unliving.html): On Kawara, dailiness, death, and data
-* [(Un)Knowing](https://coding.care/unknowing.html): Pipilotti Rist, black boxes, and trauma -->
 * *(Un)Limiting*: Rebecca Horn, constraint, and COVID art
 * *(Un)Raveling*: Sonya Rapoport, fiber art, and computation
 * *(Un)Forming*: VALIE EXPORT, glitch feminism, and broken machines
@@ -213,6 +200,12 @@ OBJECTIVES: Engage the questions and concerns of this collection through artisti
 <!-- more about bias from tara here? -->
 
 # References
+
+<!-- * [(Un)Limiting](https://coding.care/unlimiting.html): Rebecca Horn, constraint, and COVID art
+* [(Un)Raveling](https://coding.care/unraveling.html): Sonya Rapoport, fiber art, and computation
+* [(Un)Forming](https://coding.care/unforming.html): VALIE EXPORT, glitch feminism, and broken machines
+* [(Un)Living](https://coding.care/unliving.html): On Kawara, dailiness, death, and data
+* [(Un)Knowing](https://coding.care/unknowing.html): Pipilotti Rist, black boxes, and trauma -->
 
 <!--  Mattern: [@matternUnboxingToolkit2021] [Anthropologist Shannon Mattern details the many complex [lives] of 'kits', which can act as stop gaps for necessary infrastructure (bug out bags, refugee kits) or as "tools of engagement, as methods of inclusion, for broader communities" (rape kits)] --> 
 

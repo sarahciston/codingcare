@@ -269,15 +269,13 @@ Queer use is a form of resistance, both material resistance and cultural resista
 
 In Ahmed's reading, normative use and resistance has much to do with fit and form: "I think of an institution as an old garment: it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape. And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you" [@ahmedQueerUse2018]. In a machine learning terms, we might say that infrastructures and institutions are overfitting for select populations — not only overrepresenting them but designed to suit them — while unable to account for others. With the capacity to craft our own garments, technologies, systems, institutions, we can create new fits. 
 
-
-
 Queer is weird without explaining itself. It forges its own paths outside of binaries and normative choices and systems.
 
 It calls for queerer systems (queer as a politics, as in fuck you, as in QueerOS, as in queer-enough)[@dogparkdissidentsQueerFuckYou; @keelingQueerOS2014].
 
 >"queer as [in] being about the self that is at odds with everything around it and has to invent, create and find a place to speak, and to thrive and to live." [@hooksTeachingTransgressEducation1994]
 
->"A queer operating system might take as its premise an interface in which such distinctions are annihilated, in which the self is shattered such that the mediating skin of the interface disappears but is not naturalized, through which we might acknowledge the always already-mediated nature of our interactions as between and among one another." [@barnettQueerOSUserManual2016]
+>"A queer operating system might take as its premise an interface in which such distinctions are annihilated, in which the self is shattered such that the mediating skin of the interface disappears but is not naturalized, through which we might acknowledge the always already-mediated nature of our interactions as between and among one another." [@barnettQueerOSUserManual2016a]
 
 This is a queer embrace of [a combination of] radical difference, radical belonging, and radical resistance.
 
