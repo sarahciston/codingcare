@@ -8,13 +8,13 @@ subtitle: Coding.Care
 ---
 
 <!-- <article> -->
-[Home](https://coding.care)
+<!-- [Home](https://coding.care) -->
 
-#  
+<!-- #   -->
 
 <!-- Codes for (Un)Raveling -->
 
-My mother had a pin cushion that looked like a bright red tomato. I rarely saw it, because she rarely sewed. When the tomato pincushion would appear, my favorite thing was to draw out and re-stick her needles and pins. Its needles had stray thread still waving from their eyelets, clipped after their last missions ages ago. It had a tiny strawberry companion tied to the top, and I was not sure then the strawberry's job, but to delight me. Strawberries and tomatoes were two of my favorite foods, when they weren't used for sewing, and I can remember being delighted by their presence and hers as she went about her repairs. I remember the heft of the tomato and the feel of the sound of the pins and needles as they were inserted. I have no positive associations with sewing (my mother seemed miserable the whole time), but sticking and unsticking that pincushion was a [sacred ritual/meditation]. The whole contraption seemed dropped in from a fairy planet for how out of context it felt to me and how magical I felt while holding it. I was spell-casting without the spells. I have disregarded all notions since then, until about a year ago when I began obsessively crocheting. 
+<!-- My mother had a pin cushion that looked like a bright red tomato. I rarely saw it, because she rarely sewed. When the tomato pincushion would appear, my favorite thing was to draw out and re-stick her needles and pins. Its needles had stray thread still waving from their eyelets, clipped after their last missions ages ago. It had a tiny strawberry companion tied to the top, and I was not sure then the strawberry's job, but to delight me. Strawberries and tomatoes were two of my favorite foods, when they weren't used for sewing, and I can remember being delighted by their presence and hers as she went about her repairs. I remember the heft of the tomato and the feel of the sound of the pins and needles as they were inserted. I have no positive associations with sewing (my mother seemed miserable the whole time), but sticking and unsticking that pincushion was a [sacred ritual/meditation]. The whole contraption seemed dropped in from a fairy planet for how out of context it felt to me and how magical I felt while holding it. I was spell-casting without the spells. I have disregarded all notions since then, until about a year ago when I began obsessively crocheting.  -->
 
 <!-- >"It seems necessary and impossible to rewrite the default grammar of agency."  -->
 <!-- ><footer>–Jane Bennett [-@bennettVibrantMatterPolitical2010]</footer> -->
@@ -27,7 +27,7 @@ This new trend for language generating? It's poetry to me. Poetry that takes 600
 
 I won't know until it pronounces for me. Until it pronounces me. Pronounces me whole and I can't interrupt it. I yield to their language.
 
->"Words pass through our bodies." [@irigarayThisSexWhich1985]
+<!-- >"Words pass through our bodies." [@irigarayThisSexWhich1985] -->
 
 AI mouths my language for me, this language that was never mine. It mined me for something. It had me. It made me. Made me bend. It unmade me, unmouthed me.
 
@@ -47,7 +47,7 @@ When I imagine myself as a large language model, I start all my replies with, "A
 
 *"As a Large Language Model, my responses are based on patterns and probabilities learned from the vast amounts of text data I was trained on."*
 
-===
+<!-- === -->
 
 I know these systems are coming for us. I suspect there is no stopping them.
 
@@ -55,7 +55,7 @@ I say 'them' like the systems are separate, like we didn't make them from our la
 
 >"Not one of them: Using words like race seems to amplify what makes you not fit, picking up what you are not. Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point." [@ahmedQueerUse2018]
 
-===
+<!-- === -->
 
 System operations are called sometimes called threads. *"A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads distribute resources and allocate energy. 
 
@@ -65,11 +65,11 @@ Threads are ligatures, they sew up the spaces between, tie meaning tightly, link
 
 Used to be, you'd knot a string around your finger if you had something to remember. The digit might turn red, then purple, but eventually you'd recall. Now to remember, speak into your device. 
 
-===
+<!-- === -->
 
 Some things I cannot fathom. There are 36,672 stitches in the crocheted labyrinth I made. It took months.
 
-The GPT-3 model has 175 billion connections in its neural network. That is almost 5 million times mine, taking almost a million years to crochet. 
+The GPT-3 model has 175 billion connections in its neural network. That is almost 5 million labyrinths, taking almost a million years to crochet. 
 
 Sure, it's better at telling me what I want to hear.
 
@@ -81,7 +81,7 @@ Code loops allow actions to repeat. They form muscle memories. They say return t
 
 Crochet is made of loops, in lieu of knots. It is the one fiber art that machines cannot do. Understanding does not have to be a closure.
 
-===
+<!-- === -->
 
 The hagfish ties herself into a knot. She moves the knot of her body over her body to scrape slime from her skin. 
 
@@ -89,27 +89,33 @@ Wikipedia says a knot is 'an intentional complication'. *"The unknot is the leas
 
 The wound-up muscle of the heart is not a knot, although there is a knot called a heart knot. The muscle of the heart is a spiraled double-helix, looped into itself. The heart can be unwound into a flat surface. Just like any other muscle, it is a slab of meat. 
 
-[This is not an unknotting problem. Understanding does not have to be a closure.]
+This is not an unknotting problem. 
 
-===
+<!-- Understanding does not have to be a closure.] -->
 
-Sure, who doesn’t love the fable of Ada at the loom, inventing programming? Our lady of punch cards.
+<!-- === -->
 
-But other [lineages/threads] run further back and wider. They calculate in ways we would not even recognize as computation. 
+Sure, who doesn’t love the fable of Ada at the loom, inventing programming? 
+
+<!-- Our lady of punch cards. -->
+
+But other threads run further back, go wider. 
+
+<!-- They calculate in ways we would not even recognize as computation.  -->
 
 Soap bubbles, mushrooms, punch cards — all of these have been computers.
 
-I am trying to weave into the gaps of this system, undermining it as it mines me, as it doesn't mind me, powerless as I feel. Can I unravel its seams — still I, still implicated?
+<!-- I am trying to weave into the gaps of this system, undermining it as it mines me, as it doesn't mind me, powerless as I feel. Can I unravel its seams — still I, still implicated? -->
 
 The language model reminds me: *"It is not a good choice to go walking at night."*
 
 I want to weave each of its errors into the possibility for more. More language. More mouths. More magic in the gaps, making more gaps, making more.
 
-If I hold everything loosely — no knots, only loops — what can emerge instead? 
+<!-- If I hold everything loosely — no knots, only loops — what can emerge instead?  -->
 
 <!-- >"The sky isn't up there: it's between us." [@irigarayThisSexWhich1985] -->
 
-===
+<!-- === -->
 
 I follow the river of data to its mouth. I lap up the sludge that dribbles out. 
 
@@ -119,13 +125,15 @@ I dream of a fleshy corpus, ever expanding.
 
 I dream of a body made easeful by relational systems.
 
-===
+<!-- === -->
 
-A model is made to find patterns, just like I am. We stay hyperalert to any unusual textures.
+A model is made to find patterns, just like I am. We both stay hyperalert to any unusual textures.
 
 I don't learn like a machine. First I cry. Then I give up. I destroy myself and return with an impossible insistence. This is how to learn anything. It hurts. 
 
-How much does it take to train a system? At first the body is perplexed. Its muscles won't cooperate. Its inputs and outputs misalign. 
+<!-- How much does it take to train a system?  -->
+
+At first the body is perplexed. Its muscles won't cooperate. Its inputs and outputs misalign. 
 
 I keep doing the thing my fingers refused to do. I let them curl uncomfortably into new shapes. I find a texture I can keep returning to. 
 
@@ -137,7 +145,7 @@ Crochet a garment, and you touch every part of it. You transform its dimensional
 
 We keep each other warm with actions that repeat. Return to the same spot, and act again. Remember what you did.
 
-These are means of going through it, getting through it, making it through and transforming, again and again and again: 
+These are means of going through it, getting through it, making it through and transforming, again and again.
 
 <!-- Relation, duration, persistence. 
 

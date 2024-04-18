@@ -9,7 +9,7 @@ tags: [transformative, systems, theory, practice, hybrid]
 ---
 
 <!-- move Craft Section first as Crafting? then Queer, then transformative, then end on Systems? -->
-# Why to Craft Queer Trans\*formative Systems
+<!-- # Why to Craft Queer Trans\*formative Systems -->
 
 # What Are Queer Trans\*formative Systems? Why & How To Craft Them?
 
@@ -61,6 +61,19 @@ Tbakhi speaks of craft that responds to (and enacts) institutional measuring, mo
 But craft need not stay polite or straighten its rough edges. "Anticolonial writers in the U.S. and across the globe have long modeled alternative crafts which reject these priorities, and continue to do so in this present moment. Yet Craft still haunts our writing" [@tbakhiNotesCraftWriting2023] Despite this haunting, other engagements with craft — craft as community, craft as lineage, craft as experimentation, craft as resistance — can also help us to reject the institutional and infrastructural claims to our voices. 
 
 Reclaiming craft does not mean shrinking so small that we cannot be effective, nor so precious about aesthetics or rhetoric that we lose the cause. It does not mean a return to luddite nostalgia: Everything was *not* simpler in the past, except for the few people who held more power over others (much like now). Reclaiming craft from its feminized, domesticized, racialized pejoratives and applying craft as a lens for technology practices means embracing its scrappy imperfections and revolutionary potentials. 
+
+
+[xxx][inserted from intro]
+
+Craft is not aesthetics, or a discussion about "is it art" or "can computers do what humans do, or should they?"
+
+
+>"Questions like 'is a computer creative' or 'is a computer an artist' or the like should not be considered serious questions, period. In the light of the problems we are facing at the end of the 20th century, those are irrelevant questions. Computers can and should be used in art in order to draw attention to new circumstances and connections and to forget 'art'." [@nakeThereShouldBe1971]
+
+Questions about art and creativity in relation to AI are bigger than beauty; they are fundamentally questions trying to define humanity: *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They emerge from centuries of colonizer thinking that frames 'man' as an idealized, individualized white subject. These questions must be answered instead with creative–critical–caring approaches that open up space beyond these constraints. Combined with critical tools, artistic experimentation and creative play are powerful methods for intersectional worldbuilding that can challenge deep-seated paradigms in machine learning, data science, and technology communities — and can formulate new ones with diverse perspectives. 
+
+[XXX]
+
 
 ### What craft allows
 
@@ -173,7 +186,21 @@ Practice and theory are tangibly intertwined in craft. While craft is not the on
 
 Craft shows — through maker processes — how doing becomes being and being becomes doing. It may seem too simple but it is important: As actions of making yield creations, craft reemphasizes the making alongside objects made. It shows how theories of objects (be they media, tech, or craft objects) emerge from and are embedded in the actions that produce them. Attending to craft as process — and to technology as its processes, its people, its protocols — expands beyond the crafting of objects to include communities of practice and sociotechnical systems: "as in crafting an identity, or crafting a community" [@fountainSurvivalKnittestCraft2021].
 
-<!-- Cinematic arts professor and critic Holly Willis [-@willisFastForwardFuture2016] argues "arts-based research is rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change."  -->
+[xxx][inserted from intro]
+
+Queerness and art have been two key radical practices for me. Art has been the space where I am able to unpack complex ideas for myself, because I can treat them more freely as artistic materials. It is where I am able to follow instinct and feel into how my tools, platforms, and forms shape their outputs and outcomes. It is also the space where I feel able to imagine wildly, creating digital objects that should exist but don't, or couldn't exist but might. 
+
+Artistic research opens space beyond research questions, where research tensions live. In that space, I can sit a bit longer with questions I know I cannot answer, questions that make me uneasy. I can hold two contradictory ideas simultaneously and let them push–pull me, forgiving myself imperatives and outcomes, productivity and proven hypotheses. I can put myself into the trouble, because I already embody these questions in my lived experience. 
+
+This imaginative work is central to supporting very practical next steps and strategies. It is central to supporting more access to communities of practice where others can continue the kinds of artistic experimentation that challenge paradigms and creates new forms I might never imagine otherwise. 
+
+>"artists saw value in reaching shared normative practices through engagement between artists and audiences, suggesting a model for participation and collaboration often missing in other forms of digital research and development.(Stark & Crawford 2019, 45 [@starkWorkArtAge2019] 
+
+>"in failing to fully belong, and allowing that nonbelonging to denaturalize, emergently, its givens, research-creation tells other stories, uncanny stories, that (have the potential to) carry within them [...] other ethics" [@lovelessHowMakeArt2019].
+
+Cinematic arts professor and critic Holly Willis [-@willisFastForwardFuture2016] argues "arts-based research is rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change." 
+
+[xxx][inserted from intro]
 
 Craft is also means of thought. Textile designer Nithikul Nimkulrat describes craft, "not only as a way of making things by hand, but also as a way of thinking through the hand manipulating a material." She suggests that in craft, thinking is a sensory act, inextricable from doing. "Knowledge of a creative practice thus lies in and can be acquired from within the practice itself. In other words, thinking and knowing are inseparable from making in any craft or designerly practices." This makes it imbued with responsibility to ourselves and each other.
 
@@ -257,7 +284,7 @@ This is a queer embrace of [a combination of] radical difference, radical belong
 This ethos is a necessary component needed for transformative learning and joy and change, which has been missing from too many coding communities and tech communities and activist communities and elsewhere.
 <!-- It is queer as in fuck you, as in queerOS, as in weird and resistant and not explaining, refusal, not critical maker, not creative coding. -->
 
-[XXX] 
+[XXX][queer belonging, radical belonging, radical difference]
 
 ## Trans\*formative
 
@@ -387,7 +414,7 @@ The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII jo
 
 [^Miller]: Thanks to Miller Puckette for expansive discussions about weak-star topologies, splines, the asterisk, and Claude Shannon. 
 
-[^Q]: Just after writing on asterisks, Open AI announced Q\*, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023]. At the same moment, "The Gospel" AI system is used in Isreal to select and increase its bombing targets by orders of magnitude [@daviesGospelHowIsrael2023]. AI technology was originally being developed alongside and as part of WWII and Cold War technologies, now AI is used directly in warfare. The same companies warning of the future dangers of AI make this their marketing strategy: GPT-2 was open-source but 'too big and too dangerous to release' until it appeared as an even bigger GPT-3, then GPT-4 was closed and pay-to-play. Worse yet, those so-called dangers distract from the very-real, immediate dangers they impose, like The Gospel, face recognition in policing, and more subtle forms. 
+[^Q]: Just after writing on asterisks, Open AI announced Q\*, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023]. At the same moment, "The Gospel" AI system is used in Israel to select and increase its bombing targets by orders of magnitude [@daviesGospelHowIsrael2023], and new stories continue to reveal details of the depth of AI usage there and involvement from the big tech firms [@iraqiLavenderAIMachine2024]. AI technology was originally being developed alongside and as part of WWII and Cold War technologies, now AI is used directly in warfare. The same companies warning of the future dangers of AI make this their marketing strategy: GPT-2 was open-source but 'too big and too dangerous to release' until it appeared as an even bigger GPT-3, then GPT-4 was closed and pay-to-play. Worse yet, those so-called dangers distract from the very-real, immediate dangers they impose, like The Gospel, face recognition in policing, and more subtle forms. 
 
 <!-- The snake eats itself, the war tech that was being developed at the same time as the beginning of AI, now AI being used for war. -->
 
@@ -504,7 +531,7 @@ The problem of pseudorandomness, computation's inability to produce truly random
 <!-- systems means software, human systems, systems thinking -->
 
 <!-- ### Techno-? -->
-### [XXX][What about/How did we get the systems we have?]
+### [does techno go here?][What about/How did we get the systems we have?]
 ### How do we transform these into other kinds of systems we want?
 
 Craft and radical belonging
@@ -513,6 +540,9 @@ A systems perspective an intersectional perspective
 
 Technological systems, algorithmic systems, human systems, global systems. 
 
+[Nearbyness — get near instead of at/claim the thing....]
+
+<!-- The parts combine to enact the [ethics and tactics] described throughout this introduction.  -->
 
 
 # References

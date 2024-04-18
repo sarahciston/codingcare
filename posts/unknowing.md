@@ -188,7 +188,7 @@ Large machine learning models are said to hallucinate when they recombine input 
 
 >"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024]
 
-Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. 
+Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. [Call it fabrication instead. What changes.]
 
 Techno-capitalists want to see suffering as opportunity. Maybe that's what my father thinks too. IBM advertises, "hallucination offers a novel approach to artistic creation" [@WhatAreAI]. Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). He says, 
 
