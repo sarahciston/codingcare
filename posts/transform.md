@@ -286,6 +286,8 @@ This ethos is a necessary component needed for transformative learning and joy a
 
 [XXX][queer belonging, radical belonging, radical difference]
 
+[XXX][queer trans decolonial always-already trans before trans]
+
 ## Trans\*formative
 
 This work is about trans\*formation, which happens through trans\*gression,[^hooksTransgress], trans\*disciplinarity,[^transdis] [trans\*lation](#tech), and [trans\*duction](#transduce). It lays the groundwork to imagine trans\*formers otherwise, to imagine existing and emergent technological systems at a slant — to let us read them on the bias in addition to reading them as always-already biased. 
@@ -312,7 +314,7 @@ Trans\*formative is an active, abolitionist, prefigurative[^prefigurative] stanc
 
 ### Transformers
 
-Transformers are a current type of machine learning architecture being employed to create large models like ChatGPT and Stable Diffusion.[^techterms] They are good at digesting large clumps of text, images, video — all interpreted as numbers — and reconstituting them. Transformers main parts are called encoders and decoders, and it's often said that even their designers don't know what exactly is going on in these hidden layers. We can discuss the specifics of that '[unknowing](https://coding.care/unknowing)' elsewhere. I find it more interesting that the *transformers themselves* do not know what is going on in these hidden layers of the own architecture — despite all the anthropomorphizing of AI systems, with widespread use of terms like "learning" and "understanding." While they process and produce meaning (input and output), transformers are never "aware" of the meaning of the content they are processing along the way. They are just crunching numbers.
+Transformers are a current type of machine learning architecture being employed to create large models like ChatGPT and Stable Diffusion.[^techterms] They are good at digesting large clumps of text, images, video — all interpreted as numbers — and reconstituting them. Transformers main parts are called encoders and decoders, and it's often said that even their designers don't know what exactly is going on in these hidden layers. I delve into the specifics of that '[unknowing](https://coding.care/unknowing.html)' elsewhere. I find it more interesting that the *transformers themselves* do not know what is going on in these hidden layers of the own architecture — despite all the anthropomorphizing of AI systems, with widespread use of terms like "learning" and "understanding." While they process and produce meaning (input and output), transformers are never "aware" of the meaning of the content they are processing along the way. They are just crunching numbers.
 
 Transformers are the latest, but won't be the last, in a long string of systems that ask data subjects and data subjectees[^techterms] to submit to their "superior" logics. With every iteration on their forms, we repeat their hype but lose trace of their histories in "race science" and colonizing power that captures what it means to know and be known [@browneDarkMattersSurveillance2015; @benjaminRaceTechnologyAbolitionist2019; @joqueRevolutionaryMathematicsArtificial2022].
 
@@ -332,8 +334,8 @@ Trans\*-ness[^transnote] can be fluid, in motion, evolving, and emergent. It can
 
 This approach to trans\*formative technological practices has no prerequisites. It does not require glowups or dead names, no traumatic 'before' in order to desire or access better 'afters'. We are already queer-enough, coder-enough, worthwhile-enough to participate in continually becoming ourselves. We are ["always-already programming"](https://sarahciston.github.io/codingcare/guide.html#take-comfort-in-this-programmers-paradox) [@AlwaysalreadyprogrammingMda]. By adopting this 'queer enough' approach from the LGBTQIA+ community as an ethos for critical–creative coding spaces and for a context in which to examine sociotechnical systems, I have found that it is possible to welcome a wider range of voices into conversations about the high stakes of tech. It creates more comfortable, adaptable tech-focused communities for LGBTQIA+ members and for everyone else who joins. Technology spaces have much to learn from queer community building, just as they do from Black and brown communities, yet I am also mindful that their community building often comes out of necessity for protection and safety, that it is always a tension between welcoming and insulating. 
 
-[XXX][insert discussion of radical difference and radical belonging]
-[xxx][edit trans section to queer-trans]
+[XXX][discussion of radical difference and radical belonging]
+[xxx][keep queer and trans sections separate?]
 
 >"queerness is itself inherent within [the history of] computational logic, [...yet] there exists a structuring logic to computational systems that, while nearly totalizing, does not account for all forms of knowledge, and which excludes certain acts, behaviors, and modes of being." [@gabouryQueerHistoryComputing2013d]
 
@@ -388,7 +390,7 @@ It's a subtle, vulnerable, powerful thing, just to recognize oneself more fully 
 
   <p id="transduce" markdown="1">Trans\* is endlessly supple and takes on many suffixes. It finds queer reverberations in the trans\*ducers all around us that constitute and reinforce computational systems. A transducer (from Latin for 'lead across') converts physical signals into electrical signals, or vice versa. Transducers are intermediaries that allow the trans\*fer between analogue to digital. Every time information gets trans\*mitted from an environmental sensor to a digital device — sound waves into audio files, optical variation into heart rate — trans\*duction has occurred, and thus some kind of transformation. Transduction shifts information's register or level, reimagining its forms. Transduction is always intervention, informed by the device designers' decisions as well as both contemporary and historical approaches to computational knowing. Note how many times the language of trans\*-ness appears in sites of technological knowing. The material conversions required to power the logics of computation (such as converting qualities into voltages into quantities) all pass through gates of trans\* thinking.</p>
 
-</div>
+<!-- </div> -->
 
 <!-- Transience, Translucence -->
 
