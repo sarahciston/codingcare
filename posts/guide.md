@@ -1351,16 +1351,25 @@ We agree to learn and grow and do our best at the following. This is not to be u
 
 <!-- ## Let others help you grow  -->
 
-Pssst... Want more? Check out the miscellaney in Appendices, addenda, etc, where I've shoved all the things that wouldn't fit in this "pocket" guide — including some of the books I relied on most while writing, essentials like our community agreement, plus some of the bits and pieces that got us started from lesson plans to the first proposal for Code Collective. For lots more tutorials, readings, and inspiration, you can also head over to the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub) which continues to grow as you add what you've found helpful. And for astounding work by Code Collective members, we made a [Project Showcase](https://creativecodecollective.com/showcase), because we hope it sparks some inspiration for you too. Also check out the many, many other books and guides that continue to inspire work like this.
+Pssst... Want more? Code Collective keeps growing, with new chapters and forms emerging. This brings me so much joy! I look forward to keeping you updated on how it evolves. 
+
+Meanwhile, check out the miscellaney in the online appendices, addenda, etc, where I've shoved all the things that wouldn't fit in this "pocket" guide — including some of the books I relied on most while writing, essentials like our community agreement, plus some of the bits and pieces that got us started from lesson plans to the first proposal for Code Collective. 
+
+For lots more tutorials, readings, and inspiration, you can also head over to the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub) which continues to grow — because you can go there to add whatever resources you've found helpful as you build your own practice. 
+
+And for astounding work by Code Collective members, we made a [Project Showcase](https://creativecodecollective.com/showcase), because we hope it sparks some inspiration for you too. 
 
 ### More great guides
+
+Check out just some of the many, many books and guides that have inspired this work and continue to inspire:
 
 * [Critical Code Cookbook]((https://criticalcode.recipes/)) [@shihCriticalCodingCookbook2022]: Coming from a wide range of contributors, these exercises are generative and generous explorations of the creative and critical potentials of coding, outside of normal bounds.
 * [Aesthetic Programming](https://aesthetic-programming.net/) [@coxAestheticProgrammingHandbook2020]: As we wrote when Mark Marino and I forked this open-source text, "The book approaches programming artistically/aesthetically but also with criticality, not only what learners might make with code (besides the rote examples found in CS textbooks) but why it matters and how their choices are informed by the tools they use." [@cistonHowForkBook2021]
 * [TEX: Teaching with Text Generation Technologies](https://wac.colostate.edu/repository/collections/textgened/front-matter/table-of-contents/) [@veeTextGenEdTeachingText2023]: You don't have to be a teacher to appreciate the many fun activities that challenge us to engage differently with the emergence of text-generating tools. 
 * [Critical Code Studies](https://criticalcodestudies.com/ccsbook.html) [@marinoCriticalCodeStudies2020a]: Change the way you think about programming: A holistic approach to considering the connotations and implications of code and its influence on culture.
 * [Critically Conscious Computing](https://criticallyconsciouscomputing.org/) [@koCriticallyConsciousComputing2023]
-* [Holding Change: The Way of Emergent Strategy Facilitation and Mediation](https://www.akpress.org/holding-change.html) [@brownHoldingChange2021]: The 
+* [Exploratory Programming for the Arts and Humanities](https://nickm.com/ep2e/) [@montfortExploratoryProgrammingArts2021]: This approachable guide by Nick Montfort is written for people who want to get started in Python. It assumes no knowledge or prerequisites, and the 2nd edition has a new chapter on machine learning.  
+* [Holding Change: The Way of Emergent Strategy Facilitation and Mediation](https://www.akpress.org/holding-change.html) [@brownHoldingChange2021]: The essential guide for anyone who wants to create and sustain supportive groups and practices, by adrienne maree brown. All of their writing has made a huge impact on my practice.
 * [Research Is Ceremony](https://fernwoodpublishing.ca/book/research-is-ceremony-shawn-wilson) [@wilsonResearchCeremonyIndigenous2008]: A beautifully written guide on reconsidering research and making practices as a member of communities who will be impacted by your work.
 <!-- * [Code as Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/) [@levinCodeCreativeMedium] -->
 <!-- * [Critical Makers Reader](https://networkcultures.org/blog/publication/the-critical-makers-reader-unlearning-technology/) [@bogersCriticalMakersReader2019]: -->
