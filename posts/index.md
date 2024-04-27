@@ -19,8 +19,8 @@ nav_order: 0
   <div id="toolkit" class="bubble" draggable=true markdown=1>SYSTEMS <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a></div>
   <div id="unknowing" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Knowing](unknowing.html)</div>
   <div id="notes" class="bubble" draggable=true markdown=1>[Progress Notes](notes.html)</div>
-  <div id="acknow" class="bubble" draggable=true markdown=1>ACKNOWLEDGMENTS</div>
-  <div id="append" class="bubble" draggable=true markdown=1>APPENDICES</div>
+  <div id="acknow" class="bubble" draggable=true markdown=1>[Acknowledgments](acknow.html)</div>
+  <div id="append" class="bubble" draggable=true markdown=1>[Appendices](appendices.html)</div>
   <!-- [Appendices](appendices.html) -->
   <!-- [Acknowledgments](acknow.html) -->
 </div>

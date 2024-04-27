@@ -57,49 +57,7 @@ Thank you to the individuals and organizations who developed these principles an
 
 <!-- * Zilboorg, A. (2015). *Knitting for anarchists: The what, why and how of knitting.* Dover Publications, Inc. -->
 
-Find many more in the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub)
-
-<hr/>
-
-## CODE COLLECTIVE SUMMER LAB SYLLABUS
-
-Syllabus & Course Schedule TBD
-
-<hr/>
-
-## CODE COLLECTIVE WORKSHOPS & TALKS
-
-##### past
-
-* Help Me Code IAI zine making workshop, [Sarah Ciston](https://sarahciston.com)
-* Feminist.AI, [Christine Meinders](https://feminist.ai)
-* Movement-based interaction design, ([Fidelia Lam](https://fidelialam.com/))
-* Machine Learning Tactics for Artists, ([Catherine Griffiths](https://isohale.com/))
-* Getting Started with ML5.js, [Sarah Ciston](https://sarahciston.com)
-* 8-bit Game Design, ([Todd Furmanski](https://www.toddfurmanski.com/))
-* Coding for Live Performance, ([Ben Nicholson](https://www.brnart.com/))
-* Multisensory Touch Electronics, [Emily Van Bellingham](http://www.emvanb.com/)
-* Coem: An esolang for poetics, [Katherine Yang](https://kayserifserif.place)
-
-##### planned or dreamed
-
-* Ethics of NFTs for Artists: If Such a Thing Is Possible
-* Bias in NLP Language & Ethical AI
-* Group coding: we each take some time to attempt a solution to a simple but not trivial given problem, then come back and talk about our approaches
-* Co-write community values & docs
-* Anti-hackathon
-* Remix videos on the command line
-* Music visualization with Pure Data
-* Audio signal processing
-* P5js and P5 Live
-* Data moshing
-* DIY Portfolio Examples and How to Code Them
-* Shaders for scaredy cats
-* Internships and jobs for multi-/inter-disciplinary work like ours
-* Webscraping with Python
-* Merging theory and content with code and practice. Choosing tools that are ethically and conceptually grounded. 
-
-<hr/>
+Find many more ideas in the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub)
 
 ## First sign-up form
 
@@ -190,6 +148,78 @@ Resources for outside funding from university or industry?
 
 <hr/>
 
+## CODE COLLECTIVE WORKSHOPS & TALKS
+
+##### past
+
+* Help Me Code IAI zine making workshop, [Sarah Ciston](https://sarahciston.com)
+* Feminist.AI, [Christine Meinders](https://feminist.ai)
+* Movement-based interaction design, ([Fidelia Lam](https://fidelialam.com/))
+* Machine Learning Tactics for Artists, ([Catherine Griffiths](https://isohale.com/))
+* Getting Started with ML5.js, [Sarah Ciston](https://sarahciston.com)
+* 8-bit Game Design, ([Todd Furmanski](https://www.toddfurmanski.com/))
+* Coding for Live Performance, ([Ben Nicholson](https://www.brnart.com/))
+* Multisensory Touch Electronics, [Emily Van Bellingham](http://www.emvanb.com/)
+* Coem: An esolang for poetics, [Katherine Yang](https://kayserifserif.place)
+
+##### planned or dreamed
+
+* Ethics of NFTs for Artists: If Such a Thing Is Possible
+* Bias in NLP Language & Ethical AI
+* Group coding: we each take some time to attempt a solution to a simple but not trivial given problem, then come back and talk about our approaches
+* Co-write community values & docs
+* Anti-hackathon
+* Remix videos on the command line
+* Music visualization with Pure Data
+* Audio signal processing
+* P5js and P5 Live
+* Data moshing
+* DIY Portfolio Examples and How to Code Them
+* Shaders for scaredy cats
+* Internships and jobs for multi-/inter-disciplinary work like ours
+* Webscraping with Python
+* Merging theory and content with code and practice. Choosing tools that are ethically and conceptually grounded. 
+
+<hr/>
+
+## CODE COLLECTIVE SUMMER LAB SYLLABUS
+
+9-11a PDT, 4 weeks 2x week, [Sarah Ciston](https://sarahciston.com)
+      
+*Frustrated with coding but want to use it in your projects? Always wondered about programming but felt intimidated to try? Overwhelmed with too many choices and confusing jargon? Just don't know where to start?*
+    
+The Code Collective Summer Lab is an opportunity to join fellow students in a fun and friendly space to dabble in code, ask dumb questions, troubleshoot your dream project, and just explore.
+        
+This summer intensive builds on USC's Creative Code Collective, a year-round student group supporting critical and artistic coding. We build programming skills in an engaging, non-intimidating environment—emphasizing co-learning and co-teaching, celebrating experimentation and process. We believe in growth not perfection, scrappy artistic strategies not perfect code, collaboration not competition. All levels and languages welcome!
+        
+During the Summer Lab, we'll explore the relationships among machine learning, datasets, and human language. We will learn strategies for gathering, utilizing, and tending to data (both big and personal) with care and curatorial consideration. We will consider the aesthetics, ethics, and poetics of datasets through the lenses of intersectional identities and text-based machine learning.
+
+We'll tinker with conversational agents like Alexa and text generators like GPT. Through artistic-critical interventions and workshops, we will focus on how these technologies get embedded in the very words we use; and we'll reflect carefully on what assumptions these tools make in their materials, their language, and their users.
+
+### Preparation
+
+**No particular experience is required!** Any kind of field or background is helpful to get started; we'll meet you where you are. You don’t have to install or buy anything in advance either; we’ll handle that together. 
+
+So that we can focus during our time together, it will help if you have in mind a project or a skill you want to work on. We're going to focus on text-based tools, so here's what you can prep in advance:
+
+Have a dataset (text) in mind you’re interested to work with—this could be your own journal, something from the USC Libraries Digital Collection, or anything goes. For example, your corpus could be the entire series of the show Community, like [\@kayserifserif](https://github.com/kayserifserif/community-references), or these [sarcastic and serious news headlines](https://huggingface.co/datasets/raquiba/Sarcasm_News_Headline), or the archived pages from the early internet sites like [Friendster and Geosities](https://archive.org/details/webarchivedatasets).
+
+Don't worry, no matter your existing level of comfort with code, even if it's none, we will meet you where you are. Just start from asking, What do you want to make, and why? 
+
+### Goals
+
+* You'll understand  how artists, engineers, makers, and academics can embrace coding with a critical eye toward ethics and a creative glint that can help imagine more equitable futures.
+* You will gain comfort exploring data and coding, building on any existing skills with new perspectives both technical and critical. You will also emerge with a zine about what we've learned. 
+* You'll develop your portfolio of individual and collaborative code projects, plus the opportunity to continue in the fall with the Code Collective community. 
+
+### Format
+
+This course is a workshop in exploratory programming, run as an open-format collaboratory. Its self-directed learning model requires motivated student engagement and rewards artistic risk-taking. As lab leader I provide technical and theoretical resources to facilitate your projects, and as a group we agree to cultivate a supportive environment for creating. Together we bring our individual skill sets and abilities; our interest to learn from each other and together; and our open minds, mutual respect, and sense of possibility. Practically, this means you come each day ready to discuss the topic and to support each other's co-learning, ideating, and troubleshooting; and you'll have time to develop your code-based projects with support from the collaboratory. Because of the lab nature of this course, we will decide as a group how to work through the readings and where to take them next, thus this schedule and reading list are subject to change depending on your projects and interests. 
+
+Weekly sessions will be divided into "Studio" days, during which we code together and troubleshoot our work, and "Salon" days, during which we discuss something we've read and reflect on the practices we're undertaking. Each will have a text or tutorial attached that pertains to the broader theme. Still the work will be self-directed toward each student's particular project, explorations, and goals. Through collaboration, co-learning, co-teaching, We discover how much we already know and how much we can build on that together.
+
+<hr/>
+
 ## FIRST LOOK AT JAVASCRIPT 
 
 This was a lesson made for a beginner coding course. You can check out the interactive version [here](https://glitch.com/edit/#!/iml300javascript)
@@ -223,7 +253,10 @@ This was a lesson made for a beginner coding course. You can check out the inter
 
 - **The DOM**
 > "An HTML document is structured according to the Document Object Model, or “DOM”. [...] The DOM consists of every element on the page, laid out in a hierarchical way that reﬂects the way the HTML document is ordered." (Q)
-> ![](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959)
+
+<!-- ![](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959) -->
+
+<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959' width="300px">
 
 - **Elements** use `<tags>` and have parent/child relationships
   - id vs class: (single vs groups)
@@ -297,8 +330,9 @@ This was a lesson made for a beginner coding course. You can check out the inter
   - e.g. Choose `createImage()` (P5) or `document.createElement('IMG')` and then `appendChild` (plainJS) anywhere in the DOM vs choose `image()` to put it inside a canvas element.  
   - Choose `setup()` or `draw()` depending on if you want it to happen once or repeatedly, only works in P5.
 
-![markdown-image](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594)
+<!-- ![markdown-image](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594) -->
 
+<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594' width="300px">
 
 ### Review: Logics of Code** 
 
@@ -336,9 +370,13 @@ This was a lesson made for a beginner coding course. You can check out the inter
     - functions
   - imported data that can be converted to the above: JSON, CSV, TXT, etc.  
   
-  ![](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385)
+  <!-- ![](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385) -->
+  
+<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385' width="300px">
 
-4. Additional Considerations & Weirdnesses
+
+
+1. Additional Considerations & Weirdnesses
   - Helps to write pseudocode to start
   - Comments are a great debug strategy (Note where your `console.log()` comments appear in glitch, frontend vs backend concepts)
   - Include error handling.

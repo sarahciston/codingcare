@@ -8,7 +8,7 @@
   <style type="text/css">code{white-space: pre;}</style>
   <style type="text/css">
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -45,7 +45,7 @@ code span.al { color: #ff0000; font-weight: bold; } /* Alert */
 code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
 code span.at { color: #7d9029; } /* Attribute */
 code span.bn { color: #40a070; } /* BaseN */
-code span.bu { } /* BuiltIn */
+code span.bu { color: #008000; } /* BuiltIn */
 code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
 code span.ch { color: #4070a0; } /* Char */
 code span.cn { color: #880000; } /* Constant */
@@ -58,7 +58,7 @@ code span.er { color: #ff0000; font-weight: bold; } /* Error */
 code span.ex { } /* Extension */
 code span.fl { color: #40a070; } /* Float */
 code span.fu { color: #06287e; } /* Function */
-code span.im { } /* Import */
+code span.im { color: #008000; font-weight: bold; } /* Import */
 code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
 code span.kw { color: #007020; font-weight: bold; } /* Keyword */
 code span.op { color: #666666; } /* Operator */
@@ -71,7 +71,7 @@ code span.va { color: #19177c; } /* Variable */
 code span.vs { color: #4070a0; } /* VerbatimString */
 code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
   </style>
-  <link rel="stylesheet" href="assets/css/tufte.css">
+  <link rel="stylesheet" href="assets/css/tufte-tt.css">
   <link rel="stylesheet" href="assets/css/pandoc.css">
   <link rel="stylesheet" href="assets/css/pandoc-solarized.css">
   <link rel="stylesheet" href="assets/css/tufte-extra.css">
@@ -87,32 +87,45 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </header>
 <nav id="TOC">
 <ul>
-<li><a href="#page.title">{{ page.title }}</a>
+<li><a href="#page.title" id="toc-page.title">{{ page.title }}</a>
 <ul>
-<li><a href="#contents">Contents</a></li>
-<li><a href="#community-values">Community values</a></li>
-<li><a href="#beloved-books-for-coding-caring">beloved books for coding
-&amp; caring</a></li>
-<li><a href="#code-collective-summer-lab">CODE COLLECTIVE SUMMER
-LAB</a></li>
-<li><a href="#code-collective-workshops-talks">CODE COLLECTIVE WORKSHOPS
-&amp; TALKS</a></li>
-<li><a href="#first-sign-up-form">First sign up form</a></li>
-<li><a href="#departmental-proposal">Departmental proposal</a></li>
-<li><a href="#first-look-at-javascript">FIRST LOOK AT JAVASCRIPT</a>
+<li><a href="#contents" id="toc-contents">Contents</a></li>
+<li><a href="#first-sign-up-form" id="toc-first-sign-up-form">First
+sign-up form</a></li>
+<li><a href="#departmental-proposal"
+id="toc-departmental-proposal">Departmental proposal</a></li>
+<li><a href="#code-collective-workshops-talks"
+id="toc-code-collective-workshops-talks">CODE COLLECTIVE WORKSHOPS &amp;
+TALKS</a></li>
+<li><a href="#code-collective-summer-lab-syllabus"
+id="toc-code-collective-summer-lab-syllabus">CODE COLLECTIVE SUMMER LAB
+SYLLABUS</a>
 <ul>
-<li><a href="#not-so-vanilla-just-javascript">Not So Vanilla 🍦 “Just”
+<li><a href="#preparation" id="toc-preparation">Preparation</a></li>
+<li><a href="#goals" id="toc-goals">Goals</a></li>
+<li><a href="#format" id="toc-format">Format</a></li>
+</ul></li>
+<li><a href="#first-look-at-javascript"
+id="toc-first-look-at-javascript">FIRST LOOK AT JAVASCRIPT</a>
+<ul>
+<li><a href="#not-so-vanilla-just-javascript"
+id="toc-not-so-vanilla-just-javascript">Not So Vanilla 🍦 “Just”
 Javascript</a></li>
-<li><a href="#what-is-javascript">What Is Javascript?</a></li>
-<li><a href="#whats-a-javascript-library">What’s a Javascript
-Library</a></li>
-<li><a href="#review-p5.js-dom">Review: P5.js DOM</a></li>
-<li><a href="#essential-javascript-for-web">Essential Javascript for
+<li><a href="#what-is-javascript" id="toc-what-is-javascript">What Is
+Javascript?</a></li>
+<li><a href="#whats-a-javascript-library"
+id="toc-whats-a-javascript-library">What’s a Javascript Library</a></li>
+<li><a href="#review-p5.js-dom" id="toc-review-p5.js-dom">Review: P5.js
+DOM</a></li>
+<li><a href="#essential-javascript-for-web"
+id="toc-essential-javascript-for-web">Essential Javascript for
 Web</a></li>
-<li><a href="#review-logics-of-code">Review: Logics of Code**</a></li>
-<li><a href="#bonus-libraries-frameworks-expansion-oh-my">BONUS:
-Libraries &amp; Frameworks &amp; Expansion Oh My!</a></li>
-<li><a href="#your-project">Your Project</a></li>
+<li><a href="#review-logics-of-code"
+id="toc-review-logics-of-code">Review: Logics of Code**</a></li>
+<li><a href="#bonus-libraries-frameworks-expansion-oh-my"
+id="toc-bonus-libraries-frameworks-expansion-oh-my">BONUS: Libraries
+&amp; Frameworks &amp; Expansion Oh My!</a></li>
+<li><a href="#your-project" id="toc-your-project">Your Project</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -125,151 +138,50 @@ Libraries &amp; Frameworks &amp; Expansion Oh My!</a></li>
 <li>TOC {:toc}</li>
 </ul>
 <hr/>
-</section>
-<section id="community-values" class="level2">
-<h2>Community values</h2>
-<ul>
-<li><p>all theory and practice is theory–practice.<a href="#fn1"
-class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>
-interdisciplinary goes hand-in-hand with intersectionality<a href="#fn2"
-class="footnote-ref" id="fnref2"
-role="doc-noteref"><sup>2</sup></a></p></li>
-<li><p>#blacklivesmatter #translivesmatter #indigenouslivesmatter we
-engage tension; don’t indulge drama<a href="#fn3" class="footnote-ref"
-id="fnref3" role="doc-noteref"><sup>3</sup></a></p></li>
-<li><p>focus on strategies rather than issues, solutions rather than
-problems<a href="#fn4" class="footnote-ref" id="fnref4"
-role="doc-noteref"><sup>4</sup></a></p></li>
-<li><p>listen from the heart, speak from the heart, be spontaneous, be
-brief<a href="#fn5" class="footnote-ref" id="fnref5"
-role="doc-noteref"><sup>5</sup></a></p></li>
-<li><p>assume best intent and attend to impact<a href="#fn6"
-class="footnote-ref" id="fnref6"
-role="doc-noteref"><sup>6</sup></a></p></li>
-<li><p>attempt collaboration before conflict<a href="#fn7"
-class="footnote-ref" id="fnref7"
-role="doc-noteref"><sup>7</sup></a></p></li>
-<li><p>we accept responsibility for our actions and take care to make
-amends when we are wrong<a href="#fn8" class="footnote-ref" id="fnref8"
-role="doc-noteref"><sup>8</sup></a></p></li>
-<li><p>we take the lessons, leave the details (confidentiality)<a
-href="#fn9" class="footnote-ref" id="fnref9"
-role="doc-noteref"><sup>9</sup></a></p></li>
-<li><p>we center care<a href="#fn10" class="footnote-ref" id="fnref10"
-role="doc-noteref"><sup>10</sup></a>—self care and community care<a
-href="#fn11" class="footnote-ref" id="fnref11"
-role="doc-noteref"><sup>11</sup></a></p></li>
-</ul>
-<p>These guidelines are open to inputs and updates as necessary to
-support the needs of this space and community as they evolve.</p>
-<p>Thank you to the individuals and organizations who developed these
-principles and protocols: adrienne maree brown,<a href="#fn12"
-class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a>
-Allied Media Conference,<a href="#fn13" class="footnote-ref"
-id="fnref13" role="doc-noteref"><sup>13</sup></a> Berlin Code of
-Conduct,<a href="#fn14" class="footnote-ref" id="fnref14"
-role="doc-noteref"><sup>14</sup></a> Center for Council,<a href="#fn15"
-class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a>
-P5.js,<a href="#fn16" class="footnote-ref" id="fnref16"
-role="doc-noteref"><sup>16</sup></a> Superrr,<a href="#fn17"
-class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a>
-W3C,<a href="#fn18" class="footnote-ref" id="fnref18"
-role="doc-noteref"><sup>18</sup></a> and Creative Code Collective.<a
-href="#fn19" class="footnote-ref" id="fnref19"
-role="doc-noteref"><sup>19</sup></a></p>
-<hr/>
-</section>
-<section id="beloved-books-for-coding-caring" class="level2">
-<h2>beloved books for coding &amp; caring</h2>
-<ul>
-<li>brown, adrienne marie. 2021. <em>Holding Change: The Way of Emergent
-Strategy Facilitation and Mediation.</em> AK Press.</li>
-<li>Cox, Geoff and Soon, Winnie 2020. <em>Aesthetic Programming: A
-Handbook of Software Studies.</em> Open Humanities Press.
-https://aesthetic-programming.net
-<ul>
-<li>As we wrote when Mark Marino and I forked this open-source text,
-“The book approaches programming artistically/aesthetically but also
-with criticality, not only what learners might make with code (besides
-the rote examples found in CS textbooks) but why it matters and how
-their choices are informed by the tools they use.” <span
-class="citation" data-cites="cistonHowForkBook2021">(Ciston and Marino
-2021)</span></li>
-</ul></li>
-<li>hooks, bell. (1994). <em>Teaching to transgress: Education as the
-practice of freedom.</em> Routledge.</li>
-<li>Marino, Mark C. 2020. <em>Critical code studies.</em> MIT
-Press.</li>
-<li>Shaw, Martin. <em>Courting the Wild Twin</em></li>
-<li>Shih, Xin Xin, &amp; Moriwaki, Katherine (Eds.). 2022. <em>Critical
-Coding Cookbook.</em> https://criticalcode.recipes/about</li>
-<li>Wilson, Shawn. 2008. <em>Research Is Ceremony: Indigenous Research
-Methods.</em> Fernwood Publishing.</li>
-</ul>
+<!-- ## Community values
+
+* all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality[^ccc]
+*  #blacklivesmatter #translivesmatter #indigenouslivesmatter we engage tension; don't indulge drama[^amb] 
+* focus on strategies rather than issues, solutions rather than problems[^AMC]
+* listen from the heart, speak from the heart, be spontaneous, be brief[^Council]
+* assume best intent and attend to impact[^amb]
+* attempt collaboration before conflict[^superrr]
+* we accept responsibility for our actions and take care to make amends when we are wrong[^p5] 
+* we take the lessons, leave the details (confidentiality)[^amb]
+* we center care[^AMC]—self care and community care[^amb] 
+
+
+These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve.
+
+Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,[^amb] Allied Media Conference,[^AMC] Berlin Code of Conduct,[^BerlinCoC] Center for Council,[^Council] P5.js,[^p5] Superrr,[^superrr] W3C,[^W3C] and Creative Code Collective.[^ccc]
+
+[^amb]: brown, a.m. (2017). Emergent Strategies. AK Press.; --- (2021). Holding Change. AK Press. Visit [adrienne maree brown](http://adriennemareebrown.net/)
+[^AMC]: [Allied Media Conference](https://amc.alliedmedia.org/about/purpose-and-values)
+[^BerlinCoC]: [Berlin Code of Conduct](https://berlincodeofconduct.org/)
+[^Council]: [Center for Council](https://www.centerforcouncil.org/)
+[^ccc]: [Creative Code Collective](https://creativecodecollective.com)
+[^p5]: [p5js](https://p5js.org/community/)
+[^W3C]:
+[^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
+
+<hr/> -->
+<!-- ## beloved books for coding & caring
+
+* brown, adrienne marie. 2021. *Holding Change: The Way of Emergent Strategy Facilitation and Mediation.* AK Press.
+* Cox, Geoff and Soon, Winnie 2020. *Aesthetic Programming: A Handbook of Software Studies.* Open Humanities Press. https://aesthetic-programming.net
+  * As we wrote when Mark Marino and I forked this open-source text, "The book approaches programming artistically/aesthetically but also with criticality, not only what learners might make with code (besides the rote examples found in CS textbooks) but why it matters and how their choices are informed by the tools they use." [@cistonHowForkBook2021]
+* hooks,  bell. (1994). *Teaching to transgress: Education as the practice of freedom.* Routledge.
+* Marino, Mark C. 2020. *Critical code studies.* MIT Press.
+* Shaw, Martin. *Courting the Wild Twin*
+* Shih, Xin Xin, & Moriwaki, Katherine (Eds.). 2022. *Critical Coding Cookbook.* https://criticalcode.recipes/about 
+* Wilson, Shawn. 2008. *Research Is Ceremony: Indigenous Research Methods.* Fernwood Publishing.  -->
 <!-- * Zilboorg, A. (2015). *Knitting for anarchists: The what, why and how of knitting.* Dover Publications, Inc. -->
-<p>Find many more in the <a
+<p>Find many more ideas in the <a
 href="https://creativecodecollective.com/resource-hub">Code Collective
 Resource Hub</a></p>
-<hr/>
-</section>
-<section id="code-collective-summer-lab" class="level2">
-<h2>CODE COLLECTIVE SUMMER LAB</h2>
-<p>Syllabus &amp; Course Schedule TBD</p>
-<hr/>
-</section>
-<section id="code-collective-workshops-talks" class="level2">
-<h2>CODE COLLECTIVE WORKSHOPS &amp; TALKS</h2>
-<section id="past" class="level5">
-<h5>past</h5>
-<ul>
-<li>Help Me Code IAI zine making workshop, <a
-href="https://sarahciston.com">Sarah Ciston</a></li>
-<li>Feminist.AI, <a href="https://feminist.ai">Christine
-Meinders</a></li>
-<li>Movement-based interaction design, (<a
-href="https://fidelialam.com/">Fidelia Lam</a>)</li>
-<li>Machine Learning Tactics for Artists, (<a
-href="https://isohale.com/">Catherine Griffiths</a>)</li>
-<li>Getting Started with ML5.js, <a href="https://sarahciston.com">Sarah
-Ciston</a></li>
-<li>8-bit Game Design, (<a href="https://www.toddfurmanski.com/">Todd
-Furmanski</a>)</li>
-<li>Coding for Live Performance, (<a href="https://www.brnart.com/">Ben
-Nicholson</a>)</li>
-<li>Multisensory Touch Electronics, <a
-href="http://www.emvanb.com/">Emily Van Bellingham</a></li>
-<li>Coem: An esolang for poetics, <a
-href="https://kayserifserif.place">Katherine Yang</a></li>
-</ul>
-</section>
-<section id="planned-or-dreamed" class="level5">
-<h5>planned or dreamed</h5>
-<ul>
-<li>Ethics of NFTs for Artists: If Such a Thing Is Possible</li>
-<li>Bias in NLP Language &amp; Ethical AI</li>
-<li>Group coding: we each take some time to attempt a solution to a
-simple but not trivial given problem, then come back and talk about our
-approaches</li>
-<li>Co-write community values &amp; docs</li>
-<li>Anti-hackathon</li>
-<li>Remix videos on the command line</li>
-<li>Music visualization with Pure Data</li>
-<li>Audio signal processing</li>
-<li>P5js and P5 Live</li>
-<li>Data moshing</li>
-<li>DIY Portfolio Examples and How to Code Them</li>
-<li>Shaders for scaredy cats</li>
-<li>Internships and jobs for multi-/inter-disciplinary work like
-ours</li>
-<li>Webscraping with Python</li>
-<li>Merging theory and content with code and practice. Choosing tools
-that are ethically and conceptually grounded.</li>
-</ul>
-<hr/>
-</section>
 </section>
 <section id="first-sign-up-form" class="level2">
-<h2>First sign up form</h2>
+<h2>First sign-up form</h2>
 <p><em>In January 2019 I sent out this Google form to USC students,
 staff, and faculty who I thought might be interested in a new
 code-friendly community. This was our first document, where you can see
@@ -409,6 +321,152 @@ funding from university or industry?</p>
 </section>
 </section>
 </section>
+<section id="code-collective-workshops-talks" class="level2">
+<h2>CODE COLLECTIVE WORKSHOPS &amp; TALKS</h2>
+<section id="past" class="level5">
+<h5>past</h5>
+<ul>
+<li>Help Me Code IAI zine making workshop, <a
+href="https://sarahciston.com">Sarah Ciston</a></li>
+<li>Feminist.AI, <a href="https://feminist.ai">Christine
+Meinders</a></li>
+<li>Movement-based interaction design, (<a
+href="https://fidelialam.com/">Fidelia Lam</a>)</li>
+<li>Machine Learning Tactics for Artists, (<a
+href="https://isohale.com/">Catherine Griffiths</a>)</li>
+<li>Getting Started with ML5.js, <a href="https://sarahciston.com">Sarah
+Ciston</a></li>
+<li>8-bit Game Design, (<a href="https://www.toddfurmanski.com/">Todd
+Furmanski</a>)</li>
+<li>Coding for Live Performance, (<a href="https://www.brnart.com/">Ben
+Nicholson</a>)</li>
+<li>Multisensory Touch Electronics, <a
+href="http://www.emvanb.com/">Emily Van Bellingham</a></li>
+<li>Coem: An esolang for poetics, <a
+href="https://kayserifserif.place">Katherine Yang</a></li>
+</ul>
+</section>
+<section id="planned-or-dreamed" class="level5">
+<h5>planned or dreamed</h5>
+<ul>
+<li>Ethics of NFTs for Artists: If Such a Thing Is Possible</li>
+<li>Bias in NLP Language &amp; Ethical AI</li>
+<li>Group coding: we each take some time to attempt a solution to a
+simple but not trivial given problem, then come back and talk about our
+approaches</li>
+<li>Co-write community values &amp; docs</li>
+<li>Anti-hackathon</li>
+<li>Remix videos on the command line</li>
+<li>Music visualization with Pure Data</li>
+<li>Audio signal processing</li>
+<li>P5js and P5 Live</li>
+<li>Data moshing</li>
+<li>DIY Portfolio Examples and How to Code Them</li>
+<li>Shaders for scaredy cats</li>
+<li>Internships and jobs for multi-/inter-disciplinary work like
+ours</li>
+<li>Webscraping with Python</li>
+<li>Merging theory and content with code and practice. Choosing tools
+that are ethically and conceptually grounded.</li>
+</ul>
+<hr/>
+</section>
+</section>
+<section id="code-collective-summer-lab-syllabus" class="level2">
+<h2>CODE COLLECTIVE SUMMER LAB SYLLABUS</h2>
+<p>9-11a PDT, 4 weeks 2x week, <a href="https://sarahciston.com">Sarah
+Ciston</a></p>
+<p><em>Frustrated with coding but want to use it in your projects?
+Always wondered about programming but felt intimidated to try?
+Overwhelmed with too many choices and confusing jargon? Just don’t know
+where to start?</em></p>
+<p>The Code Collective Summer Lab is an opportunity to join fellow
+students in a fun and friendly space to dabble in code, ask dumb
+questions, troubleshoot your dream project, and just explore.</p>
+<p>This summer intensive builds on USC’s Creative Code Collective, a
+year-round student group supporting critical and artistic coding. We
+build programming skills in an engaging, non-intimidating
+environment—emphasizing co-learning and co-teaching, celebrating
+experimentation and process. We believe in growth not perfection,
+scrappy artistic strategies not perfect code, collaboration not
+competition. All levels and languages welcome!</p>
+<p>During the Summer Lab, we’ll explore the relationships among machine
+learning, datasets, and human language. We will learn strategies for
+gathering, utilizing, and tending to data (both big and personal) with
+care and curatorial consideration. We will consider the aesthetics,
+ethics, and poetics of datasets through the lenses of intersectional
+identities and text-based machine learning.</p>
+<p>We’ll tinker with conversational agents like Alexa and text
+generators like GPT. Through artistic-critical interventions and
+workshops, we will focus on how these technologies get embedded in the
+very words we use; and we’ll reflect carefully on what assumptions these
+tools make in their materials, their language, and their users.</p>
+<section id="preparation" class="level3">
+<h3>Preparation</h3>
+<p><strong>No particular experience is required!</strong> Any kind of
+field or background is helpful to get started; we’ll meet you where you
+are. You don’t have to install or buy anything in advance either; we’ll
+handle that together.</p>
+<p>So that we can focus during our time together, it will help if you
+have in mind a project or a skill you want to work on. We’re going to
+focus on text-based tools, so here’s what you can prep in advance:</p>
+<p>Have a dataset (text) in mind you’re interested to work with—this
+could be your own journal, something from the USC Libraries Digital
+Collection, or anything goes. For example, your corpus could be the
+entire series of the show Community, like <a
+href="https://github.com/kayserifserif/community-references">@kayserifserif</a>,
+or these <a
+href="https://huggingface.co/datasets/raquiba/Sarcasm_News_Headline">sarcastic
+and serious news headlines</a>, or the archived pages from the early
+internet sites like <a
+href="https://archive.org/details/webarchivedatasets">Friendster and
+Geosities</a>.</p>
+<p>Don’t worry, no matter your existing level of comfort with code, even
+if it’s none, we will meet you where you are. Just start from asking,
+What do you want to make, and why?</p>
+</section>
+<section id="goals" class="level3">
+<h3>Goals</h3>
+<ul>
+<li>You’ll understand how artists, engineers, makers, and academics can
+embrace coding with a critical eye toward ethics and a creative glint
+that can help imagine more equitable futures.</li>
+<li>You will gain comfort exploring data and coding, building on any
+existing skills with new perspectives both technical and critical. You
+will also emerge with a zine about what we’ve learned.</li>
+<li>You’ll develop your portfolio of individual and collaborative code
+projects, plus the opportunity to continue in the fall with the Code
+Collective community.</li>
+</ul>
+</section>
+<section id="format" class="level3">
+<h3>Format</h3>
+<p>This course is a workshop in exploratory programming, run as an
+open-format collaboratory. Its self-directed learning model requires
+motivated student engagement and rewards artistic risk-taking. As lab
+leader I provide technical and theoretical resources to facilitate your
+projects, and as a group we agree to cultivate a supportive environment
+for creating. Together we bring our individual skill sets and abilities;
+our interest to learn from each other and together; and our open minds,
+mutual respect, and sense of possibility. Practically, this means you
+come each day ready to discuss the topic and to support each other’s
+co-learning, ideating, and troubleshooting; and you’ll have time to
+develop your code-based projects with support from the collaboratory.
+Because of the lab nature of this course, we will decide as a group how
+to work through the readings and where to take them next, thus this
+schedule and reading list are subject to change depending on your
+projects and interests.</p>
+<p>Weekly sessions will be divided into “Studio” days, during which we
+code together and troubleshoot our work, and “Salon” days, during which
+we discuss something we’ve read and reflect on the practices we’re
+undertaking. Each will have a text or tutorial attached that pertains to
+the broader theme. Still the work will be self-directed toward each
+student’s particular project, explorations, and goals. Through
+collaboration, co-learning, co-teaching, We discover how much we already
+know and how much we can build on that together.</p>
+<hr/>
+</section>
+</section>
 <section id="first-look-at-javascript" class="level2">
 <h2>FIRST LOOK AT JAVASCRIPT</h2>
 <p>This was a lesson made for a beginner coding course. You can check
@@ -466,16 +524,19 @@ doesn’t randomly update on you</li>
 <li><p><strong>The DOM</strong> &gt; “An HTML document is structured
 according to the Document Object Model, or “DOM”. […] The DOM consists
 of every element on the page, laid out in a hierarchical way that
-reﬂects the way the HTML document is ordered.” (Q) &gt; <img
-src="https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959" /></p></li>
-<li><p><strong>Elements</strong> use <code>&lt;tags&gt;</code> and have
-parent/child relationships</p>
+reﬂects the way the HTML document is ordered.” (Q)</p></li>
+</ul>
+<!-- ![](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959) -->
+<p><img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959' width="300px"></p>
+<ul>
+<li><strong>Elements</strong> use <code>&lt;tags&gt;</code> and have
+parent/child relationships
 <ul>
 <li>id vs class: (single vs groups)</li>
 <li>styles: (inline vs css file)</li>
 </ul></li>
-<li><p><strong>Comments</strong> are written as single and multiline. -
-Keyboard shortcut to toggle: <code>Command+Slash</code></p>
+<li><strong>Comments</strong> are written as single and multiline. -
+Keyboard shortcut to toggle: <code>Command+Slash</code>
 <ul>
 <li>Comments are an <em>essential</em> part of coding, debugging, &amp;
 documenting–for you and others!</li>
@@ -596,12 +657,8 @@ purposes: - e.g. Choose <code>createImage()</code> (P5) or
 - Choose <code>setup()</code> or <code>draw()</code> depending on if you
 want it to happen once or repeatedly, only works in P5.</p>
 </blockquote>
-<figure>
-<img
-src="https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594"
-alt="markdown-image" />
-<figcaption aria-hidden="true">markdown-image</figcaption>
-</figure>
+<!-- ![markdown-image](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594) -->
+<p><img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594' width="300px"></p>
 </section>
 <section id="review-logics-of-code" class="level3">
 <h3>Review: Logics of Code**</h3>
@@ -664,9 +721,9 @@ etc.</li>
 <li>imported data that can be converted to the above: JSON, CSV, TXT,
 etc.</li>
 </ul>
-<p><img
-src="https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385" /></p>
-<ol start="4" type="1">
+<p><!-- ![](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385) --></p>
+<p><img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385' width="300px"></p>
+<ol type="1">
 <li>Additional Considerations &amp; Weirdnesses</li>
 </ol>
 <ul>
@@ -783,94 +840,9 @@ case I’m using it for a tutorial. You might use it for documentation
 about how you made your site or how others could implement your
 tool.</p>
 <hr/>
-<div id="refs" class="references csl-bib-body hanging-indent"
-role="doc-bibliography">
-<div id="ref-cistonHowForkBook2021" class="csl-entry"
-role="doc-biblioentry">
-Ciston, Sarah, and Mark C. Marino. 2021. <span>“How to Fork a Book: The
-Radical Transformation of Publishing.”</span> <em>Medium</em> (blog).
-August 19, 2021. <a
-href="https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c">https://markcmarino.medium.com/how-to-fork-a-book-the-radical-transformation-of-publishing-3e1f4a39a66c</a>.
-</div>
-</div>
 </section>
 </section>
 </section>
-</section>
-<section class="footnotes footnotes-end-of-document"
-role="doc-endnotes">
-<hr />
-<ol>
-<li id="fn1" role="doc-endnote"><p><a
-href="https://creativecodecollective.com">Creative Code Collective</a><a
-href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"><p><a
-href="https://creativecodecollective.com">Creative Code Collective</a><a
-href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3" role="doc-endnote"><p>brown, a.m. (2017). Emergent
-Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
-href="http://adriennemareebrown.net/">adrienne maree brown</a><a
-href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4" role="doc-endnote"><p><a
-href="https://amc.alliedmedia.org/about/purpose-and-values">Allied Media
-Conference</a><a href="#fnref4" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-<li id="fn5" role="doc-endnote"><p><a
-href="https://www.centerforcouncil.org/">Center for Council</a><a
-href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn6" role="doc-endnote"><p>brown, a.m. (2017). Emergent
-Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
-href="http://adriennemareebrown.net/">adrienne maree brown</a><a
-href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn7" role="doc-endnote"><p><a
-href="https://superrr.net/code-of-conduct/">Superrr</a><a href="#fnref7"
-class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn8" role="doc-endnote"><p><a
-href="https://p5js.org/community/">p5js</a><a href="#fnref8"
-class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn9" role="doc-endnote"><p>brown, a.m. (2017). Emergent
-Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
-href="http://adriennemareebrown.net/">adrienne maree brown</a><a
-href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn10" role="doc-endnote"><p><a
-href="https://amc.alliedmedia.org/about/purpose-and-values">Allied Media
-Conference</a><a href="#fnref10" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-<li id="fn11" role="doc-endnote"><p>brown, a.m. (2017). Emergent
-Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
-href="http://adriennemareebrown.net/">adrienne maree brown</a><a
-href="#fnref11" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-<li id="fn12" role="doc-endnote"><p>brown, a.m. (2017). Emergent
-Strategies. AK Press.; — (2021). Holding Change. AK Press. Visit <a
-href="http://adriennemareebrown.net/">adrienne maree brown</a><a
-href="#fnref12" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-<li id="fn13" role="doc-endnote"><p><a
-href="https://amc.alliedmedia.org/about/purpose-and-values">Allied Media
-Conference</a><a href="#fnref13" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-<li id="fn14" role="doc-endnote"><p><a
-href="https://berlincodeofconduct.org/">Berlin Code of Conduct</a><a
-href="#fnref14" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-<li id="fn15" role="doc-endnote"><p><a
-href="https://www.centerforcouncil.org/">Center for Council</a><a
-href="#fnref15" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-<li id="fn16" role="doc-endnote"><p><a
-href="https://p5js.org/community/">p5js</a><a href="#fnref16"
-class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn17" role="doc-endnote"><p><a
-href="https://superrr.net/code-of-conduct/">Superrr</a><a
-href="#fnref17" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-<li id="fn18" role="doc-endnote"></li>
-<li id="fn19" role="doc-endnote"><p><a
-href="https://creativecodecollective.com">Creative Code Collective</a><a
-href="#fnref19" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
-</ol>
 </section>
 </article>
 </body>
