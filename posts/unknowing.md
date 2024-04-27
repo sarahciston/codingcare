@@ -35,16 +35,17 @@ It seems merely rote to sort what will be important and what will not be. But th
 
 But the not-quite-whiteness of what's not here holds up this wall with its exclusion. 
 
-<!-- >"Blackness has, so to say, formed the ground for white" [@artistBlackGooeyUniverse]
+>"Blackness has, so to say, formed the ground for white" [@artistBlackGooeyUniverse]
 
->"What I call the anti-Black box links the race-neutral technologies that encode inequity to the race-neutral laws and policies that serve as powerful tools for White supremacy." [@benjaminRaceTechnologyAbolitionist2019]
+<!-- >"What I call the anti-Black box links the race-neutral technologies that encode inequity to the race-neutral laws and policies that serve as powerful tools for White supremacy." [@benjaminRaceTechnologyAbolitionist2019] -->
 
-[@franklinDigitallyDisposedRacial2021]
+<!-- [@franklinDigitallyDisposedRacial2021] -->
 
->"race, particularly in the United States, is central to this undertaking, fundamentally shaping how we see and know as well as the technologies that underwrite or cement both vision and knowledge. Certain modes of racial visibility and knowing coincide or dovetail with specific ways of organizing data:" [@mcphersonWhyAreDigital2012]
+<!-- >"race, particularly in the United States, is central to this undertaking, fundamentally shaping how we see and know as well as the technologies that underwrite or cement both vision and knowledge. Certain modes of racial visibility and knowing coincide or dovetail with specific ways of organizing data:" [@mcphersonWhyAreDigital2012] -->
 
->"Why does anti-blackness seem to perpetually overdetermine and saturate the operating system regardless of who is programming it? How do we begin to move to forms of critique and resistance that relinquish a certain focus on the apparatus[8] and begin to disassemble the episteme[9], that seemingly transparent foe that perpetuates the endless production of violent techne[10]? How might this make desirable the pursuits of situating computation elsewhere and towards a poethic[11] of endured proximity? How might such a proximity allow for the messy work of sharing risk together instead of the violent clarity of prediction?" [@morrisonVoluptuousDisintegrationFuture2022]
->>"Black Computational Thought holds open these proximal possibilities and directs our attention to the quotidian, social, opaque, woven, and fugitive practices of computation born from Black diasporic movement. Blackness here is always in an appositional love affair with queerness, transness, and feminist orientations of the world that fight the simplicity of calculated separability, and instead contend with their relationship to difference, kin, collectivity, risk, non-normativity, non-linearity, ambiguity, and trust." [@morrisonVoluptuousDisintegrationFuture2022] -->
+<!-- >"Why does anti-blackness seem to perpetually overdetermine and saturate the operating system regardless of who is programming it? How do we begin to move to forms of critique and resistance that relinquish a certain focus on the apparatus and begin to disassemble the episteme [...]? How might this make desirable the pursuits of situating computation elsewhere and towards a poethic[11] of endured proximity? How might [endured] proximity allow for the messy work of sharing risk together instead of the violent clarity of prediction?" [@morrisonVoluptuousDisintegrationFuture2022] -->
+
+<!-- >>"Black Computational Thought holds open these proximal possibilities and directs our attention to the quotidian, social, opaque, woven, and fugitive practices of computation born from Black diasporic movement. Blackness here is always in an appositional love affair with queerness, transness, and feminist orientations of the world that fight the simplicity of calculated separability, and instead contend with their relationship to difference, kin, collectivity, risk, non-normativity, non-linearity, ambiguity, and trust." [@morrisonVoluptuousDisintegrationFuture2022] --> -->
 
 ![Pipilotti Rist, MOCA 2021](assets/img/pipi-white.jpg)
 
@@ -190,7 +191,9 @@ Large machine learning models are said to hallucinate when they recombine input 
 
 Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. [Call it fabrication instead. What changes.]
 
-Techno-capitalists want to see suffering as opportunity. Maybe that's what my father thinks too. IBM advertises, "hallucination offers a novel approach to artistic creation" [@WhatAreAI]. Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). He says, 
+Techno-capitalists want to see suffering as opportunity. Maybe that's what my father thinks too. 
+
+IBM advertises, "hallucination offers a novel approach to artistic creation" [@WhatAreAI]. Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). He says, 
 
 >"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist." [@ashbyIntroductionCybernetics1956]
 
@@ -208,7 +211,7 @@ Even if it were, I cannot prevent loss. Neither can you.
 
 I am angry; I want to skip the suffering, yours and mine. <!-- This loss does not function.  --> 
 
-I try to solve it, find an equation complex enough to predict it exactly. If I cannot prevent loss I want [to skip it, accelerate it]. 
+If I cannot prevent loss, I want [to skip it, solve it, accelerate it — find an equation complex enough to predict it exactly.] 
 
 No. I don't want to prevent loss but to accelerate it. This is yet another kind of prevention, trying to [quell/quit/muffle] suffering rather than staying [connected] through pain and fear and change and unknowing.
 
@@ -220,7 +223,7 @@ Large models cannot admit uncertainty; they aim to squelch it. Theirs is a mode 
 
 Yet uncertainty does not have to mean suffering. Loss does not.
 
-Instead of hallucination, could we call upon systems that are "improvising knowledge." That first acknowledge never having known in any authoritative, encapsulating way. Instead of claiming knowledge, they welcome knowledge in its teetering verb state — a sharing, haptic undercommon of un/knowing. 
+Instead of hallucination, [call it fabrication]. Instead of fabrication, could we call upon systems that are "improvising knowledge." That first acknowledge never having known in any authoritative, encapsulating way. Instead of claiming knowledge, they welcome knowledge in its teetering verb state — a sharing, haptic undercommon of un/knowing. 
 
 >"I speak of the *verb process*, the doing, the coming into being, the at-the-time-of. Which is why we think there is particular value in live music, contemplating the artifact as it arrives, listening to it emerge. There it is. And There." [@barakaHomeSocialEssays1966]
 

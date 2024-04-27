@@ -595,7 +595,7 @@ Take heart if you don't feel like you're really a coder. Many of my favorite com
 
 ![](assets/img/ofmd-cute.gif)
 
-And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced [@AlwaysalreadyprogrammingMd]. We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
+And the divisions between who knows, who gets to know, who gets to learn and claim knowing are primarily artificially imposed by gatekeeping structures and language. Melanie Hoff points out how we are ["always-already programming"](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4) in so many ways. She argues that "the programmer is also the user is also the programmer" and these roles have been artificially divorced [@AlwaysalreadyprogrammingMda]. We can reunite the ideas of programmer and user in our work as pro-am (professional-amateur) pro-users (programmer-users) who dabble, tinker, and find joy in the spaces in between. 
 
 >"It's buttons all the way down. [...] When we all build up and cultivate one another's agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing." 
 ><footer>–[Melanie Hoff](https://Melanie-Hoff.com)</footer>
