@@ -3,18 +3,16 @@
 title: appendices
 permalink: appendices
 nav_order: 100
-date: 22.01.2023 
+date: 27.04.2023 
 # tags: [appendix]
 ---
 
-# {{ page.title }}
+<!-- # {{ page.title }} -->
 
-## Contents 
+<!-- ## Contents  -->
 
-* TOC
-{:toc}
-
-<hr/>
+<!-- * TOC -->
+<!-- {:toc} -->
 
 <!-- ## Community values
 
@@ -59,7 +57,10 @@ Thank you to the individuals and organizations who developed these principles an
 
 Find many more ideas in the [Code Collective Resource Hub](https://creativecodecollective.com/resource-hub)
 
-## First sign-up form
+<hr/>
+
+
+## FIRST CCC INTEREST FORM
 
 *In January 2019 I sent out this Google form to USC students, staff, and faculty who I thought might be interested in a new code-friendly community. This was our first document, where you can see the shape it was beginning to take and its raw edges, as I was wayfinding for what I was interested in offering and what others might need.* 
 
@@ -103,7 +104,7 @@ This weekly drop-in studio will focus on growth not perfection, scrappy artistic
 
 <hr/>
 
-## Departmental proposal
+## DEPARTMENT PROPOSAL
 
 15 Nov 2018
 
@@ -256,7 +257,7 @@ This was a lesson made for a beginner coding course. You can check out the inter
 
 <!-- ![](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959) -->
 
-<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959' width="300px">
+<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2Fpic_htmltree.gif?v=1617059534959' width="500px">
 
 - **Elements** use `<tags>` and have parent/child relationships
   - id vs class: (single vs groups)
@@ -332,7 +333,7 @@ This was a lesson made for a beginner coding course. You can check out the inter
 
 <!-- ![markdown-image](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594) -->
 
-<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594' width="300px">
+<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSconcepts.PNG?v=1618426978594' width="500px">
 
 ### Review: Logics of Code** 
 
@@ -372,7 +373,7 @@ This was a lesson made for a beginner coding course. You can check out the inter
   
   <!-- ![](https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385) -->
   
-<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385' width="300px">
+<img src='https://cdn.glitch.com/d52771bb-1150-4ddb-9baf-2f10e553cd16%2FJSdatatypes.PNG?v=1618426979385' width="500px">
 
 
 
