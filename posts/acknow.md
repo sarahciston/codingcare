@@ -40,6 +40,8 @@ Where would I be without Fidelia Lam and Lisa Müller-Trede, my weirdos-in-arms,
 
 I am grateful to many creative, intellectual connections across and beyond institutions, whose perspectives enhanced this work: Ashley Dailey, Ariana Dongus, Katy Gero, Mario Guzman, JH, Shawné Michaelain Holloway, Olivia Jack, Swantje Lichtenstein, Maurice Jones, Christine Meinders, Miller Puckette, Lubna Rashid, Tiara Roxanne, Diana Serbanescu, Lena Wegmann, and Xin Xin. For endless, uncategorizable, above and beyond support, deepest thanks go to Åste Amundsen, cypress masso, Emily Martinez, Leigh Montavon, Jason Perez, Susan Ring, Rob Shafer, Tavia Stewart, and Isabel Wanger (all the information is on the task). With profound love to my family, especially Anthony Ciston, Tony Ciston, and Mary Jo Fisher.
 
+<i markdown=1 style="color:darkslateblue; font-style: italic;">This work offers respect to the rightful caretakers of the land where it has been created. I have lived and worked on the ancestral and unceded home of the Kizh, Tongva, Chumash, Tataviam, Serrano, Ohlone, Muwekma, Miwok, and Kumeyaay people (California); the Osage and Kickapoo people (Missouri); and on the site where many Jewish, Roma, queer, and disabled communities were displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, that settler colonialism has resulted in land seizure, disease, subjugation, slavery, relocation, genocide, and multigenerational trauma, and it persists today. This acknowledgment demonstrates my responsibility and commitment to dismantling the paradigms that allow such suffering to continue, both here and abroad, in Palestine and in too much of the world. Our struggles are interconnected, and I take seriously the obligation to the land and water, to abolition and decolonization, and to foregrounding these in my practice. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn the history of where you live, why this matters, and how to contribute.</i>
+
 
 <!-- SHAWNÉ MICHAELAIN HOLLOWAY,  -->
 
@@ -48,3 +50,4 @@ I am grateful to many creative, intellectual connections across and beyond insti
 <!-- Like SCI 211, an acknowledgments page may appear to be a scattered collection, easily dismissed. But the acknowledgments anchors this text. These are the forces that make possible all the efforts described within.  -->
 
 <!-- To acknowledge their full impact would make this acknowledgments run longer than the book, so I try to continue to pay my respects by paying them forward.  -->
+
