@@ -812,11 +812,13 @@ For more on these questions, see [Trans\*formative TechnoCraft](https://coding.c
 
 <!-- <div class="box live-code" markdown="1">
 
-## LIVE CODE: p5 / OSACC 
+## LIVE CODE: p5 / OSACC // ZK/U!!!
 
 Qianqian Ye, who welcomed me into the community of P5.js by telling me I was already a part of it — even if I did not feel like it yet. By using open-source software, by teaching with the software, helping others learn it, I had joined 
 
 They encouraged me to find ways to be more involved, even if I didn't think I was qualified. 
+
+<!-- also ccc berlin / varia?  -->
 
 </div> -->
 
@@ -1053,11 +1055,17 @@ For more on developing community guidelines, see [Section 10: LIVE CODE: Write y
 
 <!-- <div class="live-code box" markdown="1">
 
-## LIVE CODE: ccc berlin / varia? /// computational mama // ars workshop "human reinforcement learning with machine feedback" + summer lab intensive, moz and other adapted workshops?
+## LIVE CODE: Live on site, be in community
 
-[XXX][ADD]
+ZK/U or  moz and other adapted workshops?
 
-</div> -->
+Flip the scripts: ARS WORKSHOP "human reinforcement learning with machine feedback" + summer lab intensive,
+
+<!-- also ccc berlin / varia? /// computational mama  -->
+
+<!-- [XXX][ADD] -->
+
+<!-- </div> -->
 
 # 9. We share resources
 

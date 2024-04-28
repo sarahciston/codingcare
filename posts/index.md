@@ -64,7 +64,7 @@ As interstices among these texts, a collection of short essays imagine dialogues
 
 ***
 
-<i style="color:darkslateblue; font-style: italic;">This work offers respect to the Tongva and Chumash peoples, who are the rightful caretakers of the land where much of this work has been created. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn the history of where you live, why this matters, and how to contribute.</i>
+<i markdown=1 style="color:darkslateblue; font-style: italic;">This work offers respect to the rightful caretakers of the land where it has been created. I have lived and worked on the ancestral and unceded home of the Kizh, Tongva, Chumash, Tataviam, Serrano, Ohlone, Muwekma, Miwok, and Kumeyaay people (California); the Osage and Kickapoo people (Missouri); and on the site where many Jewish, Roma, queer, and disabled communities were displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, that settler colonialism has resulted in land seizure, disease, subjugation, slavery, relocation, genocide, and multigenerational trauma, and it persists today. This acknowledgment demonstrates my responsibility and commitment to dismantling the paradigms that allow such suffering to continue, both here and abroad, in Palestine and in too much of the world. Our struggles are interconnected, and I take seriously the obligation to the land and water, to abolition and decolonization, and to foregrounding these in my practice. [Why acknowledge territory? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn the history of where you live, why this matters, and how to contribute.</i>
 
 <!-- !['tonight'](assets/img/goingonline.jpg){: .thumb } -->
 
@@ -93,10 +93,6 @@ As interstices among these texts, a collection of short essays imagine dialogues
 
 <!-- * [Acknowledgments](ack.html) -->
 <!-- 7. TRANS: [Unsupervised Pleasures & Critical AI](unsupervised) -->
-
-<!-- <caption markdown=1>I have lived and worked on the ancestral land of the Tongva, Chumash, Ohlone, Muwekma, Miwok, and Kumeyaay people (California); the Osage and Kickapoo people (Missouri); and on the site where many Jewish, Roma, queer, and disabled communities were displaced during the Shoah (Berlin). I acknowledge the suffering and struggle that have made my presence here possible, and I work to support dismantling the paradigms that allow such suffering to continue — in Palestine and in too much of the world. [Why acknowledge land? Visit Native-Land.ca](https://native-land.ca/resources/territory-acknowledgement/) to learn the history of where you live, why this matters, and how to contribute.</caption> -->
-
-<!-- the Tongva and Chumash people (Los Angeles); the Ohlone, Muwekma, and Miwok people (Oakland); the Kumeyaay people (San Diego); the Osage and Kickapoo people (Missouri);  -->
 
 <!-- width: 380pt; float:right; -->
 
