@@ -43,6 +43,8 @@ Paper/exhibition/
 
 **Nearness vs nearbyness (paper) conclusion/pitch. Provocative to farther work.**
 
+*scale does the work of bracketing concepts and showing their interdependence at once*
+
 re Elea, the hope would be to understand "What does it mean for me today to use these systems, why does a certain feature/methodology come to exist, instantly matters to me. If I utilize this I must be aware of how the tech can even devoid of historical contexts its created from, how are the tech still ways they might propagate injustices and systems of power."
 
 "Feelings are 'vectors'; for they feel what is there and transform it into what is here" (Whitehead 1978, 87). 

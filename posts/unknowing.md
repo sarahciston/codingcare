@@ -189,7 +189,9 @@ Large machine learning models are said to hallucinate when they recombine input 
 
 >"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024]
 
-Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. [Call it fabrication instead. What changes.]
+>"the main concern is catastrophic forgetting (CF), i.e., while learning the sequentially, neural network underfits the old data when it confronted with new data." [@kumarMethodologyOrientedStudyCatastrophic2024]
+
+Why can I not shake the phrase 'catastrophic forgetting'? 
 
 Techno-capitalists want to see suffering as opportunity. Maybe that's what my father thinks too. 
 
@@ -203,15 +205,17 @@ No facts yet exist — that's easy for him to say, when he's decided to assume f
 
 Pipi, can you please smash the window of this hot-boxed black box with a flower already? 
 
+Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. What changes if we rename hallucination? Call it confabulation. No, conflagration. No, fabrication. This is a process of manufacturing, an admixture spilt on a factory floor.
+
 Black boxes don't just declare a zone of, "I don't know." Worse, they proclaim, "I don't want to know." They manufacture an 'unknowability' at the outset that they then use as justification not to investigate further. When I black box you, I claim the privilege to know you only by your interface. I choose the surfaces I want to interact with, the parts that are of use to me, the parameters I want to adjust. I get to choose what not to care about. 
 
-This is an unsustainable choice. The black box doesn't know the point is not to prevent loss. 
+This is catastrophic forgetting. *To forget catastrophe, you must choose what not to see. Who not to see. You must refuse to witness suffering.*
 
-Even if it were, I cannot prevent loss. Neither can you.
+I am angry; I want to skip the suffering, yours and mine. This loss does not function.
 
-I am angry; I want to skip the suffering, yours and mine. <!-- This loss does not function.  --> 
+This is an unsustainable choice. The black box builders don't know the point is not to prevent loss. Even if it were, I cannot prevent loss. Neither can you.
 
-If I cannot prevent loss, I want [to skip it, solve it, accelerate it — find an equation complex enough to predict it exactly.] 
+If I cannot prevent loss, I try to solve it. Find an equation complex enough to predict it exactly and optimize it. 
 
 No. I don't want to prevent loss but to accelerate it. This is yet another kind of prevention, trying to [quell/quit/muffle] suffering rather than staying [connected] through pain and fear and change and unknowing.
 
@@ -223,11 +227,11 @@ Large models cannot admit uncertainty; they aim to squelch it. Theirs is a mode 
 
 Yet uncertainty does not have to mean suffering. Loss does not.
 
-Instead of hallucination, [call it fabrication]. Instead of fabrication, could we call upon systems that are "improvising knowledge." That first acknowledge never having known in any authoritative, encapsulating way. Instead of claiming knowledge, they welcome knowledge in its teetering verb state — a sharing, haptic undercommon of un/knowing. 
+Instead of hallucination, instead of catastrophic forgetting, fabrication. Fabrication calls upon systems that are "improvising knowledge," which first acknowledge never having known — not in any authoritative, encapsulating way. Instead of claiming, they welcome knowledge in its teetering verb state — a sharing, haptic undercommon of un/knowing. 
 
 >"I speak of the *verb process*, the doing, the coming into being, the at-the-time-of. Which is why we think there is particular value in live music, contemplating the artifact as it arrives, listening to it emerge. There it is. And There." [@barakaHomeSocialEssays1966]
 
-Far sweeter ways of knowing. Fizz and curiosity. Dovetailedness holding us together. All the rage and color and quilting and texture inside.
+Far sweeter ways of knowing. Fizz and curiosity. [The tension of] Dovetailedness holding us together. All the rage and color and quilting and texture inside.
 
 Pipi, you call your show "Big heartedness, be my neighbor." I like that you don't lay claims. When you could have declared, "be mine," you ask only to be nearby [@PipilottiRistBig]. I want to stay nearby. I can let unknowing texture me. I can write other functions. 
 
