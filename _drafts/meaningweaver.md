@@ -56,9 +56,9 @@ Monte Carlo methods actually more Frequentist in approach than Bayesian, ironica
 
 Hydra Transformers. 
 
->"To talk about vectors was to talk about data in the abstract, being i ally vague about that data’s sources." [@seaverCareScaleDecorrelative2021a]
->"instead of talking about conflicts among values, Huron spoke of c relations among value vectors."
->"Even in technical use, vectorization is a tool for abstraction, for t forming ordinary tabular data into malleable orientations in multidimensional space (cf. Mackenzie 2017). Vector spaces are the symbolic terrain on which much of the labor of machine learning works, and they provide a widespread metaphorical language across the software industry. Startup founders describe their employees as vectors; venture capitalists describe the companies they fund as vectors; in ordinary conversation, engineers will describe unrelated things as “orthogonal” to each other."
+>"To talk about vectors was to talk about data in the abstract, being intentionally vague about that data's sources." [@seaverCareScaleDecorrelative2021a]
+>"instead of talking about conflicts among values, Huron spoke of correlations among value vectors."
+>"Even in technical use, vectorization is a tool for abstraction, for transforming ordinary tabular data into malleable orientations in multidimensional space (cf. Mackenzie 2017). Vector spaces are the symbolic terrain on which much of the labor of machine learning works, and they provide a widespread metaphorical language across the software industry. Startup founders describe their employees as vectors; venture capitalists describe the companies they fund as vectors; in ordinary conversation, engineers will describe unrelated things as “orthogonal” to each other."
 
 
 
@@ -365,3 +365,6 @@ Embeddings are the representations or encodings of tokens, such as sentences, pa
 
 >"They replace likenesses with likelinesses. [...] This is an approximation of how society, through a filter of average internet garbage, sees me. All it takes is to remove the noise of reality from my photos and extract the social signal instead; the result is a ‘mean image’, a rendition of correlated averagesor: different shades of mean. [...] Mean images are far from random h nations. They are predictable products of data populism. They pick up on latent social patterns that encode conflicting significations as vector coordinates." [@steyerlMeanImages2023]
 
+
+
+<!-- Vocabulary lists. With corpus gathered, a vocabulary list is created by sorting the words or word fragments by how often they are found in the dataset. A, an, uh, the, you get the idea. Eventually the kinds of texts used in the dataset will determine the order of the word/fragments and whether they are in the vocabulary list. e.g. If there are no joyful stories or no queer stories, “happy” and “gay” will not appear a lot. Making a vocabulary list is the first step in “tokenization.” -->

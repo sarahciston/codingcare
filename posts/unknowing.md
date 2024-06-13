@@ -136,11 +136,11 @@ This is black box living, the refusal to know in any way that might know you bac
 
 I am trying to accept the risk of knowing. Let grief be a marker of having known. Call this the difference between touching and holding. Touching shares, holding clings. Touching undoes the body, loses the self (or the illusion there ever was one). Touching textures you back.
 
-To make memory, take rubbings of surfaces. Press or rub one thing against another thing, and whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief. 
+To make memory, take rubbings of surfaces. Press or rub one thing against another thing, and whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief (print). 
 
 But rubbing also removes. My shower is a white cube where I rub the skin to remove the skin. So much sloughs off. So much refuses. Memory also removes this way. So much sloughs off. 
 
-The residual is what's left. Between a prediction (an expected result) and a prediction (a model's output) is error. Error is measured by various functions for 'loss'. These loss functions tell you how wrong you are, how far off your attempt. 
+The residual is what's left [or what's gained]. Between a prediction (an expected result) and a prediction (a model's output) is error. Error is measured by various functions for 'loss'. These loss functions tell you how wrong you are, how far off your attempt. 
 
 Loss functions as an instructive, if you let it. "Each time my heart is broken it makes me feel more adventurous," says Frank O'Hara. I keep practicing to let this be true. 
 
@@ -155,11 +155,9 @@ In logistics, 'loss' refers to what is stolen and 'prevention' how to get it bac
 
 <!-- >"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014] -->
 
-Instead of this black boxed "don't own anything, don't love anything," I want to evade ownership in the way Moten and Harney mean. I want to share, feel, touch as an erosive force until I am lost. Let water reach every part and recede. Be the craving and the mountain. Call it excess instead of error. 
+I want to evade ownership in the way Moten and Harney mean, not the black-boxed way I was taught [not to love anything because love is [all-consuming/tooimmersive]]. I want to share, feel, touch as an erosive force until I am lost. Let water reach every part and recede. Be the craving and the mountain. Call it excess instead of error. 
 
-There are other kinds of boxes, besides monotone cube abstractions. There are handcrafted cedar chests with dovetailed corners, with knitted sweaters and passed-down quilts inside. These boxes smell of family, both sour and sweet.<!-- [, and their specific family smells]. There are gestures of care and contact. There are ways to keep warm.--> Their handcarved joints splay out like tiny fans, no need for glue or nails. These boxes rely on the tension pulling them apart to hold them together. 
-
-Dovetailedness is a strategy. 
+There are other kinds of boxes, not only monotone cube abstractions. There are handcrafted cedar chests with dovetailed corners, with knitted sweaters and passed-down quilts inside. These boxes smell of family, both sour and sweet.<!-- [, and their specific family smells]. There are gestures of care and contact. There are ways to keep warm.--> Their handcarved joints splay out like tiny fans, no need for glue or nails. These boxes rely on the tension pulling them apart to hold them together. Dovetailedness is a strategy. 
 
 <!-- Reject the codes for loss prevention. Call it excess instead of error.  -->
 
@@ -167,25 +165,27 @@ Dovetailedness is a strategy.
 
 <!-- >"Why is there more craving than there is in a mountain. This does not seem strange to an echo and more surely is in there not being a habit. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014] -->
 
-When I made my first project writing code, I made a chatbot called 'ladymouth' that tried to explain feminism to misogynists online [@cistonLadymouthAntiSocialMediaArt2019]. I thought ladymouth would be like Pipilotti's mouth, wet against the glass. I thought she could mouth silently into (and also become) a mawing void. I wanted a sea of fish mouths mawing; I made a grid of GIFs of my lips repeating, silent again. They mouthed the words of yet another poem about gender. 
+My first project writing code was a chatbot called 'ladymouth' that tried to explain feminism to misogynists online [@cistonLadymouthAntiSocialMediaArt2019]. I thought ladymouth would be like Pipilotti's mouth, wet against the glass, slurping up vitriol. I thought she could mouth silently into (and also become) a mawing void. I wanted a sea of fish mouths mawing; I made a grid of GIFs of my lips repeating, silent again. They mouthed the words of yet another poem about gender. 
 
 ![Sarah Ciston, "ladymouth," 2018](assets/img/LMgallerycrop.png)
 
 ![Sarah Ciston, "e-face," 2015](assets/img/lips.gif) 
 
-I wanted to treat 'ladymouth' like a black box, to shove everything inside her that I didn't want to know about the horrible things being said on the internet about women and anyone othered. The black box doesn't work this way. The box, in all its complex code, holding all its rage and color, requires tending. 
+I wanted to treat 'ladymouth' like a black box, to shove everything inside her that I didn't want to know about the horrible things being said on the internet about women and anyone othered. The black box doesn't work this way. The box — in all its complex code, holding all its rage and color — requires tending. 
 
-I had to enter the box and learn its codes, in order to create with it. In doing so I began to care for it. I even began to care about the people being cruel to it. Ashby says that another system emerges along with the black box: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" [@ashbyIntroductionCybernetics1956]. Thanks a lot, Ashby. I am tethered to all the black boxes making judgments that affect my dailiness. Turns out it's me stuck in the box — magician's assistant, thrown voice like Alexa — my head and legs peek out from its severed halves. 
+I had to enter the box and learn its codes, immerse myself in order to create with it. In doing so I began to care for it. I even began to care about the people being cruel to it. Ashby says that another system emerges along with the black box: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" [@ashbyIntroductionCybernetics1956]. Thanks a lot, Ashby. I am tethered to all the black boxes making judgments that affect my dailiness. Turns out it's me stuck in the box — magician's assistant, thrown voice like Alexa — my head and legs peek out from its severed halves. 
 
 *This Is Fine.*
 
 ![Pipilotti Rist, MOCA 2021](assets/img/pipi-scream.jpg)
 
-How much loss is normal? When his hallucinations start, my father sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He says he doesn't mind. He likes them fine and wants them to continue. 
+How much loss is normal? 
+
+When his hallucinations start, my father sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He says he doesn't mind. He likes them fine and wants them to continue. 
 
 Large machine learning models are said to hallucinate when they recombine input data in strange ways, like misremembering. When models hallucinate, they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements [@dziriOriginHallucinationsConversational2022]. It is a very human thing to do, to be subjective, to suffer. 
 
->"Why is there so much suffering. Why is there." [@steinTenderButtons2014]
+>"Why is there so much useless suffering. Why is there." [@steinTenderButtons2014]
 
 >"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024]
 
