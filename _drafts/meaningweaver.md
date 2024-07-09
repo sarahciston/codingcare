@@ -141,6 +141,8 @@ ASCII developed from telegraphic codes. Its first commercial use was as a seven-
     - (https://stanford-cs324.github.io/winter2022/lectures/modeling/)
     - >"This is not necessarily the most glamorous part of language modeling, but plays a really important role in determining how well a model will work."
     - >"Each token should be a linguistically or statistically meaningful unit."
+    - "First, we have to convert sequences of tokens into sequences of vectors. EmbedToken does exactly this by looking up each token in an embedding matrix E∈ℝ||×d (a parameter that will be learned from data):" "These are exactly the (context-independent) word embeddings of yore. [...] takes these context-independent embeddings and maps them into contextual embeddings."
+    - transformer: "attention mechanism" a kind of "soft" lookup table, multiple attention heads. self attn layer to let them all talk, feed forward layer to process independently. layer normalization. positional embeddings to order the sentence. 
 
 *meaning is defined by co-occurance: words mean the same when they are surrounded by similar words. word vectors are derived from co-occurance matrices, vector dimensions are reduced versions of these matrices, reduced to the most "important" words surrounding. language popularity contest.*
 
@@ -218,8 +220,8 @@ Yehoshua Bar-Hillel
 Margaret Masterman
 Jean Senellart
 
-Georges Arzrouni French Armenian engineer, “mechanical brain 1933 for translation, word for word
-“Dictionary of phrases”
+Georges Arzrouni French Armenian engineer, "mechanical brain 1933 for translation, word for word
+"Dictionary of phrases"
 
 Petr Petrovič Trojanskij 1933 patent
 “Universal’ symbols for coding and interpreting grammatical functions, translating machine

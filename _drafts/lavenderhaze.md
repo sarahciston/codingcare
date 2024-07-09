@@ -6,33 +6,86 @@ subtitle: The Art of AI War
 nav_order: 95
 ---
 
-**Every week headlines about better, faster generative AI compete with headlines about AI weapons used against vulnerable populations. Yet these conversations remain entirely separate, despite using the same technologies under the hood.** 
+<!-- 400 word (2500 char) abstract by Jul 7 to HIIG conference -->
+AI Decision Making from Battlefield to Desktop: Tracing the Techno-Military-Industrial Pipeline
+
+Each week headlines about bigger, faster AI compete with headlines about wars waged using new AI systems. Yet, most discussion of these domains remains separate, despite relying on similar machine learning tasks, processes, infrastructure, and innovations. What is at stake when the bots, recommender systems, and automated agents many people use daily were developed in technologies used to wage war?
+This talk examines the specific machine learning tasks used in state military funded “AI Decision Support Systems (AI-DSS). These combine massive amounts of data and processing to help make choices about who lives or dies, speeding up the process exponentially. It will unpack euphemistic terms like AI-DSS and “human in the loop” to question what it means to make a decision in an automated system where all information leading up to that decision has been algorithmically constructed. It will also detail how the training datasets, models, and inferences they rely on are the very same types used by consumers. Often, these are later deployed by, or even upon, citizens of the countries that first developed them, after they are tested on vulnerable foreign populations in conflict zones. 
+The talk follows the development of these systems through their investments from state militaries and corporate tech sectors, in order to draw connections between applications for warfare AI (specifically the tools that have been dubbed AI-DSS) and applications for commercial AI (specifically as used in recent generative AI, search, social media, and surveillance). It presents a chart of key actors in both spheres to trace how power moves across military and corporate regimes, narrowing the technological imaginary toward privatized violent futures.
+Marked by both the ‘weaponization of consumer technology’ and the consumerization of weapons technologies’, the history of techno-military-industrial entanglements is longstanding—from IBM’s Dehomag punchcard tabulator (1933) and ARPANET (1966), to DARPA’s development of CALO (Siri) (2003), and Palantir’s LLM war project manager (2023). With the spotlight now on systems like Ukraine’s MetaConstellation (2022) and Israel’s Lavender (2023), and with tech workers reconsidering their own role in AI warfare, how will these accelerations impact the technologies of users outside of war zones? Ultimately, what responsibilities do users have in choosing AI tools, when their development also leads to deadly outcomes at massive scale?
+
+
+
+Decision-Support Systems Turn
+
+What is the relationship between machine learning task "AI decision-support systems" as used in current military conflicts and the automated assistants, chatbots,
+
+This talk will examine which specific machine learning tasks and technological processes underlie state military funded AI decision support systems (AI-DSS), with the aim of charting the overlaps and entanglements of the development of these processes with private tech industry and use by and on broader publics.
+
+It will examine how 
+
+The precedent for military-tech-industrial entanglements is longstanding, and this talk will fill out the timeline from IBM's Dehomag punchcard tabulator (1933) and ARPANET (1966), to DARPA's version of Siri (2003) and Palantir's warfare project manager (Artificial Intelligence Platform) (2022). With the current emphasis on AI, warfare projects like Lavender (2023) and [Ukraine] accelerate both the development of the technology and the scale of destruction.
+
+What are the stakes of these accelerations and how do they entangle with the technologies we touch every day, like social media apps, AI chatbots, border biometrics, and more? 
+
+What does 'human in the loop' or that a human 'makes the decision' actually mean in systems where all the information leading up to such a decision is constructed by an automated system? 
+
+The sociotechnical embedding cultural and  and 
+their sociotechnological embedding in private contracting, public cultural sectors. The entanglement of military research development, 
+
+By charting some of the last decades' developments in military AI-DSS and connecting them to corporate uses of AI, this talk maps the entanglements of high-stakes for the tools in our pockets. 
+
+These systems combine hardware infrastructures like camera networks, satellite networks, and data centers with [XXX] innovations like large language models, computer vision, and automated personal assistants. The algorithms, training datasets, models, and networks they rely on are the very same types used by consumers. Often, these are later deployed by, or even upon, citizens of the countries that first developed and tested them on vulnerable foreign populations in conflict zones [@neddenBiometrieGetestetMillionen2017]. 
+
+At the level of the algorithm
+
+Marked by both the 'weaponization of consumer technology' [@mozurUkraineWarBegins2024] and the consumerization of weapons technology, this [oroboros eats itself / dangerous spiral repeats]. This talk charts the key actors to trace how power is moving across corporate regimes and military regimes, and narrowing the technological imaginary toward violent futures. 
+
+Ultimately, it asks, what responsibilities do we have in our use of these technologies personally and professionally, when their development also leads to deadly outcomes at massive scale? 
+
+ how we use personal and profess
+
+
+<!-- surveillance & society, editorial or convening, or paper -->
+<!-- two articles, one to hiig one to S&S -->
+
+**Every week headlines about bigger, better, faster [generative] AI compete with headlines about AI systems weaponized against vulnerable populations worldwide. Yet, for the most part, these conversations remain entirely separate, despite using similar technologies under the hood.** This article traces the connections between AI warfare (specifically recent AI-DSS) and commercial AI (specifically generative AI art, search tools, social media, and surveillance) to chart the entanglements between the military and private tech sectors and the development path AI systems may take from weapon to product to back again. 
   <!-- despite the projects being fueled by the same tools -->
 
-At this writing, the latest generative AI hype is OpenAI's GPT-4o, eerie, sleek, and already embroiled in potential lawsuits for its similarity to the foreshadowy sci-fi it too closely resembles. It shares headlines with Google AI Search, which recommends we eat glue. 
+At this writing, in Summer 2024, one of the latest hyped tools is OpenAI's GPT-4o — sleek, eerie, and already embroiled in potential lawsuits for its questionable similarity to the sci-fi film that foreshadows its existence. GPT-4o currently shares headlines with Google AI Search, which recommends we eat glue to keep the cheese from sliding off pizza. The silliness of such suggestions belies the systems' glitchy [XXX] and [terrifying] source material.
 
-I read an article that states, on Wednesday, [paramilitary Rapid Support Forces (RSV) used heavy artillery to kill at least 100 people in a village in Sudan][the SAF militia carried out revenge air strikes killing over 50 civilians on Sunday]. Then, on Friday, Israel and the US kill more than 274 Palestinian people, along with 3 Israeli hostages and at least one Israeli commander, to rescue 4 hostages. 
+Meanwhile, starvation and war atrocities continue escalating at alarming rates in Congo, Haiti, Palestine, Sudan, [Ukraine], and elsewhere. Like many of you, I have been continually heartbroken and stupified by the images and videos of [war/these conflicts].It feels like a futile exercise in which every day I learn today's "bad place" is just a new antechamber for an even-worse place. (I will not list the latest here, because you have seen them or know where to find them. If you wanted to you would.) Sit ins, lie ins, university protests, marches continue, yet business and art continue as usual for months and years as these traumas persist. 
 
-Like many of you, I have been continually heartbroken and stupified by the images of [war/these conflicts]. It feels like a futile exercise in which every day I learn today's "bad place" is just a new antechamber for an even-worse place. 
+<!-- "Since the beginning of 2024, nearly 358,000 people have been displaced in DRC [the Democratic Republic of Congo], 80 percent of which has been caused by armed conflict. [...] A staggering 23.4 million Congolese suffer from food insecurity" [@ConflictDemocraticRepublic]. In Sudan, the Sudan Armed Forces (SAF) have just killed over 50 civilians in an airstrike in revenge for the paramilitary Rapid Support Forces (RSF) killing at least 100 people [CITE], all over the course of a day. On Friday, Israel and the US kill more than 274 Palestinian people, along with 3 Israeli hostages and at least one Israeli commander, to rescue 4 hostages from Gaza [CITE].  -->
 
-Sit ins, lie ins, protests, yet business and art continue on as usual. 
+I flip back and forth between these headlines and wonder: What's the connection between AI used in genocide and war, and the AI we are using every day to generate new artworks, funny images, quippy emails, goofy gotchas, and more? When the hype wears off, will we realize these tools are the same?
 
-I speak specifically of the tools which combine data and computer processing to provide what militaries call "AI automated decision-support systems (AI-DSS)," making choices about who lives or dies, and speeding up the process exponentially. Such tools are on a continuum with other military technologies, tools that have long helped make war bigger and badder. This is also why I am not focusing on unmanned vehicles, but on the decisions and the data-gathering and data-processing capacities that so-called AI enables. It seems that when machine 'intelligence' combines with military 'intel', this noxious substance threatens to overtake knowledge and security as we know it. We are witnessing the aftermath — and the foreshadowing of more to come.
+When the tools designed for us are created by exploitive labor, trained by and for killing people, and now being turned on our own college students, after decimating all the colleges in Gaza? 
 
+The tech we hear about being tested in [war/genocide] will come to be used in non=war daily life too. 
+
+To be clear, and narrow, I speak specifically of the tools which combine massive amounts of data and computer processing to provide what militaries call "AI automated decision-support systems (AI-DSS)." They help make choices about who lives or dies, and they speeding up the process exponentially. Such tools are on a continuum with other military technologies, which have long helped make war bigger and badder. I do not focus here on unmanned vehicles like drones, which exist for air, land, and sea, or on other advanced weaponry like smartbombs or targeting systems — but on the decision-making, data-gathering, and data-processing capacities which so-called AI enables. Often these become part of larger systems that include those other parts and weapons (as war machines are huge complex systems), but I home in on the aspect that makes them 'intelligent', which is the decision-making process. 
+
+When machine 'intelligence' combines with military 'intel', this noxious substance threatens to overtake knowledge and security as we know it. 
+
+We are witnessing the aftermath — and the foreshadowing of more to come.
+
+What is our moral obligation as artists, scholars, working with and developing these tools to MESS with them, to OPT OUT of them, not to let them be used for mass murder? 
+
+Why are we not talking about this at every is-ai-art-real-art conversation? Why are we not talking about this at every tech mixer and startup? Why do we avoid connecting these dots? 
+
+The intention behind these is not accidental. They do not build in the capability without the possibility for its use.
 
 
 How can [artists, academics, critics, cultural workers, users] engage proactively with the material militaristic stakes of AI? Same as with the environmental stakes— we don't want to look at them if it requires us changing our behavior. 
 
-Environmentally this already affects us all. Scientists updated the point of no return for climate change from five years from now to two years from now due to the increased [use of weaponry this year and last][CITE]. 
-Meanwhile, the AI many of us use is gulping up a bottle of water with every query [CITE], and weapons maneuvering in Palestine in October and November alone increased CO2 by [CITE].  
+Environmentally this already affects us all. Scientists updated the point of no return for climate change from five years from now to two years from now due to the increased [use of weaponry this year and last][@lakhaniStaggeringCarbonFootprint]. 
 
-The tech we hear about being tested in [war/genocide] will come to be used in non=war daily life too. 
+Meanwhile, the AI many of us use is gulping up a bottle of water with every query [CITE], and weapons maneuvering in Palestine in October and November alone increased CO2 by [XXX] [@lakhaniStaggeringCarbonFootprint].  
 
 It feels abstract, outside us, far away. It feels too hard to understand. None of this is true. Some employees have begun to hold companies to account. 
 
 
-
-The current genocides being perpetrated [in Palestine, Congo, Sudan, and elsewhere] have made headlines, the AI weapons used there made headlines
 
 >"Computer scientists balk at the idea that algorithms might be replaced by careful, human intervention because human care can’t scale up." [@seaverCareScaleDecorrelative2021a]
 
@@ -247,3 +300,23 @@ As for your request about images, I will generate a link as per your instruction
 
 
 To avoid supporting the mining of conflict minerals, and their further environmental and humanitarian impacts, buying used devices, repairing the ones I have, and when buying new investing in ones that are designed to be repaired. Passing perfectly good items on to family. Research if your 'green' tech is actually greener — does the carbon footprint of producing that lithium battery actually outweigh... [difftopic]
+
+
+0000000
+
+
+I love a spy show, a high-tech thriller, a web of conspiracy. I love when it feels just outside the range of realism, but only just. 
+
+Lately the news is this thriller, but it is well far outside the range of realism, and it's being reported, and based on the public's reactions, it's like the show is on mute. We are inured to our own humanity. The stakes keep getting higher, and nothing will ever be enough. 
+
+
+
+
+
+Lavendar
+Gospel
+Daddy
+
+
+[^Q]: Just after writing on asterisks, Open AI announced Q\*, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023]. At the same moment, "The Gospel" AI system is used in Israel to select and increase its bombing targets by orders of magnitude [@daviesGospelHowIsrael2023], and new stories continue to reveal details of the depth of AI usage there and involvement from the big tech firms [@iraqiLavenderAIMachine2024]. AI technology was originally being developed alongside and as part of WWII and Cold War technologies, now AI is used directly in warfare. The same companies warning of the future dangers of AI make this their marketing strategy: GPT-2 was open-source but 'too big and too dangerous to release' until it appeared as an even bigger GPT-3, then GPT-4 was closed and pay-to-play. Worse yet, those so-called dangers distract from the very-real, immediate dangers they impose, like The Gospel, face recognition in policing, and more subtle forms. 
+
