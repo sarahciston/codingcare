@@ -130,6 +130,9 @@ VOCABULARY VECTORIZING EMBEDDINGS
 Pre-Training a vocab: “Typically the vocabulary is created from training data by retaining the most frequent N words in the source and target language." (https://machinetranslate.org/vocabulary) 
 Literally an ordered list of token frequency > index.
 
+>"all we can really extract from training data is frequency and occasionally also what type of frequency counts to extract—so the choice of underlying model will be much more important than the details of how we let the data reshape and populate it." [@hirst2013]
+
+
 The technique to turn language into numbers was originally used for data compression. Compression is usually "lossy" ["lossy" compression article by ??]
 Byte-Pair Encoding used in GPTs (https://machinetranslate.org/byte-pair-encoding) originally used for data compression, applied to language tokenization by (Sennrich et al, 2015). Sometimes run on bytes instead of unicode characters (Wang et al 2019)
 

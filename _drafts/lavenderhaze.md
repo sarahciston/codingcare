@@ -15,6 +15,7 @@ The talk follows the development of these systems through their investments from
 Marked by both the ‘weaponization of consumer technology’ and the consumerization of weapons technologies’, the history of techno-military-industrial entanglements is longstanding—from IBM’s Dehomag punchcard tabulator (1933) and ARPANET (1966), to DARPA’s development of CALO (Siri) (2003), and Palantir’s LLM war project manager (2023). With the spotlight now on systems like Ukraine’s MetaConstellation (2022) and Israel’s Lavender (2023), and with tech workers reconsidering their own role in AI warfare, how will these accelerations impact the technologies of users outside of war zones? Ultimately, what responsibilities do users have in choosing AI tools, when their development also leads to deadly outcomes at massive scale?
 
 
+we've always outsourced decision making > it's a question of scale and how scale creates alienation and abstraction from those decisions
 
 Decision-Support Systems Turn
 
@@ -111,8 +112,15 @@ There is no apolitical art. Critical making extends to a politics, no a humannes
 
 *make this as an artwork instead? to literally take it into art spaces*
 
-*Multiple genocides currently occuring around the world*
+*Multiple genocides currently occurring around the world*
 
+>"A problem exists when an existing situation (ES) is different from a desired situation (DS). To solve the problem, one searches for tools that can reduce the difference between ES and DS, applies these tools and so, it is asserted, solves the problem." [@weizenbaumSocialPoliticalImpact2008]
+
+>"the mind-boggling naïveté of some of even the allegedly best and brightest deep thinkers of our time. It is useful to remark, just by the way, that human ‘‘problems’’ are never solved. They are transformed into other problems, then still others, and so on, until the original ‘‘problem’’ has sunk into obscurity and, if recalled at all, is thought to have been ‘‘solved.’’ [...] Science, mainly in the form of physics, is becoming a universal explanation of everything, virtually a religion, for many the single source of knowledge, the final authority. Its central dogma is that all aspects of reality are finally understandable in and only in scientific terms." [@weizenbaumSocialPoliticalImpact2008]
+
+
+>"What do these people actually mean when they shout that man is a machine? It is, as I’ve suggested, that human beings are ‘‘computable’’ (berechenbar), that they are not distinct from other objects in the world, in any way deserving of special respect or even attention. [...] that—can be exploited, inducted in killing machines, imprisoned, tortured, killed (providing they are ‘‘enemy combatants’’). It leads to the American military sponsoring programs to produce robot soldiers. What is then left of Norbert Wiener’s vision of the human use of human beings? And does not our world show us with utmost clarity how far we have already come?" [@weizenbaumSocialPoliticalImpact2008]
+>"There are more boundaries to what we can say than to what we experience. It is the task of the artist to attempt to articulate the unsayable [...] The artist’s curse is the impossibility to finally articulate the unsayable in its totality. [...] It is the listener, the viewer, the Mensch who is the ultimate receiver of the artist’s product who must interpret that product and thus make the attempt to find its inherent Truth. And that effort has little to do with scientific understanding. That search requires inner, truly human resources. The artificial intelligentsia denies that such exist." [@weizenbaumSocialPoliticalImpact2008]
 
 Who benefits, who is in the room, behind the curtain, behind the glass, who is it being tested on, who is a subject and who an object.
 
@@ -310,7 +318,8 @@ I love a spy show, a high-tech thriller, a web of conspiracy. I love when it fee
 Lately the news is this thriller, but it is well far outside the range of realism, and it's being reported, and based on the public's reactions, it's like the show is on mute. We are inured to our own humanity. The stakes keep getting higher, and nothing will ever be enough. 
 
 
-
+'safety mitigation' [gpt-4-system-card]
+they refer to new areas of risk as 'risk surfaces' as if land to be conquered or a newly discovered texture or side to a precious vase
 
 
 Lavendar
