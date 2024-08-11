@@ -6,6 +6,8 @@ subtitle: The Art of AI War
 nav_order: 95
 ---
 
+>[Geohegan]: cybernetics doesn't emerge out of war but out of liberal/humanist efforts to establish the non-human, happening between the wars. Local/domestic violences count as much, these are entangled. My chart also argues this. 
+
 <!-- 400 word (2500 char) abstract by Jul 7 to HIIG conference -->
 AI Decision Making from Battlefield to Desktop: Tracing the Techno-Military-Industrial Pipeline
 
