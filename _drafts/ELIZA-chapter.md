@@ -128,7 +128,6 @@ Those numbers are the `token_id`s for each word, based on its position in a voca
 
 [^seqrdr]: For more on the `SQEQRDR` function used for navigating those lists, see "Self-Attention and Sequence Reader" below.
 
-<!-- We could imagine the `token_id` as similarly useful to SLIP IDs, which are the machine addresses for words in a list. The SLIP function `ID(A)` recalls the machine address for [list item/cell] `A`, like requesting a `token_id`. The function `MADOV(A)` does the opposite; it takes a machine address `A` and returns its associated word from that [cell] [@weizenbaumSymmetricListProcessor1963].  -->
 
 <!-- ELIZA takes the list of words and uses `S=SEQRDR.(INPUT)` (ELIZA, line 262) to compare it to a list of all the keywords in the script it is running,`SCANER=SEQRDR.(KEY(I))` (ELIZA, line 282).  The process of  -->
 
@@ -153,21 +152,19 @@ Meanwhile, GPT-3 has a vocabulary of 50,257 tokens, built from an involved token
 
 ## When Words Become Numbers
 
-In both ELIZA and in LLMs, in fact in all computational systems, strings of words are represented by numbers. Turning words into numbers allows programs to perform calculations on words or parts of words, transforming them and comparing them in the same way any other medium can be transformed once it is machine-readable. Images, video, sound, any other kinds of files are also made machine-readable through conversion to numeric data.[^machine-language]
+In both ELIZA and in LLMs, strings of words [are/can be] represented by numbers. Making text (or sights, sound, heartbeats) "machine-readable" always involves conversion to numeric data. Turning words into numbers allows programs to perform calculations on words or parts of words, transforming them and comparing them just like any other kind of information. This is so basic it seems not worth mentioning, yet it is at the center of both the promise and problems of computation. 
 
-ELIZA's SLIP functions represent words as six-bit items inside SLIP lists. Each bit holds an alphanumeric character or a blank space [XXX][CONFIRM-not zero/one?] represented by a number corresponding to a numbering system [@weizenbaumSymmetricListProcessor1963].
+ELIZA hashes input words, as we mentioned, and its SLIP functions make lists that represent words as six-bit items and their "addresses" or location in physical memory. The SLIP function `ID(A)` recalls the machine address for [list item/cell] `A`. The function `MADOV(A)` does the opposite; it takes a machine address `A` and returns its associated word from that [cell] [@weizenbaumSymmetricListProcessor1963].[^machine-language]This is the necessity of word embedding. 
 
+[^machine-language]: SLIP was written as a set of machine language subroutines and functions. Eventually all machine language, like higher-order languages, must be converted into binary signals, which are then converted to electrical pulses that run physically through hardware. This is a simplification, but illustrates that each layer abstracts the next. Neither Weizenbaum's nor today's machines have the ability to store information like language except as math and electricity.   
 
-[^machine-language]: Numerical digits are more easily converted into machine language and then binary signals [0,1], which are converted to the electrical pulses that physically run through hardware. This is a simplification, but illustrates that each layer abstracts the next.  
+**Embedding** is the process of creating a numerical representation of a token (word or subword), so that it can be related to and compared with other tokens in complex machine learning processes. This representation is a long list of numbers called a **vector**. During model training, and again during inference, that long vector gets manipulated and reduced into a single number: a normalized likelihood that the token is a good fit for that particular context. If it is predicted to be the next word in generative text sequence, for example, its resulting probability will end up very high. 
 
-
-
-
-**Word Embedding.** Embedding is the process of creating a numerical description of a token (word or subword), so that it can be related to and compared with other tokens. This representation is a long list of numbers called a **vector** that [gets reduced into a probability through the process of modeling and inference][xxx]. There are several kinds of word embedding. First, **context-independent embedding**, or token embedding, describes tokens before they are used in a sentence or put in relation to any other tokens. For example, in the GPT-2 model, we can look up that the word "bank" has the word embedding `[XXX]`. These embeddings can start out as strings of random numbers or the values from pre-training, which will eventually be processed further when put in context. This type of embeddings are often used for comparing two words or for use in search algorithms. 
+There are several kinds of word embedding. First, **token embedding** is context-independent. It describes tokens before they are used in a sentence or put in relation to any other tokens. This type of embedding is often used for comparing how similar two words are or used in search algorithms. For example, the word "bank" would have a standard token embedding (in a particular model) that would be a long vector containing hundreds of floats (decimal numbers). These can start out as random numbers or the values from pre-training, which will eventually be processed further when put in context. These vectors come from comparing every vocabulary word against every other vocabulary word (with cross-wise matrix multiplication) and then condensing that comparison. Rather than a token embedding that is, say, 50,257 tokens long, machine learning tasks calculate the most "different" components to reduce the lengths of the token vectors substantially. In the GPT-3 and GPT-4 models, the vectors are 12,288 numbers long, and these are considered "dimensions" that will be compared once tokens' are put in context.
 
 <!-- word embedding IS feature extraction, as it moves from a sparce vector (matrix multiplication of every word in vocab, through a BOW (likely CBOW) to dimension sized denser weighted initial embedding vector) -->
 
-The second kind of embedding is **contextual embedding**, which describes each token as it exists in a string of particular other tokens. Its vector values have been modified to represent the specific context of the tokens around it in this specific case. In a classic example, the vector for "bank" changes when it is either in the sentence, "I went to the river bank," or in "I need to get money from the bank." Finally, the **position embedding** will change the word vector again to describe its particular place in a sentence. For example, the word "today" will have a slightly different embedding in the sentence "Today might be sunny," than in, "It might be sunny today." 
+The second kind of embedding is **contextual embedding**, which describes each token as it exists in a string of particular other tokens. Its vector values have been modified to represent the specific context of the tokens around it in this specific case. This changes their dimensions, by multiplying them against other [vectors and against the weights created during training. Weights encourage or discourage based on scoring and probabilities.] [XXXXXXXXXXXXXXXXXXXXXXXXXXXXX] In a classic example, the vector for "bank" changes when it is either in the sentence, "I went to the river bank," or in "I need to get money from the bank." Finally, the **position embedding** will change the word vector again to describe its particular place in a sentence. For example, the word "today" will have a slightly different embedding in the sentence "Today might be sunny," than in, "It might be sunny today." 
 
 We will return to these two in "self-attention" below.
 
@@ -175,33 +172,6 @@ We will return to these two in "self-attention" below.
 
 How are these word embeddings modified in complex language models? This happens in **Transformer** model architectures, using the 
 
-<!-- cross-wise matrix association --> 
-
-**Vectorization.** 
-
-```python
-def init_tok2vec(
-    nlp: "Language", pretrain_config: Dict[str, Any], init_config: Dict[str, Any]
-) -> bool:
-    # Load pretrained tok2vec weights - cf. CLI command 'pretrain'
-    P = pretrain_config
-    I = init_config
-    weights_data = None
-    init_tok2vec = ensure_path(I["init_tok2vec"])
-    if init_tok2vec is not None:
-        if not init_tok2vec.exists():
-            err = f"can't find pretrained tok2vec: {init_tok2vec}"
-            errors = [{"loc": ["initialize", "init_tok2vec"], "msg": err}]
-            raise ConfigValidationError(config=nlp.config, errors=errors)
-        with init_tok2vec.open("rb") as file_:
-            weights_data = file_.read()
-    if weights_data is not None:
-        layer = get_tok2vec_ref(nlp, P)
-        layer.from_bytes(weights_data)
-        logger.info("Loaded pretrained weights from %s", init_tok2vec)
-        return True
-    return False
-```
 Token to vector means taking the initial embedding (or are these from pretrain) and adding weights: Query, Key, and Value weights (model size not vocab size) that were pretrained. Then attention layers adjust these for context embedding. 
 
 >"Even in technical use, vectorization is a tool for abstraction, for transforming ordinary tabular data into malleable orientations in multidimensional space (cf. Mackenzie 2017). Vector spaces are the symbolic terrain on which much of the labor of machine learning works, and they provide a widespread metaphorical language across the software industry. Startup founders describe their employees as vectors; venture capitalists describe the companies they fund as vectors; in ordinary conversation, engineers will describe unrelated things as “orthogonal” to each other." [@seaverCareScaleDecorrelative2021a]
