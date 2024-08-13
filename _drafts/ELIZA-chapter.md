@@ -20,11 +20,11 @@ date: 09 Aug 2024
    - [Datasets, Models, and Inferences; Scripts and Transcripts][XXX]
    - Transformers and Transformation Rules
    - Tokenizers and TREAD
-   - When Words Become Numbers
+   - Embedding and Encoding
    - Self-Attention and Sequence Reader
       - Positional Encoding and SLIP Lists
-   - Top_K / Probability Norming and A Certain Counting Mechanism
-   - Reinforcement Learning and ED
+   - Pseudorandomness and A Certain Counting Mechanism
+   - Reinforcement and CHANGE
    - Guardrails and Keywords
 4. Delusions of Agency: The 'Human' Doesn't Help <!-- should this go into the understanding conclusion? --> (Cautions & Promises)
 
@@ -33,7 +33,7 @@ date: 09 Aug 2024
 
 Just as Joseph Weizenbaum did not expect ELIZA to [become a chatbot sensation], generative AI and large language models (LLMs) did not start out as chatbots either. Yet, something seems to shift — or even expand and explode — when conversation "enters the chat." The chatbot form has figured prominently in both systems' rise to prominence. In both cases, the use of artificial agent interfaces — e.g. chatbots, assistants — facilitated the pivot from tech industry niche awareness into household names, creating widespread misunderstandings in their wake. This pivot echos the gap between cultural understandings of AI hype and the material sociotechnical processes that support actual AI systems more broadly. A divide persists between how [technologists] understand and use [LLMs/GPTs/AI/ELIZA] and how [publics/cultures/society] understand and use them.[^terms] 
 
-This chapter will compare ELIZA and LLMs, by examining their related foundational concepts, structures, and technical processes. It will focus on the public's misattribution of intelligence and complexity in both systems that belies their comparative simplicity. Then it will address how Weizenbaum's critique of computation applies to emerging machine learning practices and generative AI, and how it can [help prefigure alternate futures for LLMs and AI systems/point to future alternatives for AI systems][xxx]. Generative AI is having its own "ELIZA effect" moment [@turkleAloneTogetherWhy2011], and and ELIZA is both a promise and a harbinger. 
+This chapter will compare ELIZA and LLMs, by examining their related foundational concepts, structures, and technical processes. It will focus on the public's misattribution of intelligence and complexity in both systems that belies their comparative simplicity. Then it will address how Weizenbaum's critique of computation applies to emerging machine learning practices and generative AI, and how it can [help prefigure alternate futures for LLMs and AI systems/point to future alternatives for AI systems][xxx]. LLMs and generative AI are having their own "ELIZA effect" moment [@turkleAloneTogetherWhy2011], and ELIZA is both a promise and a harbinger. 
 
 <!-- Many early NLP projects were designed for translation work, often as part of WWII and post-war/Cold War efforts. This continues today, including with the Transformer architecture itself, which was designed originally for translation work then expanded to multi-purpose tasks. -->
 [^terms]: Let's quickly lay to rest some misunderstandings as we get started: 'AI' itself is a blurry cultural concept, not a distinct technical definition. The term most often refers to a system as a whole, as shorthand for a whole set of processes that taken individually would not be considered 'intelligent'. Here I will try to use 'AI systems' wherever possible as a reminder that they can include some or all of infrastructures, networks, hardware, software, people, policies, algorithms, datasets, models, inferences, impacts, and cultural imaginaries by some definitions. Some of the processes in AI systems can be machine 'learning' tasks, which are designed to re-incorporate their results back into the software program by storing and updating saved values (parameters), thus altering subsequent runs of the program. I put 'learning' in scare quotes, because like Weizenbaum's ELIZA these systems are not 'learning' nor 'intelligent', of course. Rather, their conversational interfaces mask the scale and surprising simplicity of their operations and calculations, allowing the hype that surrounds them to [override logic/become the focus].
@@ -53,14 +53,14 @@ The personas attributed to their chatty interfaces also mask these systems' tech
 
 >"ELIZA in its use so far has had as one of its principal objectives the concealment of its lack of understanding. [@weizenbaumELIZAComputerProgram1966]
 
-Similarly, large machine learning models, which have taken on many forms and interfaces, have [drafted on] the chatbot interface to [gather cultural cache], when chatbot products were not their initial design goal either. OpenAI specifically eschewed training on dialogue when creating its GPT-2 model: "While dialog is an attractive approach, we worry it is overly restrictive. The internet contains a vast amount of information that is passively available without the need for interactive communication" [@radfordLanguageModelsAre2019]. Only in GPT's fourth iteration (ChatGPT/GPT-3.5) did OpenAI add dialog-style fine-tuning on top of its prior generic training to create its now-familiar chatbot interface, which truly launched it as a household sensation. This converted the prior GPT-3 model into an accessible format for widespread (freemium) non-expert use. Earlier versions had been released to open-source tech communities — GPT-2 was released in piecemeal with dire, overhyped warnings about the models' abilities and potentials, which is ironic given the continued expansion and extraction undertaken by OpenAI since [@radfordBetterLanguageModels2019]. OpenAI now releases closed-source tools, but as far as the company will reveal, much of the exponential expansion of its model from GPT-3 to 3.5 to 4 etc. has been in additional training meant to shift its purpose toward its chatbot interface — including fine-tuning using question answering and reinforcement learning. It does not focus on building broad new domain knowledge, honing language 'understanding' skills, or applying new architectures [@brownLanguageModelsAre2020; @openaiGPT4TechnicalReport2024; @ouyangTrainingLanguageModels2022]. Of course chatbots existed well before, but the combination of a sufficiently large model with the chatbot fine-tuning and easy web interface have allowed for its smooth, seemingly 'knowledgeable' interaction, making the system take off as ChatGPT.
+Similarly, so-called causal language models, including the most popular LLMs and their variations, have [drafted on] the chatbot interface to [gather cultural cache]. However, chatbot products were not their initial design goal either. OpenAI specifically eschewed training on dialogue when creating its GPT-2 model: "While dialog is an attractive approach, we worry it is overly restrictive. The internet contains a vast amount of information that is passively available without the need for interactive communication" [@radfordLanguageModelsAre2019]. Only in GPT's fourth iteration (ChatGPT/GPT-3.5) did OpenAI add dialog-style fine-tuning on top of its prior generic training to create its now-familiar chatbot interface, which truly launched it as a household sensation. This converted the prior GPT-3 model into an accessible format for widespread (freemium) non-expert use. Earlier versions had been released to open-source tech communities — GPT-2 was released in piecemeal with dire, overhyped warnings about the models' abilities and potentials, which is ironic given the continued expansion and extraction undertaken by OpenAI since [@radfordBetterLanguageModels2019]. OpenAI now releases closed-source tools, but as far as the company will reveal, much of the exponential expansion of its model from GPT-3 to 3.5 to 4 etc. has been in additional training meant to shift its purpose toward its chatbot interface — including fine-tuning using question answering and reinforcement learning. It does not focus on building broad new domain knowledge, honing language 'understanding' skills, or applying new architectures [@brownLanguageModelsAre2020; @openaiGPT4TechnicalReport2024; @ouyangTrainingLanguageModels2022]. Of course chatbots existed well before, but the combination of a sufficiently large model with the chatbot fine-tuning and easy web interface have allowed for its smooth, seemingly 'knowledgeable' interaction, making the system take off as ChatGPT.
 
 <!-- Now have become synechdoche: Many users interpret all computing as AI and all AI as ML and all ML as LLM and all LLM as ChatGPT, and cut out the middle men, in this moment every AI fantasy is a version of ChatGPT. To the horror of CS/developers.  -->
 
 
 # So, It Quacks Like a Duck, But How Does It Work?
 
-Although today's large language models have compounded how many processes occur and how quickly they take place, the processes themselves remain basic mathematic procedures, not intelligent or complex predictions. The intricacy of these systems comes from their exponential increase in size and processing speed, not the sophistication of their calculations, which involve mostly matrix multiplication and linear algebra. This is a difference of scale, rather than kind or category. ELIZA proves that seemingly sophisticated mechanisms can in fact be quite simple. The structure of ELIZA reminds us that chatbots, like other computational models, are but logical operations and calculations — compounding and confounding though they may grow to be. The number of processes, the speed with which they are computed, and their compounding social effects together yield the same illusion that Weizenbaum spoke of when he sought a plausible contextual frame and format for DOCTOR that would leave enough to the imagination that would maintain the illusion for his conversational agent. Weizenbaum's words ring true today:
+Although today's language models have compounded how many processes occur and how quickly they take place, the processes themselves remain basic mathematic procedures, not intelligent or complex predictions. The intricacy of these systems comes from their exponential increase in size and processing speed, not the sophistication of their calculations, which involve mostly matrix multiplication and linear algebra. This is a difference of scale, rather than kind or category. ELIZA proves that seemingly sophisticated mechanisms can in fact be quite simple. The structure of ELIZA reminds us that chatbots, like other computational models, are but logical operations and calculations — compounding and confounding though they may grow to be. The number of processes, the speed with which they are computed, and their compounding social effects together yield the same illusion that Weizenbaum spoke of when he sought a plausible contextual frame and format for DOCTOR that would leave enough to the imagination that would maintain the illusion for his conversational agent. Weizenbaum's words ring true today:
 
 >"machines are made to behave in wondrous ways, often sufficient to dazzle even the most experienced observer. But once a particular program is unmasked, once its inner workings are explained in language sufficiently plain to induce understanding, its magic crumbles away; it stands revealed as a mere collection of procedures, each quite comprehensible. The observer says to himself 'I could have written that'." [@weizenbaumELIZAComputerProgram1966]
 
@@ -78,18 +78,18 @@ We will discuss ELIZA's:
 <!-- - SLIP's list [processor/parser] in relation to LLM's **tokenization** process, (ELIZA script, lines 250-290, SLIP lines [XX]) -->
 <!-- - `S=SEQRDR` **sequence reader** (line 262 ELIZA) of input in relation to `self-attention` with `decompose_pattern` \ `reassemble_rule`//recompose `transformation` \
   - - Positional Encoding and SLIP Lists: Lists in SLIP created a new form of Array that allowed for more complex relational data structures to represent strings of text [@bobrowListProcessingExtension1964a]. characters had relations to other characters next to them, a proto understanding of 'positional encoding' -->
-- its **certain counting mechanism** using its `memory_rule` (ELIZA script lines 315-331) in relation to transformer probability `top_k` or others, the normalizing `softmax` into into an answer that feels human
+<!-- - its **certain counting mechanism** using its `memory_rule` (ELIZA script lines 315-331) in relation to transformer probability `top_k` or others, the normalizing `softmax` into into an answer that feels human -->
 - Reinforcement Learning and ED: ED in relation to the supposedly dynamic nature of ML, see reinforcement learning 
 
 ## Datasets, Models, and Inferences; Scripts and Transcripts
 
-Let's first distinguish between **model training** and **inference making**. Model training happens when the language model is being created by its programmers. Its processing a collection of datasets through a pre-determined structure, in order to create a customized set of rules it can refer back to when making inferences [@cistonCRITICALFIELDGUIDE2023]. The output is a set of files that are not human-readable. For a system like ELIZA, the equivalent would be a programmer writing a script like DOCTOR. The output is a programmed script stored on punchcards that the computer can reproduce. 
+Let's first distinguish between **model training** and **inference making**. Model training happens when the model is being created by its programmers. Its processing a collection of datasets through a pre-determined structure, in order to create a customized set of rules it can refer back to when making inferences [@cistonCRITICALFIELDGUIDE2023]. The output is a set of files that are not human-readable. For a system like ELIZA, the equivalent would be a programmer writing a script like DOCTOR. The output is a programmed script stored on punchcards that the computer can reproduce. 
 
-Then inference making happens when a user writes a prompt and awaits an answer. For large language models, this is when an existing model that has already been trained is now running. A user can write a prompt and the output is a generated text reply on screen. For ELIZA, this would be most similar to a user sitting at the keyboard and interacting with an existing script. The output is a transcript printed on a teletype machine. This is a metaphorical comparison not a literal one, but we are distinguishing for both LLMs and ELIZA the parts of a program running that happen during program creation and programmer interaction (model training, script writing) and program running and user interaction (inference making, script running).
+Then inference making happens when a user writes a prompt and awaits an answer. For LLMs, this is when an existing model that has already been trained is now running. A user can write a prompt and the output is a generated text reply on screen. For ELIZA, this would be most similar to a user sitting at the keyboard and interacting with an existing script. The output is a transcript printed on a teletype machine. This is a metaphorical comparison not a literal one, but we are distinguishing for both LLMs and ELIZA the parts of a program running that happen during program creation and programmer interaction (model training, script writing) and program running and user interaction (inference making, script running).
 
 Weizenbaum imagined ELIZA as a generalizable tool, not only a therapy bot, but at the time it would have been impossible to create one all-purpose tool like today's "zero-shot" LLMs, designed to respond without being given prior examples. Still, Weizenbaum describes ELIZA's ability to process any kind of script, or multiple scripts: "the idea of the script has been generalized so that now it is possible for the program to contain three different scripts simultaneously and to fetch new scripts from among an unlimited supply stored on a disk storage unit, intercommunication among coexisting scripts is also possible" [@weizenbaumComputerPowerHuman1976]. He built ELIZA to process different scripts to be used for different tasks. The DOCTOR script is the best known, and became synonymous with ELIZA; however, each script was customized and hand-programmed to its particular task. Weizenbaum collaborated with psycholgists for the DOCTOR script, the mathematicians for the math scripts, and with poet Barry Sparks for the poetry script [XXX-CITE]. Both ELIZA and LLMs offer adaptable tools; but ELIZA demonstrates domain-specific interchangeability and considers specialized setting and context, while the contemporary big-data approach collects as much information as possible for one giant multi-tool of a model, upon which later customizations can be made.
 
-One of the first steps in building a language model is to gather the collection of texts used to train the model. For predictive, generative models, the training corpus must be large enough to show the model millions of examples of text characters in order for it to develop a statistical model of which characters more often follow which other characters. The first OpenAI GPT used BookCorpus, a proprietary dataset of "11,038 books from the web" described as "free written by yet unpublished authors," in the genres of romance, fantasy, science fiction, teen, etc. for an initial unsupervised pre-training of its model [@zhuAligningBooksMovies2015]. In GPT-2, OpenAI added WebText, a proprietary scraping of all websites mentioned on Reddit posts up through December 2017 which had a "karma score" of 3 or higher and were longer than 128 tokens,[^tokens] resulting in 45 million links and over 8 million documents, which they expanded on as WebText2 when building GPT-3. The karma score, they argue, is "a heuristic indicator for whether other users found the link interesting, educational, or just funny" [@radfordLanguageModelsAre2019]. For GPT-3, this corpus along with Wikipedia were used to train the model disproportionately more than other datasets — overfit such that they were trained on approximately three times over, whereas other text datasets were used only in part and only once — because the designers considered their Reddit and Wikipedia datasets to be of "higher-quality" [@brownLanguageModelsAre2020]. Deferring to Reddit and Wikipedia as the [curators/arbiters] of ethical, useful, educational, or meaningful content for an all-purpose language model is questionable at best. The GPT-3 training data also included a slice of CommonCrawl web data representing 2016 to 2019, a Wikipedia dataset, and an additional larger Books2 dataset (proprietary but presumably with similar content to Books1/BookCorpus) [@brownLanguageModelsAre2020].
+One of the first steps in building a language model is to gather the collection of texts used to train the model. For predictive, generative models, the training corpus must be large enough to show the model millions of examples of text characters in order for it to develop a statistical model of which characters more often follow which other characters. The first OpenAI GPT used BookCorpus, a proprietary dataset of "11,038 books from the web" described as "free written by yet unpublished authors," in the genres of romance, fantasy, science fiction, teen, etc. for an initial unsupervised pre-training of its model [@zhuAligningBooksMovies2015]. In GPT-2, OpenAI added WebText, a proprietary scraping of all websites mentioned on Reddit posts up through December 2017 which had a "karma score" of 3 or higher and were longer than 128 tokens,[^tokens] resulting in 45 million links and over 8 million documents, which they expanded on as WebText2 when building GPT-3. The karma score, they argue, is "a heuristic indicator for whether other users found the link interesting, educational, or just funny" [@radfordLanguageModelsAre2019]. For GPT-3, this corpus along with Wikipedia were used to train the model disproportionately more than other datasets — overfit such that they were trained on approximately three times over, whereas other text datasets were used only in part and only once — because the designers considered their Reddit and Wikipedia datasets to be of "higher-quality" [@brownLanguageModelsAre2020]. Deferring to Reddit and Wikipedia as the [curators/arbiters] of ethical, useful, educational, or meaningful content for an all-purpose language model is questionable at best. The GPT-3 training data also included a slice of CommonCrawl web data representing 2016 to 2019, a Wikipedia dataset, and Books1 and Books2 (proprietary but presumably with similar content to BooksCorpus) [@brownLanguageModelsAre2020].
 
 [^tokens]: For more on tokens, see "Tokenizers and TREAD" below.
 
@@ -98,12 +98,15 @@ One of the first steps in building a language model is to gather the collection 
 [XXX][Come back and redo this a bit, but still short]
 
 While what happens next in each tool is quite different — ELIZA uses a series of "transformation rules" and LLMs use a combination of probabilistic and procedural manipulations — both perform [XXX][]. The kinds of transformation ELIZA describes in its "transformation rules" (see "How ELIZA Works" Ch [XX]) are very different from the kinds of transformation a "transformer" model connotes with the same word. Transformers were originally designed as models for language translation, meant to convert existing information in one language into the same information in another language. Now as GPTs (Generative Pretrained Transformers), transformer models tasks abound. They generate many types of media, convert media to other media, answer questions, fill in blanks, and even translate — after a [many layered process of weighted probabilities and matrix multiplication]. ELIZA's transformations had an equally stunning effect with much simpler transformations. It might convert something like, `MY MOM THINKS I'M GREAT` to `TELL ME MORE ABOUT YOUR FAMILY`. 
+
+<!-- *Just a different pattern. Transformers create units of characters and probabilities to describe which units are more likely to follow the current ones. This is not so different from JW's patterns of decomposition and recomposition. The transformers and diffusers scale up better, more powerfully, yes, but they are no more "intelligent" and have no more "agency" than JW's did.* -->
+
 <!-- The string of text is "decomposed," tested, and "reassembled" according to the template of the selected transformation rule.  -->
 <!-- >>>- SLIP's list [processor/parser] in relation to LLM's **tokenization** process, (ELIZA script, lines 250-290, SLIP lines [XX]) -->
 
 ## Tokenizers and TREAD 
 
-In both ELIZA and LLMs, a user's prompt becomes an input string of text that will be "decomposed" on its way to providing a response to the user. These transformations start with **tokenization**, whether training or running a large language model, or else being parsed in ELIZA. Tokenization is the process which determines where to break up a text into words (or word fragments) called "tokens" so that each part can be used by a software program. It follows a series of predetermined rules to parse text. For example, very simple tokenization might break a text string at every space, lowercase everything, and remove all punctuation. It might include "lematization," trimming each word into its infinitive form: "running" and "runs" both become "run." 
+In both ELIZA and LLMs, a user's prompt becomes an input string of text that will be "decomposed" on its way to providing a response to the user. These transformations start with **tokenization**, whether training or running an LLM, or else being parsed in ELIZA. Tokenization is the process which determines where to break up a text into words (or word fragments) called "tokens" so that each part can be used by a software program. It follows a series of predetermined rules to parse text. For example, very simple tokenization might break a text string at every space, lowercase everything, and remove all punctuation. It might include "lematization," trimming each word into its infinitive form: "running" and "runs" both become "run." 
 <!-- [We will discuss more complex tasks too like vocabulary lists, encoding, and cross-wise matrix association.] -->
 
 Tokenization can be done automatically by software libraries like NLTK or SpaCy, and the boundaries of words will be largely determined by those libraries built in tools. Will they maintain proper nouns and places? Keep contractions together? It depends on the standards set and decisions made by programmers in advance. Depending on the tokenization technique, these tools can include a preset vocabulary list, language-specific standards for grammar, and special cases for domain-specific issues, parsed using regular expressions. 
@@ -128,178 +131,87 @@ Those numbers are the `token_id`s for each word, based on its position in a voca
 
 [^seqrdr]: For more on the `SQEQRDR` function used for navigating those lists, see "Self-Attention and Sequence Reader" below.
 
-
-<!-- ELIZA takes the list of words and uses `S=SEQRDR.(INPUT)` (ELIZA, line 262) to compare it to a list of all the keywords in the script it is running,`SCANER=SEQRDR.(KEY(I))` (ELIZA, line 282).  The process of  -->
-
-<!-- ```
-                    I=HASH.(WORD,5)                                                 
-                    SCANER=SEQRDR.(KEY(I))                                          
-                    SF=0                                                            
-                    T'H SEARCH, FOR J=0,0, SF .G. 0                                 
-                    CAND= SEQLR.(SCANER,SF)                                         
-                    W'R SF .G. 0, T'O NOTYET                                       
-    SEARCH          W'R TOP.(CAND) .E. WORD, T'O KEYFND                            
-    KEYFND          READER=TESTS.(CAND,S)                                           
-                    W'R READER .E. 0, T'O NOTYET 
-
-``` -->
-
 Meanwhile, GPT-3 has a vocabulary of 50,257 tokens, built from an involved tokenization process during training that combines the 'rule-based' techniques described above with another set of 'character-based' tokenization processes: First, procedural 'rule-based' tokenization like that described above is performed on dataset and only the most frequent words are retained in a list, as well as the number of times they appear.[^rule-based] Next, 'character' tokenization is performed - not on the entire dataset, but on that vocabulary list. Called **byte-pair encoding**, this process begins with single characters (or bytes) and finds the two characters that appear most frequently together. Repeating this, it looks for the next most frequent pairs of characters, then three-character strings, and so on, until common words in a dataset have been determined. In this case, the initial vocabulary list will be the set of characters (e.g. 256 bytes + `<|endoftext|>`), which will be paired together by frequency of co-occurance until a new vocabulary list is created, its length determined by an arbitrary cutoff (e.g. 50,000 merges), optimized for "performance." The result is a text broken into computer-readable tokens, often not whole words but subwords [@SummaryTokenizers]. Byte-pair encoding was originally used for data compression and later applied to text [@sennrichNeuralMachineTranslation2015]. The use of frequency as a means to sort and create tokens means that only the most common words in a training dataset will be retained in the model, while less frequently encountered words are "decomposed" to be represented as combinations of subwords, e.g. `["Transform", "ers"]` becomes two tokens instead of one [@SummaryTokenizers]. Vocabulary and patterns of text that are less common to that dataset are less recognizable, less likely to resurface, and more likely to be lost. 
 
 [^inference-time]: At model inference time, the process looks much more simple at this stage. It finds the `token_id` for each token in a vocabulary lookup table that was created during training, then uses the `token_id` to look up the longer embedding information about each token, which was also determined during training. It also retains information about the token's position in the sequence. This is discussed more below in "Self-Attention and Sequence Reader."
 
 [^rule-based]: OpenAI's initial models used the spaCy tokenizer, which "iterates over space-separated substrings." Then it checks those substrings against any "explicitly defined special case," then looks for a "token match" (like a keyword) which means it retains the token. Then it checks for prefixes and suffixes and if found returns to check again for special cases and tokens. Next it looks for URLS, hyphens, and other characters to split the substrings, and anything that remains is treated as a single token [@LinguisticFeaturesSpaCy]. Compare this with ELIZA's tokenizer, which similarly breaks strings at any blank character, any `.`, `,`, or `but`. 
 
-## When Words Become Numbers
+## Embedding and Encoding
 
 In both ELIZA and in LLMs, strings of words [are/can be] represented by numbers. Making text (or sights, sound, heartbeats) "machine-readable" always involves conversion to numeric data. Turning words into numbers allows programs to perform calculations on words or parts of words, transforming them and comparing them just like any other kind of information. This is so basic it seems not worth mentioning, yet it is at the center of both the promise and problems of computation. 
 
-ELIZA hashes input words, as we mentioned, and its SLIP functions make lists that represent words as six-bit items and their "addresses" or location in physical memory. The SLIP function `ID(A)` recalls the machine address for [list item/cell] `A`. The function `MADOV(A)` does the opposite; it takes a machine address `A` and returns its associated word from that [cell] [@weizenbaumSymmetricListProcessor1963].[^machine-language]This is the necessity of word embedding. 
+ELIZA hashes input words, as we mentioned, and its SLIP functions make lists that represent words as six-bit items and their "addresses" or location in physical memory. The SLIP function `ID(A)` recalls the machine address for [list item/cell] `A`. The function `MADOV(A)` does the opposite; it takes a machine address `A` and returns its associated word from that [cell] [@weizenbaumSymmetricListProcessor1963].[^machine-language] [This is the necessity of word embedding.]
 
-[^machine-language]: SLIP was written as a set of machine language subroutines and functions. Eventually all machine language, like higher-order languages, must be converted into binary signals, which are then converted to electrical pulses that run physically through hardware. This is a simplification, but illustrates that each layer abstracts the next. Neither Weizenbaum's nor today's machines have the ability to store information like language except as math and electricity.   
+<!-- >"Even in technical use, vectorization is a tool for abstraction, for transforming ordinary tabular data into malleable orientations in multidimensional space (cf. Mackenzie 2017). Vector spaces are the symbolic terrain on which much of the labor of machine learning works, and they provide a widespread metaphorical language across the software industry. Startup founders describe their employees as vectors; venture capitalists describe the companies they fund as vectors; in ordinary conversation, engineers will describe unrelated things as "orthogonal" to each other." [@seaverCareScaleDecorrelative2021a] -->
+
+[^machine-language]: SLIP was written as a set of machine language subroutines and functions. Eventually all machine language, like higher-order languages, must be converted into digital-friendly forms that can be interpreted as binary signals, which are then converted to electrical pulses that run physically through hardware. This is a simplification, but illustrates that each layer abstracts the next. Neither Weizenbaum's nor today's machines have the ability to store information like language except as math and electricity.   
 
 **Embedding** is the process of creating a numerical representation of a token (word or subword), so that it can be related to and compared with other tokens in complex machine learning processes. This representation is a long list of numbers called a **vector**. During model training, and again during inference, that long vector gets manipulated and reduced into a single number: a normalized likelihood that the token is a good fit for that particular context. If it is predicted to be the next word in generative text sequence, for example, its resulting probability will end up very high. 
 
-There are several kinds of word embedding. First, **token embedding** is context-independent. It describes tokens before they are used in a sentence or put in relation to any other tokens. This type of embedding is often used for comparing how similar two words are or used in search algorithms. For example, the word "bank" would have a standard token embedding (in a particular model) that would be a long vector containing hundreds of floats (decimal numbers). These can start out as random numbers or the values from pre-training, which will eventually be processed further when put in context. These vectors come from comparing every vocabulary word against every other vocabulary word (with cross-wise matrix multiplication) and then condensing that comparison. Rather than a token embedding that is, say, 50,257 tokens long, machine learning tasks calculate the most "different" components to reduce the lengths of the token vectors substantially. In the GPT-3 and GPT-4 models, the vectors are 12,288 numbers long, and these are considered "dimensions" that will be compared once tokens' are put in context.
+There are several kinds of word embedding. First, **token embedding** is context-independent. It describes tokens as they were established by model training — before they are used in a sentence or put in relation to any other tokens. This type of embedding is often used for comparing how similar two words are or used in search algorithms. For example, the word "bank" would have a standard token embedding (in a particular model) that would be a long vector containing hundreds of floats (decimal numbers). These can start out as random numbers or the values from pre-training, which will eventually be processed further when put in context. These vectors come from comparing every vocabulary word against every other vocabulary word (with cross-wise matrix multiplication) and then condensing that comparison. Rather than a token embedding that is, say, 50,257 tokens long, machine learning tasks calculate the most "different" components to reduce the lengths of the token vectors substantially. In the GPT-3 and GPT-4 models, the vectors are 12,288 numbers long, and these are considered "dimensions" that will be compared once tokens' are put in context.
 
 <!-- word embedding IS feature extraction, as it moves from a sparce vector (matrix multiplication of every word in vocab, through a BOW (likely CBOW) to dimension sized denser weighted initial embedding vector) -->
+<!-- Token to vector means taking the initial embedding (or are these from pretrain) and adding weights: Query, Key, and Value weights (model size not vocab size) that were pretrained. Then attention layers adjust these for context embedding.  -->
 
-The second kind of embedding is **contextual embedding**, which describes each token as it exists in a string of particular other tokens. Its vector values have been modified to represent the specific context of the tokens around it in this specific case. This changes their dimensions, by multiplying them against other [vectors and against the weights created during training. Weights encourage or discourage based on scoring and probabilities.] [XXXXXXXXXXXXXXXXXXXXXXXXXXXXX] In a classic example, the vector for "bank" changes when it is either in the sentence, "I went to the river bank," or in "I need to get money from the bank." Finally, the **position embedding** will change the word vector again to describe its particular place in a sentence. For example, the word "today" will have a slightly different embedding in the sentence "Today might be sunny," than in, "It might be sunny today." 
+The second kind of embedding is **contextual embedding**, which describes each word or subword as it exists in a string of particular other words. Its vector values have been modified to represent the specific context of the words around it in this specific case. For our purposes, we will call words moving through a model "word vectors." This process changes the value in each position of their vectors (each "dimension"), by multiplying the vectors against other vectors as well as against the weights created during training.[^weight-training] In a classic example of contextual embedding, the word vector for "bank" changes when it is either in the sentence, "I went to the river bank," or in "I need to get money from the bank." Word vectors will also change over time as they are being manipulated through the layers of a model. For example, Sevastjanova et al. used visualizations to compare the same word vector between different layers in the same model to see how they changed, finding that in some layers they were very similar and in others they could shift quite dramatically [@sevastjanovaExplainingContextualizationLanguage2021]. Finally, **positional embedding** will change the word vector again to describe its particular place in a sentence. For example, the word "today" will have a slightly different embedding in the sentence "Today might be sunny," than in, "It might be sunny today." [This process of multiplying word vectors against each other is repeated several times, depending on the "depth" of the model (the number of layers, or number of times each "dimension" is multiplied against itself). Next, let's get into the details of how these transformations are made.][XXX-move down to attn?]
 
-We will return to these two in "self-attention" below.
+[^weight-training]: Weights are multipliers that affect data moving through each layer (stage) of the model. As such, they encourage or discourage particular patterns — multiply a datapoint by 5 and it will move to the next layer with more influence, multiply it by 0.1 and it will have almost no influence on the next layer. After beginning with random weights, the model training process establishes and finalizes what those weights should be, based on a desired outcome determined by programmers. Then, during user prompting and model inference, the weights remain the fixed numbers that were set as a result of model training. 
 
-<!-- compare with JW's transformations?? -->
+In an[other] effort to establish contextual guidelines for ELIZA, Weizenbaum added `precedence` scores as part of the keyword system. These rankings are, in a sense, weights that are manually assigned to each keyword in any script. For example, in the DOCTOR script, `(REMEMBER 5 ...` has a precedence of 5 (line 12), and `(IF 3 ...` has a precedence of 3 (line 28). Higher precedence weighs out, so in a prompt like `["IF", "I", "REMEMBER" ...]` ELIZA will prioritize the keyword `REMEMBER`, even though the keyword `IF` comes first in the sequence. The transformation rules from `((0 YOU REMEMBER )` will be applied, and ELIZA could return: `WHAT ELSE DO YOU REMEMBER`. In an LLM, such weights would be assigned statistically by training a model, rather than ELIZA's hard-coded, perhaps human-adjusted scores, but the effect works similarly. A transformer-based LLM will rank each word in a sequence as more or less important to each other word, based on its neighbors in general ("context embedding") and its specific position in the sentence ("positional encoding"). <!--should this graph go above in the encoding section or below after third graph of self-attn?-->
 
-How are these word embeddings modified in complex language models? This happens in **Transformer** model architectures, using the 
+## Self-Attention and Sequence Readers
 
-Token to vector means taking the initial embedding (or are these from pretrain) and adding weights: Query, Key, and Value weights (model size not vocab size) that were pretrained. Then attention layers adjust these for context embedding. 
+While each program goes on to perform very different operations, the technique of iterating over a text string by turning it into a list is common to both ELIZA and LLMs: An LLM converts words into a vector (an array, or list of numbers) then uses that to calculate the probability that words appear near each other. ELIZA iterates over a list of words in order, looking for keywords that match. The script has assigned each keyword a set of transformation rules that determine how ELIZA will modify the input text to create the illusion of context. 
 
->"Even in technical use, vectorization is a tool for abstraction, for transforming ordinary tabular data into malleable orientations in multidimensional space (cf. Mackenzie 2017). Vector spaces are the symbolic terrain on which much of the labor of machine learning works, and they provide a widespread metaphorical language across the software industry. Startup founders describe their employees as vectors; venture capitalists describe the companies they fund as vectors; in ordinary conversation, engineers will describe unrelated things as “orthogonal” to each other." [@seaverCareScaleDecorrelative2021a]
+In order to iterate over a string list, ELIZA uses what SLIP calls a sequence reader: `S=SEQRDR.(INPUT)` (ELIZA, line 262) initializes the variable `S` as a sequence reader to "move" across the words in the list `INPUT`. Sequence readers understand their position in a list, can use the function `SEQLR(LIST,FLAG)` to move right or `SEQLL(LIST,FLAG)` to move left, where `LIST` is the name of a list they are searching and `FLAG` is a boolean determining whether a match is found. Readers can descend into a list and can also report back their position with `LPNTR()` ("list pointer"), updating their position as they move. [Readers are essentially lists that are used to traverse other lists.] 
+
+ELIZA also attends to the context of language in other ways. When working at General Electric, Weizenbaum et al. developed a precursor to SLIP called the Knotted List Structure (KLS) that focused on organizing data in relation to other data, not only to be recalled but also to be put in association [@weizenbaumKnottedListStructures1962]. Those developing list structures at the time, including Weizenbaum, were creating some of the first relational data structures: These list data structures, like SLIP, stored the item itself, an address or index number (ID) of the item that other items could reference, plus an additional "link" to one or more other IDs — often pointing to its neighbors' addresses in the physical memory storage. SLIP supported sublists could be nested within each other, allowing for complex data structures [@weizenbaumSymmetricListProcessor1963]. Machine learning's use of word vectors for representation comes out of this history of array and list processing. The idea that a word or list item would exist in relation to its neighbors is fundamental to LLMs, in particular to self-attention and its contextual and positional embeddings. 
+
+With the latest LLMs, the process of Attention gets a lot of attention, as it is the key innovation in transformer-type models [@vaswaniAttentionAllYou2023]. The attention function walks through every word vector in a sequence and can examine many adjacent word vectors[^n-gram] in order to modify that particular word vector in relation. This creates the contextual embedding discussed above that allows for a broader relationality in causal models. LLMs are programed to compare many, or every, other word token's embedding (taken from the prior layer of the model) to each individual word token (self-attention), and they are programmed to perform many calculations in parallel (multi-head attention). They compare these through scaled dot product matrix multiplication (basic multiplication with each other and with the weights), using huge matrices the dimensions of the word vectors themselves. By repeating this process, layer by layer, the word tokens for every subword in the model are continually adjusted and finally normed to a number between 0 and 1 to represent the likelihood that they will be the next expected word or subword. 
+<!-- The self-attention function iterates (rapidly, in parallel) over a series of vectors, which are themselves lists of numbers (probabilities) describing each subword token.  -->
+
+[^n-gram]: A bit like n-grams on steroids, if you will. For example, GPT-3 has a context window of 2,048 tokens [@brownLanguageModelsAre2020], meaning for each token it examines that many adjacent tokens. 
+
+>"An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors. [...] In a self-attention layer all of the keys, values and queries come from the same place, in this case, the output of the previous layer in the encoder. Similarly, self-attention layers in the decoder allow each position in the decoder to attend to all positions in the decoder up to and including that position" [@vaswaniAttentionAllYou2023].
+
+In this function, the query is the word token that is the focus of the self-attention function at that moment. The query searches through all of the other dimensions of the model, by multiplying its dimensions by the dimensions of the keys (labels). The result is a score representing the likelihood that this word vector (the value in this key-value pair) fits the query. Next all scores get multiplied against their respective word vectors (values) [@alammarIllustratedGPT2Visualizing]. This process is performed on every pertinent token in the sequence (often in parallel) until each token has been analyzed in relation to the others. Among transformer models, there are encoder-decoder models, encoder-only models that perform this on every token in a sequence, and also decoder-only models that analyze only every token to the left of the token in question but mask all tokens to the right in order to predict the next text. 
+
+This process is the crux of transformer models that "understand" words in their context. These attention layers are sandwiched by feed forward network layers, which apply algebraic functions to find and emphasize more patterns in the data. At the end of each layer, additional functions adjust the results so they are ready to be interpreted by the next layer. Finally, each datapoint gets shifted into a range between 0 and 1, reducing it to a probability (a simple function called `softmax`). These probabilities represent the likelihood for each token in the model's vocabulary list that it could be the next token in the output sequence. 
+
+## Pseudorandomness and a Certain Counting Mechanism
+<!-- Top_K / Probability Norming / Sampling and A Certain Counting Mechanism (Memory) -->
+
+Of course, this sequence has not been written yet, so there is much that can be done to intervene! In machine learning tasks, different settings called "hyperparameters" are the variables that we can adjust to change how the model runs on our prompt and to modify its potential outputs. These hyperparameters affect the "decoding" process and help LLMs appear both 'knowledgable' and 'naturalness' through their adjustment of pseudorandomness through sampling methods. Let's look at some common hyperparameters:
+
+`temperature` is a factor that is applied to the raw outputs before they are normalized that adjusts how much impact they have. It acts as a kind of threshold. This affects whether they are passed on at all — that is, how likely they are to be passed on to the next layer as meaningful or valuable. 
+A temperature less than 1 appears to reduce 'randomness', because when the raw output is divided by the temperature it increases its value, strengthening the already strong scores. A temperature higher than 1 appears to increase 'randomness', because when the raw output is divided by the temperature it decreases its value, flattening the difference between scores to some degree. `frequency_penalty` and `presence_penalty` act on pre-normalized data to dissuade the model from choosing tokens that have been used already, either increasing with frequency or appearing at all, respectively.
+
+After norming, the word vectors are reduced to and sorted by their probability scores. Rather than outputting a single result, LLMs usually offer a list of options from which to sample. Setting different hyperparameters that intervene post-norming adjusts how much variability (or pseudorandomness) is available in that selection process. 
+
+The `top_k` hyperparameter determines how many tokens are available to sample. The tokens are sorted by score, and these scores become probabilities that a given token will be selected. Tokens higher on the list are more likely, but not guaranteed to be chosen. For example, `top_k = 30` means it will select from the top 30 most likely words based on its resulting inference, and a higher `top_k` value makes for a wilder output potential. Set `top_p` to a total likelihood instead of a number of tokens to be sampled. The hyperparameter will dynamically adjust the length of the list to include enough tokens that they sum up to that total likelihood. Other options like `min_p` and `top_a` are variations and combinations of these, which try to optimize for different tasks with differing goals. And rather than a "greedy" search, `beam_size` and `top_beams` adjust for the number of hypothetical options to search for and return [@alammarIllustratedGPT2Visualizing; @alammarIllustratedTransformer; @NaturalLanguageProcessing]. 
+
+No such hyperparameters exist in ELIZA, but several checkpoints are in place to trigger enough seeming spontenaity in order to maintain that same illusion of 'knowledge' and 'naturalness'. The most remarkable — referred to as "a certain counting mechanism" [@weizenbaumELIZAComputerProgram1966] — combines a counter and storage to lend extra mystique to the bot. Along with its keyword-based transformations, a special keyword is designated that will save its user inputs into a memory list and recalled first-in, first-out. In DOCTOR, the keyword `MY` is designated as the memory keyword, so every time the user prompts with a sequence containing `MY` it is saved to `MEMORY` after being transformed with one of these rules (based on the encoded (hashed) version of the lased word of the user prompt)(ELIZA script lines 315-331,"How ELIZA Works", Ch [XX]):
 
 ```
-ANT: The NOTYET loop is where ELIZA performs the initial pass over the user’s input text looking for keywords.
-
-263…266: skip to the end of the current word. (If S is negative it signifies the word is continued in the next cell. Keep advancing S (SEQLR) until it isn’t negative.)
-
-267: get the next word, or the first six characters of the next word if longer, from the input text into the variable WORD. SEQLR advances the sequence reader (S) to the next cell and returns the value of the datum of that cell. (The first time around the loop S is advanced from the list header to point to the first word in the list.)
-
-268: is the current WORD a period, a comma or the word “BUT?” If it is any of these it signals the end of a subclause and what ELIZA does next depends on whether any keywords have already been found. Note that the 1966 CACM paper fails to mention that “BUT” is treated as a delimiter in the same way as comma and period, yet the conversation published in that paper requires that it is.
-
-269…272: if no keyword has yet been found in the user’s input text (IT equals 0), delete all the user’s input up to and including the subclause delimiter just encountered and jump to NOTYET to continue scanning the remainder of the user’s input.
-
-273…276: otherwise, at least one keyword was already found. In this case, delete all the text from the subclause delimiter to the end of the user’s input text, and then jump to ENDTXT. The initial scan of the user’s text is now complete. If the user’s input contains multiple clauses, ELIZA will only ever respond to one of them.
-
-280: F was set on line 267 by SEQLR; it will be set to +1 if S advanced back to the list header (lists are circular), in other words we reached the end of the user input. In this case, jump to ENDTXT.
-
-AH: The value returned by SEQLR (line 267) will not be an element (i.e. the next word in the user’s input text) unless F equals 0, and yet the code does not check if it is an element until after the value has been treated as if it is an element (268). Presumably, the value returned if F is not 0 (SLIP header if F is +1; SLIP list name if F is -1) is never going to make the test on line 268 succeed, so no harm done. 
-
-281: generate a 5-bit integer from the WORD and assign it to I.
-
-282: use the value generated on line 281, which will be between 0…31, to index into the KEY hashmap. Create a sequence reader for the list at KEY(I).
-
-Every keyword specified in the script will have been hashed to one of the 32 slots in the KEY array (244…248). Some slots will be empty, because no keyword hashed to that slot. Others will have one or more transformation rules associated with that slot. For each of these we need to test whether the keyword associated with that transformation rule matches the current word in the user input text.
-
-284…287: this is a loop that repeats until either there are no more transformation rules in this KEY slot (286), or the keyword for one of the transformation rules matches the current word from the user’s input text (287). In the former case the current WORD is not a keyword so jump back to NOTYET to continue scanning the users text. In the latter case jump to the code labeled KEYFND.
-
-289: at this point in the code we know that the current word at sequence reader S in the user’s input text matches the keyword in the transformation rule list CAND. But so far we only know that up to the first six characters are the same. Call the function TESTS (see implementation above). This function will return 0 if it turns out that the whole of the word at S doesn’t match the whole of the CAND keyword. If it does match, TESTS returns a sequence reader to the matching transformation rule.
-
-290: if the words didn’t match, jump to NOTYET to continue scanning the input text.
+67  (MEMORY MY
+68      (0 YOUR 0 = LETS DISCUSS FURTHER WHY YOUR 3)
+69      (0 YOUR 0 = EARLIER YOU SAID YOUR 3)
+70      (0 YOUR 0 = BUT YOUR 3)
+71      (0 YOUR 0 = DOES THAT HAVE ANYTHING TO DO WITH THE FACT THAT YOUR 3))
 ```
+A counter called `LIMIT` with a range 0-4 keeps track of `MEMORY`'s storage state. Later when ELIZA encounters a user prompt without any keyword matches, and when `LIMIT = 4`, it will return the first-in entry from its memory list (removing it from its list to avoid reuse). This offers the human-computer interaction a sense of retained knowledge that feels like 'listening', especially in the context of a trained therapist persona. 
 
-<!-- Finally, any each word is compared that does not include a keyword match ends up ignored (ELIZA code, line 269–272).  -->
+ELIZA is designed to 'decompose and recompose' text by applying transformation rules with an element of added sampling intervening [@weizenbaumELIZAComputerProgram1966]; while LLMs 'encode and decode' text by combining programmatic and probabilistic approaches, with variables available to intervene in its sampling.
 
-## Self-Attention and Sequence Reader
-<!-- (ELIZA source code, lines 263-) -->
+## Reinforcement and CHANGE (aka ED)
+<!-- ED/CHANGE Function and Reinforcement Learning: Reinforcement Learning and ELIZA's ED/CHANGE -->
 
-
-Much like transformers, the reader advances completes its process and advances again.
-
-This relationality is important as we look at the transition to transformer-type language models, because their key innovation is an "attention" mechanism that allows them to reference more of the tokens surrounding them 
-
-
-`LPNTR()` list pointer of the reader, follows links stored in the list cells. replaces the pointer as it moves on. The reader keeps track of the thread it has followed into a structure of multiple lists, by maintaining a list of its own. 
-
->>>- `decompose_pattern` \ `reassemble_rule`//recompose `transformation` 
-
-
-
-The process of Attention gets a lot of attention, as it is the key innovation in **Transformer** architectures, the model designs used to build many of latest generative AI systems. In the aptly titled and now famous paper, "Attention Is All You Need," Vaswani et al. [-@vaswaniAttentionAllYou2023] described how an "attention function" modifies the word embeddings of tokens that are nearby each other in relation to each other, so that each word exists within a context. It is programed to perform many calculations in parallel (multi-head attention) and to compare [many/every] other token's embedding from [the prior layer of] the model to each individual token (self-attention). It compares these through scaled dot product matrix multiplication, [with a huge matrix the size of the [model/model's vocabulary][use real numbers] itself]. By repeating this process, layer by layer, the word embeddings for every token in the model are continually adjusted and finally normed to a number between 0 and 1 to represent the likelihood that they will be the next token in the phrase. 
-
-Masked self-attention (in Decoder Transformers) tells the model to examine only the tokens that would be read prior to the token in question, rather than tokens both before and after. 
-
-[lets parts of the model "see" other parts nearby/maps every token onto every other token], in order to utilize context clues — a bit like the earlier "n-gram" technique on steroids. Self-attention (love these names, right?) layers [DEFINE] come between other feed-forward [DEFINE] layers in a transformer model to 
-
-Attention, understanding what word fragments are likely to surround others. > vectorization (syntax rules and parsing) 
-
-
->>>- `S=SEQRDR.(INPUT)` **sequence reader** (line 262 ELIZA) of input in relation to `self-attention` 
-ANT: 262: initialize S to be a sequence reader for INPUT. S can “move” forwards and backwards over the cells in INPUT, which is the user’s input text in list form. Initially, S will “point” at the list “header,” i.e. it points just before the first first word in the user’s input text.
-
-`S=SEQRDR` **sequence reader** (line 262 ELIZA) of input in relation to `self-attention` the `SEQRDR` function iterates over a word list. The self-attention function iterates (rapidly, in parallel) over a series of vectors, which are themselves lists of numbers (probabilities) describing each subword token. While what operations each program goes on to perform on those words and word fragments are quite different, the technique of [iterating/reading] over a text string by turning it into a list is common to them both. The sequence reader relates to the transformation rules and determines how ELIZA creates the illusion of context. Instead of an LLM, which uses the probability that words or tokens appear near each other, ELIZA looks for transformation rules built into its scripts that will move over the input sequence and apply [decomposition and reassembly rules][xxx]. *Attention works by looking at (holding in ELIZA) everything that came before (and/not) after.*
-
-<!-- The scale layer between self-attention and its weights, and the blobby description of architecture (this is a transformer and it has decoder or encoder or both layers and those are made w attention blah blah and then there's soft max ity blah blah after) -->
-
-Attention functions involve scaled dot product matrix multiplication across the entire model, in order to compare each token to the tokens surrounding it 
-
->"self-attention layers in the decoder allow each position in the decoder to attend to all positions in the decoder up to and including that position" 
-
-**Precedence = context embedding. Relates to delimiters are position embedding.** How the transformation rule is selected is based on which keyword is found and prioritized, from preassigned `precedence` values. In an LLM, this would be analogous to the stochastically determined values given to particular tokens in the attention process, which rate them more or less important to the phrase based on their position in the sentence (`position embedding`) and their context (`context embedding`).
-<!-- Weizenbaum wrote the ELIZA code to apply "transformation rules," or "templates" to the text inputs, by searching the text for keywords [@weizenbaumELIZAComputerProgram1966].  -->
-
->>>- ELIZA `precedence` in relation to `context embedding` and `position embedding`. 
-
->>>- Positional Encoding and SLIP Lists: Lists in SLIP and other early structures created a new form of Array that allowed for more complex relational data structures to represent strings of text [@bobrowListProcessingExtension1964a]. characters had relations to other characters next to them, a proto understanding of 'positional encoding'
-
-And generally caring what's next to what.
-
-Weizenbaum et al in Knotted List Structures paper when he was at General Electric Computer Laboratory. Developing the list structure was about organizing data in relation to other data. Not only so that it could be recalled but so that it could be put in association. [@weizenbaumKnottedListStructures1962]. Those developing list structures at the time, including Weizenbaum, were creating some of the first relational data stuctures: storing the item itself, an index number (ID) or address for that item, plus an additional "link" to identify it in relation to other items — often pointing to its neighbor's address in the physical memory storage. With SLIP lists, sublists could be nested within each other, allowing for complex data structures [@weizenbaumSymmetricListProcessor1963]. All of the lists that make up word vectors and other machine learning repersentation come out of this history of array and list processing. 
-
-
-
-**Auto-regression.** Once the next token is generated as output, it is tacked onto the end of the input sequence and the whole process begins again. This is called auto-regression.
-
-<!-- GPT-3 final vocabulary size was 50,257 (a base vocabulary of 256 bytes + an end-of-sequence symbol + 50,000 merges from the byte-pair encoding process).  -->
-Then An embedding matrix of every word in that list x every other word. Random or 0 v 1. 
-Then PCA it down to 12,288 dimensions. And—does this happen before or after the byte pair encoding??
-
-Queries = the search term, the token in question re the self attention focus at the time. 
-Keys = ie. the label on the folder. the vector representing a likelihood of fit, answering the query. multiplying by query results in a score. *how is this different from the value itself, why not multiply by the whole thing, is it contextual and the value independent or what?* Is it how relevant it's expected to be? A descriptor of its contents, yes, 
-Values = ie. the info in the folder. the words (as word vectors) that correspond to each key
-
-All lookup tables, mapping functions, and matrix multiplication. 
-
-
-## Top_K / Probability Norming / Sampling and A Certain Counting Mechanism (Memory)
-
->>>- its **certain counting mechanism** using its `memory_rule` (ELIZA script lines 315-331) in relation to transformer probability `top_k` or others, the normalizing `softmax` into into an answer that feels human
-
-The next token is chosen ‘sampling' based on its likelihood to appear next. But this outcome can be controlled greatly by different settings, called “hyperparameters” selected by us when making an inference (running a prompt through the model). 
-
-`temperature` is a factor that is applied to the raw outputs of each layer that adjust how much impact they have, that is, how likely they are to be considered and passed on to the next layer as meaningful/valuable. 
-
-`top_k` sets the number of ‘likely' subwords that will be chosen from. A higher number makes for a wilder output. [We adjust this and display this to see in our poetry machine what possibilities might have been.] Perhaps we also look for a random_k or a bottom_k? What would it mean to search by a different value than likelihood?
-
-
-The **`top_k`** [hyper]parameter is like Weizenbaum's **"certain counting mechanism"**, which adds an element of randomness in case the generator gets stuck in a repetitive loop (see Chapter [XX]). `Top_k` adjusts how often the model will select a token other than the topmost result from its probability stack, just as the counting mechanism [XXX][did what it did.] Technically, it samples from a larger list of its subword tokens, and uses those scores as probabilities that each would be selected. Therefore higher scores mean higher likelihood, but not guaranteed selection. For example, `top_k = 30` means it will select from the top 30 most likely words based on its resulting inference. [@alammarIllustratedGPT2Visualizing]
-
-`top_p` dynamically changes the size of `top_k`. Set the sum of their total likelihood instead of the number of words in the sample list.
-
-Other options like `min_p` and `top_a` are variations and combinations of these, which try to optimize for different tasks with differing goals. 
-
-`frequency_penalty` and `presence_penalty` (pre-normalized) dissuade from choosing tokens that have been used already, either increasing with frequency or appearing at all, respectively.
-
->"decompose/recompose" [@weizenbaumELIZAComputerProgram1966] = decoder/encoder of transformers
-
-In ELIZA, no such attention mechanism exists, but transformation rules 
-
-
-<!-- *Just a different pattern. Transformers create units of characters and probabilities to describe which units are more likely to follow the current ones. This is not so different from JW's patterns of decomposition and recomposition. The transformers and diffusers scale up better, more powerfully, yes, but they are no more "intelligent" and have no more "agency" than JW's did.* -->
-
-## ED/CHANGE Function and Reinforcement Learning: Reinforcement Learning and ELIZA's ED/CHANGE
+>"RLHF" (Weizenbaum adjusts his script when doesn't work, see in diff versions of script (see CH [XX]))
 
 ED/CHANGE in relation to the supposedly dynamic nature of ML
   - >"An important consequence of the editing facility built into ELIZA is that a given ELIZA script need not start out to be a large, full-blown scenario. On the contrary, it should begin as a quite modest set of keywords and transformation rules and permitted to be grown and molded as experience with it builds" [@weizenbaumELIZAComputerProgram1966] 
-  - Because Weizenbaum wrote ELIZA with an editor ED built in, ELIZA was a dynamic program adaptable to its programmers' — and its users' — ongoing adaptations. This dynamism makes it a nascent ancestor of today's language models 
+  - Because Weizenbaum wrote ELIZA with an editor ED built in, ELIZA was a dynamic program adaptable to its programmers' — and its users' — ongoing adaptations. This dynamism makes it a nascent ancestor of today's causal models 
 
 ```ELIZA
 257    W'R TOP.(INPUT) .E. $+$                                             
@@ -310,15 +222,9 @@ ED/CHANGE in relation to the supposedly dynamic nature of ML
 257…260: if the first character of the user’s input was a ‘+’ call the CHANGE function and then return to the start of the conversation loop. The CHANGE code is shown above. It allows the user to edit the script rules on the fly.
 ```
 
+<!-- Meanwhile, the DOCTOR script and every other ELIZA script also contains a sort of vocabulary list, composed of the most anticipated words it would encounter.  -->
 
->"RLHF" (Weizenbaum adjusts his script when doesn't work, see in diff versions of script (see CH [XX]))
-
-
-
-Meanwhile, the DOCTOR script and every other ELIZA script also contains a sort of vocabulary list, composed of the most anticipated words it would encounter. This is the collection of keyword rules found in each script. It has been composed by hand, with responses also composed by hand. These were appended and adjusted over time after interaction with ELIZA. [XXX][expand] 
-
-
-[XXX][Move Guardrails down, tokenizers etc here]
+This is the collection of keyword rules found in each script. It has been composed by hand, with responses also composed by hand. These were appended and adjusted over time after interaction with ELIZA. [XXX][expand] 
 
 ## Guardrails and Keywords
 
@@ -577,6 +483,7 @@ Therefore, when considering ELIZA or a Transformer model, it is useful to consid
 <!-- Companies have created or borrowed giant datasets like Common Crawl Corpus (which includes much of the social web, like Wikipedia and Reddit) or The Pile (which itself combines Common Crawl Corpus and other common datasets) [@gaoPile800GBDataset2020; @PapersCodeC4]. In order to speed up this process, new model builders will often train on top of pre-existing "foundation models." This can save resources but poses the risk of perpetuating and amplifying the potentially harmful information included in those prior models.  --> 
 
 
+<!-- `top_k` sets the number of 'likely' subwords that will be chosen from. A higher number makes for a wilder output. [We adjust this and display this to see in our poetry machine what possibilities might have been.] Perhaps we also look for a random_k or a bottom_k? What would it mean to search by a different value than likelihood? -->
 
 
 
@@ -753,3 +660,71 @@ def tokenizer_pseudo_code(
 <!-- These `KEYWORDS` work not unlike the guardrails in current safety and alignment tasks  -->
 
 <!-- that protect ML systems from performing any and all activity that users prompt. Through what OpenAI call 'safety mitigations', or model fine-tuning adjustments focused on (in machine learning parlance) "alignment", or bringing the model in line with desired outputs), designers  -->
+
+
+
+<!-- ANT: The NOTYET loop is where ELIZA performs the initial pass over the user’s input text looking for keywords.
+
+263…266: skip to the end of the current word. (If S is negative it signifies the word is continued in the next cell. Keep advancing S (SEQLR) until it isn’t negative.)
+
+267: get the next word, or the first six characters of the next word if longer, from the input text into the variable WORD. SEQLR advances the sequence reader (S) to the next cell and returns the value of the datum of that cell. (The first time around the loop S is advanced from the list header to point to the first word in the list.)
+
+268: is the current WORD a period, a comma or the word “BUT?” If it is any of these it signals the end of a subclause and what ELIZA does next depends on whether any keywords have already been found. Note that the 1966 CACM paper fails to mention that “BUT” is treated as a delimiter in the same way as comma and period, yet the conversation published in that paper requires that it is. 
+
+269…272: if no keyword has yet been found in the user’s input text (IT equals 0), delete all the user’s input up to and including the subclause delimiter just encountered and jump to NOTYET to continue scanning the remainder of the user’s input.
+Finally, any each word is compared that does not include a keyword match ends up ignored (ELIZA code, line 269–272).
+
+273…276: otherwise, at least one keyword was already found. In this case, delete all the text from the subclause delimiter to the end of the user’s input text, and then jump to ENDTXT. The initial scan of the user’s text is now complete. If the user’s input contains multiple clauses, ELIZA will only ever respond to one of them.
+
+280: F was set on line 267 by SEQLR; it will be set to +1 if S advanced back to the list header (lists are circular), in other words we reached the end of the user input. In this case, jump to ENDTXT.
+
+AH: The value returned by SEQLR (line 267) will not be an element (i.e. the next word in the user’s input text) unless F equals 0, and yet the code does not check if it is an element until after the value has been treated as if it is an element (268). Presumably, the value returned if F is not 0 (SLIP header if F is +1; SLIP list name if F is -1) is never going to make the test on line 268 succeed, so no harm done. 
+
+281: generate a 5-bit integer from the WORD and assign it to I.
+
+282: use the value generated on line 281, which will be between 0…31, to index into the KEY hashmap. Create a sequence reader for the list at KEY(I).
+
+Every keyword specified in the script will have been hashed to one of the 32 slots in the KEY array (244…248). Some slots will be empty, because no keyword hashed to that slot. Others will have one or more transformation rules associated with that slot. For each of these we need to test whether the keyword associated with that transformation rule matches the current word in the user input text.
+
+284…287: this is a loop that repeats until either there are no more transformation rules in this KEY slot (286), or the keyword for one of the transformation rules matches the current word from the user’s input text (287). In the former case the current WORD is not a keyword so jump back to NOTYET to continue scanning the users text. In the latter case jump to the code labeled KEYFND.
+
+289: at this point in the code we know that the current word at sequence reader S in the user’s input text matches the keyword in the transformation rule list CAND. But so far we only know that up to the first six characters are the same. Call the function TESTS (see implementation above). This function will return 0 if it turns out that the whole of the word at S doesn’t match the whole of the CAND keyword. If it does match, TESTS returns a sequence reader to the matching transformation rule.
+
+290: if the words didn’t match, jump to NOTYET to continue scanning the input text. -->
+
+
+<!-- ELIZA takes the list of words and uses `S=SEQRDR.(INPUT)` (ELIZA, line 262) to compare it to a list of all the keywords in the script it is running,`SCANER=SEQRDR.(KEY(I))` (ELIZA, line 282).  The process of  -->
+
+<!-- ```
+                    I=HASH.(WORD,5)                                                 
+                    SCANER=SEQRDR.(KEY(I))                                          
+                    SF=0                                                            
+                    T'H SEARCH, FOR J=0,0, SF .G. 0                                 
+                    CAND= SEQLR.(SCANER,SF)                                         
+                    W'R SF .G. 0, T'O NOTYET                                       
+    SEARCH          W'R TOP.(CAND) .E. WORD, T'O KEYFND                            
+    KEYFND          READER=TESTS.(CAND,S)                                           
+                    W'R READER .E. 0, T'O NOTYET 
+
+``` -->
+
+<!-- **Auto-regression.** Once the next token is generated as output, it is tacked onto the end of the input sequence and the whole process begins again. This is called auto-regression. -->
+<!-- In the aptly titled and now famous paper, "Attention Is All You Need," Vaswani et al. [-@vaswaniAttentionAllYou2023] described how  -->
+<!-- Masked self-attention (in Decoder Transformers) tells the model to examine only the tokens that would be read prior to the token in question, rather than tokens both before and after.  -->
+<!-- [lets parts of the model "see" other parts nearby/maps every token onto every other token], in order to utilize context clues — a bit like the earlier "n-gram" technique on steroids. Self-attention (love these names, right?) layers [DEFINE] come between other feed-forward [DEFINE] layers in a transformer model to  -->
+
+<!-- So that each word exists within a context. 
+Much like the attention process, the reader advances completes its process and advances again.
+This relationality is important as we look at the transition to transformer-type language models, 
+allows them to reference the word vectors surrounding them  -->
+<!-- Attention, understanding what word fragments are likely to surround others. > vectorization (syntax rules and parsing)  -->
+<!-- Then An embedding matrix of every word in that list x every other word. Random or 0 v 1. 
+Then ~~PCA~~ it down to 12,288 dimensions. -->
+<!-- Queries = the search term, the token in question re the self attention focus at the time. 
+Keys = ie. the label on the folder. the vector representing a likelihood of fit, answering the query. multiplying by query results in a score. *how is this different from the value itself, why not multiply by the whole thing, is it contextual and the value independent or what?* Is it how relevant it's expected to be? A descriptor of its contents, yes, 
+Values = ie. the info in the folder. the words (as word vectors) that correspond to each key -->
+<!-- All lookup tables, mapping functions, and matrix multiplication.  -->
+<!-- >>>- `decompose_pattern` \ `reassemble_rule`//recompose `transformation`  -->
+<!-- built into its scripts that will move over the input sequence and apply [decomposition and reassembly rules][xxx].  -->
+<!-- Unlike a basic array at that time, each item in a SLIP list contains the address of its neighboring items along with its own. SLIP lists and other early list processing structures allowed for more complex relational data structures (e.g. nested sublists) to represent strings of text [@bobrowListProcessingExtension1964a]. Their ordering and addressing systems offered positional context that [we might call a proto conceptualization of positional encoding].  -->
+
