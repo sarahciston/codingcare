@@ -378,3 +378,8 @@ Embeddings are the representations or encodings of tokens, such as sentences, pa
 
 
 <!-- Vocabulary lists. With corpus gathered, a vocabulary list is created by sorting the words or word fragments by how often they are found in the dataset. A, an, uh, the, you get the idea. Eventually the kinds of texts used in the dataset will determine the order of the word/fragments and whether they are in the vocabulary list. e.g. If there are no joyful stories or no queer stories, “happy” and “gay” will not appear a lot. Making a vocabulary list is the first step in “tokenization.” -->
+
+
+
+
+

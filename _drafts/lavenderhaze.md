@@ -8,6 +8,19 @@ nav_order: 95
 
 >[Geohegan]: cybernetics doesn't emerge out of war but out of liberal/humanist efforts to establish the non-human, happening between the wars. Local/domestic violences count as much, these are entangled. My chart also argues this. 
 
+>"Where a simple man might ask: 'Do we need these things?', technology asks 'what electronic wizardry will make them safe?' Where a simple man will ask 'is it good?', technology asks 'will it work?' Thus science, even wisdom, becomes what technology and most of all computers can handle." [@weizenbaumImpactComputerSociety1972]
+>"Even murderous wars have come to be perceived as mere problems to be solved by hordes of professional problemsolvers." [@weizenbaumImpactComputerSociety1972]
+
+
+>"I have in mind systems like target selection systems used in Vietnam and war games used in the Pentagon [...] These often gigantic systems are put together by teams of programmers, often working over a time span of many years. [...] It is precisely when gigantic systems begin to be used that their inner workings can no longer be understood by any single person or by a small team of individuals. [...] Not only have policy makers abdicated their decision-making responsibility to a technology they don't understand, all the while maintaining the illusion that they, the policy makers, are formulating policy questions and answering them, but responsibility has altogether evaporated. No human is any longer responsible for 'what the machine says.'" [@weizenbaumImpactComputerSociety1972]
+
+
+>"Today the artificial intelligentsia shouts that the human being is a machine. Their central thesis is that the whole person can be understood in terms of science alone. [...] What do these people actually mean when they [Minsky] shout that man is a machine? It is, as I've suggested, that human beings are "computable" (*berechenbar*), that they are not distinct from other objects in the world, in any way deserving of special respect or even attention. [...] that—can be exploited, inducted in killing machines, imprisoned, tortured, killed (providing they are "enemy combatants"). It leads to the American military sponsoring programs to produce robot soldiers. What is then left of Norbert Wiener's vision of the human use of human beings? And does not our world show us with utmost clarity how far we have already come?" [@weizenbaumSocialPoliticalImpact2008]
+
+
+
+
+
 <!-- 400 word (2500 char) abstract by Jul 7 to HIIG conference -->
 AI Decision Making from Battlefield to Desktop: Tracing the Techno-Military-Industrial Pipeline
 
