@@ -4,22 +4,47 @@ permalink: lavenderhaze
 title: Lavender Haze
 subtitle: The Art of AI War
 nav_order: 95
+date: 08 Sep 2024
 ---
+
+>[Aimé Césaire] (terrific) imperial boomerang (Discourse on Colonialism (1950)) [Hannah Arent (1951) "boomerang effect" (The Origins of Totalitarianism)]
+
+The imperial boomerang will be  techno-imperial boomerang. 
+
+>"empires use their colonies as laboratories for methods of counter-insurgency, social control and repression, methods which can then be brought back to the imperial metropolis and deployed against the marginalised, subjugated and subaltern within." [...] "The racialisation of colonial populations was necessary to justify their subjugation; but it was also produced by imperial practices of surveillance, domination and violence. Thus, the importation of the social construct of race from colony to metropole is intertwined with and partly constituted by the importation of the techniques of repression." [@woodmanImperialBoomerangHow2020]
+>"the Philippines became ‘a social laboratory at a critical juncture in U.S. history, [producing] a virtual blueprint for the perfection of American state power’. Cartography, census-taking, tax rationalisation, media-monitoring, propaganda, informant networks, vice prohibition and surveillance technologies were amalgamated in an epic act of American conquest" [Alfred McCoy via @woodmanChickensComeHome2020]
+
 
 >[Geohegan]: cybernetics doesn't emerge out of war but out of liberal/humanist efforts to establish the non-human, happening between the wars. Local/domestic violences count as much, these are entangled. My chart also argues this. 
 
 >"Where a simple man might ask: 'Do we need these things?', technology asks 'what electronic wizardry will make them safe?' Where a simple man will ask 'is it good?', technology asks 'will it work?' Thus science, even wisdom, becomes what technology and most of all computers can handle." [@weizenbaumImpactComputerSociety1972]
 >"Even murderous wars have come to be perceived as mere problems to be solved by hordes of professional problemsolvers." [@weizenbaumImpactComputerSociety1972]
 
-
 >"I have in mind systems like target selection systems used in Vietnam and war games used in the Pentagon [...] These often gigantic systems are put together by teams of programmers, often working over a time span of many years. [...] It is precisely when gigantic systems begin to be used that their inner workings can no longer be understood by any single person or by a small team of individuals. [...] Not only have policy makers abdicated their decision-making responsibility to a technology they don't understand, all the while maintaining the illusion that they, the policy makers, are formulating policy questions and answering them, but responsibility has altogether evaporated. No human is any longer responsible for 'what the machine says.'" [@weizenbaumImpactComputerSociety1972]
-
 
 >"Today the artificial intelligentsia shouts that the human being is a machine. Their central thesis is that the whole person can be understood in terms of science alone. [...] What do these people actually mean when they [Minsky] shout that man is a machine? It is, as I've suggested, that human beings are "computable" (*berechenbar*), that they are not distinct from other objects in the world, in any way deserving of special respect or even attention. [...] that—can be exploited, inducted in killing machines, imprisoned, tortured, killed (providing they are "enemy combatants"). It leads to the American military sponsoring programs to produce robot soldiers. What is then left of Norbert Wiener's vision of the human use of human beings? And does not our world show us with utmost clarity how far we have already come?" [@weizenbaumSocialPoliticalImpact2008]
 
+>"In the recent American war against Viet Nam, computers operated by officers who had not the slightest idea of what went on inside their machines effectively chose which hamlets were to be bombed and what zones had a sufficent density of Viet Cong to be "legitimately" declared free-fire zones, that is, large geographical areas in which pilots had the "right" to kill every living thing. Of course, only "machine readable" data, that is, largely targeting information coming from other computers, could enter these machines." [@weizenbaumComputerPower1976 p.238]
+>"The myth of technological and political and social inevitability is a powerful tranquilizer of the conscience. Its service is to remove responsibility from the shoulders of everyone who truly believes in it. But, in fact, there are actors!" [@weizenbaumCP1976 p.241]
+>"it was not technological inevitability that invented the electronic battlefield, nor was it a set of anonymous forces. Men just like the ones who design television commercials sat around a table and chose. [...] The range of answers one gets is determined by the domain of questions one asks.[275]
+>"These men were able to give the counsel they gave because they were operating at an enormous psychological distance from the people who would be maimed and killed by the weapons systems that would result from the ideas they communicated to their sponsors. The lesson, therefore, is that the scientist and technologist must, by acts of will and of the imagination, actively strive to reduce such psychological distances, to counter the forces that tend to remove him from the consequences of his actions. He must-it is as simple as this-think of what he is actually doing. He must learn to listen to his own inner voice. He must learn to say "No!" [276]
+>""We could have taken a moral stand, but what good would that have done?" But the good of a moral act inheres in the act itself." [276]
 
 
+>"MAVEN (put software in warfighter, ppl protesting calling us nazis bc we were dedicated to serving america) doing things similar to what's happening in the commercial space
+>"TITAN logical extension, Alex Karp, Palantir CEO: "If your software is so good, why have you not sold it commercially and made yourself billions of dollars? That simple insight, which you see in the battlefield in the Ukraine, which you see in Israel, is something that is hard for institutions to internalize. We're going to fight for real, we're going to put the best on the battlefield." 
+>"You are going to see a normal non-engineer tasking satellites [...] just to figure out which satellites should be over which part of their agricultural assets based on weather conditions. Now, you can just imagine how you could do that with a weapon system. [...] And that is happening right now." [@bloombergtelevisionPalantirCEOKarp2024]
 
+>"[Yossi] Sariel is understood to have written the book with the IDF's permission after a year as a visiting researcher at the US National Defense University in Washington DC, where he made the case for using AI to transform modern warfare." [@daviesTopIsraeliSpy2024] YS quoted by Guardian, "There is a human bottleneck for both locating the new targets and decision-making to approve the targets." Sariel and the unit were criticized for focusing on new shiny intelligence that led to security breaches. His own lapses in personal security led to his identity being revealed.
+
+Refugees are involved in data labeling work: [@miceliHopeThisIsnt2024] "
+
+IMPORTANTLY: AI-decision support systems build on existing equipment and infrastructure. They often only require the networks of cameras and wifi. Rejecting these forms of intervention begins before they have arrived, with rejecting the technologies which precede them. 
+
+Police advocating for "drones as first responders" Skydio California [@koeblerWhenPoliceMarketing2022]
+
+
+With many companies' ask first apologize later approach: NVIDIA [], Clearview AI []
 
 <!-- 400 word (2500 char) abstract by Jul 7 to HIIG conference -->
 AI Decision Making from Battlefield to Desktop: Tracing the Techno-Military-Industrial Pipeline
@@ -38,15 +63,13 @@ What is the relationship between machine learning task "AI decision-support syst
 
 This talk will examine which specific machine learning tasks and technological processes underlie state military funded AI decision support systems (AI-DSS), with the aim of charting the overlaps and entanglements of the development of these processes with private tech industry and use by and on broader publics.
 
-It will examine how 
-
 The precedent for military-tech-industrial entanglements is longstanding, and this talk will fill out the timeline from IBM's Dehomag punchcard tabulator (1933) and ARPANET (1966), to DARPA's version of Siri (2003) and Palantir's warfare project manager (Artificial Intelligence Platform) (2022). With the current emphasis on AI, warfare projects like Lavender (2023) and [Ukraine] accelerate both the development of the technology and the scale of destruction.
 
 What are the stakes of these accelerations and how do they entangle with the technologies we touch every day, like social media apps, AI chatbots, border biometrics, and more? 
 
 What does 'human in the loop' or that a human 'makes the decision' actually mean in systems where all the information leading up to such a decision is constructed by an automated system? 
 
-The sociotechnical embedding cultural and  and 
+The sociotechnical embedding cultural and
 their sociotechnological embedding in private contracting, public cultural sectors. The entanglement of military research development, 
 
 By charting some of the last decades' developments in military AI-DSS and connecting them to corporate uses of AI, this talk maps the entanglements of high-stakes for the tools in our pockets. 
@@ -70,7 +93,9 @@ Ultimately, it asks, what responsibilities do we have in our use of these techno
 
 At this writing, in Summer 2024, one of the latest hyped tools is OpenAI's GPT-4o — sleek, eerie, and already embroiled in potential lawsuits for its questionable similarity to the sci-fi film that foreshadows its existence. GPT-4o currently shares headlines with Google AI Search, which recommends we eat glue to keep the cheese from sliding off pizza. The silliness of such suggestions belies the systems' glitchy [XXX] and [terrifying] source material.
 
-Meanwhile, starvation and war atrocities continue escalating at alarming rates in Congo, Haiti, Palestine, Sudan, [Ukraine], and elsewhere. Like many of you, I have been continually heartbroken and stupified by the images and videos of [war/these conflicts].It feels like a futile exercise in which every day I learn today's "bad place" is just a new antechamber for an even-worse place. (I will not list the latest here, because you have seen them or know where to find them. If you wanted to you would.) Sit ins, lie ins, university protests, marches continue, yet business and art continue as usual for months and years as these traumas persist. 
+Every time I revise this talk I update the name of the OpenAI tool. 
+
+Meanwhile, starvation and war atrocities continue escalating at alarming rates in Congo, Haiti, Palestine, Sudan, [Ukraine], and elsewhere. Like many of you, I have been continually heartbroken and stupified by the images and videos of [war/these conflicts]. It feels like a futile exercise in which every day I learn today's "bad place" is just a new antechamber for an even-worse place. (I will not list the latest here, because you have seen them or know where to find them. If you wanted to you would.) Sit ins, lie ins, university protests, marches continue, yet business and art continue as usual for months and years as these traumas persist. 
 
 <!-- "Since the beginning of 2024, nearly 358,000 people have been displaced in DRC [the Democratic Republic of Congo], 80 percent of which has been caused by armed conflict. [...] A staggering 23.4 million Congolese suffer from food insecurity" [@ConflictDemocraticRepublic]. In Sudan, the Sudan Armed Forces (SAF) have just killed over 50 civilians in an airstrike in revenge for the paramilitary Rapid Support Forces (RSF) killing at least 100 people [CITE], all over the course of a day. On Friday, Israel and the US kill more than 274 Palestinian people, along with 3 Israeli hostages and at least one Israeli commander, to rescue 4 hostages from Gaza [CITE].  -->
 
@@ -82,9 +107,13 @@ The tech we hear about being tested in [war/genocide] will come to be used in no
 
 To be clear, and narrow, I speak specifically of the tools which combine massive amounts of data and computer processing to provide what militaries call "AI automated decision-support systems (AI-DSS)." They help make choices about who lives or dies, and they speeding up the process exponentially. Such tools are on a continuum with other military technologies, which have long helped make war bigger and badder. I do not focus here on unmanned vehicles like drones, which exist for air, land, and sea, or on other advanced weaponry like smartbombs or targeting systems — but on the decision-making, data-gathering, and data-processing capacities which so-called AI enables. Often these become part of larger systems that include those other parts and weapons (as war machines are huge complex systems), but I home in on the aspect that makes them 'intelligent', which is the decision-making process. 
 
+For this discussion, I'll not focus on the autonomous weapons or autonomous vehicles that use automation to implement decisions per se. [I want to draw more attention to the processes that enable decision-making: the datasets, models, networks, software, hardware and infrastructure components that contribute to decision making, facilitate more/faster decisions, and then relay those decisions to the weapons and vehicles that others will discuss.] 
+
+Whether the decisions are ultimately implemented by a sniper on a roof or a drone swarm, I want to attend to the automated procedures [and materials] that influence these decisions — including in data gathering, model making, networks and infrastructure, interface and [hardware]. 
+
 When machine 'intelligence' combines with military 'intel', this noxious substance threatens to overtake knowledge and security as we know it. 
 
-We are witnessing the aftermath — and the foreshadowing of more to come.
+~~We are witnessing the aftermath — and the foreshadowing of more to come.~~
 
 What is our moral obligation as artists, scholars, working with and developing these tools to MESS with them, to OPT OUT of them, not to let them be used for mass murder? 
 
@@ -110,14 +139,14 @@ The exponential increase in AI weaponry for Ukraine's and Israel['s causes] make
 Collaborations among world military powers and tech corporations, as projects of colonialism, have increased [exponentially in impact] with their ability to deploy AI weapons. This has been their directive and aim. [The relationship between private tech and military development has been an ever-growing oroboros.][Military-industrial complex has expanded into a military-tech-industrial oroboros.] 
 
 
-Is war over if we want it? Is the war machine in our machines? It is both as simple and as complicated as Yes. 
+Is war over if we want it? Is the war machine within our own machines? It is both as simple and as complicated as Yes. 
 
 
 Not only our money and tech infrastructure but our systems knowledge is being absorbed into these crimes. 
 
-Innured to policing strategies and hyperbole, killing with impunity, long-distanced decision-making, and justifying w machine-produced 'facts' that find patterns out of data soup — all this will soon become normalized. 
+Inured to policing strategies and hyperbole, killing with impunity, long-distanced decision-making, and justifying with machine-produced 'facts' that find patterns out of data soup — all this is quickly becoming normalized. 
 
-The artists and scientists alike should realize how spurious these claims to infallability and 'intelligence' these systems are. 
+The artists and scientists alike should realize how spurious these claims to infallibility and 'intelligence' these systems are. 
 
 
 Forget AGI, it's human-implemented AI that will, no, that is already killing us all. Let's worry about that. What are we going to do? Sci fi loves to imagine what would you do in that universe in which the singularity takes over. It's here but it's not AGI. It's corporations [Bridle]. 
@@ -127,7 +156,7 @@ There is no apolitical art. Critical making extends to a politics, no a humannes
 
 *make this as an artwork instead? to literally take it into art spaces*
 
-*Multiple genocides currently occurring around the world*
+Multiple genocides currently occurring around the world
 
 >"A problem exists when an existing situation (ES) is different from a desired situation (DS). To solve the problem, one searches for tools that can reduce the difference between ES and DS, applies these tools and so, it is asserted, solves the problem." [@weizenbaumSocialPoliticalImpact2008]
 
@@ -135,7 +164,7 @@ There is no apolitical art. Critical making extends to a politics, no a humannes
 
 
 >"What do these people actually mean when they shout that man is a machine? It is, as I’ve suggested, that human beings are ‘‘computable’’ (berechenbar), that they are not distinct from other objects in the world, in any way deserving of special respect or even attention. [...] that—can be exploited, inducted in killing machines, imprisoned, tortured, killed (providing they are ‘‘enemy combatants’’). It leads to the American military sponsoring programs to produce robot soldiers. What is then left of Norbert Wiener’s vision of the human use of human beings? And does not our world show us with utmost clarity how far we have already come?" [@weizenbaumSocialPoliticalImpact2008]
->"There are more boundaries to what we can say than to what we experience. It is the task of the artist to attempt to articulate the unsayable [...] The artist’s curse is the impossibility to finally articulate the unsayable in its totality. [...] It is the listener, the viewer, the Mensch who is the ultimate receiver of the artist’s product who must interpret that product and thus make the attempt to find its inherent Truth. And that effort has little to do with scientific understanding. That search requires inner, truly human resources. The artificial intelligentsia denies that such exist." [@weizenbaumSocialPoliticalImpact2008]
+
 
 Who benefits, who is in the room, behind the curtain, behind the glass, who is it being tested on, who is a subject and who an object.
 
@@ -156,13 +185,23 @@ I am seeing parallels in the tools I use and the ones destroying homelands, live
 OpenAI, Google, Amazon, Apple, Meta (WhatsApp, FB) Same WhatsApp group: How big was this group? What was the topic, how active were they? I'm in plenty of groups I have on mute that are merely infostreams, and I don't agree with everything said in every group I'm in. How about you? 
 When the same brand names and technologies come up in both spheres, can I not discuss, not confront, not change how I use them? 
 
-Object detection > imagenet > historically suspect dataset lineages of tech that remain embedded in the outputs of emergent tech
+Object detection > Imagenet > historically suspect dataset lineages of tech that remain embedded in the outputs of emergent tech
 Sat imagery, wind. giving data
 
 Generative AI trained on reddit, wiki, github.
 Generate targets, acting now before confirming (human confirmation is cursory at best (that the person appears male)) *What does it mean to "confirm"?*
 
-*ask gpt how to divest*
+*ask gpt how to switch to companies whose ideals I share*
+
+## Connections to technologies in the West
+
+Ford's proposed patent for "in-vehicle advertisement presentation" via audio surveillance. To deliver targeted advertising, also includes current vehicle location and current speed, learns driver preferences [@vermaVehicleAdvertisementPresentation2024]. One of the more frightening parts is that it would require no new hardware, the capacity already exists in the vehicles as they are currently made. By the time we are worrying about it — too late. 
+>"noting that whether a vehicle owner is making a “long drive versus trip to medical care facility” " 
+>another patent to surveil and report speeding drivers: "would enable vehicles to monitor the speed of nearby cars, photograph them and send the information to police"
+> one to self-repo its own cars
+
+Companies advertise "active listening" technologies for targeted advertising.
+Tesla employees sharing private car data videos of road rage and car crashes. Used by US police departments towing Teslas to get crime scene evidence from their data
 
 ## How to write about the horrors, the connections
 
@@ -174,6 +213,7 @@ Local changes make a difference — not as an alternative to corporate and state
 
 My part may be a plastic straw versus the oil spills. It's not a plastic straw. 
 
+There is at least a month in which I write nothing about this, and the horrors, of course, persist (whether I write or not they will). 
 
 ## The horrors, and how to write about them
 
@@ -189,9 +229,9 @@ Geospatial, facial recognition, encryption, misinformation, psychological warfar
 National Defense Magazine: "a center-stage, relentless and unprecedented effort to fine-tune, adapt and improve AI-enabled or AI-enhanced systems for immediate deployment. That effort is paving the way for AI warfare in the future" [...] AI-controlled warfare with little to no human decision making involved
 “software defined warfare” as part of a vision in which software will be the crucial part of the defense architecture needed for next-generation warfighting systems
 
-Hyper War or Mosaic War (DARPA) combo of ai and ppl / software-defined warfare
+I learn new terms I hate, euphemisms like "Hyper War" or "Mosaic War" (DARPA) combo of ai and ppl / software-defined warfare
 
-Operating outside the law / extra-judicial. 
+*Operating outside the law / extra-judicial*
 
 Testing grounds—will be used in non-conflict zones later, becomes privatized/ubiquitous
 
@@ -204,7 +244,7 @@ What machine learning can do is scale the existing [approaches/tactics] of warma
 >From 2018 to 2022, in the US alone, Microsoft ($13.5 billion), Amazon ($10.2 billion), and Alphabet, which is Google’s parent company ($4.3 billion).
 >From 2021 through 2023, venture capital firms reportedly pumped nearly $100 billion into defense tech startup companies — an amount 40 percent higher than the previous seven years combined.
 
-# Questions
+# Questions I've been asked that maybe I should answer in advance
 
 ## Should it be part of every conversation, event, topic? 
 
@@ -232,6 +272,10 @@ We can instead act more selectively, informed with the knowledge of how systems 
 ## I'm not a protestor. I don't want to change my life. What can I even do? Nothing, right? 
 
 The illusion is that the only way to speak out is to protest, get beat up by police, something physical. These are valuable forms, but there are many other forms. Along with mutual aid support for those who are protesting and addressing the many other aspects of the ongoing genocides, I think there are a few things I want to consider with regard to the AI tools and automated decision-making systems specifically:
+
+## Who am I to talk about this? Do I feel safe talking about this? Is it fair to want to feel safe? 
+
+To still want a new country to keep me. A friend not to be embarrassed. A degree not revoked. I know none of these matter more than life, more than the inhumanity I should be sacrificing more for. Those of us with the ability to chose, are chosing each day how much to turn away. How much to weigh in. Some see that they have no choice, they must intervene because the stakes are too high. Those of us who have not yet intervened have not yet realized the stakes. And maybe they won't affect you, or me, right away, or at all, but you may find yourself in a room with an Amazon echo you don't know is active, or a car with smart advertisements. You may find yourself (Talking Heads). You may find yourself holding parts of someone you know and weeping. I cannot [say/know] what any of us will witness or endure. I only know that we are all connected, that your suffering and your life are tied to mine. 
 
 # Five Things to Do Now
 
@@ -296,11 +340,11 @@ Image generation:
 ![](https://image.pollinations.ai/prompt/Tech%20alternatives%20with%20privacy%20protection%20%5BcharactersDetailed%5D%20Flat%20Illustration%20%5Bgenre%5D?width=900&height=500&nologo=poll&nofeed=yes&seed=[random])
 (Note: I replaced*
 
-What are some tech companies that do NOT make AI for defense?
+*What are some tech companies that do NOT make AI for defense?*
 
 There are many tech companies that explicitly state they do not engage in AI work for defense purposes. Here are a few examples, although please note that my knowledge is based on publicly available information and may not be fully up-to-date:
 
-1. **Clearview AI**: While they do work with AI, they have stated that they do not provide their services to the military or law enforcement for mass surveillance purposes.
+1. **Clearview AI**: While they do work with AI, they have stated that they do not provide their services to the military or law enforcement for mass surveillance purposes. [*this is patently wrong*]
 
 2. **Snap Inc.**: The company behind Snapchat has a policy against using its technology for defense or military purposes.
 
@@ -344,3 +388,4 @@ Daddy
 
 [^Q]: Just after writing on asterisks, Open AI announced Q\*, promising again to accelerate machine learning before addressing its current concerns [@milmoOpenAIWasWorking2023]. At the same moment, "The Gospel" AI system is used in Israel to select and increase its bombing targets by orders of magnitude [@daviesGospelHowIsrael2023], and new stories continue to reveal details of the depth of AI usage there and involvement from the big tech firms [@iraqiLavenderAIMachine2024]. AI technology was originally being developed alongside and as part of WWII and Cold War technologies, now AI is used directly in warfare. The same companies warning of the future dangers of AI make this their marketing strategy: GPT-2 was open-source but 'too big and too dangerous to release' until it appeared as an even bigger GPT-3, then GPT-4 was closed and pay-to-play. Worse yet, those so-called dangers distract from the very-real, immediate dangers they impose, like The Gospel, face recognition in policing, and more subtle forms. 
 
+>"The IDF outright rejects the claim regarding any policy to kill tens of thousands of people in their homes." [@IsraelDefenceForces2024]

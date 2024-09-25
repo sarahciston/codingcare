@@ -126,9 +126,10 @@ generalizable, whereas data is not, make it by and for its own communities.
 4. Delusions of Agency: The 'Human' Doesn't Help <!-- should this go into the understanding conclusion? --> (Cautions & Promises)
 <!--3. The Many Headed Hydra (of the LLM/NLP-iverse) (Theory-Building Eliza) necessary as more than a graphic? -->
 
+<!-- stuff to move to my own work elsewhere -->
 
 
-
+<!-- stuff moved to co-authored chapter w mark -->
 
 
 

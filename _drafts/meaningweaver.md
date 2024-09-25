@@ -383,3 +383,4 @@ Embeddings are the representations or encodings of tokens, such as sentences, pa
 
 
 
+>"There are more boundaries to what we can say than to what we experience. It is the task of the artist to attempt to articulate the unsayable [...] The artist’s curse is the impossibility to finally articulate the unsayable in its totality. [...] It is the listener, the viewer, the Mensch who is the ultimate receiver of the artist’s product who must interpret that product and thus make the attempt to find its inherent Truth. And that effort has little to do with scientific understanding. That search requires inner, truly human resources. The artificial intelligentsia denies that such exist." [@weizenbaumSocialPoliticalImpact2008]
