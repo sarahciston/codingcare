@@ -115,6 +115,7 @@ All things are vectors (Whitehead 1960, 309). (via MacKenzie)
 
 While a few of the most prominent names from eugenic "race science" and military projects have been stripped from buildings or removed from lecture posts, their methods and logics carry forward into the latest generative AI systems. Francis Galton, Ronald Fisher, Karl Pearson's, and others' racist, capitalist, militarizing worldviews are embedded into the way we think with numbers [and the way we numericalize everything] today. As statistics removes the names of Pearson, Fisher, and Galton, machine learning chugs on and science still measures the right to publish by their idea of "statistical significance." @claytonHowEugenicsShaped2020
 
+"You shall know a word by the company it keeps." 
 Oft repeated “the meaning of a word can be inferred by the company it keeps” JR FIRTH. >>> 
 
 WENDY CHUN Homophily
