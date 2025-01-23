@@ -67,7 +67,7 @@ With many companies' ask first apologize later approach: NVIDIA [], Clearview AI
 
 <!-- we've always outsourced decision making > it's a question of scale and how scale creates alienation and abstraction from those decisions -->
 
-Decision-Support Systems Turn
+[****] It begins to concretize the connections between [powerful state actors engaging in warfare, private companies developing machine learning technologies, and the AI systems used for [destruction/warfare/surveillance,commercialapplications/athomeandabroad].]
 
 What is the relationship between machine learning task "AI decision-support systems" as used in current military conflicts and the automated assistants, chatbots,
 
@@ -486,6 +486,63 @@ They may not feel 'involved' or may not appear involved — they may be automate
 Why does this matter? I want to do this in order to acknowledge the stakes in a way that feels more personal, if you are not already directly affected by warfare every day. To realize that we are using these same systems every day.
 
 
-Crawford/Joler: [FOOTNOTE: As part of my involvement with that project, I helped trace the [techno-military-industrial-complex] across domains and themes including communication, computation, bodies, .]
 
 <!-- [What I'll present today is a newer project, about a year old, responding to my own despair at current events.] -->
+I'll briefly share the (overwhelming) findings of the work in progress, framed a couple of different ways, and then some of what I consider the implications of this research.
+
+I also draw historical context from predecessors. 
+
+It is important to remember that this is building on almost a century of research that links the war machine and machine learning — as militaries, universities, and private technology companies have long collaborated in the foundational work on AI. The people developing the first nuclear weapons worked side by side at the US military's Office of Scientific Research and Development with those who would make the first strides in natural language processing, cryptography, cybernetics, and AI. They were often employed in university research centers but their fates rose and fell with military or corporate funding from places like DARPA, RAND, and SRI. 
+
+<!-- METHODS: TIMELINE -->
+
+
+
+
+<!-- They were often employed in university research centers but their fates rose and fell with military or corporate funding from places like DARPA, RAND, and SRI.  -->
+
+<!-- A few highlights from countless historical examples: -->
+
+<!-- - IBM's Dehomag punchcard tabulator helps automate Germany's 1933 and 1939 census, which accelerates [the Shoah/its targeting of citizens for deportation and extermination].  -->
+
+<!-- - while the first major use of simultaneous translation is the IBM International Translator System at the Nuremberg trials [in 1945].  -->
+
+<!-- - Natural language processing, the text-focused area of machine learning, marks as its origin story the post-war need for machine translation of Russian documents, and a particular memo from cyberneticist bureaucrat Warren Weaver in 1947 speculating about the connections between translation and cryptography. -->
+
+<!-- - Of course, ARPANET, the precursor to the Internet, starts as a US military research project connecting university computers in 1969. -->
+
+<!-- - For example, in 2003, DARPA's Personal Assistant that Learns (PAL) project develops tools for field commanders using machine learning techniques including semantic extraction, classification, and clustering. One of its agents CALO is later adapted into Apple's personal assistant, Siri. -->
+
+
+
+<!-- Except for CALO/Siri, none of these used  -->
+
+Whether or not each system used AI as such, they all point to the longstanding techno-military-industrial entanglements that lead to both commercial and combatant AI. Tech and war, tech and power were never separate. This is not a new argument, nor exclusive to AI. For example, Kate Crawford and Vladan Joler's work "Calculating Empires" connects developing technologies and amassed power across 500 years of history. 
+
+Crawford/Joler: [FOOTNOTE: As part of my involvement with that project, I helped trace the [techno-military-industrial-complex] across domains and themes including communication, computation, bodies, .]
+
+
+No matter how decisions are ultimately implemented, warfare systems already include a complex combination of people and machines. People are always already involved — algorithmic systems are built with the decisions made by their designers and engineers, and they bear those human influences and biases. 
+
+We've always outsourced decision making to a degree. But the scale of ML creates alienation and abstraction from those decisions.
+
+
+
+
+**The specific tasks, tools, processes, and materials that build AI matter.** 
+
+These algorithms and cloud networks — these chatbots, text generators, and smart dashboards — are the same kinds we use at home. And these same tools are being put to use to make killing scalable. 
+
+**We can instead act more selectively, informed with the knowledge of how systems work and connect. We can select open-source tools. We can invest in projects with different values, stated explicitly and enacted materially. We can build alternative infrastructures with alternative values. The currently available choices are not the only choices — or they do not have to be if we decide we no longer accept them. It is only this way because we let it be so. I want to start building alternative tools. I'd love to collaborate with others who share this desire, to build our own AI tools and infrastructures, apart from the war-profiteering, data-hungry gaze of big tech. I want to make tools using intersectional, sustainable methods, working together to consider what those look like.**
+
+
+
+
+<!-- cut from talk -->
+
+
+DESTROY
+
+In an example where technology innovation happened simultaneously in both sectors, iRobot's Roomba automatic vacuums used its defense contracts to fund its commercial innovations. They were building small automated vehicles for use in land and water combat zones, at the same time that they were building AI to acquire detailed maps of people's homes. They eventually separated these into two companies, and Amazon acquired iRobot for this mapping data and technology. iRobot's founder calls this "ambient intelligence" and describes an environment "woven together by AI" [@tuohyAmazonFinallyFound2022].
+
+These examples mark the rapid slide from battlefield applications with grave consequences to desktop applications that might otherwise seem innocuous.

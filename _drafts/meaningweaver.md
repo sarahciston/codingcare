@@ -5,6 +5,20 @@ title: Meaning Weaver
 nav_order: 95
 ---
 
+>"It doubtless seems queer, when one first meets it, that information is defined as the logarithm of the number of choices." "But in the unfolding of the theory, it becomes more and more obvious that logarithmic measures are in fact the natural ones." (Weaver (w Shannon) 1949) 
+
+>"a 'bit,' first suggested by John W. Tukey, being a condensation of a 'binary digit.'. [...] Zero and one may be taken symbolically to represent any two choices, as noted above; so that 'binary digit' or 'bit' is natural to associate with the two-choice situation which has unit information. If one has available say 16 alternative messages among which he is equally free to choice, then [...] one says that this situation is characterized by 4 bits of information." (16 = 2^4 so that log base 2 16 = 4)
+
+>"Ergodic systems, in other words, exhibit a particularly safe and comforting sort of statistical regularity."
+
+entropy > logarithm of probabilities
+
+"a communication system must face the problem of handling any message that the source can produce." (Weaver) vs Hall's dominant narratives
+
+*What does it mean to define the "information" as the freedom of choice to choose the message, the uncertainty of what the message will be, rather than the content of the message itself?* Increasing number of cases also increases entropy/information. Deluge. And "more information" for the sender? or for the receiver?? Is it because we're presuming the receiver gets "new" information rather than known? Must return to content to understand his theory. 
+
+
+
 <!-- [1971, paper] -->
 <!-- [other terms, aliasing, statistical artifacts, machine artifact. mark of a process. ] -->
 <!-- paper: AI Hallucinations: a misnomer worth clarifying. -->

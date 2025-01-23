@@ -26,15 +26,17 @@ Reader, imagine the room you're in without your body, just the cut it makes. Ima
 
 Don't you know it's all about platforms now? 
 
-Form requires a platform, a substrate, a surface upon which to form, a meshwork, a matrix, a scaffold, a uterus: To shape it. Inform it. Feed it.
+Form requires a platform, a substrate, a surface upon which to form, a meshwork, a matrix, a uterus: To shape it. Inform it. Feed it.
 
-These platforms are designed to disappear. Concrete, curb, scaffold. 
+Platforms are designed to disappear. Concrete, curb, scaffold. The bleakness of platforms is dreamlike. The platform is a container and my body, contained. 
 
-MOBILE FIRST! 
+MOBILE FIRST!
 
-The bleakness of platforms is dreamlike. The platform is a container and, as soon as I am inside, my body (of language) contained. The train platform is moving as I depart. I must ignore the landscape it forms around me. I wake up with its weapons in my hands. [Thinking again of Maya Deren with the knife.]
+These gestures are patented, in this invasive dream where I am still at work, even in sleep. I’ll meet you on zoom, and slack, and google docs. In another tab I am reading an article about the Osage orange hedges that fenced in America, their brambles impenetrable. Settlers carved up the land and enclosed it [@SurprisingAncientHistory2021].
 
-To survive we cobble together platforms into a collaborative monster: *I'll meet you on zoom and slack and google docs; have them all open at once on this apple screen, this 7-inch mobile, on this hololens where I'll look right through you.* These gestures are patented, in this invasive dream where I am at work still, even in sleep. In another tab I am reading an article about the osage orange hedges that fenced in America, their brambles impenetrable. Settlers carved up the land and enclosed it [@SurprisingAncientHistory2021].
+<!-- The bleakness of platforms is dreamlike. The platform is a container and, as soon as I am inside, my body (of language) contained. The train platform is moving as I depart. I must ignore the landscape it forms around me. I wake up with its weapons in my hands. [Thinking again of Maya Deren with the knife.] -->
+
+<!-- To survive we cobble together platforms into a collaborative monster: *I'll meet you on zoom and slack and google docs; have them all open at once on this apple screen, this 7-inch mobile, on this hololens where I'll look right through you.* These gestures are patented, in this invasive dream where I am at work still, even in sleep. In another tab I am reading an article about the osage orange hedges that fenced in America, their brambles impenetrable. Settlers carved up the land and enclosed it [@SurprisingAncientHistory2021]. -->
 
 Usually I dream about work or about being chased, never flying. Very rarely I will dream in succinct but complete phrases. No scenes, just words. Once I dreamt just two sentences: 
 
@@ -102,6 +104,16 @@ But in the din of the room, in the cut, you bloom a bruise.
 
 ### References
 
+<!-- Is a body itself an escape from something?  -->
+
+<!-- **How do we find our bodies? Some find meditation. Some find the bodies of our loved ones liquified and handed back in plastic bags. Is this what it now means to be bodied?**  -->
+
+
+
+<!-- crochet helps me learn my body, a body that never quite feels like a ‘me’ even though it tells me all the time i am in it, stumbling, uncooperative. i settle into this body with repetitive motion. crochet helps me listen, stay present, in the again and again of now.  -->
+
+<!-- How do we find our bodies? Some are taught meditation. Some find the bodies of our loved ones liquified and handed back in plastic bags. Is this what it now means to be bodied?  -->
+<!-- Is a body itself an escape from something? “I am in here” -->
 
 
 

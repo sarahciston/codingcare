@@ -14,7 +14,8 @@ subtitle: Coding.Care
 
 <!-- Codes for (Un)Raveling -->
 
-<!-- My mother had a pin cushion that looked like a bright red tomato. I rarely saw it, because she rarely sewed. When the tomato pincushion would appear, my favorite thing was to draw out and re-stick her needles and pins. Its needles had stray thread still waving from their eyelets, clipped after their last missions ages ago. It had a tiny strawberry companion tied to the top, and I was not sure then the strawberry's job, but to delight me. Strawberries and tomatoes were two of my favorite foods, when they weren't used for sewing, and I can remember being delighted by their presence and hers as she went about her repairs. I remember the heft of the tomato and the feel of the sound of the pins and needles as they were inserted. I have no positive associations with sewing (my mother seemed miserable the whole time), but sticking and unsticking that pincushion was a [sacred ritual/meditation]. The whole contraption seemed dropped in from a fairy planet for how out of context it felt to me and how magical I felt while holding it. I was spell-casting without the spells. I have disregarded all notions since then, until about a year ago when I began obsessively crocheting.  -->
+<!--My mother had a pin cushion that looked like a bright red tomato. I rarely saw it, because she rarely sewed. When the tomato pincushion would appear, my favorite thing was to pull out and re-stick its pins. Its needles had stray thread still waving from their eyelets, clipped after their last jobs ages ago. I remember the heft of the tomato and the feel of the sound of the pins and needles as I inserted them. The tomato had a tiny strawberry companion tied to the top, and I was not sure then what was the strawberry's job. The object seemed to have dropped fully formed from a parallel universe, for how out of context it felt to me, and how magical I felt while holding it. Strawberries and tomatoes were two of my favorite foods — when they weren't used for sewing — and I remember my delight at their presence and hers as she went about her repairs. I recall no other positive associations with sewing or handcrafts. My mother seemed miserable the whole time she worked. But sticking and unsticking that pincushion was my tiny ritual. Since then, I have disregarded all notions since then, until about a year ago when I began obsessively crocheting.-->
+
 
 <!-- >"It seems necessary and impossible to rewrite the default grammar of agency."  -->
 <!-- ><footer>–Jane Bennett [-@bennettVibrantMatterPolitical2010]</footer> -->
@@ -57,7 +58,7 @@ I say 'them' like the systems are separate, like we didn't make them from our la
 
 <!-- === -->
 
-System operations are called sometimes called threads. *"A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads distribute resources and allocate energy. 
+System operations are sometimes called threads. *"A thread of execution is the smallest sequence of programmed instructions that can be managed independently."* Threads distribute resources and allocate energy. 
 
 A thread starts small, jots down, casts a line. It traces connections and tracks versions. It unties the notion of one authoritative text. A ribbon was once called a notion — a decorative flourish, a small domestic thing. To thread the needle is to pinpoint one's argument or to split the difference. 
 
@@ -137,11 +138,11 @@ At first the body is perplexed. Its muscles won't cooperate. Its inputs and outp
 
 I keep doing the thing my fingers refused to do. I let them curl uncomfortably into new shapes. I find a texture I can keep returning to. 
 
-Acts of ongoingness pile up. Microgestures make mass action. 
+Acts of ongoing pile up. Our stitches are gestures, building to mass action. 
 
 *"Queer use: another way of huddling, keeping each other warm."* [@ahmedQueerUse2018]
 
-Crochet a garment, and you touch every part of it. You transform its dimensionality. Turn a fragile fiber into a sturdy surface. Turn that surface into a manifold fabric. You are not seeking the most efficient route, but you are making a path as you traverse it. 
+Crochet a garment, and you touch every part of it. You transform its dimensionality. Turn a fragile fiber into a sturdy surface. Turn that surface into a manifold fabric, ready to be made into. You are not seeking the most efficient route, but you are making a path as you traverse it. 
 
 We keep each other warm with actions that repeat. Return to the same spot, and act again. Remember what you did.
 

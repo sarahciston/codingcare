@@ -80,6 +80,10 @@ For the last 100 days each day a girl has posted videos online from Palestine. I
 
 >"This is Bisan. I am still alive." 
 
+<!-- Is a body itself an escape from something?  -->
+
+<!-- **How do we find our bodies? Some find meditation. Some find the bodies of our loved ones liquified and handed back in plastic bags. Is this what it now means to be bodied?**  -->
+
 She knows the next day she might not be. She does it anyway, knowing any day she may be counted in the tens of thousands of people around her who are not.  
 
 'Unalive' rewrites unspeakable death to avoid censorship by platforms. Platforms do not read for context clues. They cannot distinguish between deaths to discuss and deaths to erase. They cannot distinguish between queer sexuality and pornography, although they do claim to be able to distinguish between a male nipple and a female nipple, even though gender is not real. Still we must spell out new stuttering formulations like `s3x` and ~~`death`~~ and `les`:bee:`an` and `$uicid3`, to con these 'sophisticated' systems by hovering in the redacted neither-and. 

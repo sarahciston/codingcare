@@ -7,6 +7,8 @@ nav_order: 11
 # date: 02.02.2024
 ---
 
+<!-- REVISION HERE, OG BELOW -->
+
 <!-- platforms, essaying, code obscura. saving protecting hiding helping hearing healing -->
 <!-- pye craft of risk of certainty -->
 
@@ -17,6 +19,199 @@ nav_order: 11
 
 >"Act so that there is no use in a centre." 
 ><footer>–Gertrude Stein</footer>
+
+PART 3. (UN)KNOWING
+
+FIREFLOOR
+
+Inside, the black box bursts with color. It’s a whole tiny world in there, a homunculus of meaning. A giant moon crashes into the bedroom and continues its orbit [@PipilottiRistBig]. Pipi screams silently, reaching up from the floor, where she sinks within her tiny television. The flames behind her never quite engulf her, as if to say, memelike: *This Is Fine.*
+
+I am writing again about trapped white women and problems of scale.
+WHITEROOM
+
+Pipilotti Rist has arranged all the white things on the wall. All the white things are sorted and inert, aesthetically unnerving but pleasingly so. It is living as an algorithm to find and sort and display this way. I do it too.
+
+It seems merely rote to sort what will be important and what will not be. But this is power. Here, on Pipi's wall of white things, the criteria may seem obvious: white, or white-enough.
+
+But the not-quite-whiteness of what's not here holds up this wall with its exclusion.
+
+American Artist details the history of the graphical user interface (GUI) as a turning point in the history of computing, at which point screens changed from black to white. This was when the "user" was defined for the stated purpose of easing use, but this also narrowed and limited use, enacting white supremacist values: 
+
+"Blackness has, so to say, formed the ground for white, with black gooey being antithetical to the values of the white screen" [@artistBlackGooeyUniverse].
+
+This is about what is inside the black box, or moreso about what shores up its walls. "Black box" is a thought experiment and a shorthand for the unknown. No. Black box is presumed unknowable. It is enclosed as if it doesn't need knowing.
+
+Pipi, you say color is a feminist statement. Perhaps that explains others' obsession with black boxes. People just love the idea that there is 'no way to know' what's inside. Like a black hole. Like a uterus. But a black box is not a black hole. A black box should not be where you put something you want to go away, something whose insides you want to ignore.
+
+These viscera make systems. They are hungry for data. That virtual assistant's voice is the disembodied ghost of a sawed-in-half magician's assistant who never made it out of that black box. She still wants to razzle-dazzle you.
+
+Call it magic if you like, but it’s statistics. 
+
+Everything processed will eventually sink to the bottom of the ocean as indigestible trash. At least with black holes nothing comes back out. 
+
+I am writing again about bodies in boxes. The first black boxes held memory, trauma, relation. The term 'black box' first appears in W. Ross Ashby's book *An Introduction to Cybernetics* in 1956. For Ashby, black boxes are like memory, an observed explanation, relational. He says: 
+"to invoke 'memory' in a system as an explanation of its behaviour is equivalent to declaring that one cannot observe the system completely" [@ashbyIntroductionCybernetics1956]. 
+
+In Ashby's colorful examples of black boxes, an engineer examines a broken bomb sight, a small child learns to open a door, a dog is hit by a car and then fears cars, and an object "has just fallen from a Flying Saucer" [@ashbyIntroductionCybernetics1956]. Bombs, children, animals, and aliens become the proving grounds where current concepts of 'artificial intelligence' emerge. 
+
+So much violence is built in from the start. 
+
+Ashby says, "we have in fact been operating with Black Boxes all our lives," and, "real objects are in fact all Black Boxes" [@ashbyIntroductionCybernetics1956]. 
+
+All I hear is trauma, trauma, trauma. Borders, borders, walls, walls.
+
+#
+
+How does a machine learning model hold memory? 
+
+I used to hold memory just like a black box: Act on it; Try not to know what's inside.
+
+#
+
+The first theft was ownership, and the first object of ownership was the body, say Fred Moten and Stefano Harney. 
+
+>"Ownership was a feedback loop. 
+The more you own the more you own yourself." 
+
+They say the enlightenment produced "a science of loss, which is to say the science of whiteness, or, logistics" [@harneyAllIncomplete2021]. 
+
+Like many of us, I was raised on this logistics.
+
+#
+
+To make memory, take rubbings of surfaces. Press or rub one thing against another thing, and whichever thing is harder transfers its texture, making an impression in the softer thing. A pattern appears only where they touch. And in return, the softer thing transfers its particles, marking the harder thing back. This is a form of relief (print).
+
+But rubbing also removes. The residual is what's left. 
+Between a prediction (an expected result) and a prediction (a model's output) is error. 
+Error is measured by various functions for 'loss'. 
+These loss functions tell you how wrong you are, how far off your attempt.
+
+Loss functions as an instructive, if you let it. "Each time my heart is broken it makes me feel more adventurous," says Frank O'Hara. I keep practicing to let this be true.
+
+>"how we evade ownership/equilibrium is precisely in that refusal to prevent loss we call sharing, rubbing, empathy, hapticality: the undercommon love of flesh, our essential omnicentric or anacentric eccentricity. Everything, in the wake of such disordering, is loss prevention." [@harneyAllIncomplete2021]
+
+What can be generated with/in this residual, this what-is-left which is a "refusal to prevent loss"?
+
+In logistics, 'loss' refers to what is stolen and 'prevention' how to get it back. Loss is 'supply chain theft' and is calculated as a cost. To calculate loss is to tuck it away. How much loss is a rounding error? How much loss is normal? 
+
+>"Why is there more craving than there is in a mountain. This does not seem strange to an echo [...]. Why is there so much useless suffering. Why is there." [@steinTenderButtons2014]
+
+I want to evade ownership in the way Moten and Harney mean — to share, feel, touch as an erosive force until I am lost. Be the craving and the mountain. Call it excess instead of error.
+
+There are other kinds of boxes, not only monotone cube abstractions. There are handcrafted cedar chests with dovetailed corners, with knitted sweaters and passed-down quilts inside. These boxes smell of family, both sour and sweet. Their handcarved joints splay out like tiny fans. They use no glue or nails. These boxes rely on the tension pulling them apart to hold them together. Their dovetailedness is a strategy.
+
+# 
+
+Ashby says that another system emerges along with the black box: "the experimenter is coupling himself to the Box, so that the two together form a system with feedback" [@ashbyIntroductionCybernetics1956]. 
+
+Thanks a lot, Ashby. I am tethered to all the black boxes making judgments that affect my dailiness. Turns out it's me stuck in the box — magician's assistant, thrown voice like Alexa — my head and legs peek out from its severed halves.
+
+*This Is Fine.*
+
+Craft can also be a cudgel, a call for manners and refinement in art and literature that shuts down discourse that criticizes the [XXX]  shuts out activism. 
+
+Tbakhi speaks of craft that responds to (and enacts) institutional measuring, monitoring, regard, and power. This is the craft of euphemism and nihilism. Such craft is the milquetoast technical fix to machine learning’s ‘fairness’ problems that replaces offending text like ‘dyke’, because it cannot tell the difference between a slur and a community. It replaces offending text with boilerplate diversity speak that comes out both toothless and simultaneously ‘too woke’. It replaces offending text but offers nothing instead, and the chasm that remains is all some of us get to know of ourselves from generative AI systems. I agree with Tbakhi about this kind of craft, when he says,
+
+>“Craft is what keeps us polite while the boot is on our neck or on somebody else’s. And we cannot afford that, not now and not going forward.” (Tbakhi 2023)
+
+But craft need not stay polite or straighten its rough edges: 
+
+“Anticolonial writers in the U.S. and across the globe have long modeled alternative crafts which reject these priorities, and continue to do so in this present moment. Yet Craft still haunts our writing” (Tbakhi 2023) 
+
+Despite this haunting, other engagements with craft — craft as community, craft as lineage, craft as experimentation, craft as resistance — can also help us to reject the institutional and infrastructural claims to our voices.
+
+Reclaiming craft does not mean shrinking so small that we cannot be effective, nor so precious about aesthetics or rhetoric that we lose the cause. It does not mean a return to luddite nostalgia: Everything was not simpler in the past, except for those few people who held more power over others (much like now). Reclaiming craft from its domesticized, racialized, feminized pejoratives and applying craft as a lens for technology practices means embracing its scrappy imperfections and revolutionary potentials.
+
+
+# # # hallucination
+
+The language model reminds me: *"It is not a good choice to go walking at night."*
+
+Techno-capitalists want to see suffering as opportunity. 
+
+IBM advertises, "hallucination offers a novel approach to artistic creation" [@WhatAreAI]. 
+
+Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). Ashby says,
+
+>"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist." [@ashbyIntroductionCybernetics1956]
+
+No facts yet exist — that's easy for Ashby to say, when he's decided to assume from the start that nothing is known, nor can be.
+
+*This is not fine.*
+
+Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. What changes if we rename hallucination? Call it confabulation. No, conflagration. No, fabrication. This is a process of manufacturing.
+
+Black boxes don't merely declare a zone of, "I don't know." Worse, they proclaim, "I don't want to know." They manufacture an 'unknowability' at the outset that they then use as justification not to investigate further. 
+
+When I black box you, I claim the privilege to know you only by your interface. I choose the surfaces I want to interact with, the parts that are of use to me, the parameters I want to adjust. I get to choose what not to care about.
+
+This is catastrophic forgetting. *To forget catastrophe, you must choose what not to see. Who not to see. You must refuse to witness suffering.*
+
+I am angry; I want to skip suffering, yours and mine. This loss does not function.
+
+This is an unsustainable choice. The black box builders don't know that the point is not to prevent loss. 
+
+They try to solve it, find an equation complex enough to predict it exactly and optimize it. 
+They claim the aim is to anticipate suffering. This may muffle it — prevent us from our connection to pain and change and unknowing — but they remain. 
+
+“Don’t be disappointed when I die,” my father warns. 
+
+No. That does not work.
+
+Our whole project together, my father and I, has been to eliminate uncertainty. Keep safe, keep the wall at your back. 
+
+>"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012]
+
+
+Is it possible to improvise pattern or do these contradict? I want to 
+
+Large models cannot admit uncertainty; they aim to squelch it. Theirs is a mode of reduction that hardens and hoards. Even as I learned to live this way — still uncertainty emerges, loss cracks open, water seeps through, expanding the cracks.
+
+>"even to name something, is to wait for it in the place you think it will pass." [@barakaHomeSocialEssays1966]
+
+Yet uncertainty does not have to mean suffering. Loss does not.
+
+Instead of hallucination, instead of catastrophic forgetting: Fabrication. Fabrication calls upon systems that are "improvising knowledge," which first acknowledge never having known — not in any authoritative, encapsulating way. Instead of claiming, they welcome knowledge in its teetering verb state — a sharing, haptic undercommon of un/knowing.
+
+>"I speak of the *verb process*, the doing, the coming into being, the at-the-time-of. Which is why we think there is particular value in live music, contemplating the artifact as it arrives, listening to it emerge. There it is. And There." [@barakaHomeSocialEssays1966]
+
+Far sweeter ways of knowing. Fizz and curiosity. Dovetailedness holding us together. All the rage and color, quilting and tension inside. I can let unknowingness texture me. I do not need to lay claims; I only want to stay nearby.
+
+
+—--------------------
+
+
+# 
+
+My father keeps everything so that he never loses anything. He never uses anything so that it never breaks. He says, "Don't own anything, then you won't have to move it." He means, "Don't love anything more than it loves you." His exact words are "The person who cares more loses." This is how I learned loss prevention. I learned early and it stuck. I learned it did not work, but I practice it anyway. He says, "Do as I say, not as I do." But I don't.
+
+This is black box living, the refusal to know in a way that might know you back.
+
+Call this the difference between touching and holding. Touching shares, holding clings. Touching undoes the body, loses the self (or the illusion there ever was one). Touching textures you back.
+
+#
+
+When his hallucinations start, my father sees an orange setting sun and a giant orb of tangled wires. He sees a large tapestry with tears that keep repairing. He says he doesn't mind. He likes them fine and wants them to continue.
+
+Large machine learning models are said to hallucinate when they recombine input data in strange ways, like misremembering. When models hallucinate, they "suffer from producing factually invalid statements," both subjective opinions and unsupported objective statements [@dziriOriginHallucinationsConversational2022]. It is a very human thing to do, to be subjective, to suffer.
+
+>"Why is there so much useless suffering. Why is there." [@steinTenderButtons2014]
+
+>"Hallucination symptoms may manifest as deficiencies in various vision-language tasks like judgment and description, or factual errors in different visual semantics, such as objects, attributes, and relations." [@liuSurveyHallucinationLarge2024]
+
+>"the main concern is catastrophic forgetting (CF), i.e., while learning the sequentially, neural network underfits the old data when it confronted with new data." [@kumarMethodologyOrientedStudyCatastrophic2024]
+
+Why can I not shake the phrase 'catastrophic forgetting'?
+
+#
+
+
+
+
+
+
+
+<!-- OG VERSION HERE -->
 
 <!-- >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012] -->
 
@@ -195,7 +390,7 @@ Why can I not shake the phrase 'catastrophic forgetting'?
 
 Techno-capitalists want to see suffering as opportunity. Maybe that's what my father thinks too. 
 
-IBM advertises, "hallucination offers a novel approach to artistic creation" [@WhatAreAI]. Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). He says, 
+IBM advertises, "hallucination offers a novel approach to artistic creation" [@WhatAreAI]. Ashby sounds like an infomercial; he sounds like that [guy who slaps duct tape on a boat he just sawed in half](https://youtu.be/0xzN6FM5x_E). Ashby says, 
 
 >"no skill is called for! We are assuming, remember, that nothing is known about the Box, and when this is so the method of making merely random variations [...] is as defensible as any other method, for no facts yet exist." [@ashbyIntroductionCybernetics1956]
 
@@ -207,19 +402,26 @@ Pipi, can you please smash the window of this hot-boxed black box with a flower 
 
 Why call machine learning errors hallucinations, symptoms, suffering. A model does not suffer. Though it may well contribute to suffering. What changes if we rename hallucination? Call it confabulation. No, conflagration. No, fabrication. This is a process of manufacturing, an admixture spilt on a factory floor.
 
-Black boxes don't just declare a zone of, "I don't know." Worse, they proclaim, "I don't want to know." They manufacture an 'unknowability' at the outset that they then use as justification not to investigate further. When I black box you, I claim the privilege to know you only by your interface. I choose the surfaces I want to interact with, the parts that are of use to me, the parameters I want to adjust. I get to choose what not to care about. 
+Black boxes don't merely declare a zone of, "I don't know." Worse, they proclaim, "I don't want to know." They manufacture an 'unknowability' at the outset that they then use as justification not to investigate further. When I black box you, I claim the privilege to know you only by your interface. I choose the surfaces I want to interact with, the parts that are of use to me, the parameters I want to adjust. I get to choose what not to care about. 
 
 This is catastrophic forgetting. *To forget catastrophe, you must choose what not to see. Who not to see. You must refuse to witness suffering.*
 
 I am angry; I want to skip the suffering, yours and mine. This loss does not function.
 
-This is an unsustainable choice. The black box builders don't know the point is not to prevent loss. Even if it were, I cannot prevent loss. Neither can you.
+This is an unsustainable choice. The black box builders don't know the point is not to prevent loss. 
 
-If I cannot prevent loss, I try to solve it. Find an equation complex enough to predict it exactly and optimize it. 
+They try to solve it, find an equation complex enough to predict it exactly and optimize it. 
+They claim the aim is to anticipate suffering. This may muffle it — prevent us from our connection to pain and change and unknowing — but they remain. 
 
-No. I don't want to prevent loss but to accelerate it. This is yet another kind of prevention, trying to [quell/quit/muffle] suffering rather than staying [connected] through pain and fear and change and unknowing.
+“Don’t be disappointed when I die,” my father warns. 
+
+No. That does not work.
+
+Our whole project together, my father and I, has been to eliminate uncertainty. Keep safe, keep the wall at your back. 
 
 >"A representation that admits uncertainty as part of its structure can improvise knowledge." [@robertsonNillingProseEssays2012]
+
+Is it possible to improvise pattern or do these contradict? 
 
 Large models cannot admit uncertainty; they aim to squelch it. Theirs is a mode of reduction that hardens and hoards. Even as I learned to live this way — still uncertainty emerges, loss cracks open, water seeps through, expanding the cracks. 
 
@@ -227,13 +429,15 @@ Large models cannot admit uncertainty; they aim to squelch it. Theirs is a mode 
 
 Yet uncertainty does not have to mean suffering. Loss does not.
 
-Instead of hallucination, instead of catastrophic forgetting, fabrication. Fabrication calls upon systems that are "improvising knowledge," which first acknowledge never having known — not in any authoritative, encapsulating way. Instead of claiming, they welcome knowledge in its teetering verb state — a sharing, haptic undercommon of un/knowing. 
+Instead of hallucination, instead of catastrophic forgetting: Fabrication. Fabrication calls upon systems that are "improvising knowledge," which first acknowledge never having known — not in any authoritative, encapsulating way. Instead of claiming, they welcome knowledge in its teetering verb state — a sharing, haptic undercommon of un/knowing. 
 
 >"I speak of the *verb process*, the doing, the coming into being, the at-the-time-of. Which is why we think there is particular value in live music, contemplating the artifact as it arrives, listening to it emerge. There it is. And There." [@barakaHomeSocialEssays1966]
 
-Far sweeter ways of knowing. Fizz and curiosity. [The tension of] Dovetailedness holding us together. All the rage and color and quilting and texture inside.
+Far sweeter ways of knowing. Fizz and curiosity. Dovetailedness holding us together. All the rage and color and quilting and tension inside.
 
-Pipi, you call your show "Big heartedness, be my neighbor." I like that you don't lay claims. When you could have declared, "be mine," you ask only to be nearby [@PipilottiRistBig]. I want to stay nearby. I can let unknowing texture me. I can write other functions. 
+I can let unknowingness texture me. I do not need to lay claims; I only want to stay nearby.
+
+<!-- Pipi, you call your show "Big heartedness, be my neighbor." I like that you don't lay claims. When you could have declared, "be mine," you ask only to be nearby [@PipilottiRistBig]. I want to stay nearby. I can let unknowing texture me. I can write other functions.  -->
 
 ![Pipilotti Rist, MOCA 2021](assets/img/pipi-under.jpg)
 
