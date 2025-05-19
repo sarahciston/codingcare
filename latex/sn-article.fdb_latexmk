@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1746537236 "/Users/sarahciston/Desktop/DISS/codingcare/latex/sn-article.tex" "sn-article.pdf" "sn-article" 1746537236 2
+  "/Users/sarahciston/Desktop/DISS/codingcare/latex/sn-article.tex" 1746537236 12919 60fe10bc090486a326754f160d521129 ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705653132 7883460 ac381842dace925f702d8a45c9bfe963 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "sn-article.aux" 1746537236 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "sn-article.tex" 1746537236 12919 60fe10bc090486a326754f160d521129 ""
+  "sn-jnl.cls" 0 -1 0 ""
+  (generated)
+  "sn-article.aux"
+  "sn-article.log"
+  "sn-article.pdf"
+  (rewritten before read)

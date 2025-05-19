@@ -7,6 +7,11 @@ nav_order: 95
 date: 08 Sep 2024
 ---
 
+<!-- aesthetic is old military tables, spreadsheets, cyberdefense zine -->
+<!-- per Kate, look at mil startups: boots on ground investigative journo needed in tracing that space -->
+<!-- also a table easier to read and more aesthetically useful, as a visual graph gets too busy. table columns can tell the story -->
+<!--  -->
+
 # AI Decision Making from Battlefield to Desktop: Tracing the Techno-Military-Industrial Pipeline
 
 <!-- ABSTRACT -->
@@ -105,11 +110,10 @@ Marked by both the 'weaponization of consumer technology' [@mozurUkraineWarBegin
 
 At this writing, in Summer 2024, one of the latest hyped tools is OpenAI's GPT-4o — sleek, eerie, and already embroiled in potential lawsuits for its questionable similarity to the sci-fi film that foreshadows its existence. GPT-4o currently shares headlines with Google AI Search, which recommends we eat glue to keep the cheese from sliding off pizza. The silliness of such suggestions belies the systems' glitchy [XXX] and [terrifying] source material.
 
-Every time I revise this talk I update the name of the OpenAI tool. 
+<!-- Every time I revise this talk I update the name of the OpenAI tool.  -->
 
 Meanwhile, starvation and war atrocities continue escalating at alarming rates in Congo, Haiti, Palestine, Sudan, [Ukraine], and elsewhere. Like many of you, I have been continually heartbroken and stupified by the images and videos of [war/these conflicts]. It feels like a futile exercise in which every day I learn today's "bad place" is just a new antechamber for an even-worse place. (I will not list the latest here, because you have seen them or know where to find them. If you wanted to you would.) Sit ins, lie ins, university protests, marches continue, yet business and art continue as usual for months and years as these traumas persist. 
 
-<!-- "Since the beginning of 2024, nearly 358,000 people have been displaced in DRC [the Democratic Republic of Congo], 80 percent of which has been caused by armed conflict. [...] A staggering 23.4 million Congolese suffer from food insecurity" [@ConflictDemocraticRepublic]. In Sudan, the Sudan Armed Forces (SAF) have just killed over 50 civilians in an airstrike in revenge for the paramilitary Rapid Support Forces (RSF) killing at least 100 people [CITE], all over the course of a day. On Friday, Israel and the US kill more than 274 Palestinian people, along with 3 Israeli hostages and at least one Israeli commander, to rescue 4 hostages from Gaza [CITE].  -->
 
 I flip back and forth between these headlines and wonder: What's the connection between AI used in genocide and war, and the AI we are using every day to generate new artworks, funny images, quippy emails, goofy gotchas, and more? When the hype wears off, will we realize these tools are the same?
 

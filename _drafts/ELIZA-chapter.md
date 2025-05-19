@@ -4,6 +4,37 @@ author: Sarah Ciston
 date: 04 Sep 2024
 ...
 
+
+When we ask if computers can understand, can be intelligent, can make art, we are really asking about what makes us human, what makes us special. Historically the question of ‘humanness’ has been a question about who gets to have rights, bodies, and agency of their own. As scholars like Simone Browne and Andrew Weheliye argue, the term human is not only scientific but carries colonial, racialized connotations, wrapped in fraught ideology, rationalized and calculated into legitimized discrimination. Asking who or what distinguishes humanity ourselves from non-humans, as well as from other humans by labeling them as non-humans (even though we cannot, and should not). Embedded within the fear of artificial intelligence, we are asking how to prevent that less-than-human fate for ourselves.
+
+Intelligence here becomes a signifier for human-ness as it is recognized as the Western subject, the non-other. The focus on how computers might copy or surpass 'human' intelligence has perhaps always been a false goal—meant as a thought experiment when it was Turing’s critical reworking of the Imitation Game—not intended as a goal for technology. (Its most famous counterargument, John Searle’s 1980 “Chinese Room” conceit, is equally loaded with racialized undertones. The dubious pursuit of this goal emerges from Western traditions of colonizing and categorizing that defined what it means to be human, in opposition to those considered less than human (Weheliye 2015, Browne 2015), and it has has led to Western capitalism's fears of being subsumed by the "existential risk" posed by AI's 'intelligence' (Bender and Hanna 2024, Kapoor and Narayanan 2023) as a stand-in for any uncontrollable other. The feminized assistant archetype repeatedly reemerges as a key object of this fear and desire: Despite the company's own warnings of the models' risks, OpenAI turned ChatGPT into the GPT-4o voiced assistant that echos the sci-fi imaginary of the film Her, itself built on fantasies of bonding with, relying on, and being overcome by automatons, fembots, service workers, and slaves. The ELIZA effect continues to triumph even as Weizenbaum warned against believing it.
+
+ Habeas Viscus: Racializing Assemblages, Biopolitics, and Black Feminist Theories of the Human. Duke UP, 2015; Browne, Simone. Dark Matters: On the Surveillance of Blackness. Duke UP, 2015.
+
+While AI's ability to automate tasks demonstrates its transformative potential more convincingly than its supposed creative capabilities, this automation further reinforces the privileging of calculable over reflective labor. 
+
+
+
+
+
+Lists were a central structure for ELIZA, and in the early 1960s they were only just emerging as a data type. The capacity for a computer to represent a word in specific relation to its neighbors would become fundamental to NLP and eventually to LLMs, which use the attention mechanism (discussed below) to understand these relationships in their complexity. This was achieved by using lists. 
+	When working at General Electric, Weizenbaum developed a precursor to SLIP called the Knotted List Structure (KLS) that focused on organizing data in relation to other data, not only to be recalled but also to be put in association., List structures might be considered some of the first (proto) relational data structures: They could store, not only the item itself and a reference or address for the item, but also an additional "link" to one or more other IDs. SLIP also supported nested lists, allowing for complex data structures. The list form allowed for contextualizing complex relationships. 
+SLIP’s sequence reader SEQRDR supports ELIZA’s keyword search, by allowing movement in a list. ELIZA reviews a list of strings in order, looking for strings that match the KEY array. It uses SEQRDR to iterate a list and update information about its position as it moves, because of the relational nature of SLIP lists. 
+	The process of attention, a key function in transformer-type models, considers every word vector in a phrase and examines many adjacent word vectors in order to modify that particular word vector in relation to the adjacent ones. 
+
+
+
+
+Finally, the conclusion reflects on the implications of this deep media archaeology of the world’s first chatbot. 
+Programs have a life of their own, and we piece together this life with snapshots of code and sample outputs, which give us single iterations of the program. The program is not the code alone, though any given instance of code can teach us much about a particular moment in its development. The code of any program is always partial. It is more than the sum of instances of the code and its outputs over time, moving through many ecosystems, across many platforms. Software programs are ongoing, dynamic, versioned, and evolving texts, rather than fixed works. Weizenbaum’s work has been often reproduced and taught, read and analyzed, ported into many other languages and platforms, and has inspired countless descendants. We have collected and analyzed not only code but transcripts and scribbles, tangents and offshoots, collecting the messy story and the many voices that make up ELIZA’s history and possible futures. In our search for ELIZA, we still have mysteries to explore, much code to uncover, read, and interpret. Weizenbaum framed our interactions with this dynamic code as conversations. Like the code and the story of ELIZA itself, we consider these conversations to be messy and ongoing, and we invite you to join us in the chat. 
+In the words of ELIZA, “Please go on.”
+
+
+
+
+
+
+
 # Go On, Now: What Future Language Models Can Learn from ELIZA
 
 “absolute understanding on the part of either humans or machines is impossible.” (Weizenbaum 1967)

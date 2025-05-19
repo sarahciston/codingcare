@@ -1,8 +1,11 @@
 source := posts
 outputhtml := docs
 outputpdf := pdf
+outputdocx := docs
+outputtex := latex
 SOURCES := posts/$(wildcard *.md)
-PDF_TEMPLATE = draft.tex #disscustom.tex # zine.tex draft.tex disscustom.tex diss.tex
+# SOURCES := drafts/$(wildcard *.md)
+PDF_TEMPLATE = sn-article.tex #draft.tex #disscustom.tex # zine.tex draft.tex disscustom.tex diss.tex
 HTML_TEMPLATE = tufte.html5 # tufte.html
 
 
@@ -20,11 +23,12 @@ PDF_FLAGS = \
 		-s -f markdown+rebase_relative_paths+emoji \
 		-t pdf \
 	 	--pdf-engine=lualatex \
-		--bibliography=posts/includes/bibliography.json \
-		--csl=posts/includes/apa.csl \
-		--citeproc \
 		--template=latex/$(PDF_TEMPLATE) \
+		--bibliography=posts/includes/bibliography.json \
+		--citeproc \
+		--resource- \
 
+### --csl=posts/includes/chicago-author-date.csl \
 #### replace all .gif with .png and change back afterward ###
 		
 # --citeproc
@@ -52,6 +56,23 @@ HTML_FLAGS = \
 # 		--to html5+smart \
 # 		--template=_layouts/tufte-mod.html5 \
 # 		$(foreach style,$(STYLES),--css $(notdir $(style))) 
+
+
+DOCX_FLAGS = \
+		-s -f markdown+rebase_relative_paths+emoji \
+		-t docx \
+		--pdf-engine=lualatex \
+		--template=latex/$(PDF_TEMPLATE) \
+		--bibliography=posts/includes/bibliography.json \
+		--data-dir=latex \
+
+TEX_FLAGS = \
+		-s -f markdown+rebase_relative_paths+emoji \
+		-t latex \
+		--pdf-engine=lualatex \
+		--template=latex/$(PDF_TEMPLATE) \
+		--bibliography=posts/includes/bibliography.json \
+		--data-dir=latex \
 		
 STYLES := _site/assets/css/tufte-tt.css \
 		_site/assets/css/pandoc.css \
@@ -79,6 +100,14 @@ STYLES := _site/assets/css/tufte-tt.css \
 .PHONY: pdf
 %.pdf: $(source)/%.md
 		pandoc -o $(outputpdf)/$@ $(PDF_FLAGS) $<
+
+.PHONY: docx
+%.docx: $(source)/%.md
+		pandoc -o $(outputdocx)/$@ $(DOCX_FLAGS) $<
+
+.PHONY: tex
+%.docx: $(source)/%.md
+		pandoc -o $(outputtex)/$@ $(TEX_FLAGS) $<
 
 .PHONY: clean
 clean: 
