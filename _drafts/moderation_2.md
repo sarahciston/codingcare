@@ -9,26 +9,26 @@
 # 1. "SOMEONE WANTS TO CUT A HOLE IN YOU AND FUCK YOU THROUGH IT, BUDDY" | Introduction
 
 [**hook**]
-Getting answers from generative AI may seem as simple as composing a prompt; but a large, deterministic infrastructure of guardrails helps keep large language models (LLMs) on track. Large foundation models, designed for a broad range of tasks and for later modification via fine-tuning, are known to be ripe for misuse and exploitation. Companies' AI safety teams work to maintain what the AI industry terms "alignment" in order to ensure their models are in keeping with the human values they wish to support. They argue that these require continual vigilance and adjustment, as users continually test models' boundaries. [XXX][However, the assumptions built into these guardrails are just as broad as tasks expected of the foundation models themselves.] [research questions][XXX] 
+Getting answers from generative AI may seem as simple as composing a prompt; but a large, deterministic infrastructure of guardrails helps keep these tools on track. Their large foundation models, designed for a broad range of tasks and for later modification via fine-tuning, are known to be ripe for misuse and exploitation. Companies' AI safety teams work to maintain what the AI industry terms "alignment" in order to ensure their models are in keeping with the human values they wish to support. They argue that their tools require continual vigilance and adjustment, as users continually test models' boundaries. At the same time, the baseline values their models are designed to reinforce are rarely given more than cursory contextualization. The cultural and values-based assumptions built into these guardrails are just as far-reaching as tasks expected of the foundation models themselves. There are disparities in what values are selected, how they are interpreted, how they are applied, how they are technically managed, benchmarked and [XXX], and how they impact [users]. They are used as justification to manage the language of billions of inputs and outputs of their worldview-reinforcing devices. 
 
-**Research Question: How are guardrails socially produced and technically enforced?**
+This paper explores how large model guardrails are socially produced and technically enforced through language. It traces the [XXX]
 
 [**definitions**]
-The term guardrails (broadly) refers to the restrictions placed on models (and by extension users) in order to keep models operating as their designers wish. They detect, prevent, or correct unwanted content [@BuilderAI]. Their techniques and taxonomies can be incorporated into a model's initial training as well as into later refinements. Guardrails and content moderation are related in their goals but distinguished by their approaches: Guardrails are a proactive strategy for anticipating potential issues, built into the model independent of user prompting. Content moderation happens reflexively, when a user's prompt or a model's reply flags an issue. Moderated content can then become additional data for additional guardrail training during reinforcement learning; and many guardrails enforce aspects of content moderation, i.e. preventing the discussion or display of certain topics, but guardrails also control for other outcomes including jailbreaks. 
-
+The term guardrails broadly refers to the restrictions placed on models (and by extension users) in order to keep models operating as their designers wish. They detect, prevent, or correct unwanted content [@BuilderAI]. Their techniques and taxonomies can be incorporated into a model's initial training as well as into later refinements. Guardrails and content moderation are related in their goals but distinguished by their approaches: Guardrails are a proactive strategy for anticipating potential issues, built into the model independent of user prompting. Content moderation happens reflexively, when a user's prompt or a model's reply flags an issue. Moderated content can then become additional data for additional guardrail training during reinforcement learning; and many guardrails enforce aspects of content moderation, i.e. preventing the discussion or display of certain topics, but guardrails also control for other outcomes including jailbreaks. 
 
 [**argument-setup**]
 At their core, guardrails (including automated content moderation) are always enacting control through an exchange of language. They determine permissible language through language-based interfaces: They evaluate users' written or spoken prompts, and prevent or correct models' outputs based on these. This paper looks at guardrails in formation as distinct technical processes within text-based machine learning pipelines. They work similarly to other evaluative processes, in that they 'solve for' the designers' most desirable, normative, or expected results; however, they are useful to study as the most explicitly values-based and thus least subtle processes which do so. By transforming subjective values and concepts into quantified categories, guardrails codify, replicate, and distribute definitions — separating the 'signal' from the 'noise' of content that should be moderated. This paper treats guardrails as a language problem, framed as a particular form of conversation. Like all code execution, these processes are potentially value-defining and meaning-making (as speech acts [@marinoCriticalCodeStudies2020a, @austinHowThingsWords2009]), but occur as numerical manipulations at scales and speeds illegible to the human sensorium [@hansenFeedForwardFutureTwentyFirstCentury2015]. This meaning making is implicit and opaque, as the 'black box' converts technical measures into social definitions, without regard for how their meanings transform (see [@berryTracingToxicityCode2023] for a discussion of this effect with regard to measuring 'toxicity'). 
 
 <!-- why this matters -->
 The challenge is to distinguish useful flagging from useful content that got flagged. However, this distinction is always utterly contextual and thus can’t be automated. Critical AI research agrees that AI techniques should not be used in high risk situations, and we must also consider these high ambiguity situations as well — in particular where high risk and high ambiguity overlap. 
+
 *How much can even take seriously using the frameworks and rubrics made within these mindsets and paradigms?*
 As language becomes machine readable, must it be beholden to taxonomies? And how can the values contained within those taxonomies, working their way through layers of vectorization and into every prompt reply, be reconsidered? 
 
 
 ### 1.1 Related work
 
-More and more research is exploring hate speech and content moderation, including Berry's 2023 look at the Jigsaw/Perspective API using critical code studies. The focus on hate speech 
+More and more research is exploring hate speech and content moderation, including Berry's 2023 look at the Jigsaw/Perspective API using critical code studies [@berryTracingToxicityCode2023]. The focus on hate speech 
 [XXX-moredatasets]
 [XXX-addRelatedResearch]
 Caroline Sinders (2017) noted of the same model that shorter texts or non-Latin alphabets were more likely to be marked 'toxic', [@sindersToxicityToneAre2017] indicating that what is actually being measured is not toxicity but 
@@ -56,13 +56,10 @@ this——or does it focus on a problem of removing a negative whereas an approa
 By 2020, Vidgen et al. had catalogued more than 60 hate speech datasets created as part of these well-intentioned efforts to address harmful and divisive speech through technological interventions [@vidgenDirectionsAbusiveLanguage2020]. It is easy to find plentiful examples of the types of speech and behavior meant to be addressed by moderation, safety and alignment. It is much more difficult to find consistent, effective application of these tools producing the intended impact — or datasets that contribute to providing alternatives to hate speech, rather than focusing on training for removal of unwanted content, there is little focus on additive approaches or diversifying approaches (and these tend to focus on creating synthetic data rather than working with the communities most impacted to explore what kinds of data they wish to have represented in datasets instead). 
 
 
-
 **One question is what role automated tools should have in these human-machine conversations and processes:** Should they generate content on which to train, moderate by classifying or ranking human content (or machine content), redirect or prohibit human language or behavior through subtle or explicit rhetorical strategies? Currently they do variations of all of these tasks and more. Should they reflect data as they are captured (descriptive but normalizing and flawed), or should their data be adjusted to better align with and represent a version of the world we value—or can even stomach (more values-driven  but [XXX])?
 
 
 ## So What
-
-
 
 Lucy Suchman's argues against "interventions in the field of AI controversies that fail to question and destabilise the figure of AI risk enabling its uncontroversial reproduction." With that in mind, this work hopes to disrupt the [elements/foundations/definitions] of risk as defined in code and conversation within AI communities, which are framed around the kinds of difference which ought to be removed from AI models. It takes up Suchman's call "for a keener focus on their locations, politics, material-semiotic specificity and effects" [@suchmanUncontroversialThingnessAI2023] via the tools of critical code studies, taking apart the structures and processes that get lumped together as "AI" in order to understand how their infrastructures form linguistic and ideologic [structures/sandcastles]. 
 
@@ -73,16 +70,10 @@ is it that another world is possible, but these logics surface the worst of us?
 
 Separate the jetsam (deliberately thrown overboard) from the flotsam — to the programmers of large models it may be debris, noise to their signal, but perhaps they are looking in the wrong places, lightening the load for the wrong reasons. What can we salvage from the wreckage AI creates? What can we keep away from the wreckage at all? from outside [see also lagan, heavy enough to sink, or trapped within a sinking vessel; derelict / derelictus (abandoned, foresaken), sunk with no hope of reclaiming][great pacific garbage patch of data]
 
-
 # 2. "SAVOR KINDNESS, BECAUSE CRUELTY IS ALWAYS POSSIBLE LATER" | Methods 
 
 
-
-
-
-
-
-
+*For a review on the use of API see Hartmann*
 
 The work here attempts to examine guardrails' technical measures as value-making processes, via an exploration of their datasets, application programming interfaces (APIs), documentation, and methodology research. It will touch on some of the forms guardrails take as a combination of automated process, manually coded rules, or written codes of conduct; the variety of content they address through pre-determined categories of risk, different categories of language, different topics and domains, and different levels of granularity and severity; and the different responses they produce from 0-1 scores, true/false evaluations, generated text, or degrees of subtle or direct redirected behavior. They include many points of intervention: aligning the model to perform as desired in the first place, testing the model's ability to curb users who are trying to get it to do something undesired, plus various options for updating the system manually or retraining the model (which can be more resource intensive) when issues are found.
 
@@ -834,7 +825,9 @@ Of note was that their paper on mitigating discrimination was attempting to avoi
 w identity and difference and representation
 w weapons and research development
 
-Hartmann et al. found that overmoderation of counterspeech, such as reclaiming slurs, was more [@hartmannLostModerationHow2025a] "all providers under-moderate implicit hate speech, which uses codified messages without identity terms, especially against LGBTQIA+ people. Simultaneously, they over-moderate counter-speech, reclaimed slurs and content related to LGBTQIA+, Black, Jewish and Muslim people."
+Hartmann et al. found that overmoderation of counterspeech, such as reclaiming slurs, was more [@hartmannLostModerationHow2025] "all providers under-moderate implicit hate speech, which uses codified messages without identity terms, especially against LGBTQIA+ people. Simultaneously, they over-moderate counter-speech, reclaimed slurs and content related to LGBTQIA+, Black, Jewish and Muslim people."
+
+They build on a theory of hate speech from Marques [@marquesExpressionHateHate2023] to frame hate speech as an implicit or explicit "discursive act of discrimination, which operates on its targets in constitutive and causal ways to effect the denial of equal opportunities and rights" [@hartmannLostModerationHow2025], in contrast to the broader, vaguer term 'toxicity' taken up by many [AI-companies]. This study also looks at counterspeech, approaches made to reclaim and challenge hate speech using similar terminology in different contexts. "Over- and undermoderation are closely related to sender and target group dynamics" [@hartmannLostModerationHow2025] — that is to say, there are patterns to which topics and communities get overmoderated and which get undermoderated.
 
 <!-- Arnett et al. ToxicCommons dataset of open-access historical texts, labeled by people for five categories of potential harm "(racial/origin-based, gender/sex-based, religious, ability-based discrimination, and violence)", used to train a classifier Celadon. -->
 <!-- Issues with open-access corpora that they contain more (??or just that we can see what is there) "implicit bias and stereotypes" and "levels of severity (0,1,2,3)" [@arnettToxicityCommonsCurating2024] -->
