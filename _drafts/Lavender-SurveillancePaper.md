@@ -127,6 +127,9 @@ Microsoft opened its Israel data center in late October 2023, [@commentMicrosoft
 
 Oracle has an underground data center. "Constructed by Bynet Data Communications, the underground facility is a 14,000 sqm (460,000 sq ft) bunker locate below five parking levels and a 17-story building in Jerusalem’s Har Hotzvim tech hub. The data center extends over four floors at a depth of 50 meters (160 feet) below ground level." [@commentOracleOpenIsraeli2021]
 
+>"more surveillance and technology companies have packaged stolen or hacked data and then sold access to that information to law enforcement. The practice raises questions around the ethics of re-using such data for surveillance purposes; the legality of doing so; and the chain of custody of that information [... and second] when people open a credit card their personal information is sent to the credit bureaus in their role as monitoring peoples’ credit. Some bureaus then repackage and sell this information to law enforcement or other data brokers" [@coxLicensePlateReader2025] 
+Nova argues that their centralization of these processes add an audit trail, thus "a layer of transparency and accountability" however that trail is behind closed doors of a private corporation for whom law enforcement are its customers. 
+
 # "THE FUTURE IS STUPID" | Discussion
 
 It's unclear yet the real power of these kinds of tools, but these examples show the subtle ways that familiar, seemingly benign technologies are imbricated with AI warfare.

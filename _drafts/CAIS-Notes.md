@@ -104,7 +104,7 @@ Democratic moderation: https://dl.acm.org/doi/10.1145/3706598.3713577
 
 
 
-# SciComm Workshop
+# SciComm Workshop 22.05.2025
 
 What's your SciCom profile? 
 
@@ -123,3 +123,9 @@ wild/bold/weird/fun formats:
 - musical
 - scavenger hunt
 
+# 28.05.2025 // Florian Wintennlin "Framing Scientific Evidence / Qualitative Analysis / Micro-Frames / Comments on Climate Change"
+
+- framing about making aspects salient, emphasizing a specific aspect: 4 elements, weight the problem and treatment recommendations but not relevant for analyzing how ppl justify their beliefs
+- method proposed: qualitative, interpretive frame analysis. vs analytical. 
+
+- truth as socially constructed, from a discourse perspective. what justifications people base their truth claims on, what counts as knowledge.

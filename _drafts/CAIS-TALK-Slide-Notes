@@ -1,0 +1,90 @@
+CAIS-TALK-Slide-Notes
+
+1. Thank you to everyone at CAIS. It has been such a joy so far, and a really engaging and fruitful research community. 
+   0. Intro Samir. Collab on Code Collective at USC. They adopted it at UC Santa Cruz, (Computer Science)
+   1. Me: Artist-researcher, interested in difference represented in AI, alt approaches that are accessible to AI outsiders
+2. Today:
+   1. I'll talk about my CAIS project UP
+   2. and also briefly AIWC
+3. Research Questions
+   1. What do LMs say about ppl like me? — A paucity of language, what is there is rote, one note. Or worse, its one dimensional experience is a traumatic one.
+   2. How do LMs training data and techniques — that is, the language used to make models — reveal their limitations? What are the processes that are creating these reductions?
+   3. How can intersectional, interdisciplinary, and critical-creative approaches investigate and intervene? 
+4. A lot of research has compared outputs, and we can learn a lot from this. For example: Expected output...
+
+5. Disappointing output... 
+   1. Knowledge is limited even when it's fine tuned to “optimize out” the bias. Normally the size of these models means they pull in racist text, inaccurate text, private text, and other kinds of problematic text.
+   2. They're framed as being for "general" audiences but only represent a certain White Western POV
+   3. But what is behind it
+
+6. ML is like a pipeline but where materials come from matters, and how the production is done matters — it can be fast fashion, but it could potentially also be a curated, thoughtful production process.
+   1. Normally not looking at the middle part, but want to use creative-critical methods, build accessible tools to do so
+
+7. When we track down the text datasets that feed into the initial models, which means tracing back quite a few steps, there's not much to tell us the origins. These giant datasets do not offer any more information about the journey this text took to arrive in this corpus, who authored it or when, what it might contain. No context in the documentation either. Comes from Reddit, Wikipedia. 
+
+8. The size of these models prevents their comprehensive review. In analyzing a subset of such datasets, using keywords around the queer identity groups in my case study, the results are what you might expect — similar to what we see in the output. This is cosign similarity scores for 'bisexual' and 'transgender' from OpenWebText2, used to train GPT models.
+
+9.  & 10. It's difficult to develop criteria by which they should be reviewed or adjusted. The big companies automate this process, but don't agree on moderation criteria — this is what I'm currently looking at. Comparison of criteria. 
+   1. IMPORTANT BECAUSE: 
+      1. The formatting that it goes through is a series of technical filters that also end up filtering out potentially important cultural content arbitrarily. 
+      2. Making ethical and political decisions through loosely or non-defined technical rubrics. 
+      3. Asking whose voices are included and excluded
+
+11.  Imagine slower more thoughtful processes that account for themselves. Traceable, consent-minded datasets that honor their origins and show their work. Here's a sample of what that might look like. This would acknowledge the manual labor that goes into all of machine learning that currently goes unacknowledged, or that gets bypassed to detrimental effect. 
+     1.   However, reconsidering this after my archive visits, because every AI use case is an AI mis-use case. Even attempts to train guardrails for systems to protect from harm seem to have incredible shortcomings, and until there is a much larger change in overall tactics, I'm not sure it makes sense to utilize queer data in this way. This is an open question for the project.
+
+12. At CAIS so far I have been focusing on how text datasets are used during reinforcement learning as part of this GUARDRAILS training (as well as the taxonomies shown above): 
+    1.  [Just submitted paper to AI & Society on this topic] I'll show two examples of datasets I studied that were created to mitigate harm, used later in the ML pipeline, but both leave lots of questions.
+    2.  Datasets are often made with other models, to create synthetic data, a snake eating its own tail
+    3.  Often creating proxies for identity and plugging them in, not representing cultures in their richness. We don't know how this limits the models because any nuance is filtered out or wasn't there in the first place. (Hendrick's paper shows overmoderating counterspeech and undermoderating hate speech)
+
+13. Values getting embedded unconsciously and implicitly. Curated, even if the curation is aligned toward an American techbro worldview. These models enacts a totalizing approach that—rather than representing a multitude of voices, centers, normalizes—and affirms a powerful status quo while leaving out the experiences of many others even as they capture our data.
+
+----
+
+14. Pivoting briefly second project: The AI War Cloud Database asks What responsibilities do users and makers have in choosing AI tools, when their development can also lead to deadly outcomes at massive scales? 
+   1. AI War Cloud Database catalogues the systems used to make automated decisions in warfare, and it maps where the same types of tools appear in smartphones and popular social platforms.
+   2. Today announced prize awarded by Euro Commission and Ars Elec. The STARTS Prize... festival w exhibition in early Sept
+
+15. Moving across domains, from military to commercial applications. By connecting the tools and tasks across domains, I hope to trace the embedded ideologies that allow them to cross over. We are seeing the 'weaponization of consumer technology' and the consumerization of weapons technologies narrow the technological imaginary toward violent futures — and this also raises the urgent stakes for the tools in our own pockets. 
+
+16. I focus specifically on the ML tools which combine massive datasets and compute power to create what militaries call "AI decision-support systems (AI-DSS)." I do not focus on unmanned vehicles or on other advanced weaponry — but rather on the data-gathering, data-processing, model-making, and decision-supporting capacities. 
+   1. I use the machine learning tasks themselves in order to establish a framework for reading these systems and approaches across the techno-military-industrial complex. 
+   2. Exposing and analyzing via types of ML tasks — shows how the very same processes, tasks, and technologies are used to kill people as are used to recommend movies and to help write emails. 
+
+17. Tracing connections across borders and over time. Tracing these shows how power is shifting to private companies — big tech and small startups — wielding extrajudicial power through experimental tech. Shifting quickly, difficult to regulate. 
+   1.  Can see as part of a bigger pattern of technology and power through colonial history, not just AI. 
+
+---
+
+18. Questions:
+    1.  Connections between these projects: I see relation via questions of 
+        1.  digital sovereignty, 
+        2.  accessible tooling 
+        3.  (and disturbing uses of tech)
+        4.  but I'd be interested to discuss these and others you see
+    2.  Next steps with exploring the ML pipeline, directions with guardrails or taxonomies, how else to explore
+
+
+NOTES
+
+
+
+- 1 min per Slide
+- why this topic
+- why this platform / format
+- disciplinary perspective
+- work so far
+  - methodologies paper to AI&S
+  - 
+- outcomes desired
+- ongoing questions / what I'd like to gain at CAIS
+- AI War project & how I connect them
+- 
+
+- which materials: specific datasets and why: 
+  - the pretraining datasets: The Pile, 
+  - the reinforcement datasets and benchmark
+  - 
+  - 
+

@@ -5,6 +5,9 @@ title: Meaning Weaver
 nav_order: 95
 ---
 
+"The difference is impressive when the adults' results are compared with the richness of perception and imagery of children in the third and fourth grade when given the same task (Fig. 3). Miller reﬂects upon these delightful results: 'Children tend to put together words that might be used in talking about the same thing—which cuts right across the tidy syntactic boundaries so important to adults.'" George Miller (1967) quoted in [@vonfoersterUnderstandingUnderstandingEssays2003]
+
+
 >"It doubtless seems queer, when one first meets it, that information is defined as the logarithm of the number of choices." "But in the unfolding of the theory, it becomes more and more obvious that logarithmic measures are in fact the natural ones." (Weaver (w Shannon) 1949) 
 
 >"a 'bit,' first suggested by John W. Tukey, being a condensation of a 'binary digit.'. [...] Zero and one may be taken symbolically to represent any two choices, as noted above; so that 'binary digit' or 'bit' is natural to associate with the two-choice situation which has unit information. If one has available say 16 alternative messages among which he is equally free to choice, then [...] one says that this situation is characterized by 4 bits of information." (16 = 2^4 so that log base 2 16 = 4)
