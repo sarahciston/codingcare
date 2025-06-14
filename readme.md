@@ -9,3 +9,6 @@ To make a zine that is print and foldable, convert the pdf on the commandline:
 To print emojis in LaTex for PDF (I forgot what I did that worked; this is why I should be documenting as I go!):
 
 To output GIFs into PDF with pandoc/LaTex, I have to replace them with PNGs first. Easier to do manually with find replace and 'convert' on the command line. Don't forget to convert back!
+
+to create renders "make" plus markdown filename plus file type
+e.g. "make index.html"

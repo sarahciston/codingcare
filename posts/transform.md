@@ -339,7 +339,7 @@ Transformers are the latest, but won't be the last, in a long string of systems 
 
 [^techterms]: For more explanation of terms, see "A Critical Field Guide for Working with Machine Learning Datasets" and "Intersectional AI Toolkit."
 
-The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate text context through a mechanism called "self-attention" that examines a selection of word-units surrounding each word-unit they interpret. [@vaswaniAttentionAllYou2023] As they proceed, they use this interpretation to predict the next most likely word to appear in a sentence, based on the words that have commonly appeared near the last few words before. 
+The paper that launched a thousand transformer models was called "Attention Is All You Need." Transformer language models incorporate text context through a mechanism called "self-attention" that examines a selection of word-units surrounding each word-unit they interpret. [@vaswaniAttentionAllYou2017] As they proceed, they use this interpretation to predict the next most likely word to appear in a sentence, based on the words that have commonly appeared near the last few words before. 
 
 But we need more than self-attention. We need self-reflection and co-regulation. We need systems that, in their very architectures, celebrate difference - rather than erase it.  
 

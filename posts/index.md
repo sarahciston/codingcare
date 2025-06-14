@@ -5,19 +5,20 @@ subtitle: Guidebooks for Intersectional AI
 nav_order: 0
 ---
 
+
 <div class=bubblegroup>
   <div id="intro" class="bubble" draggable=true markdown=1>QUEER [Introduction](critintro.html)</div>
   <!-- <div></div> -->
-  <div id="cccguide" class="bubble" draggable=true markdown=1>CRAFTING [Coding.Care: Field Notes for Making Friends with Code](guide.html)</div>
   <div id="unraveling" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Raveling](unraveling.html)</div>
-  <div id="transform" class="bubble">TRANS [Crafting Queer Trans\*formative Systems, A Theory in Process](transform.html)</div>
+  <div id="cccguide" class="bubble" draggable=true markdown=1>CRAFTING [Coding.Care: Field Notes for Making Friends with Code](guide.html)</div>
   <div id="unlimiting" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Limiting](unlimiting.html)</div>
-  <div id="fieldguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a></div>
+  <div id="transform" class="bubble">TRANS [Crafting Queer Trans\*formative Systems, A Theory in Process](transform.html)</div>
   <div id="unforming" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Forming](unforming.html)</div>
-  <div id="libguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets<br>Research Guide</a></div>
+  <div id="fieldguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a></div>
   <div id="unliving" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Living](unliving.html)</div>
-  <div id="toolkit" class="bubble" draggable=true markdown=1>SYSTEMS <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a></div>
+  <div id="libguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets<br>Research Guide</a></div>
   <div id="unknowing" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Knowing](unknowing.html)</div>
+  <div id="toolkit" class="bubble" draggable=true markdown=1>SYSTEMS <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a></div>
   <div id="notes" class="bubble" draggable=true markdown=1>[Progress Notes](notes.html)</div>
   <div id="acknow" class="bubble" draggable=true markdown=1>[Acknowledgments](acknow.html)</div>
   <div id="append" class="bubble" draggable=true markdown=1>[Appendices](appendices.html)</div>
@@ -98,3 +99,24 @@ As interstices among these texts, a collection of short essays imagine dialogues
 
 <!-- [Progress notes](notes.html) -->
 
+
+<!--
+<div class=bubblegroup>
+  <div id="intro" class="bubble" draggable=true markdown=1>QUEER [Introduction](critintro.html)</div>
+  <div></div> 
+  <div id="cccguide" class="bubble" draggable=true markdown=1>CRAFTING [Coding.Care: Field Notes for Making Friends with Code](guide.html)</div>
+  <div id="unraveling" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Raveling](unraveling.html)</div>
+  <div id="transform" class="bubble">TRANS [Crafting Queer Trans\*formative Systems, A Theory in Process](transform.html)</div>
+  <div id="unlimiting" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Limiting](unlimiting.html)</div>
+  <div id="fieldguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://knowingmachines.org/critical-field-guide" target="_blank">A Critical Field Guide to Working with Machine Learning Datasets</a></div>
+  <div id="unforming" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Forming](unforming.html)</div>
+  <div id="libguide" class="bubble" draggable=true markdown=1>FORMATIVE <a href="https://libguides.usc.edu/inclusive-datasets" target="_blank">Inclusive Datasets<br>Research Guide</a></div>
+  <div id="unliving" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Living](unliving.html)</div>
+  <div id="toolkit" class="bubble" draggable=true markdown=1>SYSTEMS <a href="https://sarahciston.gitlab.io/toolkit/" target="_blank">Intersectional AI Toolkit</a></div>
+  <div id="unknowing" class="bubble" draggable=true markdown=1>\* [Codes for (Un)Knowing](unknowing.html)</div>
+  <div id="notes" class="bubble" draggable=true markdown=1>[Progress Notes](notes.html)</div>
+  <div id="acknow" class="bubble" draggable=true markdown=1>[Acknowledgments](acknow.html)</div>
+  <div id="append" class="bubble" draggable=true markdown=1>[Appendices](appendices.html)</div>
+  [Appendices](appendices.html) 
+   [Acknowledgments](acknow.html) 
+</div>-->
