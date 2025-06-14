@@ -252,7 +252,7 @@ Lavender works by collecting:
 
 >"Sariel’s schematic was presented with the title “PU Learning.” The term likely refers to “positive and unlabeled learning,” a special case of semi-supervised learning problems in which the training data for a classification algorithm only includes labels for the positive class. The classification algorithm must, therefore, learn how to predict whether a sample is a member of the positive or negative class based on only having access to positive examples in the training data. In this case, the words “positive” and “negative” refer to whether the sample, or individual, is a militant or not. This means that, in the training data (and perhaps in the IDF’s military strategy and ideology more broadly), there is no category for Palestinian civilians." [@lenowIsraelsWarCrimes2024]
 >"In 2014, forty-three veterans that served in Unit 8200 signed a letter criticizing the unit and refusing further service, saying that, “Information that is collected and stored [by Unit 8200] harms innocent people.” Much of the Israeli government’s data, data storage, and computing power comes from Google and Amazon, afforded by multiyear, multibillion-dollar contracts." 
-[@lenowIsraelsWarCrimes2024]
+[@lenowIsraelsWarCrimes2024] [ysHumanMachineTeam2021]
 
 ## How to write about the horrors, the connections
 

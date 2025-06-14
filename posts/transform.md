@@ -18,7 +18,7 @@ tags: [transformative, systems, theory, practice, hybrid]
 
 The works of *Coding.Care* are experiments and instructions for myself (and selves past-present-future). They gather tactics from many traditions, making connections, collecting strategies, and wayfinding for the kinds of worlds and systems I want to participate in and create. As a phrase, 'crafting trans\*formative systems' both proposes and describes a present possibility — an intersectional trans\*feminist approach to reading and relating to emergent technological systems. 
 
-[XXX]
+<!-- [XXX] -->
 
 What does it mean to move from thinking of technology to thinking of crafting systems, in particular queer trans\*formative systems? It means to shift scales, both zooming in and also zooming out. 
 
@@ -57,7 +57,7 @@ Craft remembers how to operate by slow consideration in and for community, in co
 
 ### How is this different from critical making, hackerspaces, creative coding, or anything else?
 
-This builds on, combines, and further develops key ideas from critical maker groups, creative coding communities, and artistic research practices. Perhaps distinctive here are the attention to radical belonging and the combination of intersectional queer-trans politics, the formation of critical–creative lenses (always plural), the emphasis on embedding within communities and moving among [XXX]
+This builds on, combines, and further develops key ideas from critical maker groups, creative coding communities, and artistic research practices. Perhaps distinctive here are the attention to radical belonging and the combination of intersectional queer-trans politics, the formation of critical–creative lenses (always plural), the emphasis on embedding within communities and moving among communities rather than fixed identities and individualities.
 
 ### What craft is not
 
@@ -76,7 +76,7 @@ But craft need not stay polite or straighten its rough edges. "Anticolonial writ
 Reclaiming craft does not mean shrinking so small that we cannot be effective, nor so precious about aesthetics or rhetoric that we lose the cause. It does not mean a return to luddite nostalgia: Everything was *not* simpler in the past, except for the few people who held more power over others (much like now). Reclaiming craft from its feminized, domesticized, racialized pejoratives and applying craft as a lens for technology practices means embracing its scrappy imperfections and revolutionary potentials. 
 
 
-[xxx][inserted from intro]
+<!-- [xxx][inserted from intro] -->
 
 Craft is not aesthetics, or a discussion about "is it art" or "can computers do what humans do, or should they?"
 
@@ -85,14 +85,16 @@ Craft is not aesthetics, or a discussion about "is it art" or "can computers do 
 
 Questions about art and creativity in relation to AI are bigger than beauty; they are fundamentally questions trying to define humanity: *What makes us creative or empathetic? What makes us different from machines? What makes us human?* They are old, old questions. They emerge from centuries of colonizer thinking that frames 'man' as an idealized, individualized white subject. These questions must be answered instead with creative–critical–caring approaches that open up space beyond these constraints. Combined with critical tools, artistic experimentation and creative play are powerful methods for intersectional worldbuilding that can challenge deep-seated paradigms in machine learning, data science, and technology communities — and can formulate new ones with diverse perspectives. 
 
-[XXX]
+<!-- [XXX] -->
 
 
 ### What craft allows
 
-Many have paired code with craft, or talked about the similarities of knitting or weaving with programming. Yes, let's celebrate these similarities and decontextualize the linear histories of computer programming, but also let's push this argument further. Not only should we bring craft's materials into coding spaces, but also we should bring craft's ethos and ethics into coding spaces as well. It's not enough to weave electronics into our fiber arts as a way to build technical literacy; we need to weave intersectional methods and mindsets into technical arts. Craft carries many of these methods and mindsets in its material culture. This section will discuss a few of these aspects.
+Many have paired and continue to pair code with craft, or have discussed the similarities of knitting or weaving with programming. Yes, let's celebrate these similarities and decontextualize the linear histories of computer programming, but also let's push this argument further. Not only should we bring craft's materials into coding spaces, but also we can bring craft's ethos and ethics into coding spaces as well. It's not enough to weave electronics into our fiber arts as a way to build technical literacy; we need to weave intersectional methods and mindsets into technical arts. Craft carries many of these methods and mindsets in its material culture. This section will discuss a few of these aspects.
 
 Focusing on craft means noticing the material, handworked, skilled, tinkered, iterative, process-oriented, embodied (intersectional) practices of knowledge and production that technologies emerge from. It means noticing how such practices can intervene in existing technologies and reshape emerging ones. It acknowledges human choices; built skills, tacit knowledge, and material needs; networks and communities of practice. 
+
+Note also that craft also refers to critical and reflective skillsets as well as and necessarily alongside tacit knowledge and creative expression. In Phil Agre's "Toward a Critical Technical Practice" [-@agreCriticalTechnicalPractice1998] he calls for critics to create and creators to critique, asking that "[AI people] take seriously the craft nature of their work." He means its built nature, its embeddedness in a world that has been thought through and moved through by many practitioners in other fields as well. 
 
 #### Scale
 
@@ -219,7 +221,7 @@ This imaginative work is central to supporting very practical next steps and str
 
 Cinematic arts professor and critic Holly Willis [-@willisFastForwardFuture2016] argues "arts-based research is rooted in critical theory, framing the research process within the context of power, emancipation and a deep questioning of the ethical and ideological implications of knowledge and change." 
 
-[xxx][end inserted from intro]
+<!-- [xxx][end inserted from intro] -->
 
 Craft is also a means of thought. Textile designer Nithikul Nimkulrat describes craft, "not only as a way of making things by hand, but also as a way of thinking through the hand manipulating a material." She suggests that in craft, thinking is a sensory act, inextricable from doing. "Knowledge of a creative practice thus lies in and can be acquired from within the practice itself. In other words, thinking and knowing are inseparable from making in any craft or designerly practices." This makes it imbued with responsibility to ourselves and each other.
 
@@ -264,7 +266,9 @@ In ["Google Maps Hack (Traffic Jam)"](https://simonweckert.com/googlemapshacks.h
 
 These forms of refusal replace what they reject with alterative visions for more liberatory technologies. Creative and social computing scholar and activist Dan McQuillan argues current AI systems exacerbates existing aspects of society that act violently to exclude and enclose. He calls for an anti-facist approach to AI that can [enact/enforce/instantiate] "a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we're already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good" [@mcquillanResistingAIAntifascist2022]. We can start with looking at how existing models, methods, and methodologies indicate the changes that need to be made, not in the models alone but in the world, argues digital democracy scholar Wendy H. K. Chun: "Machine learning and predictive models as they currently exist can also resist reduction, but only if we treat the gaps between their results and our realties as spaces for political action, not errors to be fixed. [We need to treat these models as we do global climate change models. GCC models offer us the most probable future, given past actions, not so that we accept that future, but so we work to change it. Only global climate change deniers seek to fix the model, rather than the world.]" [@chunDiscriminatingDataCorrelation2021]. As Chun and McQuillan suggest, we need more than the mere governance of emerging technologies as they are currently conceived, and instead require moves towards prefigurative practices. <!-- abolition --> Crafty tactical media can queer the use of machine learning systems and other emergent technologies in order to reveal their classificatory, reductionist logics. By applying techniques like aversarial use, extreme use, handcraft practices, and esoteric systems, a craft lens helps imagine and enact "a committment to radical alternatives." As trans\*formative systems suggests, such alternatives already exist, if we are willing to write, build, create, and cooperate in ways that reveal them and allow them to flourish.  
 
-**Abolitionist action** that examines and rejects punitive structures, replacing them with supportive and sustaining systems of care. [XXX-examples and connect to handcraft and tech]
+**Abolitionist action** that examines and rejects punitive structures, replacing them with supportive and sustaining systems of care. 
+
+<!-- [XXX-add examples and connect to handcraft and tech] -->
 
 >"Embracing the nuances of crafted art forms [...] exemplifies the non-linear, embodied, diffractive ways of reading, interpreting, and understanding the world while questioning what AI tools can do and the extent to which craftspeople have a say in what AI tools should be doing instead. I contend that AI does not produce newness but rather 'newly' suggests how craftspeople have always been creative agents for shaping the future of culturally and visually-informed algorithmic systems." [@reddyReadingAIFamily2023]
 
@@ -299,9 +303,9 @@ This is a queer embrace of [a combination of] radical difference, radical belong
 This ethos is a necessary component needed for transformative learning and joy and change, which has been missing from too many coding communities and tech communities and activist communities and elsewhere.
 <!-- It is queer as in fuck you, as in queerOS, as in weird and resistant and not explaining, refusal, not critical maker, not creative coding. -->
 
-[XXX][queer belonging, radical belonging, radical difference]
+<!-- [XXX][ADD queer belonging, radical belonging, radical difference] -->
 
-[XXX][queer trans decolonial always-already trans before trans]
+<!-- [XXX][ADD queer trans decolonial always-already trans before trans] -->
 
 ## Trans\*formative
 
@@ -349,8 +353,8 @@ Trans\*-ness[^transnote] can be fluid, in motion, evolving, and emergent. It can
 
 This approach to trans\*formative technological practices has no prerequisites. It does not require glowups or dead names, no traumatic 'before' in order to desire or access better 'afters'. We are already queer-enough, coder-enough, worthwhile-enough to participate in continually becoming ourselves. We are ["always-already programming"](https://sarahciston.github.io/codingcare/guide.html#take-comfort-in-this-programmers-paradox) [@AlwaysalreadyprogrammingMda]. By adopting this 'queer enough' approach from the LGBTQIA+ community as an ethos for critical–creative coding spaces and for a context in which to examine sociotechnical systems, I have found that it is possible to welcome a wider range of voices into conversations about the high stakes of tech. It creates more comfortable, adaptable tech-focused communities for LGBTQIA+ members and for everyone else who joins. Technology spaces have much to learn from queer community building, just as they do from Black and brown communities, yet I am also mindful that their community building often comes out of necessity for protection and safety, that it is always a tension between welcoming and insulating. 
 
-[XXX][discussion of radical difference and radical belonging]
-<!-- [xxx][keep queer and trans sections separate?] -->
+<!-- [XXX][ADD discussion of radical difference and radical belonging] -->
+<!-- [xxx][Question: keep queer and trans sections separate?] -->
 
 >"Black Computational Thought holds open these proximal possibilities and directs our attention to the quotidian, social, opaque, woven, and fugitive practices of computation born from Black diasporic movement. Blackness here is always in an appositional love affair with queerness, transness, and feminist orientations of the world that fight the simplicity of calculated separability, and instead contend with their relationship to difference, kin, collectivity, risk, non-normativity, non-linearity, ambiguity, and trust." [@morrisonVoluptuousDisintegrationFuture2022] -->
 
@@ -454,7 +458,7 @@ Form activates. No form is neutral, although if we use it long enough we begin t
 
 Yet current modes of computational logic are not mutually constitutive in trans\*formative ways. Instead, they impose form on us as data subjects and subjectees. Artist–researcher Pedro Oliveira describes the way international borders use digital surveillance to prescribe identity: "the border listens for people in a way that matches them to categories they 'should' belong to (e.g. 'German', 'Greek', 'Syrian). When this listening for fails to produce these categories, the border then listens to their bodies with the purpose of uncovering the 'truth' that these border subjects might be concealing" [@oliveiraBecomeUndone]. Computation requires information to take specific forms. Its orderly logic is a shape imposed by and reflecting power. It requires contortion in order to be represented. As media theorist Sarah Sharma reminds us, for the 'Broken Machines' who do not quite fit these regimes, "to represent is also to be filed away" [@sharmaManifestoBrokenMachine2020]. 
 
-[xxx][add transition, not filing away, opacity]
+<!-- [xxx][add transition, not filing away, opacity] -->
 
 >"In order to understand and thus accept you, I have to measure your solidity with the ideal scale providing me with grounds to make comparisons and, perhaps, judgments. I have to reduce. [...] perhaps we need to bring an end to the very notion of a scale. Displace all reduction. Agree not merely to the right to difference but, carrying this further, agree also to the right to opacity that is [not enclosure within an impenetrable autarchy but] subsistence within an irreducible singularity. Opacities can coexist and converge, weaving fabrics. To understand these truly one must focus on the texture of the weave and not on the nature of its components. For the time being, perhaps, give up this old obsession with discovering what lies at the bottom of natures. There would be something great and noble about initiating such a movement, referring not to Humanity but to the exultant divergence of humanities. Thought of self and thought of other here become obsolete in their duality. Every Other is a citizen and no longer a barbarian. What is here is open, as much as this there. 1 would be incapable of projecting from one to the other. This-here is the weave, and it weaves no boundaries. The right to opacity would not establish autism; it would be the real foundation of Relation, in freedoms." [@glissantPoeticsRelation2009a]
 
@@ -548,23 +552,23 @@ The problem of pseudorandomness, computation's inability to produce truly random
 
 <!-- ## TechnoCraft -->
 
-## Systems [XXX]
+## Systems <!--[XXX]-->
 
 <!-- systems means software, human systems, systems thinking -->
 
 <!-- ### Techno-? -->
-### [does techno go here?][What about/How did we get the systems we have?]
-### How do we transform these into other kinds of systems we want?
+<!-- ### [does techno go here?][What about/How did we get the systems we have?] -->
+<!-- ### How do we transform these into other kinds of systems we want? -->
 
-Craft and radical belonging
+<!--[XXX] ADD Craft and radical belonging -->
 
-A systems perspective an intersectional perspective
+<!-- [XXX] ADD A systems perspective an intersectional perspective -->
 
-Technological systems, algorithmic systems, human systems, global systems. 
+<!-- [XXX] ADD Technological systems, algorithmic systems, human systems, global systems.  -->
 
-[Nearbyness — get near instead of at/claim the thing....]
+<!-- [XXX] ADD [Nearbyness — get near instead of at/claim the thing....] -->
 
-<!-- The parts combine to enact the [ethics and tactics] described throughout this introduction.  -->
+<!-- [XXX] ADD The parts combine to enact the [ethics and tactics] described throughout this introduction.  -->
 
 
 # References
