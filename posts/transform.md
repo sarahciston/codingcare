@@ -8,6 +8,15 @@ date: 27.03.2024
 tags: [transformative, systems, theory, practice, hybrid]
 ---
 
+<!-- 
+worldbuilding (why), 
+build tools (how), 
+tangible systems (craft), 
+unlearn (queer/trans), 
+whole (systems), 
+resist (conclusion? oder?)
+-->
+
 <!-- move Craft Section first as Crafting? then Queer, then transformative, then end on Systems? -->
 <!-- # Why to Craft Queer Trans\*formative Systems -->
 
@@ -25,6 +34,8 @@ What does it mean to move from thinking of technology to thinking of crafting sy
 What does crafting trans\*formative systems look like? How do they operate? Where are they already taking shape? I hope we can figure that out together. 
 
 # How to Craft Queer Trans\*formative Systems
+
+<!-- why to craft them: AI is worldbuilding -->
 
 Technosolutionist... Techno-optimist... Technodystopian... Technocrat... Like 'cyber' before it, the prefix 'techno' teems with possibilities and portends varieties of doom. Launching spacecrafts, genuflecting robots, self-driving vehicles, and buzzwords like 'big data' dominate the imaginary while signaling in-groups and out-groups, zones of mystification and fear, as well as economic opportunism and exploitation.
 
@@ -446,7 +457,7 @@ The asterisk is risk (just a step), is starry-eyed, A-star pathfinding, ASCII jo
 
 What is formative shapes us. Our early experiences make us who we are. These are the foundations we can't see, the scaffolding of our thought, the infrastructures of our being. I am interested in the formative aspects of sociotechnical systems, produced in entangled loops of human networks, codified language, and rare earth. How we become. How we become with and through sociotechnical systems. 
 
-What are the fundamental assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? `What are the formative assumptions underlying any technology or way of being?` These works tease out the metaphors we have relied on so long we can no longer see them; they ask what other metaphors might make space for new forms or reforms.
+What are the fundamental assumptions that go into the design and implementation of a dataset, a machine learning system, or programmers themselves? `What are the formative assumptions underlying \nany technology or way of being?` These works tease out the metaphors we have relied on so long we can no longer see them; they ask what other metaphors might make space for new forms or reforms.
 
 Form in-forms content. The shape of the container decides what can fill it. I work in code and in art because I believe: If I know how to make forms, or even platforms, not only the content to plug into existing forms, I am more free to work both form and content in iterative, ongoing relationships. This is how I knead the dough — form and content and form and content and form. They are inseparable.
 
@@ -551,10 +562,18 @@ I want to be able to follow those traces of power through their systems, to be a
 The problem of pseudorandomness, computation's inability to produce truly random numbers, happens because "Randomness is relational"  -->
 
 <!-- ## TechnoCraft -->
+<!-- Begin w intention: AI is worldbuilding -->
+<!-- Reclaim/Recenter/Remind? Facilitate: Build and use adaptable tools  -->
+<!-- Reclaim/Remind? Inform: Treat systems as tangible -->
+<!-- Reimagine: Unlearn defaults, question ingrained logics -->
+## <!-- Reflect: -->Account for the whole: On systems <!--[XXX]-->
+<!-- Resist: Work against the grain -->
 
-## Systems <!--[XXX]-->
+<!-- Account for the whole . New materialisms-->
 
-<!-- systems means software, human systems, systems thinking -->
+<!-- systems means software, human systems, systems thinking. To think in systems instead of  -->
+
+<!-- systems thinking, tracing connections, work across disciplines across communities -->
 
 <!-- ### Techno-? -->
 <!-- ### [does techno go here?][What about/How did we get the systems we have?] -->
@@ -569,6 +588,12 @@ The problem of pseudorandomness, computation's inability to produce truly random
 <!-- [XXX] ADD [Nearbyness — get near instead of at/claim the thing....] -->
 
 <!-- [XXX] ADD The parts combine to enact the [ethics and tactics] described throughout this introduction.  -->
+
+
+
+
+<!-- Challenge: -->
+# Resist: Work against the grain (Conclusion)
 
 
 # References

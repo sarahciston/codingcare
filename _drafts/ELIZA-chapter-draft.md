@@ -68,11 +68,11 @@ Let's compare ELIZA's tokenization of a phrase with current LLM techniques. ELIZ
 
 Compare this with contemporary tokenization in the GPT-3.5-turbo/GPT-4 tokenizer, which takes the same prompt and represent it as: 
 
-```['the', 'stars', 'are', 'cloud', 'ed', 'over', 'tonight' '.']```
+```['the', ' stars', ' are', ' cloud', 'ed', ' over', ' tonight']```
 
 It also represents this sentence as:
 
-```[791, 9958, 527, 9624, 291, 927, 18396, 13]``` 
+```[1820, 9958, 527, 9624, 291, 927, 18396]``` 
 
 Those numbers are the `token_id`s for each word, based on its position in a vocabulary list created during training.[^inference-time] We could imagine the `token_id` as not unlike ELIZA's `I=HASH.(WORD.5)` which creates a numerical representation for each word or subword (ELIZA, line 282). It uses the function  `SCANER=SEQRDR.(KEY(I))` (ELIZA, line 282) to lookup that word in a list of keywords it already created and stored, specific to the script it is running. When it finds a match, it can proceed to the rules matching that keyword, or if not it looks to the next word in the list it created from the user prompt. We could also imagine that keyword list `KEY(I)` as a bit like a vocabulary list for an LLM, except the DOCTOR script's list is much, much smaller ([XXX-COUNT?]) and composed by hand.[^seqrdr]
 

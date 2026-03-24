@@ -129,3 +129,162 @@ wild/bold/weird/fun formats:
 - method proposed: qualitative, interpretive frame analysis. vs analytical. 
 
 - truth as socially constructed, from a discourse perspective. what justifications people base their truth claims on, what counts as knowledge.
+
+# 25.06.2025 // Gabriel Ernesto Melian Pérez // Hate Speech on Social Media: Content Moderation Challenges and the Potential of Social Media Councils
+- relation to offline violence
+- whilst maintaining human rights: free speech and info access
+- book:
+  - how USSC and ECtHR address hate speech
+  - historical analysis
+  - philosophical approach for/against
+  - concepts
+  - who regulates and how to regulate, frameworks, diff models
+
+Brussels Effect of DSA - misuse of coordinators, trusted flaggers, auditors or researchers
+- institutions created, imposing will of governments
+- gap in global south, less applicable contexts (of course)
+
+Social Media Councils
+- independent oversight, experts from law tech ethics social sci and citizen input
+- combines features of ombudsman, media council and online dispute settlement body
+- reviews T&C, appeals panel (already exist)
+- advise risk & mitigation, law, market
+- promote pro-social design and citizen participation
+
+- requires political commitment and institutional capacity of government
+- tension bt autonomy and accountability
+- lack binding authority
+- risks of ai use: unequal access, data privacy, algorithm opacity, manipulation, risk of inaccurate or biased results
+- risk of legitimizing and consolidating power of platforms without addressing asymmetry
+
+- ethics washing? 
+
+---
+
+23.07.2025 // Ganit Richter
+Mis/dis information risks w AI 
+limited work on visual misinfo? on games/interactive tools? less attn on design effect, less about how platforms used
+
+
+---
+30.07.2025
+Jens Pohlmann & Caio Mello | Free Speech &/or Democracy? The NetzDG Discourse on Twitter
+
+NetzDG (Network Enforcement Act) - German anti-hate speech law - almost noone supports this law, minority thinks 'step in right direction' and many diverse clusters all against it for diff reasons
+
+"Who can and who should determine the structure of the evolving digital public sphere?"
+
+partially competing regulatory systems (NetDG, DSA)
+
+'digital discourse analysis' text corpora w metadata compiled and computational analysis and close reading
+
+examine arguments, topics, networks, and communicative strategies of stakeholders
+
+Q: who is shaping discourses and why, who is spreading arguments
+what are sociotechnical imaginaries
+what viewpoints are excluded
+
+NetzDG forced platforms to take down posts w/in timeframes, fears of 'overblocking. 
+shift from US free speech values
+
+Who talks and who gets retweeted? Bigger the nodes, more retweets of that account
+Able to ID diff stakeholders
+
+URL analysis, shared in tweets: what are the most common urls in which clusters? took the top 100 nodes, analyzed 3k urls, analyzed by the cluster neighborhoods
+next: what's in the text they share, how does sharing activity change over time? 
+
+the place of the platform in a country's discussion of a topic
+
+---
+
+27.08.2025 | Digital Democratic Innovations "Digital Decision Making"
+"How to Modernize Elections: (No) Lessons from the German Bundestagswahl 2025
+
+problems w election organizing in municipality level
+direct contact for best participation online survey. pretest for id problems in online survey
+
+hybrid e-voting w paper to online end-to-end encryption (Swiss)
+
+(Estonia) heavily invested. needs robust institutional structure behind the tech (what kind?) ...can vote again and again until the end on paper day
+need to connect to the institutional landscape of the state & regulatory ecosystem
+
+
+
+--
+
+10.09.2025 Persuasive Tech: Psych of how tech can influence ppl. | Jaap Ham, TU/Eindhoven, Psych of Human Tech Interaction group
+
+When you give people safer or more efficient tools they behave less safe and efficiently. Need to influence their behavior not only the tech through the interactions.
+
+PT as a tool to give interactive feedback (e.g. energy bar)
+PT as a medium to experience consequences of future risks (e.g. VR of climate change)
+PT as 
+
+more influenced by ppl/bots that look like us - carry over to non-visual characteristics? 
+
+persuasion, personalization, and defense against
+
+influence of knowledge about influencing strategies (e.g. phishing emails): 
+- liking/friendship: similarities, compliments, flattery, humor
+- reciprocity: give something in return, 
+- consistency: 
+- consensus/social norm:
+- scarcity:
+- authority:
+Cialdini 1970s (2001) intervention strategies
+
+no effects after training, not on clicking or on intention to click. a single strategy didn't feel manipulative but multiple did. non-naive users. 
+- how many are found in an average real p-email? 
+
+
+how to defend against non-malicious persuasion? e.g. chatbots
+
+characteristics of ethical influencing? 
+- do people consent to being influenced, aware of it
+- process & outcome (non harm)
+  
+low-trust or high-trust societies 
+
+(digital) nudging (econ)
+
+---
+
+CAIS WRAPPED
+
+Yes, it's that time again. You love it, you hate it, you love to hate it. First there was Spotify Wrapped. Now there's CAIS Wrapped.
+
+We'll cover the hits and guilty pleasures that made my CAIS Fellowship what it was — get ready to sing along! 
+
+
+
+
+
+SONGS that describe research playing in background
+1. Computer Love / Tech song
+2. Queen: I want to break free (Guardrails)
+3. War: What is it good for / War is over if you want it (AI War Cloud)
+4. Ars Award / On stage
+5. Professorship
+6. CAIS summer/friendliness/YMCA
+
+Puzzles: 
+01 London
+02 Pencils
+03 Northern Lights
+04 Europe
+05 Pottery Studio
+06 Gradient Krypto
+07 Desert
+08 Dogs
+09 Gradient
+10 Lighthouse
+11 Garden
+12 Pearl Earring
+13 Dollhouse
+14 Parrots
+15 (TBD) Trust
+
+W3 Professorships: 1
+Awards: 1
+
+Five-Slide Karaoke / Research Mix-Tape / Research Dance Break (Dance your Dissertation (not that))

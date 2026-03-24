@@ -73,9 +73,11 @@ Monte Carlo methods actually more Frequentist in approach than Bayesian, ironica
 
 Hydra Transformers. 
 
->"To talk about vectors was to talk about data in the abstract, being intentionally vague about that data's sources." [@seaverCareScaleDecorrelative2021a]
->"instead of talking about conflicts among values, Huron spoke of correlations among value vectors." [@seaverCareScaleDecorrelative2021a]
->"Even in technical use, vectorization is a tool for abstraction, for transforming ordinary tabular data into malleable orientations in multidimensional space (cf. Mackenzie 2017). Vector spaces are the symbolic terrain on which much of the labor of machine learning works, and they provide a widespread metaphorical language across the software industry. Startup founders describe their employees as vectors; venture capitalists describe the companies they fund as vectors; in ordinary conversation, engineers will describe unrelated things as “orthogonal” to each other." [@seaverCareScaleDecorrelative2021a]
+>"To talk about vectors was to talk about data in the abstract, being intentionally vague about that data's sources." [@seaverCareScaleDecorrelative2021]
+>"instead of talking about conflicts among values, Huron spoke of correlations among value vectors." [@seaverCareScaleDecorrelative2021]
+>"Even in technical use, vectorization is a tool for abstraction, for transforming ordinary tabular data into malleable orientations in multidimensional space (cf. Mackenzie 2017). Vector spaces are the symbolic terrain on which much of the labor of machine learning works, and they provide a widespread metaphorical language across the software industry. Startup founders describe their employees as vectors; venture capitalists describe the companies they fund as vectors; in ordinary conversation, engineers will describe unrelated things as “orthogonal” to each other." [@seaverCareScaleDecorrelative2021]
+>"Although vector metaphors may appear formal and data-driven—perhaps even like scientistic attempts to claim authority—they are in practice ad hoc and impressionistic, obscuring the heterogeneous mess of the empirical world under smooth, continuous surfaces." [@@seaverCareScaleDecorrelative2021]
+>"for people who become familiar with a particular “calculation grammar,” t nical practices are much less formulaic and much more morally potent than they seem." [@@seaverCareScaleDecorrelative2021]
 
 >"machine learning can be understood as a function finding operation" [@mackenzieMachineLearnersArchaeology2017]
 >"The engineered movement of various machine learners do not simply discover differences. They assemble, construct, identify, and optimize distributions or patterns of difference. They do it in different ways. Sometimes they take for granted the possibility of identifying differences in data, as if all differences must be visible and legible given the right partition." [@mackenzieMachineLearnersArchaeology2017]

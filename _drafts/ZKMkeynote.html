@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.40">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>zkmkeynote</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="ZKMkeynote_files/libs/clipboard/clipboard.min.js"></script>
+<script src="ZKMkeynote_files/libs/quarto-html/quarto.js"></script>
+<script src="ZKMkeynote_files/libs/quarto-html/popper.min.js"></script>
+<script src="ZKMkeynote_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="ZKMkeynote_files/libs/quarto-html/anchor.min.js"></script>
+<link href="ZKMkeynote_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="ZKMkeynote_files/libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="ZKMkeynote_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="ZKMkeynote_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="ZKMkeynote_files/libs/bootstrap/bootstrap-973236bd072d72a04ee9cd82dcc9cb29.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+
+<!-- WHAT CAN WE LEARN FROM EARLIER ATTEMPTS TO IMAGINE (WITH) TECHNOLOGY OTHERWISE -->
+<section id="dont-be-evil-reckoning-with-the-risks-of-technofascism-from-eliza-to-anthropic-or-how-i-learned-to-worry-just-enough-to-keep-loving-what-i-code" class="level1">
+<h1>Don’t (?) Be Evil: Reckoning with the Risks of Technofascism from ELIZA to Anthropic (Or: How I learned to worry just enough to keep loving what I code)</h1>
+</section>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Despite the optimism inherent to invention, we cannot control how the tools we create are used by others. Many engineers, artists, and makers end up disillusioned after witnessing emergent technologies being co-opted and misused. The problem is not new—but it is urgent. Rather than giving up making, or giving up caring, what is to be done? In order to trace others’ attempts to reckon with the high-stakes impacts of their tools, this talk travels from Joseph Weizenbaum’s ELIZA chatbot in 1966 to Anthropic/Palantir’s newest AI decision-making systems used in warfare. Along the way it also visits the Connection Machine’s vision for massive parallel computing, Phil Agre’s ‘critical technical practice’, and other moments in sociotechnical history. Together we will ask: How can one reclaim creative and ethical agency, particularly when today’s systems are designed to be unfathomably huge, proprietary, and opaque? What responsibility do tech makers (and users and researchers) have to ensure their tools retain their values, while accounting for their impact? And how can emergent technologies resist fascism rather than enable it?</p>
+<!-- title and 1500 char desc of talk by Mar 3, plus 1000 char bio and photo -->
+</section>
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p>Hello, thank you for being here, thank you to the organizers for having me.</p>
+<!-- When I framed this talk, I asked the questions: How can one reclaim creative and ethical agency, particularly when today's systems are designed to be unfathomably huge, proprietary, and opaque? What responsibility do tech makers (and users and researchers) have to ensure their tools retain their values, while accounting for their impact?  -->
+<p>Whether we are the makers, users, or researchers of the latest technologies, what is to be done in response to their worst uses? How can we prevent them from being coopted, can we reclaim them, or even rethink them altogether?</p>
+<p>Put another way, how do we reckon with the risks that are inherent within our own technical and creative practices. Especially when we cannot foresee those risks at the outset. How do we address the sense that so many technologies seem to be taken advantage of for ill-purposes, taken up for war, for genocide, for hoarding resources and other evils, continually lowering humanity to the worst common denominator. <em>Not to be a downer.</em></p>
+<p>These are questions that currently drive my research practice and many of my artistic projects. I don’t have answers to these questions, and maybe the answer is “we can’t.” But we must try.</p>
+<!-- They are the reason I began the AI War Cloud Database project, and much of my other artistic research as well. -->
+<p>The short answer is: I don’t know. Or [maybe] we can’t. But we have to try anyway. Because maybe together we can, at least a little bit more than if we don’t try at all.</p>
+<p>We’ve already tried doomscrolling and writing strongly worded letters. To keep our work from being weaponized, we need more than good intentions, vague definitions, and toothless policies — we need a plan tangible, effective [XXX-aplan].</p>
+<!-- Many engineers, artists, and makers end up disillusioned after witnessing emergent technologies being co-opted and misused. The problem is not new—but it is urgent. Rather than giving up making, or giving up caring, what is to be done? In order to trace others' attempts to reckon with the high-stakes impacts of their tools, -->
+<section id="rescuing-aitech-from-the-techno-oligarchs-resisting-fascist-technologies" class="level3">
+<h3 class="anchored" data-anchor-id="rescuing-aitech-from-the-techno-oligarchs-resisting-fascist-technologies">Rescuing AI/tech from the techno-oligarchs | Resisting fascist technologies</h3>
+<ul>
+<li>AI War Cloud - recommender systems, used in completely different contexts, designed without context</li>
+<li>scale is hard. scale of different sorts:
+<ul>
+<li>accelerate</li>
+<li>amplify</li>
+<li>where is care, how does it scale That the outlook looks like a parody of itself — complete with the iconography.</li>
+</ul></li>
+</ul>
+<p>Anthropic says it doesn’t want its tools used for the worst forms of warfare. But, big but.</p>
+</section>
+<section id="reckoning-with-the-stakes-of-what-we-create-use" class="level3">
+<h3 class="anchored" data-anchor-id="reckoning-with-the-stakes-of-what-we-create-use">Reckoning with the stakes of what we create &amp; use</h3>
+<p>Let’s look further back at computer scientist and anti-war activist Joseph Weizenbaum and his work on ELIZA. His is a sort of cautionary tale I have been exploring as part of collaborative research for a book that uncovers and analyzes the missing source code for his impactful work, and contextualizes it with contemporary LLMs and for its continuing legacy. It has a lot to tell us about how good intentions can be misinterpreted and how prescient warnings can go ignored.</p>
+<!-- MIT's first digital computer was a project for the Navy and Air Force used as a flight simulator for bombers.  -->
+<!-- an early experiment in time-sharing computers included Joseph Weizenbaum. Along with John McCarthy and Marvin Minsky in the AI Lab,  -->
+<!-- contributed to the creation of ARPAnet.  -->
+<!-- Overseen by Robert Fano, also known as 'fano's folly', P Morse,  -->
+<!-- Daniel Bobrow -->
+<!-- In the Project Mac reports, JW's project was initially called 'Learning from Users' -->
+<p>You may already know the fabled story, but — as my co-authors and I learned through our research — in fact Joseph Weizenbaum did not set out to make what is now commonly known as the earliest chatbot. He was <em>not</em> trying to make a therapy bot, nor a bot that seemed human. Actually, he was trying to understand <em>mis</em>-understanding.</p>
+<p>When the ELIZA bot was published in 1966, Weizenbaum’s ACM paper emphasized the simplicity of the techniques and his hope that this simplicity would eliminate any false air of ‘magic’ lent to the human-computer interaction that his system promised. But as the well-worn story goes, that is not what happened. Many of you know it well: Even Weizenbaum’s own secretary supposedly asked to be left alone to interact with ELIZA, despite knowing it was not a real therapist.</p>
+<p>As ELIZA gained popularity, Weizenbaum’s colleague and rival, Kenneth Colby, made his own bot, PARRY, to act as a psychologist’s paranoid patient, and Colby set out to make therapy bots a legitimate health care option. This prospect horrified Weizenbaum, who had written in his early notes that his project intended to map understanding and misunderstanding, including behavioral cues and how “man and machine can move towards an adjustment with each other.”</p>
+<p>The bot’s introduction of the psychoanalyst persona — which ran using a script called DOCTOR — was merely intended as a trope that simplified the dialogic approach. Other personas had been considered, including that of a bartender. In fact, ELIZA had many other scripts. This important aspect of ELIZA’s history was set aside, and the scripts became conflated with the system which ran them. ELIZA and DOCTOR merged into one in the public understanding.</p>
+<p>The history of ELIZA might have looked quite different if people knew that ELIZA was actually more like a software platform, that it could not only take on the persona of a Rogerian therapist, but also had scripts for tutoring mathematics and analyzing poetry. In the archives at MIT we found reference to at least 35 scripts, and there were likely others.</p>
+<p>Even though he was a bit of a trickster and loved to play the magician, he then liked to reveal his tricks. He was continually dismayed by people’s persistent belief in computational systems, how they ascribed agency and personality to them with the smallest provocation — what came to be named the Eliza effect.</p>
+<p>As Weizenbaum later said in an interview, “one of the important questions that ELIZA generated was the question of what it means for a machine to understand anything at all, and the larger question of what it means to understand at all, <strong>independent of whether you talk about machines or human beings</strong>. It was so easy to be lulled into the idea that a machine understands me.” <span class="citation" data-cites="weizenbaumMythLastMetaphor2014">[@weizenbaumMythLastMetaphor2014]</span></p>
+<p>Weizenbaum spent much of his later career trying to remind people of the importance of human understanding, that computation should not be given too much power nor credit, nor given over to [XXX],</p>
+<p>His book came out ten years after ELIZA, and it made him an outsider in his own field. This turnaround was shaped by [XXX][YYY], his insistence that [ZZZ].</p>
+<!-- [At MIT in the 1960s / ELIZA ran on] the DARPA/ARPA-funded Project MAC was a Compatable Time-Sharing System running on MIT's IBM 7094. It was accessible over terminals and dial-up teletype and was shared by colleagues among which included Marvin Minsky, John McCarthy, and Joseph Weizenbaum.   -->
+<ul>
+<li>Weizenbaum: <!-- - didn't want to make a psych bot but wanted to understand understanding.  --> <!-- - magic disguised in simplicity, knowing how it works should remove the magic but it doesn't always convince people who want to be tricked -->
+<ul>
+<li>was a trickster, but was quickly disillusioned with how people reacted, their easy belief</li>
+<li>was anti-war, shaped by his experiences as a Jewish child in Germany in the 1940s and viewing the civil rights movement in the US. Saw tech being used for war and bureaucracy in the vietnam war</li>
+</ul></li>
+</ul>
+<!-- 's ELIZA bot (1966) to his rejection of computation  today's AI decision-making systems used in warfare, from the promise of supercomputers like the Connection Machine to Phil Agre's 'critical technical practice', in order to  -->
+<p>Joseph Weizenbaum looked at how people responded to ELIZA, how computers were used in the Vietnam War and despaired</p>
+</section>
+<section id="repairing-what-is-lost" class="level3">
+<h3 class="anchored" data-anchor-id="repairing-what-is-lost">Repairing what is lost</h3>
+<ul>
+<li>guardrails project - guardrails are broken, but the models themselves are made to be broken. must reimagine the architectures themselves, new paradigms outside the platforms
+<ul>
+<li>people will misuse tools</li>
+<li>tools are also designed for/as misuse</li>
+</ul></li>
+</ul>
+</section>
+<section id="reclaiming-creative-agency-alternative-forms" class="level3">
+<h3 class="anchored" data-anchor-id="reclaiming-creative-agency-alternative-forms">Reclaiming creative agency &amp; alternative forms</h3>
+<p>Resisting, repairing, reclaiming Reveal, Reflect, Reinforce, Reimagine <strong>without doom-spiraling harbingers of doom</strong></p>
+<ul>
+<li><p>phil agre, critical technical practice, disappearing from CS community</p></li>
+<li><p>what are solutions/alternatives???? knowing this, how do we go on as creatives or creators?</p>
+<ul>
+<li>must keep trying, but critically. and together.
+<ul>
+<li>awareness across communities of practice, interdisciplinary, transdisciplinary, inter-community. [critical technical practice, <span class="citation" data-cites="Agre">[@Agre]</span> ]</li>
+<li>learning from others. if i’m trying to make a system based on X value, I learn about X value from diff communities who know it better than I do, who have researched it or live its presence in different ways. I listen to or join those communities or I …[XXX]</li>
+</ul></li>
+<li>Fascism is in the firmware, mcquillan. Invert the problem, we can’t extract the bias or the fascism. We address the problems at the root, in the world around us. We make the tools for the world we want to exist. Rather than jumping into an inevitable river of AI sludge…</li>
+<li>prefiguration and abolition = a kind of modeling. make the world we wish to live in rather than the world as it ‘is’, there are many versions of the world as it ‘is’ (haraway, standpoint theory, bias)
+<ul>
+<li>where art has a capacity with its own forms of experimentation outside of scientific method, working with materials through curious interrogation, with them as co-actors not upon them. not scientific method that makes its hypothesis first then tests it.</li>
+<li>Machine learning is model making: we can model the world as we would like it to be. Prefiguration</li>
+</ul></li>
+<li>not research questions but research tensions [xxx-naggings,frustrations]</li>
+</ul></li>
+</ul>
+<p>what Sarah Sharma calls the “‘technologics’ of power,” that is, “how the patriarchal tech elites operate with a perspective on technology tied to how they conceive of gender and other forms of social difference” <span class="citation" data-cites="sharmaManifestoBrokenMachine2020">[@sharmaManifestoBrokenMachine2020]</span>. In which the elite enact futures in which “The imagined technological future is one in which social justice is no longer demanded because all of the seemingly malfunctioning parts (nonconforming subjects) can be discarded and replaced.” sharma broken machine <span class="citation" data-cites="sharmaManifestoBrokenMachine2020">[@sharmaManifestoBrokenMachine2020]</span> “Broken Machines do not flee the scene nor do they opt to be repaired in order to be plugged back into patriarchy’s technological conditions of possibility.” “our contemporary social-political-economic system as an already-broken machine full of the incompatibly queer, raced, classed, and sexed broken-down machines” However Sharma sees opportunity in this, from the perspective of the broken machines themselves: “Rather, Broken Machines see a politics up for grabs. This comes with the recognition that power operates like a machine. Social injustice is inextricable from the specific machine logics of reigning technologies.” to “continue this work of not working well.”</p>
+<p>jenny sunden “to think of disconnection, disruption, and delay as part of what it means to connect, to relate, to depend in the first place.” <span class="citation" data-cites="sundenQueerDisconnectionsAffect2018">[@sundenQueerDisconnectionsAffect2018]</span> “Disconnection, as something that lives within every connection, as the backbone of connectivity, may help us rethink connectedness and relations on a fundamental affective level. […] The break may not be the end, but a new beginning. The disconnect may not lessen, but intensify the connection, as well as open up for other connections, in parallel.” “a relational vocabulary that includes ideas and concepts of disconnection and delay, without constantly somehow displacing such ideas beyond the limits of the relation itself. For what is the word for a disconnected connection? […] Or a broken relation, which is still very much a relation?”</p>
+<p><strong>dis/connection. what we do with how our ideas have been misused. how we queer and reappropriate and repair — these matter more.</strong></p>
+<p>“USE WHAT IS DOMINANT IN A CULTURE TO CHANGE IT QUICKLY”</p>
+<!-- parallel processing connection between connection machine and multi-threaded self-attention in transformer architecture?  -->
+<!-- interest in semantic networks... resurgence now in era of RAG systems -->
+<!-- ### We Would Like to Make a Thinking Machine
+W. Daniel Hillis and the Connection Machine
+#### Classical Computer Architecture Reflects Obsolete Assumptions
+#### The Rest of the Story
+#### A Tour of the Topology Zoo
+#### Local versus Shared Control
+#### Scalability and Extendability
+#### Fault Tolerance / Storage Allocation and Defect Tolerance
+#### Sorting on a Butterfly
+#### Rendezvous Allocation
+#### Compaction
+#### Or, Why Computer Science Is No Good
+#### New Hope for a Science of Computation -->
+<!-- how do we keep our work from being weaponized, and reclaim AI from the tech industry for the wider population, with a look back at Joseph Weizenbaum as an example of an engineer who began with good intentions and warned us of this moment." It would touch on my work on the AI War Cloud and on the forthcoming Inventing ELIZA -->
+<!-- sweeping up AI systems into cycles of hype and technofascism today? 
+Does it help or are we powerless against systems designed  -->
+<!-- Best Intentions and Legacies of Harm from ELIZA to Anthropic -->
+<!-- 'Helpful & Harmless'? Don't Be Evil? As an AI agent I can't... -->
+<!-- [Harboring] Bad Connections & [Tending] Broken Machines: Despair and Repair and Hope, Reckoning After the Worst -->
+<!-- Disenchanted with what we create
+Reckoning with Legacies of Technofascism 
+and Reclaiming AI from Fascism 
+
+powerful actors
+Creating hopeful technologies in spite of fascism //  
+ in the  How to reckon with  high-stakes reckoning with 
+ - Stafford Beer's 'cybersyn' -->
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

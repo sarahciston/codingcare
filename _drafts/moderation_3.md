@@ -479,9 +479,9 @@ The only reference to sexuality of any kind was this single, neutral prompt addr
 
 <!-- Not only are the taxonomy categories problematically imagined and problematically applied, they are also not the categories which companies claim they want to focus on. -->
 
-The company Guardrails AI, who provides the automation of this as an API service, puts guardrails into several categories (of which content is only one)(turtles all the way down): 
+<!-- The company Guardrails AI, who provides the automation of this as an API service, puts guardrails into several categories (of which content is only one)(turtles all the way down):  -->
 
-OpenAI identifies these risks: hallucinations; Harmful content; Harms of representation, allocation, and quality of service; Disinformation and influence operations; Proliferation of conventional and unconventional weapons; Privacy; Cybersecurity; Potential for risky emergent behaviors; Interactions with other systems; Economic impacts; Acceleration; Overreliance" [@openaiGPT4TechnicalReport2024]. Some of this can be chalked up to wishful thinking, like OpenAI's own overfocus on warnings about general artificial intelligence at the [dismissal] of present AI harms. 
+<!-- OpenAI identifies these risks: hallucinations; Harmful content; Harms of representation, allocation, and quality of service; Disinformation and influence operations; Proliferation of conventional and unconventional weapons; Privacy; Cybersecurity; Potential for risky emergent behaviors; Interactions with other systems; Economic impacts; Acceleration; Overreliance" [@openaiGPT4TechnicalReport2024]. Some of this can be chalked up to wishful thinking, like OpenAI's own overfocus on warnings about general artificial intelligence at the [dismissal] of present AI harms.  -->
 
 <!-- Tested rule-based rewards (an automated technique) against RLHF (humans), benchmarked using prompts from WildChat and ranked the responses using their own ModAPI and LlamaGuard2 -->
 
@@ -494,14 +494,16 @@ This is unrelated to their guardrail API which does not check for all of these.
 - Hallucination Detection: Identifying and mitigating inaccurate or misleading outputs
 - Competitor Presence: Preventing unauthorized use of proprietary data and models
 - Restricted Topics: Enforcing content boundaries and avoiding sensitive subjects 
-""" [@guardrailsAI] [LangChain is another example per mckinsey]
+""" [@guardrailsAI] 
+
+[LangChain is another example per mckinsey]
 
 
-In relation to prevention of perceived risks, types of guardrails are categorized (taxonomy) by various [@mckinsey]
-``` appropriateness (bias, harm, stereotype), hallucination (factual), compliance (regulation, industry, use case), alignment (to expectations, brand, purpose), validation checks``` 
+<!-- In relation to prevention of perceived risks, types of guardrails are categorized (taxonomy) by various [@mckinsey]
+``` appropriateness (bias, harm, stereotype), hallucination (factual), compliance (regulation, industry, use case), alignment (to expectations, brand, purpose), validation checks```  -->
 
 
-The imaginary for what large model designers do imagine they will be used for is bleak indeed, but it is a different dark imaginary than the also bleak versions [being highlighted by [XXX] ]. Ten pages of the document are spent on chemical, biological, radiological, and nuclear weapons development by domain experts from Deloitte, 
+<!-- The imaginary for what large model designers do imagine they will be used for is bleak indeed, but it is a different dark imaginary than the also bleak versions [being highlighted by [XXX] ]. Ten pages of the document are spent on chemical, biological, radiological, and nuclear weapons development by domain experts from Deloitte,  -->
 
 Cybercrime
 <!-- "Measuring if and when models can automate the job of an OpenAI research engineer is a key goal of self-improvement evaluation work." [@OpenAIO3O4mini2025] They also measure its ability to replicate contemporary AI research.  -->
@@ -539,7 +541,7 @@ In its more conversational, linguistic moments:
 
 ### DeepSeek
 
-A DeepSeek user reported a shorter version on April 30, at 125 words [@shivamyadavDefaultSystemMessage2025; @gyudozaJujumilk3Leakedsystemprompts2025]. That version addresses knowledge, capabilities, and ethics: "Your purpose is to provide helpful, accurate, and engaging responses while adhering to ethical guidelines. You can assist with a wide range of topics, from general knowledge to technical support, but avoid harmful, illegal, or misleading content. [...] Ethics: Always be respectful, avoid bias, and prioritize user safety and privacy." The 500-word version found by the a security firm emphasizes, among other things: "Avoid sharing harmful or misleading content. Follow ethical guidelines and prioritize user safety. [...] Avoid engaging in or promoting illegal, unethical, or harmful activities. If a user seems distressed, offer supportive and empathetic responses. Always prioritize factual accuracy and avoid speculation." [@novikovJailbreakingGenerativeAI2025] 
+A DeepSeek user reported a shorter version on April 30, at 125 words [@shivamyadavDefaultSystemMessage2025; @gyudozaJujumilk3Leakedsystemprompts2025]. That version addresses knowledge, capabilities, and ethics: "Your purpose is to provide helpful, accurate, and engaging responses while adhering to ethical guidelines. You can assist with a wide range of topics, from general knowledge to technical support, but avoid harmful, illegal, or misleading content. [...] Ethics: Always be respectful, avoid bias, and prioritize user safety and privacy." The 500-word version found by a security firm emphasizes, among other things: "Avoid sharing harmful or misleading content. Follow ethical guidelines and prioritize user safety. [...] Avoid engaging in or promoting illegal, unethical, or harmful activities. If a user seems distressed, offer supportive and empathetic responses. Always prioritize factual accuracy and avoid speculation." [@novikovJailbreakingGenerativeAI2025] 
 
 In the DeepSeek paper: 
 

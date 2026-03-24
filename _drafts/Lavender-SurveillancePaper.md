@@ -2,6 +2,143 @@
 
 <!-- # AI Decision Making from Battlefield to Desktop: Tracing the Techno-Military-Industrial Pipeline -->
 
+
+# Anduril API
+
+```json
+"relationships": {
+            "relationships": [
+              {
+                "relatedEntityId": "string",
+                "relationshipId": "string",
+                "relationshipType": {
+                  "trackedBy": {
+                    "activelyTrackingSensors": {},
+                    "lastMeasurementTimestamp": "2024-01-15T09:30:00Z"
+                  },
+                  "groupChild": {},
+                  "groupParent": {},
+                  "mergedFrom": {},
+                  "activeTarget": {}
+                }
+              }
+            ]
+          },
+
+            "sensors": [
+                {
+                  "sensorId": "string",
+                  "operationalState": "OPERATIONAL_STATE_INVALID",
+                  "sensorType": "SENSOR_TYPE_INVALID",
+                  "sensorDescription": "string",
+                  "rfConfiguraton": {
+                    "frequencyRangeHz": [
+                      {
+                        "minimumFrequencyHz": {},
+                        "maximumFrequencyHz": {}
+                      }
+                    ],
+                    "bandwidthRangeHz": [
+                      {
+                        "minimumBandwidth": {},
+                        "maximumBandwidth": {}
+                      }
+                    ]
+                  },
+                  "lastDetectionTimestamp": "2024-01-15T09:30:00Z",
+                  "fieldsOfView": [
+                    {
+                      "fovId": 1,
+                      "mountId": "string",
+                      "projectedFrustum": {
+                        "upperLeft": {},
+                        "upperRight": {},
+                        "bottomRight": {},
+                        "bottomLeft": {}
+                      },
+                      "projectedCenterRay": {
+                        "latitudeDegrees": {},
+                        "longitudeDegrees": {},
+                        "altitudeHaeMeters": {},
+                        "altitudeAglMeters": {},
+                        "altitudeAsfMeters": {},
+                        "pressureDepthMeters": {}
+                      },
+                      "centerRayPose": {
+                        "pos": {},
+                        "attEnu": {}
+                      },
+                      "horizontalFov": 1.1,
+                      "verticalFov": 1.1,
+                      "range": 1.1,
+                      "mode": "SENSOR_MODE_INVALID"
+                    }
+                  ]
+                }
+              ]
+
+"targetPriority": {
+    "highValueTarget": {
+      "isHighValueTarget": true,
+      "targetPriority": 1,
+      "targetMatches": [
+        {
+          "highValueTargetListId": "string",
+          "highValueTargetDescriptionId": "string"
+        }
+      ],
+      "isHighPayoffTarget": true
+    },
+    "threat": {
+      "isThreat": true
+    }
+  }, 
+
+
+"health": {
+            "connectionStatus": "CONNECTION_STATUS_INVALID",
+            "healthStatus": "HEALTH_STATUS_INVALID",
+            "components": [
+              {
+                "id": "string",
+                "name": "string",
+                "health": "HEALTH_STATUS_INVALID",
+                "messages": [
+                  {
+                    "status": "HEALTH_STATUS_INVALID",
+                    "message": "string"
+                  }
+                ],
+                "updateTime": "2024-01-15T09:30:00Z"
+              }
+            ],
+            "updateTime": "2024-01-15T09:30:00Z",
+            "activeAlerts": [
+              {
+                "alertCode": "string",
+                "description": "string",
+                "level": "ALERT_LEVEL_INVALID",
+                "activatedTime": "2024-01-15T09:30:00Z",
+                "activeConditions": [
+                  {
+                    "conditionCode": "string",
+                    "description": "string"
+                  }
+                ]
+              }
+            ]
+          },
+
+
+ "dataClassification": {
+            "default": {
+              "level": "CLASSIFICATION_LEVELS_INVALID",
+              "caveats": [
+                "string"
+              ]
+            },
+```
+
 # AI War Cloud: Battlefield to desktop, drone to phone
 
 #### Personal Note
@@ -17,13 +154,13 @@ I flip back and forth between these headlines until they blur, until I realize t
 
 When the bots, recommender systems, and automated agents many people use daily are the same technologies used to wage war, how should we understand and hold these systems to account? Ultimately, what responsibilities do tech makers and users have in choosing AI tools, when their development also leads to deadly outcomes at massive scales? With the spotlight now on systems like Ukraine's and Palantir's MetaConstellation and Israel's Lavender, Nimbus, and Where's Daddy, the stakes for machine learning tasks are increasingly urgent and personal. This paper examines the specific machine learning tasks used in military "AI Decision Support Systems" (AI-DSS). These combine massive data and processing to help make choices about who lives or dies, automating and accelerating the process exponentially. The paper presents an AI War Cloud Database that details how the training datasets, models, and inferences which military tools rely on are the very same kinds used by consumers. It charts how these are also being deployed by, or even upon, citizens of the countries that first developed them, once they are tested on vulnerable foreign populations in conflict zones. Finally, it [XXX].
 
-## "ALL THINGS ARE DELICATELY INTERCONNECTED" | Introduction
+## ["THE FUTURE IS STUPID" | "ALL THINGS ARE DELICATELY INTERCONNECTED"] | Introduction
 
 Every week headlines about bigger, better, faster AI compete with headlines about AI systems weaponized against vulnerable populations worldwide. Yet, for the most part, these conversations remain entirely separate, despite the fact that they rely on similar technologies. This article traces the connections between AI warfare (specifically recent "AI-Decision Support Systems" (AI-DSS)) and civilian AI (specifically generative AI as used in commercially in art, search tools, social media, and surveillance). It charts the entanglements between military and private tech sectors, and the path by which AI systems move from weapon to product and back again. It charts the key actors and key tasks of AI decision-making in warfare to trace how technology and power move [XXX-fluidly and without regulation] across state and corporate regimes. As AI speeds and scales massive destruction, it also entangles this damage with the personal technologies we consume every day: chatbots, artificial assistants, and social media apps. 
 
 While attending to the technical underpinnings of AI warfare as a means of tracing their social and material phenomena, this does not discount the truly horrific impacts they create. Instead, it is meant to help remove the abstraction that AI so often provides. The very same processes and tasks are used to kill people as are used to recommend movies and to help write emails. By connecting these tools across domains, this work hopes to trace the embedded ideologies that allow them to travel. The increasing 'weaponisation of consumer technology' and the consumerisation of weapons technologies is narrowing the technological imaginary toward violent futures. This raises the urgent stakes for the tools in our own pockets.
 
-#### "THE BEGINNING OF THE WAR WILL BE SECRET" | Historical precedent / Literature review
+<!-- #### "THE BEGINNING OF THE WAR WILL BE SECRET" | Historical precedent / Literature review -->
 
 This is not a new phenomenon. Joseph Weizenbaum, who created one if not the earliest chatbot ELIZA, addressed these questions as early as 1976. and the Vietnam War when he suggested fighting the psychological distance created by the electronic battlefield.
 
@@ -130,7 +267,7 @@ Oracle has an underground data center. "Constructed by Bynet Data Communications
 >"more surveillance and technology companies have packaged stolen or hacked data and then sold access to that information to law enforcement. The practice raises questions around the ethics of re-using such data for surveillance purposes; the legality of doing so; and the chain of custody of that information [... and second] when people open a credit card their personal information is sent to the credit bureaus in their role as monitoring peoples’ credit. Some bureaus then repackage and sell this information to law enforcement or other data brokers" [@coxLicensePlateReader2025] 
 Nova argues that their centralization of these processes add an audit trail, thus "a layer of transparency and accountability" however that trail is behind closed doors of a private corporation for whom law enforcement are its customers. 
 
-# "THE FUTURE IS STUPID" | Discussion
+# [ "THE BEGINNING OF THE WAR WILL BE SECRET" | "ALL THINGS ARE DELICATELY INTERCONNECTED" | "THE FUTURE IS STUPID"] | Discussion
 
 It's unclear yet the real power of these kinds of tools, but these examples show the subtle ways that familiar, seemingly benign technologies are imbricated with AI warfare.
 
@@ -164,7 +301,7 @@ Because of the deep entangling of public/private, un/classified, civilian/milita
 
 > Microsoft's hire "You will partner with Security-, Engineering-, Product Groups and Threat Intelligence teams to address Government and National SOC requirements to enhance and scale defensive abilities of Microsoft security Products. With your strong analytical background you drive improvements to all layers of defense based on threat hunting and threat intelligence findings. Your ability to connect unique customer segments and structure with threat intelligence reports, enables you to prioritize security investments against threats, which concerns Government and National SOCs most." [@PrincipalSecurityResearcher]
 
-# | Conclusion
+# [ABSURDLY EVIL][REMEMBER TO REACT][YOU ARE TRAPPED ON THE EARTH SO YOU WILL EXPLODE] | Conclusion [USE WHAT IS DOMINANT IN A CULTURE TO CHANGE IT QUICKLY][I PULSE | I PRAY]
 
 with command and control dashboards managed by expert systems and language models
 
@@ -173,7 +310,9 @@ with command and control dashboards managed by expert systems and language model
 "The tendency to exaggerate the nature (and emergent capabilities) of the machine leads to our perpetuating a debilitating myth regarding machines which, far from enabling us to design strategic disruptive capabilities, only distracts us in potentially dangerous ways. We have to recognize that the privilege that we accord to the human and our perception of and belief in the unbridgeable ontological gap between humans and machines, which is underwritten by our onto-cultural conditioning, is misguided" [@guhaProfoundDiscontinuitiesHumans2023].
 
 
-
+"The battlefield on one hand, the kitchen on the other, comprise twinned sites of (in)security and the domestic spaces that are its opposite and object. iRobot delivers into these spaces “innovation” in the form of robot workers dedicated to the safety and comfort of their human proprietors: “from cleaning floors to disarming explosives, we constantly strive to find better ways to tackle dull, dirty and dangerous missions.” 24" [@@suchmanSituationalAwarenessDeadly2015, 17]
+"sight is never natural, that perspective is always political, and that the ability to zoom through landscapes or to designate borders is unevenly distributed, enabled by infrastructures of power that we would do well to remember and question." [Caren Kaplan via Suchman]
+**"How do bodies become persons within these apparatuses, and persons become targets?"** [@@suchmanSituationalAwarenessDeadly2015]
 
 
 

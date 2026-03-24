@@ -516,11 +516,11 @@ These list items must always contain six characters, so if a word is shorter tha
 
 Compare this with contemporary tokenization in the GPT-3.5-turbo/GPT-4 tokenizer, which takes the same prompt and represent it as:
 
-`['the', 'stars', 'are', 'cloud', 'ed', 'over', 'tonight' '.']`
+`['the', ' stars', ' are', ' cloud', 'ed', ' over', ' tonight']`
 
 It also represents this sentence as:
 
-`[791, 9958, 527, 9624, 291, 927, 18396, 13]`
+`[1820, 9958, 527, 9624, 291, 927, 18396]`
 
 Those numbers are the `token_id`s for each word, based on its position in a vocabulary list created during training.[^3] We could imagine the `token_id` as not unlike ELIZA's `I=HASH.(WORD.5)` which creates a numerical representation for each word or subword from the prompt (ELIZA, line 282). It uses the sequence reader called `SCANER=SEQRDR.(KEY(I))` (ELIZA, line 282, 285\) to lookup that word in a list of keywords it already created and stored, specific to the script it is running. When it finds a match, it can proceed to the rules matching that keyword. If no match is found, it looks to the next word in the list it created from the user prompt. We can also imagine that keyword list `KEY` is a bit like a vocabulary list for an LLM, except the DOCTOR script's list is much, much smaller (66 keywords) and composed by hand.[^4]
 
