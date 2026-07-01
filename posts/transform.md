@@ -275,7 +275,7 @@ In ["Google Maps Hack (Traffic Jam)"](https://simonweckert.com/googlemapshacks.h
 
 **Esoteric systems**, or DIY systems, are often a response from artists or communities when they cannot find the tools or resources they need in existing forms or formats. Creating their own alternatives in response to the lack they perceive, artists' esoteric systems can be inventive and generative, investigative and critical, or justice-seeking and recooperative, among other things. In ["Coem"](https://kayserifserif.place/work/coem/), Katherine Yang created an esoteric programming language that "imagines poetry as purposeful and code as emotional," working against general-purpose languages that prioritize efficiency over feeling. Developing a language with different core values demonstrates how value systems drive code design and inform the functions a language allows as well as what operations and outputs it can produce [@yangCoem]. In ["ImageNet Roulette"](https://paglen.studio/2020/04/29/imagenet-roulette/), Kate Crawford and Trevor Paglan created an interface for exploring a popular dataset used in many machine learning foundation models, in order to reveal the dataset's problematic taxonomies that classified people as, for example, "slattern, slut, slovenly woman, trollop" or "failure, loser, non-starter, unsuccessful person" [@crawfordExcavatingAIPolitics2019]. By building a system that let public audiences explore the dataset in an accessible way, they could bring personal understanding to the issues with how such datasets are created and used in many kinds of machine learning tasks. In my upcoming research project ["Unsupervised Pleasures"](https://unsupervisedpleasures), developed in collaboration with Emily Martinez, we are developing alternative approaches to conscientious dataset development based on intersectional principles and practices, in hopes that these shift the outputs when applied to language models (and as a provocation for imagining different model architectures as well).
 
-These forms of refusal replace what they reject with alterative visions for more liberatory technologies. Creative and social computing scholar and activist Dan McQuillan argues current AI systems exacerbates existing aspects of society that act violently to exclude and enclose. He calls for an anti-facist approach to AI that can [enact/enforce/instantiate] "a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we're already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good" [@mcquillanResistingAIAntifascist2022]. We can start with looking at how existing models, methods, and methodologies indicate the changes that need to be made, not in the models alone but in the world, argues digital democracy scholar Wendy H. K. Chun: "Machine learning and predictive models as they currently exist can also resist reduction, but only if we treat the gaps between their results and our realties as spaces for political action, not errors to be fixed. [We need to treat these models as we do global climate change models. GCC models offer us the most probable future, given past actions, not so that we accept that future, but so we work to change it. Only global climate change deniers seek to fix the model, rather than the world.]" [@chunDiscriminatingDataCorrelation2021]. As Chun and McQuillan suggest, we need more than the mere governance of emerging technologies as they are currently conceived, and instead require moves towards prefigurative practices. <!-- abolition --> Crafty tactical media can queer the use of machine learning systems and other emergent technologies in order to reveal their classificatory, reductionist logics. By applying techniques like aversarial use, extreme use, handcraft practices, and esoteric systems, a craft lens helps imagine and enact "a committment to radical alternatives." As trans\*formative systems suggests, such alternatives already exist, if we are willing to write, build, create, and cooperate in ways that reveal them and allow them to flourish.  
+These forms of refusal replace what they reject with alterative visions for more liberatory technologies. Creative and social computing scholar and activist Dan McQuillan argues current AI systems exacerbate existing aspects of society that act violently to exclude and enclose. He calls for an anti-facist approach to AI that can [enact/enforce/instantiate] "a positive refusal, a rejection of certain forms of apparatus and a commitment to radical alternatives. [...] Our ambition should stretch beyond the timid idea of AI governance, which accepts what we're already being subjected to, and instead look to transform our apparatuses into a technical practice that supports the common good" [@mcquillanResistingAIAntifascist2022]. We can start with looking at how existing models, methods, and methodologies indicate the changes that need to be made, not in the models alone but in the world, argues digital democracy scholar Wendy H. K. Chun: "Machine learning and predictive models as they currently exist can also resist reduction, but only if we treat the gaps between their results and our realties as spaces for political action, not errors to be fixed. [We need to treat these models as we do global climate change models. GCC models offer us the most probable future, given past actions, not so that we accept that future, but so we work to change it. Only global climate change deniers seek to fix the model, rather than the world.]" [@chunDiscriminatingDataCorrelation2021]. As Chun and McQuillan suggest, we need more than the mere governance of emerging technologies as they are currently conceived, and instead require moves towards prefigurative practices. <!-- abolition --> Crafty tactical media can queer the use of machine learning systems and other emergent technologies in order to reveal their classificatory, reductionist logics. By applying techniques like aversarial use, extreme use, handcraft practices, and esoteric systems, a craft lens helps imagine and enact "a committment to radical alternatives." As trans\*formative systems suggests, such alternatives already exist, if we are willing to write, build, create, and cooperate in ways that reveal them and allow them to flourish.  
 
 **Abolitionist action** that examines and rejects punitive structures, replacing them with supportive and sustaining systems of care. 
 
@@ -567,13 +567,24 @@ The problem of pseudorandomness, computation's inability to produce truly random
 <!-- Reclaim/Remind? Inform: Treat systems as tangible -->
 <!-- Reimagine: Unlearn defaults, question ingrained logics -->
 ## <!-- Reflect: -->Account for the whole: On systems <!--[XXX]-->
-<!-- Resist: Work against the grain -->
 
-<!-- Account for the whole . New materialisms-->
+Systems means software, human systems, systems thinking. To think in systems instead of object-orientations. New materialisms and co-operations. How to account for whole(s) across the stack, across disciplines, with new metaphors. Tracing and shifting these connections. The links not only the nodes that make the networks. 
 
-<!-- systems means software, human systems, systems thinking. To think in systems instead of  -->
+Knowledge graphs and power grabs, how we visualize and verbalize and vectorize to understand the world around us, whether in order to control it or to be in relation with it in other ways, to understand our existing relations with it and to soften them. 
 
-<!-- systems thinking, tracing connections, work across disciplines across communities -->
+How did we get the kinds of systems we have when so many of us do not fit within them, are broken by them, do not want them, cannot live under them? How do we transform them into other kinds of systems we can build with, thrive with? 
+
+>"Logistics, the science of whiteness"
+Where supply chain management, loss management management of the self and its sense of ownership, as a sixth sense, becomes part of a protocapitalist sense, discretizing in order to systematize and subsequently to rationalize and computationalize. 
+As opposed to nearbyness, the non-sense of touch, meshwork, diffusion, fully felt and responsible to/for each other, the scary embodiment of it and the non-self of it. 
+
+
+#### Infrastructure 
+vs materiality vs stacks vs sociality
+
+
+
+
 
 <!-- ### Techno-? -->
 <!-- ### [does techno go here?][What about/How did we get the systems we have?] -->
@@ -590,10 +601,11 @@ The problem of pseudorandomness, computation's inability to produce truly random
 <!-- [XXX] ADD The parts combine to enact the [ethics and tactics] described throughout this introduction.  -->
 
 
-
+[Resist][Reflect][Refuse][Reform][Reply][Remake][Reshape/Rework][Reimagine][Reclaim][Report][]
 
 <!-- Challenge: -->
 # Resist: Work against the grain (Conclusion)
+
 
 
 # References

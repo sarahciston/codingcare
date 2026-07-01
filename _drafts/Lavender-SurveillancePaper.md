@@ -1,6 +1,8 @@
 <!-- lavenderhaze-surveillancepaper.md -->
 
 <!-- # AI Decision Making from Battlefield to Desktop: Tracing the Techno-Military-Industrial Pipeline -->
+>"“We’re thinking thousands of these devices all operating on the same unified coordinate system in the increasingly electronic warfare-heavy operating environment,” Niantic’s Go-to-Market lead Hugh Hayden told Tectonic. “GPS-challenged or denied is one of the planned assumptions, and there’s a need to solve this problem for both airborne and ground-based platforms.” [@deweyVantorNianticSpatial2025]
+>"Niantic and Vantor respectively have the ground and aerial visual localization stuff covered, and this integrated capability aims to create a unified GPS-free operating system fusing the intel collected through camera feeds—matched against their respective 3D representations of the real world—to make sure all of the autonomous systems and soldier-borne tech are on the same page."
 
 
 # Anduril API
